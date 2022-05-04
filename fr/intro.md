@@ -1,19 +1,19 @@
-# Meeds DAO: The Work Metaverse#
+# Meeds DAO: Le Work Metaverse#
 
-**Date May 1st, 2022 - Version 1.0**
+**Date : 1er mai 2022 - Version 1.0**
 
-## Abstract##
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
+## Résumé##
+Le marché du travail actuel manque d'efficacité en raison des coûts de transaction élevés[^1][^2][^3] et des conflits d'intérêts fréquents entre l'employeur et l'employé.
 
-The Work Metaverse (the WoM) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
+Le Work Metaverse (WoM) propose un nouveau paradigme pour réduire les coûts de transactions et réinventer la relation employé, en comblant le fossé entre les entreprises traditionnelles et les DAOs.
 
-The WoM does that by introducing digital identities for both employer and employee and offering an innovative engagement reward system that would align their interests.
+Le WoM y parvient en introduisant des identités numériques tant pour l'employeur que pour l'employé et en proposant un système innovant pour récompenser l'engagement qui permettra d'aligner leurs intérêts.
 
 ## Introduction##
 
-The work market today is broken. It fails to satisfy both employees and employers.
+Le marché du travail ne fonctionne pas. Il a échoué à satisfaire tant les salariés que leurs employeurs.
 
-On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
+Du point de vue des collaborateurs, il est devenu difficile de trouver un emploi correspondant à leurs qualifications, à leur expérience. Le marché de l'emploi favorise certaines personnes plus aptes à valoriser leur expérience, alors que d'autres personnes moins en vue mais parfois plus compétents sont mises de côté. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
 
 Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
 
