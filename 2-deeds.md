@@ -122,10 +122,23 @@ The “mintium” model is the first of a kind - it goes further than the tradit
 In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
 
 A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start 2<sup>n</sup> months after the last Deed of the n-1 city was minted.
+| **City name** |  **Deeds** |  **Available** |  **Common** |  **Uncommon** | **Rare** | **Legendary** | 
+| --- | --- | --- | --- | --- | --- | --- | 
+| City 1: Tanit | 100 | T0 | 50 | 30 | 13 | 7 |   
+| City 2: Reshef| 1 000  | Tanit + 4 months | 600 | 300 | 94 | 6 |   
+| City 3: Ashtarte | 10 000 | Reshef + 8 months | 6 000 | 3 000 | 995 | 5 |   
+| City 4: Melqart | 100 000 | Ashtarte + 16 months | 60 000 | 30 000  | 9 996 | 4 |   
+| City 5: Eshmun | 1 000 000 | Melqart + 32 months | 600 000 | 300 000 | 99 997 | 3 |   
+| City 6: Kushor | 10 000 000 | Eshmum + 64 months | 6 000 000 | 3 000 000 | 999 998 | 2 |   
+| City 7: Hammon | 100 000 000 | Kushor + 128 months | 60 000 000 | 30 000 000 | 9 999 999 | 1 |   
+     
+A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community.
+It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
 
+Each city has its own govenance and operates its own DAO where the city’s Deeds’ owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
 
-   
-    
-    
-  
-    
+For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add Meeds powered food services, vacations services, etc...
+
+By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
+
+Ownsership transactions (Deed’s sales) will also be taxed 6% - 2.5% for the City, 2.5% for the Association and 1% for the original wallet that redeemed the Deed.
