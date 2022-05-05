@@ -39,9 +39,9 @@ As with any decentralized venture, the WoM proposal gains in value exponentially
 
 
 [^1]: Young S., “Transaction Cost Economics”
-[^2]: Jan Drahokoupil, Agnieszka Piasna “Work in the Platform Economy: Beyond Lower Transaction Costs”
-[^3]: Seth C. Oranburg , Liya Palagashvili “Transaction Cost Economics, Labor Law and the Gig Economy”
-[^4]: Michael C. Jensen, William H. Meckling “Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure”
-[^5]: R. Coase, “The nature of the firm”
-[^6]: Aaron Wright, Benjamin N. Cardozo School “The Rise of Decentralized Autonomou sOrganizations: Opportunities and Challenges”
+[^2]: Jan Drahokoupil, Agnieszka Piasna - [“Work in the Platform Economy: Beyond Lower Transaction Costs”](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
+[^3]: Seth C. Oranburg, Liya Palagashvili - [“Transaction Cost Economics, Labor Law and the Gig Economy”](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship)
+[^4]: Michael C. Jensen, William H. Meckling - [“Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure”](https://www.academia.edu/download/37786595/jensen-meckling.pdf)
+[^5]: R. Coase - [“The nature of the firm”](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
+[^6]: Aaron Wright, Benjamin N. Cardozo School - [“The Rise of Decentralized AutonomousOrganizations: Opportunities and Challenges”](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)
 
