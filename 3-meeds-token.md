@@ -48,3 +48,52 @@ After the minting period is over, the association will be sustained by :
 - perceiving transaction fees when a Deed distributes non Meeds tokens via WoM
 services.
 - by operating the Deeds that the association minted over time.
+
+
+## 3.5. Investors ##
+
+Investors help creating the WoM by providing liquidity and by staking Meeds and thus stabilizing its price level during the construction period. Both are encouraged through minting.
+
+**Liquidity providers**
+Currency liquidity management is key to the success of the project and several DeFi strategies will be used to optimize capital efficiency. We will start with incentives for staking MeedS/ETH LP pool tokens and will progressively introduce bonds to move towards a protocol owned liquidity. The latter would contribute to the association’s long term sustainability - as mentioned above, transaction fees will fund the association operating expenses such as cloud hosting.
+
+Every member also has the right to directly purchase a large amount of Meeds at a discount. The amount wired to the association account is converted to ETH and added along with the equivalent value of Meeds to the Liquidity Pool.
+
+**Staking / long-term investment**
+To encourage long term investment, staked Meeds are rewarded. When Meeds are staked, the staker gets some xMeeds tokens. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings. In practice, minted Meeds are effectively added to the holdings of the xMeeds smart contract and distributed to the xMeeds holder when they unstake.
+
+By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. Each staked Meeds (xMeeds) grants its owner a number of points per day. The longer the vested period the higher the number of points obtained per xMeeds. Each Deed is then redeemed in exchange for a number of points.
+
+Points are calculated using the formula below (where T stands for time, R for rate per
+minute) :
+_xMeedBalanceNoDecimals / ( xMeedBalanceNoDecimals + 12000) * elapsedTimeInSeconds / 240 * xMeedBalanceNoDecimals = ParseInteger( xMeedBalance (=returned by contract call balanceOf) /
+10^18)_
+
+The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably.
+
+| Card Type | Points | 100k xMeeds (321 pts / day) | 10k xMeeds (164 pts / day) | 1k xMeeds (28 pts / day) |
+| --- | --- | --- | --- | --- |
+| Common | 8 000 | 1 month (25 days) |  2 months (49 days) | 9 months |
+| Uncommon | 32 000 | 3 months (100 days) | 6 months | 3 years |
+| Rare | 50 000 | 5 months (156 days) | 10 months | 5 years |
+| Legendary | 100 000 | 10 months (311 days) | 20 months | 10 years |
+
+## 3.6. Meeds DAO governance ##
+
+Meeds token holders need to stake tokens in order to vote on the Meeds DAO decisions such as managing the minting budget or electing DAO board members (annual mandate).
+
+## 3.7. Decentralized finance (DeFi) user services ##
+
+The Work Metaverse will introduce the blockchain world to many people who do not use it today.
+
+Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
+
+Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
+* The ability to stake Meeds tokens and get yields (generate revenues)
+* The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a Fuse pool https://app.rari.capital/fuse then registering the Meeds token to AAVE - https://aave.com/).
+* A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. (This card could also be used by organizations to fund employee wallets in order to manage employee benefits such
+* as restaurants, transportation and any type of expenses.)
+So not only many new users will discover the blockchain world, they will also discover a
+bankless world.
+
+ 
