@@ -1,15 +1,15 @@
-# Meeds DAO: Le Work Metaverse#
+# Meeds DAO: The Work Metaverse
 
 **Date : 1er mai 2022 - Version 1.0**
 
-## Résumé##
+## Abstract
 Le marché du travail actuel manque d'efficacité en raison des coûts de transaction élevés[^1][^2][^3] et des conflits d'intérêts fréquents entre l'employeur et l'employé.
 
 Le Work Metaverse (WoM) propose un nouveau paradigme pour réduire les coûts de transactions et réinventer la relation employé, en comblant le fossé entre les entreprises traditionnelles et les DAOs.
 
 Le WoM y parvient en introduisant des identités numériques tant pour l'employeur que pour l'employé et en proposant un système innovant pour récompenser l'engagement qui permettra d'aligner leurs intérêts.
 
-## Introduction##
+## Introduction
 
 Le marché du travail ne fonctionne pas. Il a échoué à satisfaire tant les salariés que leurs employeurs.
 
