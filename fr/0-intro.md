@@ -3,7 +3,7 @@
 **Date : 1er mai 2022 - Version 1.0**
 
 ## Résumé
-Le marché du travail actuel manque d'efficacité en raison des coûts de transaction élevés[^1][^2][^3] et des conflits d'intérêts fréquents entre l'employeur et l'employé.
+Le marché du travail actuel manque d’efficience du fait d’une part des coûts de transaction élevés[^1][^2][^3] et d’autre part, des conflits d’intérêts entre l’employeur et le salarié.
 
 Le Work Metaverse (WoM) propose un nouveau paradigme pour réduire les coûts de transactions et réinventer la relation employé, en comblant le fossé entre les entreprises traditionnelles et les DAOs.
 
@@ -13,11 +13,11 @@ Le WoM y parvient en introduisant des identités numériques tant pour l'employe
 
 Le marché du travail ne fonctionne pas. Il a échoué à satisfaire tant les salariés que leurs employeurs.
 
-Du point de vue des employés, il est devenu difficile de trouver des emplois adéquats. Le marché de l'emploi favorise certaines personnes plus aptes à valoriser leur expérience, alors que d'autres personnes moins en vue mais parfois plus compétents sont mises de côté. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. Le marché du travail manque également de transparence sur d’autres sujets tels que les emplois disponibles et les conditions de travail.
+Du point de vue des employés, il est devenu difficile de trouver des emplois adéquats. Le marché favorise certains individus plus aptes à valoriser leur expérience, alors que d’autres personnes moins en vue mais parfois plus compétentes sont mises de côté. Nombre de biais l’expliquent : discrimination raciste, sexiste, handicap, introversion des individus, etc.  Le marché du travail manque également de transparence sur d’autres sujets tels que les emplois disponibles et les conditions de travail.
 
-Une fois recruté, les libertés personnelles du nouvel embauché sont restreintes en échange d’une compensation délimitée. Employees have little say in their work hours, workplace, work content or work methods. Et cette dite compensation n’est que trop peu rarement liée à leur réelle implication ou valeur. En outre, les règles de rétribution manquent de transparence et par conséquent, sont identifiées comme injustes. Sans compter que rétribution et carrière professionnelles sont également dépendantes du facteur humain : la bonne foi et l’objectivité du manager direct du salarié.
+Une fois recruté, les libertés personnelles du nouvel embauché sont restreintes en échange d’une compensation délimitée. Il n’a que peu d'influence sur ses horaires de travail, son environnement de travail, le contenu ou les méthodes de travail. Et cette dite compensation n’est que trop peu rarement liée à sa réelle implication ou sa valeur. En outre, les règles de rétribution manquent de transparence et par conséquent, sont perçues comme injustes. Sans compter que rétribution et carrière professionnelles sont également dépendantes du facteur humain : la bonne foi et l’objectivité du manager direct du salarié.
 
-Les employeurs, par ailleurs, rencontrent des difficultés dans l’identification des talents et le recrutement de personnes ayant des compétences adéquates à la fonction attendue. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
+Les employeurs, par ailleurs, rencontrent des difficultés dans l’identification des talents et le recrutement de personnes ayant des compétences adéquates à la fonction attendue. Il n’existe aucun moyen objectif de déterminer les compétences du potentiel candidat ou d’identifier les personnes en dehors du bassin d’embauche traditionnel des employeurs.
 
 Ces derniers doivent également gérer le manque de fidélité de leurs salariés ainsi que les mouvements de personnel. Ce qui par conséquent augmente les coûts de recrutement et d’intégration.
 
