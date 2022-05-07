@@ -1,32 +1,32 @@
 
-# 2. Deeds NFT - Work Metaverse Organizations
+# 2. Deeds NFT - Organisations dans le Work Metaverse
 
-## 2.1. NFT – Deeds defined
-A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+## 2.1. Définition des NFT - Deeds
+Un jeton non fongible (NFT) est un jeton unique qui représente un bien. Dans le WoM, un Deed est utilisé comme titre de propriété. Chaque Deed donne à son propriétaire un droit d'accès à plusieurs services - par exemple, un accès à un espace de travail digital motorisé par le logiciel Meeds ainsi qu'à des récompenses pour l'engagement généré dans le Deed.
 
-The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM.
+Le WoM accueille toutes sortes d'organisations - des DAO, des sociétés traditionnelles, des associations, des groupes de réflexion, des partenariats, voire même des compagnies de théâtre, des groupes de projets, des écoles, etc. Le Deed incarne leur représentation numérique dans le WoM.
 
-## 2.2. Deeds supply
-The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of Meeds rewarding (Minting Power). The term ‘user’ here and hereafter designates any type of employee, worker, freelancer, volunteer etc.
+## 2.2. Approvisionnement des Deeds
+Le WoM proposera à terme un nombre fini de Deeds. Chaque Deed prédéfinit un nombre maximum d’utilisateurs et offre une capacité de récompense (appelée la force de frappe (Minting Power). Le terme « utilisateur » désigne tout type de salarié, employé ou indépendant, bénévole, etc.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
+Il existe quatre types de Deeds, chacun fournissant des capacités différentes en termes de nombre d'utilisateurs, de droits de vote dans une ville (voir 2.7) ou de force de frappe, les plus rares étant les plus puissants :
 
 
-| **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
-| ------------- | ------------- | ----------------- | ------------ | ---------------------- |
-| Commun        | 100           | 1                 | ~ 90%        | 1                      |
-| Peu commun    | 1000          | 1.1               | ~ 9%         | 10                     |
-| Rare          | 10 000        | 1.3               | ~ 1%         | 100                    |
-| Légendaire    | illimité      | 2                 | < 0.1 %      | 1000                   |
+| **Type de Deed** | **Utilisateurs max.** | **Force de frappe** | **Rareté** | **Droits de vote** |
+| ---------------- | --------------------- | ------------------- | ---------- | ------------------ |
+| Commun           | 100                   | 1                   | ~ 90%      | 1                  |
+| Peu commun       | 1000                  | 1.1                 | ~ 9%       | 10                 |
+| Rare             | 10 000                | 1.3                 | ~ 1%       | 100                |
+| Légendaire       | illimité              | 2                   | < 0.1 %    | 1000               |
 
-## 2.3. Deeds ownership
+## 2.3. Propriété des Deeds
 
-A Deed gives its owner the right to USE it, RENT it, or SELL it.
-- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
-- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
-- SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
+Un Deed donne à son propriétaire le droit de l'utiliser, de le louer, ou de le vendre.
+- UTILISER – Les propriétaires du Deed peuvent l'utiliser directement pour leur organisation, en fournissant des services à ses utilisateurs.
+- LOUER - Les propriétaires du Deed peuvent également le louer à une organisation afin de générer des revenus passifs.
+- VENDRE - Un Deed peut être vendu sur un marché secondaire tel que [OpenSea](https://opensea.io).
 
-Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
+En tant que détenteur actif ou locataire d’un Deed, l’organisation est récompensée par des jetons Meeds, grâce à un modèle innovant de « mintium » décrit ci-dessous (partie 2.6).
 
 ## 2.4. Deeds services, engagement/rewards engine
 
