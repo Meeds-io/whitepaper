@@ -28,9 +28,9 @@ Un Deed donne à son propriétaire le droit de l'utiliser, de le louer, ou de le
 
 En tant que détenteur actif ou locataire d’un Deed, l’organisation est récompensée par des jetons Meeds, grâce à un modèle innovant de « mintium » décrit ci-dessous (partie 2.6).
 
-## 2.4. Deeds services, engagement/rewards engine
+## 2.4. Services de Deeds, le moteur d'engagement/récompenses
 
-In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
+Dans un marché de plus en plus concurrentiel, afin d'attirer et de retenir les talents et de maximiser leurs apports, les organisations doivent encourager leurs utilisateurs à aller au-delà de la simple rémunération. The WoM provides an innovative framework to do that by tokenizing work engagement.
 
 Each Deed’s holder or renter can provide tools and services to its users, who earn engagement points that can be fine-tuned to the Deed’s priorities. Periodically, points are converted into Meeds (and - for DAOs - potentially another token), based on the Deed’s set budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
 
