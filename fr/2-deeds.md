@@ -41,19 +41,19 @@ Pour commencer, les services suivants sont fournis par l'association Meeds gratu
 - Kudos - Les kudos peuvent être attribués par les utilisateurs les uns aux autres, comme un remerciement et un signe de reconnaissance. Comme les kudos disponibles à distribuer sont limités (3 par semaine par exemple), ils sont rares et précieux. Comme les autres actions, les kudos rapportent des points. De cette façon, les employés sont habilités à récompenser leurs collègues.
 - Des outils de collaboration – espaces de travail, flux social, tâches et notes – permettent aux gens de travailler ensemble sur des projets.
 - Portefeuille – les utilisateurs sont dotés d'un portefeuille Ethereum sécurisé pour stocker leurs Meeds. En option, pour les utilisateurs plus avancés, un portefeuille Metamask peut être utilisé.
-- Store – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
-- Analytics – to analyze and follow engagement within the Deed.
-- Connectors, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
+- Boutique – une place de marché interne pour dépenser ses Meeds dans des avantages fournis par l'organisation ou par l'écosystème Meeds.
+- Analytiques – pour analyser et suivre l’engagement dans le Deed.
+- Des connecteurs, branchés sur le moteur de récompense - les utilisateurs obtiennent des points d'engagement via des actions dans un autre logiciel - par exemple pour valider du code dans GitHub.
 
-Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
+Certains des outils et services ci-dessus sont déjà décentralisés, d'autres non. L'objectif ultime est de fournir tous les services de manière décentralisée, ce que nous ferons progressivement au fur et à mesure que la technologie sous-jacente évoluera.
 
-New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
-- CRM software – salespeople would get engagement points for working on opportunities.
-- Accounting software – accountants would get engagement points for keeping books.
-- Clocking terminal – factory worker can get points for factory work time.
+De nouveaux services peuvent être branchés dans le moteur de récompense via les API. Les exemples sont innombrables et peuvent inclure pratiquement n'importe quel logiciel ou service :
+- Logiciel de CRM – Les commerciaux obtiendraient des points d’engagement pour travailler sur les opportunités.
+- Logiciel de comptabilité – Les comptables obtiendraient des points d’engagement pour la tenue des livres de compte.
+- Pointeuse – Le travailleur d’usine peut obtenir des points pour le temps de travail extra passé l’usine.
 - Etc.
 
-Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
+En outre, l'engagement produit via le connecteur contribue au score d'engagement global de l'organisation qui sera facteur du taux de distribution des récompenses aux membres, tel que décrit dans la formule ci-dessous.  Pour cela, le connecteur doit être approuvé par l'association Meeds. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
 
 The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
 - Training courses
