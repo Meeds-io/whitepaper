@@ -2,9 +2,9 @@
 # 2. Deeds NFT - Organisations dans le Work Metaverse
 
 ## 2.1. Définition des NFT - Deeds
-Un jeton non fongible (NFT) est un jeton unique qui représente un bien. Dans le WoM, un Deed est utilisé comme titre de propriété. Chaque Deed donne à son propriétaire un droit d'accès à plusieurs services - par exemple, un accès à un espace de travail digital motorisé par le logiciel Meeds ainsi qu'à des récompenses pour l'engagement généré dans le Deed.
+Un jeton non fongible (NFT pour Non Fungible Token) est un jeton unique qui représente un bien. Dans le WoM, un Deed est utilisé comme titre de propriété. Chaque Deed donne à son propriétaire un droit d'accès à plusieurs services - par exemple, un accès à un espace de travail numérique supporté par le logiciel Meeds ainsi que des récompenses pour l'engagement généré dans le Deed.
 
-Le WoM accueille toutes sortes d'organisations - des DAO, des sociétés traditionnelles, des associations, des groupes de réflexion, des partenariats, voire même des compagnies de théâtre, des groupes de projets, des écoles, etc. Le Deed incarne leur représentation numérique dans le WoM.
+Le WoM accueille tout type d'organisations - des DAO, des entreprises traditionnelles, des associations, des groupes de réflexion, des partenariats, voire même des compagnies de théâtre, des groupes de projets, des écoles, etc. Le Deed incarne leur représentation numérique dans le WoM.
 
 ## 2.2. Approvisionnement des Deeds
 Le WoM proposera à terme un nombre fini de Deeds. Chaque Deed prédéfinit un nombre maximum d’utilisateurs et offre une capacité de récompense (appelée la force de frappe (Minting Power). Le terme « utilisateur » désigne tout type de salarié, employé ou indépendant, bénévole, etc.
@@ -17,7 +17,7 @@ Il existe quatre types de Deeds, chacun fournissant des capacités différentes 
 | Commun           | 100                   | 1                   | ~ 90%      | 1                  |
 | Peu commun       | 1000                  | 1.1                 | ~ 9%       | 10                 |
 | Rare             | 10 000                | 1.3                 | ~ 1%       | 100                |
-| Légendaire       | illimité              | 2                   | < 0.1 %    | 1000               |
+| Légendaire       | Illimité              | 2                   | < 0.1 %    | 1000               |
 
 ## 2.3. Propriété des Deeds
 
@@ -30,7 +30,7 @@ En tant que détenteur actif ou locataire d’un Deed, l’organisation est réc
 
 ## 2.4. Services de Deeds, le moteur d'engagement/récompenses
 
-Dans un marché de plus en plus concurrentiel, afin d'attirer et de retenir les talents et de maximiser leurs apports, les organisations doivent encourager leurs utilisateurs à aller au-delà de la simple rémunération. Pour ce faire, le WoM propose un cadre innovant permetant de materialsier («tokeniser») l'engagement dans les activités proposées dans le Deed.
+Dans un marché de plus en plus concurrentiel, pour attirer puis retenir les talents et pour maximiser leurs apports, les organisations doivent motiver leurs utilisateurs bien au-delà de la simple rémunération. Pour ce faire, le WoM propose un cadre innovant permetant de materialsier («tokeniser») l'engagement dans les activités proposées dans le Deed.
 
 Chaque titulaire ou locataire peut fournir des outils et des services à ses utilisateurs, qui gagnent des points d’engagement qui peuvent être paramétrés selon les priorités de l'organisation. Périodiquement, les points sont convertis en Meeds (et - pour les DAOs - potentiellement un autre jeton), en fonction du budget fixé à l'avance. De cette manière, l’engagement des utilisateurs dans les activités importantes pour l’organisation est récompensé.
 
