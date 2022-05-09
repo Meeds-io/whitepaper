@@ -77,52 +77,52 @@ En plus des Meeds, il est également possible de distribuer d’autres jetons (p
 
 ## 2.6. Le modèle "Mintium" - Récompenser l'engagement au travail
 
-By engaging their users in the WoM, Deeds get compensated through an innovative mintium model.
+En engageant ses utilisateurs dans le WoM, les Deeds sont récompensés à travers un modèle innovant de mintium.
 
-Engagement points, gained by the Deeds’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Deeds. Even though the Deed can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
+Les points d’engagement, recueillis par les utilisateurs des Deeds, participent à au score global d’engagement, calculé par l’association Meeds. L’index utilise le même principe pour tous les Deeds. Même si chaque Deed peut modifier ses programmes de rétribution de points en promouvant une action plutôt qu’une autre, ces changements ne seront pas pris en compte dans le score global d’engagement.
 
-Each week, a certain amount of Meeds is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Deeds. Some Deeds get an additional boost depending on their type. The Deeds that claim their Meeds over the week, receive them. The unclaimed Meeds are added to the following week’s global distribution amount.
+Chaque semaine, un certain montant de Meeds sera alloué à cette force de frappe global du WoM liée à l’engagement. Il sera calculé régulièrement, au pro-rata de la participation de chaque Deeds. En complément, certains Deeds obtiendront un abondement en fonction de leur type d’engagement. Les Deeds qui réclameront leurs Meeds au cours de la semaine, les recevront ainsi. Les Meeds non réclamés seront ajoutés au montant global de rétribution de la semaine suivante.
 
-The engagement index is a function of the engagement, the number of engaged users and the distribution.
+L’index d’engagement dépend de l’engagement général, du nombre d’utilisateurs engagés et de la distribution.
 
-* **Engagement** – total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
-* **Engaged users** – users that contributed to points during the week, by at least one action.
-* **Average Engagement Rate** = Engagement/Engaged Users.
-* **Distribution rate** – if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
-* **Distribution spread** – if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
+* **Engagement** - – Nombre total d’actions cumulées par les utilisateurs sur la semaine dans le Deed. (à chaque niveau de Deed, chaque action est convertie en points d’engagement, quelques actions pesant plus que d’autres. Au niveau de l’index, toutes les actions sont rendues linéaires).
+* **Utilisateurs engagés** - Utilisateurs qui contribuent tout au long de la semaine, en réalisant au moins une action.
+* **Taux moyen d'engagement** = Engagement / Utilisateurs engagés.
+* **Taux de distribution** - Si un Deed a reçu des Meeds produits par les activités de la semaine précédente, c’est le pourcentage de Meeds redistribué à ses utilisateurs. Le taux peut être en deçà de 100 si la distribution a été retardée.
+* **Taux de difusion redistributive** - Si un Deed a reçu des Meeds produits par les activités de la semaine précédente, c’est le pourcentage d’utilisateurs qui a reçu des Meeds depuis un ensemble d’utilisateurs.
 
-**Deed’s Engagement Score = Engagement * (Average Engagement Rate Deed / Average Engagement Rate WoM) * Distribution rate * Distribution spread * Minting power**
+**Score d’engagement des Deeds = Engagement * (Taux moyen d’engagement du Deed / Taux moyen d’engagement du WoM) * Taux de distribution * Taux de diffusion redistributive * Force de frappe**
 
-The global engagement index used to distribute minted Meeds among the Deeds is the sum of all Deeds’ engagement scores for the week.
+L’index global d’engagement utilisé pour distribuer les Meeds minés depuis les Deeds est la somme des scores d’engagement de tous les Deeds sur la semaine.
 
-The formula above is simple and designed to favor Deeds with :
-- numerous engaged users (engagement)
-- who share the whole of the minting income (distribution rate) with their users fairly (distribution spread).
+La formule plus haut est simple et elle conçue pour privilégier les Deeds qui :
+- ont de nombreux utilisateurs engagés (engagement)
+- partagent l’ensemble du revenu produit (taux de distribution) avec leurs utilisateurs de manière équitable (taux de diffusion redistributive).
 
-Boosters are in place :
-- For organizations with the highest engagement, regardless of their size (engagement rate in relation to the WoM)
-- For rarer Deeds
+Des abondements sont en place :
+- Pour les organisations avec un haut taux d’engagement, peu importe leur taille (taux d’engagement associé au WoM)
+- Pour les Deeds rares
 
-The association reserves the right to change the formula if required – if some specific use cases arise for instance. The association can also blacklist any Deed that hijacks the formula to its unique benefit.
+L’association se réserve le droit de changer la formule si besoin – si de nouveaux cas d’usage spécifiques sont identifiés par exemple. L’association peut également exclure tout Deed qui détournerait la formule pour son propre bénéfice.
 
-As the Deeds are rewarded with Meeds and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the Deeds and their users are aligned in the same virtuous revenue sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
+Comme les Deeds sont récompensés avec les Meeds et qu’ils sont motivés à en redistribuer aux utilisateurs contre leur engagement, les intérêts des Deeds et des utilisateurs est alignés dans un même cycle vertueux de partage des revenus. Ainsi, le WoM offre un nouveau modèle du travail, qui reconfigure la relation employeur / employé en partenariat.
 
-The “mintium” model is the first of a kind - it goes further than the traditional freemium one, as not only the services are free to use but both the organizations and their users are rewarded for using them.
+Le modèle « Mintium » est le premier du genre. Cela va plus loin que les traditionnels modèles en freemium, en ce sens que non seulement, les services sont libres d’utilisation mais aussi que les organisations et leurs utilisateurs sont rétribués et récompensés pour leur propre usage.
 
-## 2.7. Cities and governance
+## 2.7. Villes et gouvernance
 
-In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
+Dans le WoM, les Deeds sont créés petit à petit au sein des villes virtuelles. Seulement la première ville existera au début. Les autres seront créées au fur et à mesure, l'une après l'autre. Dans l'ensemble du WoM, il y aura seulement 7 villes, chacune incluant un nombre limité de chacune des types de Deeds.
 
-A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start 2<sup>n</sup> months after the last Deed of the n-1 city was minted.
-| **City name**    | **Deeds**   | **Available**        | **Common** | **Uncommon** | **Rare**  | **Legendary** |
-| ---------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
-| City 1: Tanit    | 100         | T0                   | 50         | 30           | 13        | 7             |
-| City 2: Reshef   | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
-| City 3: Ashtarte | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
-| City 4: Melqart  | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
-| City 5: Eshmun   | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
-| City 6: Kushor   | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
-| City 7: Hammon   | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
+Une ville sera considérée complète, une fois que tous les Deeds seront générés et produits. Ensuite, le minage de chaque nouvelle ville débutera 2<sup>n</sup> mois après que le dernier Deed de la précédente ville ait été produit.
+| **Nom de la ville** | **Deeds**   | **Disponible**     | **Commun** | **Non commun** | **Rare**  | **Légendaire** |
+| ------------------- | ----------- | ------------------ | ---------- | -------------- | --------- | -------------- |
+| Ville 1 : Tanit     | 100         | T0                 | 50         | 30             | 13        | 7              |
+| Ville 2 : Reshef    | 1 000       | Tanit + 4 mois     | 600        | 300            | 94        | 6              |
+| Ville 3 : Ashtarte  | 10 000      | Reshef + 8 mois    | 6 000      | 3 000          | 995       | 5              |
+| Ville 4 : Melqart   | 100 000     | Ashtarte + 16 mois | 60 000     | 30 000         | 9 996     | 4              |
+| Ville 5 : Eshmun    | 1 000 000   | Melqart + 32 mois  | 600 000    | 300 000        | 99 997    | 3              |
+| Ville 6 : Kushor    | 10 000 000  | Eshmum + 64 mois   | 6 000 000  | 3 000 000      | 999 998   | 2              |
+| Ville 7 : Hammon    | 100 000 000 | Kushor + 128 mois  | 60 000 000 | 30 000 000     | 9 999 999 | 1              |
 
 A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
 
