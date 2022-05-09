@@ -39,10 +39,10 @@ Pour commencer, les services suivants sont fournis gratuitement par l'associatio
 - Challenges – Des défis personnalisables peuvent être mis en place pour représenter des accomplissements significatifs difficilement détectables automatiquement. Les challenges sont prédéfinis par une personne et peuvent être relevés et déclarés comme réussis par une autre. Les challenges ont aussi une valeur en points considérés dans des programmes d’engagement personnalisables.
 - Programmes d'engagement - Les organisations peuvent créer leurs propres programmes d'engagement correspondant à leur objectifs et leur priorités. Les programmes regroupent des actions automatiques et des challenges déclarés manuellement. Chacun d'eux a un budget défini en Meeds. Les points gagnés périodiquement par chaque utilisateur dans chaque programme d'engagement sont convertis en Meeds, selon le budget de ce programme.
 - Kudos - Les kudos peuvent être attribués par les utilisateurs les uns aux autres, comme un remerciement et un signe de reconnaissance. Considérant que la distribution de kudos est limitée (3 par semaine par exemple), ils sont rares et précieux. Comme les autres actions, les kudos rapportent des points. De cette façon, les employés sont encouragés à récompenser leurs collègues et reconnaitre leurs contributions.
-- Des outils de collaboration – espaces de travail, flux social, tâches et notes – permettent aux gens de travailler ensemble sur des projets.
-- Portefeuille – les utilisateurs sont dotés d'un portefeuille Ethereum sécurisé pour stocker leurs Meeds. En option, pour les utilisateurs plus avancés, un portefeuille Metamask peut être utilisé.
-- Boutique – une place de marché interne pour dépenser ses Meeds dans des avantages fournis par l'organisation ou par l'écosystème Meeds.
-- Analytiques – pour analyser et suivre l’engagement dans le Deed.
+- Des outils de collaboration – espaces de travail, flux social, tâches et notes – permettent aux personnes de travailler ensemble sur des projets.
+- Portefeuille – Les utilisateurs sont dotés d'un portefeuille Ethereum sécurisé pour stocker leurs Meeds. En option, pour les utilisateurs plus avancés, un portefeuille Metamask peut être utilisé.
+- Boutique – Une place de marché interne pour dépenser ses Meeds dans des avantages fournis par l'organisation ou par l'écosystème Meeds.
+- Analytiques – Pour analyser et suivre l’engagement dans le Deed.
 - Des connecteurs, branchés sur le moteur de récompense - les utilisateurs obtiennent des points d'engagement via des actions dans un autre logiciel - par exemple pour valider du code dans GitHub.
 
 Certains des outils et services ci-dessus sont déjà décentralisés, d'autres non. L'objectif ultime est de fournir tous les services de manière décentralisée, ce que nous ferons progressivement au fur et à mesure que la technologie sous-jacente évoluera.
@@ -50,10 +50,10 @@ Certains des outils et services ci-dessus sont déjà décentralisés, d'autres 
 De nouveaux services peuvent être branchés dans le moteur de récompense via les API. Les exemples sont innombrables et peuvent inclure pratiquement n'importe quel logiciel ou service :
 - Logiciel de CRM – Les commerciaux obtiendraient des points d’engagement pour travailler sur les opportunités.
 - Logiciel de comptabilité – Les comptables obtiendraient des points d’engagement pour la tenue des livres de compte.
-- Pointeuse – Le travailleur d’usine peut obtenir des points pour le temps de travail extra passé l’usine.
+- Pointeuse – Le travailleur d’usine peut obtenir des points pour le temps de travail extra dans l’usine.
 - Etc.
 
-En outre, l'engagement produit via le connecteur contribue au score d'engagement global de l'organisation qui sera facteur du taux de distribution des récompenses aux membres, tel que décrit dans la formule ci-dessous.  Pour cela, le connecteur doit être approuvé par l'association Meeds. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
+En outre, l'engagement produit via le connecteur contribue au score d'engagement global de l'organisation qui sera facteur du taux de distribution des récompenses aux membres, tel que décrit dans la formule ci-dessous.  Pour cela, le connecteur doit être approuvé par l'association Meeds. L'association évalue le connecteur, approuve son algorithme et acquiert sa propriété contre l'octroi de Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
 
 The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
 - Training courses
