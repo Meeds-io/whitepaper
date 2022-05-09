@@ -1,15 +1,15 @@
-# Meeds DAO: The Work Metaverse
+# ميدس داو: ميتافرس العمل (Meeds DAO: The Work Metaverse)
 
-**Date May 1st, 2022 - Version 1.0**
+**تاريخ 1 ماي 2022 - الإصدار 1.0**
 
-## Abstract
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
+## نبذة مختصرة
+سوق العمل اليوم يفتقر إلى الكفاءة بسبب ارتفاع تكاليف المعاملات[^1][^2][^3]</sup> والتضارب المتكرر في المصالح بين صاحب العمل والعامل.
 
-The Work Metaverse (the WoM) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
+نموذج "ميتافرس العمل" ("the WoM" ,"The Work Metavers") يقترح نموذجاً جديداً من شأنه خفض تكاليف المعاملات وإعادة توطيد علاقة العمل و سد الفجوة بين الشركات التقليدية و المنظمات المستقلة اللامركزية DAO.
 
-The WoM does that by introducing digital identities for both employer and employee and offering an innovative engagement reward system that would align their interests.
+و يقوم نموذج " العمل ميتافرس" على إدخال الهويات الرقمية لكل من صاحب العمل و الموظف وتقديم نظام مكافأة للمشاركة مبتكر من شأنه أن يوائم بين مصالحهما.
 
-## Introduction
+## المقدمة
 
 The work market today is broken. It fails to satisfy both employees and employers.
 
