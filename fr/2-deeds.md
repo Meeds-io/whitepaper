@@ -53,29 +53,29 @@ De nouveaux services peuvent être branchés dans le moteur de récompense via l
 - Pointeuse – Le travailleur d’usine peut obtenir des points pour le temps de travail extra dans l’usine.
 - Etc.
 
-En outre, l'engagement produit via le connecteur contribue au score d'engagement global de l'organisation qui sera facteur du taux de distribution des récompenses aux membres, tel que décrit dans la formule ci-dessous.  Pour cela, le connecteur doit être approuvé par l'association Meeds. L'association évalue le connecteur, approuve son algorithme et acquiert sa propriété contre l'octroi de Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
+En outre, l'engagement produit via le connecteur contribue au score d'engagement global de l'organisation qui sera facteur du taux de distribution des récompenses aux membres, tel que décrit dans la formule ci-dessous.  Pour cela, le connecteur doit être approuvé par l'association Meeds. L'association évalue le connecteur, approuve son algorithme et acquiert sa propriété contre l'octroi de Meeds. Il fait ensuite partie des services fournis par l'association tout comme il est inclut dans l'index global d'engagement. Tout aute Deed peut utiliser le même connecteur et le même fonctionnement de récompenses pour ses développeurs.
 
-The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
-- Training courses
-- Gym memberships
-- Vacation packages
-- Lunch with a leader in the organization
-- Physical office space
+Le propriétaire ou le loueur de Deed peut enrichir sa place de marché avec ses propres produits et services, en le connectant par exemple à une offre en ligne, etc. Ici encore les possibilités sont infinies :
+- Sessions de formation
+- Accès à une salle de sport
+- Chèques vacances
+- Repas avec un dirigeant de l'organisation
+- Espace de travail physique
 - Etc
 
-The store functions through the use of Meeds so that Meeds are partially returned to the Deed.
+Le magasin fonctionne à travers l'utilisation de Meeds. Ainsi, la cryptomonnaie retourne partiellement dans le Deed.
 
-## 2.5. Rewards – Meeds and other tokens
+## 2.5. Récompenses - Meeds et autres jetons
 
-The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs. Indeed, each Deed can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
+Le WoM récompense l’engagement utilisateur, en gamifiant les outils numériques de travail ainsi qu’en attribuant des points et des Meeds en lien avec l’engagement au travail. Les services connectés au moteur de récompenses et de l’engagement permettent d’attribuer des points à chaque utilisateur, selon leur niveau d’engagement et en lien avec les programmes d’engagement de chaque Deed. En effet, chaque Deed peut personnaliser le nombre de points accordés pour chaque type d’activité. Ainsi, délivrer du code sur GitHub pourra valoir 10 points pour une société informatique et inversement, dans une agence digitale, cela pourrait valoir seulement 5 points alors que retweeter des infos pourrait valoir 10 points.
 
-Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Deed is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
+De manière périodique, le moteur de récompenses convertit les points en Meeds selon le budget et les autres règles d’attribution pour finalement récompenser les utilisateurs via leur portefeuille numérique. Le Deed n’est pas tenu de distribuer des Meeds ; il est possible d’utiliser les systèmes d’engagement proposés pour soutenir d’autres programmes de rétribution. En revanche, distribuer des Meeds améliorera sa force de frappe.
 
-Moreover, the Deed does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
+Par ailleurs, le Deed n’a pas nécessairement besoin d’acquérir des Meeds pour les redistribuer et alimenter ses programmes d’engagement, puisqu’il est possible d’en obtenir depuis le modèle « Mintium », décrit plus bas.
 
-In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
+En plus des Meeds, il est également possible de distribuer d’autres jetons (par exemple, celui de la DAO) en se basant sur les mécanismes proposés de l’engagement. Dans ce cas, la distribution sera soumise à 5% de frais de transaction (sous forme du jeton de ladite DAO) pour le bénéfice de l’association Meeds.
 
-## 2.6. The “mintium” model – tokenize work engagement
+## 2.6. Le modèle "Mintium" - Récompenser l'engagement au travail
 
 By engaging their users in the WoM, Deeds get compensated through an innovative mintium model.
 
