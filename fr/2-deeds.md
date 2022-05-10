@@ -30,7 +30,7 @@ En tant que détenteur actif ou locataire d’un Deed, l’organisation est réc
 
 ## 2.4. Services de Deeds, le moteur d'engagement/récompenses
 
-Dans un marché de plus en plus concurrentiel, pour attirer puis retenir les talents et pour maximiser leurs apports, les organisations doivent motiver leurs utilisateurs bien au-delà de la simple rémunération. Pour ce faire, le WoM propose un cadre innovant permettant de matérialiser (pour "tokeniser") l'engagement à travers les activités proposées dans le Deed et de manière générale en dehors.
+Dans un marché de plus en plus concurrentiel, pour attirer puis retenir les talents et pour maximiser leurs apports, les organisations doivent motiver leurs utilisateurs bien au-delà de la simple rémunération. Pour ce faire, le WoM propose un cadre innovant permetant de matérialser («tokeniser») l'engagement dans les activités proposées dans le Deed.
 
 Chaque titulaire ou locataire peut fournir des outils et des services à ses utilisateurs, qui gagnent des points d’engagement qui peuvent être paramétrés selon les priorités de l'organisation. Périodiquement, les points sont convertis en Meeds (et - pour les DAOs - potentiellement un autre jeton), en fonction du budget fixé à l'avance. De cette manière, l’engagement des utilisateurs dans les activités considérées importantes pour l’organisation est récompensé.
 
@@ -38,7 +38,7 @@ Pour commencer, les services suivants sont fournis gratuitement par l'associatio
 - Moteur de Gamification – Toute action utilisateur est automatiquement détectée au sein du WoM et équivaut à un nombre de points. Ceci peut être ajusté selon les priorités du Deed via des programmes d’engagement personnalisables.
 - Challenges – Des défis personnalisables peuvent être mis en place pour représenter des accomplissements significatifs difficilement détectables automatiquement. Les challenges sont prédéfinis par une personne et peuvent être relevés et déclarés comme réussis par une autre. Les challenges ont aussi une valeur en points considérés dans des programmes d’engagement personnalisables.
 - Programmes d'engagement - Les organisations peuvent créer leurs propres programmes d'engagement correspondant à leur objectifs et leur priorités. Les programmes regroupent des actions automatiques et des challenges déclarés manuellement. Chacun d'eux a un budget défini en Meeds. Les points gagnés périodiquement par chaque utilisateur dans chaque programme d'engagement sont convertis en Meeds, selon le budget de ce programme.
-- Kudos - Les kudos peuvent être attribués par les utilisateurs les uns aux autres, comme un remerciement et un signe de reconnaissance. Considérant que la distribution de kudos est limitée (3 par semaine par exemple), ils sont rares et précieux. Comme les autres actions, les kudos rapportent des points. De cette façon, les employés sont encouragés à récompenser leurs collègues et reconnaitre leurs contributions.
+- Kudos - Les kudos peuvent être attribués par les utilisateurs les uns aux autres, comme un remerciement et un signe de reconnaissance. Etant donné que la distribution de kudos est limitée (3 par semaine par exemple), ils sont rares et précieux. Comme les autres actions, les kudos rapportent des points. De cette façon, les employés sont encouragés à récompenser leurs collègues et reconnaitre leurs contributions.
 - Des outils de collaboration – espaces de travail, flux social, tâches et notes – permettent aux personnes de travailler ensemble sur des projets.
 - Portefeuille – Les utilisateurs sont dotés d'un portefeuille Ethereum sécurisé pour stocker leurs Meeds. En option, pour les utilisateurs plus avancés, un portefeuille Metamask peut être utilisé.
 - Boutique – Une place de marché interne pour dépenser ses Meeds dans des avantages fournis par l'organisation ou par l'écosystème Meeds.
@@ -107,7 +107,7 @@ L’association se réserve le droit de changer la formule si besoin – si de n
 
 Comme les Deeds sont récompensés avec les Meeds et qu’ils sont motivés à en redistribuer aux utilisateurs contre leur engagement, les intérêts des Deeds et des utilisateurs est alignés dans un même cycle vertueux de partage des revenus. Ainsi, le WoM offre un nouveau modèle du travail, qui reconfigure la relation employeur / employé en partenariat.
 
-Le modèle « Mintium » est le premier du genre. Cela va plus loin que les traditionnels modèles en freemium, en ce sens que non seulement, les services sont libres d’utilisation mais aussi que les organisations et leurs utilisateurs sont rétribués et récompensés pour leur propre usage.
+Cela va plus loin que les traditionnels modèles en freemium, en ce sens que non seulement, les services sont libres d’utilisation mais aussi que les organisations et leurs utilisateurs sont rétribués et récompensés pour leur propre usage.
 
 ## 2.7. Villes et gouvernance
 
