@@ -1,9 +1,9 @@
 
 # 1. Who we are – the Meeds assoeciation
 
-The Meeds association is a non-profit organization originally launched by several Open Source Software (OSS) communities around the common vision of a free digital world – a decentralized world that would not be controlled by a handful of centralized mega-corporations.
+جمعية ميدز هي منظمة غير ربحية تم إطلاقها في الأصل من قبل العديد من مجتمعات انشاء البرمجيات مفتوحة المصدر (OSS) حول الرؤية المشتركة لعالم رقمي حر - عالم لامركزي لا يمكن التحكم فيه من قبل ثلة من الشركات الكبرى المركزية.
 
-The Meeds association is incorporated in Geneva, as a non-profit association under the Swiss law.
+تأسست جمعية ميدز في جنيف كجمعية غير ربحية بموجب القانون السويسري.
 
 The association regulates the issuance of the Meeds currency, an ERC20 token, recognized as a utility token.
 
