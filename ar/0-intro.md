@@ -11,7 +11,7 @@
 
 ## المقدمة
 
-The work market today is broken. It fails to satisfy both employees and employers.
+أصبح سوق العمل في ايامنا متذبذب. وهو لا يرضي العمال وأرباب العمل على حد سواء.
 
 On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
 
