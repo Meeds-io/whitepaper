@@ -1,5 +1,5 @@
 
-# 1. Who we are – the Meeds assoeciation #
+# 1. Who we are – the Meeds Association #
 
 The Meeds association is a non-profit organization originally launched by several Open Source Software (OSS) communities around the common vision of a free digital world – a decentralized world that would not be controlled by a handful of centralized mega-corporations.
 
