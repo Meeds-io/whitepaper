@@ -4,7 +4,7 @@ The Work Metaverse is powered by its currency – the Meeds token. Les Meeds son
 
 ## 3.1. Tokenomics
 
-L'approvisionnement maximal de Meeds est limité à 100 millions de jetons, émis progressivement. 5 Million Meeds (5% of total supply) have been pre-minted to date. Among those 5M, 4.5M are locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services. The rest is part of the Meeds DAO funds and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
+L'approvisionnement maximal de Meeds est limité à 100 millions de jetons, émis progressivement. 5 millions de Meeds (5% de l’approvisionnement total) ont été émis à ce jour. Parmi ces 5M, 4,5M sont bloqués dans un contrat de voûte avec une acquisition linéaire sur 4 ans. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services. The rest is part of the Meeds DAO funds and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
 
 Meeds are minted at the rate of 10 Meeds per minute. Therefore, the full minting horizon is close to 20 years (as 10*60*24*365 Meeds are minted per year).
 
