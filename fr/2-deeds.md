@@ -126,7 +126,7 @@ Une ville sera considérée complète, une fois que tous les Deeds seront géné
 
 Une ville est le moyen pour les Deeds pour se réunir er créer une communauté. Comme conséquence, obtenir une identité associée avec cette communauté. C'est aussi un moyen de rapporter plus de valeurs à ses utilisateurs - une valeur qui va plus loin que les capacités d'un Deed ou valeur créée à travers la coopération entres Deeds.
 
-Each city has its own govenance and operates its own DAO where the city’s Deeds’ owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
+Chaque ville a sa propre gouvernance et opère son propose DAO où les propriètaires des Deeds de la ville peuvent élire leur conseil municipal, voter et établir leurs propres règles, ajouter de nouveaux services et façoner leurs ville à leurs manière afin de rendre attractive leurs ville et rajouter la valeur aux Deeds associés.
 
 For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add Meeds powered food services, vacations services, etc...
 
