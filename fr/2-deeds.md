@@ -130,6 +130,6 @@ Chaque ville a sa propre gouvernance et opère son propose DAO où les proprièt
 
 Par exemple, ils peuvent ajouter une représentation digitale de leur ville, des homologues physiques associés à leur ville (salles de réunion dans des escpaces physiques de cotravail par expemple), ajouter des services alimentaires, service de vaccances avec Meeds, etc...
 
-By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
+Par défaut (sauf dans le cas la ville vote autrement), les revenus passifs de la location des Deeds vont être soumis à des taxes par la ville (5%) et l'Association (3%) pour encourager l'usage productif.
 
 Ownsership transactions (Deed’s sales) will also be taxed 6% - 2.5% for the City, 2.5% for the Association and 1% for the original wallet that redeemed the Deed.
