@@ -6,20 +6,20 @@ The Work Metaverse is powered by its currency – the Meeds token. Les Meeds son
 
 L'approvisionnement maximal de Meeds est limité à 100 millions de jetons, émis progressivement. 5 millions de Meeds (5% de l’approvisionnement total) ont été émis à ce jour. Parmi ces 5M, 4,5M sont bloqués dans un contrat de voûte avec une acquisition linéaire sur 4 ans. Le montant anticipé a été principalement utilisé pour l'acquisition de logiciels IP, pour payer les frais légaux des émissions de jetons et pour les services d'hébergement. Le reste fait partie des fonds de Meeds DAO et sera utilisé pour payer les services ainsi que certaines incitations au lancement telles que des airdrops et des campagnes de parrainage.
 
-Les Meeds sont émis à une cadence de 10 Meeds par minute. Therefore, the full minting horizon is close to 20 years (as 10*60*24*365 Meeds are minted per year).
+Les Meeds sont émis à une cadence de 10 Meeds par minute. Par conséquent, l'horizon de l'émission complète est proche de 20 ans (10*60*24*365 Meeds sont émis chaque année).
 
-## 3.2. Minting allocation
+## 3.2. Répartition de l'émission
 
-Minted Meeds are allocated to encourage involvement of the three categories of stakeholders - the users, the builders and the investors:
+Les Meeds émis sont alloués pour encourager la participation des trois catégories de parties prenantes - les utilisateurs, les constructeurs et les investisseurs :
 - The users (users and Deeds holders/renters) get Meeds through engagement rewards (mintium model).
 - Builders (members of the association and community) get Meeds through the association funds to build, operate and improve the WoM.
 - Investors mint Meeds through renting and buying of liquidity pools and staking Meeds.
 
-At the beginning, the builders get 30% of the allocation. The 70% are shared between the users and the investors. This allocation proportion will be reviewed on a regular basis, through the Meeds association DAO vote.
+Au début, les constructeurs obtiennent 30% de l'attribution. Les 70% restants sont partagés entre les utilisateurs et les investisseurs. Cette proportion d'allocation sera régulièrement révisée par le biais du vote de l'association Meeds DAO.
 
 ## 3.3. Users – minting through engagement
 
-Part of the continuously minted Meeds is allocated to the engagement minting channel. The distribution is done weekly. At any given week end, the engagement index is calculated and Deeds can claim their rewards the following week and get their Meeds. Unclaimed Meeds stay in the fund and are added to the next week’s distribution. The model is described in detail in the previous chapter (part 2.6).
+Une partie des Meeds émis en permanence est allouée au canal de l'engagement. La distribution se fait hebdomadairement. At any given week end, the engagement index is calculated and Deeds can claim their rewards the following week and get their Meeds. Unclaimed Meeds stay in the fund and are added to the next week’s distribution. The model is described in detail in the previous chapter (part 2.6).
 
 ## 3.4. Builders – Meeds association DAO and community of builders
 
