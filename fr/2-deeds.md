@@ -128,7 +128,7 @@ Une ville est le moyen pour les Deeds pour se réunir er créer une communauté.
 
 Chaque ville a sa propre gouvernance et opère son propose DAO où les propriètaires des Deeds de la ville peuvent élire leur conseil municipal, voter et établir leurs propres règles, ajouter de nouveaux services et façoner leurs ville à leurs manière afin de rendre attractive leurs ville et rajouter la valeur aux Deeds associés.
 
-For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add Meeds powered food services, vacations services, etc...
+Par exemple, ils peuvent ajouter une représentation digitale de leur ville, des homologues physiques associés à leur ville (salles de réunion dans des escpaces physiques de cotravail par expemple), ajouter des services alimentaires, service de vaccances avec Meeds, etc...
 
 By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
 
