@@ -4,7 +4,7 @@
 
 ## 3.1. توكينوميكس (Tokenomics)
 
-يقتصر الحد الأقصى لإمدادات ميدس على 100 مليون رمز ، يتم سكها تدريجياً. لقد تم سك 5 ملايين ميدز (5٪ من إجمالي الإمدادات) مسبقًا حتى الآن. Among those 5M, 4.5M are locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services. The rest is part of the Meeds DAO funds and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
+يقتصر الحد الأقصى لإمدادات ميدس على 100 مليون رمز ، يتم سكها تدريجياً. لقد تم سك 5 ملايين ميدز (5٪ من إجمالي الإمدادات) مسبقًا حتى الآن. من بين هؤلاء 5M، يتم حبس 4.5M في عقد قبو مع منحة خطية على مدى 4 سنوات. واستخدم المبلغ المسبق في المقام الأول للحصول على برنامج IP، ودفع الرسوم القانونية للانبعاثات الرمزية وخدمات الاستضافة. أما الباقي فهو جزء من أموال "ميدز داو" وسيتم استخدامه لدفع تكاليف الخدمات بالإضافة إلى بعض حوافز الإطلاق مثل الإنزال الجوي وحملات الإحالة.
 
 Meeds are minted at the rate of 10 Meeds per minute. Therefore, the full minting horizon is close to 20 years (as 10*60*24*365 Meeds are minted per year).
 
