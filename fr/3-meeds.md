@@ -12,7 +12,7 @@ Les Meeds sont émis à une cadence de 10 Meeds par minute. Par conséquent, l'e
 
 Les Meeds émis sont alloués pour encourager la participation des trois catégories de parties prenantes - les utilisateurs, les constructeurs et les investisseurs :
 - Les utilisateurs (utilisateurs et propriétaires / loueurs de Deeds) obtiennent des Meeds grâce aux récompenses produites par l'engagement (modèle Mintium).
-- Les constructeurs (membres de l'association et communauté) recueillent des Meeds à travers les fonds de l'association utilisés pour construire, opérer et améliorer le WoM.
+- Les builders (membres de l'association et communauté) recueillent des Meeds à travers les fonds de l'association utilisés pour construire, opérer et améliorer le WoM.
 - Les investisseurs génèrent des Meeds pour la location et l'achat de liquidités et par les intérêts produits en plaçant leurs Meeds.
 
 Au début, les constructeurs obtiennent 30% de l'attribution. Les 70% restants sont partagés entre les utilisateurs et les investisseurs. Cette proportion sera régulièrement révisée, selon les votes réalisés par la DAO Meeds.
@@ -52,9 +52,9 @@ Les investisseurs aident à créer le WoM en fournissant des liquidités et en i
 
 Tout membre a également le droit de directement acheter un montant important de Meeds avec l'octroi d'une réduction. Le montant transmis à l'association est converti en ETH et ajouté avec la valeur équivalente de Meeds aux liquidités.
 
-**Epargne / Investissement à long terme** Pour encourager l'investissement à long terme, épargner des Meeds est récompensé. Quand les Meeds sont épargnés, l'épargnant reçoit des jetons xMeeds. Les nouveaux Meeds émis sont distribués aux épargnants proportionnellement à vos avoirs xMeeds. En pratique, les Meeds mintés sont effectivement ajoutés aux avoirs du contrat intelligent xMeeds et sont distribués aux détenteurs des xMeeds quand ils les déjouent.
+**Epargne / Investissement à long terme** Pour encourager l'investissement à long terme, épargner des Meeds est récompensé. Quand les Meeds sont épargnés, l'épargnant reçoit des jetons xMeeds. Les nouveaux Meeds émis sont distribués aux épargnants proportionnellement à leurs avoirs xMeeds. En pratique, les Meeds émis sont effectivement ajoutés aux avoirs du contrat intelligent xMeeds et sont distribués aux détenteurs des xMeeds quand ils se désengagent.
 
-En misant des Meeds, les investisseurs peuveut aussi racheter des Deeds (et donc participer dans le minting à travers l'engagement), et par conséquence augmenter la demande du token. Chaque Meeds misés (xMeeds) garanti à son propriètaire un nombre de points par jour. Plus la période d'acquisition est longue, plus le nombre de points obtenus par xMeed est élevé. Chaque Deed est ensuite échangé contre un certain nombre de points.
+En épargnant des Meeds, les investisseurs peuvent aussi racheter des Deeds (et donc participer au minting à travers l'engagement), et par conséquent augmenter la demande du token. Chaque Meeds épargné (xMeeds) garantit à son propriétaire un nombre de points par jour. Plus la période d'acquisition est longue, plus le nombre de points obtenus par xMeed est élevé. Chaque Deed est ensuite échangé contre un certain nombre de points.
 
 Points are calculated using the formula below (where T stands for time, R for rate per minute) : _xMeedBalanceNoDecimals / ( xMeedBalanceNoDecimals + 12000) * elapsedTimeInSeconds / 240 * xMeedBalanceNoDecimals = ParseInteger( xMeedBalance (=returned by contract call balanceOf) / 10^18)_
 
@@ -63,13 +63,13 @@ La formule évite de privilégier les grands détenteurs afin de distribuer les 
 | Type de carte | Points  | 100k xMeeds (321 points / jour) | 10k xMeeds (164 points / jour) | 1k xMeeds (28 points / jour) |
 | ------------- | ------- | ------------------------------- | ------------------------------ | ---------------------------- |
 | Commun        | 8 000   | 1 mois (25 jours)               | 2 mois (49 jours)              | 9 mois                       |
-| Rare          | 32 000  | 3 mois (100 jours)              | 6 mois                         | 3 années                     |
-| Rare          | 50 000  | 5 mois (156 jours)              | 10 mois                        | 5 années                     |
-| Légendaire    | 100 000 | 10 mois (311 jours)             | 20 mois                        | 10 années                    |
+| Peu commun    | 32 000  | 3 mois (100 jours)              | 6 mois                         | 3 ans                        |
+| Rare          | 50 000  | 5 mois (156 jours)              | 10 mois                        | 5 ans                        |
+| Légendaire    | 100 000 | 10 mois (311 jours)             | 20 mois                        | 10 ans                       |
 
 ## 3.6. Gouvernance Meeds DAO
 
-Les détenteurs du token Meeds doivent mettre en jeu des tokens afin de voter sur les décisions de Meeds DAO telles que le minting du budget ou l'élection des membres du conseil d'administration du DAO (mandat annuel).
+Les détenteurs du token Meeds doivent épargner des tokens afin de voter sur les décisions de Meeds DAO telles que le minting du budget ou l'élection des membres du conseil d'administration du DAO (mandat annuel).
 
 ## 3.7. Services aux utilisateurs de la finance décentralisée (DeFi)
 
