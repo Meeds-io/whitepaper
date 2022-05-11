@@ -4,38 +4,38 @@ Le Work Metaverse est alimenté par sa propre monnaie - le jeton Meeds. Les Meed
 
 ## 3.1. Tokenomics
 
-Le nombre maximal de Meeds est limité à 100 millions de jetons, émis progressivement. 5 millions de Meeds (5% de l’approvisionnement total) ont été émis à ce jour. Parmi ces 5M, 4,5M sont bloqués dans un contrat de vesting avec une acquisition linéaire sur 4 ans. Les sommes émises ont été principalement utilisées pour l'acquisition de propriété intellectuelle de logiciel, pour payer des frais juridiques et pour les services d'hébergement. Le reste fait partie des fonds de Meeds DAO et sera utilisé pour payer les services ainsi que certaines initiatives au lancement telles que des airdrops et des campagnes de parrainage.
+Le nombre maximal de Meeds est limité à 100 millions de jetons, émis progressivement. 5 millions de Meeds (5% de l’approvisionnement total) ont été émis à ce jour. Parmi ces 5M, 4.5M sont bloqués dans un contrat de vesting avec une acquisition linéaire sur 4 ans. Les sommes émises ont été principalement utilisées pour l'acquisition de propriété intellectuelle de logiciel, pour payer des frais juridiques et pour les services d'hébergement. Le reste fait partie des fonds de Meeds DAO et sera utilisé pour payer les services ainsi que certaines initiatives au lancement telles que des airdrops et des campagnes de parrainage.
 
-Les Meeds sont émis à une cadence de 10 Meeds par minute. Par conséquent, l'horizon de l'émission complète est proche de 20 ans (10*60*24*365 Meeds sont émis chaque année).
+Les Meeds sont émis à une cadence de 10 Meeds par minute. Par conséquent, l'ensemble des Meeds seront émis environ au bout de 20 ans (10*60*24*365 Meeds sont émis chaque année).
 
 ## 3.2. Répartition de l'émission
 
 Les Meeds émis sont alloués pour encourager la participation des trois catégories de parties prenantes - les utilisateurs, les constructeurs et les investisseurs :
 - Les utilisateurs (utilisateurs et propriétaires / loueurs de Deeds) obtiennent des Meeds grâce aux récompenses produites par l'engagement (modèle Mintium).
 - Les constructeurs (membres de l'association et communauté) recueillent des Meeds à travers les fonds de l'association utilisés pour construire, opérer et améliorer le WoM.
-- Les investisseurs émettent des Meeds par la location et l'achat de liquidités et aux intérêts produits par les placements de Meeds.
+- Les investisseurs génèrent des Meeds pour la location et l'achat de liquidités et par les intérêts produits en plaçant leurs Meeds.
 
 Au début, les constructeurs obtiennent 30% de l'attribution. Les 70% restants sont partagés entre les utilisateurs et les investisseurs. Cette proportion sera régulièrement révisée, selon les votes réalisés par la DAO Meeds.
 
-## 3.3. Utilisateurs - Emettre grâce à l'engagement
+## 3.3. Utilisateurs - Récompenser l'engagement
 
 Une partie des Meeds émis est allouée aux canal de récompense de l’engagement. La distribution est réalisée chaque semaine. A chaque fin de période, l'index d'engagement est recalculé et les Deeds peuvent réclamer leurs récompenses la semaine suivante pour obtenir leurs Meeds. Les Meeds non réclamés sont conservés dans un fond et sont ajoutés à la distribution de la semaine suivante. Le modèle est décrit en détail dans le précédent chapitre (2.6).
 
 ## 3.4. Builders – DAO de l’association Meeds et communauté de contributeurs
 
-Le WoM et les jetons Meeds sont opérés par l’association sans but lucratif qu’est la DAO Meeds, introduite plus haut. Un contrat de type multi-signatures est utilisé pour gérer les dépenses de fonctionnement de l’association.
+Le WoM et les jetons Meeds sont opérés par l’association à but non lucratif qu’est la DAO Meeds, introduite plus haut. Un contrat de type multi-signatures est utilisé pour gérer les dépenses de fonctionnement de l’association.
 
-Au cours de la période de l'émission, 30% des Meeds émis sont alloués à l'association Meeds.
+Au cours de la période d'émission, 30% des Meeds émis sont alloués à l'association Meeds.
 
 Les membres de l'association peuvent fournir des services à l'association sur la base d'une convention de services signée déterminant le tarif jour-homme. Les services sont payés mensuellement en Meeds, en fonction du prix du marché. Parmi les exemples de services, citons l'enrichissement du logiciel Meeds, le développement de l'application WoM, le développement de nouveaux connecteurs, l'exploitation du service cloud, la fourniture de services financiers et juridiques, etc.
 
-Sans être membre, tout Deed peut participer à la création d’un nouveau connecteur et être récompensé pour cette initiative. D’une part, par l’acquisition du connecteur par l’association Meeds et d’autre part, en émettant des Meeds grâce à l’utilisation du connecteur.
+Sans être membre, tout Deed peut participer à la création d’un nouveau connecteur et être récompensé pour cette initiative – d’une part, par l’acquisition du connecteur par l’association Meeds et d’autre part, en recevant des Meeds émis par l'engagement capté par ce connecteur.
 
-L’association fait ainsi vivre une communauté de constructeurs qui accueille des enthousiastes du WoM, qui veulent eux-mêmes participer à la création du WoM. L’association parrainera la communauté sur son budget, en récompensant ainsi l’engagement des membres de sa communauté.
+L’association fait ainsi vivre la communauté Builders qui accueille des enthousiastes du WoM, qui veulent eux-mêmes participer à la création du WoM. L’association parrainera la communauté sur son budget, en récompensant ainsi l’engagement des membres de sa communauté.
 
-Par conséquent, la communauté fonctionnera en tant qu’exemple de Deed, offrant un ensemble de services standards fournis par l’association. Cette dernière investira des Meeds pour fournir un Deed pour la communauté. Celle-ci pourra également participer à l’émission issue de l’engagement comme tout autre Deed.
+Par conséquent, la communauté fonctionnera comme un exemple de Deed, offrant un ensemble de services standards fournis par l’association. Cette dernière investira des Meeds pour fournir un Deed pour la communauté. Celle-ci pourra également participer à l’émission issue de l’engagement comme tout autre Deed.
 
-Une fois que la période d’émission est terminée, l’association sera soutenue par :
+Une fois la période d’émission terminée, l’association sera soutenue par :
 - les taxes sur les revenus passifs (3% sur les locations de Deeds)
 - les taxes sur les revenus de vente (2.5% sur les ventes de Deeds)
 - les frais de transactions des utilisateurs dans les boutiques
