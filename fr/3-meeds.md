@@ -21,32 +21,32 @@ Au début, les constructeurs obtiennent 30% de l'attribution. Les 70% restants s
 
 Une partie des Meeds émis est allouée aux mécanismes de l’engagement. La distribution est réalisée chaque semaine. A chaque fin de période, l’index de l’engagement est calculé et les Deeds peuvent réclamer leurs récompenses la semaine suivante pour obtenir leurs Meeds. Les Meeds non réclamés sont conservés dans un fond et sont ajoutés pour la distribution de la semaine suivante. Le modèle est décrit en détail dans le précédent chapitre (2.6).
 
-## 3.4. Constructeurs – Meeds association DAO et communauté de constructeurs
+## 3.4. Constructeurs – DAO de l’association Meeds et communité de constructeurs
 
-Le jeton WoM et le jeton Meeds sont exploités par l'association à but non lucratif de Meeds DAO présentée ci-dessus. Un contrat multisig est utilisé pour gérer les frais de fonctionnement de l’association.
+Le WoM et les jetons Meeds sont opérés par l’association sans but lucratif qu’est la DAO Meeds, introduite plus haut. Un contrat de type multi-signatures est utilisé pour gérer les dépenses de fonctionnement de l’association.
 
 Au cours de la période de l'émission, 30% des Meeds émis sont alloués à l'association Meeds.
 
 Les membres de l'association peuvent fournir des services à l'association sur la base d'une convention de services signée déterminant le tarif jour-homme. Les services sont payés mensuellement en Meeds, en fonction du prix du marché. Parmi les exemples de services, citons l'enrichissement du logiciel Meeds, le développement de l'application WoM, le développement de nouveaux connecteurs, l'exploitation du service cloud, la fourniture de services financiers et juridiques, etc.
 
-Sans être membre, Tout Deed peut participer à la création d'un nouveau connecteur et être récompensé pour cela – d'abord par l'association Meeds acquérant le connecteur, puis par le biais de ce connecteur.
+Sans être membre, tout Deed peut participer à la création d’un nouveau connecteur et être récompensé pour cette initiative. D’une part, par l’acquisition du connecteur par l’association Meeds et d’autre part, en émettant des Meeds grâce à l’utilisation du connecteur.
 
-The association operates a Builders community that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
+L’association fait ainsi vivre une communauté de constructeurs qui accueille des enthousiastes du WoM, qui veulent eux-mêmes participer à la création du WoM. L’association parrainera la communauté sur son budget, en récompensant ainsi l’engagement des membres de sa communauté.
 
-Thus, the community will function as an example of a Deed, offering a standard set of services provided by the association. The association stakes Meeds in order to redeem a Deed for the community. The community will then also participate in the engagement minting like any other Deed.
+Par conséquent, la communauté fonctionnera en tant qu’exemple de Deed, offrant un ensemble de services standards fournis par l’association. Cette dernière investira des Meeds pour fournir un Deed pour la communauté. Celle-ci pourra également participer à l’émission issue de l’engagement comme tout autre Deed.
 
-After the minting period is over, the association will be sustained by :
-- taxing passive income (3% on Deeds renting)
-- taxing selling income (2.5% on Deeds sales)
-- perceiving transaction fees over the user of the perks stores
-- acting as a liquidity pool provider
-- perceiving transaction fees when a Deed distributes non Meeds tokens via WoM services.
-- by operating the Deeds that the association minted over time.
+Une fois que la période d’émission est terminée, l’association sera soutenue par :
+- les taxes sur les revenus passifs (3% sur les locations de Deeds)
+- les taxes sur les revenus de vente (2.5% sur les ventes de Deeds)
+- les frais de transactions des utilisateurs dans les boutiques
+- son rôle en tant que fournisseur de liquidité
+- les frais de transactions quand un Deed distribue des jetons autres que des Meeds via les services du WoM
+- les opérations réalisés sur les Deeds que l’association aura pu émettre sur la période.
 
 
 ## 3.5. Investisseurs
 
-Investors help creating the WoM by providing liquidity and by staking Meeds and thus stabilizing its price level during the construction period. Both are encouraged through minting.
+Les investisseurs aident à créer le WoM en fournissant des liquidités et en investissant des Meeds. Cela assure de stabiliser son niveau de prix pendant la période de construction. Ces deux mécanismes sont incités par la force de frappe.
 
 **Liquidity providers** Currency liquidity management is key to the success of the project and several DeFi strategies will be used to optimize capital efficiency. We will start with incentives for staking MeedS/ETH LP pool tokens and will progressively introduce bonds to move towards a protocol owned liquidity. The latter would contribute to the association’s long term sustainability - as mentioned above, transaction fees will fund the association operating expenses such as cloud hosting.
 
