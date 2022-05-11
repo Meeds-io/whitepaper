@@ -31,7 +31,7 @@ organizations can of course participate in liquidity pools, but also join the co
 
 The diagram below represents an example of the Meeds investment strategy for work holders :
 
-## 5.3. The launch
+## 5.3. Le lancement
 
 The official launch date is set as for May 1st, 2022 – the International Workers Day, celebrated in many countries.
 
@@ -39,24 +39,24 @@ At that time, the Meed token already exists. It is possible to acquire it and li
 
 Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
 
-The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
+L'application Investors est disponible sur le réseau Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
+The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. Il est possible de se connecter avec Metamask.
 
-This paper is to be published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
+Ce document est à publier le jour du lancement. Following the launch, the token will be air-dropped to many people across the crypto community.
 
-## 5.4. The builders community
+## 5.4. La communauté builders
 We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the Work Metaverse. The association would reward builders engagement with Meeds, from its marketing budget.
 
 The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
 
-## 5.5. Roadmap and milestones
-Our roadmap would follow the priority order below:
+## 5.5. Feuille de route et jalons
+Notre feuille de route suivrait l'ordre de priorité ci-dessous:
 * Engagement index and minting through engagement
-* Enable Deeds renting
-* Xeed creation
+* Activer la location des Deeds
+* Création Xeed
 * Badges improvement and credentials development
-* DeFi services – in the wallet, credit cards partnership
+* Services DeFi - dans le portefeuille, partenariat cartes de crédit
 
 We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
 
@@ -69,9 +69,9 @@ What can you do right now to participate?
 * Visit our website https://www.meeds.io/
 * Check out the Investor app
 * Contribute to the existing liquidity pools here :
- * Cometh Swap
- * Sushi Swap
-* Join our discord community to be kept in the loop
+ * Échange Cometh
+ * Échange Sushi
+* Rejoignez notre communauté sur discord pour rester dans la boucle
 * Join our Builders community to test the Meeds software, engage and earn some Meeds engagement rewards
 
-**\*\*\* The Work Metaverse - let’s build this crazy future world together. \*\*\***
+**\*\*\* The travail Métaverse - construisons ensemble ce futur monde fou. \*\*\***
