@@ -1,10 +1,10 @@
 # 3. رمز ميدس - عملة ميتافيرس العمل
 
-ميتافيرس العمل مدعوم بعملته - رمز ميدز. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
+ميتافيرس العمل مدعوم بعملته - رمز ميدز. يتم استخدام ميدس لمكافأة المستخدمين (من خلال برامج المشاركة)، والشراء في المتاجر، والحصول على الصكوك، والحصول على العائدات المالية على الاستثمارات، وما إلى ذلك.
 
-## 3.1. Tokenomics
+## 3.1. توكينوميكس (Tokenomics)
 
-The Meeds maximum supply is limited to 100 million tokens, minted progressively. 5 Million Meeds (5% of total supply) have been pre-minted to date. Among those 5M, 4.5M are locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services. The rest is part of the Meeds DAO funds and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
+يقتصر الحد الأقصى لإمدادات ميدس على 100 مليون رمز ، يتم سكها تدريجياً. لقد تم سك 5 ملايين ميدز (5٪ من إجمالي الإمدادات) مسبقًا حتى الآن. Among those 5M, 4.5M are locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services. The rest is part of the Meeds DAO funds and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
 
 Meeds are minted at the rate of 10 Meeds per minute. Therefore, the full minting horizon is close to 20 years (as 10*60*24*365 Meeds are minted per year).
 
