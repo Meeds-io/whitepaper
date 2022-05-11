@@ -1,6 +1,6 @@
 # 3. Meeds token – the Work Metaverse currency
 
-The Work Metaverse is powered by its currency – the Meeds token. Les Meeds sont utilisés pour récompenser les utilisateurs (par le biais de programmes d'engagement), acheter en magasins, obtenir des Deeds, obtenir des retours financiers sur les investissements, etc.
+The Work Metaverse is powered by its currency – the Meeds token. Les Meeds sont utilisés pour récompenser les utilisateurs (par le biais de programmes d'engagement), acheter dans les boutiques, obtenir des Deeds, obtenir des retours sur investissements, etc.
 
 ## 3.1. Tokenomics
 
