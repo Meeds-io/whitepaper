@@ -1,8 +1,8 @@
 # 5. ميتافيرس العمل لكل شيء - ملخص الرؤية والمعالم
 
-## 5.1. Ultimate goal - decentralized web for everyone
+## 5.1. الهدف النهائي - ويب لامركزي للجميع
 
-In the end, the WoM is a decentralized web world for everyone – every person and every organization.
+في النهاية ، WoM هو عالم ويب لامركزي للجميع - كل شخص وكل منظمة.
 
 It will be populated by users, acting through their digital identities **Xeeds** and accessing the world through their metamasks, for crypto-savvies, or login/password for the newbies. People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
 
