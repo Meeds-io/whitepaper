@@ -126,10 +126,10 @@ Une ville sera considérée complète, une fois que tous les Deeds seront géné
 
 Une ville est le moyen pour les Deeds pour se réunir er créer une communauté. Comme conséquence, cela permet de créer une identité propre à cette communauté. C'est aussi un moyen d'apporter plus de valeur à ses utilisateurs - qui va plus loin que les seules capacités d'un Deed ou que la valeur créée grâce à la coopération entres Deeds.
 
-Chaque ville a sa propre gouvernance et opère son propose DAO où les propriètaires des Deeds de la ville peuvent élire leur conseil municipal, voter et établir leurs propres règles, ajouter de nouveaux services et façoner leurs ville à leurs manière afin de rendre attractive leurs ville et rajouter la valeur aux Deeds associés.
+Chaque ville a sa propre gouvernance et opère son propose DAO où les propriètaires des Deeds de la ville peuvent élire leur conseil municipal, voter et établir leurs propres règles, ajouter de nouveaux services et façonner leur ville à leur manière. Cela leur permet de rendre attractive leur ville et de rajouter de la valeur aux Deeds associés.
 
-Par exemple, ils peuvent ajouter une représentation digitale de leur ville, des homologues physiques associés à leur ville (salles de réunion dans des escpaces physiques de cotravail par expemple), ajouter des services alimentaires, service de vaccances avec Meeds, etc...
+Par exemple, ils peuvent ajouter une représentation digitale de leur ville, des homologues physiques associés à leur ville (salles de réunion dans des espaces physiques de co-working par exemple), proposer des services de restauration, des activités de loisirs grâce aux Meeds, etc...
 
-Par défaut (sauf dans le cas la ville vote autrement), les revenus passifs de la location des Deeds vont être soumis à des taxes par la ville (5%) et l'Association (3%) pour encourager l'usage productif.
+Par défaut (sauf dans le cas où la ville vote autrement), les revenus passifs de la location des Deeds seront soumis à des taxes au profit de la ville (5%) et de l'association (3%) pour encourager l'usage productif.
 
-Ownsership transactions (Deed’s sales) will also be taxed 6% - 2.5% for the City, 2.5% for the Association and 1% for the original wallet that redeemed the Deed.
+Les échanges de titre de propriété (ventes de Deed) seront également taxées à hauteur de 6% - 2,5% pour la ville, 2,5% pour l'association et 1% pour le portefeuille numérique original qui a racheté le Deed.
