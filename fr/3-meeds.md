@@ -75,12 +75,12 @@ Les détenteurs du token Meeds doivent mettre en jeu des tokens afin de voter su
 
 Le travail Métaverse présentera le monde de la blockchain à de nombreuses personnes qui ne l'utilisent pas aujourd'hui.
 
-Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
+En effet, tout travail (soit numérique ou pas) peut être gamifié et tout engagement récompensé par Meeds. Les meeds sont mis à la disposition des utilisateurs via un portefeuille facile à utiliser, basé sur la blockchain, qui "abstrait" toute complexité du monde de la cryptographie pour un utilisateur moyen.
 
-Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
-* The ability to stake Meeds tokens and get yields (generate revenues)
-* The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a Fuse pool https://app.rari.capital/fuse then registering the Meeds token to AAVE - https://aave.com/).
-* A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. (This card could also be used by organizations to fund employee wallets in order to manage employee benefits such
-* as restaurants, transportation and any type of expenses.) So not only many new users will discover the blockchain world, they will also discover a bankless world.
+Au-delà du portefeuille et d'un magasin où ils peuvent acheter des avantages pour des Meeds, nous prévoyons de présenter à chaque utilisateur plusieurs produits alimentés par les protocoles de financement décentralisé, tels que :
+* La possibilité de miser des tokens Meeds et d'obtenir des rendements (générer des revenus)
+* La possibilité d'utiliser des tokens Meeds comme garantie pour emprunter des pièces stables telles que l'USDC (en exploitant d'abord un pool de fusibles https://app.rari.capital/fuse puis en enregistrant le jeton Meeds auprès d'AAVE - https://aave.com/) .
+* Une carte digitale qui peut être ajoutée et utilisée à travers Apple Pay, Google Pay ou tout autre Distributeur automatique. Ce dernier peut être fourni par le biais d'un partenariat avec VISA et tirera partie d'une ligne de crédit en USDC, garantie par des Meeds misés. (Cette carte pourrait également être utilisée par les organisations pour financer les portefeuilles des employés afin de gérer les avantages sociaux tels que
+* comme les restaurants, le transport et tout type de dépenses.) So not only many new users will discover the blockchain world, they will also discover a bankless world.
 
  
