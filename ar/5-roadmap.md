@@ -8,26 +8,26 @@
 
 المنظمات - **Deeds** ستكون قادرة على الحصول على المواهب، والتصفح من خلال WoM، للحصول على المهارات الصحيحة المثبتة. سوف يحصلون على مكافأة لمشاركتهم في ميتافيرس، عن طريق سك الرموز من خلال مشاركة المستخدمين (نموذج المينتيوم). ولكن الأهم من ذلك كله، أنهم سيستفيدون من زيادة المشاركة و ولاء أعلى من مستخدميهم.
 
-The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
+سيكون لدى WoM عملة خاصة به **ميدس** - التي ستكون هناك للإنفاق في المتاجر، تحويل إلى عملة أخرى، الاستثمار من أجل تحقيق عائد على الاستثمار أو الإيجار أو الشراء، وما إلى ذلك. ستعمل WoM أيضًا على تسهيل توزيع الرموز الأخرى والمشاركة في النظام االإيكولوجي الشامل للعملات المشفرة.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
+نظرًا لأن الصورة تساوي ألف كلمة ، فإليك رسم تخطيطي يصف تدفقات WoM و ميدس
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
+تم ضمان الصيانة العالمية والاستدامة على المدى الطويل من خلال الضرائب المشتركة بين جمعية ميدس والمدن.
 
-## 5.2. What’s in it for early adopters
+## 5.2. ما الذي تقدمه للمستخدمين الأوائل
 
-Obviously, early adopters would get considerable advantages over the late comers.
+من الواضح أن المتبنين الأوائل سيحصلون على مزايا كبيرة مقارنة بالوافدين المتأخرين.
 
-In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
+على وجه الخصوص ، يكافئ WoM الاستثمار طويل الأجل في الآية - وهذا هو استرداد الممتلكات (السندات). يحصل المالك الأصلي للسند على تعويض من خلال سك المشاركة (الاستخدام النشط) ، من خلال الدخل السلبي (التأجير) والحصول على 1 ٪ مدى الحياة على أي معاملة بيع للسند (في كل تغيير للملكية ، يحصل المسترد الأصلي على رسوم على عملية تجارية).
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the metaverse.
+من خلال الإيمان بالمشروع ، والمشاركة في مجمعات السيولة ، ورهان ميدس ، واستردادها مقابل السندات... سيصنع المستثمرون الأوائل من جميع الأحجام عملات إضافية. سيحصلون أيضًا على حقوق التصويت المبكرة ويساعدون في تشكيل ميتافيرس.
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
+المنظمات التي تحصل على سندات ولكن بشكل خاص تستخدم Deeds لإشراك موظفيها ومكافأتهم ستحصل على تعويض في ميدس. كلما لعبوا بعدلاً أكثر ، كلما حصلوا على المزيد. سيتم ربط المتبنين الأوائل بأول المدن التاريخية وسيتم تحديدهم على أنهم البناة لاحقًا.
 
-The diagram below represents an example of the Meeds investment strategy for capital holders :
+يمثل الرسم البياني أدناه مثالاً على استراتيجية الاستثمار في ميدس لأصحاب رؤوس الأموال:
 
 
-organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
+وبالطبع يمكن للمنظمات المشاركة في مجمعات السيولة، ولكن أيضا الانضمام إلى مجتمع البناة، والحصول على مكافآت مشاركة إضافية هناك.
 
 The diagram below represents an example of the Meeds investment strategy for work holders :
 
