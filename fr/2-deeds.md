@@ -132,4 +132,4 @@ Par exemple, ils peuvent ajouter une représentation digitale de leur ville, des
 
 Par défaut (sauf si la ville en décide autrement), les revenus passifs de la location des Deeds seront soumis à des taxes au profit de la ville (5%) et de l'association Meeds (3%) pour encourager l'usage productif.
 
-Les échanges de titre de propriété (ventes de Deed) seront également taxées à hauteur de 6% - 2,5% pour la ville, 2,5% pour l'association et 1% pour le portefeuille numérique à l'origine de la création du Deed.
+Les échanges de titre de propriété (ventes de Deed) seront également taxés à hauteur de 6% - 2,5% pour la ville, 2,5% pour l'association et 1% pour le portefeuille numérique à l'origine de la création du Deed.
