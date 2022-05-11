@@ -35,28 +35,28 @@
 
 لقد تم تحديد تاريخ الإطلاق الرسمي في الأول من مايو/أيار 2022 ـ وهو اليوم العالمي للعمال، الذي يحتفل به في العديد من البلدان.
 
-في ذلك الوقت، الرمز ميدس موجود بالفعل. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
+في ذلك الوقت، الرمز ميدس موجود بالفعل. ومن الممكن الحصول عليه، كما أن مجمعات السيولة مفتوحة للمشاركة في شبكتي بوليغون وإثيريوم.
 
-Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
+يستخدم ثلاثة أعضاء من جمعية ميدس النظام داخليًا لإشراك مستخدميهم ومكافأتهم وتحسين برنامج ميدس.
 
-The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
+تطبيق المستثمر متاح على إيثيريوم Mainnet. عند الإطلاق ، تتضمن عملية الرهان ومكافآت السيولة وتجميع النقاط واسترداد السندات.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
+يعمل مجتمع البناة على برنامج ميدس، وهو مفتوح لأي شخص يرغب في الانضمام والاختبار والمشاركة. من الممكن تسجيل الدخول باستخدام ميتاماسك.
 
-This paper is to be published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
+ومن المقرر نشر هذه الورقة في يوم الإطلاق. بعد الإطلاق، سيتم إسقاط الرمز المميز في الهواء للعديد من الأشخاص عبر مجتمع التشفير.
 
-## 5.4. The builders community
-We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the Work Metaverse. The association would reward builders engagement with Meeds, from its marketing budget.
+## 5.4. مجتمع البناة
+نحن نطلق مجتمع البناة على برنامج ميدس وعلى ديسكورد. يرحب المجتمع بأي شخص يريد المشاركة في بناء العمل ميتافيرس. The association would reward builders engagement with Meeds, from its marketing budget.
 
 The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
 
-## 5.5. Roadmap and milestones
-Our roadmap would follow the priority order below:
-* Engagement index and minting through engagement
-* Enable Deeds renting
-* Xeed creation
-* Badges improvement and credentials development
-* DeFi services – in the wallet, credit cards partnership
+## 5.5. خارطة الطريق والمعالم
+ستتبع خارطة الطريق الخاصة بنا ترتيب الأولوية أدناه:
+* مؤشر المشاركة وسكها من خلال المشاركة
+* تفعيل خاصية تأجير السندات
+* إنشاء Xeed
+* تحسين الشارات وتطوير بيانات الاعتماد
+* خدمات DeFi - في المحفظة، بطاقة الائتمان الشراكة
 
 We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
 
