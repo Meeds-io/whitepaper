@@ -55,20 +55,20 @@ Notre feuille de route suivrait l'ordre de priorité ci-dessous:
 * Indice d'engagement et émission par engagement
 * Activer la location des Deeds
 * Création Xeed
-* Badges improvement and credentials development
+* Amélioration des badges et développement des titres de compétences
 * Services DeFi - dans le portefeuille, partenariat cartes de crédit
 
-We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
+Nous comptons sur les premiers utilisateurs des DAO et des entreprises à la pointe de la technologie durant la phase de construction. Nous devrions également avoir quelques premiers utilisateurs des entreprises traditionnelles qui gagnent immédiatement de la valeur de la métaverse en fournissant des programmes d'engagement pertinents à leurs employés. en sus de leurs régimes de rémunération traditionnels.
 
-Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature metaverse, having spread to many organizations and many users globally.
+L'émission des Meeds s'étend sur une période de 20 ans. À ce moment-là, nous aspirons à avoir réussi à construire une métaverse mature, s'étant propagée à de nombreuses organisations et à de nombreux utilisateurs dans le monde.
 
-## 5.6. What you can do right now
+## 5.6. Ce que vous pouvez faire maintenant
 
-What can you do right now to participate?
-* Spread this paper to those who would be interested
-* Visit our website https://www.meeds.io/
-* Check out the Investor app
-* Contribute to the existing liquidity pools here :
+Que pouvez-vous faire dès maintenant pour participer ?
+* Diffuser ce document à ceux qui seraient intéressés
+* Visitez notre site https://www.meeds.io/
+* Découvrez l'application Investisseurs
+* Contribuez aux pools de liquidité existants ici :
  * Échange Cometh
  * Échange Sushi
 * Rejoignez notre communauté sur discord pour rester dans la boucle
