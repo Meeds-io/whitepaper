@@ -20,11 +20,11 @@ Les badges sont utilisés pour représenter les réalisations faites au sin d'un
 
 Lorsque les badges sont téléchargés par l'utilisateur, il est possible d'inclure le nombre de points et son rang dans le Deed pour cette réalisation spécifique.
 
-Les identifiants sont plus flexibles que les badges ; il peuvent être une recommandation de la part d'un pair, indiquant des années d'expertise, une formation ou un examen terminé, ou un engagement dans le Deed. These are signed by the Deed and can be accompanied by a signature by a peer user.
+Les identifiants sont plus flexibles que les badges ; il peuvent être une recommandation de la part d'un pair, indiquant des années d'expertise, une formation ou un examen terminé, ou un engagement dans le Deed. Ceux ci sont signés par le Deed et peuvent être accopagnés par une signature par un utilisateur pair.
 
 ## 4.3. Identité de travail numérique
 
-All of the above contributes to forming proven digital skillset that can be kept and used by the user when changing jobs or freelancing. It would be more trustworthy than traditional solutions as it relies on not just one individual but a full community to prove it.
+Tout ce qui précède contribue à former un ensemble de compétences numériques éprouvées qui peuvent être conservées et utilisées par l'utilisateur lors d'un changement d'emploi ou d'une activité indépendante. Ce serait plus fiable que les solutions traditionnelles car il repose non seulement sur un individu mais sur toute une communauté pour le prouver.
 
 Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Deed to another, from one city to another, anywhere through the WoM.
 
