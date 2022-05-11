@@ -15,13 +15,13 @@ Les Meeds émis sont alloués pour encourager la participation des trois catégo
 - Les constructeurs (membres de l'association et communauté) recueillent des Meeds à travers les fonds de l'association utilisés pour construire, opérer et améliorer le WoM.
 - Les investisseurs émettent des Meeds par la location et l'achat de liquidités et aux intérêts produits par les placements de Meeds.
 
-Au début, les constructeurs obtiennent 30% de l'attribution. Les 70% restants sont partagés entre les utilisateurs et les investisseurs. Cette proportion d'allocation sera régulièrement révisée, selon les votes réalisés par l'association Meeds.
+Au début, les constructeurs obtiennent 30% de l'attribution. Les 70% restants sont partagés entre les utilisateurs et les investisseurs. Cette proportion sera régulièrement révisée, selon les votes réalisés par la DAO Meeds.
 
 ## 3.3. Utilisateurs - Emettre grâce à l'engagement
 
-Une partie des Meeds émis est allouée aux mécanismes de l’engagement. La distribution est réalisée chaque semaine. A chaque fin de période, l’index de l’engagement est calculé et les Deeds peuvent réclamer leurs récompenses la semaine suivante pour obtenir leurs Meeds. Les Meeds non réclamés sont conservés dans un fond et sont ajoutés pour la distribution de la semaine suivante. Le modèle est décrit en détail dans le précédent chapitre (2.6).
+Une partie des Meeds émis est allouée aux canal de récompense de l’engagement. La distribution est réalisée chaque semaine. A chaque fin de période, l'index d'engagement est recalculé et les Deeds peuvent réclamer leurs récompenses la semaine suivante pour obtenir leurs Meeds. Les Meeds non réclamés sont conservés dans un fond et sont ajoutés à la distribution de la semaine suivante. Le modèle est décrit en détail dans le précédent chapitre (2.6).
 
-## 3.4. Constructeurs – DAO de l’association Meeds et communité de constructeurs
+## 3.4. Builders – DAO de l’association Meeds et communauté de contributeurs
 
 Le WoM et les jetons Meeds sont opérés par l’association sans but lucratif qu’est la DAO Meeds, introduite plus haut. Un contrat de type multi-signatures est utilisé pour gérer les dépenses de fonctionnement de l’association.
 
