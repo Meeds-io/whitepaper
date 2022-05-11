@@ -52,28 +52,28 @@ Les investisseurs aident à créer le WoM en fournissant des liquidités et en i
 
 Tout membre a également le droit de directement acheter un montant important de Meeds avec l'octroi d'une réduction. Le montant transmis à l'association est converti en ETH et ajouté avec la valeur équivalente de Meeds aux liquidités.
 
-**Epargne / Investissement à long terme** Pour encourager l'investissement à long terme, épargner des Meeds est récompensé. Quand les Meeds sont épargnés, l'épargnant reçoit des jetons xMeeds. Les nouveaux Meeds émis sont distribués aux épargnants proportionnellement à vos avoirs xMeeds. In practice, minted Meeds are effectively added to the holdings of the xMeeds smart contract and distributed to the xMeeds holder when they unstake.
+**Epargne / Investissement à long terme** Pour encourager l'investissement à long terme, épargner des Meeds est récompensé. Quand les Meeds sont épargnés, l'épargnant reçoit des jetons xMeeds. Les nouveaux Meeds émis sont distribués aux épargnants proportionnellement à vos avoirs xMeeds. En pratique, les Meeds mintés sont effectivement ajoutés aux avoirs du contrat intelligent xMeeds et sont distribués aux détenteurs des xMeeds quand ils les déjouent.
 
-By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. Each staked Meeds (xMeeds) grants its owner a number of points per day. The longer the vested period the higher the number of points obtained per xMeeds. Each Deed is then redeemed in exchange for a number of points.
+En misant des Meeds, les investisseurs peuveut aussi racheter des Deeds (et donc participer dans le minting à travers l'engagement), et par conséquence augmenter la demande du token. Chaque Meeds misés (xMeeds) garanti à son propriètaire un nombre de points par jour. Plus la période d'acquisition est longue, plus le nombre de points obtenus par xMeed est élevé. Chaque Deed est ensuite échangé contre un certain nombre de points.
 
 Points are calculated using the formula below (where T stands for time, R for rate per minute) : _xMeedBalanceNoDecimals / ( xMeedBalanceNoDecimals + 12000) * elapsedTimeInSeconds / 240 * xMeedBalanceNoDecimals = ParseInteger( xMeedBalance (=returned by contract call balanceOf) / 10^18)_
 
-The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably.
+La formule évite de privilégier les grands détenteurs afin de distribuer les Deeds plus efficacement et plus équitablement.
 
 | Type de carte | Points  | 100k xMeeds (321 points / jour) | 10k xMeeds (164 points / jour) | 1k xMeeds (28 points / jour) |
 | ------------- | ------- | ------------------------------- | ------------------------------ | ---------------------------- |
 | Commun        | 8 000   | 1 mois (25 jours)               | 2 mois (49 jours)              | 9 mois                       |
-| Rare          | 32 000  | 3 months (100 days)             | 6 months                       | 3 years                      |
-| Rare          | 50 000  | 5 months (156 days)             | 10 months                      | 5 years                      |
-| Legendary     | 100 000 | 10 months (311 days)            | 20 months                      | 10 years                     |
+| Rare          | 32 000  | 3 mois (100 jours)              | 6 mois                         | 3 années                     |
+| Rare          | 50 000  | 5 mois (156 jours)              | 10 mois                        | 5 années                     |
+| Légendaire    | 100 000 | 10 mois (311 jours)             | 20 mois                        | 10 années                    |
 
-## 3.6. Meeds DAO governance
+## 3.6. Gouvernance Meeds DAO
 
-Meeds token holders need to stake tokens in order to vote on the Meeds DAO decisions such as managing the minting budget or electing DAO board members (annual mandate).
+Les détenteurs du token Meeds doivent mettre en jeu des tokens afin de voter sur les décisions de Meeds DAO telles que le minting du budget ou l'élection des membres du conseil d'administration du DAO (mandat annuel).
 
-## 3.7. Decentralized finance (DeFi) user services
+## 3.7. Services aux utilisateurs de la finance décentralisée (DeFi)
 
-The Work Metaverse will introduce the blockchain world to many people who do not use it today.
+Le travail Métaverse présentera le monde de la blockchain à de nombreuses personnes qui ne l'utilisent pas aujourd'hui.
 
 Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
 
