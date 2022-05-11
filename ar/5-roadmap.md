@@ -4,9 +4,9 @@
 
 في النهاية ، WoM هو عالم ويب لامركزي للجميع - كل شخص وكل منظمة.
 
-It will be populated by users, acting through their digital identities **Xeeds** and accessing the world through their metamasks, for crypto-savvies, or login/password for the newbies. People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
+سيتم ملؤها من قبل المستخدمين ، والعمل من خلال هوياتهم الرقمية ** Xeeds ** والوصول إلى العالم من خلال الميتاماسك الخاصة بهم ، للتشفير ، أو تسجيل الدخول / كلمة المرور للمبتدئين. وسوف يخصص الناس مشاركتهم ويحصلون على مكافأة بطريقة عادلة وشفافة ولا مركزية. سيحصلون على إمكانية الوصول إلى العالم اللامركزي وعالم التشفير في المستقبل بطريقة سهلة ومألوفة - سيحصلون على أدوات بسيطة لاستخدام رموزهم في حياتهم أو استثمارها من أجل مستقبلهم.
 
-Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the metaverse, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
+المنظمات - **Deeds** ستكون قادرة على الحصول على المواهب، والتصفح من خلال WoM، للحصول على المهارات الصحيحة المثبتة. سوف يحصلون على مكافأة لمشاركتهم في ميتافيرس، عن طريق سك الرموز من خلال مشاركة المستخدمين (نموذج المينتيوم). ولكن الأهم من ذلك كله، أنهم سيستفيدون من زيادة المشاركة و ولاء أعلى من مستخدميهم.
 
 The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
 
