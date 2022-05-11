@@ -124,7 +124,7 @@ Une ville sera considérée complète, une fois que tous les Deeds seront géné
 | Ville 6 : Kushor    | 10 000 000  | Eshmum + 64 mois   | 6 000 000  | 3 000 000      | 999 998   | 2              |
 | Ville 7 : Hammon    | 100 000 000 | Kushor + 128 mois  | 60 000 000 | 30 000 000     | 9 999 999 | 1              |
 
-Une ville est le moyen pour les Deeds pour se réunir er créer une communauté. Comme conséquence, obtenir une identité associée avec cette communauté. C'est aussi un moyen de rapporter plus de valeurs à ses utilisateurs - une valeur qui va plus loin que les capacités d'un Deed ou valeur créée à travers la coopération entres Deeds.
+Une ville est le moyen pour les Deeds pour se réunir er créer une communauté. Comme conséquence, cela permet de créer une identité propre à cette communauté. C'est aussi un moyen d'apporter plus de valeur à ses utilisateurs - qui va plus loin que les seules capacités d'un Deed ou que la valeur créée grâce à la coopération entres Deeds.
 
 Chaque ville a sa propre gouvernance et opère son propose DAO où les propriètaires des Deeds de la ville peuvent élire leur conseil municipal, voter et établir leurs propres règles, ajouter de nouveaux services et façoner leurs ville à leurs manière afin de rendre attractive leurs ville et rajouter la valeur aux Deeds associés.
 
