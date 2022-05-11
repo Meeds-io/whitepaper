@@ -124,12 +124,12 @@ Une ville sera considérée complète, une fois que tous les Deeds seront géné
 | Ville 6 : Kushor    | 10 000 000  | Eshmum + 64 mois   | 6 000 000  | 3 000 000      | 999 998   | 2              |
 | Ville 7 : Hammon    | 100 000 000 | Kushor + 128 mois  | 60 000 000 | 30 000 000     | 9 999 999 | 1              |
 
-Une ville est le moyen pour les Deeds pour se réunir er créer une communauté. Comme conséquence, cela permet de créer une identité propre à cette communauté. C'est aussi un moyen d'apporter plus de valeur à ses utilisateurs - qui va plus loin que les seules capacités d'un Deed ou que la valeur créée grâce à la coopération entres Deeds.
+Une ville est le moyen pour les Deeds pour se réunir et créer une communauté. Par conséquent, cela permet de créer une identité propre à cette communauté. C'est aussi un moyen d'apporter plus de valeur à ses utilisateurs - qui va plus loin que les seules capacités d'un Deed ou que la valeur créée grâce à la coopération entres Deeds.
 
-Chaque ville a sa propre gouvernance et opère son propose DAO où les propriètaires des Deeds de la ville peuvent élire leur conseil municipal, voter et établir leurs propres règles, ajouter de nouveaux services et façonner leur ville à leur manière. Cela leur permet de rendre attractive leur ville et de rajouter de la valeur aux Deeds associés.
+Chaque ville a sa propre gouvernance et opère sa propre DAO où les propriétaires des Deeds de la ville peuvent élire leur conseil municipal, voter et établir leurs propres règles, ajouter de nouveaux services et façonner leur ville à leur manière. Cela leur permet de rendre attractive leur ville et de rajouter de la valeur aux Deeds associés.
 
-Par exemple, ils peuvent ajouter une représentation digitale de leur ville, des homologues physiques associés à leur ville (salles de réunion dans des espaces physiques de co-working par exemple), proposer des services de restauration, des activités de loisirs grâce aux Meeds, etc...
+Par exemple, ils peuvent ajouter une représentation digitale de leur ville, des bénéfices dans le monde physique associés à leur ville (salles de réunion dans des espaces de co-working par exemple), proposer des services de restauration, des activités de loisirs grâce aux Meeds, etc...
 
-Par défaut (sauf dans le cas où la ville vote autrement), les revenus passifs de la location des Deeds seront soumis à des taxes au profit de la ville (5%) et de l'association (3%) pour encourager l'usage productif.
+Par défaut (sauf si la ville en décide autrement), les revenus passifs de la location des Deeds seront soumis à des taxes au profit de la ville (5%) et de l'association Meeds (3%) pour encourager l'usage productif.
 
-Les échanges de titre de propriété (ventes de Deed) seront également taxées à hauteur de 6% - 2,5% pour la ville, 2,5% pour l'association et 1% pour le portefeuille numérique original qui a racheté le Deed.
+Les échanges de titre de propriété (ventes de Deed) seront également taxées à hauteur de 6% - 2,5% pour la ville, 2,5% pour l'association et 1% pour le portefeuille numérique à l'origine de la création du Deed.
