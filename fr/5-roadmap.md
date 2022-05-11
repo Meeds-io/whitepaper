@@ -8,11 +8,11 @@ Il sera peuplé par des utilisateurs à travers leurs identités numériques **X
 
 Organisations - **Deeds** serait en mesure de chercher des talents, de naviguer à travers le WoM, pour trouver les compétences qui ont fait leurs preuves. Ils seraient récompensés pour leur participation à la métaverse, en éméttant des jetons à travers l'engagement de leurs utilisateurs (modèle mintium). Mais surtout, ils bénéficieraient d'un engagement et d'une loyauté accrues de la part de leurs utilisateurs.
 
-The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
+Le WoM aurait sa propre monnaie **Meeds** – qui serait là pour être dépensé dans les boutiques, converti en une autre devise, investi pour un retour financier sur investissement, loué ou acheté, etc. Le WoM faciliterait également la distribution d'autres jetons et participerait à l'écosystème global des cryptomonnaies.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
+Une image vaut mille mots, voici donc un diagramme qui décrit les flux WoM et Meeds
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
+La maintenance et la stabilité du monde à long terme sont assurés par des taxes partagées entre l'association Meeds et les Cities.
 
 ## 5.2. What’s in it for early adopters
 
