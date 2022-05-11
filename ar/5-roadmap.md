@@ -29,13 +29,13 @@
 
 وبالطبع يمكن للمنظمات المشاركة في مجمعات السيولة، ولكن أيضا الانضمام إلى مجتمع البناة، والحصول على مكافآت مشاركة إضافية هناك.
 
-The diagram below represents an example of the Meeds investment strategy for work holders :
+يمثل الرسم البياني أدناه مثالاً على استراتيجية الاستثمار في ميدس لأصحاب رؤوس الأموال:
 
-## 5.3. The launch
+## 5.3. الإطلاق
 
-The official launch date is set as for May 1st, 2022 – the International Workers Day, celebrated in many countries.
+لقد تم تحديد تاريخ الإطلاق الرسمي في الأول من مايو/أيار 2022 ـ وهو اليوم العالمي للعمال، الذي يحتفل به في العديد من البلدان.
 
-At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
+في ذلك الوقت، الرمز ميدس موجود بالفعل. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
 
 Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
 
