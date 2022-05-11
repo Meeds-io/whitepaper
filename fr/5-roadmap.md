@@ -4,9 +4,9 @@
 
 En fin de compte, le WoM est un monde du web décentralisé pour tout le monde – pour chaque personne et chaque organisation.
 
-Il sera peuplé par des utilisateurs à travers leurs identités numériques **Xeeds**, accédant par leurs comptes metamasks, pour les crypto-savvies, ou par identifiant/mot de passe pour les débutants. Les gens fourniraient leur engagement et seraient récompensés de manière équitable, transparente et décentralisée. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
+Il sera peuplé par des utilisateurs à travers leurs identités numériques **Xeeds**, accédant par leurs comptes metamasks, pour les crypto-savvies, ou par identifiant/mot de passe pour les débutants. Les gens fourniraient leur engagement et seraient récompensés de manière équitable, transparente et décentralisée. Ils auraient accès au monde décentralisé et des cryptomonnaies de l'avenir d'une manière facile et familière - ils auraient accès à des outils simples pour pouvoir utiliser leurs jetons dans leur vie ou les investir pour leur avenir.
 
-Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the metaverse, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
+Organisations - **Deeds** serait en mesure de chercher des talents, de naviguer à travers le WoM, pour trouver les compétences qui ont fait leurs preuves. Ils seraient récompensés pour leur participation à la métaverse, en éméttant des jetons à travers l'engagement de leurs utilisateurs (modèle mintium). But most of all, they would benefit from a higher engagement and loyalty from their users.
 
 The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
 
