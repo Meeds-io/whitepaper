@@ -1,25 +1,25 @@
-# 3. Meeds token – the Work Metaverse currency
+# 3. Jeton Meeds - La monnaie du Work Metaverse
 
-The Work Metaverse is powered by its currency – the Meeds token. Les Meeds sont utilisés pour récompenser les utilisateurs (par le biais de programmes d'engagement), acheter dans les boutiques, obtenir des Deeds, obtenir des retours sur investissements, etc.
+Le Work Metaverse est alimenté par sa propre monnaie - le jeton Meeds. Les Meeds sont utilisés pour récompenser les utilisateurs (par le biais de programmes d'engagement), acheter dans les boutiques, obtenir des Deeds, obtenir des retours sur investissements, etc.
 
 ## 3.1. Tokenomics
 
-L'approvisionnement maximal de Meeds est limité à 100 millions de jetons, émis progressivement. 5 millions de Meeds (5% de l’approvisionnement total) ont été émis à ce jour. Parmi ces 5M, 4,5M sont bloqués dans un contrat de voûte avec une acquisition linéaire sur 4 ans. Le montant anticipé a été principalement utilisé pour l'acquisition de logiciels IP, pour payer les frais légaux des émissions de jetons et pour les services d'hébergement. Le reste fait partie des fonds de Meeds DAO et sera utilisé pour payer les services ainsi que certaines incitations au lancement telles que des airdrops et des campagnes de parrainage.
+Le nombre maximal de Meeds est limité à 100 millions de jetons, émis progressivement. 5 millions de Meeds (5% de l’approvisionnement total) ont été émis à ce jour. Parmi ces 5M, 4,5M sont bloqués dans un contrat de vesting avec une acquisition linéaire sur 4 ans. Les sommes émises ont été principalement utilisées pour l'acquisition de propriété intellectuelle de logiciel, pour payer les frais légaux d'émission de jetons et pour les services d'hébergement. Le reste fait partie des fonds de Meeds DAO et sera utilisé pour payer les services ainsi que certaines initiatives au lancement telles que des airdrops et des campagnes de parrainage.
 
 Les Meeds sont émis à une cadence de 10 Meeds par minute. Par conséquent, l'horizon de l'émission complète est proche de 20 ans (10*60*24*365 Meeds sont émis chaque année).
 
 ## 3.2. Répartition de l'émission
 
 Les Meeds émis sont alloués pour encourager la participation des trois catégories de parties prenantes - les utilisateurs, les constructeurs et les investisseurs :
-- The users (users and Deeds holders/renters) get Meeds through engagement rewards (mintium model).
-- Builders (members of the association and community) get Meeds through the association funds to build, operate and improve the WoM.
-- Investors mint Meeds through renting and buying of liquidity pools and staking Meeds.
+- Les utilisateurs (utilisateurs et propriétaires / loueurs de Deeds) obtiennent des Meeds grâce aux récompenses produites par l'engagement (modèle Mintium).
+- Les constructeurs (membres de l'association et communauté) recueillent des Meeds à travers les fonds de l'association utilisés pour construire, opérer et améliorer le WoM.
+- Les investisseurs émettent des Meeds par la location et l'achat de liquidités et aux intérêts produits par les placements de Meeds.
 
-Au début, les constructeurs obtiennent 30% de l'attribution. Les 70% restants sont partagés entre les utilisateurs et les investisseurs. Cette proportion d'allocation sera régulièrement révisée par le biais du vote de l'association Meeds DAO.
+Au début, les constructeurs obtiennent 30% de l'attribution. Les 70% restants sont partagés entre les utilisateurs et les investisseurs. Cette proportion d'allocation sera régulièrement révisée, selon les votes réalisés par l'association Meeds.
 
-## 3.3. Users – minting through engagement
+## 3.3. Utilisateurs - Emettre grâce à l'engagement
 
-Une partie des Meeds émis en permanence est allouée au canal de l'engagement. La distribution se fait hebdomadairement. À chaque fin de semaine, l'indice d'engagement est calculé et les Deeds peuvent réclamer leurs récompenses la semaine suivante et obtenir leurs Meeds. Les Meeds non réclamés restent dans les réserves et sont ajoutés à la distribution de la semaine suivante. Le modèle est décrit en détails dans le chapitre précédent (partie 2.6).
+Une partie des Meeds émis est allouée aux mécanismes de l’engagement. La distribution est réalisée chaque semaine. A chaque fin de période, l’index de l’engagement est calculé et les Deeds peuvent réclamer leurs récompenses la semaine suivante pour obtenir leurs Meeds. Les Meeds non réclamés sont conservés dans un fond et sont ajoutés pour la distribution de la semaine suivante. Le modèle est décrit en détail dans le précédent chapitre (2.6).
 
 ## 3.4. Constructeurs – Meeds association DAO et communauté de constructeurs
 
