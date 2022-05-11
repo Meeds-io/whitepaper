@@ -1,4 +1,4 @@
-# 5. The Work Metaverse for ALL – vision summary and milestones
+# 5. ميتافيرس العمل لكل شيء - ملخص الرؤية والمعالم
 
 ## 5.1. Ultimate goal - decentralized web for everyone
 
