@@ -26,15 +26,15 @@ Les identifiants sont plus flexibles que les badges ; il peuvent être une reco
 
 Tout ce qui précède contribue à former un ensemble de compétences numériques éprouvées qui peuvent être conservées et utilisées par l'utilisateur lors d'un changement d'emploi ou d'une activité indépendante. Ce serait plus fiable que les solutions traditionnelles car il repose non seulement sur un individu mais sur toute une communauté pour le prouver.
 
-Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Deed to another, from one city to another, anywhere through the WoM.
+Tout comme son portefeuille Meeds, l'utilisateur conservera ses Xeed, Badges, et les Identifiants rattachés à son portefeuille d'identité lorsqu'il se déplace d'un Deed à l'autre, d'une ville à l'autre, n'importe où à travers le WoM.
 
-The user will be able to share his Xeed, Badges, and Credentials with other Deeds to highlight his experience, as well as with recruiters or any other services that he deems interesting.
+L'utilisateur pourra partager ses Xeed, ses Badges et ses Identifiants avec d'autres Deeds pour mettre en valeur son expérience, ainsi qu'avec les recruteurs ou tout autre service qu'il juge intéressant.
 
-A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations.
+Un utilisateur peut avoir une ou plusieurs identités numériques dans le WoM. He could later present them in a unified way using verified presentations.
 
-Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself....In a manner of trustworthy LinkedIn 3.0.
+Contrairement au Web 2, l'utilisateur est pleinement propriétaire de ses identités décentralisées. Ce dernier peut montrer (et prouver) les Deeds auxquels il a participé, ses compétences éprouvées, ses compétences revendiquées, d'autres Xeeds (personnes) avec qui il a travaillé, sa représentation numérique de lui-même ... à la manière d'un LinkedIn 3.0 fiable.
 
-The user will be able to select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Deeds, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time.
+L'utilisateur sera en mesure de choisir ce qu'il veut révéler, quelles informations fournir, et quelle identité utiliser pour chaque poste. Le contenu (compétences éprouvées, Propriétés précédentes, etc.) est une preuve inviolable et ne peut donc pas être modifié. Toute identité devra être développée au fil du temps.
 
 ## 4.4. Marché de travail équitable
 
