@@ -38,27 +38,27 @@ L'utilisateur sera en mesure de choisir ce qu'il veut révéler, quelles informa
 
 ## 4.4. Marché de travail équitable
 
-Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Deeds – as they do in the physical world by changing employers. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to choose which Deed provides better engagement reward conditions, belongs to a more attractive city, etc.
+Au sein de ce paradigme, le futur marché du travail permet aux utilisateurs de se déplacer librement et d'allouer/vendre leur engagement parmi les Deeds – comme ils le font dans le monde physique en changeant d'employeurs. Cependant, dans le WoM leur engagement serait tangible, mesuré et récompensé de manière équitable. En se déplaçant entre les systèmes suivant une logique similaire, ils comprendront mieux les règles du jeu et jugeront équitablement les employeurs – l’herbe n’est pas toujours plus verte ailleurs. Les utilisateurs seront en mesure de choisir quel Deed fournit de meilleures récompenses d'engagement, quelle ville est la plus attrayante, etc.
 
-On their end, the Deeds’ holders/renters can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
+De leur côté, les détenteurs/locataires des Deeds peuvent rechercher des compétences pertinentes en utilisant le réseau WoM d’identités de travail numériques (que les utilisateurs ont décidé de divulguer). Ils seront en mesure de trouver des compétences plus efficacement, basées sur des informations vérifiées et détaillées sur l'historique du travail, les compétences de travail et le niveau d'engagement de l'utilisateur.
 
 ## 4.5. Reconnaissance tangible et transparente
 
-Today, details on compensation and bonuses are obscure in many workplaces. Therefore, it is difficult for a person to compare his conditions to that of another and get a sense of a fair and unbiased treatment. Employees experience a lot of frustrations with the above.
+Aujourd'hui, les détails sur la compensation et les primes ne sont pas clairs sur de nombreux lieux de travail. Par conséquent, il est difficile pour une personne de comparer ses conditions à celles d'une autre personne et d'obtenir un sentiment de traitement équitable et impartial. Les employés éprouvent beaucoup de frustrations par rapport à ce qui précède.
 
-The WoM introduces an objective way to recognize achievements and reward them.
+Le WoM introduit une façon objective de reconnaître les réalisations et de les récompenser.
 
-Engagement recognition and reward mechanism is transparent and applies fairly to all users, following the same explicit rules, decided in advance and aligned with the Deed’s goals.
+Le mécanisme de reconnaissance de l'engagement et de récompense est transparent et s'applique équitablement à tous les utilisateurs, suivant les mêmes règles explicites, décidées à l’avance et alignées sur les objectifs du Deed.
 
-Wallets are individual and blockchain based – when the user receives a reward or earns a badge, it cannot be taken back or erased.
+Les portefeuilles sont individuels et basés sur la blockchain – lorsque l'utilisateur reçoit une récompense ou gagne un badge, il ne peut pas être récupéré ou effacé.
 
-## 4.6. Access to Web 3.0, cryptoeconomy and DEFI services
+## 4.6. Accès aux services Web 3.0, de crypto-économie et de DEFI
 
-As discussed above, the Work Metaverse opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
+Comme il a été dit ci-dessus, le Work Metaverse ouvre le monde de la cryptomonnaie et des services web décentralisés à tout le monde – une très grande population d'utilisateurs, même sans rapport avec le champ numérique.
 
-Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
+En effet, tout engagement de travail peut potentiellement être tokenisé. En fait, le monde devient de plus en plus numérique avec des tendances telles que 5G, l'internet des objets, l'informatique vestimentaire, etc. En conséquence, de plus en plus de signaux pourraient être saisis et analysés pour tokeniser l'engagement des professions non numériques. Les défis sont là pour aller de l'avant en représentant les réalisations dans le monde physique.
 
-Any user can get Meeds and use a Meeds wallet to get access to new age services without any special training.
+N'importe quel utilisateur peut obtenir des Meeds et utiliser un portefeuille Meeds pour accéder à des services d'une nouvelle ère sans formation spéciale.
 
 [^7]: A.Preukschatt, R. Drummond “Self-Sovereign Identity
 [^8]: Verifiable Credentials Data Model
