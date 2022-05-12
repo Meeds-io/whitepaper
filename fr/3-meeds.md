@@ -10,7 +10,7 @@ Les Meeds sont émis à une cadence de 10 Meeds par minute. Par conséquent, l'e
 
 ## 3.2. Répartition de l'émission
 
-Les Meeds émis sont alloués pour encourager la participation des trois catégories de parties prenantes - les utilisateurs, les constructeurs et les investisseurs :
+Les Meeds émis sont alloués pour encourager la participation des trois catégories de parties prenantes - les utilisateurs, les bâtisseurs et les investisseurs :
 - Les utilisateurs (utilisateurs et propriétaires / loueurs de Deeds) obtiennent des Meeds grâce aux récompenses produites par l'engagement (modèle Mintium).
 - Les bâtisseurs (membres de l'association et de la communauté) recueillent des Meeds à travers les fonds de l'association utilisés pour construire, opérer et améliorer le WoM.
 - Les investisseurs génèrent des Meeds pour la location et l'achat de liquidités et par les intérêts produits en plaçant leurs Meeds.
