@@ -8,7 +8,7 @@ It will be populated by users, acting through their digital identities **Xeeds**
 
 Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the metaverse, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
 
-The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
+The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
 
 As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
 
