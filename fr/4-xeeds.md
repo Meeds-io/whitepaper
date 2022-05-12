@@ -6,15 +6,15 @@ Le WoM reconnaît la confidentialité comme un droit humain fondamental et perme
 
 Notre approche est basée sur des principes d'identités décentralisées et autosouverains, permettant aux utilisateurs de contrôler à tout moment les informations qu'ils souhaitent publier, partager avec un groupe restreint ou garder privées.
 
-L'activité et l'engagement des utilisateurs dans le WoM est toujours lié à un Deed. Un Xeed est le personnage virtuel d'un utilisateur dans un Deed. Xeed ne nécessite aucun KYC (protocole permettant de vérifier l'identité de l'individu - Know Your Customer), il est auto-déclarant, mais nous pourrions imaginer que des sociétés tierces fournissent ce service.
+L'activité et l'engagement des utilisateurs dans le WoM est toujours lié à un Deed. Un Xeed est le personnage virtuel d'un utilisateur dans un Deed. Un Xeed ne nécessite aucun KYC (protocole permettant de vérifier l'identité de l'individu - Know Your Customer), il est auto-déclarant, mais nous pourrions imaginer que des sociétés tierces fournissent ce service.
 
-## 4.2. Badges et identifiants
+## 4.2. Badges et références
 
-Les badges et les identifiants sont donnés aux utilisateurs dans le cadre de leur participation à un Deed. Le titulaire peut les télécharger au format d'Identifiants Vérifiables W3C[^7][^8] (alias VCs) et les stocker dans son portefeuille. Ces VCs sont des preuves de connaissances/savoir-faire attestées par l'organisme qui les délivre.
+Des badges et des références peuvent être délivrés aux utilisateurs dans le cadre de leur participation à un Deed. Le titulaire peut les télécharger au format des Verifiable Credentials W3C[^7][^8] (alias VCs) et les stocker dans son portefeuille. Ces VCs sont des preuves de connaissances/savoir-faire attestées par l'organisation qui les délivre.
 
 Dans le monde d'aujourd'hui, il est difficile de prouver une compétence en amont. Lorsque les gens s'annoncent sur les réseaux, ils comptent sur leurs managers pour leur donner une recommandation. Cette dernière suppose une certaine bonne volonté de la part du dirigeant mais n'est pas nécessairement considérée comme une preuve par le futur employeur.
 
-Le Work Métaverse fournit à ses utilisateurs un moyen plus transparent et immuable d'acquérir et de démontrer leurs capacités.
+Le Work Metaverse fournit à ses utilisateurs un moyen plus transparent et immuable d'acquérir et de démontrer leurs capacités
 
 Les badges sont utilisés pour représenter les réalisations faites au sein d'un Deed. Après avoir complété un ensemble d'objectifs ou challenges, les utilisateurs seront récompensés par des points. Les badges sont débloqués selon l'accumulation d'un certain nombre de points dans des catégories spécifiques.
 
