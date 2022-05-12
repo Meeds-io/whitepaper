@@ -27,28 +27,28 @@ Les organisations qui acquerront des Deeds mais surtout qui les utiliseront pour
 Le diagramme ci-dessous représente un exemple de la stratégie d'investissement Meeds pour les détenteurs de capitaux :
 
 
-les organisations peuvent bien sûr participer à des pools de liquidités, mais aussi rejoindre la communauté des bâtisseurs et y obtenir des récompenses d'engagement supplémentaires.
+Les organisations peuvent bien sûr participer à des pools de liquidités, mais aussi rejoindre la communauté des bâtisseurs et y obtenir des récompenses d'engagement supplémentaires.
 
-Le diagramme ci-dessous représente un exemple de la stratégie d'investissement Meeds pour les détenteurs de travaux :
+Le diagramme ci-dessous représente un exemple de la stratégie d'investissement Meeds pour les travailleurs :
 
 ## 5.3. Le lancement
 
 La date de lancement officielle est fixée au 1er mai 2022 – la Journée internationale des travailleurs, célébrée dans de nombreux pays.
 
-À cette époque, le jeton Meed existe déjà. Il est possible de l’acquérir sur les réseaux Polygon et Ethereum dans lesquels les pools de liquidité sont ouverts à la participation, .
+Le jeton Meed existe d'ores et déjà. Il est possible de l’acquérir sur les réseaux Polygon et Ethereum dans lesquels des pools de liquidité sont mis à disposition.
 
-Trois membres de l'association Meeds utilisent le système en interne pour engager et récompenser leurs utilisateurs et améliorer le logiciel Meeds.
+Trois organisations fondatrices de l'association Meeds utilisent le système en interne pour engager et récompenser leurs utilisateurs et améliorer le logiciel Meeds.
 
-L'application Investors est disponible sur le réseau Ethereum Mainnet. Au lancement, il comprend le financement, les récompenses en liquidité, l’accumulation de points et le rachat de Deeds.
+L'application Investors est disponible sur le réseau Ethereum Mainnet. Au lancement, elle comprend le placement, les récompenses pour apport de liquidités, l’accumulation de points et l'acquisition de Deeds.
 
-La communauté des constructeurs est opérationnelle sur le logiciel Meeds, ouvert à tous ceux qui voudraient le rejoindre, le tester et y participer. Il est possible de se connecter avec Metamask.
+La communauté Builders fonctionne grâce au logiciel Meeds, ouvert à tous ceux qui voudraient la rejoindre, l'essayer et s'y impliquer. Il est possible de se connecter avec Metamask.
 
-Ce document est à publier le jour du lancement. Après le lancement, le jeton sera air-droppé pour de nombreuses personnes dans la communauté des cryptomonnaies.
+Ce document sera publié le jour du lancement. Suite au lancement, le jeton sera offert à nombreuses personnes dans la communauté des cryptomonnaies.
 
 ## 5.4. La communauté des bâtisseurs
-Nous lançons la communauté des constructeurs sur le logiciel Meeds et sur Discord. La communauté accueille tous ceux qui veulent participer à la construction du Metaverse du travail. L'association récompenserait l'engagement des constructeurs avec Meeds, à partir de son budget marketing.
+Nous lançons la communauté des bâtisseurs sur le logiciel Meeds et sur Discord. La communauté accueille tous ceux qui veulent participer à la construction du Work Metaverse. L'association récompensera l'engagement des bâtisseurs en Meeds, sur son budget marketing.
 
-L'association prévoit également de placer quelques Meeds afin d'acquérir (racheter) un Deed pour la communauté des constructeurs. La communauté finira ensuite par se lancer dans Meeds par engagement, par le biais du modèle mintium, et les distribuera aux utilisateurs engagés.
+L'association prévoit également de placer elle-même quelques Meeds afin d'acquérir un Deed pour sa communauté des bâtisseurs. La communauté finira ensuite par se lancer dans Meeds par engagement, par le biais du modèle mintium, et les distribuera aux utilisateurs engagés.
 
 ## 5.5. Feuille de route et jalons
 Notre feuille de route suivrait l'ordre de priorité ci-dessous:
