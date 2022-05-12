@@ -107,7 +107,7 @@ L’association se réserve le droit de changer la formule si besoin – si de n
 
 Comme les Deeds sont récompensés avec les Meeds et qu’ils sont incités à en redistribuer aux utilisateurs en échange de leur engagement, les intérêts des Deeds et des utilisateurs sont alignés dans un même cycle vertueux de partage des revenus. Ainsi, le WoM offre un nouveau modèle du travail, qui reconfigure la relation employeur/employé en partenariat.
 
-Ce modèle "Mintium" est le premier du genre - Cela va plus loin que les traditionnels modèles en freemium, en ce sens que non seulement, les services sont libres d’utilisation mais aussi que les organisations et leurs utilisateurs sont rétribués et récompensés pour leur propre usage.
+Ce modèle "Mintium" est le premier du genre - il va plus loin que les traditionnels modèles freemium, car non seulement, les services sont libres d’utilisation mais aussi car les organisations et leurs utilisateurs sont rétribués et récompensés pour leur propre usage.
 
 ## 2.7. Villes et gouvernance
 
