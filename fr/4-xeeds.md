@@ -52,13 +52,13 @@ Le mécanisme de reconnaissance de l'engagement et de récompense est transparen
 
 Les portefeuilles sont individuels et basés sur la blockchain – lorsque l'utilisateur reçoit une récompense ou gagne un badge, il ne peut pas être repris ou effacé.
 
-## 4.6. Accès aux services Web 3.0, de crypto-économie et de DEFI
+## 4.6. Accès aux services Web 3.0, de crypto-économie et de DeFi
 
 Comme indiqué ci-dessus, le Work Metaverse ouvre le monde de la cryptomonnaie et des services web décentralisés à tout le monde – une très grande population d'utilisateurs, même ceux n'évoluant pas dans le monde numérique.
 
-En effet, tout engagement au travail peut potentiellement être tokenisé. En fait, le monde devient de plus en plus numérique avec des tendances telles que le réseau 5G, l'internet des objets, l'informatique vestimentaire, etc. Par conséquent, de plus en plus d'expériences pourraient être saisies et analysées pour tokeniser l'engagement des professions non numériques. Les challenges sont proposés pour faciliter cette tokenisation en proposant de représenter les réalisations faites dans le monde physique.
+En effet, tout engagement au travail peut potentiellement être représenté par des jetons. En fait, le monde devient de plus en plus numérique avec des tendances telles que le réseau 5G, l'internet des objets, l'informatique vestimentaire, etc. Par conséquent, de plus en plus d'expériences pourraient être saisies et analysées pour jetoniser l'engagement des professions non numériques. Les challenges sont proposés pour faciliter cette jetonisation en proposant de représenter les réalisations faites dans le monde physique.
 
 N'importe quel utilisateur peut obtenir des Meeds et utiliser un portefeuille Meeds pour accéder à des services d'une nouvelle ère sans formation spéciale.
 
 [^7]: A. Preukschatt, R. Drummond “Self-Sovereign Identity
-[^8]: Modèle de données d'Identité Vérifiable
+[^8]: Modèle de données des Verifiable Credentials
