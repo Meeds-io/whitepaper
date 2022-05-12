@@ -20,17 +20,17 @@ Les badges sont utilisés pour représenter les réalisations faites au sein d'u
 
 Lorsque les badges sont téléchargés par l'utilisateur, il est possible d'inclure le nombre de points et son rang dans le Deed pour cette réalisation spécifique.
 
-Les identifiants sont plus flexibles que les badges ; il peuvent être une recommandation de la part d'un pair, indiquant des années d'expertise, une formation ou un examen terminé, ou un engagement dans le Deed. Ceux ci sont signés par le Deed et peuvent être accompagnés par une signature par un utilisateur pair.
+Les identifiants sont plus flexibles que les badges ; il peuvent être une recommandation de la part d'un pair, indiquant des années d'expertise, une formation ou un examen terminé, ou un engagement dans le Deed. Ceux-ci sont signés par le Deed et peuvent être accompagnés par une signature par un utilisateur pair.
 
-## 4.3. Identité de travail numérique
+## 4.3. Identité numérique de travail
 
-Tout ce qui précède contribue à former un ensemble de compétences numériques éprouvées qui peuvent être conservées et utilisées par l'utilisateur lors d'un changement d'emploi ou d'une activité indépendante. Ce serait plus fiable que les solutions traditionnelles car il repose non seulement sur un individu mais sur toute une communauté pour le prouver.
+Tout ce qui précède contribue à former un ensemble de compétences numériques éprouvées qui peuvent être conservées et utilisées par l'utilisateur lors d'un changement d'emploi ou d'une activité indépendante. C'est plus fiable que les solutions traditionnelles car il ne suffit pas d'un seul individu mais toute une communauté pour le prouver.
 
 Tout comme son portefeuille Meeds, l'utilisateur conservera ses Xeed, Badges, et les Identifiants rattachés à son portefeuille d'identité lorsqu'il se déplace d'un Deed à l'autre, d'une ville à l'autre, n'importe où à travers le WoM.
 
-L'utilisateur pourra partager ses Xeed, ses Badges et ses Identifiants avec d'autres Deeds pour mettre en valeur son expérience, ainsi qu'avec les recruteurs ou tout autre service qu'il juge intéressant.
+L'utilisateur pourra dévoiler son Xeed, ses badges et ses identifiants dans d'autres Deeds afin de faire valoir son expérience, auprès de recruteurs ou de tout autre service qu'il jugera intéressant.
 
-Un utilisateur peut avoir une ou plusieurs identités numériques dans le WoM. Il pourrait ensuite les présenter de manière unifiée.
+Un utilisateur peut avoir une ou plusieurs identités numériques dans le WoM. Il peut ensuite les présenter de manière unifiée.
 
 Contrairement au Web2, l'utilisateur est pleinement propriétaire de ses identités décentralisées. Il peut montrer (et prouver) les Deeds auxquels il a participé, ses compétences éprouvées, ses compétences revendiquées, d'autres Xeeds (personnes) avec qui il a travaillé, sa représentation numérique de lui-même ... à la manière d'un LinkedIn 3.0 fiable.
 
@@ -38,19 +38,19 @@ L'utilisateur sera en mesure de choisir ce qu'il veut révéler, quelles informa
 
 ## 4.4. Marché du travail équitable
 
-Au sein de ce paradigme, le futur marché du travail permet aux utilisateurs de se déplacer librement et d'allouer/vendre leur engagement parmi les Deeds – comme ils le font dans le monde physique en changeant d'employeurs. Cependant, dans le WoM leur engagement serait tangible, mesuré et récompensé de manière équitable. En se déplaçant entre les systèmes suivant une logique similaire, ils comprendront mieux les règles du jeu et jugeront équitablement les employeurs – l’herbe n’est pas toujours plus verte ailleurs. Les utilisateurs seront en mesure de choisir quel Deed fournit de meilleures récompenses d'engagement, quelle ville est la plus attrayante, etc.
+Au sein de ce paradigme, le futur marché du travail permettra aux travailleurs de se déplacer librement et d'allouer/vendre leur capacité d'engagement parmi les Deeds – comme ils le font dans le monde physique en changeant d'employeurs. Cependant, dans le WoM leur engagement sera bien tangible, mesuré et récompensé de manière équitable. En se déplaçant entre les systèmes suivant une logique similaire, ils comprendront mieux les règles du jeu et évalueront plus justement les employeurs – l’herbe n’est pas toujours plus verte ailleurs. Les utilisateurs seront en mesure de choisir quel Deed fournit de meilleures récompenses d'engagement, quelle ville est la plus attrayante, etc.
 
-De leur côté, les détenteurs/locataires des Deeds peuvent rechercher des compétences pertinentes en utilisant le réseau WoM d’identités de travail numériques (que les utilisateurs ont décidé de divulguer). Ils seront en mesure de trouver des compétences plus efficacement, basées sur des informations vérifiées et détaillées sur l'historique du travail, les compétences de travail et le niveau d'engagement de l'utilisateur.
+De leur côté, les détenteurs/locataires des Deeds peuvent rechercher des compétences pertinentes en utilisant le réseau WoM d’identités de travail numériques (que les utilisateurs ont décidé de divulguer). Ils seront en mesure de trouver des compétences plus efficacement, en s'appuyant sur des informations vérifiées et des curriculums détaillés, des compétences professionnelles et le niveau d'engagement de l'utilisateur.
 
 ## 4.5. Reconnaissance tangible et transparente
 
-Aujourd'hui, les détails sur la compensation et les primes ne sont pas clairs sur de nombreux lieux de travail. Par conséquent, il est difficile pour une personne de comparer ses conditions à celles d'une autre personne et d'obtenir un traitement équitable et impartial. Les employés éprouvent ainsi beaucoup de frustration.
+Aujourd'hui, les informations sur la compensation et les primes ne sont pas clairs sur de nombreux lieux de travail. Par conséquent, il est difficile pour une personne de comparer ses conditions à celles d'une autre personne et d'obtenir un traitement équitable et impartial. Les employés éprouvent ainsi beaucoup de frustration.
 
 Le WoM introduit une façon objective de reconnaître les réalisations et de les récompenser.
 
-Le mécanisme de reconnaissance de l'engagement et de récompense est transparent et s'applique équitablement à tous les utilisateurs, suivant les mêmes règles explicites, décidées à l’avance et alignées sur les objectifs du Deed.
+Le mécanisme de reconnaissance de l'engagement et de récompense est transparent et s'applique équitablement à tous les utilisateurs, en suivant les mêmes règles explicites, décidées à l’avance et alignées sur les objectifs du Deed.
 
-Les portefeuilles sont individuels et basés sur la blockchain – lorsque l'utilisateur reçoit une récompense ou gagne un badge, il ne peut pas être récupéré ou effacé.
+Les portefeuilles sont individuels et basés sur la blockchain – lorsque l'utilisateur reçoit une récompense ou gagne un badge, il ne peut pas être repris ou effacé.
 
 ## 4.6. Accès aux services Web 3.0, de crypto-économie et de DEFI
 
