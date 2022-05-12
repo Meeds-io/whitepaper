@@ -73,14 +73,14 @@ Les détenteurs du token Meeds doivent mettre en gage des tokens afin de voter s
 
 ## 3.7. Services aux utilisateurs de la finance décentralisée (DeFi)
 
-Le Work Metaverse introduirq le monde de la blockchain à de nombreuses personnes qui ne l'utilisent pas aujourd'hui.
+Le Work Metaverse introduira le monde de la blockchain à de nombreuses personnes qui ne l'utilisent pas aujourd'hui.
 
 En effet, tout travail (qu'il soit numérique ou pas) peut être gamifié et tout engagement récompensé en Meeds. Les Meeds sont mis à la disposition des utilisateurs via un portefeuille facile à utiliser, basé sur la blockchain, qui "abstrait" toute complexité du monde de la cryptographie pour un utilisateur typique.
 
-Au-delà du portefeuille et d'une boutique où ils peuvent acheter des avantages pour des Meeds, nous prévoyons de présenter à chaque utilisateur plusieurs produits alimentés par les protocoles de financement décentralisé, tels que :
+Au-delà du portefeuille et d'une boutique où ils peuvent acheter des avantages contre des Meeds, nous prévoyons de présenter à chaque utilisateur plusieurs produits alimentés par les protocoles de financement décentralisé, tels que :
 * La possibilité de placer des tokens Meeds et d'obtenir des rendements (générer des revenus)
-* La possibilité d'utiliser des jetonw Meeds comme garantie pour emprunter des devises stables telles que l'USDC (en exploitant d'abord un pool Fuse https://app.rari.capital/fuse puis en enregistrant le jeton Meeds auprès d'AAVE - https://aave.com/) .
-* Une carte de paiement digitale qui peut être ajoutée et utilisée à travers Apple Pay, Google Pay ou tout autre Distributeur automatique. Ce dernier peut être fourni par le biais d'un partenariat avec VISA et tirera partie d'une ligne de crédit en USDC, garantie par des Meeds mis en gage. (Cette carte pourrait également être utilisée par les organisations pour financer les portefeuilles des employés afin de gérer les avantages sociaux tels que
-* les restaurants, le transport et tout type de dépenses.) Donc non seulement les niuveaux utilisateurs découvrirons le monde de la blockchain, et un monde sans intermédiaire bancaire.
+* La possibilité d'utiliser des jeton Meeds comme garantie pour emprunter des devises stables telles que l'USDC (en exploitant d'abord un pool Fuse https://app.rari.capital/fuse puis en enregistrant le jeton Meeds auprès d'AAVE - https://aave.com/) .
+* Une carte de paiement digitale qui peut être ajoutée et utilisée à travers Apple Pay, Google Pay ou tout autre Distributeur automatique. Cette dernière peut être fournie par le biais d'un partenariat avec VISA et tirera partie d'une ligne de crédit en USDC, garantie par des Meeds mis en gage. (Cette carte pourrait également être utilisée par les organisations pour financer les portefeuilles des employés afin de gérer les avantages sociaux tels que
+* les restaurants, le transport et tout type de dépenses.) Donc non seulement les nouveaux utilisateurs découvriront le monde de la blockchain, mais ils vont aussi découvrir un monde sans intermédiaire bancaire.
 
  
