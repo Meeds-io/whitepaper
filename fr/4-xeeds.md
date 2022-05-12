@@ -54,11 +54,11 @@ Les portefeuilles sont individuels et basés sur la blockchain – lorsque l'uti
 
 ## 4.6. Accès aux services Web 3.0, de crypto-économie et de DEFI
 
-Comme il a été dit ci-dessus, le Work Metaverse ouvre le monde de la cryptomonnaie et des services web décentralisés à tout le monde – une très grande population d'utilisateurs, même sans rapport avec le champ numérique.
+Comme indiqué ci-dessus, le Work Metaverse ouvre le monde de la cryptomonnaie et des services web décentralisés à tout le monde – une très grande population d'utilisateurs, même ceux n'évoluant pas dans le monde numérique.
 
-En effet, tout engagement de travail peut potentiellement être tokenisé. En fait, le monde devient de plus en plus numérique avec des tendances telles que 5G, l'internet des objets, l'informatique vestimentaire, etc. En conséquence, de plus en plus de signaux pourraient être saisis et analysés pour tokeniser l'engagement des professions non numériques. Les défis sont là pour aller de l'avant en représentant les réalisations dans le monde physique.
+En effet, tout engagement au travail peut potentiellement être tokenisé. En fait, le monde devient de plus en plus numérique avec des tendances telles que le réseau 5G, l'internet des objets, l'informatique vestimentaire, etc. Par conséquent, de plus en plus d'expériences pourraient être saisies et analysées pour tokeniser l'engagement des professions non numériques. Les challenges sont proposés pour faciliter cette tokenisation en proposant de représenter les réalisations faites dans le monde physique.
 
 N'importe quel utilisateur peut obtenir des Meeds et utiliser un portefeuille Meeds pour accéder à des services d'une nouvelle ère sans formation spéciale.
 
 [^7]: A. Preukschatt, R. Drummond “Self-Sovereign Identity
-[^8]: Modèle de données d'identité vérifiable
+[^8]: Modèle de données d'Identité Vérifiable
