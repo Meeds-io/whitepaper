@@ -107,14 +107,14 @@ L’association se réserve le droit de changer la formule si besoin – si de n
 
 Comme les Deeds sont récompensés avec les Meeds et qu’ils sont incités à en redistribuer aux utilisateurs en échange de leur engagement, les intérêts des Deeds et des utilisateurs sont alignés dans un même cycle vertueux de partage des revenus. Ainsi, le WoM offre un nouveau modèle du travail, qui reconfigure la relation employeur/employé en partenariat.
 
-Cela va plus loin que les traditionnels modèles en freemium, en ce sens que non seulement, les services sont libres d’utilisation mais aussi que les organisations et leurs utilisateurs sont rétribués et récompensés pour leur propre usage.
+Ce modèle "Mintium" est le premier du genre - Cela va plus loin que les traditionnels modèles en freemium, en ce sens que non seulement, les services sont libres d’utilisation mais aussi que les organisations et leurs utilisateurs sont rétribués et récompensés pour leur propre usage.
 
 ## 2.7. Villes et gouvernance
 
 Dans le WoM, les Deeds sont créés petit à petit au sein des villes virtuelles. Seule la première ville existera au début. Les autres seront créées au fur et à mesure, l'une après l'autre. Dans l'ensemble du WoM, il y aura seulement 7 villes, chacune incluant un nombre limité de chacun des types de Deeds.
 
 Une ville sera considérée comme complète une fois que tous les Deeds seront générés et produits. Ensuite, le minage de chaque nouvelle ville débutera 2<sup>n</sup> mois après que le dernier Deed de la précédente ville ait été produit.
-| **Nom de la ville** | **Deeds**   | **Disponible**     | **Commun** | **Non commun** | **Rare**  | **Légendaire** |
+| **Nom de la ville** | **Deeds**   | **Disponible**     | **Commun** | **Peu commun** | **Rare**  | **Légendaire** |
 | ------------------- | ----------- | ------------------ | ---------- | -------------- | --------- | -------------- |
 | Ville 1 : Tanit     | 100         | T0                 | 50         | 30             | 13        | 7              |
 | Ville 2 : Reshef    | 1 000       | Tanit + 4 mois     | 600        | 300            | 94        | 6              |
