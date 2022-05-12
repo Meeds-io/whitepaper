@@ -22,7 +22,7 @@ En particulier, le WoM récompense l'investissement à long terme dans le Verse 
 
 En croyant au projet, en participant aux pools de liquidités, en finansant Meeds, en les rachetant contre les Deeds...les premiers investisseurs de toutes tailles émettraient des jetons supplémentaires. Ils obtiendraient également les droits de vote les plus précoces et contribueraient à façonner la métaverse.
 
-Les organisations qui acquièrent des Deeds mais surtout qui les utilisent pour engager et récompenser leurs employés, seront rémunérées en Meeds. Plus ils joueront équitablement, plus ils obtiendront de bénéfices. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
+Les organisations qui acquièrent des Deeds mais surtout qui les utilisent pour engager et récompenser leurs employés, seront rémunérées en Meeds. Plus ils joueront équitablement, plus ils obtiendront de bénéfices. Les utilisateurs de la première heure seront associés aux premières villes historiques et sertont identifiés comme des bâtisseurs plus tard.
 
 Le diagramme ci-dessous représente un exemple de la stratégie d'investissement Meeds pour les détenteurs de capitaux :
 
