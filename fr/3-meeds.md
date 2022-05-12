@@ -38,7 +38,7 @@ Par conséquent, la communauté fonctionnera comme un exemple de Deed, offrant u
 Une fois la période d’émission terminée, l’association sera soutenue par :
 - les taxes sur les revenus passifs (3% sur les locations de Deeds)
 - les taxes sur les revenus de vente (2.5% sur les ventes de Deeds)
-- les frais de transactions des utilisateurs dans les boutiques
+- des commissions sur les transactions d'achat dans les boutiques
 - son rôle en tant que fournisseur de liquidité
 - les frais de transactions quand un Deed distribue des jetons autres que des Meeds via les services du WoM
 - les opérations réalisés sur les Deeds que l’association aura pu émettre sur la période.
