@@ -14,13 +14,13 @@ Les badges et les identifiants sont donnés aux utilisateurs dans le cadre de le
 
 Dans le monde d'aujourd'hui, il est difficile de prouver une compétence en amont. Lorsque les gens s'annoncent sur les réseaux, ils comptent sur leurs managers pour leur donner une recommandation. Cette dernière suppose une certaine bonne volonté de la part du dirigeant mais n'est pas nécessairement considérée comme une preuve par le futur employeur.
 
-Le travail Métaverse fournit un moyen plus transparent et immuable pour que les gens acquièrent et démontrent leurs capacités.
+Le Work Métaverse fournit à ses utilisateurs un moyen plus transparent et immuable d'acquérir et de démontrer leurs capacités.
 
-Les badges sont utilisés pour représenter les réalisations faites au sin d'un Deed. Après avoir complété un ensemble d'objectifs ou défis, les utilisateurs seront récompensés par des points. Les badges peuvent être débloqués en accumulant un certain nombre de points dans des catégories spécifiques.
+Les badges sont utilisés pour représenter les réalisations faites au sein d'un Deed. Après avoir complété un ensemble d'objectifs ou challenges, les utilisateurs seront récompensés par des points. Les badges sont débloqués selon l'accumulation d'un certain nombre de points dans des catégories spécifiques.
 
 Lorsque les badges sont téléchargés par l'utilisateur, il est possible d'inclure le nombre de points et son rang dans le Deed pour cette réalisation spécifique.
 
-Les identifiants sont plus flexibles que les badges ; il peuvent être une recommandation de la part d'un pair, indiquant des années d'expertise, une formation ou un examen terminé, ou un engagement dans le Deed. Ceux ci sont signés par le Deed et peuvent être accopagnés par une signature par un utilisateur pair.
+Les identifiants sont plus flexibles que les badges ; il peuvent être une recommandation de la part d'un pair, indiquant des années d'expertise, une formation ou un examen terminé, ou un engagement dans le Deed. Ceux ci sont signés par le Deed et peuvent être accompagnés par une signature par un utilisateur pair.
 
 ## 4.3. Identité de travail numérique
 
@@ -32,11 +32,11 @@ L'utilisateur pourra partager ses Xeed, ses Badges et ses Identifiants avec d'au
 
 Un utilisateur peut avoir une ou plusieurs identités numériques dans le WoM. Il pourrait ensuite les présenter de manière unifiée.
 
-Contrairement au Web 2, l'utilisateur est pleinement propriétaire de ses identités décentralisées. Ce dernier peut montrer (et prouver) les Deeds auxquels il a participé, ses compétences éprouvées, ses compétences revendiquées, d'autres Xeeds (personnes) avec qui il a travaillé, sa représentation numérique de lui-même ... à la manière d'un LinkedIn 3.0 fiable.
+Contrairement au Web2, l'utilisateur est pleinement propriétaire de ses identités décentralisées. Il peut montrer (et prouver) les Deeds auxquels il a participé, ses compétences éprouvées, ses compétences revendiquées, d'autres Xeeds (personnes) avec qui il a travaillé, sa représentation numérique de lui-même ... à la manière d'un LinkedIn 3.0 fiable.
 
-L'utilisateur sera en mesure de choisir ce qu'il veut révéler, quelles informations fournir, et quelle identité utiliser pour chaque poste. Le contenu (compétences éprouvées, Propriétés précédentes, etc.) est une preuve inviolable et ne peut donc pas être modifié. Toute identité devra être développée au fil du temps.
+L'utilisateur sera en mesure de choisir ce qu'il veut révéler, quelles informations fournir, et quelle identité utiliser pour chaque poste. Le contenu (compétences éprouvées, précédents Deeds, etc.) est une preuve inviolable et ne peut donc pas être modifié. Toute identité devra être développée au fil du temps.
 
-## 4.4. Marché de travail équitable
+## 4.4. Marché du travail équitable
 
 Au sein de ce paradigme, le futur marché du travail permet aux utilisateurs de se déplacer librement et d'allouer/vendre leur engagement parmi les Deeds – comme ils le font dans le monde physique en changeant d'employeurs. Cependant, dans le WoM leur engagement serait tangible, mesuré et récompensé de manière équitable. En se déplaçant entre les systèmes suivant une logique similaire, ils comprendront mieux les règles du jeu et jugeront équitablement les employeurs – l’herbe n’est pas toujours plus verte ailleurs. Les utilisateurs seront en mesure de choisir quel Deed fournit de meilleures récompenses d'engagement, quelle ville est la plus attrayante, etc.
 
@@ -44,7 +44,7 @@ De leur côté, les détenteurs/locataires des Deeds peuvent rechercher des comp
 
 ## 4.5. Reconnaissance tangible et transparente
 
-Aujourd'hui, les détails sur la compensation et les primes ne sont pas clairs sur de nombreux lieux de travail. Par conséquent, il est difficile pour une personne de comparer ses conditions à celles d'une autre personne et d'obtenir un sentiment de traitement équitable et impartial. Les employés éprouvent beaucoup de frustrations par rapport à ce qui précède.
+Aujourd'hui, les détails sur la compensation et les primes ne sont pas clairs sur de nombreux lieux de travail. Par conséquent, il est difficile pour une personne de comparer ses conditions à celles d'une autre personne et d'obtenir un traitement équitable et impartial. Les employés éprouvent ainsi beaucoup de frustration.
 
 Le WoM introduit une façon objective de reconnaître les réalisations et de les récompenser.
 
