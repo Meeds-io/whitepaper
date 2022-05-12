@@ -1,4 +1,4 @@
-# 4. Xeeds - Travail Métaverse individuels / utilisateurs
+# 4. Xeeds - Utilisateurs / Individus du Work Metaverse
 
 ## 4.1. Modèles décentralisés et autosouverains
 
@@ -6,13 +6,13 @@ Le WoM reconnaît la confidentialité comme un droit humain fondamental et perme
 
 Notre approche est basée sur des principes d'identités décentralisées et autosouverains, permettant aux utilisateurs de contrôler à tout moment les informations qu'ils souhaitent publier, partager avec un groupe restreint ou garder privées.
 
-L'activité et l'engagement des utilisateurs dans le WoM est toujours lié à un Deed. Un Xeed est le personnage virtuel d'un utilisateur dans un Deed. Xeed ne nécessite aucun KYC, il est auto-déclarant, mais nous pourrions imaginer que des sociétés tierces fournissent ce service.
+L'activité et l'engagement des utilisateurs dans le WoM est toujours lié à un Deed. Un Xeed est le personnage virtuel d'un utilisateur dans un Deed. Xeed ne nécessite aucun KYC (protocole permettant de vérifier l'identité de l'individu - Know Your Customer), il est auto-déclarant, mais nous pourrions imaginer que des sociétés tierces fournissent ce service.
 
 ## 4.2. Badges et identifiants
 
-Les badges et les identifiants sont donnés aux utilisateurs dans le cadre de leur participation à un Deed. Le titulaire peut les télécharger en tant que W3C Identifiants vérifiables[^7][^8] (alias VCs) et les stocker dans son portefeuille. Ces VCs sont des preuves de connaissances/savoir-faire attestés par l'organisme qui les délivre.
+Les badges et les identifiants sont donnés aux utilisateurs dans le cadre de leur participation à un Deed. Le titulaire peut les télécharger au format d'Identifiants Vérifiables W3C[^7][^8] (alias VCs) et les stocker dans son portefeuille. Ces VCs sont des preuves de connaissances/savoir-faire attestées par l'organisme qui les délivre.
 
-Dans le monde d'aujourd'hui, il est difficile de prouver une compétence à l'avance. Lorsque les gens s'annoncent sur les réseaux, ils comptent sur leurs managers pour leur donner une recommandation. Cette dernière suppose une certaine bonne volonté de la part du dirigeant mais n'est pas nécessairement considérée comme une preuve par le futur employeur.
+Dans le monde d'aujourd'hui, il est difficile de prouver une compétence en amont. Lorsque les gens s'annoncent sur les réseaux, ils comptent sur leurs managers pour leur donner une recommandation. Cette dernière suppose une certaine bonne volonté de la part du dirigeant mais n'est pas nécessairement considérée comme une preuve par le futur employeur.
 
 Le travail Métaverse fournit un moyen plus transparent et immuable pour que les gens acquièrent et démontrent leurs capacités.
 
