@@ -54,9 +54,9 @@ Tout membre a également le droit de directement acheter un montant important de
 
 **Epargne / Investissement à long terme** Pour encourager l'investissement à long terme, épargner des Meeds est récompensé. Quand les Meeds sont placés, le déposant reçoit des jetons xMeeds. Les Meeds nouvellement émis sont distribués aux déposants proportionnellement à leurs avoirs xMeeds. En pratique, les Meeds émis sont effectivement ajoutés aux avoirs du contrat intelligent xMeeds et sont distribués aux détenteurs des xMeeds quand ils se désengagent.
 
-En plaçant des Meeds, les investisseurs peuvent aussi racheter des Deeds (et donc participer au minting à travers l'engagement), et par conséquent augmenter la demande du token. Chaque Meeds épargné (xMeeds) garantit à son propriétaire un nombre de points par jour. Plus la période d'acquisition est longue, plus le nombre de points obtenus par xMeed est élevé. Chaque Deed est ensuite échangé contre un certain nombre de points.
+En plaçant des Meeds, les investisseurs peuvent aussi racheter des Deeds (et donc participer au minting à travers l'engagement), et par conséquent augmenter la demande du token. Chaque Meeds placcé (xMeed) garantit à son propriétaire un nombre de points par jour. Plus la période d'acquisition est longue, plus le nombre de points obtenus par xMeed est élevé. Chaque Deed est ensuite échangé contre un certain nombre de points.
 
-Points are calculated using the formula below (where T stands for time, R for rate per minute) : _xMeedBalanceNoDecimals / ( xMeedBalanceNoDecimals + 12000) * elapsedTimeInSeconds / 240 * xMeedBalanceNoDecimals = ParseInteger( xMeedBalance (=returned by contract call balanceOf) / 10^18)_
+Les points sont calculés avec le formule suivante (où T signifie le temps et R le taux par minute) : _xMeedBalanceNoDecimals / ( xMeedBalanceNoDecimals + 12000) * elapsedTimeInSeconds / 240 * xMeedBalanceNoDecimals = ParseInteger( xMeedBalance (=renvoyé par un appel au contrat de balanceOf) / 10^18)_
 
 La formule évite de privilégier les grands détenteurs afin de distribuer les Deeds plus efficacement et plus équitablement.
 
@@ -69,18 +69,18 @@ La formule évite de privilégier les grands détenteurs afin de distribuer les 
 
 ## 3.6. Gouvernance Meeds DAO
 
-Les détenteurs du token Meeds doivent épargner des tokens afin de voter sur les décisions de Meeds DAO telles que le minting du budget ou l'élection des membres du conseil d'administration du DAO (mandat annuel).
+Les détenteurs du token Meeds doivent mettre en gage des tokens afin de voter sur les décisions de Meeds DAO telles que le budget d'émission ou l'élection des membres du conseil d'administration du DAO (mandat annuel).
 
 ## 3.7. Services aux utilisateurs de la finance décentralisée (DeFi)
 
-Le travail Métaverse présentera le monde de la blockchain à de nombreuses personnes qui ne l'utilisent pas aujourd'hui.
+Le Work Metaverse introduirq le monde de la blockchain à de nombreuses personnes qui ne l'utilisent pas aujourd'hui.
 
-En effet, tout travail (soit numérique ou pas) peut être gamifié et tout engagement récompensé par Meeds. Les meeds sont mis à la disposition des utilisateurs via un portefeuille facile à utiliser, basé sur la blockchain, qui "abstrait" toute complexité du monde de la cryptographie pour un utilisateur moyen.
+En effet, tout travail (qu'il soit numérique ou pas) peut être gamifié et tout engagement récompensé en Meeds. Les Meeds sont mis à la disposition des utilisateurs via un portefeuille facile à utiliser, basé sur la blockchain, qui "abstrait" toute complexité du monde de la cryptographie pour un utilisateur typique.
 
-Au-delà du portefeuille et d'un magasin où ils peuvent acheter des avantages pour des Meeds, nous prévoyons de présenter à chaque utilisateur plusieurs produits alimentés par les protocoles de financement décentralisé, tels que :
-* La possibilité de miser des tokens Meeds et d'obtenir des rendements (générer des revenus)
-* La possibilité d'utiliser des tokens Meeds comme garantie pour emprunter des pièces stables telles que l'USDC (en exploitant d'abord un pool de fusibles https://app.rari.capital/fuse puis en enregistrant le jeton Meeds auprès d'AAVE - https://aave.com/) .
-* Une carte digitale qui peut être ajoutée et utilisée à travers Apple Pay, Google Pay ou tout autre Distributeur automatique. Ce dernier peut être fourni par le biais d'un partenariat avec VISA et tirera partie d'une ligne de crédit en USDC, garantie par des Meeds misés. (Cette carte pourrait également être utilisée par les organisations pour financer les portefeuilles des employés afin de gérer les avantages sociaux tels que
-* comme les restaurants, le transport et tout type de dépenses.) So not only many new users will discover the blockchain world, they will also discover a bankless world.
+Au-delà du portefeuille et d'une boutique où ils peuvent acheter des avantages pour des Meeds, nous prévoyons de présenter à chaque utilisateur plusieurs produits alimentés par les protocoles de financement décentralisé, tels que :
+* La possibilité de placer des tokens Meeds et d'obtenir des rendements (générer des revenus)
+* La possibilité d'utiliser des jetonw Meeds comme garantie pour emprunter des devises stables telles que l'USDC (en exploitant d'abord un pool Fuse https://app.rari.capital/fuse puis en enregistrant le jeton Meeds auprès d'AAVE - https://aave.com/) .
+* Une carte de paiement digitale qui peut être ajoutée et utilisée à travers Apple Pay, Google Pay ou tout autre Distributeur automatique. Ce dernier peut être fourni par le biais d'un partenariat avec VISA et tirera partie d'une ligne de crédit en USDC, garantie par des Meeds mis en gage. (Cette carte pourrait également être utilisée par les organisations pour financer les portefeuilles des employés afin de gérer les avantages sociaux tels que
+* les restaurants, le transport et tout type de dépenses.) Donc non seulement les niuveaux utilisateurs découvrirons le monde de la blockchain, et un monde sans intermédiaire bancaire.
 
  
