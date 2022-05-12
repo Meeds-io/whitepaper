@@ -79,9 +79,9 @@ En plus des Meeds, il est également possible de distribuer d’autres jetons (p
 
 En engageant leurs utilisateurs dans le WoM, les Deeds sont récompensés à travers un modèle innovant de mintium.
 
-Les points d’engagement, recueillis par les utilisateurs des Deeds, participent à au score global d’engagement, calculé par l’association Meeds. L’index utilise le même principe pour tous les Deeds. Même si chaque Deed peut modifier ses programmes de rétribution de points en promouvant une action plutôt qu’une autre, ces changements ne seront pas pris en compte dans le score global d’engagement.
+Les points d’engagement, recueillis par les utilisateurs des Deeds, participent à un index global d’engagement, calculé par l’association Meeds. L’index utilise le même principe pour tous les Deeds. Même si chaque Deed peut personnaliser la distribution de points de ses programmes en promouvant une action plutôt qu’une autre, ces changements ne seront pas pris en compte dans l'index global d’engagement.
 
-Chaque semaine, un certain montant de Meeds sera alloué à cette force de frappe globale du WoM liée à l’engagement. Il sera calculé régulièrement, au prorata de la participation de chaque Deeds. En complément, certains Deeds obtiendront un abondement en fonction de leur type d’engagement. Les Deeds qui réclameront leurs Meeds au cours de la semaine, les recevront ainsi. Les Meeds non réclamés seront ajoutés au montant global des rétributions de la semaine suivante.
+Chaque semaine, un certain montant de Meeds sera alloué à cette force de frappe globale du WoM liée à l’engagement. Il sera calculé régulièrement, au prorata de la participation de chaque Deeds. En complément, certains Deeds obtiendront un abondement en fonction de leur type d’engagement. Les Deeds qui réclameront leurs Meeds au cours de la semaine, les recevront. Les Meeds non réclamés seront ajoutés au montant global deistribué la semaine suivante.
 
 L’index d’engagement dépend de l’engagement général, du nombre d’utilisateurs engagés et de la distribution.
 
@@ -89,18 +89,18 @@ L’index d’engagement dépend de l’engagement général, du nombre d’util
 * **Utilisateurs engagés** - Utilisateurs qui contribuent tout au long de la semaine, en réalisant au moins une action.
 * **Taux moyen d'engagement** = Engagement / Utilisateurs engagés.
 * **Taux de distribution** - Si un Deed a reçu des Meeds produits par les activités de la semaine précédente, c’est le pourcentage de Meeds redistribué à ses utilisateurs. Le taux peut être en deçà de 100 si la distribution a été retardée.
-* **Taux de diffusion redistributive** - Si un Deed a reçu des Meeds produits par les activités de la semaine précédente, c’est le pourcentage d’utilisateurs qui a reçu des Meeds depuis un ensemble d’utilisateurs.
+* **Répartition de la distribution** - Si un Deed a reçu des Meeds produits par les activités de la semaine précédente, c’est le pourcentage d’utilisateurs qui a reçu des Meeds depuis un ensemble d’utilisateurs.
 
-**Score d’engagement des Deeds = Engagement * (Taux moyen d’engagement du Deed / Taux moyen d’engagement du WoM) * Taux de distribution * Taux de diffusion redistributive * Force de frappe**
+**Score d’engagement des Deeds = Engagement * (Taux moyen d’engagement du Deed / Taux moyen d’engagement du WoM) * Taux de distribution * Répartition de la distribution * Force de frappe**
 
-L’index global d’engagement utilisé pour distribuer les Meeds minés depuis les Deeds est la somme des scores d’engagement de tous les Deeds sur la semaine.
+L’index global d’engagement utilisé pour distribuer les Meeds aux Deeds est la somme des scores d’engagement de tous les Deeds sur la semaine.
 
 La formule plus haut est simple et elle est conçue pour privilégier les Deeds qui :
 - ont de nombreux utilisateurs engagés (engagement)
-- partagent l’ensemble du revenu produit (taux de distribution) avec leurs utilisateurs de manière équitable (taux de diffusion redistributive).
+- partagent l’ensemble du revenu produit (taux de distribution) avec leurs utilisateurs de manière équitable (Répartition de la distribution).
 
 Des abondements sont en place :
-- Pour les organisations avec un haut taux d’engagement, peu importe leur taille (taux d’engagement associé au WoM)
+- Pour les organisations avec un fort taux d’engagement, peu importe leur taille (taux d’engagement associé au WoM)
 - Pour les Deeds rares
 
 L’association se réserve le droit de changer la formule si besoin – si de nouveaux cas d’usage spécifiques sont identifiés par exemple. L’association peut également exclure tout Deed qui détournerait la formule pour son propre bénéfice.
