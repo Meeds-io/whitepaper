@@ -2,32 +2,32 @@
 
 ## 5.1. L'objectif ultime - un Web décentralisé pour tout le monde
 
-Finalement, le WoM est un monde du web décentralisé pour tout le monde – pour chaque personne et chaque organisation.
+Au final, le WoM sera un monde dans le web décentralisé pour tous – personne ou organisation.
 
-Il sera peuplé par des utilisateurs, agissant à travers leurs identités numériques **Xeeds** et accédant à ce monde avec leurs comptes metamasks, pour les crypto-savvies, ou par identifiant/mot de passe pour les débutants. Les gens fourniraient leur engagement et seraient récompensés de manière équitable, transparente et décentralisée. Ils auraient accès au monde décentralisé et des cryptomonnaies de l'avenir d'une manière facile et familière - ils auraient accès à des outils simples pour pouvoir utiliser leurs jetons dans leur vie ou les investir pour leur avenir.
+Il sera peuplé d'utilisateurs, agissant à travers leurs identités numériques **Xeeds** et y accédant avec leurs comptes metamasks pour les cryptophiles avertis, ou par identifiant/mot de passe pour les débutants. Les personnes s'y engageront et seront récompensées de manière équitable, transparente et décentralisée. Elles auront accès au monde décentralisé et au monde des cryptos de demain d'une manière facile et familière - ils auront accès à des outils simples pour pouvoir utiliser leurs jetons dans leur vie ou les investir pour leur avenir.
 
-Organisations - **Deeds** seraient en mesure de chercher des talents, de naviguer à travers le WoM, pour trouver les compétences qui ont fait leurs preuves. Elles seraient récompensés pour leur participation au métaverse, en recevant des jetons émis grâce à l'engagement de leurs utilisateurs (modèle mintium). Mais surtout, elles bénéficieraient d'un engagement et d'une loyauté accrues de la part de leurs utilisateurs.
+Les organisations à travers leurs **Deeds** seront en mesure de trouver des talents, en navigant à travers le WoM, pour trouver des compétences prouvées. Elles seront récompensées pour leur participation au métaverse, en recevant des jetons émis grâce à l'engagement de leurs utilisateurs (modèle mintium). Mais surtout, elles bénéficieraient d'un engagement et d'une loyauté accrues de la part de leurs utilisateurs.
 
-Le WoM aurait sa propre monnaie : le **Meeds** – qui serait là pour être dépensé dans les boutiques, converti en d'autre devises, investi, loué ou acheté, etc. Le WoM faciliterait également la distribution d'autres jetons et participerait à l'écosystème global des cryptomonnaies.
+Le WoM aurait sa propre monnaie : le **Meeds** – qui serait là pour être dépensé dans les boutiques, converti en d'autre devises, investi, loué ou acheté, etc. Le WoM faciliterai également la distribution d'autres jetons et participera à l'écosystème global des cryptomonnaies.
 
 Une image vaut mille mots, voici donc un diagramme qui décrit les flux WoM et Meeds
 
-La maintenance et la stabilité du monde à long terme sont assurés par des taxes partagées entre l'association Meeds et les Cities.
+La maintenance et la stabilité du monde à long terme sont assurés par des taxes partagées entre l'association Meeds et les Villes.
 
 ## 5.2. Ce qu'il contient pour les premiers utilisateurs
 
-Il est évident que les premiers utilisateurs obtiendraient des avantages considérables par rapport aux utilisateurs tardifs.
+Il est évident que les premiers utilisateurs obtiendront des avantages considérables par rapport aux utilisateurs tardifs.
 
-En particulier, le WoM récompense l'investissement à long terme dans le Verse - c'est-à-dire le rachat de la propriété (Deeds). Le propriétaire initial du Deed est récompensé par la création d'engagement (utilisation active), par le biais d'un revenu passif (loyer) et obtient 1 % à vie sur toute les transactions de vente du Deed (à chaque changement de propriétaire, le propriétaire initial reçoit une commission sur la transaction).
+En particulier, le WoM récompense l'investissement dans la durée - par l'accès à la propriété (Deeds). Le propriétaire originel d'un Deed est récompensé par les jetons générés par l'engagement (utilisation active), par le biais d'un revenu passif (loyer) et obtient 1 % à vie sur toutes les transactions de vente du Deed (à chaque changement de propriétaire, le propriétaire initial reçoit une commission sur la transaction).
 
-En croyant au projet, en participant aux pools de liquidités, en finansant Meeds, en les rachetant contre les Deeds...les premiers investisseurs de toutes tailles émettraient des jetons supplémentaires. Ils obtiendraient également les droits de vote les plus précoces et contribueraient à façonner la métaverse.
+En croyant au projet, en participant aux pools de liquidités, en plaçant des Meeds, en acquérant des Deeds, les premiers investisseurs de toutes tailles génèreront des jetons supplémentaires. Ils seront également les premiers à obtenir des droits de votes pour aider à façonner la métaverse.
 
-Les organisations qui acquièrent des Deeds mais surtout qui les utilisent pour engager et récompenser leurs employés, seront rémunérées en Meeds. Plus ils joueront équitablement, plus ils obtiendront de bénéfices. Les utilisateurs de la première heure seront associés aux premières villes historiques et sertont identifiés comme des bâtisseurs plus tard.
+Les organisations qui acquerront des Deeds mais surtout qui les utiliseront pour engager et récompenser leurs employés, seront rémunérées en Meeds. Plus elles joueront équitablement, plus elles en gagneront. Les utilisateurs de la première heure seront associés aux premières villes historiques et sertont identifiés comme des bâtisseurs plus tard.
 
 Le diagramme ci-dessous représente un exemple de la stratégie d'investissement Meeds pour les détenteurs de capitaux :
 
 
-les organisations peuvent bien sûr participer à des pools de liquidités, mais aussi rejoindre la communauté des constructeurs et y obtenir des récompenses d'engagement supplémentaires.
+les organisations peuvent bien sûr participer à des pools de liquidités, mais aussi rejoindre la communauté des bâtisseurs et y obtenir des récompenses d'engagement supplémentaires.
 
 Le diagramme ci-dessous représente un exemple de la stratégie d'investissement Meeds pour les détenteurs de travaux :
 
@@ -45,7 +45,7 @@ La communauté des constructeurs est opérationnelle sur le logiciel Meeds, ouve
 
 Ce document est à publier le jour du lancement. Après le lancement, le jeton sera air-droppé pour de nombreuses personnes dans la communauté des cryptomonnaies.
 
-## 5.4. La communauté des constructeurs
+## 5.4. La communauté des bâtisseurs
 Nous lançons la communauté des constructeurs sur le logiciel Meeds et sur Discord. La communauté accueille tous ceux qui veulent participer à la construction du Metaverse du travail. L'association récompenserait l'engagement des constructeurs avec Meeds, à partir de son budget marketing.
 
 L'association prévoit également de placer quelques Meeds afin d'acquérir (racheter) un Deed pour la communauté des constructeurs. La communauté finira ensuite par se lancer dans Meeds par engagement, par le biais du modèle mintium, et les distribuera aux utilisateurs engagés.
@@ -72,6 +72,6 @@ Que pouvez-vous faire dès maintenant pour participer ?
  * Échange Cometh
  * Échange Sushi
 * Rejoignez notre communauté sur discord pour rester dans la boucle
-* Join our Builders community to test the Meeds software, engage and earn some Meeds engagement rewards
+* Rejoignez notre communauté Builders pour essayer le logiciel Meeds, vous engager en contribuant au projet et gagner des Meeds en récompense
 
 **\*\*\* The travail Métaverse - construisons ensemble ce futur monde fou. \*\*\***
