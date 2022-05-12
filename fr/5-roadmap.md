@@ -1,4 +1,4 @@
-# 5. The Work Metaverse for ALL – vision summary and milestones
+# 5. Le Work Metaverse pour TOUS – résumé de la vision et jalons
 
 ## 5.1. L'objectif ultime - un Web décentralisé pour tout le monde
 
@@ -18,7 +18,7 @@ La maintenance et la stabilité du monde à long terme sont assurés par des tax
 
 Il est évident que les premiers utilisateurs obtiendraient des avantages considérables par rapport aux utilisateurs tardifs.
 
-En particulier, le WoM récompense l'investissement à long terme dans le Verse - c'est-à-dire le rachat de la propriété (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
+En particulier, le WoM récompense l'investissement à long terme dans le Verse - c'est-à-dire le rachat de la propriété (Deeds). Le propriétaire initial du Deed est récompensé par la création d'engagement (utilisation active), par le biais d'un revenu passif (loyer) et obtient 1 % à vie sur toute les transactions de vente du Deed (à chaque changement de propriétaire, le propriétaire initial reçoit une commission sur la transaction).
 
 En croyant au projet, en participant aux pools de liquidités, en finansant Meeds, en les rachetant contre les Deeds...les premiers investisseurs de toutes tailles émettraient des jetons supplémentaires. Ils obtiendraient également les droits de vote les plus précoces et contribueraient à façonner la métaverse.
 
