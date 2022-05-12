@@ -72,6 +72,6 @@ Que pouvez-vous faire dès maintenant pour participer ?
  * Cometh Swap
  * Sushi Swap
 * Rejoindre notre communauté sur Discord pour rester dans la boucle
-* Rejoindre notre communauté Builders pour essayer le logiciel Meeds, vous engager en contribuant au projet et gagner des Meeds en récompense
+* Join our Builders community to test the Meeds software, engage and earn some Meeds engagement rewards
 
 **\*\*\* Le Work Metaverse - construisons le monde de demain ensemble. \*\*\***
