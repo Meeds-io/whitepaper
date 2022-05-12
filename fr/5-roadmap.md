@@ -2,9 +2,9 @@
 
 ## 5.1. L'objectif ultime - un Web décentralisé pour tout le monde
 
-En fin de compte, le WoM est un monde du web décentralisé pour tout le monde – pour chaque personne et chaque organisation.
+Finalement, le WoM est un monde du web décentralisé pour tout le monde – pour chaque personne et chaque organisation.
 
-Il sera peuplé par des utilisateurs à travers leurs identités numériques **Xeeds**, accédant par leurs comptes metamasks, pour les crypto-savvies, ou par identifiant/mot de passe pour les débutants. Les gens fourniraient leur engagement et seraient récompensés de manière équitable, transparente et décentralisée. Ils auraient accès au monde décentralisé et des cryptomonnaies de l'avenir d'une manière facile et familière - ils auraient accès à des outils simples pour pouvoir utiliser leurs jetons dans leur vie ou les investir pour leur avenir.
+Il sera peuplé par des utilisateurs, agissant à travers leurs identités numériques **Xeeds** et accédant à ce monde avec leurs comptes metamasks, pour les crypto-savvies, ou par identifiant/mot de passe pour les débutants. Les gens fourniraient leur engagement et seraient récompensés de manière équitable, transparente et décentralisée. Ils auraient accès au monde décentralisé et des cryptomonnaies de l'avenir d'une manière facile et familière - ils auraient accès à des outils simples pour pouvoir utiliser leurs jetons dans leur vie ou les investir pour leur avenir.
 
 Organisations - **Deeds** seraient en mesure de chercher des talents, de naviguer à travers le WoM, pour trouver les compétences qui ont fait leurs preuves. Elles seraient récompensés pour leur participation au métaverse, en recevant des jetons émis grâce à l'engagement de leurs utilisateurs (modèle mintium). Mais surtout, elles bénéficieraient d'un engagement et d'une loyauté accrues de la part de leurs utilisateurs.
 
