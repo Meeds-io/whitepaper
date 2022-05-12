@@ -32,11 +32,11 @@ En tant que détenteur actif ou locataire d’un Deed, l’organisation est réc
 
 Dans un marché de plus en plus concurrentiel, pour attirer puis retenir les talents et pour maximiser leurs apports, les organisations doivent motiver leurs utilisateurs bien au-delà de la simple rémunération. Pour ce faire, le WoM propose un cadre innovant permettant de matérialiser («tokeniser») l'engagement dans les activités proposées dans le Deed.
 
-Chaque titulaire ou locataire peut fournir des outils et des services à ses utilisateurs, qui gagnent des points d’engagement qui peuvent être paramétrés selon les priorités de l'organisation. Périodiquement, les points sont convertis en Meeds (et - pour les DAOs - potentiellement un autre jeton), en fonction du budget fixé à l'avance. De cette manière, l’engagement des utilisateurs dans les activités considérées importantes pour l’organisation est récompensé.
+Chaque titulaire ou locataire peut fournir des outils et des services à ses utilisateurs, qui gagnent des points d’engagement qui peuvent être paramétrés selon les priorités de l'organisation. Périodiquement, les points sont convertis en Meeds (et - pour les DAO - potentiellement un autre jeton), en fonction du budget fixé à l'avance. De cette manière, l’engagement des utilisateurs dans les activités considérées importantes pour l’organisation est récompensé.
 
 Pour commencer, les services suivants sont fournis gratuitement par l'association Meeds et peuvent être utilisés immédiatement pour récompenser l'engagement :
 - Moteur de Gamification – Toute action utilisateur est automatiquement détectée au sein du WoM et équivaut à un nombre de points. Ceci peut être ajusté selon les priorités du Deed via des programmes d’engagement personnalisables.
-- Challenges – Des défis personnalisables peuvent être mis en place pour représenter des accomplissements significatifs difficilement détectables automatiquement. Les challenges sont prédéfinis par une personne et peuvent être relevés et déclarés comme réussis par une autre. Les challenges ont aussi une valeur en points considérés dans des programmes d’engagement personnalisables.
+- Challenges – Des défis personnalisables peuvent être mis en place pour représenter des accomplissements significatifs difficilement détectables automatiquement. Les challenges sont prédéfinis par une personne et peuvent être relevés et déclarés comme réussis par une autre. Les challenges ont aussi une valeur en points qui émargent à des programmes d’engagement personnalisables.
 - Programmes d'engagement - Les organisations peuvent créer leurs propres programmes d'engagement correspondant à leur objectifs et leur priorités. Les programmes regroupent des actions automatiques et des challenges déclarés manuellement. Chacun d'eux a un budget défini en Meeds. Les points gagnés périodiquement par chaque utilisateur dans chaque programme d'engagement sont convertis en Meeds, selon le budget de ce programme.
 - Kudos - Les kudos peuvent être attribués par les utilisateurs les uns aux autres, comme un remerciement et un signe de reconnaissance. Étant donné que la distribution de kudos est limitée (3 par semaine par exemple), ils sont rares et précieux. Comme les autres actions, les kudos rapportent des points. De cette façon, les employés sont encouragés à récompenser leurs collègues et reconnaitre leurs contributions.
 - Des outils de collaboration – espaces de travail, flux social, tâches et notes – permettent aux personnes de travailler ensemble sur des projets.
@@ -55,19 +55,19 @@ De nouveaux services peuvent être branchés dans le moteur de récompense via l
 
 En outre, l'engagement produit via le connecteur contribue au score d'engagement global de l'organisation qui sera facteur du taux de distribution des récompenses aux membres, tel que décrit dans la formule ci-dessous.  Pour cela, le connecteur doit être approuvé par l'association Meeds. L'association évalue le connecteur, approuve son algorithme et acquiert sa propriété contre l'octroi de Meeds. Il fait ensuite partie des services fournis par l'association tout comme il est inclut dans l'index global d'engagement. Tout autre Deed peut utiliser le même connecteur et le même fonctionnement de récompenses pour ses développeurs.
 
-Le propriétaire ou le loueur de Deed peut enrichir sa place de marché avec ses propres produits et services, en le connectant par exemple à une offre en ligne, etc. Ici encore les possibilités sont infinies :
-- Séance de formation
+Le propriétaire ou le loueur de Deed peut enrichir sa boutique interne avec ses propres produits et services, en le connectant par exemple à une offre en ligne, etc. Ici encore les possibilités sont infinies :
+- Sessions de formation
 - Accès à une salle de sport
 - Chèques vacances
 - Repas avec un dirigeant de l'organisation
 - Espace de travail physique
-- Etc
+- Etc.
 
-Le magasin fonctionne à travers l'utilisation de Meeds. Ainsi, la cryptomonnaie retourne partiellement dans le Deed.
+La boutique fonctionne à travers l'utilisation de Meeds. Ainsi, la cryptomonnaie dépensée par ses membres dans la boutique retourne partiellement au Deed.
 
 ## 2.5. Récompenses - Meeds et autres jetons
 
-Le WoM récompense l’engagement utilisateur, en gamifiant les outils numériques de travail ainsi qu’en attribuant des points et des Meeds en lien avec l’engagement au travail. Les services connectés au moteur de récompenses et de l’engagement permettent d’attribuer des points à chaque utilisateur, selon leur niveau d’engagement et en lien avec les programmes d’engagement de chaque Deed. En effet, chaque Deed peut personnaliser le nombre de points accordés pour chaque type d’activité. Ainsi, délivrer du code sur GitHub pourra valoir 10 points pour une société informatique et inversement, dans une agence digitale, cela pourrait valoir seulement 5 points alors que retweeter des infos pourrait valoir 10 points.
+Le WoM récompense l’engagement utilisateur, en gamifiant les outils numériques de travail ainsi qu’en attribuant des points et des Meeds en lien avec l’engagement au travail. Les services connectés au moteur d'engagement et de récompenses permettent d’attribuer des points à chaque utilisateur, selon leur niveau d’engagement et en lien avec les programmes d’engagement de chaque Deed. En effet, chaque Deed peut personnaliser le nombre de points accordés pour chaque type d’activité. Ainsi, délivrer du code sur GitHub pourra valoir 10 points pour une société informatique et inversement, dans une agence digitale, cela pourrait valoir seulement 5 points alors que retweeter des infos pourrait valoir 10 points.
 
 De manière périodique, le moteur de récompenses convertit les points en Meeds selon le budget et les autres règles d’attribution pour finalement récompenser les utilisateurs via leur portefeuille numérique. Le Deed n’est pas tenu de distribuer des Meeds ; il est possible d’utiliser les systèmes d’engagement proposés pour soutenir d’autres programmes de rétribution. En revanche, distribuer des Meeds améliorera sa force de frappe.
 
@@ -77,7 +77,7 @@ En plus des Meeds, il est également possible de distribuer d’autres jetons (p
 
 ## 2.6. Le modèle "Mintium" - Récompenser l'engagement au travail
 
-En engageant ses utilisateurs dans le WoM, les Deeds sont récompensés à travers un modèle innovant de mintium.
+En engageant leurs utilisateurs dans le WoM, les Deeds sont récompensés à travers un modèle innovant de mintium.
 
 Les points d’engagement, recueillis par les utilisateurs des Deeds, participent à au score global d’engagement, calculé par l’association Meeds. L’index utilise le même principe pour tous les Deeds. Même si chaque Deed peut modifier ses programmes de rétribution de points en promouvant une action plutôt qu’une autre, ces changements ne seront pas pris en compte dans le score global d’engagement.
 
