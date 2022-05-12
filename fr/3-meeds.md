@@ -39,16 +39,16 @@ Une fois la période d’émission terminée, l’association sera soutenue par 
 - les taxes sur les revenus passifs (3% sur les locations de Deeds)
 - les taxes sur les revenus de vente (2.5% sur les ventes de Deeds)
 - des commissions sur les transactions d'achat dans les boutiques
-- son rôle en tant que fournisseur de liquidité
-- les frais de transactions quand un Deed distribue des jetons autres que des Meeds via les services du WoM
-- les opérations réalisés sur les Deeds que l’association aura pu émettre sur la période.
+- ses revenus en tant que fournisseur de liquidité
+- des commissions quand un Deed distribue des jetons autres que des Meeds via les services du WoM.
+- les revenus degagés en opérant les Deeds qu'elle possède
 
 
 ## 3.5. Investisseurs
 
-Les investisseurs aident à créer le WoM en fournissant des liquidités et en investissant des Meeds. Cela assure de stabiliser son niveau de prix pendant la période de construction. Ces deux mécanismes sont incités par la force de frappe.
+Les investisseurs aident à créer le WoM en fournissant des liquidités et en investissant des Meeds. Cela assure de stabiliser son niveau de prix pendant la période de construction. Ces deux mécanismes sont encouragés par des émissions de jetons.
 
-**Fournisseurs de liquidité** La gestion des liquidités de la devise est la clé du succès du projet et plusieurs stratégies de DeFi pourront être utilisées pour optimiser la performance du capital. Nous commencerons par des incitations à investir des MeedS/ETH LP et nous introduirons progressivement des obligations pour permettre d'évoluer vers la mise en place de protocoles de liquidité. Ceci contribuera à la durabilité à long terme de l'association - comme mentionné ci-dessus, les frais de transactions finançant en effet les frais de fonctionnement de l'association tels que les services d'hébergement.
+**Fournisseurs de liquidité** La gestion des liquidités de la devise est la clé du succès du projet et plusieurs stratégies de DeFi pourront seront utilisées pour optimiser la performance du capital. Nous commencerons par des incitations à investir des MeedS/ETH LP et nous introduirons progressivement des obligations pour permettre d'évoluer vers la mise en place de protocoles de liquidité. Ceci contribuera à la durabilité à long terme de l'association - comme mentionné ci-dessus, les frais de transactions finançant en effet les frais de fonctionnement de l'association tels que les services d'hébergement.
 
 Tout membre a également le droit de directement acheter un montant important de Meeds avec l'octroi d'une réduction. Le montant transmis à l'association est converti en ETH et ajouté avec la valeur équivalente de Meeds aux liquidités.
 
