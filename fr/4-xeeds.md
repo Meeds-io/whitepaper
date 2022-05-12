@@ -4,7 +4,7 @@
 
 Le WoM reconnaît la confidentialité comme un droit humain fondamental et permet aux utilisateurs de posséder leurs données.
 
-Notre approche est basée sur des principes d'identité décentralisés et autosouverains, permettant aux utilisateurs de contrôler à tout moment les informations qu'ils souhaitent publier, partager avec un groupe restreint ou garder privées.
+Notre approche est basée sur des principes d'identités décentralisées et autosouverains, permettant aux utilisateurs de contrôler à tout moment les informations qu'ils souhaitent publier, partager avec un groupe restreint ou garder privées.
 
 L'activité et l'engagement des utilisateurs dans le WoM est toujours lié à un Deed. Un Xeed est le personnage virtuel d'un utilisateur dans un Deed. Xeed ne nécessite aucun KYC, il est auto-déclarant, mais nous pourrions imaginer que des sociétés tierces fournissent ce service.
 
@@ -30,7 +30,7 @@ Tout comme son portefeuille Meeds, l'utilisateur conservera ses Xeed, Badges, et
 
 L'utilisateur pourra partager ses Xeed, ses Badges et ses Identifiants avec d'autres Deeds pour mettre en valeur son expérience, ainsi qu'avec les recruteurs ou tout autre service qu'il juge intéressant.
 
-Un utilisateur peut avoir une ou plusieurs identités numériques dans le WoM. He could later present them in a unified way using verified presentations.
+Un utilisateur peut avoir une ou plusieurs identités numériques dans le WoM. Il pourrait ensuite les présenter de manière unifiée.
 
 Contrairement au Web 2, l'utilisateur est pleinement propriétaire de ses identités décentralisées. Ce dernier peut montrer (et prouver) les Deeds auxquels il a participé, ses compétences éprouvées, ses compétences revendiquées, d'autres Xeeds (personnes) avec qui il a travaillé, sa représentation numérique de lui-même ... à la manière d'un LinkedIn 3.0 fiable.
 
@@ -60,5 +60,5 @@ En effet, tout engagement de travail peut potentiellement être tokenisé. En fa
 
 N'importe quel utilisateur peut obtenir des Meeds et utiliser un portefeuille Meeds pour accéder à des services d'une nouvelle ère sans formation spéciale.
 
-[^7]: A.Preukschatt, R. Drummond “Self-Sovereign Identity
-[^8]: Verifiable Credentials Data Model
+[^7]: A. Preukschatt, R. Drummond “Self-Sovereign Identity
+[^8]: Modèle de données d'identité vérifiable
