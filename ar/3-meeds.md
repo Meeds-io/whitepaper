@@ -44,7 +44,7 @@ After the minting period is over, the association will be sustained by :
 - by operating the Deeds that the association minted over time.
 
 
-## 3.5. Investors
+## 3.5. المستثمرون
 
 Investors help creating the WoM by providing liquidity and by staking Meeds and thus stabilizing its price level during the construction period. Both are encouraged through minting.
 
