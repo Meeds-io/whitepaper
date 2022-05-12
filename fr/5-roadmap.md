@@ -48,30 +48,30 @@ Ce document sera publié le jour du lancement. Suite au lancement, le jeton sera
 ## 5.4. La communauté des bâtisseurs
 Nous lançons la communauté des bâtisseurs sur le logiciel Meeds et sur Discord. La communauté accueille tous ceux qui veulent participer à la construction du Work Metaverse. L'association récompensera l'engagement des bâtisseurs en Meeds, sur son budget marketing.
 
-L'association prévoit également de placer elle-même quelques Meeds afin d'acquérir un Deed pour sa communauté des bâtisseurs. La communauté finira ensuite par se lancer dans Meeds par engagement, par le biais du modèle mintium, et les distribuera aux utilisateurs engagés.
+L'association prévoit également de placer elle-même quelques Meeds afin d'acquérir un Deed pour sa communauté des bâtisseurs. La communauté finira ensuite générer des Meeds par son engagement, par le biais du modèle mintium, et les distribuera aux membres qui contribuent.
 
 ## 5.5. Feuille de route et jalons
-Notre feuille de route suivrait l'ordre de priorité ci-dessous:
+Notre feuille de route suivra l'ordre de priorité ci-dessous:
 * Indice d'engagement et émission par engagement
 * Activer la location des Deeds
-* Création Xeed
+* Création des Xeeds
 * Amélioration des badges et développement des titres de compétences
 * Services DeFi - dans le portefeuille, partenariat cartes de crédit
 
-Nous comptons sur les premiers utilisateurs des DAO et des entreprises à la pointe de la technologie durant la phase de construction. Nous devrions également avoir quelques premiers utilisateurs des entreprises traditionnelles qui gagnent immédiatement de la valeur de la métaverse en fournissant des programmes d'engagement pertinents à leurs employés. en sus de leurs régimes de rémunération traditionnels.
+Durant la phase de construction, nous ciblerons les membres des premières DAO ainsi que les sociétés technophiles. Nous devrions également avoir quelques premiers utilisateurs dans des entreprises traditionnelles qui tireront parti du métaverse en créant des programmes d'engagement pertinents pour leurs employés au dessus de leurs plans de rémunération classiques.
 
-L'émission des Meeds s'étend sur une période de 20 ans. À ce moment-là, nous aspirons à avoir réussi à construire une métaverse mature, s'étant propagée à de nombreuses organisations et à de nombreux utilisateurs dans le monde.
+L'émission de la totalité des Meeds aura lieu progressivement sur une période de 20 ans. À ce moment-là, nous aspirons à avoir réussi à construire une métaverse mature, s'étant propagé à de nombreuses organisations et à de nombreux utilisateurs dans le monde.
 
 ## 5.6. Ce que vous pouvez faire maintenant
 
 Que pouvez-vous faire dès maintenant pour participer ?
 * Diffuser ce document à ceux qui seraient intéressés
-* Visitez notre site https://www.meeds.io/
-* Découvrez l'application Investisseurs
-* Contribuez aux pools de liquidité existants ici :
- * Échange Cometh
- * Échange Sushi
-* Rejoignez notre communauté sur discord pour rester dans la boucle
-* Rejoignez notre communauté Builders pour essayer le logiciel Meeds, vous engager en contribuant au projet et gagner des Meeds en récompense
+* Visiter notre site https://www.meeds.io
+* Découvrir l'application Investors
+* Contribuer aux pools de liquidité existants sur :
+ * Cometh Swap
+ * Sushi Swap
+* Rejoindre notre communauté sur Discord pour rester dans la boucle
+* Rejoindre notre communauté Builders pour essayer le logiciel Meeds, vous engager en contribuant au projet et gagner des Meeds en récompense
 
-**\*\*\* The travail Métaverse - construisons ensemble ce futur monde fou. \*\*\***
+**\*\*\* Le Work Metaverse - construisons le monde de demain ensemble. \*\*\***
