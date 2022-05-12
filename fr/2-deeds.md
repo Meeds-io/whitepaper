@@ -89,13 +89,13 @@ L’index d’engagement dépend de l’engagement général, du nombre d’util
 * **Utilisateurs engagés** - Utilisateurs qui contribuent tout au long de la semaine, en réalisant au moins une action.
 * **Taux moyen d'engagement** = Engagement / Utilisateurs engagés.
 * **Taux de distribution** - Si un Deed a reçu des Meeds produits par les activités de la semaine précédente, c’est le pourcentage de Meeds redistribué à ses utilisateurs. Le taux peut être en deçà de 100 si la distribution a été retardée.
-* **Taux de difusion redistributive** - Si un Deed a reçu des Meeds produits par les activités de la semaine précédente, c’est le pourcentage d’utilisateurs qui a reçu des Meeds depuis un ensemble d’utilisateurs.
+* **Taux de diffusion redistributive** - Si un Deed a reçu des Meeds produits par les activités de la semaine précédente, c’est le pourcentage d’utilisateurs qui a reçu des Meeds depuis un ensemble d’utilisateurs.
 
 **Score d’engagement des Deeds = Engagement * (Taux moyen d’engagement du Deed / Taux moyen d’engagement du WoM) * Taux de distribution * Taux de diffusion redistributive * Force de frappe**
 
 L’index global d’engagement utilisé pour distribuer les Meeds minés depuis les Deeds est la somme des scores d’engagement de tous les Deeds sur la semaine.
 
-La formule plus haut est simple et elle conçue pour privilégier les Deeds qui :
+La formule plus haut est simple et elle est conçue pour privilégier les Deeds qui :
 - ont de nombreux utilisateurs engagés (engagement)
 - partagent l’ensemble du revenu produit (taux de distribution) avec leurs utilisateurs de manière équitable (taux de diffusion redistributive).
 
@@ -105,15 +105,15 @@ Des abondements sont en place :
 
 L’association se réserve le droit de changer la formule si besoin – si de nouveaux cas d’usage spécifiques sont identifiés par exemple. L’association peut également exclure tout Deed qui détournerait la formule pour son propre bénéfice.
 
-Comme les Deeds sont récompensés avec les Meeds et qu’ils sont motivés à en redistribuer aux utilisateurs contre leur engagement, les intérêts des Deeds et des utilisateurs est alignés dans un même cycle vertueux de partage des revenus. Ainsi, le WoM offre un nouveau modèle du travail, qui reconfigure la relation employeur / employé en partenariat.
+Comme les Deeds sont récompensés avec les Meeds et qu’ils sont incités à en redistribuer aux utilisateurs en échange de leur engagement, les intérêts des Deeds et des utilisateurs sont alignés dans un même cycle vertueux de partage des revenus. Ainsi, le WoM offre un nouveau modèle du travail, qui reconfigure la relation employeur/employé en partenariat.
 
 Cela va plus loin que les traditionnels modèles en freemium, en ce sens que non seulement, les services sont libres d’utilisation mais aussi que les organisations et leurs utilisateurs sont rétribués et récompensés pour leur propre usage.
 
 ## 2.7. Villes et gouvernance
 
-Dans le WoM, les Deeds sont créés petit à petit au sein des villes virtuelles. Seulement la première ville existera au début. Les autres seront créées au fur et à mesure, l'une après l'autre. Dans l'ensemble du WoM, il y aura seulement 7 villes, chacune incluant un nombre limité de chacune des types de Deeds.
+Dans le WoM, les Deeds sont créés petit à petit au sein des villes virtuelles. Seule la première ville existera au début. Les autres seront créées au fur et à mesure, l'une après l'autre. Dans l'ensemble du WoM, il y aura seulement 7 villes, chacune incluant un nombre limité de chacun des types de Deeds.
 
-Une ville sera considérée complète, une fois que tous les Deeds seront générés et produits. Ensuite, le minage de chaque nouvelle ville débutera 2<sup>n</sup> mois après que le dernier Deed de la précédente ville ait été produit.
+Une ville sera considérée comme complète une fois que tous les Deeds seront générés et produits. Ensuite, le minage de chaque nouvelle ville débutera 2<sup>n</sup> mois après que le dernier Deed de la précédente ville ait été produit.
 | **Nom de la ville** | **Deeds**   | **Disponible**     | **Commun** | **Non commun** | **Rare**  | **Légendaire** |
 | ------------------- | ----------- | ------------------ | ---------- | -------------- | --------- | -------------- |
 | Ville 1 : Tanit     | 100         | T0                 | 50         | 30             | 13        | 7              |
