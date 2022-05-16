@@ -11,9 +11,9 @@
 
 ## المقدمة
 
-أصبح سوق العمل في ايامنا متذبذب. وهو لا يرضي العمال وأرباب العمل على حد سواء.
+أصبح سوق العمل في ايامنا متذبذب. وهو لا يرضي العمال و صاحب العمل على حد سواء.
 
-ومن ناحية العاملين، يصعب العثور على الوظائف الصحيحة. فسوق العمل يفضل أنواعا معينة من الأفراد، مما يترك مهارات كبيرة وراءها. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
+فمن ناحية العاملين، يصعب العثور على الوظائف الصحيحة. فسوق العمل يفضل أنواعا معينة من الأفراد، مما يترك مهارات كبيرة وراءها. و هذا يندرج ضمن مجموعة من التحيزات البشرية القائمة على العرق ، والجنس ، والإعاقة ، والانطوائية ، وما إلى ذلك. كما تفتقر سوق العمل إلى الشفافية فيما يتعلق بالمناصب المتاحة وظروف العمل.
 
 Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
 
