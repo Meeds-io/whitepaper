@@ -81,7 +81,7 @@ En engageant leurs utilisateurs dans le WoM, les Deeds sont récompensés à tra
 
 Les points d’engagement, recueillis par les utilisateurs des Deeds, participent à un index global d’engagement, calculé par l’association Meeds. L’index utilise le même principe pour tous les Deeds. Même si chaque Deed peut personnaliser la distribution de points de ses programmes en promouvant une action plutôt qu’une autre, ces changements ne seront pas pris en compte dans l'index global d’engagement.
 
-Chaque semaine, un certain montant de Meeds sera alloué à cette force de frappe globale du WoM liée à l’engagement. Il sera calculé régulièrement, au prorata de la participation de chaque Deeds. En complément, certains Deeds obtiendront un abondement en fonction de leur type d’engagement. Les Deeds qui réclameront leurs Meeds au cours de la semaine, les recevront. Les Meeds non réclamés seront ajoutés au montant global deistribué la semaine suivante.
+Chaque semaine, un certain montant de Meeds sera alloué à cette force de frappe globale du WoM liée à l’engagement. Il sera calculé régulièrement, au prorata de la participation de chaque Deeds. En complément, certains Deeds obtiendront un abondement en fonction de leur type d’engagement. Les Deeds qui réclameront leurs Meeds au cours de la semaine, les recevront. Les Meeds non réclamés seront ajoutés au montant global distribué la semaine suivante.
 
 L’index d’engagement dépend de l’engagement général, du nombre d’utilisateurs engagés et de la distribution.
 
