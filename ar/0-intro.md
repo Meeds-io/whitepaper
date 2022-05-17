@@ -13,17 +13,17 @@
 
 أصبح سوق العمل في ايامنا متذبذب. وهو لا يرضي العمال و صاحب العمل على حد سواء.
 
-فمن ناحية العاملين، يصعب العثور على الوظائف الصحيحة. فسوق العمل يفضل أنواعا معينة من الأفراد، مما يترك مهارات كبيرة وراءها. و هذا يندرج ضمن مجموعة من التحيزات البشرية القائمة على العرق ، والجنس ، والإعاقة ، والانطوائية ، وما إلى ذلك. كما تفتقر سوق العمل إلى الشفافية فيما يتعلق بالمناصب المتاحة وظروف العمل.
+فمن ناحية العاملين، يصعب العثور على الوظائف الصحيحة. فسوق العمل يفضل أنواعا معينة من الأفراد، تاركًا وراءه مهارات كبيرة. و هذا يندرج ضمن مجموعة من التحيزات البشرية القائمة على العرق ، والجنس ، والإعاقة ، والانطوائية ، وما إلى ذلك. كما تفتقر سوق العمل إلى الشفافية فيما يتعلق بالمناصب المتاحة وظروف العمل.
 
-Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
+بمجرد التوظيف ، يتم التعدي على الحريات الشخصية للموظف مقابل التعويض. فليس للموظفين رأي يذكر في ساعات عملهم، أو مكان عملهم، أو محتوى عملهم، أو أساليب عملهم. ونادرا ما يكون تعويضهم مرتبطا بأثره أو قيمته الحقيقية. و تفتقر قواعد التعويض إلى الشفافية ، وبالتالي يُنظر إليها على أنها غير عادلة. فضلاً على ذلك ، يعتمد التعويض والتقدم الوظيفي أيضًا على العامل البشري - حسن النية والموضوعية لدى المدير المباشر للموظف.
 
-Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
+و من ناحية أخرى ، يواجه أصحاب العمل صعوبات في إيجاد المواهب وتوظيف المهارات المناسبة والملاءمة في الوقت المناسب للوظيفة. فلا توجد طريقة موضوعية للتحقق من مهارات الموظف المحتمل أو مصدر الأشخاص خارج مجموعة التوظيف التقليدية لصاحب العمل.
 
-Employers also deal with the lack of loyalty from their employees and a high turnover, both of which, increase hiring and on-boarding costs.
+ويعالج أصحاب العمل أيضا انعدام الولاء من جانب موظفيهم وارتفاع معدل دورانهم، وكلاهما يزيد من تكاليف التوظيف والإقامة.
 
-Moreover, employers also face low engagement in their existing employees, leading to low creativity, productivity and innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
+إضافةً إلى ذلك، يواجه أصحاب العمل أيضا تدني مستوى المشاركة من موظفيهم الحاليين، مما يؤدي إلى انخفاض مستوى الإبداع والإنتاجية والابتكار. و هذا يلحق المزيد من الضرر في الاقتصاد اليومي الذي يتطلب المزيد من العمل الإبداعي.
 
-All of the above boil down to high transaction costs and the exacerbated agent-principal problem[^4] :
+كل ما سبق يتلخص في ارتفاع تكاليف المعاملات وتفاقم مشكلة الوكيل الرئيسي (agent-principal) [^4].
 - With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element.
 - As to the agent-principal problem, it has been compounded by the increasing revenue and wealth gap between employees and shareholders and the rigidity of the employer-employee relationship.
 
