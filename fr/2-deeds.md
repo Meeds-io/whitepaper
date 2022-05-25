@@ -90,11 +90,11 @@ Chaque semaine, un certain montant de Meeds sera alloué à cette force de frapp
 
 L’index d’engagement dépend de l’engagement général, du nombre d’utilisateurs engagés et de la distribution.
 
-* **Engagement** - – Nombre total d’actions cumulées par les utilisateurs sur la semaine dans le Deed. (à chaque niveau de Deed, chaque action est convertie en points d’engagement, quelques actions pesant plus que d’autres. Au niveau de l’index, toutes les actions sont rendues linéaires).
-* **Utilisateurs engagés** - Utilisateurs qui contribuent tout au long de la semaine, en réalisant au moins une action.
-* **Taux moyen d'engagement** = Engagement / Utilisateurs engagés.
-* **Taux de distribution** - Si un Deed a reçu des Meeds produits par les activités de la semaine précédente, c’est le pourcentage de Meeds redistribué à ses utilisateurs. Le taux peut être en deçà de 100 si la distribution a été retardée.
-* **Répartition de la distribution** - Si un Deed a reçu des Meeds produits par les activités de la semaine précédente, c’est le pourcentage d’utilisateurs qui a reçu des Meeds depuis un ensemble d’utilisateurs.
+- **Engagement** - – Nombre total d’actions cumulées par les utilisateurs sur la semaine dans le Deed. (à chaque niveau de Deed, chaque action est convertie en points d’engagement, quelques actions pesant plus que d’autres. Au niveau de l’index, toutes les actions sont rendues linéaires).
+- **Utilisateurs engagés** - Utilisateurs qui contribuent tout au long de la semaine, en réalisant au moins une action.
+- **Taux moyen d'engagement** = Engagement / Utilisateurs engagés.
+- **Taux de distribution** - Si un Deed a reçu des Meeds produits par les activités de la semaine précédente, c’est le pourcentage de Meeds redistribué à ses utilisateurs. Le taux peut être en deçà de 100 si la distribution a été retardée.
+- **Répartition de la distribution** - Si un Deed a reçu des Meeds produits par les activités de la semaine précédente, c’est le pourcentage d’utilisateurs qui a reçu des Meeds depuis un ensemble d’utilisateurs.
 
 **Score d’engagement des Deeds = Engagement * (Taux moyen d’engagement du Deed / Taux moyen d’engagement du WoM) * Taux de distribution * Répartition de la distribution * Force de frappe**
 

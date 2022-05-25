@@ -24,7 +24,7 @@ Les identifiants sont plus flexibles que les badges ; il peuvent être une reco
 
 ## 4.3. Identité numérique de travail
 
-Tout ce qui précède contribue à former un ensemble de compétences numériques éprouvées qui peuvent être conservées et utilisées par l'utilisateur lors d'un changement d'emploi ou d'une activité indépendante. C'est plus fiable que les solutions traditionnelles car il ne suffit pas d'un seul individu mais de toute une communauté pour le prouver.
+Tout ce qui précède contribue à former un ensemble de compétences numériques éprouvées qui peuvent être conservées et utilisées par l'utilisateur lors d'un changement d'emploi ou d'une activité indépendante. Ceci est plus fiable que les solutions traditionnelles, car il ne suffit pas d'un seul individu, mais de toute une communauté pour le prouver.
 
 Tout comme son portefeuille Meeds, l'utilisateur conservera ses Xeed, Badges, et les Identifiants rattachés à son portefeuille d'identité lorsqu'il se déplace d'un Deed à l'autre, d'une ville à l'autre, n'importe où à travers le WoM.
 

@@ -3,6 +3,7 @@
 **تاريخ 1 ماي 2022 - الإصدار 1.0**
 
 ## نبذة مختصرة
+
 سوق العمل اليوم يفتقر إلى الكفاءة بسبب ارتفاع تكاليف المعاملات[^1][^2][^3]</sup> والتضارب المتكرر في المصالح بين صاحب العمل والعامل.
 
 نموذج "ميتافرس العمل" ("the WoM" ,"The Work Metavers") يقترح نموذجاً جديداً من شأنه خفض تكاليف المعاملات وإعادة توطيد علاقة العمل و سد الفجوة بين الشركات التقليدية و المنظمات المستقلة اللامركزية DAO.
@@ -24,12 +25,13 @@
 إضافةً إلى ذلك، يواجه أصحاب العمل أيضا تدني مستوى المشاركة من موظفيهم الحاليين، مما يؤدي إلى انخفاض مستوى الإبداع والإنتاجية والابتكار. و هذا يلحق المزيد من الضرر في الاقتصاد اليومي الذي يتطلب المزيد من العمل الإبداعي.
 
 كل ما سبق يتلخص في ارتفاع تكاليف المعاملات وتفاقم مشكلة الوكيل الرئيسي (agent-principal) [^4].
+
 - ومع الإنترنت ، تطورت أسواق العمل نحو المزيد من الوحدة والشفافية بفضل مواقع الإعلان عن الوظائف ، والمواقع الوظيفية ، وما إلى ذلك. ولكن تكاليف المعاملات لا تزال مرتفعة للغاية في غياب عنصر الموضوعية.
 - أما بالنسبة لمشكلة الوكيل الرئيسي ، فقد تفاقمت بسبب تزايد فجوة الإيرادات والثروة بين الموظفين والمساهمين وتصلب علاقة صاحب العمل بالموظف.
 
 ويهدف برنامج "ميتافرس العمل" إلى حل كلا الأمرين من خلال نموذج عمل لامركزي جديد.
 
-بعد أعمال [^5]R. Coase، يربط معظم الاقتصاديين مفهوم المؤسسة بضرورة التخفيف من تكاليف المعاملات. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs[^6] started this process focusing on lowering the cost of transactions for capital sourcing and governance. The WoM aims at pushing this logic further by lowering the cost of work transactions. It proposes a decentralized world where jobs and skills matching could be done objectively, quickly and globally.
+باتباع أعمال R. Coase < 0 > < 1 > 5 </1 > </0 >، يربط معظم الاقتصاديين مفهوم المؤسسة بضرورة التخفيف من تكاليف المعاملات. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs[^6] started this process focusing on lowering the cost of transactions for capital sourcing and governance. The WoM aims at pushing this logic further by lowering the cost of work transactions. It proposes a decentralized world where jobs and skills matching could be done objectively, quickly and globally.
 
 The first DAOs flatten the hierarchies and open ownership. The WoM pursues this logic by reinventing rather than suppressing the employer/employee relationship. It introduces a transparent, objective and decentralized reward paradigm, that would sustainably align the employer and the employee interests.
 

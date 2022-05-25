@@ -1,28 +1,28 @@
-# 4. Xeeds - Work Metaverse Individuals / users
+# 4. Xeeds - عمل الميتافيرس أفراد / مستخدمين
 
-## 4.1. Decentralized and self-sovereign models
+## 4.1. نماذج لامركزية وذات سيادة ذاتية
 
-The WoM recognizes privacy as a fundamental human right and empowers users to own their data.
+يعترف عمل الميتافرس بالخصوصية كحق أساسي من حقوق الإنسان وتمكن المستخدمين من امتلاك بياناتهم الخاصة.
 
-Our approach is based on decentralized and self-sovereign identity principles, allowing users to be in control at any time of what information they want to publicize, share with a restricted group, or keep private.
+يعتمد نهجنا على مبادئ الهُوِيَّة اللامركزية وذات السيادة الذاتية ، مما يسمح للمستخدمين بالتحكم في أي وقت في المعلومات التي يرغبون في نشرها أو مشاركتها مع مجموعة معينة أو الحفاظ على خصوصيتها.
 
-User's activity and engagement in the WoM is always linked to a Deed. A Xeed is the virtual persona of a user in a Deed. Xeed does not require any KYC, it is self-declaring, but we could conceivably imagine third-party firms providing this service.
+يرتبط نشاط المستخدم ومشاركته في عمل المتافيرس دائمًا بسند ما. Xeed هي الشخصية الافتراضية للمستخدم في السند. لا يتطلب Xeed أي مفهوم من نوع "تعرف إلى عميلك"، فهو إعلان ذاتي، ولكن يمكننا تصور شركات خارجية تقدم هذه الخدمة.
 
-## 4.2. Badges and credentials
+## 4.2. الشارات وبيانات الإعتماد
 
-Badges and Credentials are given to users as a part of their participation in a Deed. The holder may download them as W3C Verifiable Credentials[^7][^8] (aka VCs) and store them in his wallet. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
+وتعطى الشارات وبيانات الإعتماد للمستخدمين كجزء من مشاركتهم في السند. قد يقوم حامل الشبكة بتنزيلها كبيانات الاعتماد W3C يمكن التحقق منها وتخزينها في محفظته. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
 
-In today’s world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they count on their managers to give them a recommendation. The latter supposes certain goodwill on the part of the manager but is not necessarily treated as proof by the future employer.
+في عالم اليوم، من الصعب أن نبرهن على وجود مهارة مسبقة. وعندما يعلن الناس عن أنفسهم على الشبكات فإنهم يعتمدون على مديريهم لإعطائهم توصية. ويفترض هذا الأخير وجود بعض النوايا الحسنة من جانب المدير ولكنه لا يعامل بالضرورة كدليل من جانب رب العمل في المستقبل.
 
-The Work Metaverse provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
+ويوفر ميثاق العمل وسيلة أكثر شفافية وثباتا للناس لاكتساب قدراتهم وإظهارها.
 
-Badges are used to represent accomplishments made within a Deed. After completing a set of objectives or challenges, users will be awarded points. Badges can be unlocked by accumulating certain amounts of points in specific categories.
+يتم استخدام الشارات لتمثيل الإنجازات التي تم تحقيقها ضمن سند ما. بعد إكمال مجموعة من الأهداف أو التحديات، سيتم منح المستخدمين نُقَط. يمكن فتح الشارات عن طريق تجميع كميات معينة من النقاط في فئات معينة.
 
-When badges are downloaded by the user, it is possible to include the number of points and his rank in the Deed for this specific accomplishment.
+عندما يتم تحميل الشارات من قبل المستخدم، ومن الممكن إدراج عدد النقاط ورتبته في السند لتحقيق هذا الإنجاز المحدد.
 
-Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the Deed. These are signed by the Deed and can be accompanied by a signature by a peer user.
+وتكون وثائق التفويض أكثر مرونة من الشارات ؛ ويمكن أن تكون توصية من أقران، تشير إلى سنوات من الخبرة، أو إتمام التدريب أو الامتحان، أو المشاركة في السند. ويوقع على هذه السندات ويمكن أن تكون مشفوعة بتوقيع من مستخدم آخر.
 
-## 4.3. Digital work identity
+## 4.3. هوية العمل الرقمي
 
 All of the above contributes to forming proven digital skillset that can be kept and used by the user when changing jobs or freelancing. It would be more trustworthy than traditional solutions as it relies on not just one individual but a full community to prove it.
 
@@ -36,29 +36,29 @@ Contrary to web 2, the user is in full ownership of his decentralized identities
 
 The user will be able to select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Deeds, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time.
 
-## 4.4. Fair work marketplace
+## 4.4. سوق العمل العادل
 
-Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Deeds – as they do in the physical world by changing employers. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to choose which Deed provides better engagement reward conditions, belongs to a more attractive city, etc.
+وفي إطار هذا النموذج، يسمح سوق العمل في المستقبل للمستخدمين بالتحرك بحرية وتخصيص أو بيع مشاركتهم بين سندات الملكية ــ كما يفعلون في العالم المادي من خلال تغيير أرباب العمل. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to choose which Deed provides better engagement reward conditions, belongs to a more attractive city, etc.
 
 On their end, the Deeds’ holders/renters can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
 
-## 4.5. Tangible and transparent recognition
+## 4.5. الاعتراف الملموس والشفاف
 
-Today, details on compensation and bonuses are obscure in many workplaces. Therefore, it is difficult for a person to compare his conditions to that of another and get a sense of a fair and unbiased treatment. Employees experience a lot of frustrations with the above.
+في هذه الأيام، التفاصيل المتعلقة بالتعويضات والمكافآت غامضة في كثير من أماكن العمل. لذلك، من الصعب على شخص ما أن يقارن ظروفه مع ظروف شخص آخر وأن يحصل على إحساس بمعاملة عادلة وغير متحيزة. ويشعر الموظفون بقدر كبير من الإحباط نتيجة لشعورهم بالظلم.
 
-The WoM introduces an objective way to recognize achievements and reward them.
+عمل المتافيرس يقدم طريقة موضوعية للاعتراف بالإنجازات والمكافأة عليها.
 
-Engagement recognition and reward mechanism is transparent and applies fairly to all users, following the same explicit rules, decided in advance and aligned with the Deed’s goals.
+وتتسم آلية التعرف على المشاركة والمكافأة بالشفافية وتنطبق بشكل عادل على جميع المستعملين، باتباع نفس القواعد الصريحة، تقرر مسبقاً ومتوافقة مع أهداف السند.
 
-Wallets are individual and blockchain based – when the user receives a reward or earns a badge, it cannot be taken back or erased.
+المحفظة فردية و قائمة على البلوكشين - عندما يتلقى المستخدم مكافأة أو يكسب شارة ، لا يمكن استرجاعها أو حذفها.
 
-## 4.6. Access to Web 3.0, cryptoeconomy and DEFI services
+## 4.6. الدخول إلى الويب 3.0, اقتصاد العملة المشفرة والتمويل اللامركزي
 
-As discussed above, the Work Metaverse opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
+وكما ذكر سابقاً، فإن عمل الميتافيرس يفتح عالم العملات الرقمية وخدمات الويب اللامركزية للجميع في الأساس ــ لمجموعة كبيرة جدا من المستخدمين، وربما لا صلة لها بالحقل الرقمي.
 
-Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
+في الواقع، أي مشاركة في العمل يمكن أن تكون مربحة ولو كانت رمزية. في الواقع إن العالم آخذ في أن يصبح رقميا بشكل متزايد مع اتجاهات مثل تكنولوجيات الجيل الخامس، أنترنت الأشياء وما إلى ذلك. ونتيجة لذلك ، يمكن التقاط المزيد والمزيد من الإشارات وتحليلها لقياس مشاركة المهن غير الرقمية. فالتحديات توفر الاستعداد للمضي قدماً في هذا المجال بتمثيل الإنجازات التي تحققت في العالم المادي.
 
-Any user can get Meeds and use a Meeds wallet to get access to new age services without any special training.
+يمكن لأي مستخدم الحصول على Meeds واستخدام محفظة Meeds للحصول على خدمات جديدة بدون أي تدريب خاص.
 
 [^7]: A. Preukschatt, R. Drummond “Self-Sovereign Identity
 [^8]: Verifiable Credentials Data Model

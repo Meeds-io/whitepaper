@@ -3,6 +3,7 @@
 **1 mayo 2022 - Versión 1.0**
 
 ## Sinopsis
+
 El mercado laboral de hoy día carece de eficiencia debido a sus altos costes transaccionales<sup id="fnref:1"><a href="#fn:1" class="footnote-ref"></a></sup><sup id="fnref:2"><a href="#fn:2" class="footnote-ref"></a></sup><sup id="fnref:3"><a href="#fn:3" class="footnote-ref"></a></sup> y conflictos de intereses que se dan frecuentemente entre empleadores y empleados.
 
 *The Work Metaverse* (acortado en WoM) propone un paradigma nuevo que reduciría los costes transaccionales y reinventaría las relaciones laborales, tendiendo puentes entre las corporaciones tradicionales y las DAO.
@@ -24,6 +25,7 @@ Los empleadores también tienen que lidiar con la falta de lealtad por parte de 
 Asimismo, los empleadores también se enfrentan a la baja implicación de sus empleados, lo que provoca una merma en la creatividad, productividad e innovación. Este factor es el más perjudicial para la economía actual, que requiere mejores habilidades creativas.
 
 Todo lo mencionado anteriormente supone unos costes transaccionales elevados y un problema agente-principal agudizado<sup id="fnref:4"><a href="#fn:4" class="footnote-ref"></a></sup>:
+
 - Con Internet, los mercados laborales ganaron mayor unidad y transparencia gracias a los sitios web de búsqueda de empleo. Aun así, los costes transaccionales siguen siendo demasiado altos al carecer de un elemento de objetividad.
 - El problema del agente-principal es una mezcla que comprende tanto la distancia creciente de beneficios y patrimonio entre empleados y accionistas, y la rigidez de la relación empleado-empleador.
 
