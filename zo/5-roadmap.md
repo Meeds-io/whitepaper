@@ -52,11 +52,12 @@ The association plans also to stake some Meeds in order to acquire (redeem) a De
 
 ## 5.5. 5.5. Roadmap and milestones
 Our roadmap would follow the priority order below:
-* Engagement index and minting through engagement
-* Enable Deeds renting
-* Xeed creation
-* Badges improvement and credentials development
-* DeFi services – in the wallet, credit cards partnership
+
+- Engagement index and minting through engagement
+- Enable Deeds renting
+- Xeed creation
+- Badges improvement and credentials development
+- DeFi services – in the wallet, credit cards partnership
 
 We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
 
@@ -65,13 +66,14 @@ Meeds minting spans a 20 year period. Meeds minting spans a 20 year period. By t
 ## 5.6. 5.6. What you can do right now
 
 What can you do right now to participate?
-* Spread this paper to those who would be interested
-* Visit our website https://www.meeds.io/
-* Check out the Investor app
-* Contribute to the existing liquidity pools here :
- * Cometh Swap
- * Sushi Swap
-* Join our discord community to be kept in the loop
-* Join our Builders community to test the Meeds software, engage and earn some Meeds engagement rewards
+
+- Spread this paper to those who would be interested
+- Visit our website https://www.meeds.io/
+- Check out the Investor app
+- Contribute to the existing liquidity pools here :
+  - Cometh Swap
+  - Sushi Swap
+- Join our discord community to be kept in the loop
+- Join our Builders community to test the Meeds software, engage and earn some Meeds engagement rewards
 
 **\*\*\* The Work Metaverse - let’s build this crazy future world together. \*\*\* \*\*\***
