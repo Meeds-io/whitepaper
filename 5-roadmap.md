@@ -47,12 +47,14 @@ The Builders community is up and running on Meeds software, open to anyone who w
 This paper is to be published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
 
 ## 5.4. The builders community ##
+
 We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the Work
 Metaverse. The association would reward builders engagement with Meeds, from its marketing budget.
 
 The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
 
 ## 5.5. Roadmap and milestones ##
+
 Our roadmap would follow the priority order below:
 
 - Engagement index and minting through engagement

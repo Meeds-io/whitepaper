@@ -14,7 +14,6 @@ The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a p
 
 There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
 
-
 | **Deed Type** |  **Max users** |  **Minting power** |  **Scarcity** |  **City voting rights** | 
 | --- | --- | --- | --- | --- | 
 | Common | 100 |  1 |  ~ 90% |  1 | 
@@ -130,6 +129,7 @@ The “mintium” model is the first of a kind - it goes further than the tradit
 In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
 
 A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start 2<sup>n</sup> months after the last Deed of the n-1 city was minted.
+
 | **City name** |  **Deeds** |  **Available** |  **Common** |  **Uncommon** | **Rare** | **Legendary** | 
 | --- | --- | --- | --- | --- | --- | --- | 
 | City 1: Tanit | 100 | T0 | 50 | 30 | 13 | 7 |   

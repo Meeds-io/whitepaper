@@ -73,7 +73,7 @@ _xMeedBalanceNoDecimals / ( xMeedBalanceNoDecimals + 12000) * elapsedTimeInSecon
 
 The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably.
 
-| Card Type | Points | 100k xMeeds (321 pts / day) | 10k xMeeds (164 pts / day) | 1k xMeeds (28 pts / day) |
+| **Card Type** | **Points** | **100k xMeeds** (321 pts / day) | **10k xMeeds** (164 pts / day) | **1k xMeeds** (28 pts / day) |
 | --- | --- | --- | --- | --- |
 | Common | 8 000 | 1 month (25 days) |  2 months (49 days) | 9 months |
 | Uncommon | 32 000 | 3 months (100 days) | 6 months | 3 years |
