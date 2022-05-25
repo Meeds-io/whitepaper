@@ -52,11 +52,12 @@ L'association prévoit également de placer elle-même quelques Meeds afin d'acq
 
 ## 5.5. Feuille de route et jalons
 Notre feuille de route suivra l'ordre de priorité ci-dessous :
-* Indice d'engagement et émission par engagement
-* Activer la location des Deeds
-* Création des Xeeds
-* Amélioration des badges et développement des titres de compétences
-* Services DeFi - dans le portefeuille, partenariat cartes de crédit
+
+- Indice d'engagement et émission par engagement
+- Activer la location des Deeds
+- Création des Xeeds
+- Amélioration des badges et développement des titres de compétences
+- Services DeFi - dans le portefeuille, partenariat cartes de crédit
 
 Durant la phase de construction, nous ciblerons les membres des premières DAO ainsi que les sociétés technophiles. Nous devrions également avoir quelques premiers utilisateurs issus d'entreprises traditionnelles qui tireront parti du métaverse en créant des programmes d'engagement pertinents pour leurs employés en complément de leurs plans de rémunération classiques.
 
@@ -65,13 +66,14 @@ L'émission de la totalité des Meeds aura lieu progressivement sur une période
 ## 5.6. Ce que vous pouvez faire maintenant
 
 Que pouvez-vous faire dès maintenant pour participer ?
-* Diffuser ce document à ceux qui seraient intéressés
-* Visiter notre site https://www.meeds.io
-* Découvrir l'application Investors
-* Contribuer aux pools de liquidité existants sur :
- * Cometh Swap (Polygon)
- * Sushi Swap
-* Rejoindre notre communauté sur Discord pour rester dans la boucle
-* Rejoindre notre communauté Builders pour essayer le logiciel Meeds, vous engager en contribuant au projet et gagner des Meeds en récompense
+
+- Diffuser ce document à ceux qui seraient intéressés
+- Visiter notre site https://www.meeds.io
+- Découvrir l'application Investors
+- Contribuer aux pools de liquidité existants sur :
+  - Cometh Swap (Polygon)
+  - Sushi Swap
+- Rejoindre notre communauté sur Discord pour rester dans la boucle
+- Join our Builders community to test the Meeds software, engage and earn some Meeds engagement rewards
 
 **\*\*\* Le Work Metaverse - Construisons le monde de demain ensemble. \*\*\***
