@@ -11,6 +11,7 @@ Les Meeds sont émis à une cadence de 10 Meeds par minute. Par conséquent, l'e
 ## 3.2. Répartition de l'émission
 
 Les Meeds émis sont alloués pour encourager la participation des trois catégories de parties prenantes - les utilisateurs, les bâtisseurs et les investisseurs :
+
 - Les utilisateurs (utilisateurs et propriétaires / loueurs de Deeds) obtiennent des Meeds grâce aux récompenses produites par l'engagement (modèle Mintium).
 - Les bâtisseurs (membres de l'association et de la communauté) recueillent des Meeds à travers les fonds de l'association utilisés pour construire, opérer et améliorer le WoM.
 - Les investisseurs génèrent des Meeds pour la location et l'achat de liquidités et par les intérêts produits en plaçant leurs Meeds.
@@ -36,6 +37,7 @@ L’association fait ainsi vivre la communauté Builders qui accueille des entho
 Par conséquent, la communauté fonctionnera comme un exemple de Deed, offrant un ensemble de services standards fournis par l’association. Cette dernière investira des Meeds pour fournir un Deed pour la communauté. Celle-ci pourra également participer à l’émission issue de l’engagement comme tout autre Deed.
 
 Une fois la période d’émission terminée, l’association sera soutenue par :
+
 - les taxes sur les revenus passifs (3% sur les locations de Deeds)
 - les taxes sur les revenus de vente (2.5% sur les ventes de Deeds)
 - les frais de transactions d'achat dans les boutiques
@@ -77,7 +79,8 @@ Le Work Metaverse introduira le monde de la blockchain à de nombreuses personne
 
 En effet, tout travail (qu'il soit numérique ou pas) peut être gamifié et tout engagement récompensé en Meeds. Les Meeds sont mis à la disposition des utilisateurs via un portefeuille facile à utiliser, basé sur la blockchain, qui "abstrait" toute complexité du monde de la cryptographie pour un utilisateur ordinaire.
 
-Au-delà du portefeuille et d'une boutique où ils peuvent acheter des avantages contre des Meeds, nous prévoyons de présenter à chaque utilisateur plusieurs produits alimentés par les protocoles de financement décentralisé, tels que :
+Au-delà du portefeuille et d'une boutique où ils peuvent acheter des avantages contre des Meeds, nous prévoyons de présenter à chaque utilisateur plusieurs produits alimentés par les protocoles de financement décentralisé, tels que :
+
 * La possibilité de placer des tokens Meeds et d'obtenir des rendements (générer des revenus)
 * La possibilité d'utiliser des jeton Meeds comme garantie pour emprunter des devises stables telles que l'USDC (en exploitant d'abord un pool Fuse https://app.rari.capital/fuse puis en enregistrant le jeton Meeds auprès d'AAVE - https://aave.com/) .
 * Une carte de paiement digitale qui peut être ajoutée et utilisée à travers Apple Pay, Google Pay ou tout autre Distributeur automatique. Cette dernière peut être fournie par le biais d'un partenariat avec VISA et tirera partie d'une ligne de crédit en USDC, garantie par des Meeds mis en gage. (Cette carte pourrait également être utilisée par les organisations pour financer les portefeuilles des employés afin de gérer les avantages sociaux tels que

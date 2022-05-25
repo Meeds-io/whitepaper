@@ -3,6 +3,7 @@
 **Date May 1st, 2022 - Version 1.0**
 
 ## Abstract ##
+
 Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
 
 The Work Metaverse (the WoM) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional
@@ -29,6 +30,7 @@ Moreover, employers also face low engagement in their existing employees, leadin
 
 All of the above boil down to high transaction costs and the exacerbated agent-principal
 problem[^4] :
+
 - With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element.
 - As to the agent-principal problem, it has been compounded by the increasing revenue and wealth gap between employees and shareholders and the rigidity of the employer-employee relationship.
 

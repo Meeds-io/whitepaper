@@ -1,12 +1,13 @@
-
 # 2. Deeds NFT - Organisations dans le Work Metaverse
 
 ## 2.1. Définition des NFT - Deeds
+
 Un jeton non fongible (NFT pour Non Fungible Token) est un jeton unique qui représente un bien. Dans le WoM, un Deed est utilisé comme titre de propriété. Chaque Deed donne à son propriétaire un droit d'accès à plusieurs services - par exemple, un accès à un espace de travail numérique supporté par le logiciel Meeds ainsi que des récompenses pour l'engagement généré dans le Deed.
 
 Le WoM accueille tout type d'organisations - des DAO, des entreprises traditionnelles, des associations, des groupes de réflexion, des partenariats, voire même des compagnies de théâtre, des groupes de projets, des écoles, etc. Le Deed incarne leur représentation numérique dans le WoM.
 
 ## 2.2. Approvisionnement des Deeds
+
 Le WoM proposera à terme un nombre fini de Deeds. Chaque Deed prédéfinit un nombre maximum d’utilisateurs et offre une capacité de récompense (appelée la force de frappe (Minting Power). Le terme « utilisateur » désigne tout type de salarié, employé ou indépendant, bénévole, etc.
 
 Il existe quatre types de Deeds, chacun fournissant des capacités différentes en termes de nombre d'utilisateurs, de droits de vote dans une ville (voir 2.7) ou de force de frappe, les plus rares étant les plus puissants :
@@ -22,6 +23,7 @@ Il existe quatre types de Deeds, chacun fournissant des capacités différentes 
 ## 2.3. Propriété des Deeds
 
 Un Deed donne à son propriétaire le droit de l'utiliser, de le louer, ou de le vendre.
+
 - UTILISER – Les propriétaires du Deed peuvent l'utiliser directement pour leur organisation, en fournissant des services à ses utilisateurs.
 - LOUER - Les propriétaires du Deed peuvent également le louer à une organisation afin de générer des revenus passifs.
 - VENDRE - Un Deed peut être vendu sur un marché secondaire tel que [OpenSea](https://opensea.io).
@@ -35,6 +37,7 @@ Dans un marché de plus en plus concurrentiel, pour attirer puis retenir les tal
 Chaque titulaire ou locataire peut fournir des outils et des services à ses utilisateurs, qui gagnent des points d’engagement qui peuvent être paramétrés selon les priorités de l'organisation. Périodiquement, les points sont convertis en Meeds (et - pour les DAOs - potentiellement un autre jeton), en fonction du budget fixé à l'avance. De cette manière, l’engagement des utilisateurs dans les activités considérées importantes pour l’organisation est récompensé.
 
 Pour commencer, les services suivants sont fournis gratuitement par l'association Meeds et peuvent être utilisés immédiatement pour récompenser l'engagement :
+
 - Moteur de Gamification – Toute action utilisateur est automatiquement détectée au sein du WoM et équivaut à un nombre de points. Ceci peut être ajusté selon les priorités du Deed via des programmes d’engagement personnalisables.
 - Challenges – Des défis personnalisables peuvent être mis en place pour représenter des accomplissements significatifs difficilement détectables automatiquement. Les challenges sont prédéfinis par une personne et peuvent être relevés et déclarés comme réussis par une autre. Les challenges ont aussi une valeur en points qui émargent à des programmes d’engagement personnalisables.
 - Programmes d'engagement - Les organisations peuvent créer leurs propres programmes d'engagement correspondant à leur objectifs et leur priorités. Les programmes regroupent des actions automatiques et des challenges déclarés manuellement. Chacun d'eux a un budget défini en Meeds. Les points gagnés périodiquement par chaque utilisateur dans chaque programme d'engagement sont convertis en Meeds, selon le budget de ce programme.
@@ -48,6 +51,7 @@ Pour commencer, les services suivants sont fournis gratuitement par l'associatio
 Certains des outils et services ci-dessus sont déjà décentralisés, d'autres non. L'objectif ultime est de fournir tous les services de manière décentralisée, ce que nous ferons progressivement au fur et à mesure que la technologie sous-jacente évoluera.
 
 De nouveaux services peuvent être branchés dans le moteur de récompense via les API. Les exemples sont innombrables et peuvent inclure pratiquement n'importe quel logiciel ou service :
+
 - Logiciel de CRM – Les commerciaux obtiendraient des points d’engagement pour travailler sur les opportunités.
 - Logiciel de comptabilité – Les comptables obtiendraient des points d’engagement pour la tenue des livres de compte.
 - Pointeuse – Le travailleur d’usine peut obtenir des points pour le temps de travail extra dans l’usine.
@@ -56,6 +60,7 @@ De nouveaux services peuvent être branchés dans le moteur de récompense via l
 En outre, l'engagement produit via le connecteur contribue au score d'engagement global de l'organisation qui sera facteur du taux de distribution des récompenses aux membres, tel que décrit dans la formule ci-dessous.  Pour cela, le connecteur doit être approuvé par l'association Meeds. L'association évalue le connecteur, approuve son algorithme et acquiert sa propriété contre l'octroi de Meeds. Il fait ensuite partie des services fournis par l'association tout comme il est inclut dans l'index global d'engagement. Tout autre Deed peut utiliser le même connecteur et le même fonctionnement de récompenses pour ses développeurs.
 
 Le propriétaire ou le loueur de Deed peut enrichir sa boutique interne avec ses propres produits et services, en le connectant par exemple à une offre en ligne, etc. Ici encore les possibilités sont infinies :
+
 - Sessions de formation
 - Accès à une salle de sport
 - Chèques vacances
@@ -96,10 +101,12 @@ L’index d’engagement dépend de l’engagement général, du nombre d’util
 L’index global d’engagement utilisé pour distribuer les Meeds aux Deeds est la somme des scores d’engagement de tous les Deeds sur la semaine.
 
 La formule plus haut est simple et elle est conçue pour privilégier les Deeds qui :
+
 - ont de nombreux utilisateurs engagés (engagement)
 - partagent l’ensemble du revenu produit (taux de distribution) avec leurs utilisateurs de manière équitable (Répartition de la distribution).
 
 Des abondements sont en place :
+
 - Pour les organisations avec un fort taux d’engagement, peu importe leur taille (taux d’engagement associé au WoM)
 - Pour les Deeds rares
 
@@ -114,6 +121,7 @@ Ce modèle "Mintium" est le premier du genre - il va plus loin que les tradition
 Dans le WoM, les Deeds sont créés petit à petit au sein des villes virtuelles. Seule la première ville existera au début. Les autres seront créées au fur et à mesure, l'une après l'autre. Dans l'ensemble du WoM, il y aura seulement 7 villes, chacune incluant un nombre limité de chacun des types de Deeds.
 
 Une ville sera considérée comme complète une fois que tous les Deeds seront générés et produits. Ensuite, le minage de chaque nouvelle ville débutera 2<sup>n</sup> mois après que le dernier Deed de la précédente ville ait été produit.
+
 | **Nom de la ville** | **Deeds**   | **Disponible**     | **Commun** | **Peu commun** | **Rare**  | **Légendaire** |
 | ------------------- | ----------- | ------------------ | ---------- | -------------- | --------- | -------------- |
 | Ville 1 : Tanit     | 100         | T0                 | 50         | 30             | 13        | 7              |
