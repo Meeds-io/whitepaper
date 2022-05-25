@@ -52,11 +52,12 @@
 
 ## 5.5. خارطة الطريق والمعالم
 ستتبع خارطة الطريق الخاصة بنا ترتيب الأولوية أدناه:
-* مؤشر المشاركة وسكها من خلال المشاركة
-* تفعيل خاصية تأجير السندات
-* إنشاء Xeed
-* تحسين الشارات وتطوير بيانات الاعتماد
-* خدمات DeFi - في المحفظة، بطاقة الائتمان الشراكة
+
+- مؤشر المشاركة وسكها من خلال المشاركة
+- تفعيل خاصية تأجير السندات
+- إنشاء Xeed
+- تحسين الشارات وتطوير بيانات الاعتماد
+- خدمات DeFi - في المحفظة، بطاقة الائتمان الشراكة
 
 We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
 
@@ -65,13 +66,14 @@ Meeds minting spans a 20 year period. By that time, we aspire to have achieved b
 ## 5.6. What you can do right now
 
 What can you do right now to participate?
-* Spread this paper to those who would be interested
-* Visit our website https://www.meeds.io/
-* Check out the Investor app
-* Contribute to the existing liquidity pools here :
- * Cometh Swap
- * Sushi Swap
-* Join our discord community to be kept in the loop
-* Join our Builders community to test the Meeds software, engage and earn some Meeds engagement rewards
+
+- Spread this paper to those who would be interested
+- Visit our website https://www.meeds.io/
+- Check out the Investor app
+- Contribute to the existing liquidity pools here :
+  - Cometh Swap
+  - Sushi Swap
+- Join our discord community to be kept in the loop
+- Join our Builders community to test the Meeds software, engage and earn some Meeds engagement rewards
 
 **\*\*\* The Work Metaverse - let’s build this crazy future world together. \*\*\***
