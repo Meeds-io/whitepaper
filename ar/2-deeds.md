@@ -12,12 +12,12 @@ The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a p
 There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
 
 
-| **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
-| ------------- | ------------- | ----------------- | ------------ | ---------------------- |
-| Common        | 100           | 1                 | ~ 90%        | 1                      |
-| Uncommon      | 1000          | 1.1               | ~ 9%         | 10                     |
-| Rare          | 10 000        | 1.3               | ~ 1%         | 100                    |
-| Legendary     | unlimited     | 2                 | < 0.1 %      | 1000                   |
+| **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **حقوق التصويت للمدينة** |
+| ------------- | ------------- | ----------------- | ------------ | ------------------------ |
+| Common        | 100           | 1                 | ~ 90%        | 1                        |
+| Uncommon      | 1000          | 1.1               | ~ 9%         | 10                       |
+| نادر          | 10 000        | 1.3               | ~ 1%         | 100                      |
+| اسطوري        | غير محدود     | 2                 | < 0.1 %      | 1000                     |
 
 ## 2.3. Deeds ownership
 
@@ -38,7 +38,7 @@ To begin with, the following free services provided by the Meeds association can
 - Gamification engine – automatic actions within the WoM have a weight in points, that can be fine-tuned to the Deed’s priorities via customizable engagement programs.
 - Challenges – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
 - Customizable engagement programs - organizations can create their own engagement programs matching their business goals and priorities. Programs are associated to automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatics or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
-- Kudos - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
+- الكودوس- يمكن منح الكودوس من قبل المستخدمين لبعضهم البعض، كشكر و رمز للاعتراف. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. وبهذه الطريقة يمكن للموظفين أن يكافئوا زملائهم.
 - Collaboration tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
 - Wallet – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
 - Store – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
@@ -56,7 +56,7 @@ New services can be plugged into the reward engine through APIs. Examples are co
 Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
 
 The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
-- Training courses
+- دروس تدريبية
 - Gym memberships
 - Vacation packages
 - Lunch with a leader in the organization
@@ -114,15 +114,15 @@ The “mintium” model is the first of a kind - it goes further than the tradit
 In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
 
 A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start 2<sup>n</sup> months after the last Deed of the n-1 city was minted.
-| **City name**    | **Deeds**   | **Available**        | **Common** | **Uncommon** | **Rare**  | **Legendary** |
-| ---------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
-| City 1: Tanit    | 100         | T0                   | 50         | 30           | 13        | 7             |
-| City 2: Reshef   | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
-| City 3: Ashtarte | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
-| City 4: Melqart  | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
-| City 5: Eshmun   | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
-| City 6: Kushor   | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
-| City 7: Hammon   | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
+| **City name**     | **Deeds**   | **Available**        | **Common** | **Uncommon** | **Rare**  | **Legendary** |
+| ----------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
+| المدينة 1: تانيت  | 100         | T0                   | 50         | 30           | 13        | 7             |
+| المدينة 2: ريشيف  | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
+| City 3: Ashtarte  | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
+| المدينة 4: ملكارت | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
+| المدينة 5: اشمون  | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
+| المدينة 6: كوشور  | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
+| المدينة 7: هامون  | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
 
 A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
 

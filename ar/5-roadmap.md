@@ -1,62 +1,62 @@
-# 5. The Work Metaverse for ALL – vision summary and milestones
+# 5. ميتافيرس للجميع - ملخص الرؤية و المعالم
 
-## 5.1. Ultimate goal - decentralized web for everyone
+## 5.1. الهدف النهائي - ويب لامركزي للجميع
 
-In the end, the WoM is a decentralized web world for everyone – every person and every organization.
+في النهاية ، WoM هو عالم ويب لامركزي للجميع - كل شخص وكل منظمة.
 
-It will be populated by users, acting through their digital identities **Xeeds** and accessing the world through their metamasks, for crypto-savvies, or login/password for the newbies. People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
+سيتم ملؤها من قبل المستخدمين ، والعمل من خلال هوياتهم الرقمية ** Xeeds ** والوصول إلى العالم من خلال الميتاماسك الخاصة بهم ، للتشفير ، أو تسجيل الدخول / كلمة المرور للمبتدئين. وسوف يخصص الناس مشاركتهم ويحصلون على مكافأة بطريقة عادلة وشفافة ولا مركزية. سيحصلون على إمكانية الوصول إلى العالم اللامركزي وعالم التشفير في المستقبل بطريقة سهلة ومألوفة - سيحصلون على أدوات بسيطة لاستخدام رموزهم في حياتهم أو استثمارها من أجل مستقبلهم.
 
-Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the metaverse, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
+المنظمات - **Deeds** ستكون قادرة على الحصول على المواهب، والتصفح من خلال WoM، للحصول على المهارات الصحيحة المثبتة. سوف يحصلون على مكافأة لمشاركتهم في ميتافيرس، عن طريق سك الرموز من خلال مشاركة المستخدمين (نموذج المينتيوم). ولكن الأهم من ذلك كله، أنهم سيستفيدون من زيادة المشاركة و ولاء أعلى من مستخدميهم.
 
-The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
+سيكون لدى WoM عملة خاصة به **ميدس** - التي ستكون هناك للإنفاق في المتاجر، تحويل إلى عملة أخرى، الاستثمار من أجل تحقيق عائد على الاستثمار أو الإيجار أو الشراء، وما إلى ذلك. ستعمل WoM أيضًا على تسهيل توزيع الرموز الأخرى والمشاركة في النظام االإيكولوجي الشامل للعملات المشفرة.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
+نظرًا لأن الصورة تساوي ألف كلمة ، فإليك رسم تخطيطي يصف تدفقات WoM و ميدس
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
+تم ضمان الصيانة العالمية والاستدامة على المدى الطويل من خلال الضرائب المشتركة بين جمعية ميدس والمدن.
 
-## 5.2. What’s in it for early adopters
+## 5.2. ما الذي تقدمه للمستخدمين الأوائل
 
-Obviously, early adopters would get considerable advantages over the late comers.
+من الواضح أن المتبنين الأوائل سيحصلون على مزايا كبيرة مقارنة بالوافدين المتأخرين.
 
-In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
+على وجه الخصوص ، يكافئ WoM الاستثمار طويل الأجل في الآية - وهذا هو استرداد الممتلكات (السندات). يحصل المالك الأصلي للسند على تعويض من خلال سك المشاركة (الاستخدام النشط) ، من خلال الدخل السلبي (التأجير) والحصول على 1 ٪ مدى الحياة على أي معاملة بيع للسند (في كل تغيير للملكية ، يحصل المسترد الأصلي على رسوم على عملية تجارية).
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the metaverse.
+من خلال الإيمان بالمشروع ، والمشاركة في مجمعات السيولة ، ورهان ميدس ، واستردادها مقابل السندات... سيصنع المستثمرون الأوائل من جميع الأحجام عملات إضافية. سيحصلون أيضًا على حقوق التصويت المبكرة ويساعدون في تشكيل ميتافيرس.
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
+المنظمات التي تحصل على سندات ولكن بشكل خاص تستخدم Deeds لإشراك موظفيها ومكافأتهم ستحصل على تعويض في ميدس. كلما لعبوا بعدلاً أكثر ، كلما حصلوا على المزيد. سيتم ربط المتبنين الأوائل بأول المدن التاريخية وسيتم تحديدهم على أنهم البناة لاحقًا.
 
-The diagram below represents an example of the Meeds investment strategy for capital holders :
+يمثل الرسم البياني أدناه مثالاً على استراتيجية الاستثمار في ميدس لأصحاب رؤوس الأموال:
 
 
-organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
+وبالطبع يمكن للمنظمات المشاركة في مجمعات السيولة، ولكن أيضا الانضمام إلى مجتمع البناة، والحصول على مكافآت مشاركة إضافية هناك.
 
-The diagram below represents an example of the Meeds investment strategy for work holders :
+يمثل الرسم البياني أدناه مثالاً على استراتيجية الاستثمار في ميدس لأصحاب رؤوس الأموال:
 
-## 5.3. The launch
+## 5.3. الإطلاق
 
-The official launch date is set as for May 1st, 2022 – the International Workers Day, celebrated in many countries.
+لقد تم تحديد تاريخ الإطلاق الرسمي في الأول من مايو/أيار 2022 ـ وهو اليوم العالمي للعمال، الذي يحتفل به في العديد من البلدان.
 
-At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
+في ذلك الوقت، الرمز ميدس موجود بالفعل. ومن الممكن الحصول عليه، كما أن مجمعات السيولة مفتوحة للمشاركة في شبكتي بوليغون وإثيريوم.
 
-Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
+يستخدم ثلاثة أعضاء من جمعية ميدس النظام داخليًا لإشراك مستخدميهم ومكافأتهم وتحسين برنامج ميدس.
 
-The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
+تطبيق المستثمر متاح على إيثيريوم Mainnet. عند الإطلاق ، تتضمن عملية الرهان ومكافآت السيولة وتجميع النقاط واسترداد السندات.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
+يعمل مجتمع البناة على برنامج ميدس، وهو مفتوح لأي شخص يرغب في الانضمام والاختبار والمشاركة. من الممكن تسجيل الدخول باستخدام ميتاماسك.
 
-This paper is to be published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
+ومن المقرر نشر هذه الورقة في يوم الإطلاق. بعد الإطلاق، سيتم إسقاط الرمز المميز في الهواء للعديد من الأشخاص عبر مجتمع التشفير.
 
-## 5.4. The builders community
-We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the Work Metaverse. The association would reward builders engagement with Meeds, from its marketing budget.
+## 5.4. مجتمع البناة
+نحن نطلق مجتمع البناة على برنامج ميدس وعلى ديسكورد. يرحب المجتمع بأي شخص يريد المشاركة في بناء العمل ميتافيرس. ستكافئ الجمعية مشاركات البناة على المشاركة مع ميدس ، من ميزانيتها التسويقية.
 
-The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
+تخطط الجمعية أيضًا لشراء بعض من ميدس من أجل الحصول على (استرداد) صك لمجتمع البناة. سيقوم المنظمة بعد ذلك بسك ميدس من خلال المشاركة ، من خلال نموذج Mintium ، وتوزيعها على المستخدمين المشاركين.
 
-## 5.5. Roadmap and milestones
-Our roadmap would follow the priority order below:
-* Engagement index and minting through engagement
-* Enable Deeds renting
-* Xeed creation
-* Badges improvement and credentials development
-* DeFi services – in the wallet, credit cards partnership
+## 5.5. خارطة الطريق والمعالم
+ستتبع خارطة الطريق الخاصة بنا ترتيب الأولوية أدناه:
+* مؤشر المشاركة وسكها من خلال المشاركة
+* تفعيل خاصية تأجير السندات
+* إنشاء Xeed
+* تحسين الشارات وتطوير بيانات الاعتماد
+* خدمات DeFi - في المحفظة، بطاقة الائتمان الشراكة
 
 We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
 

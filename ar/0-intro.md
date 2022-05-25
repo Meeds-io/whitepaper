@@ -11,25 +11,25 @@
 
 ## المقدمة
 
-The work market today is broken. It fails to satisfy both employees and employers.
+أصبح سوق العمل في ايامنا متذبذب. وهو لا يرضي العمال و صاحب العمل على حد سواء.
 
-On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
+فمن ناحية العاملين، يصعب العثور على الوظائف الصحيحة. فسوق العمل يفضل أنواعا معينة من الأفراد، تاركًا وراءه مهارات كبيرة. و هذا يندرج ضمن مجموعة من التحيزات البشرية القائمة على العرق ، والجنس ، والإعاقة ، والانطوائية ، وما إلى ذلك. كما تفتقر سوق العمل إلى الشفافية فيما يتعلق بالمناصب المتاحة وظروف العمل.
 
-Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
+بمجرد التوظيف ، يتم التعدي على الحريات الشخصية للموظف مقابل التعويض. فليس للموظفين رأي يذكر في ساعات عملهم، أو مكان عملهم، أو محتوى عملهم، أو أساليب عملهم. ونادرا ما يكون تعويضهم مرتبطا بأثره أو قيمته الحقيقية. و تفتقر قواعد التعويض إلى الشفافية ، وبالتالي يُنظر إليها على أنها غير عادلة. فضلاً على ذلك ، يعتمد التعويض والتقدم الوظيفي أيضًا على العامل البشري - حسن النية والموضوعية لدى المدير المباشر للموظف.
 
-Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
+و من ناحية أخرى ، يواجه أصحاب العمل صعوبات في إيجاد المواهب وتوظيف المهارات المناسبة والملاءمة في الوقت المناسب للوظيفة. فلا توجد طريقة موضوعية للتحقق من مهارات الموظف المحتمل أو مصدر الأشخاص خارج مجموعة التوظيف التقليدية لصاحب العمل.
 
-Employers also deal with the lack of loyalty from their employees and a high turnover, both of which, increase hiring and on-boarding costs.
+ويعالج أصحاب العمل أيضا انعدام الولاء من جانب موظفيهم وارتفاع معدل دورانهم، وكلاهما يزيد من تكاليف التوظيف والإقامة.
 
-Moreover, employers also face low engagement in their existing employees, leading to low creativity, productivity and innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
+إضافةً إلى ذلك، يواجه أصحاب العمل أيضا تدني مستوى المشاركة من موظفيهم الحاليين، مما يؤدي إلى انخفاض مستوى الإبداع والإنتاجية والابتكار. و هذا يلحق المزيد من الضرر في الاقتصاد اليومي الذي يتطلب المزيد من العمل الإبداعي.
 
-All of the above boil down to high transaction costs and the exacerbated agent-principal problem[^4] :
-- With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element.
-- As to the agent-principal problem, it has been compounded by the increasing revenue and wealth gap between employees and shareholders and the rigidity of the employer-employee relationship.
+كل ما سبق يتلخص في ارتفاع تكاليف المعاملات وتفاقم مشكلة الوكيل الرئيسي (agent-principal) [^4].
+- ومع الإنترنت ، تطورت أسواق العمل نحو المزيد من الوحدة والشفافية بفضل مواقع الإعلان عن الوظائف ، والمواقع الوظيفية ، وما إلى ذلك. ولكن تكاليف المعاملات لا تزال مرتفعة للغاية في غياب عنصر الموضوعية.
+- أما بالنسبة لمشكلة الوكيل الرئيسي ، فقد تفاقمت بسبب تزايد فجوة الإيرادات والثروة بين الموظفين والمساهمين وتصلب علاقة صاحب العمل بالموظف.
 
-The WoM aims at solving both through a new decentralized work paradigm.
+ويهدف برنامج "ميتافرس العمل" إلى حل كلا الأمرين من خلال نموذج عمل لامركزي جديد.
 
-Following R. Coase’s works[^5], most economists link the concept of enterprise with the necessity to mitigate transaction costs. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs[^6] started this process focusing on lowering the cost of transactions for capital sourcing and governance. The WoM aims at pushing this logic further by lowering the cost of work transactions. It proposes a decentralized world where jobs and skills matching could be done objectively, quickly and globally.
+بعد أعمال [^5]R. Coase، يربط معظم الاقتصاديين مفهوم المؤسسة بضرورة التخفيف من تكاليف المعاملات. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs[^6] started this process focusing on lowering the cost of transactions for capital sourcing and governance. The WoM aims at pushing this logic further by lowering the cost of work transactions. It proposes a decentralized world where jobs and skills matching could be done objectively, quickly and globally.
 
 The first DAOs flatten the hierarchies and open ownership. The WoM pursues this logic by reinventing rather than suppressing the employer/employee relationship. It introduces a transparent, objective and decentralized reward paradigm, that would sustainably align the employer and the employee interests.
 

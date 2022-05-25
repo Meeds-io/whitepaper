@@ -1,56 +1,56 @@
 
-# 2. Deeds NFT - Work Metaverse Organizations
+# 2. Deeds NFT - Organizaciones de Work Metaverse
 
-## 2.1. NFT – Deeds defined
-A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+## 2.1. NFT – Los Deeds definidos
+Un *token* no fungible (NFT) es un *token* único que representa un bien. En el WoM, un Deed se utiliza como un título de propiedad. Cada Deed le otorga a su titular el derecho de acceder a varios servicios. Por ejemplo, acceder a una oficina digital en el marco del software de Meeds o el derecho de acuñar divisas de Meeds.
 
-The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM.
+El WoM da la bienvenida a todo tipo de organizaciones: DAO, corporaciones tradicionales, asociaciones, *think tanks*, colaboraciones, compañías de teatro, proyectos grupales, escuelas, etc. El Deed representa su existencia digital en el WoM.
 
 ## 2.2. Deeds supply
-The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of Meeds rewarding (Minting Power). The term ‘user’ here and hereafter designates any type of employee, worker, freelancer, volunteer etc.
+En última instancia, el WoM proveerá una cantidad limitada de Deeds. Cada Deed incluye un número máximo predefinido de usuarios, y ofrece una capacidad de recompensa de Meeds (Minting Power, o poder de creación de divisa). De aquí en adelante, el término 'usuario' designará cualquier tipo de empleado, trabajador, autónomo, voluntario, etc.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
+Hay cuatro tipos de Deeds. Cada uno aporta diferentes posibilidades en lo que respecta a número de usuarios, derechos de voto en una ciudad (ver 2.7) o el poder de creación de divisa. De este último, el más potente es el menos común:
 
 
-| **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
-| ------------- | ------------- | ----------------- | ------------ | ---------------------- |
-| Common        | 100           | 1                 | ~ 90%        | 1                      |
-| Uncommon      | 1000          | 1.1               | ~ 9%         | 10                     |
-| Rare          | 10 000        | 1.3               | ~ 1%         | 100                    |
-| Legendary     | unlimited     | 2                 | < 0.1 %      | 1000                   |
+| **Tipo de Deed** | **Usuarios máx.** | **Minting Power** | **Escasez** | **Derechos de voto en la ciudad** |
+| ---------------- | ----------------- | ----------------- | ----------- | --------------------------------- |
+| Común            | 100               | 1                 | ~ 90%       | 1                                 |
+| Poco común       | 1000              | 1.1               | ~ 9%        | 10                                |
+| Raro             | 10 000            | 1.3               | ~ 1%        | 100                               |
+| Lengendario      | ilimitado         | 2                 | < 0.1 %     | 1000                              |
 
-## 2.3. Deeds ownership
+## 2.3. Titularidad de Deeds
 
-A Deed gives its owner the right to USE it, RENT it, or SELL it.
-- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
-- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
-- SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
+Un Deed le da a su titular el derecho de utilizarlo (USE), alquilarlo (RENT) o venderlo (SELL).
+- USE – Los titulares de los Deeds pueden utilizar su Deed directamente para su organización, brindando servicios a sus usuarios.
+- RENT - Los titulares del Deed pueden alquilar dicho Deed a otra organización para generar ingresos pasivos.
+- SELL - Un Deed puede venderse en un mercado secundario como [OpenSea](https://opensea.io).
 
-Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
+Al ser un *holder* activo o arrendador de un Deed, a la organización se la compensa con Meeds a través de un modelo innovador descrito a continuación (part 2.6).
 
-## 2.4. Deeds services, engagement/rewards engine
+## 2.4. Servicios de Deeds, sistema de implicación/compensación
 
-In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
+Las organizaciones necesitan incentivar a sus usuarios con algo más que una mera compensación para atraer, retener el talento y maximizar su integración en un mercado cada vez más competitivo. El WoM proporciona un marco innovador *tokenizando* la implicación laboral.
 
-Each Deed’s holder or renter can provide tools and services to its users, who earn engagement points that can be fine-tuned to the Deed’s priorities. Periodically, points are converted into Meeds (and - for DAOs - potentially another token), based on the Deed’s set budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
+Cada *holder* o arrendador puede brindar herramientas y servicios a sus usuarios, que ganan puntos de implicación ajustables a las prioridades del Deed. Los puntos van periódicamente convirtiéndose en Meeds (potencialmente en otro *token* para las DAO) basándose en el presupuesto establecido del Deed. De esta forma, se premia la implicación de los usuarios en actividades relevantes para la empresa.
 
-To begin with, the following free services provided by the Meeds association can be used to reward engagement:
-- Gamification engine – automatic actions within the WoM have a weight in points, that can be fine-tuned to the Deed’s priorities via customizable engagement programs.
-- Challenges – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
-- Customizable engagement programs - organizations can create their own engagement programs matching their business goals and priorities. Programs are associated to automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatics or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
-- Kudos - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
-- Collaboration tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
-- Wallet – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
-- Store – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
-- Analytics – to analyze and follow engagement within the Deed.
-- Connectors, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
+Para empezar, la asociación Meeds proporciona los siguientes servicios gratuitos pueden utilizarse para premiar la implicación:
+- Gamificación – las acciones automáticas en el WoM se traducen en puntos ajustables a las prioridades del Deed por medio de programas de implicación personalizables.
+- Retos – pueden ponerse retos personalizables que representen logros. Una persona pone los retos y otra los puede anunciar y/o llevarlos a cabo. Los retos se traducen en puntos dentro de programas de implicación personalizables.
+- Programas de implicación personalizables - las organizaciones pueden crear sus propios programas de implicación acorde a sus objetivos y prioridades de negocio. Los programas se asocian a acciones automáticas dentro del sistema y a retos propuestos de forma manual. Cada programa tiene un presupuesto Meeds definido. Periodically points earned by each user through automatics or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
+- Kudos - los usuarios pueden regalarse kudos como agradecimiento y símbolo de reconocimiento. Los kudos son poco comunes y valiosos, puesto que muchos no están disponibles para distribuirse (tienen un límite peiódico preestablecido, como 3 semanas). Al igual que las acciones, los kudos dan puntos. De esta forma, se fomenta que los empleados premien a sus compañeros.
+- Las herramientas colaborativas integradas en el sistema de recompensas (espacios de trabajo, comunicación asincrónica, un software de gestión de tareas o anotaciones) fomentan la cooperación entre trabajadores en sus proyectas.
+- Cartera (*wallet*) – se les proporciona a los usuarios una cartera segura de tecnología Ethereum para que almacenen sus Meeds. Como alternativa, los usuarios más experimentados pueden usar una cartera Metamask.
+- Almacenamiento - un espacio de almacenamiento en el que pueden intercambiarse Meeds por ventajas que aportan los *holders* de Deed, los arrendadores o el ecosistema de Meeds.
+- Analítica – para analizar y estudiar la implicación en un Deed.
+- Los conectores integrados en el sistema de recompensas – los usuarios consiguen puntos por implicación por medio de acciones en otro software. Por ejemplo, confirmando código en GitHub.
 
-Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
+Algunos de los servicios y herramientas mencionados ya están descentralizados, mientras que otros no. El fin último es brindar todos los servicios de manera descentralizada. Esto se irá cumpliendo a medida que la tecnología vaya evolucionando.
 
-New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
-- CRM software – salespeople would get engagement points for working on opportunities.
-- Accounting software – accountants would get engagement points for keeping books.
-- Clocking terminal – factory worker can get points for factory work time.
+Pueden integrarse nuevos servicios en sistema de recompensas usando API. Podemos mencionar incontables ejemplos que pueden incluir prácticamente cualquier software o servicio:
+- Softwares CRM – Los vendedores podrían conseguir puntos por implicación trabajando en nuevas oportunidades.
+- Softwares de contabilidad – los contables podrían ganar puntos de implicación llevando un registro contable eficiente.
+- Terminal de fichar – un trabajador de fábrica puede conseguir puntos por su tiempo de trabajo.
 - Etc.
 
 Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.

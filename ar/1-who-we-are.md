@@ -1,14 +1,14 @@
 
-# 1. Who we are – the Meeds assoeciation
+# 1. من نحن ـ جمعية ميدس
 
-The Meeds association is a non-profit organization originally launched by several Open Source Software (OSS) communities around the common vision of a free digital world – a decentralized world that would not be controlled by a handful of centralized mega-corporations.
+جمعية ميدز هي منظمة غير ربحية تم إطلاقها في الأصل من قبل العديد من مجتمعات انشاء البرمجيات مفتوحة المصدر (OSS) حول الرؤية المشتركة لعالم رقمي حر - عالم لامركزي لا يمكن التحكم فيه من قبل ثلة من الشركات الكبرى المركزية.
 
-The Meeds association is incorporated in Geneva, as a non-profit association under the Swiss law.
+تأسست جمعية ميدز في جنيف كجمعية غير ربحية بموجب القانون السويسري.
 
-The association regulates the issuance of the Meeds currency, an ERC20 token, recognized as a utility token.
+وتنظم الجمعية إصدار عملة Meeds وهي رمز ERC20 المعترف به كعملة مفيدة.
 
-To build the WoM and Meeds, the association leverages the Ethereum platform and its ecosystem, making it accessible in a friendly and cost-effective way to all users.
+لبناء WoM و ميدس ، تستفيد الجمعية من منصة إيثيريوم ونظامها الإيكولوجي ، مما يجعلها في متناول جميع المستخدمين بطريقة سهلة وفعالة من حيث التكلفة.
 
-The association is structured as a Decentralized Autonomous Organization (DAO) where the governance token holders vote on all important organizational changes such as electing the board every year.
+والرابطة منظمة لا مركزية مستقلة (DAO) يصوت فيها أصحاب الرموز المميزة للحكم على جميع التغييرات التنظيمية الهامة مثل انتخاب مجلس الإدارة كل سنة.
 
-Besides Meeds token management, the association holds the Intellectual Property (IP) of the Meeds software https://github.com/meeds-io, available under the LGPL license and distributed for free. The latter includes an Ethereum wallet app that users can use to store and transact their Meeds (see section 2.4 for more details). The Meeds Association also runs a multi-tenant cloud hosting service leveraging that software.
+إلى جانب إدارة الرمز ميدس، تحتفظ الرابطة ببرنامج الملكية الفكرية (IP) التابع لبرنامج ميدس https://github.com/meeds-io، المتاح بموجب ترخيص LGPL والموزع مجانا. وتشمل هذه الأخيرة تطبيق محفظة إيثيريوم الذي يمكن للمستخدمين استخدامه لتخزين ومعاملات Meeds الخاصة بهم (انظر القسم 2-4 لمزيد من التفاصيل). وتدير جمعية ميدس أيضا خدمة استضافة سحابية متعددة المستأجرين تستفيد من هذا البرنامج.
