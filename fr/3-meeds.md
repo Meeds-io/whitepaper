@@ -56,7 +56,7 @@ Tout membre a également le droit de directement acheter un montant important de
 
 En plaçant des Meeds, les investisseurs peuvent aussi racheter des Deeds (et donc participer au minting à travers l'engagement), et par conséquent augmenter la demande du token. Chaque Meeds placé (xMeed) garantit à son propriétaire un nombre de points par jour. Plus la période d'acquisition est longue, plus le nombre de points obtenus par xMeed est élevé. Chaque Deed est ensuite échangé contre un certain nombre de points.
 
-Les points sont calculés avec le formule suivante (où T signifie le temps et R le taux par minute) : _xMeedBalanceNoDecimals / ( xMeedBalanceNoDecimals + 12000) * elapsedTimeInSeconds / 240 * xMeedBalanceNoDecimals = ParseInteger( xMeedBalance (=renvoyé par un appel au contrat de balanceOf) / 10^18)_
+Les points sont calculés avec la formule suivante (où T signifie le temps et R le taux par minute) : _xMeedBalanceNoDecimals / ( xMeedBalanceNoDecimals + 12000) * elapsedTimeInSeconds / 240 * xMeedBalanceNoDecimals = ParseInteger( xMeedBalance (=renvoyé par un appel au contrat de balanceOf) / 10^18)_
 
 La formule évite de privilégier les grands détenteurs afin de distribuer les Deeds plus efficacement et plus équitablement.
 
@@ -71,7 +71,7 @@ La formule évite de privilégier les grands détenteurs afin de distribuer les 
 
 Les détenteurs du token Meeds doivent mettre en gage des tokens afin de voter sur les décisions de Meeds DAO telles que le budget d'émission ou l'élection des membres du conseil d'administration du DAO (mandat annuel).
 
-## 3.7. Services proposés aux utilisateurs de la finance décentralisée (DeFi)
+## 3.7. Services de finance décentralisée (DeFi) proposés aux utilisateurs
 
 Le Work Metaverse introduira le monde de la blockchain à de nombreuses personnes qui ne l'utilisent pas aujourd'hui.
 
