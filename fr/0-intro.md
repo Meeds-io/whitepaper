@@ -3,6 +3,7 @@
 **Date : 1er mai 2022 - Version 1.0**
 
 ## Résumé
+
 Le marché du travail actuel manque d’efficience du fait d’une part des coûts de transaction élevés[^1][^2][^3] et d’autre part, des conflits d’intérêts entre l’employeur et le salarié.
 
 Le Work Metaverse (WoM) propose un nouveau paradigme pour réduire les coûts de transactions et réinventer la relation employé, en comblant le fossé entre les entreprises traditionnelles et les DAOs.
@@ -24,6 +25,7 @@ Ces derniers doivent également gérer le manque de fidélité de leurs salarié
 Associé à cela, les employeurs font face à un manque d’engagement de certains des salariés existants. Ce qui produit une faible créativité, un manque de productivité et une innovation diminuée. Cette dernière est d’autant plus impactante pour les organisations que l’économie d’aujourd’hui requiert de plus en plus de créativité et d’innovation.
 
 Tout ce qui précède se résume à des coûts de transaction élevés et au problème principal-agent[^4] :
+
 - Avec internet, le marché de l’emploi a évolué vers plus de transparence grâce aux sites de recrutement, de gestion des carrières, etc. Mais les coûts de transaction sont toujours aussi importants tant l’objectivité reste manquante.
 - Quant au problème principal-agent, il s’est aggravé du fait de l’accroissement de l’écart des revenus et des richesses entre salariés et actionnaires et du fait de la rigidité des relations employeurs-employés.
 
