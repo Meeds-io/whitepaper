@@ -6,7 +6,7 @@ Au final, le WoM sera un monde dans le web décentralisé pour tous – personne
 
 Il sera peuplé d'utilisateurs, agissant à travers leurs identités numériques **Xeeds** et y accédant avec leurs comptes metamasks pour les cryptophiles avertis, ou par identifiant/mot de passe pour les débutants. Les personnes s'y engageront et seront récompensées de manière équitable, transparente et décentralisée. Elles auront accès au monde décentralisé et au monde des cryptos de demain d'une manière facile et familière - ils auront accès à des outils simples pour pouvoir utiliser leurs jetons dans leur vie ou les investir pour leur avenir.
 
-Les organisations à travers leurs **Deeds** seront en mesure de trouver des talents, en naviguant à travers le WoM, pour trouver des compétences prouvées. Elles seront récompensées pour leur participation au métaverse, en recevant des jetons émis grâce à l'engagement de leurs utilisateurs (modèle mintium). Mais surtout, elles bénéficieraient d'un engagement et d'une loyauté accrus de la part de leurs utilisateurs.
+Les organisations à travers leurs **Deeds** seront en mesure de trouver des talents, en naviguant dans le WoM, pour trouver des compétences prouvées. Elles seront récompensées pour leur participation au métaverse, en recevant des jetons émis grâce à l'engagement de leurs utilisateurs (modèle mintium). Mais surtout, elles bénéficieront d'un engagement et d'une loyauté accrus de la part de leurs utilisateurs.
 
 Le WoM aurait sa propre monnaie : le **Meeds** – qui serait là pour être dépensé dans les boutiques, converti en d'autre devises, investi, loué ou acheté, etc. Le WoM facilitera également la distribution d'autres jetons et participera à l'écosystème global des cryptomonnaies.
 
@@ -41,7 +41,7 @@ Trois organisations fondatrices de l'association Meeds utilisent le système en 
 
 L'application Investors est disponible sur le réseau Ethereum Mainnet. Au lancement, elle comprend le placement, les récompenses pour apport de liquidités, l’accumulation de points et l'acquisition de Deeds.
 
-La communauté des batisseurs fonctionne grâce au logiciel Meeds, ouvert à tous ceux qui voudraient la rejoindre, l'essayer et s'y impliquer. Il est possible de se connecter avec Metamask.
+La communauté des bâtisseurs fonctionne grâce au logiciel Meeds, ouvert à tous ceux qui voudraient la rejoindre, l'essayer et s'y impliquer. Il est possible de se connecter avec Metamask.
 
 Ce document sera publié le jour du lancement. Suite au lancement, le jeton sera offert à nombreuses personnes dans la communauté des cryptomonnaies.
 
