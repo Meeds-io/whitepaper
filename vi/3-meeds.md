@@ -11,6 +11,7 @@ Meeds are minted at the rate of 10 Meeds per minute. Therefore, the full minting
 ## 3.2. Minting allocation
 
 Minted Meeds are allocated to encourage involvement of the three categories of stakeholders - the users, the builders and the investors:
+
 - The users (users and Deeds holders/renters) get Meeds through engagement rewards (mintium model).
 - Builders (members of the association and community) get Meeds through the association funds to build, operate and improve the WoM.
 - Investors mint Meeds through renting and buying of liquidity pools and staking Meeds.
@@ -36,6 +37,7 @@ The association operates a Builders community that welcomes WoM enthusiasts, who
 Thus, the community will function as an example of a Deed, offering a standard set of services provided by the association. The association stakes Meeds in order to redeem a Deed for the community. The community will then also participate in the engagement minting like any other Deed.
 
 After the minting period is over, the association will be sustained by :
+
 - taxing passive income (3% on Deeds renting)
 - taxing selling income (2.5% on Deeds sales)
 - perceiving transaction fees over the user of the perks stores
@@ -78,9 +80,10 @@ The Work Metaverse will introduce the blockchain world to many people who do not
 Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
 
 Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
-* The ability to stake Meeds tokens and get yields (generate revenues)
-* The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a Fuse pool https://app.rari.capital/fuse then registering the Meeds token to AAVE - https://aave.com/).
-* A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. (This card could also be used by organizations to fund employee wallets in order to manage employee benefits such
-* as restaurants, transportation and any type of expenses.) So not only many new users will discover the blockchain world, they will also discover a bankless world.
+
+- The ability to stake Meeds tokens and get yields (generate revenues)
+- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a Fuse pool https://app.rari.capital/fuse then registering the Meeds token to AAVE - https://aave.com/).
+- A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. (This card could also be used by organizations to fund employee wallets in order to manage employee benefits such
+- as restaurants, transportation and any type of expenses.) So not only many new users will discover the blockchain world, they will also discover a bankless world.
 
  
