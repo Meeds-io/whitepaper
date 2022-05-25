@@ -46,18 +46,20 @@ La communauté des bâtisseurs fonctionne grâce au logiciel Meeds, ouvert à to
 Ce document sera publié le jour du lancement. Suite au lancement, le jeton sera offert à nombreuses personnes dans la communauté des cryptomonnaies.
 
 ## 5.4. La communauté des bâtisseurs
+
 Nous lançons la communauté des bâtisseurs sur le logiciel Meeds et sur Discord. La communauté accueille tous ceux qui veulent participer à la construction du Work Metaverse. L'association récompensera l'engagement des bâtisseurs en Meeds, sur son budget marketing.
 
 L'association prévoit également de placer elle-même quelques Meeds afin d'acquérir un Deed pour sa communauté des bâtisseurs. La communauté finira ensuite par générer des Meeds par son engagement, par le biais du modèle mintium, et les distribuera aux membres qui contribuent.
 
 ## 5.5. Feuille de route et jalons
+
 Notre feuille de route suivra l'ordre de priorité ci-dessous :
 
-- Indice d'engagement et émission par engagement
-- Activer la location des Deeds
-- Création des Xeeds
-- Amélioration des badges et développement des titres de compétences
-- Services DeFi - dans le portefeuille, partenariat cartes de crédit
+* Indice d'engagement et émission par engagement
+* Activer la location des Deeds
+* Création des Xeeds
+* Amélioration des badges et développement des titres de compétences
+* Services DeFi - dans le portefeuille, partenariat cartes de crédit
 
 Durant la phase de construction, nous ciblerons les membres des premières DAO ainsi que les sociétés technophiles. Nous devrions également avoir quelques premiers utilisateurs issus d'entreprises traditionnelles qui tireront parti du métaverse en créant des programmes d'engagement pertinents pour leurs employés en complément de leurs plans de rémunération classiques.
 
@@ -67,13 +69,14 @@ L'émission de la totalité des Meeds aura lieu progressivement sur une période
 
 Que pouvez-vous faire dès maintenant pour participer ?
 
-- Diffuser ce document à ceux qui seraient intéressés
-- Visiter notre site https://www.meeds.io
-- Découvrir l'application Investors
-- Contribuer aux pools de liquidité existants sur :
-  - Cometh Swap (Polygon)
-  - Sushi Swap
-- Rejoindre notre communauté sur Discord pour rester dans la boucle
-- Join our Builders community to test the Meeds software, engage and earn some Meeds engagement rewards
+* Diffuser ce document à ceux qui seraient intéressés
+* Visiter notre site https://www.meeds.io
+* Découvrir l'application Investors
+* Contribuer aux pools de liquidité existants sur :
+  * Cometh Swap (Polygon)
+  * Sushi Swap
+* Rejoindre notre communauté sur Discord pour rester dans la boucle
+* Rejoindre notre communauté Builders pour essayer le logiciel Meeds, vous engager en contribuant au projet et gagner des Meeds en récompense
+
 
 **\*\*\* Le Work Metaverse - Construisons le monde de demain ensemble. \*\*\***
