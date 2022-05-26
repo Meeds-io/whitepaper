@@ -12,6 +12,8 @@ The WoM would have its own currency **Meeds** – that would be there to spend i
 
 As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
 
+![WoM and Meeds flows](img/en/wom-flows.png)
+
 The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
 
 ## 5.2. What’s in it for early adopters
@@ -22,14 +24,17 @@ In particular, the WoM rewards long-term investment in the verse – that is the
 
 By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the metaverse.
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
+Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
 
 The diagram below represents an example of the Meeds investment strategy for capital holders :
 
+![Meeds investment strategy for capital holders](img/en/invest-capital.png)
 
 organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
 
 The diagram below represents an example of the Meeds investment strategy for work holders :
+
+![Meeds investment strategy for work holders](img/en/invest-work.png)
 
 ## 5.3. The launch
 
@@ -46,11 +51,13 @@ The Builders community is up and running on Meeds software, open to anyone who w
 This paper is to be published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
 
 ## 5.4. The builders community
+
 We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the Work Metaverse. The association would reward builders engagement with Meeds, from its marketing budget.
 
 The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
 
 ## 5.5. Roadmap and milestones
+
 Our roadmap would follow the priority order below:
 
 - Engagement index and minting through engagement
