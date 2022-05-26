@@ -16,13 +16,13 @@ Les Meeds émis sont alloués pour encourager la participation des trois catégo
 - Les bâtisseurs (membres de l'association et de la communauté) recueillent des Meeds à travers les fonds de l'association utilisés pour construire, opérer et améliorer le WoM.
 - Les investisseurs génèrent des Meeds pour la location et l'achat de liquidités et par les intérêts produits en plaçant leurs Meeds.
 
-Au début, les constructeurs obtiennent 30% de l'attribution. Les 70% restants sont partagés entre les utilisateurs et les investisseurs. Cette proportion sera régulièrement révisée, selon les votes réalisés par la DAO Meeds.
+Au début, les bâtisseurs obtiennent 30% des jetons émis. Les 70% restants sont partagés entre les utilisateurs et les investisseurs. Cette proportion sera régulièrement révisée, selon les votes réalisés par la DAO Meeds.
 
 ## 3.3. Utilisateurs - Récompenser l'engagement
 
 Une partie des Meeds émis est allouée aux canal de récompense de l’engagement. La distribution est réalisée chaque semaine. A chaque fin de période, l'index d'engagement est recalculé et les Deeds peuvent réclamer leurs récompenses la semaine suivante pour obtenir leurs Meeds. Les Meeds non réclamés sont conservés dans un fond et sont ajoutés à la distribution de la semaine suivante. Le modèle est décrit en détail dans le précédent chapitre (2.6).
 
-## 3.4. Builders – DAO de l’association Meeds et communauté de contributeurs
+## 3.4. Builders – DAO de l’association Meeds et communauté de bâtisseurs
 
 Le WoM et les jetons Meeds sont opérés par l’association à but non lucratif qu’est la DAO Meeds, introduite plus haut. Un contrat de type multi-signatures est utilisé pour gérer les dépenses de fonctionnement de l’association.
 
@@ -32,7 +32,7 @@ Les membres de l'association peuvent fournir des services à l'association sur l
 
 Sans être membre, tout Deed peut participer à la création d’un nouveau connecteur et être récompensé pour cette initiative – d’une part, par l’acquisition du connecteur par l’association Meeds et d’autre part, en recevant des Meeds émis par l'engagement capté par ce connecteur.
 
-L’association fait ainsi vivre la communauté Builders qui accueille des enthousiastes du WoM, qui veulent eux-mêmes participer à la création du WoM. L’association parrainera la communauté sur son budget, en récompensant ainsi l’engagement des membres de sa communauté.
+L’association fait ainsi vivre la communauté des bâtisseurs qui accueille des enthousiastes du WoM, qui veulent eux-mêmes participer à la création du WoM. L’association parrainera la communauté sur son budget, en récompensant ainsi l’engagement des membres de sa communauté.
 
 Par conséquent, la communauté fonctionnera comme un exemple de Deed, offrant un ensemble de services standards fournis par l’association. Cette dernière investira des Meeds pour fournir un Deed pour la communauté. Celle-ci pourra également participer à l’émission issue de l’engagement comme tout autre Deed.
 
@@ -62,12 +62,12 @@ Les points sont calculés avec la formule suivante (où T signifie le temps et R
 
 La formule évite de privilégier les grands détenteurs afin de distribuer les Deeds plus efficacement et plus équitablement.
 
-| Type de carte | Points  | 100k xMeeds (321 points / jour) | 10k xMeeds (164 points / jour) | 1k xMeeds (28 points / jour) |
-| ------------- | ------- | ------------------------------- | ------------------------------ | ---------------------------- |
-| Commun        | 8 000   | 1 mois (25 jours)               | 2 mois (49 jours)              | 9 mois                       |
-| Peu commun    | 32 000  | 3 mois (100 jours)              | 6 mois                         | 3 ans                        |
-| Rare          | 50 000  | 5 mois (156 jours)              | 10 mois                        | 5 ans                        |
-| Légendaire    | 100 000 | 10 mois (311 jours)             | 20 mois                        | 10 ans                       |
+| **Type de carte** | **Points** | **100k xMeeds** (321 pts / jour) | **10k xMeeds** (164 pts / jour) | **1k xMeeds** (28 pts / jour) |
+| ----------------- | ---------- | -------------------------------- | ------------------------------- | ----------------------------- |
+| Commun            | 8 000      | 1 mois (25 jours)                | 2 mois (49 jours)               | 9 mois                        |
+| Peu commun        | 32 000     | 3 mois (100 jours)               | 6 mois                          | 3 ans                         |
+| Rare              | 50 000     | 5 mois (156 jours)               | 10 mois                         | 5 ans                         |
+| Légendaire        | 100 000    | 10 mois (311 jours)              | 20 mois                         | 10 ans                        |
 
 ## 3.6. Gouvernance Meeds DAO
 
