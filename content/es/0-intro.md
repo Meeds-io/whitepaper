@@ -1,6 +1,4 @@
-# Meeds DAO: The Work Metaverse
 
-**1 mayo 2022 - Versión 1.0**
 
 ## Sinopsis
 
