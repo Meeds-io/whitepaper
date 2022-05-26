@@ -83,7 +83,9 @@ Beyond the wallet and a store where they can purchase perks for Meeds, we plan t
 
 - The ability to stake Meeds tokens and get yields (generate revenues)
 - The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a Fuse pool https://app.rari.capital/fuse then registering the Meeds token to AAVE - https://aave.com/).
-- A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. (This card could also be used by organizations to fund employee wallets in order to manage employee benefits such
-- as restaurants, transportation and any type of expenses.) as restaurants, transportation and any type of expenses.) as restaurants, transportation and any type of expenses.) as restaurants, transportation and any type of expenses.) So not only many new users will discover the blockchain world, they will also discover a bankless world.
+- A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. This card could also be used by organizations to fund employee wallets in order to manage employee benefits such as restaurants, transportation and any type of expenses.
+
+ So not only many new users will discover the blockchain world, they will also discover a bankless world.
+
 
  
