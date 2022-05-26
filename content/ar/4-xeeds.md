@@ -60,5 +60,5 @@ On their end, the Deeds’ holders/renters can search for relevant skills using 
 
 يمكن لأي مستخدم الحصول على Meeds واستخدام محفظة Meeds للحصول على خدمات جديدة بدون أي تدريب خاص.
 
-[^7]: A. Preukschatt, R. Drummond “Self-Sovereign Identity
+[^7]: A.Preukschatt, R. Drummond “Self-Sovereign Identity
 [^8]: Verifiable Credentials Data Model
