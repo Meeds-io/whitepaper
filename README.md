@@ -7,8 +7,8 @@ Prerequisites :
 * [Pandoc](https://pandoc.org/)
 * [BasicTeX](https://tug.org/mactex/morepackages.html)
 
-Once setup, simply run : ```./compile-pdf.sh```.
-The pdf will be generated under ```build/output.pdf```
+**Usage :** ```./compile-pdf.sh [lang]```.
+ ```lang``` is the 2-characters code of the language
 
 ## Contribute ##
 
