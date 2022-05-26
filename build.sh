@@ -1,18 +1,32 @@
 #!/bin/sh
 
-mkdir -p build
-LANG=en
+## Usage :  ./build.sh [lang]
+##   - lang : the 2-characters code for the language (default: en)
 
+## get language from first arg
+LANG=en
 if [ "$1" ]; then
   LANG=$1
 fi
 
+## source (english) content located under content/src/
+CONTENT_PATH=./content/src
+if [ "$LANG" != "en" ]; then
+
+  ## translated content below content/intl/
+  CONTENT_PATH=./content/intl/$LANG
+fi
+
+echo "Assembling PDF from $CONTENT_PATH..."
+
+## cleanup output folder
+mkdir -p build
+rm -rf ./build/*
 OUTPUT=build/meeds-whitepaper-$LANG.pdf
 
-echo "Building book for lang=$LANG"
-
-pandoc --pdf-engine=xelatex -f markdown+smart -o $OUTPUT --template=templates/eisvogel.tex --toc  -s ./content/$LANG/title.txt content/$LANG/*.md
+## transform all markdown fragments in content folder to pdf using  eisvogel LateX template
+pandoc --pdf-engine=xelatex -f markdown+smart -o $OUTPUT --template=templates/eisvogel.tex --toc  -s $CONTENT_PATH/title.txt $CONTENT_PATH/*.md
 
 if [[ -f "$OUTPUT" ]]; then
-    echo "Book generated at $OUTPUT"
+    echo "Book generated at $OUTPUT".
 fi
