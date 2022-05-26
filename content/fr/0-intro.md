@@ -14,7 +14,7 @@ Le WoM y parvient en introduisant des identités numériques tant pour l'employe
 
 Le marché du travail ne fonctionne pas. Il a échoué à satisfaire tant les salariés que leurs employeurs.
 
-Du point de vue des employés, il est devenu difficile de trouver des emplois adéquats. Le marché favorise certains individus plus aptes à valoriser leur expérience, alors que d’autres personnes moins en vue mais parfois plus compétentes sont mises de côté. Nombre de biais l’expliquent : discrimination raciste, sexiste, handicap, introversion des individus, etc.  Le marché du travail manque également de transparence sur d’autres sujets tels que les emplois disponibles et les conditions de travail.
+Du point de vue des employés, il est devenu difficile de trouver des emplois adéquats. Le marché favorise certains individus plus aptes à valoriser leur expérience, alors que d’autres personnes moins en vue mais parfois plus compétentes sont mises de côté. Nombre de biais l’expliquent : discrimination raciste, sexiste, handicap, introversion des individus, etc. Le marché du travail manque également de transparence sur d’autres sujets tels que les emplois disponibles et les conditions de travail.
 
 Une fois recruté, les libertés personnelles du nouvel embauché sont restreintes en échange d’une compensation délimitée. Il n’a que peu d'influence sur ses horaires de travail, son environnement de travail, le contenu ou les méthodes de travail. Et cette dite compensation n’est que trop peu rarement liée à sa réelle implication ou sa valeur. En outre, les règles de rétribution manquent de transparence et par conséquent, sont perçues comme injustes. Sans compter que rétribution et carrière professionnelles sont également dépendantes du facteur humain : la bonne foi et l’objectivité du manager direct du salarié.
 
@@ -22,7 +22,7 @@ Les employeurs, par ailleurs, rencontrent des difficultés dans l’identificati
 
 Ces derniers doivent également gérer le manque de fidélité de leurs salariés ainsi que les mouvements de personnel. Ce qui par conséquent augmente les coûts de recrutement et d’intégration.
 
-Associé à cela, les employeurs font face à un manque d’engagement de certains des salariés existants. Ce qui produit une faible créativité, un manque de productivité et une innovation diminuée. Cette dernière est d’autant plus impactante pour les organisations que l’économie d’aujourd’hui requiert de plus en plus de créativité et d’innovation.
+Associé à cela, les employeurs font face à un manque d’engagement de certains des salariés existants. Ce qui produit une faible créativité, un manque de productivité et une innovation diminuée. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
 
 Tout ce qui précède se résume à des coûts de transaction élevés et au problème principal-agent[^4] :
 

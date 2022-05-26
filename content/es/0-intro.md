@@ -12,7 +12,7 @@ El WoM presenta identidades digitales tanto para empleadores como para empleados
 
 ## Introducción
 
-El mercado laboral actual está tocado, ya que no logra satisfacer ni a empleadores ni a empleados.
+The work market today is broken. It fails to satisfy both employees and employers.
 
 Por su parte, al empleado le cuesta encontrar trabajos adecuados. El mercado laboral favorece a ciertos tipos de personas y obvia destrezas valiosas. Todo esto se debe a un conjunto de prejuicios humanos: por raza, género, discapacidad, introversión, etc. A su vez, el mercado laboral también adolece por su falta de transparencia en cuanto a la disponibilidad de puestos de trabajo y a condiciones de contratación.
 
@@ -31,7 +31,7 @@ Todo lo mencionado anteriormente supone unos costes transaccionales elevados y u
 
 El WoM tiene por meta resolver esta distancia y rigidez por medio de un nuevo paradigma de trabajo descentralizado.
 
-De acuerdo con los estudios de R. Coase[^5], la mayoría de economistas relacionan el concepto de empresa con la necesidad de mitigar los costes transaccionales. Internet, y más recientemente *blockchain* y web3, posibilitan reducir costes transaccionales en todas partes, reinventado así la economía y, especialmente, las empresas. Las primeras DAO[^6] comenzaron este proceso centrándose en reducir los costes transaccionales de las fuentes de capital y el gobierno corporativo. El objetivo de WoM es ir más allá y rebajar el coste de las transacciones laborales. Propone un mundo descentralizado donde la correspondencia de trabajos con habilidades puedan establecerse de forma objetiva, rápida y global.
+Coase[^5], la mayoría de economistas relacionan el concepto de empresa con la necesidad de mitigar los costes transaccionales. Internet, y más recientemente *blockchain* y web3, posibilitan reducir costes transaccionales en todas partes, reinventado así la economía y, especialmente, las empresas. Las primeras DAO[^6] comenzaron este proceso centrándose en reducir los costes transaccionales de las fuentes de capital y el gobierno corporativo. El objetivo de WoM es ir más allá y rebajar el coste de las transacciones laborales. Propone un mundo descentralizado donde la correspondencia de trabajos con habilidades puedan establecerse de forma objetiva, rápida y global.
 
 Las primeras DAO horizontalizan las jerarquías y liberalizan la propiedad. El WoM pretende seguir esta directriz no suprimiendo la relación empleador-empleado, sino reinventándola. Presenta un paradigma de recompensas transparente, objetivo y descentralizado que alinearía con creces los intereses de empleados y empleadores.
 

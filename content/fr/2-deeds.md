@@ -57,7 +57,7 @@ De nouveaux services peuvent être branchés dans le moteur de récompense via l
 - Pointeuse – Le travailleur d’usine peut obtenir des points pour le temps de travail extra dans l’usine.
 - Etc.
 
-En outre, l'engagement produit via le connecteur contribue au score d'engagement global de l'organisation qui sera facteur du taux de distribution des récompenses aux membres, tel que décrit dans la formule ci-dessous.  Pour cela, le connecteur doit être approuvé par l'association Meeds. L'association évalue le connecteur, approuve son algorithme et acquiert sa propriété contre l'octroi de Meeds. Il fait ensuite partie des services fournis par l'association tout comme il est inclut dans l'index global d'engagement. Tout autre Deed peut utiliser le même connecteur et le même fonctionnement de récompenses pour ses développeurs.
+En outre, l'engagement produit via le connecteur contribue au score d'engagement global de l'organisation qui sera facteur du taux de distribution des récompenses aux membres, tel que décrit dans la formule ci-dessous. Pour cela, le connecteur doit être approuvé par l'association Meeds. L'association évalue le connecteur, approuve son algorithme et acquiert sa propriété contre l'octroi de Meeds. Il fait ensuite partie des services fournis par l'association tout comme il est inclut dans l'index global d'engagement. Tout autre Deed peut utiliser le même connecteur et le même fonctionnement de récompenses pour ses développeurs.
 
 Le propriétaire ou le loueur de Deed peut enrichir sa boutique interne avec ses propres produits et services, en le connectant par exemple à une offre en ligne, etc. Ici encore les possibilités sont infinies :
 
@@ -66,7 +66,7 @@ Le propriétaire ou le loueur de Deed peut enrichir sa boutique interne avec ses
 - Chèques vacances
 - Repas avec un dirigeant de l'organisation
 - Espace de travail physique
-- Etc.
+- Etc
 
 La boutique fonctionne à travers l'utilisation de Meeds. Ainsi, la cryptomonnaie dépensée par ses membres dans la boutique retourne partiellement au Deed.
 

@@ -17,8 +17,8 @@ There are four types of Deeds, each providing different capabilities in terms of
 | ------------- | ------------- | ----------------- | ------------ | ------------------------ |
 | Common        | 100           | 1                 | ~ 90%        | 1                        |
 | Uncommon      | 1000          | 1.1               | ~ 9%         | 10                       |
-| نادر          | 10 000        | 1.3               | ~ 1%         | 100                      |
-| اسطوري        | غير محدود     | 2                 | < 0.1 %      | 1000                     |
+| Rare          | 10 000        | 1.3               | ~ 1%         | 100                      |
+| Legendary     | غير محدود     | 2                 | < 0.1 %      | 1000                     |
 
 ## 2.3. Deeds ownership
 
