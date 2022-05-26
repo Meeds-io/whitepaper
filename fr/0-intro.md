@@ -26,8 +26,8 @@ Associé à cela, les employeurs font face à un manque d’engagement de certai
 
 Tout ce qui précède se résume à des coûts de transaction élevés et au problème principal-agent[^4] :
 
-* Avec internet, le marché de l’emploi a évolué vers plus de transparence grâce aux sites de recrutement, de gestion des carrières, etc. Mais les coûts de transaction sont toujours aussi importants tant l’objectivité reste manquante.
-* Quant au problème principal-agent, il s’est aggravé du fait de l’accroissement de l’écart des revenus et des richesses entre salariés et actionnaires et du fait de la rigidité des relations employeurs-employés.
+- Avec internet, le marché de l’emploi a évolué vers plus de transparence grâce aux sites de recrutement, de gestion des carrières, etc. Mais les coûts de transaction sont toujours aussi importants tant l’objectivité reste manquante.
+- Quant au problème principal-agent, il s’est aggravé du fait de l’accroissement de l’écart des revenus et des richesses entre salariés et actionnaires et du fait de la rigidité des relations employeurs-employés.
 
 Le WoM cherche à résoudre cette équation grâce à un nouveau paradigme de travail décentralisé.
 

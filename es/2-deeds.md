@@ -2,11 +2,13 @@
 # 2. Deeds NFT - Organizaciones de Work Metaverse
 
 ## 2.1. NFT – Los Deeds definidos
+
 Un *token* no fungible (NFT) es un *token* único que representa un bien. En el WoM, un Deed se utiliza como un título de propiedad. Cada Deed le otorga a su titular el derecho de acceder a varios servicios. Por ejemplo, acceder a una oficina digital en el marco del software de Meeds o el derecho de acuñar divisas de Meeds.
 
 El WoM da la bienvenida a todo tipo de organizaciones: DAO, corporaciones tradicionales, asociaciones, *think tanks*, colaboraciones, compañías de teatro, proyectos grupales, escuelas, etc. El Deed representa su existencia digital en el WoM.
 
 ## 2.2. Deeds supply
+
 En última instancia, el WoM proveerá una cantidad limitada de Deeds. Cada Deed incluye un número máximo predefinido de usuarios, y ofrece una capacidad de recompensa de Meeds (Minting Power, o poder de creación de divisa). De aquí en adelante, el término 'usuario' designará cualquier tipo de empleado, trabajador, autónomo, voluntario, etc.
 
 Hay cuatro tipos de Deeds. Cada uno aporta diferentes posibilidades en lo que respecta a número de usuarios, derechos de voto en una ciudad (ver 2.7) o el poder de creación de divisa. De este último, el más potente es el menos común:
@@ -22,6 +24,7 @@ Hay cuatro tipos de Deeds. Cada uno aporta diferentes posibilidades en lo que re
 ## 2.3. Titularidad de Deeds
 
 Un Deed le da a su titular el derecho de utilizarlo (USE), alquilarlo (RENT) o venderlo (SELL).
+
 - USE – Los titulares de los Deeds pueden utilizar su Deed directamente para su organización, brindando servicios a sus usuarios.
 - RENT - Los titulares del Deed pueden alquilar dicho Deed a otra organización para generar ingresos pasivos.
 - SELL - Un Deed puede venderse en un mercado secundario como [OpenSea](https://opensea.io).
@@ -35,6 +38,7 @@ Las organizaciones necesitan incentivar a sus usuarios con algo más que una mer
 Cada *holder* o arrendador puede brindar herramientas y servicios a sus usuarios, que ganan puntos de implicación ajustables a las prioridades del Deed. Los puntos van periódicamente convirtiéndose en Meeds (potencialmente en otro *token* para las DAO) basándose en el presupuesto establecido del Deed. De esta forma, se premia la implicación de los usuarios en actividades relevantes para la empresa.
 
 Para empezar, la asociación Meeds proporciona los siguientes servicios gratuitos pueden utilizarse para premiar la implicación:
+
 - Gamificación – las acciones automáticas en el WoM se traducen en puntos ajustables a las prioridades del Deed por medio de programas de implicación personalizables.
 - Retos – pueden ponerse retos personalizables que representen logros. Una persona pone los retos y otra los puede anunciar y/o llevarlos a cabo. Los retos se traducen en puntos dentro de programas de implicación personalizables.
 - Programas de implicación personalizables - las organizaciones pueden crear sus propios programas de implicación acorde a sus objetivos y prioridades de negocio. Los programas se asocian a acciones automáticas dentro del sistema y a retos propuestos de forma manual. Cada programa tiene un presupuesto Meeds definido. Periodically points earned by each user through automatics or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
@@ -48,6 +52,7 @@ Para empezar, la asociación Meeds proporciona los siguientes servicios gratuito
 Algunos de los servicios y herramientas mencionados ya están descentralizados, mientras que otros no. El fin último es brindar todos los servicios de manera descentralizada. Esto se irá cumpliendo a medida que la tecnología vaya evolucionando.
 
 Pueden integrarse nuevos servicios en sistema de recompensas usando API. Podemos mencionar incontables ejemplos que pueden incluir prácticamente cualquier software o servicio:
+
 - Softwares CRM – Los vendedores podrían conseguir puntos por implicación trabajando en nuevas oportunidades.
 - Softwares de contabilidad – los contables podrían ganar puntos de implicación llevando un registro contable eficiente.
 - Terminal de fichar – un trabajador de fábrica puede conseguir puntos por su tiempo de trabajo.
@@ -56,6 +61,7 @@ Pueden integrarse nuevos servicios en sistema de recompensas usando API. Podemos
 Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
 
 The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
+
 - Training courses
 - Gym memberships
 - Vacation packages
@@ -85,21 +91,23 @@ Each week, a certain amount of Meeds is allocated to the global engagement minti
 
 The engagement index is a function of the engagement, the number of engaged users and the distribution.
 
-* **Engagement** – total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
-* **Engaged users** – users that contributed to points during the week, by at least one action.
-* **Average Engagement Rate** = Engagement/Engaged Users.
-* **Distribution rate** – if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
-* **Distribution spread** – if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
+- **Engagement** – total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
+- **Engaged users** – users that contributed to points during the week, by at least one action.
+- **Average Engagement Rate** = Engagement/Engaged Users.
+- **Distribution rate** – if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
+- **Distribution spread** – if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
 
 **Deed’s Engagement Score = Engagement * (Average Engagement Rate Deed / Average Engagement Rate WoM) * Distribution rate * Distribution spread * Minting power**
 
 The global engagement index used to distribute minted Meeds among the Deeds is the sum of all Deeds’ engagement scores for the week.
 
 The formula above is simple and designed to favor Deeds with :
+
 - numerous engaged users (engagement)
 - who share the whole of the minting income (distribution rate) with their users fairly (distribution spread).
 
 Boosters are in place :
+
 - For organizations with the highest engagement, regardless of their size (engagement rate in relation to the WoM)
 - For rarer Deeds
 
