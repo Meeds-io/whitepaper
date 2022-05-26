@@ -25,7 +25,7 @@ rm -rf ./build/*
 OUTPUT=build/meeds-whitepaper-$LANG.pdf
 
 ## transform all markdown fragments in content folder to pdf using  eisvogel LateX template
-pandoc --pdf-engine=xelatex -f markdown+smart -o $OUTPUT --template=templates/eisvogel.tex --toc  -s $CONTENT_PATH/title.txt $CONTENT_PATH/*.md
+pandoc --pdf-engine=xelatex -f markdown+smart -o $OUTPUT --template=templates/eisvogel.tex --toc  -s $CONTENT_PATH/title.yml $CONTENT_PATH/*.md
 
 if [[ -f "$OUTPUT" ]]; then
     echo "Book generated at $OUTPUT".
