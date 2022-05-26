@@ -21,9 +21,9 @@ You can use the build script to generate a PDF version of the whitepaper in any 
 * [Pandoc](https://pandoc.org/)
 * [BasicTeX](https://tug.org/mactex/morepackages.html)
 
-*Usage :* ```./compile-pdf.sh [lang]```.
+*Usage :* ```./compile-pdf.sh [lang]```
  
- ```- lang``` (default:en) : the 2-characters code of the language
+ - ```lang``` (default=en) : the 2-characters code of the language
 
  The resulting document is generated under build/meeds-whitepaper-$lang.pdf
 
