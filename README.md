@@ -1,16 +1,7 @@
 This repository contains the source and Translations for the [Work Metawerse Whitepaper](https://mirror.xyz/meedsdao.eth/EDh9QfsuuIDNS0yKcQDtGdXc25vfkpnnKpc3RYUTJgc).
 
 
-## Build ##
-
-Prerequisites : 
-* [Pandoc](https://pandoc.org/)
-* [BasicTeX](https://tug.org/mactex/morepackages.html)
-
-**Usage :** ```./compile-pdf.sh [lang]```.
- ```lang``` is the 2-characters code of the language
-
-## Contribute ##
+## :trophy: Contribute ##
 
 To contribute, join the [meeds-whitepaper](https://crowdin.com/project/meeds-whitepaper) project on Crowdin and start translating in your favorite language.
 
@@ -20,6 +11,21 @@ To contribute, join the [meeds-whitepaper](https://crowdin.com/project/meeds-whi
 :bulb: *Hint* : You can get the number of words you have translated at : https://crowdin.com/project/meeds-whitepaper/reports/top-members
 
 ![Count your translations on Crowdin](img/crowdin-top-members.png)
+
+
+## :page_facing_up: Generate PDF ##
+
+You can use the build script to generate a PDF version of the whitepaper in any of the supported languages.
+
+*Prerequisites :* 
+* [Pandoc](https://pandoc.org/)
+* [BasicTeX](https://tug.org/mactex/morepackages.html)
+
+*Usage :* ```./compile-pdf.sh [lang]```.
+ 
+ ```- lang``` (default:en) : the 2-characters code of the language
+
+ The resulting document is generated under build/meeds-whitepaper-$lang.pdf
 
 ## :sparkling_heart: Credits ##
 
