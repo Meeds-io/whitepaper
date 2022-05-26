@@ -1,3 +1,4 @@
+
 # 2. Deeds NFT - Organisations dans le Work Metaverse
 
 ## 2.1. Définition des NFT - Deeds
@@ -11,7 +12,6 @@ Le WoM accueille tout type d'organisations - des DAO, des entreprises traditionn
 Le WoM proposera à terme un nombre fini de Deeds. Chaque Deed prédéfinit un nombre maximum d’utilisateurs et offre une capacité de récompense (appelée la force de frappe (Minting Power). Le terme « utilisateur » désigne tout type de salarié, employé ou indépendant, bénévole, etc.
 
 Il existe quatre types de Deeds, chacun fournissant des capacités différentes en termes de nombre d'utilisateurs, de droits de vote dans une ville (voir 2.7) ou de force de frappe, les plus rares étant les plus puissants :
-
 
 | **Type de Deed** | **Utilisateurs max.** | **Force de frappe** | **Rareté** | **Droits de vote** |
 | ---------------- | --------------------- | ------------------- | ---------- | ------------------ |
@@ -120,7 +120,7 @@ Ce modèle "Mintium" est le premier du genre - il va plus loin que les tradition
 
 Dans le WoM, les Deeds sont créés petit à petit au sein des villes virtuelles. Seule la première ville existera au début. Les autres seront créées au fur et à mesure, l'une après l'autre. Dans l'ensemble du WoM, il y aura seulement 7 villes, chacune incluant un nombre limité de chacun des types de Deeds.
 
-Une ville sera considérée comme complète une fois que tous les Deeds seront générés et produits. Ensuite, le minage de chaque nouvelle ville débutera 2<sup>n</sup> mois après que le dernier Deed de la précédente ville ait été produit.
+Une ville sera considérée comme complète une fois que tous les Deeds seront générés et produits. Ensuite, la génération de chaque nouvelle ville débutera 2<sup>n</sup> mois après que le dernier Deed de la précédente ville ait été produit.
 
 | **Nom de la ville** | **Deeds**   | **Disponible**     | **Commun** | **Peu commun** | **Rare**  | **Légendaire** |
 | ------------------- | ----------- | ------------------ | ---------- | -------------- | --------- | -------------- |

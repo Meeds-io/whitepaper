@@ -12,6 +12,8 @@ Le WoM aurait sa propre monnaie : le **Meeds** – qui serait là pour être dé
 
 Une image vaut mille mots, voici donc un diagramme qui décrit les flux WoM et Meeds
 
+![Flux WoM et Meeds](img/en/wom-flows.png)
+
 La maintenance et la stabilité du monde à long terme sont assurés par des taxes partagées entre l'association Meeds et les Villes.
 
 ## 5.2. Ce qu'il contient pour les premiers utilisateurs
@@ -26,10 +28,13 @@ Les organisations qui acquerront des Deeds mais surtout qui les utiliseront pour
 
 Le diagramme ci-dessous représente un exemple de la stratégie d'investissement Meeds pour les détenteurs de capitaux :
 
+![Stratégie d'investissement des Meeds pour les capitaux](img/fr/invest-capital.png)
 
 Les organisations peuvent bien sûr participer à des pools de liquidités, mais aussi rejoindre la communauté des bâtisseurs et y obtenir des récompenses d'engagement supplémentaires.
 
 Le diagramme ci-dessous représente un exemple de la stratégie d'investissement Meeds pour les travailleurs :
+
+![Stratégie d'investissement des Meeds pour les travailleurs](img/en/invest-work.png)
 
 ## 5.3. Le lancement
 
@@ -55,11 +60,11 @@ L'association prévoit également de placer elle-même quelques Meeds afin d'acq
 
 Notre feuille de route suivra l'ordre de priorité ci-dessous :
 
-* Indice d'engagement et émission par engagement
-* Activer la location des Deeds
-* Création des Xeeds
-* Amélioration des badges et développement des titres de compétences
-* Services DeFi - dans le portefeuille, partenariat cartes de crédit
+- Indice d'engagement et émission par engagement
+- Activer la location des Deeds
+- Création des Xeeds
+- Amélioration des badges et développement des titres de compétences
+- Services DeFi - dans le portefeuille, partenariat cartes de crédit
 
 Durant la phase de construction, nous ciblerons les membres des premières DAO ainsi que les sociétés technophiles. Nous devrions également avoir quelques premiers utilisateurs issus d'entreprises traditionnelles qui tireront parti du métaverse en créant des programmes d'engagement pertinents pour leurs employés en complément de leurs plans de rémunération classiques.
 
@@ -69,14 +74,13 @@ L'émission de la totalité des Meeds aura lieu progressivement sur une période
 
 Que pouvez-vous faire dès maintenant pour participer ?
 
-* Diffuser ce document à ceux qui seraient intéressés
-* Visiter notre site https://www.meeds.io
-* Découvrir l'application Investors
-* Contribuer aux pools de liquidité existants sur :
-  * Cometh Swap (Polygon)
-  * Sushi Swap
-* Rejoindre notre communauté sur Discord pour rester dans la boucle
-* Rejoindre notre communauté Builders pour essayer le logiciel Meeds, vous engager en contribuant au projet et gagner des Meeds en récompense
-
+- Diffuser ce document à ceux qui seraient intéressés
+- Visiter notre site https://www.meeds.io
+- Découvrir l'application Investors
+- Contribuer aux pools de liquidité existants sur :
+  - Cometh Swap (Polygon)
+  - Sushi Swap
+- Rejoindre notre communauté sur Discord pour rester dans la boucle
+- Rejoindre notre communauté des bâtisseurs pour essayer le logiciel Meeds, vous engager en contribuant au projet et gagner des Meeds en récompense
 
 **\*\*\* Le Work Metaverse - Construisons le monde de demain ensemble. \*\*\***
