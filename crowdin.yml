@@ -1,5 +1,5 @@
 files:
   - source: /content/src/*
     ignore:
-      - /*/*
+      - /content/*
     translation: /content/intl/%two_letters_code%/%original_file_name%
