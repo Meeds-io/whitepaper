@@ -1,6 +1,3 @@
 files:
-  - source: '*.md'
-    ignore:
-      - README.md
-      - /*/*
-    translation: /%two_letters_code%/%original_file_name%
+  - source: /content/en/*
+    translation: /content/%two_letters_code%/%original_file_name%
