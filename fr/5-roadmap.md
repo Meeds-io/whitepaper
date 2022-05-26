@@ -34,7 +34,7 @@ Les organisations peuvent bien sûr participer à des pools de liquidités, mais
 
 Le diagramme ci-dessous représente un exemple de la stratégie d'investissement Meeds pour les travailleurs :
 
-![Stratégue d'investissement des Meeds pour les travailleurs](img/en/invest-work.png)
+![Stratégie d'investissement des Meeds pour les travailleurs](img/en/invest-work.png)
 
 ## 5.3. Le lancement
 
