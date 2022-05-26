@@ -3,7 +3,7 @@
 
 ## 2.1. NFT – Los Deeds definidos
 
-Un *token* no fungible (NFT) es un *token* único que representa un bien. En el WoM, un Deed se utiliza como un título de propiedad. Cada Deed le otorga a su titular el derecho de acceder a varios servicios. Por ejemplo, acceder a una oficina digital en el marco del software de Meeds o el derecho de acuñar divisas de Meeds.
+A non fungible token (NFT) is a unique token that represents a good. En el WoM, un Deed se utiliza como un título de propiedad. Cada Deed le otorga a su titular el derecho de acceder a varios servicios. Por ejemplo, acceder a una oficina digital en el marco del software de Meeds o el derecho de acuñar divisas de Meeds.
 
 El WoM da la bienvenida a todo tipo de organizaciones: DAO, corporaciones tradicionales, asociaciones, *think tanks*, colaboraciones, compañías de teatro, proyectos grupales, escuelas, etc. El Deed representa su existencia digital en el WoM.
 
@@ -15,10 +15,10 @@ Hay cuatro tipos de Deeds. Cada uno aporta diferentes posibilidades en lo que re
 
 | **Tipo de Deed** | **Usuarios máx.** | **Minting Power** | **Escasez** | **Derechos de voto en la ciudad** |
 | ---------------- | ----------------- | ----------------- | ----------- | --------------------------------- |
-| Común            | 100               | 1                 | ~ 90%       | 1                                 |
-| Poco común       | 1000              | 1.1               | ~ 9%        | 10                                |
-| Raro             | 10 000            | 1.3               | ~ 1%        | 100                               |
-| Lengendario      | ilimitado         | 2                 | < 0.1 %     | 1000                              |
+| Common           | 100               | 1                 | ~ 90%       | 1                                 |
+| Uncommon         | 1000              | 1.1               | ~ 9%        | 10                                |
+| Rare             | 10 000            | 1.3               | ~ 1%        | 100                               |
+| Legendary        | ilimitado         | 2                 | < 0.1 %     | 1000                              |
 
 ## 2.3. Titularidad de Deeds
 
