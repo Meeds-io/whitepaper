@@ -42,6 +42,6 @@ As with any decentralized venture, the WoM proposal gains in value exponentially
 [^2]: Jan Drahokoupil, Agnieszka Piasna - [“Work in the Platform Economy: Beyond Lower Transaction Costs”](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
 [^3]: R. Meckling - [“Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure”](https://www.academia.edu/download/37786595/jensen-meckling.pdf)
 [^4]: R. Coase - [“The nature of the firm”](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
-[^5]: R. R. Meckling - [“Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure”](https://www.academia.edu/download/37786595/jensen-meckling.pdf)
+[^5]: R. R. R. Meckling - [“Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure”](https://www.academia.edu/download/37786595/jensen-meckling.pdf)
 [^6]: Aaron Wright, Benjamin N. Cardozo School - [“The Rise of Decentralized AutonomousOrganizations: Opportunities and Challenges”](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)
 
