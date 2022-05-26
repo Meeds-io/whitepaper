@@ -1,6 +1,6 @@
 # Meeds DAO: Le Work Metaverse
 
-**Date : 1er mai 2022 - Version 1.0**
+**Date : 1er mai 2022 - Version 1.0-fr**
 
 ## Résumé
 
