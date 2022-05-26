@@ -9,12 +9,12 @@ if [ "$1" ]; then
   LANG=$1
 fi
 
-## source (english) content located under content/src/
-CONTENT_PATH=./content/src
+## source (english) content located under en/
+CONTENT_PATH=./en
 if [ "$LANG" != "en" ]; then
 
   ## translated content below content/intl/
-  CONTENT_PATH=./content/intl/$LANG
+  CONTENT_PATH=./intl/$LANG
 fi
 
 echo "Assembling PDF from $CONTENT_PATH..."
