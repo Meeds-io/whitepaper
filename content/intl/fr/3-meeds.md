@@ -43,12 +43,12 @@ Une fois la période d’émission terminée, l’association sera soutenue par 
 - les frais de transactions d'achat dans les boutiques
 - ses revenus en tant que fournisseur de liquidité
 - des commissions quand un Deed distribue des jetons autres que des Meeds via les services du WoM.
-- les revenus degagés en opérant les Deeds qu'elle possède
+- by operating the Deeds that the association minted over time.
 
 
 ## 3.5. Investisseurs
 
-Les investisseurs aident à créer le WoM en fournissant des liquidités et en investissant des Meeds. Cela assure de stabiliser son niveau de prix pendant la période de construction. Ces deux mécanismes sont encouragés par des émissions de jetons.
+Les investisseurs aident à créer le WoM en fournissant des liquidités et en investissant des Meeds. Cela assure de stabiliser son niveau de prix pendant la période de construction. Both are encouraged through minting.
 
 **Fournisseurs de liquidité** La gestion des liquidités de la devise est la clé du succès du projet et plusieurs stratégies de DeFi seront utilisées pour optimiser la performance du capital. Nous commencerons par des incitations à investir des jetons LP de la paire MEED/ETH. Puis nous introduirons des obligations pour que la liquidité soit progressivement détenue par le protocole. Ceci contribuera à la durabilité à long terme de l'association - comme mentionné ci-dessus, les commissions sur les transactions finançant en effet les frais de fonctionnement de l'association tels que les services d'hébergement.
 
