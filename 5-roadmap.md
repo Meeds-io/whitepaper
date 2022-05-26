@@ -27,13 +27,13 @@ By believing in the project, participating in the liquidity pools, staking Meeds
 
 Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
 
-The diagram below represents an example of the Meeds investment strategy for capital holders :
+The diagram below represents an example of the Meeds investment strategy for capital holders : 
 
 ![Meeds investment strategy for capital holders](img/en/invest-capital.png)
 
 organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
 
-The diagram below represents an example of the Meeds investment strategy for work holders :
+The diagram below represents an example of the Meeds investment strategy for work holders : 
 
 ![Meeds investment strategy for work holders](img/en/invest-work.png)
 
