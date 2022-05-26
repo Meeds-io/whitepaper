@@ -28,7 +28,7 @@ Les organisations qui acquerront des Deeds mais surtout qui les utiliseront pour
 
 Le diagramme ci-dessous représente un exemple de la stratégie d'investissement Meeds pour les détenteurs de capitaux :
 
-![Stratégie d'investissement des Meeds pour les capitaux](img/fr/invest-capital.png)
+![Stratégie d'investissement des Meeds pour les capitaux](img/en/invest-capital.png)
 
 Les organisations peuvent bien sûr participer à des pools de liquidités, mais aussi rejoindre la communauté des bâtisseurs et y obtenir des récompenses d'engagement supplémentaires.
 
