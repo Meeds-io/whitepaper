@@ -12,7 +12,7 @@ The WoM would have its own currency **Meeds** – that would be there to spend i
 
 As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
 
-![WoM and Meeds flows](img/en/wom-flows.png)
+![WoM and Meeds flows](en/img/wom-flows.png)
 
 The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
 
@@ -24,17 +24,17 @@ In particular, the WoM rewards long-term investment in the verse – that is the
 
 By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the metaverse.
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
+Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
 
 The diagram below represents an example of the Meeds investment strategy for capital holders :
 
-![Meeds investment strategy for capital holders](img/en/invest-capital.png)
+![Meeds investment strategy for capital holders](en/img/invest-capital.png)
 
 organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
 
 The diagram below represents an example of the Meeds investment strategy for work holders :
 
-![Meeds investment strategy for work holders](img/en/invest-work.png)
+![Meeds investment strategy for work holders](en/img/invest-work.png)
 
 ## 5.3. The launch
 
