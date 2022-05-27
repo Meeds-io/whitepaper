@@ -1,5 +1,8 @@
 files:
-  - source: /content/src/*.*
+  - source: /en/*.*
     ignore:
-      - /content/intl
-    translation: /content/intl/%two_letters_code%/%original_file_name%
+      - /intl/
+      - /templates
+      - /img
+      - /en/*/img
+    translation: /intl/%two_letters_code%/%original_file_name%
