@@ -17,7 +17,17 @@ if [ "$LANG" != "en" ]; then
   CONTENT_PATH=./intl/$LANG
 fi
 
-echo "Assembling PDF from $CONTENT_PATH..."
+
+
+YAML=$CONTENT_PATH/title.yml
+if [[ -f "$YAML" ]]; then
+    echo "Params loaded from $YAML"
+else
+    echo "warning : $YAML not found"
+fi
+
+MDOWN=$CONTENT_PATH/*.md
+echo "Processing content from $MDOWN"
 
 ## cleanup output folder
 mkdir -p build
@@ -25,8 +35,8 @@ rm -rf ./build/*
 OUTPUT=build/meeds-whitepaper-$LANG.pdf
 
 ## transform all markdown fragments in content folder to pdf using  eisvogel LateX template
-pandoc --pdf-engine=xelatex -f markdown+smart -o $OUTPUT --template=templates/eisvogel.tex --toc  -s $CONTENT_PATH/title.yml $CONTENT_PATH/*.md
+pandoc --pdf-engine=xelatex -f markdown+smart -o $OUTPUT --top-level-division=chapter --template=templates/eisvogel.tex --toc  -s $YAML $MDOWN
 
 if [[ -f "$OUTPUT" ]]; then
-    echo "Book generated at $OUTPUT".
+    echo "PDF generated at $OUTPUT".
 fi
