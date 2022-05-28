@@ -1,6 +1,6 @@
 ---
-title: Meeds DAO - The Work Metaverse
-date: May 1st, 2022 ‐ Version 1.0
+title: Meeds DAO - Le Work Metaverse
+date: 1er Mai 2022 ‐ Version 1.0-fr
 language: fr
 lof: true
 lof-own-page: true
@@ -12,4 +12,5 @@ papersize: letter
 colorlinks: true
 book: true
 listings-no-page-break: true
-First-chapter: 2
+first-chapter: 2
+classoption: oneside
