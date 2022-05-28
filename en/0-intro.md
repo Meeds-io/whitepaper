@@ -1,6 +1,6 @@
 
 
-## Abstract ##
+## Abstract
 
 Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
 
@@ -9,7 +9,7 @@ corporations and DAOs.
 
 The WoM does that by introducing digital identities for both employer and employee and offering an innovative engagement reward system that would align their interests.
 
-## Introduction ##
+## Introduction
 
 The work market today is broken. It fails to satisfy both employees and employers.
 

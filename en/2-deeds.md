@@ -1,14 +1,14 @@
 
-# 2. Deeds NFT - Work Metaverse Organizations #
+# 2. Deeds NFT - Work Metaverse Organizations
 
-## 2.1. NFT – Deeds defined ##
+## 2.1. NFT – Deeds defined
 
 A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and
 the right to mint Meeds.
 
 The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM.
 
-## 2.2. Deeds supply ##
+## 2.2. Deeds supply
 
 The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of Meeds rewarding (Minting Power). The term ‘user’ here and hereafter designates any type of employee, worker, freelancer, volunteer etc.
 
@@ -21,7 +21,7 @@ There are four types of Deeds, each providing different capabilities in terms of
 | Rare | 10 000  | 1.3  |   ~ 1% |  100 | 
 | Legendary | unlimited |  2 |  < 0.1 % |  1000 | 
 
-## 2.3. Deeds ownership ##
+## 2.3. Deeds ownership
 
 A Deed gives its owner the right to USE it, RENT it, or SELL it.
 
@@ -33,7 +33,7 @@ passive income.
 
 Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
 
-## 2.4. Deeds services, engagement/rewards engine ##
+## 2.4. Deeds services, engagement/rewards engine
 
 In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
 
@@ -74,7 +74,7 @@ The Deed’s holder or renter can enrich its store with its own perks, connect t
 
 The store functions through the use of Meeds so that Meeds are partially returned to the Deed.
 
-## 2.5. Rewards – Meeds and other tokens ##
+## 2.5. Rewards – Meeds and other tokens
 
 The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement.
 Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs.
@@ -86,7 +86,7 @@ Moreover, the Deed does not necessarily need to acquire Meeds in order to distri
 
 In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
 
-## 2.6. The “mintium” model – tokenize work engagement ##
+## 2.6. The “mintium” model – tokenize work engagement
 
 By engaging their users in the WoM, Deeds get compensated through an innovative mintium model.
 
@@ -124,7 +124,7 @@ As the Deeds are rewarded with Meeds and incentivized to redistribute them as re
 
 The “mintium” model is the first of a kind - it goes further than the traditional freemium one, as not only the services are free to use but both the organizations and their users are rewarded for using them.
 
-## 2.7. Cities and governance ##
+## 2.7. Cities and governance
 
 In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
 

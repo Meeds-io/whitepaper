@@ -1,15 +1,15 @@
-# 3. Meeds token – the Work Metaverse currency #
+# 3. Meeds token – the Work Metaverse currency
 
 The Work Metaverse is powered by its currency – the Meeds token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
 
-## 3.1. Tokenomics ##
+## 3.1. Tokenomics
 
 The Meeds maximum supply is limited to 100 million tokens, minted progressively. 5 Million Meeds (5% of total supply) have been pre-minted to date. Among those 5M, 4.5M are locked in a vault contract with a linear vesting over 4 years.
 The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services. The rest is part of the Meeds DAO funds and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
 
-Meeds are minted at the rate of 10 Meeds per minute. Therefore, the full minting horizon is close to 20 years (as 10*60*24*365 Meeds are minted per year).
+Meeds are minted at the rate of 10 Meeds per minute. Therefore, the full minting horizon is close to 20 years (as 10\*60\*24\*365 Meeds are minted per year).
 
-## 3.2. Minting allocation ##
+## 3.2. Minting allocation
 
 Minted Meeds are allocated to encourage involvement of the three categories of stakeholders - the users, the builders and the investors:
 
@@ -22,12 +22,12 @@ Meeds.
 
 At the beginning, the builders get 30% of the allocation. The 70% are shared between the users and the investors. This allocation proportion will be reviewed on a regular basis, through the Meeds association DAO vote.
 
-## 3.3. Users – minting through engagement ##
+## 3.3. Users – minting through engagement
 
 Part of the continuously minted Meeds is allocated to the engagement minting channel. The distribution is done weekly. At any given week end, the engagement index is calculated and Deeds can claim their rewards the following week and get their Meeds. Unclaimed Meeds stay in the fund and are added to the next week’s distribution.
 The model is described in detail in the previous chapter (part 2.6).
 
-## 3.4. Builders – Meeds association DAO and community of builders ##
+## 3.4. Builders – Meeds association DAO and community of builders
 
 The WoM and the Meeds token are operated by the non-profit Meeds Association DAO, introduced above. A multisig contract is used to manage the association operating expenses.
 
@@ -52,7 +52,7 @@ services.
 - by operating the Deeds that the association minted over time.
 
 
-## 3.5. Investors ##
+## 3.5. Investors
 
 Investors help creating the WoM by providing liquidity and by staking Meeds and thus stabilizing its price level during the construction period. Both are encouraged through minting.
 
@@ -80,11 +80,11 @@ The formula avoids favoring large holders in order to distribute Deeds more effi
 | Rare | 50 000 | 5 months (156 days) | 10 months | 5 years |
 | Legendary | 100 000 | 10 months (311 days) | 20 months | 10 years |
 
-## 3.6. Meeds DAO governance ##
+## 3.6. Meeds DAO governance
 
 Meeds token holders need to stake tokens in order to vote on the Meeds DAO decisions such as managing the minting budget or electing DAO board members (annual mandate).
 
-## 3.7. Decentralized finance (DeFi) user services ##
+## 3.7. Decentralized finance (DeFi) user services
 
 The Work Metaverse will introduce the blockchain world to many people who do not use it today.
 
