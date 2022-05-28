@@ -6,7 +6,7 @@ The Work Metaverse is powered by its currency – the Meeds token. The Work Meta
 
 The Meeds maximum supply is limited to 100 million tokens, minted progressively. 5 Million Meeds (5% of total supply) have been pre-minted to date. Among those 5M, 4.5M are locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services. The rest is part of the Meeds DAO funds and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
 
-Meeds are minted at the rate of 10 Meeds per minute. Meeds are minted at the rate of 10 Meeds per minute. Therefore, the full minting horizon is close to 20 years (as 10*60*24*365 Meeds are minted per year).
+Meeds are minted at the rate of 10 Meeds per minute. Therefore, the full minting horizon is close to 20 years (as 10\*60\*24\*365 Meeds are minted per year).
 
 ## 3.2. Minting allocation 3.2. Minting allocation Minting allocation
 
