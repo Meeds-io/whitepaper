@@ -6,7 +6,7 @@ The Work Metaverse is powered by its currency – the Meeds token. Meeds are use
 
 The Meeds maximum supply is limited to 100 million tokens, minted progressively. 5 Million Meeds (5% of total supply) have been pre-minted to date. Among those 5M, 4.5M are locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services. The rest is part of the Meeds DAO funds and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
 
-Meeds are minted at the rate of 10 Meeds per minute. Therefore, the full minting horizon is close to 20 years (as 10\*60\*24\*365 Meeds are minted per year).
+Meeds are minted at the rate of 10 Meeds per minute. Therefore, the full minting horizon is close to 20 years (as 10*60*24*365 Meeds are minted per year).
 
 ## 3.2. Minting allocation
 
@@ -84,6 +84,6 @@ Beyond the wallet and a store where they can purchase perks for Meeds, we plan t
 - The ability to stake Meeds tokens and get yields (generate revenues)
 - The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a Fuse pool https://app.rari.capital/fuse then registering the Meeds token to AAVE - https://aave.com/).
 - A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. This card could also be used by organizations to fund employee wallets in order to manage employee benefits such as restaurants, transportation and any type of expenses.
-- as restaurants, transportation and any type of expenses.) as restaurants, transportation and any type of expenses.) So not only many new users will discover the blockchain world, they will also discover a bankless world.
+- as restaurants, transportation and any type of expenses.) as restaurants, transportation and any type of expenses.) as restaurants, transportation and any type of expenses.) So not only many new users will discover the blockchain world, they will also discover a bankless world.
 
  
