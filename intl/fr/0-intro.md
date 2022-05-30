@@ -20,7 +20,7 @@ Les employeurs, par ailleurs, rencontrent des difficultés dans l’identificati
 
 Ces derniers doivent également gérer le manque de fidélité de leurs salariés ainsi que les mouvements de personnel. Ce qui par conséquent augmente les coûts de recrutement et d’intégration.
 
-Associé à cela, les employeurs font face à un manque d’engagement de certains des salariés existants. Ce qui produit une faible créativité, un manque de productivité et une innovation diminuée. Cette dernière est d’autant plus impactante pour les organisations que l’économie d’aujourd’hui requiert de plus en plus de créativité et d’innovation.
+Associé à cela, les employeurs font face à un manque d’engagement de certains des salariés existants. Ce qui produit une faible créativité, un manque de productivité et une innovation diminuée. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
 
 Tout ce qui précède se résume à des coûts de transaction élevés et au problème principal-agent[^4] :
 
