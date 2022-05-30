@@ -23,7 +23,7 @@ When badges are downloaded by the user, it is possible to include the number of 
 Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the Deed.
 These are signed by the Deed and can be accompanied by a signature by a peer user.
 
-[^7]: A.Preukschatt, R. Drummond “Self-Sovereign Identity
+[^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Verifiable Credentials Data Model
 
 ## 4.3. Digital work identity
@@ -36,7 +36,7 @@ The user will be able to share his Xeed, Badges, and Credentials with other Deed
 
 A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations.
 
-Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself....In a manner of trustworthy LinkedIn 3.0.
+Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... In a manner of trustworthy LinkedIn 3.0.
 
 The user will be able to select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Deeds, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time.
 
