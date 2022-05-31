@@ -32,7 +32,7 @@ The user will be able to share his Xeed, Badges, and Credentials with other Deed
 
 A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations.
 
-Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself....In a manner of trustworthy LinkedIn 3.0.
+Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... In a manner of trustworthy LinkedIn 3.0.
 
 The user will be able to select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Deeds, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time.
 
@@ -60,5 +60,5 @@ Indeed, any work engagement can potentially be tokenized. In fact the world is b
 
 Any user can get Meeds and use a Meeds wallet to get access to new age services without any special training.
 
-[^7]: A.Preukschatt, R. Drummond “Self-Sovereign Identity
+[^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Verifiable Credentials Data Model

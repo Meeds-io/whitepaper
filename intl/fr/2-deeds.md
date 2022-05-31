@@ -66,7 +66,7 @@ Le propriétaire ou le loueur de Deed peut enrichir sa boutique interne avec ses
 - Chèques vacances
 - Repas avec un dirigeant de l'organisation
 - Espace de travail physique
-- Etc
+- Etc.
 
 La boutique fonctionne à travers l'utilisation de Meeds. Ainsi, la cryptomonnaie dépensée par ses membres dans la boutique retourne partiellement au Deed.
 

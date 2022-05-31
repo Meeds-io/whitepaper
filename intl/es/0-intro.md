@@ -10,7 +10,7 @@ El WoM presenta identidades digitales tanto para empleadores como para empleados
 
 ## Introducción
 
-The work market today is broken. It fails to satisfy both employees and employers.
+El mercado laboral actual está tocado, ya que no logra satisfacer ni a empleadores ni a empleados.
 
 Por su parte, al empleado le cuesta encontrar trabajos adecuados. El mercado laboral favorece a ciertos tipos de personas y obvia destrezas valiosas. Todo esto se debe a un conjunto de prejuicios humanos: por raza, género, discapacidad, introversión, etc. A su vez, el mercado laboral también adolece por su falta de transparencia en cuanto a la disponibilidad de puestos de trabajo y a condiciones de contratación.
 

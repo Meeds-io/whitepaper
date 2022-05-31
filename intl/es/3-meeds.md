@@ -64,10 +64,10 @@ The formula avoids favoring large holders in order to distribute Deeds more effi
 
 | **Card Type** | **Points** | **100k xMeeds** (321 pts / day) | **10k xMeeds** (164 pts / day) | **1k xMeeds** (28 pts / day) |
 | ------------- | ---------- | ------------------------------- | ------------------------------ | ---------------------------- |
-| Common        | 8 000      | 1 month (25 days)               | 2 months (49 days)             | 9 months                     |
-| Uncommon      | 32 000     | 3 months (100 days)             | 6 months                       | 3 years                      |
-| Rare          | 50 000     | 5 months (156 days)             | 10 months                      | 5 years                      |
-| Legendary     | 100 000    | 10 months (311 days)            | 20 months                      | 10 years                     |
+| Común         | 8 000      | 1 month (25 days)               | 2 months (49 days)             | 9 months                     |
+| Poco común    | 32 000     | 3 months (100 days)             | 6 months                       | 3 years                      |
+| Raro          | 50 000     | 5 months (156 days)             | 10 months                      | 5 years                      |
+| Lengendario   | 100 000    | 10 months (311 days)            | 20 months                      | 10 years                     |
 
 ## 3.6. Meeds DAO governance
 
@@ -84,6 +84,7 @@ Beyond the wallet and a store where they can purchase perks for Meeds, we plan t
 - The ability to stake Meeds tokens and get yields (generate revenues)
 - The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a Fuse pool https://app.rari.capital/fuse then registering the Meeds token to AAVE - https://aave.com/).
 - A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. This card could also be used by organizations to fund employee wallets in order to manage employee benefits such as restaurants, transportation and any type of expenses.
-- as restaurants, transportation and any type of expenses.) as restaurants, transportation and any type of expenses.) So not only many new users will discover the blockchain world, they will also discover a bankless world.
+
+So not only many new users will discover the blockchain world, they will also discover a bankless world.
 
  
