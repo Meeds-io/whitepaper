@@ -16,7 +16,7 @@ As a picture is worth a thousand words, here is a diagram that describes the WoM
 
 The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
 
-## 5.2. What’s in it for early adopters
+## 5.2. 5.2. What’s in it for early adopters
 
 Obviously, early adopters would get considerable advantages over the late comers.
 
