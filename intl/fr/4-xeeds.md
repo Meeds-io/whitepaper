@@ -32,7 +32,7 @@ L'utilisateur pourra dévoiler son Xeed, ses badges et ses identifiants dans d'a
 
 Un utilisateur peut avoir une ou plusieurs identités numériques dans le WoM. Il peut ensuite les présenter de manière unifiée.
 
-Contrairement au Web2, l'utilisateur est pleinement propriétaire de ses identités décentralisées. Il peut montrer (et prouver) les Deeds auxquels il a participé, ses compétences éprouvées, ses compétences revendiquées, d'autres Xeeds (personnes) avec qui il a travaillé, sa représentation numérique de lui-même ... à la manière d'un LinkedIn 3.0 fiable.
+Contrairement au Web2, l'utilisateur est pleinement propriétaire de ses identités décentralisées. Il peut montrer (et prouver) les Deeds auxquels il a participé, ses compétences revendiquées et éprouvées, les autres Xeeds (personnes) avec qui il a travaillé, une représentation numérique de lui-même... À la manière d'un LinkedIn 3.0 fiable.
 
 L'utilisateur sera en mesure de choisir ce qu'il veut révéler, quelles informations fournir, et quelle identité utiliser pour chaque poste. Le contenu (compétences éprouvées, précédents Deeds, etc.) est une preuve inviolable et ne peut donc pas être modifié. Toute identité devra être développée au fil du temps.
 
@@ -60,5 +60,5 @@ En effet, tout engagement au travail peut potentiellement être représenté par
 
 N'importe quel utilisateur peut obtenir des Meeds et utiliser un portefeuille Meeds pour accéder à des services d'une nouvelle ère sans formation spéciale.
 
-[^7]: A. Preukschatt, R. Drummond “Self-Sovereign Identity
+[^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Modèle de données des Verifiable Credentials
