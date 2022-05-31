@@ -17,8 +17,8 @@ There are four types of Deeds, each providing different capabilities in terms of
 | ------------- | ------------- | ----------------- | ------------ | ------------------------ |
 | Common        | 100           | 1                 | ~ 90%        | 1                        |
 | Uncommon      | 1000          | 1.1               | ~ 9%         | 10                       |
-| Rare          | 10 000        | 1.3               | ~ 1%         | 100                      |
-| Legendary     | غير محدود     | 2                 | < 0.1 %      | 1000                     |
+| نادر          | 10 000        | 1.3               | ~ 1%         | 100                      |
+| اسطوري        | غير محدود     | 2                 | < 0.1 %      | 1000                     |
 
 ## 2.3. Deeds ownership
 
@@ -122,15 +122,15 @@ In the WoM, Deeds will be generated gradually inside virtual cities. Only the fi
 
 A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start 2<sup>n</sup> months after the last Deed of the n-1 city was minted.
 
-| **City name**    | **Deeds**   | **Available**        | **Common** | **Uncommon** | **Rare**  | **Legendary** |
-| ---------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
-| City 1: Tanit    | 100         | T0                   | 50         | 30           | 13        | 7             |
-| City 2: Reshef   | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
-| City 3: Ashtarte | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
-| City 4: Melqart  | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
-| City 5: Eshmun   | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
-| City 6: Kushor   | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
-| City 7: Hammon   | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
+| **City name**    | **Deeds**   | **Available**        | **Common** | **Uncommon** | **نادر**  | **اسطوري** |
+| ---------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ---------- |
+| City 1: Tanit    | 100         | T0                   | 50         | 30           | 13        | 7          |
+| City 2: Reshef   | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6          |
+| City 3: Ashtarte | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5          |
+| City 4: Melqart  | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4          |
+| City 5: Eshmun   | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3          |
+| City 6: Kushor   | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2          |
+| City 7: Hammon   | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1          |
 
 A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
 
