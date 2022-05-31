@@ -10,7 +10,7 @@
 
 ## 4.2. الشارات وبيانات الإعتماد
 
-وتعطى الشارات وبيانات الإعتماد للمستخدمين كجزء من مشاركتهم في السند. قد يقوم حامل الشبكة بتنزيلها كبيانات الاعتماد W3C يمكن التحقق منها وتخزينها في محفظته. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
+وتعطى الشارات وبيانات الإعتماد للمستخدمين كجزء من مشاركتهم في السند. قد يقوم حامل الشبكة بتنزيلها كبيانات الاعتماد W3C يمكن التحقق منها وتخزينها في محفظته. وهذه البيانات هي دليل على وجود معارف/دراية مصدق عليها من قبل المنظمة التي أصدرتها.
 
 في عالم اليوم، من الصعب أن نبرهن على وجود مهارة مسبقة. وعندما يعلن الناس عن أنفسهم على الشبكات فإنهم يعتمدون على مديريهم لإعطائهم توصية. ويفترض هذا الأخير وجود بعض النوايا الحسنة من جانب المدير ولكنه لا يعامل بالضرورة كدليل من جانب رب العمل في المستقبل.
 
@@ -24,23 +24,23 @@
 
 ## 4.3. هوية العمل الرقمي
 
-All of the above contributes to forming proven digital skillset that can be kept and used by the user when changing jobs or freelancing. It would be more trustworthy than traditional solutions as it relies on not just one individual but a full community to prove it.
+ويسهم كل ما سبق ذكره في تكوين مجموعة من المهارات الرقمية المثبتة التي يمكن للمستخدم الاحتفاظ بها واستخدامها عند تغيير الوظائف أو العمل لحسابه الخاص. وسيكون أكثر جدارة بالثقة من الحلول التقليدية لأنه لا يعتمد على فرد واحد فحسب بل على مجتمع كامل لإثبات ذلك.
 
-Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Deed to another, from one city to another, anywhere through the WoM.
+تماما مثل محفظة Meed، سيحتفظ المستخدم بشارات Xeed ، ووثائق التفويض المرتبطة بها في محفظة هويته عند الانتقال من سند إلى آخر، من مدينة إلى أخرى، في أي مكان من خلال عمل المتافيرس.
 
-The user will be able to share his Xeed, Badges, and Credentials with other Deeds to highlight his experience, as well as with recruiters or any other services that he deems interesting.
+سيكون المستخدم قادرا على مشاركة Xeed و الشارات و وثائق التفويض مع السندات الأخرى لتسليط الضوء على تجربته. وكذلك مع القائمين على التوظيف أو أي خدمات أخرى يرى أنها مثيرة للاهتمام.
 
-A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations.
+يمكن أن يكون للمستخدم هوية رقمية واحدة أو عدة هويات رقمية في عمل المتافيرس. وبوسعه في وقت لاحق أن يعرضها بطريقة موحدة باستخدام عروض تم التحقق منها.
 
-Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself.... In a manner of trustworthy LinkedIn 3.0.
+وبعكس web 2.0، فإن المستخدم يمتلك كليا وبصفة لا مركزية هويته. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... In a manner of trustworthy LinkedIn 3.0.
 
-The user will be able to select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Deeds, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time.
+وسيتمكن المستخدم من اختيار ما إذا كان سيكشف عن أي شيء أم لا، وما هي المعلومات التي سيقدمها، وما هي الهويات التي سيستخدمها كل موقع. المحتوى (المهارة المثبتة، السندات السابقة،...) دليل ثابت وبالتالي لا يمكن تعديله. أي هوية يجب أن يتم تطويرها بمرور الوقت.
 
 ## 4.4. سوق العمل العادل
 
-وفي إطار هذا النموذج، يسمح سوق العمل في المستقبل للمستخدمين بالتحرك بحرية وتخصيص أو بيع مشاركتهم بين سندات الملكية ــ كما يفعلون في العالم المادي من خلال تغيير أرباب العمل. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to choose which Deed provides better engagement reward conditions, belongs to a more attractive city, etc.
+وفي إطار هذا النموذج، يسمح سوق العمل في المستقبل للمستخدمين بالتحرك بحرية وتخصيص أو بيع مشاركتهم بين سندات الملكية ــ كما يفعلون في العالم المادي من خلال تغيير أرباب العمل. غير أن مشاركتهم في عملية التجميع ستكون ملموسة وقابلة للقياس والمكافأة بطريقة عادلة. بالانتقال بين نظم تتبع منطقا مماثلا، سوف يفهمون بشكل أفضل قواعد اللعبة وبالتالي يحكمون على أرباب العمل بإنصاف ــ فالعشب ليس دائما أكثر اخضرارا في أماكن أخرى. سيتمكن المستخدمون من اختيار أي سند يوفر شروط مكافأة مشاركة أفضل، ينتمي إلى مدينة أكثر جاذبية، إلخ.
 
-On their end, the Deeds’ holders/renters can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
+في نهاية المطاف، يستطيع حاملو السندات البحث عن المهارات ذات الصلة باستخدام شبكة عمل المتافيرس من هويات العمل الرقمية (التي قرر المستعملون الكشف عنها). وسيكونون قادرين على اكتساب المهارات بمزيد من الفعالية، بناء على معلومات مؤكدة ومفصلة عن تاريخ العمل ومهارات العمل ومستوى المشاركة لدى المستخدم.
 
 ## 4.5. الاعتراف الملموس والشفاف
 
@@ -60,5 +60,5 @@ On their end, the Deeds’ holders/renters can search for relevant skills using 
 
 يمكن لأي مستخدم الحصول على Meeds واستخدام محفظة Meeds للحصول على خدمات جديدة بدون أي تدريب خاص.
 
-[^7]: A.Preukschatt, R. Drummond “Self-Sovereign Identity
-[^8]: Verifiable Credentials Data Model
+[^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
+[^8]: نموذج بيانات الاعتماد الذي يمكن التحقق منه
