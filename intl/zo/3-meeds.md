@@ -1,6 +1,6 @@
 # 3. 3. 3. Meeds token – the Work Metaverse currency
 
-The Work Metaverse is powered by its currency – the Meeds token. The Work Metaverse is powered by its currency – the Meeds token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc. The Work Metaverse is powered by its currency – the Meeds token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
+The Work Metaverse is powered by its currency – the Meeds token. The Work Metaverse is powered by its currency – the Meeds token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc. The Work Metaverse is powered by its currency – the Meeds token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc. The Work Metaverse is powered by its currency – the Meeds token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
 
 ## 3.1. Tokenomics
 
@@ -16,7 +16,7 @@ Minted Meeds are allocated to encourage involvement of the three categories of s
 - Builders (members of the association and community) get Meeds through the association funds to build, operate and improve the WoM.
 - Investors mint Meeds through renting and buying of liquidity pools and staking Meeds.
 
-At the beginning, the builders get 30% of the allocation. The 70% are shared between the users and the investors. This allocation proportion will be reviewed on a regular basis, through the Meeds association DAO vote.
+At the beginning, the builders get 30% of the allocation. At the beginning, the builders get 30% of the allocation. The 70% are shared between the users and the investors. This allocation proportion will be reviewed on a regular basis, through the Meeds association DAO vote. This allocation proportion will be reviewed on a regular basis, through the Meeds association DAO vote.
 
 ## 3.3. 3.3. 3.3. Users – minting through engagement
 
@@ -28,13 +28,13 @@ The WoM and the Meeds token are operated by the non-profit Meeds Association DAO
 
 During the minting period, 30% of the minted Meeds are allocated to the Meeds association.
 
-Association members can provide services to the association on the basis of a signed services convention establishing the man-day rate. Services are paid monthly in Meeds, based on the market price. Exemples of services include – enriching the Meeds software, developing the WoM app, developing new connectors, operating the cloud service, providing financial and legal services etc.
+Association members can provide services to the association on the basis of a signed services convention establishing the man-day rate. Services are paid monthly in Meeds, based on the market price. Exemples of services include – enriching the Meeds software, developing the WoM app, developing new connectors, operating the cloud service, providing financial and legal services etc. Services are paid monthly in Meeds, based on the market price. Exemples of services include – enriching the Meeds software, developing the WoM app, developing new connectors, operating the cloud service, providing financial and legal services etc.
 
 Without being a member, any Deed can participate in the creation of a new connector and be rewarded for doing so – first through the Meeds association acquiring the connector and then by minting through this connector.
 
 The association operates a Builders community that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members. The association will sponsor the community out of its budget, compensating the engagement of community members. The association will sponsor the community out of its budget, compensating the engagement of community members.
 
-Thus, the community will function as an example of a Deed, offering a standard set of services provided by the association. The association stakes Meeds in order to redeem a Deed for the community. The community will then also participate in the engagement minting like any other Deed.
+Thus, the community will function as an example of a Deed, offering a standard set of services provided by the association. The association stakes Meeds in order to redeem a Deed for the community. The community will then also participate in the engagement minting like any other Deed. The association stakes Meeds in order to redeem a Deed for the community. The community will then also participate in the engagement minting like any other Deed.
 
 After the minting period is over, the association will be sustained by :
 
@@ -54,7 +54,7 @@ Investors help creating the WoM by providing liquidity and by staking Meeds and 
 
 Every member also has the right to directly purchase a large amount of Meeds at a discount. The amount wired to the association account is converted to ETH and added along with the equivalent value of Meeds to the Liquidity Pool. The amount wired to the association account is converted to ETH and added along with the equivalent value of Meeds to the Liquidity Pool. The amount wired to the association account is converted to ETH and added along with the equivalent value of Meeds to the Liquidity Pool.
 
-**Staking / long-term investment** To encourage long term investment, staked Meeds are rewarded. When Meeds are staked, the staker gets some xMeeds tokens. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings. In practice, minted Meeds are effectively added to the holdings of the xMeeds smart contract and distributed to the xMeeds holder when they unstake.
+**Staking / long-term investment** To encourage long term investment, staked Meeds are rewarded. When Meeds are staked, the staker gets some xMeeds tokens. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings. In practice, minted Meeds are effectively added to the holdings of the xMeeds smart contract and distributed to the xMeeds holder when they unstake. When Meeds are staked, the staker gets some xMeeds tokens. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings. In practice, minted Meeds are effectively added to the holdings of the xMeeds smart contract and distributed to the xMeeds holder when they unstake.
 
 By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. Each staked Meeds (xMeeds) grants its owner a number of points per day. The longer the vested period the higher the number of points obtained per xMeeds. Each Deed is then redeemed in exchange for a number of points.
 
@@ -77,13 +77,14 @@ Meeds token holders need to stake tokens in order to vote on the Meeds DAO decis
 
 The Work Metaverse will introduce the blockchain world to many people who do not use it today.
 
-Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
+Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
 
 Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
 
 - The ability to stake Meeds tokens and get yields (generate revenues)
 - The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a Fuse pool https://app.rari.capital/fuse then registering the Meeds token to AAVE - https://aave.com/).
-- A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. (This card could also be used by organizations to fund employee wallets in order to manage employee benefits such The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. (This card could also be used by organizations to fund employee wallets in order to manage employee benefits such The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. (This card could also be used by organizations to fund employee wallets in order to manage employee benefits such
-- as restaurants, transportation and any type of expenses.) as restaurants, transportation and any type of expenses.) as restaurants, transportation and any type of expenses.) So not only many new users will discover the blockchain world, they will also discover a bankless world.
+- A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. (This card could also be used by organizations to fund employee wallets in order to manage employee benefits such The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. (This card could also be used by organizations to fund employee wallets in order to manage employee benefits such The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. This card could also be used by organizations to fund employee wallets in order to manage employee benefits such as restaurants, transportation and any type of expenses.
+
+So not only many new users will discover the blockchain world, they will also discover a bankless world.
 
  
