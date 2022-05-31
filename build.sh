@@ -22,9 +22,18 @@ fi
 YAML=$CONTENT_PATH/title.yml
 if [[ -f "$YAML" ]]; then
     echo "Params loaded from $YAML"
+
+    ## workaround Crowdin stripping out --- at end of yaml
+    LL=`tail -n 1 $YAML`
+    if [  "$LL" != "---" ]; then
+        echo "Detected missing --- in metadata yaml. Appending... $LL"
+        echo "\n---" >> $YAML
+    fi
 else
     echo "warning : $YAML not found"
 fi
+
+
 
 MDOWN=$CONTENT_PATH/*.md
 echo "Processing content from $MDOWN"
