@@ -6,7 +6,7 @@ Le Work Metaverse est alimenté par sa propre monnaie - le jeton Meeds. Les Meed
 
 Le nombre maximal de Meeds est limité à 100 millions de jetons, émis progressivement. 5 millions de Meeds (5% de l’approvisionnement total) ont été émis à ce jour. Parmi ces 5M, 4.5M sont bloqués dans un contrat de vesting avec une acquisition linéaire sur 4 ans. Les sommes émises ont été principalement utilisées pour l'acquisition de propriété intellectuelle de logiciel, pour payer des frais juridiques et pour les services d'hébergement. Le reste fait partie des fonds de Meeds DAO et sera utilisé pour payer les services ainsi que certaines initiatives au lancement telles que des airdrops et des campagnes de parrainage.
 
-Les Meeds sont émis à une cadence de 10 Meeds par minute. Par conséquent, l'ensemble des Meeds seront émis environ au bout de 20 ans (10*60*24*365 Meeds sont émis chaque année).
+Les Meeds sont émis à une cadence de 10 Meeds par minute. Par conséquent, tous les Meeds seront émis sur une période d'environ 20 ans (10\*24\*365 Meeds par an).
 
 ## 3.2. Répartition de l'émission
 
@@ -43,12 +43,12 @@ Une fois la période d’émission terminée, l’association sera soutenue par 
 - les frais de transactions d'achat dans les boutiques
 - ses revenus en tant que fournisseur de liquidité
 - des commissions quand un Deed distribue des jetons autres que des Meeds via les services du WoM.
-- by operating the Deeds that the association minted over time.
+- les revenus degagés en opérant les Deeds qu'elle possède
 
 
 ## 3.5. Investisseurs
 
-Les investisseurs aident à créer le WoM en fournissant des liquidités et en investissant des Meeds. Cela assure de stabiliser son niveau de prix pendant la période de construction. Both are encouraged through minting.
+Les investisseurs aident à créer le WoM en fournissant des liquidités et en investissant des Meeds. Cela assure de stabiliser son niveau de prix pendant la période de construction. Ces deux mécanismes sont encouragés par des émissions de jetons.
 
 **Fournisseurs de liquidité** La gestion des liquidités de la devise est la clé du succès du projet et plusieurs stratégies de DeFi seront utilisées pour optimiser la performance du capital. Nous commencerons par des incitations à investir des jetons LP de la paire MEED/ETH. Puis nous introduirons des obligations pour que la liquidité soit progressivement détenue par le protocole. Ceci contribuera à la durabilité à long terme de l'association - comme mentionné ci-dessus, les commissions sur les transactions finançant en effet les frais de fonctionnement de l'association tels que les services d'hébergement.
 
@@ -82,8 +82,9 @@ En effet, tout travail (qu'il soit numérique ou pas) peut être gamifié et tou
 Au-delà du portefeuille et d'une boutique où ils peuvent acheter des avantages contre des Meeds, nous prévoyons de présenter à chaque utilisateur plusieurs produits alimentés par les protocoles de financement décentralisé, tels que :
 
 - La possibilité de placer des tokens Meeds et d'obtenir des rendements (générer des revenus)
-- La possibilité d'utiliser des jeton Meeds comme garantie pour emprunter des devises stables telles que l'USDC (en exploitant d'abord un pool Fuse https://app.rari.capital/fuse puis en enregistrant le jeton Meeds auprès d'AAVE - https://aave.com/) .
-- Une carte de paiement digitale qui peut être ajoutée et utilisée à travers Apple Pay, Google Pay ou tout autre Distributeur automatique. Cette dernière peut être fournie par le biais d'un partenariat avec VISA et tirera partie d'une ligne de crédit en USDC, garantie par des Meeds mis en gage. (Cette carte pourrait également être utilisée par les organisations pour financer les portefeuilles des employés afin de gérer les avantages sociaux tels que
-- les restaurants, le transport et tout type de dépenses.) Donc non seulement les nouveaux utilisateurs découvriront le monde de la blockchain, mais ils vont aussi découvrir un monde sans intermédiaire bancaire.
+- La possibilité d'utiliser des jetons Meeds comme garantie pour emprunter des devises stables telles que l'USDC (en exploitant d'abord un pool Fuse https://app.rari.capital/fuse puis en enregistrant le jeton Meeds auprès d'AAVE - https://aave.com/).
+- Une carte de paiement digitale qui peut être ajoutée et utilisée à travers Apple Pay, Google Pay ou tout autre Distributeur automatique. Cette dernière peut être fournie par le biais d'un partenariat avec VISA et tirera partie d'une ligne de crédit en USDC, garantie par des Meeds mis en gage. Cette carte pourrait également être utilisée par les organisations pour financer les portefeuilles des employés afin de gérer les avantages sociaux tels que les restaurants, le transport et tout type de dépenses.
+
+Donc non seulement les nouveaux utilisateurs découvriront le monde de la blockchain, mais ils vont aussi découvrir un monde sans intermédiaire bancaire.
 
  
