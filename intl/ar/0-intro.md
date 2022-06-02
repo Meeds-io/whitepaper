@@ -31,11 +31,11 @@
 
 باتباع أعمال R. Coase < 0 > < 1 > 5 </1> </0>، يربط معظم الاقتصاديين مفهوم المؤسسة بضرورة التخفيف من تكاليف المعاملات. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs[^6] started this process focusing on lowering the cost of transactions for capital sourcing and governance. و تهدف WoM إلى زيادة دفع هذا المنطق إلى أبعد من ذلك عن طريق خفض تكلفة معاملات العمل. و يقترح عالمًا لا مركزيًا حيث يمكن إجراء مطابقة الوظائف والمهارات بشكل موضوعي وسريع وعالمي.
 
-The first DAOs flatten the hierarchies and open ownership. The WoM pursues this logic by reinventing rather than suppressing the employer/employee relationship. It introduces a transparent, objective and decentralized reward paradigm, that would sustainably align the employer and the employee interests.
+تقوم أولى عمليات دأو بتسوية التسلسلات الهرمية وفتح الملكية. تتبع نموذج "ميتافرس العمل" " the WOM" هذا المنطق من خلال إعادة اختراع علاقة صاحب العمل / الموظف بدلاً من قمعها. و هو يقدم نموذجًا شفافًا وموضوعيًا ولا مركزيًا للمكافأة ، من شأنه أن يوفق بشكل مستدام بين صاحب العمل ومصالح الموظفين.
 
-Finally, the Work Metaverse bridges the gap between corporations and the DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. On the other hand, it proposes sustainable ways to operate and create value for DAOs. Ultimately, the WoM could be among the first mainstream applications to democratize the use of the blockchain for every company and every employee – including non-digital ones.
+أخيرًا ، يسد نموذج "ميتافرس العمل" الفجوة بين الشركات و DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. من ناحية أخرى، يقترح طرقًا مستدامة للعمل وخلق قيمة لـ DAOs. Ultimately, the WoM could be among the first mainstream applications to democratize the use of the blockchain for every company and every employee – including non-digital ones.
 
-As with any decentralized venture, the WoM proposal gains in value exponentially as more people use it. For that reason, founders took great care to encourage long term interest and avoid monopolizing the WoM benefits, whether short term or long term. It is an open paradigm, still to be built, and open to active creative participation from everyone.
+وكما هو الحال مع أي مشروع لامركزي، يكتسب اقتراح "WoM" القيمة بصورة مطردة مع زيادة عدد الناس الذين يستخدمونها. لهذا السبب ، حرص المؤسسون بشدة على تشجيع الاهتمام على المدى الطويل وتجنب احتكار مزايا WoM ، سواء على المدى القصير أو المدى الطويل. وهو نموذج مفتوح لا يزال يتعين بناؤه، ومفتوح للمشاركة الخلاقة النشطة من الجميع.
 
 
 [^1]: Young S., “Transaction Cost Economics”
