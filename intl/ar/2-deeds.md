@@ -1,17 +1,17 @@
 
-# 2. Deeds NFT - Work Metaverse Organizations
+# 2. الأعمال NFT - منظمات ميتافرس العمل (Deeds NFT - Work Metaverse Organizations)
 
-## 2.1. NFT – Deeds defined
+## 2.1. NFT - تعريف السندات
 
-A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+الرمز غير القابل للاستبدال (NFT) هو رمز مميز فريد يمثل سلعة. في WoM ، يتم استخدام السند كحق ملكية. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
 
-The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM.
+ترحب WoM بجميع أنواع المنظمات - DAOs ، والشركات التقليدية ، والجمعيات ، ومراكز البحث ، والشراكات ، والشركات المسرحية ، ومجموعات المشاريع ، والمدارس ، إلخ.  يمثل السند وجودهم الرقمي في WoM.
 
-## 2.2. Deeds supply
+## 2.2. توصيل السندات
 
-The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of Meeds rewarding (Minting Power). The term ‘user’ here and hereafter designates any type of employee, worker, freelancer, volunteer etc.
+ستقوم WoM في النهاية بتزويد كمية محدودة من السندات. يتضمن كل سند عددًا أقصى محددًا مسبقًا من المستخدمين ويوفر سعة الميدز مجزية (Minting Power). يشير مصطلح "المستخدم" هنا وفيما يلي إلى أي نوع من الموظفين ، أو العاملين ، أو العاملين لحسابهم الخاص ، أو المتطوعين ، إلخ.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
+هناك أربعة أنواع من السندات، كل منها يوفر قدرات مختلفة من حيث عدد المستخدمين، وحقوق التصويت في المدينة (انظر 2.7) أو قوة سك الميدز، والأندر هو الأقوى:
 
 | **نوع السند** | **الحد الأقصى للمستخدمين** | **قوة السك** | **النُدرة** | **حقوق التصويت للمدينة** |
 | ------------- | -------------------------- | ------------ | ----------- | ------------------------ |
@@ -38,13 +38,13 @@ There are four types of Deeds, each providing different capabilities in terms of
 
 بادئ ذي بدء ، يمكن استخدام الخدمات المجانية التالية التي تقدمها جمعية Meeds لمكافأة المشاركة:
 
-- Gamification engine – automatic actions within the WoM have a weight in points, that can be fine-tuned to the Deed’s priorities via customizable engagement programs.
-- Challenges – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
-- Customizable engagement programs - organizations can create their own engagement programs matching their business goals and priorities. Programs are associated to automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatics or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
-- الكودوس- يمكن منح الكودوس من قبل المستخدمين لبعضهم البعض، كشكر و رمز للاعتراف. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. وبهذه الطريقة يمكن للموظفين أن يكافئوا زملائهم.
-- Collaboration tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
-- Wallet – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
-- Store – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
+- محرك الألعاب - الإجراءات التلقائية داخل WoM لها وزن في النقاط، والتي يمكن ا وفقًا لأولويات السند من خلال برامج المشاركة القابلة للتخصيص.
+- التحديات - تحديات يمكن تخصيصها لتمثيل الانجازات. يتم تحديد التحديات مسبقًا من قبل شخص واحد ويمكن ملؤها بالكامل والإعلان عنها من قبل شخص آخر. تحمل التحديات وزنًا بالنقاط ، ضمن برامج المشاركة القابلة للتخصيص.
+- برامج المشاركة القابلة للتخصيص - يمكن للمنظمات إنشاء برامج المشاركة الخاصة بها التي تتوافق مع أهداف وأولويات أعمالها. وترتبط البرامج بالإجراءات التلقائية داخل النظام وتعيين التحديات يدويًا. كل برنامج لديه ميزانية ميدز محددة. يتم تحويل النقاط التي يربحها كل مستخدم بشكل دوري من خلال العمليات التلقائية أو الإجراءات المعلنة في كل برنامج تفاعل إلى Meeds ، بناءً على ميزانية ذلك البرنامج.
+- الكودوس- يمكن منح الكودوس من قبل المستخدمين لبعضهم البعض، كشكر و رمز للاعتراف. نظرًا لأن االكيدوسات المتاحة للتوزيع محدودة (حد دوري محدد مسبقًا ، 3 في الأسبوع على سبيل المثال) ، فهي نادرة وقيمة. مثل الأفعال، يحمل الكودوس نقاط. وبهذه الطريقة يمكن للموظفين أن يكافئوا زملائهم.
+- أدوات التعاون الموصولة بالمحرك المجزي - مساحات العمل والاتصال غير المتزامن وأداة إدارة المهام والملاحظات - تمكن الأشخاص من العمل معًا في المشاريع.
+- المحفظة - يتم تزويد المستخدمين بمحفظة تقنية Ethereum آمنة لتخزين ميدز الخاصة بهم. وبدلاً من ذلك ، بالنسبة للمستخدمين المتقدمين ، يمكن استخدام محفظة Metamask.
+- المتجر - متجر حيث يمكن استبدال Meeds بالامتيازات التي يقدمها مالك السند أو المستأجر أو نظام Meeds البيئي.
 - Analytics – to analyze and follow engagement within the Deed.
 - Connectors, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
 
