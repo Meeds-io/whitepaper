@@ -25,7 +25,7 @@ if [[ -f "$YAML" ]]; then
     ## workaround Crowdin stripping out ... at end of yaml
     LL=`tail -n 1 $YAML`
     if [  "$LL" != "..." ]; then
-        echo "...\n" >> $YAML
+        echo "\n..." >> $YAML
         echo "WARN : Detected and fixed missing ... at the end of $YAML."
     fi
 else
