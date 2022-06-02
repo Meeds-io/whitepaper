@@ -13,30 +13,30 @@ The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a p
 
 There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
 
-| **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **حقوق التصويت للمدينة** |
-| ------------- | ------------- | ----------------- | ------------ | ------------------------ |
-| Common        | 100           | 1                 | ~ 90%        | 1                        |
-| Uncommon      | 1000          | 1.1               | ~ 9%         | 10                       |
-| نادر          | 10 000        | 1.3               | ~ 1%         | 100                      |
-| اسطوري        | غير محدود     | 2                 | < 0.1 %      | 1000                     |
+| **نوع السند** | **الحد الأقصى للمستخدمين** | **قوة السك** | **النُدرة** | **حقوق التصويت للمدينة** |
+| ------------- | -------------------------- | ------------ | ----------- | ------------------------ |
+| مشترك         | 100                        | 1            | ~ 90%       | 1                        |
+| غير مألوف     | 1000                       | 1.1          | ~ 9%        | 10                       |
+| نادر          | 10 000                     | 1.3          | ~ 1%        | 100                      |
+| اسطوري        | غير محدود                  | 2            | < 0.1 %     | 1000                     |
 
-## 2.3. Deeds ownership
+## 2.3. ملكية السندات
 
-A Deed gives its owner the right to USE it, RENT it, or SELL it.
+يمنح السند صاحبه الحق في استخدامه أو تأجيره أو بيعه.
 
 - USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
 - RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
-- SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
+- البيع - يمكن بيع سند في سوق ثانوي مثل [ OpenSea ](https://opensea.io).
 
-Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
+نظرًا لكونها مالكًا نشطًا أو مستأجرًا لسند ما ، فإن المنظمة تكافأ بMeeds ، من خلال نموذج "مينتيوم" المبتكر الموضح أدناه (الجزء 2.6).
 
-## 2.4. Deeds services, engagement/rewards engine
+## 2.4. خدمات السندات، محرك المشاركة/المكافآت
 
-In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
+وفي سوق تزداد فيها المنافسة، ومن أجل اجتذاب المواهب والاحتفاظ بها وزيادة مدخلاتها إلى أقصى حد، تحتاج المنظمات إلى تحفيز مستخدميها بما يتجاوز مجرد التعويض. يوفر WoM إطارًا مبتكرًا للقيام بذلك من خلال ترميز المشاركة في العمل.
 
-Each Deed’s holder or renter can provide tools and services to its users, who earn engagement points that can be fine-tuned to the Deed’s priorities. Periodically, points are converted into Meeds (and - for DAOs - potentially another token), based on the Deed’s set budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
+يمكن لكل صاحب سند أو مستأجر توفير الأدوات والخدمات لمستخدميه ، الذين يربحون نقاط مشاركة يمكن ضبطها وفقًا لأولويات السند. بشكل دوري ، يتم تحويل النقاط إلى Meeds (و- بالنسبة إلى DAOs - يحتمل أن يكون رمزًا آخر) ، بناءً على الميزانية المحددة للسند. بهذه الطريقة ، تتم مكافأة مشاركة المستخدمين في الأنشطة التي تهم المنظمة.
 
-To begin with, the following free services provided by the Meeds association can be used to reward engagement:
+بادئ ذي بدء ، يمكن استخدام الخدمات المجانية التالية التي تقدمها جمعية Meeds لمكافأة المشاركة:
 
 - Gamification engine – automatic actions within the WoM have a weight in points, that can be fine-tuned to the Deed’s priorities via customizable engagement programs.
 - Challenges – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
@@ -122,15 +122,15 @@ In the WoM, Deeds will be generated gradually inside virtual cities. Only the fi
 
 A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start 2<sup>n</sup> months after the last Deed of the n-1 city was minted.
 
-| **City name**    | **Deeds**   | **Available**        | **Common** | **Uncommon** | **نادر**  | **اسطوري** |
-| ---------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ---------- |
-| City 1: Tanit    | 100         | T0                   | 50         | 30           | 13        | 7          |
-| City 2: Reshef   | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6          |
-| City 3: Ashtarte | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5          |
-| City 4: Melqart  | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4          |
-| City 5: Eshmun   | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3          |
-| City 6: Kushor   | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2          |
-| City 7: Hammon   | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1          |
+| **City name**    | **Deeds**   | **Available**        | **مشترك**  | **غير مألوف** | **نادر**  | **اسطوري** |
+| ---------------- | ----------- | -------------------- | ---------- | ------------- | --------- | ---------- |
+| City 1: Tanit    | 100         | T0                   | 50         | 30            | 13        | 7          |
+| City 2: Reshef   | 1 000       | Tanit + 4 months     | 600        | 300           | 94        | 6          |
+| City 3: Ashtarte | 10 000      | Reshef + 8 months    | 6 000      | 3 000         | 995       | 5          |
+| City 4: Melqart  | 100 000     | Ashtarte + 16 months | 60 000     | 30 000        | 9 996     | 4          |
+| City 5: Eshmun   | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000       | 99 997    | 3          |
+| City 6: Kushor   | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000     | 999 998   | 2          |
+| City 7: Hammon   | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000    | 9 999 999 | 1          |
 
 A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
 
