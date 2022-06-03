@@ -69,13 +69,10 @@ Points are calculated using the formula below :
 
  where :
 
-- $xMeeds$ : balance of xMeeds with no decimals
-- $T$ : Time the xMeeds have been held in by the wallet
+- $xMeeds$ : xMeeds balance  with no decimals
+- $T$ : Time elapsed in milliseconds
 
-The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably.
-
-Based on the formula, here are some example of points accumulation rate for different xMeeds holders size:
-
+The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably. For example, the formula gives the following rates :
 
 | **Holder Size** | **Holdings**   | **Accrue Rate** |
 | --------------- | -------------- | --------------- |
@@ -84,15 +81,14 @@ Based on the formula, here are some example of points accumulation rate for diff
 | Large           | 100 000 xMeeds | 321 pts/day     |
 
 
-And so to get an idea of how long you'll need to hold your xMeeds to redeem a deed, check out this table :
+which leads to the following holding time for each class of holder :
 
-
-| **Card Type** | **Points** | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ------------- | ---------- | ---------------- | ----------------- | ---------------- |
-| Common        | 8 000      | 25 days          | 49 days           | 9 months         |
-| Uncommon      | 32 000     | 100 days         | 6 months          | 3 years          |
-| Rare          | 50 000     | 156 days         | 10 months         | 5 years          |
-| Legendary     | 100 000    | 311 days         | 20 months         | 10 years         |
+| **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
+| ------------- | ----------- | ---------------- | ----------------- | ---------------- |
+| Common        | 8 000 pts   | 25 days          | 49 days           | 9 months         |
+| Uncommon      | 32 000 pts  | 100 days         | 6 months          | 3 years          |
+| Rare          | 50 000 pts  | 156 days         | 10 months         | 5 years          |
+| Legendary     | 100 000 pts | 311 days         | 20 months         | 10 years         |
 
 ## 3.6. Meeds DAO governance
 

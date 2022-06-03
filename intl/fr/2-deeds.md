@@ -106,17 +106,17 @@ Où :
 L’index global d’engagement utilisé pour distribuer les Meeds aux Deeds est la somme des scores d’engagement de tous les Deeds sur la semaine.
 
 
-La formule plus haut est simple et elle est conçue pour privilégier les Deeds qui :
+La formule ci-dessus est simple et elle est conçue pour privilégier les deeds qui :
 
 - ont de nombreux utilisateurs engagés (engagement)
-- partagent l’ensemble du revenu produit (taux de distribution) avec leurs utilisateurs de manière équitable (Répartition de la distribution).
+- partagent l’ensemble du revenu de récompense (taux de distribution) avec leurs utilisateurs de manière équitable (répartition de la distribution).
 
-Des abondements sont en place :
+En outre, des bonus existent pour :
 
-- Pour les organisations avec un fort taux d’engagement, peu importe leur taille (taux d’engagement associé au WoM)
-- Pour les Deeds rares
+- les deeds avec un fort taux d’engagement, peu importe leur taille (taux d’engagement du WoM)
+- les deeds les plus rares
 
-L’association se réserve le droit de changer la formule si besoin – si de nouveaux cas d’usage spécifiques sont identifiés par exemple. L’association peut également exclure tout Deed qui détournerait la formule pour son propre bénéfice.
+> L’association se réserve le droit de changer la formule si besoin – si de nouveaux cas d’usage spécifiques sont identifiés par exemple. L’association peut également exclure tout Deed qui détournerait la formule pour son propre bénéfice.
 
 Comme les Deeds sont récompensés avec les Meeds et qu’ils sont incités à en redistribuer aux utilisateurs en échange de leur engagement, les intérêts des Deeds et des utilisateurs sont alignés dans un même cycle vertueux de partage des revenus. Ainsi, le WoM offre un nouveau modèle du travail, qui reconfigure la relation employeur/employé en partenariat.
 
