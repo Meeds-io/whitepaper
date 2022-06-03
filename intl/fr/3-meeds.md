@@ -69,13 +69,10 @@ Les points sont calculés en utilisant la formule ci-dessous :
 
  où :
 
-- $xMeeds$ : solde de xMeeds sans décimales
-- $T$ : La durée pendant laquelle les xMeeds ont été détenus par le portefeuille
+- $xMeeds$ : solde de xMeeds balance  sans décimales
+- $T$ : Temps écoulé en millisecondes
 
-La formule évite de privilégier les grands détenteurs afin de distribuer les Deeds plus efficacement et plus équitablement.
-
-En se basant sur cette formule, voici quelques exemples de rythme d'accumulation de points en fonction du nombre de xMeeds détenus :
-
+La formule évite de privilégier les grands détenteurs afin de distribuer les Deeds plus efficacement et plus équitablement. Par exemple, la formule donne les rythmes suivants :
 
 | **Taille Porteur** | **Avoirs**     | **Rythme d'accumulation** |
 | ------------------ | -------------- | ------------------------- |
@@ -84,15 +81,14 @@ En se basant sur cette formule, voici quelques exemples de rythme d'accumulation
 | Grand              | 100 000 xMeeds | 321 pts/jour              |
 
 
-Et pour vous donner une idée du temps qu'il faudra conserver vos xMeeds pour acquérir un deed, consultez ce tableau :
+ce qui donne la durée de détention suivante pour chaque classe de porteur :
 
-
-| **Type de carte** | **Points** | **Grand** | **Moyen** | **Petit** |
-| ----------------- | ---------- | --------- | --------- | --------- |
-| Commun            | 8 000      | 25 jours  | 49 jours  | 9 mois    |
-| Peu commun        | 32 000     | 100 jours | 6 mois    | 3 ans     |
-| Rare              | 50 000     | 156 jours | 10 mois   | 5 ans     |
-| Légendaire        | 100 000    | 311 jours | 20 mois   | 10 ans    |
+| **Type de carte** | **Coût**    | **Grand** | **Moyen** | **Petit** |
+| ----------------- | ----------- | --------- | --------- | --------- |
+| Commun            | 8 000 pts   | 25 jours  | 49 jours  | 9 mois    |
+| Peu commun        | 32 000 pts  | 100 jours | 6 mois    | 3 ans     |
+| Rare              | 50 000 pts  | 156 jours | 10 mois   | 5 ans     |
+| Légendaire        | 100 000 pts | 311 jours | 20 mois   | 10 ans    |
 
 ## 3.6. Gouvernance Meeds DAO
 
