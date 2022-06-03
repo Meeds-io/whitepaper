@@ -4,7 +4,7 @@ Le Work Metaverse est alimenté par sa propre monnaie - le jeton Meeds (MEED). L
 
 ## 3.1. Tokenomics
 
-Le **nombre maximal de Meeds est limité à 100 millions de jetons**, qui seront émis progressivement. Les Meeds sont émis à un **rythme de 10 MEED par minute**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).
+Le **nombre maximal de Meeds est limité à 100 millions de jetons**, qui seront émis progressivement. Les Meeds sont émis à un **rythme de 10 MEED par minute**. Par conséquent, l'ensemble des meeds seront émis dans près de 20 ans (puisque près de $10*60*24*365 = 5M$ de nouveaux meeds seront émis chaque année).
 
 5 millions de Meeds (5% de l’approvisionnement total) ont été émis à ce jour. Parmi lesquels, 4.5 M sont bloqués dans un contrat de vesting avec une acquisition linéaire sur 4 ans. Les sommes émises ont été principalement utilisées pour l'acquisition de propriété intellectuelle de logiciel, pour payer des frais juridiques et pour les services d'hébergement.
 
@@ -74,25 +74,25 @@ Les points sont calculés en utilisant la formule ci-dessous :
 
 La formule évite de privilégier les grands détenteurs afin de distribuer les Deeds plus efficacement et plus équitablement.
 
-Based on the formula, here are some example of points accumulation rate for different xMeeds holders size:
+En se basant sur cette formule, voici quelques exemples de rythme d'accumulation de points en fonction du nombre de xMeeds détenus :
 
 
-| **Holder Size** | **Holdings**   | **Accrue Rate** |
-| --------------- | -------------- | --------------- |
-| Small           | 1 000 xMeeds   | 28 pts/day      |
-| Medium          | 10 000 xMeeds  | 164 pts/day     |
-| Large           | 100 000 xMeeds | 321 pts/day     |
+| **Taille Porteur** | **Avoirs**     | **Rythme d'accumulation** |
+| ------------------ | -------------- | ------------------------- |
+| Petit              | 1 000 xMeeds   | 28 pts/jour               |
+| Moyen              | 10 000 xMeeds  | 164 pts/jour              |
+| Grand              | 100 000 xMeeds | 321 pts/jour              |
 
 
-And so to get an idea of how long you'll need to hold your xMeeds to redeem a deed, check out this table :
+Et pour vous donner une idée du temps qu'il faudra conserver vos xMeeds pour acquérir un deed, consultez ce tableau :
 
 
-| **Type de carte** | **Points** | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ----------------- | ---------- | ---------------- | ----------------- | ---------------- |
-| Commun            | 8 000      | 25 days          | 49 days           | 9 mois           |
-| Peu commun        | 32 000     | 100 days         | 6 mois            | 3 ans            |
-| Rare              | 50 000     | 156 days         | 10 mois           | 5 ans            |
-| Légendaire        | 100 000    | 311 days         | 20 mois           | 10 ans           |
+| **Type de carte** | **Points** | **Grand** | **Moyen** | **Petit** |
+| ----------------- | ---------- | --------- | --------- | --------- |
+| Commun            | 8 000      | 25 jours  | 49 jours  | 9 mois    |
+| Peu commun        | 32 000     | 100 jours | 6 mois    | 3 ans     |
+| Rare              | 50 000     | 156 jours | 10 mois   | 5 ans     |
+| Légendaire        | 100 000    | 311 jours | 20 mois   | 10 ans    |
 
 ## 3.6. Gouvernance Meeds DAO
 
