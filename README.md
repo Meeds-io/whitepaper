@@ -1,4 +1,4 @@
-This repository contains the source and Translations for the [Work Metawerse Whitepaper](https://mirror.xyz/meedsdao.eth/EDh9QfsuuIDNS0yKcQDtGdXc25vfkpnnKpc3RYUTJgc).
+This repository contains the source and translations for the [Work Metaverse Whitepaper](https://mirror.xyz/meedsdao.eth/EDh9QfsuuIDNS0yKcQDtGdXc25vfkpnnKpc3RYUTJgc).
 
 
 ## :trophy: Contribute ##
@@ -21,11 +21,11 @@ You can use the build script to generate a PDF version of the whitepaper in any 
 * [Pandoc](https://pandoc.org/)
 * [BasicTeX](https://tug.org/mactex/morepackages.html)
 
-*Usage :* ```./compile-pdf.sh [lang]```
+*Usage :* ```./build.sh [lang]```
  
- - ```lang``` (default=en) : the 2-characters code of the language
+ - ```lang``` (default=en) : the 2-characters code of the language (Check the list of subfolders under ```intl/```)
 
- The resulting document is generated under build/meeds-whitepaper-$lang.pdf
+ The resulting document is generated under ```build/meeds-whitepaper-$lang.pdf```
 
 ## :sparkling_heart: Credits ##
 
