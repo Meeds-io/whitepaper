@@ -1,13 +1,14 @@
 ---
 title: Meeds DAO - The Work Metaverse
 date: May 1st, 2022 ‐ Version 1.0
+toc-title: Table of Contents
 language: ja
-lof: true
-lof-own-page: true
 toc-own-page: true
 titlepage: true
-titlepage-text-color: "333333"
-titlepage-rule-color: "00737C"
+titlepage-text-color: "000000" ## black
+titlepage-rule-color: "3F8487" ## deep green
+titlepage-color: "FFFFFF"
+titlepage-logo: img/meeds-logo-text-pink.jpg
 papersize: letter
 colorlinks: true
 book: true
