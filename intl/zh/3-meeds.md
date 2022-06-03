@@ -4,7 +4,7 @@ The Work Metaverse is powered by its currency – the Meeds (MEED) token. Meeds 
 
 ## 3.1. Tokenomics
 
-The Meeds **maximum supply is limited to 100 million tokens**, minted progressively. **Meeds are minted at the rate of 10 MEED per minute**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M $ Meeds are minted per year).
+The Meeds **maximum supply is limited to 100 million tokens**, minted progressively. **Meeds are minted at the rate of 10 MEED per minute**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).
 
 5 Million Meeds (5% of total supply) have been pre-minted to date. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services.
 
@@ -74,7 +74,25 @@ Points are calculated using the formula below :
 
 The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably.
 
-+-----------------+--------------+-------------------+------------------+-----------------+ | **Card Type**   | **Points**   | **100k xMeeds** \ | **10k xMeeds** \ | **1k xMeeds** \ | |                 |              | (321 pts / day)   | (164 pts / day)  | (28 pts / day)  | +=================+==============+===================+==================+=================+ | Common          | 8 000        | 1 month \         | 2 months \       | 9 months        | |                 |              | (25 days)         | (49 days)        |                 | +-----------------+--------------+-------------------+------------------+-----------------+ | Uncommon        | 32 000       | 3 months \        | 6 months         | 3 years         | |                 |              | (100 days)        |                  |                 | +-----------------+--------------+-------------------+------------------+-----------------+ | Rare            | 50 000       | 5 months \        | 10 months \      | 5 years         | |                 |              | (156 days)        |                  |                 | +-----------------+--------------+-------------------+------------------+-----------------+ | Legendary       | 100 000      | 10 months \       | 20 months \      | 10 years        | |                 |              | (311 days)        |                  |                 | +-----------------+--------------+-------------------+------------------+-----------------+
+Based on the formula, here are some example of points accumulation rate for different xMeeds holders size:
+
+
+| **Holder Size** | **Holdings**   | **Accrue Rate** |
+| --------------- | -------------- | --------------- |
+| Small           | 1 000 xMeeds   | 28 pts/day      |
+| Medium          | 10 000 xMeeds  | 164 pts/day     |
+| Large           | 100 000 xMeeds | 321 pts/day     |
+
+
+And so to get an idea of how long you'll need to hold your xMeeds to redeem a deed, check out this table :
+
+
+| **Card Type** | **Points** | **Large Holder** | **Medium Holder** | **Small Holder** |
+| ------------- | ---------- | ---------------- | ----------------- | ---------------- |
+| Common        | 8 000      | 25 days          | 49 days           | 9 months         |
+| Uncommon      | 32 000     | 100 days         | 6 months          | 3 years          |
+| Rare          | 50 000     | 156 days         | 10 months         | 5 years          |
+| Legendary     | 100 000    | 311 days         | 20 months         | 10 years         |
 
 ## 3.6. 3.6. 3.6. Meeds DAO governance
 
