@@ -30,7 +30,7 @@ Le diagramme ci-dessous représente un exemple de la stratégie d'investissement
 
 ![Stratégie d'investissement des Meeds pour les capitaux](en/img/invest-capital.png)
 
-Les organisations peuvent bien sûr participer à des pools de liquidités, mais aussi rejoindre la communauté des bâtisseurs et y obtenir des récompenses d'engagement supplémentaires.
+Organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
 
 Le diagramme ci-dessous représente un exemple de la stratégie d'investissement Meeds pour les travailleurs :
 
@@ -38,7 +38,7 @@ Le diagramme ci-dessous représente un exemple de la stratégie d'investissement
 
 ## 5.3. Le lancement
 
-La date de lancement officielle est fixée au 1er mai 2022 – la Journée internationale des travailleurs, célébrée dans de nombreux pays.
+The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
 
 Le jeton Meed existe d'ores et déjà. Il est possible de l’acquérir sur les réseaux Polygon et Ethereum dans lesquels des pools de liquidité sont mis à disposition.
 
@@ -48,7 +48,7 @@ L'application Investors est disponible sur le réseau Ethereum Mainnet. Au lance
 
 La communauté des bâtisseurs fonctionne grâce au logiciel Meeds, ouvert à tous ceux qui voudraient la rejoindre, l'essayer et s'y impliquer. Il est possible de se connecter avec Metamask.
 
-Ce document sera publié le jour du lancement. Suite au lancement, le jeton sera offert à nombreuses personnes dans la communauté des cryptomonnaies.
+This paper was published on the launch day. Suite au lancement, le jeton sera offert à nombreuses personnes dans la communauté des cryptomonnaies.
 
 ## 5.4. La communauté des bâtisseurs
 
@@ -75,12 +75,12 @@ L'émission de la totalité des Meeds aura lieu progressivement sur une période
 Que pouvez-vous faire dès maintenant pour participer ?
 
 - Diffuser ce document à ceux qui seraient intéressés
-- Visiter notre site https://www.meeds.io
-- Découvrir l'application Investors
+- Visit our website [meeds.io](https://www.meeds.io/)
+- Check out the [Investor app](https://meeds.io/investors)
 - Contribuer aux pools de liquidité existants sur :
-  - Cometh Swap (Polygon)
-  - Sushi Swap
-- Rejoindre notre communauté sur Discord pour rester dans la boucle
-- Rejoindre notre communauté des bâtisseurs pour essayer le logiciel Meeds, vous engager en contribuant au projet et gagner des Meeds en récompense
+  - [Cometh Swap (Polygon)](https://swap.cometh.io/)
+  - [Sushi Swap](https://sushi.com)
+- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
+- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
 
 **\*\*\* Le Work Metaverse - Construisons le monde de demain ensemble. \*\*\***
