@@ -30,7 +30,7 @@ The diagram below represents an example of the Meeds investment strategy for cap
 
 ![Meeds investment strategy for capital holders](en/img/invest-capital.png)
 
-organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
+Organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
 
 The diagram below represents an example of the Meeds investment strategy for work holders :
 
@@ -38,7 +38,7 @@ The diagram below represents an example of the Meeds investment strategy for wor
 
 ## 5.3. The launch
 
-The official launch date is set as for May 1st, 2022 – the International Workers Day, celebrated in many countries.
+The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
 
 At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
 
@@ -48,7 +48,7 @@ The Investor app is available on Ethereum Mainnet. At launch, it includes stakin
 
 The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
 
-This paper is to be published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
+This paper was published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
 
 ## 5.4. The builders community
 
@@ -75,12 +75,12 @@ Meeds minting spans a 20 year period. By that time, we aspire to have achieved b
 What can you do right now to participate?
 
 - Spread this paper to those who would be interested
-- Visit our website https://www.meeds.io/
-- Check out the Investor app
+- Visit our website [meeds.io](https://www.meeds.io/)
+- Check out the [Investor app](https://meeds.io/investors)
 - Contribute to the existing liquidity pools here :
-  - Cometh Swap
-  - Sushi Swap
-- Join our discord community to be kept in the loop
-- Join our Builders community to test the Meeds software, engage and earn some Meeds engagement rewards
+  - [Cometh Swap](https://swap.cometh.io/)
+  - [Sushi Swap](https://sushi.com)
+- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
+- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
 
 **\*\*\* The Work Metaverse - let’s build this crazy future world together. \*\*\***

@@ -38,15 +38,15 @@ Each Deed’s holder or renter can provide tools and services to its users, who 
 
 To begin with, the following free services provided by the Meeds association can be used to reward engagement:
 
-- Gamification engine – automatic actions within the WoM have a weight in points, that can be fine-tuned to the Deed’s priorities via customizable engagement programs.
-- Challenges – customizable challenges can be set up to represent achievements. Challenges – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs. Challenges carry a weight in points, within customizable engagement programs. Challenges – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs. Challenges carry a weight in points, within customizable engagement programs. Challenges – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs. Challenges carry a weight in points, within customizable engagement programs.
-- Customizable engagement programs - organizations can create their own engagement programs matching their business goals and priorities. Programs are associated to automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatics or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
-- Kudos - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
-- Collaboration tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
-- Wallet – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used. Alternatively, for advanced users, a Metamask wallet can be used. Alternatively, for advanced users, a Metamask wallet can be used.
-- Store – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
-- Analytics – to analyze and follow engagement within the Deed.
-- Connectors, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
+- **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the Deed’s priorities via customizable engagement programs.
+- **Challenges** – customizable challenges can be set up to represent achievements. Challenges – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs. Challenges carry a weight in points, within customizable engagement programs.
+- **Customizable engagement programs** - organizations can create their own engagement programs matching their business goals and priorities. Programs are associated to automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatics or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
+- **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
+- **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
+- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
+- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
+- **Analytics** – to analyze and follow engagement within the Deed.
+- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
 
 Some of the afore-mentioned tools and services are already decentralized, others are not. Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves. Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves. Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
 
@@ -66,7 +66,7 @@ The Deed’s holder or renter can enrich its store with its own perks, connect t
 - Vacation packages
 - Lunch with a leader in the organization
 - Physical office space
-- Etc
+- Etc.
 
 The store functions through the use of Meeds so that Meeds are partially returned to the Deed.
 
@@ -88,17 +88,23 @@ Engagement points, gained by the Deeds’ users, participate in the global engag
 
 Each week, a certain amount of Meeds is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Deeds. Some Deeds get an additional boost depending on their type. The Deeds that claim their Meeds over the week, receive them. The unclaimed Meeds are added to the following week’s global distribution amount.
 
-The engagement index is a function of the engagement, the number of engaged users and the distribution.
+The engagement score _S_  of a Deed is a function of the engagement, the number of engaged users and the distribution :
 
-- **Engagement** – total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized). (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized). (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
-- **Engaged users** – users that contributed to points during the week, by at least one action.
-- **Average Engagement Rate** = Engagement/Engaged Users.
-- **Distribution rate** – if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time. The % can be above 100 if the distribution is delayed in time. The % can be above 100 if the distribution is delayed in time.
-- **Distribution spread** – if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
+$$S = (E_d / E_w) * D_r * D_s * M$$
 
-**Deed’s Engagement Score = Engagement * (Average Engagement Rate Deed / Average Engagement Rate WoM) * Distribution rate * Distribution spread * Minting power**
+Where :
+
+- $A$ = _Activity_ - total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
+- $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
+- $E_d$ = _Engagement rate of the deed_ - actions per user ($A/U$)
+- $E_w$ = _Average engagement rate_ of all active Deeds in the WoM.
+- $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
+- $D_s$ =  _Distribution spread_ - if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
+- $M$ = _Minting Power_ of the Deed as defined in 2.3
+
 
 The global engagement index used to distribute minted Meeds among the Deeds is the sum of all Deeds’ engagement scores for the week.
+
 
 The formula above is simple and designed to favor Deeds with :
 
@@ -120,17 +126,17 @@ The “mintium” model is the first of a kind - it goes further than the tradit
 
 In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
 
-A city will be considered complete, once all of its Deeds have been minted. A city will be considered complete, once all of its Deeds have been minted. A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start 2<sup>n</sup> months after the last Deed of the n-1 city was minted.
+A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
 
-| **City name**    | **Deeds**   | **Available**        | **Common** | **Uncommon** | **Rare**  | **Legendary** |
-| ---------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
-| City 1: Tanit    | 100         | T0                   | 50         | 30           | 13        | 7             |
-| City 2: Reshef   | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
-| City 3: Ashtarte | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
-| City 4: Melqart  | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
-| City 5: Eshmun   | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
-| City 6: Kushor   | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
-| City 7: Hammon   | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
+| **City name** | **Deeds**   | **Available**        | **Common** | **Uncommon** | **Rare**  | **Legendary** |
+| ------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
+| 1: Tanit      | 100         | T0                   | 50         | 30           | 13        | 7             |
+| 2: Reshef     | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
+| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
+| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
+| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
+| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
+| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
 
 A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
 
@@ -140,4 +146,8 @@ For example, they could add a digital representation of their city, physical cou
 
 By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
 
-Ownsership transactions (Deed’s sales) will also be taxed 6% - 2.5% for the City, 2.5% for the Association and 1% for the original wallet that redeemed the Deed.
+Ownsership transactions (Deed’s sales) will also be taxed 6% :
+
+- 2.5% for the City,
+- 2.5% for the Association,
+- 1% for the original wallet that redeemed the Deed.

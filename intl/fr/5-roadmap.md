@@ -38,7 +38,7 @@ Le diagramme ci-dessous représente un exemple de la stratégie d'investissement
 
 ## 5.3. Le lancement
 
-La date de lancement officielle est fixée au 1er mai 2022 – la Journée internationale des travailleurs, célébrée dans de nombreux pays.
+La date de lancement officielle a été fixée symboliquement au </strong>1er mai 2022</0> – la Journée internationale des travailleurs, célébrée dans de nombreux pays.
 
 Le jeton Meed existe d'ores et déjà. Il est possible de l’acquérir sur les réseaux Polygon et Ethereum dans lesquels des pools de liquidité sont mis à disposition.
 
@@ -48,7 +48,7 @@ L'application Investors est disponible sur le réseau Ethereum Mainnet. Au lance
 
 La communauté des bâtisseurs fonctionne grâce au logiciel Meeds, ouvert à tous ceux qui voudraient la rejoindre, l'essayer et s'y impliquer. Il est possible de se connecter avec Metamask.
 
-Ce document sera publié le jour du lancement. Suite au lancement, le jeton sera offert à nombreuses personnes dans la communauté des cryptomonnaies.
+Ce document a été publié le jour du lancement. Suite au lancement, le jeton sera offert à nombreuses personnes dans la communauté des cryptomonnaies.
 
 ## 5.4. La communauté des bâtisseurs
 
@@ -75,12 +75,12 @@ L'émission de la totalité des Meeds aura lieu progressivement sur une période
 Que pouvez-vous faire dès maintenant pour participer ?
 
 - Diffuser ce document à ceux qui seraient intéressés
-- Visiter notre site https://www.meeds.io
-- Découvrir l'application Investors
+- Visitez notre site web [meeds.io](https://www.meeds.io/)
+- Consultez l'application [Investisseur](https://meeds.io/investors)
 - Contribuer aux pools de liquidité existants sur :
-  - Cometh Swap (Polygon)
-  - Sushi Swap
-- Rejoindre notre communauté sur Discord pour rester dans la boucle
-- Rejoindre notre communauté des bâtisseurs pour essayer le logiciel Meeds, vous engager en contribuant au projet et gagner des Meeds en récompense
+  - [Cometh Swap (Polygon)](https://swap.cometh.io/)
+  - [Sushi Swap](https://sushi.com)
+- Rejoignez notre communauté [Discord](https://discord.com/invite/hAuADSq3) pour rester dans la boucle
+- Rejoignez notre communauté [Constructeurs](https://meeds.io/builders) pour tester le logiciel Meeds, vous engager en contribuant au projet et gagner des meeds en récompense
 
 **\*\*\* Le Work Metaverse - Construisons le monde de demain ensemble. \*\*\***
