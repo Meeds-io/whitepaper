@@ -1,12 +1,15 @@
 # 3. Jeton Meeds - La monnaie du Work Metaverse
 
-Le Work Metaverse est alimenté par sa propre monnaie - le jeton Meeds. Les Meeds sont utilisés pour récompenser les utilisateurs (par le biais de programmes d'engagement), acheter dans les boutiques, obtenir des Deeds, obtenir des retours sur investissements, etc.
+Le Work Metaverse est alimenté par sa propre monnaie - le jeton Meeds (MEED). Les Meeds sont utilisés pour récompenser les utilisateurs (par le biais de programmes d'engagement), acheter dans les boutiques, obtenir des Deeds, obtenir des retours sur investissements, etc.
 
 ## 3.1. Tokenomics
 
-Le nombre maximal de Meeds est limité à 100 millions de jetons, émis progressivement. 5 millions de Meeds (5% de l’approvisionnement total) ont été émis à ce jour. Parmi ces 5M, 4.5M sont bloqués dans un contrat de vesting avec une acquisition linéaire sur 4 ans. Les sommes émises ont été principalement utilisées pour l'acquisition de propriété intellectuelle de logiciel, pour payer des frais juridiques et pour les services d'hébergement. Le reste fait partie des fonds de Meeds DAO et sera utilisé pour payer les services ainsi que certaines initiatives au lancement telles que des airdrops et des campagnes de parrainage.
+Le **nombre maximal de Meeds est limité à 100 millions de jetons**, qui seront émis progressivement. Les Meeds sont émis à un **rythme de 10 MEED par minute**. Par conséquent, l'ensemble des meeds seront émis dans près de 20 ans (puisque près de $10*60*24*365 = 5M$ de nouveaux meeds seront émis chaque année).
 
-Les Meeds sont émis à une cadence de 10 Meeds par minute. Par conséquent, tous les Meeds seront émis sur une période d'environ 20 ans (10\*24\*365 Meeds par an).
+5 millions de Meeds (5% de l’approvisionnement total) ont été émis à ce jour. Parmi lesquels, 4.5 M sont bloqués dans un contrat de vesting avec une acquisition linéaire sur 4 ans. Les sommes émises ont été principalement utilisées pour l'acquisition de propriété intellectuelle de logiciel, pour payer des frais juridiques et pour les services d'hébergement.
+
+Le reste fait partie des __fonds de Meeds DAO__ et sera utilisé pour payer les services ainsi que certaines initiatives au lancement telles que des airdrops et des campagnes de parrainage.
+
 
 ## 3.2. Répartition de l'émission
 
@@ -24,9 +27,9 @@ Une partie des Meeds émis est allouée aux canal de récompense de l’engageme
 
 ## 3.4. Builders – DAO de l’association Meeds et communauté de bâtisseurs
 
-Le WoM et les jetons Meeds sont opérés par l’association à but non lucratif qu’est la DAO Meeds, introduite plus haut. Un contrat de type multi-signatures est utilisé pour gérer les dépenses de fonctionnement de l’association.
+Le WoM et les jetons Meeds sont opérés par l’association à but non lucratif qu’est la DAO Meeds, introduite plus haut. Un contrat à signatures multiples appelé _Meeds DAO Funds_ est utilisé pour gérer les dépenses de fonctionnement de l'association.
 
-Au cours de la période d'émission, 30% des Meeds émis sont alloués à l'association Meeds.
+Pendant la période d'émission des meeds, **30% des meeds émis sont alloués à l'association Meeds**.
 
 Les membres de l'association peuvent fournir des services à l'association sur la base d'une convention de services signée déterminant le tarif jour-homme. Les services sont payés mensuellement en Meeds, en fonction du prix du marché. Parmi les exemples de services, citons l'enrichissement du logiciel Meeds, le développement de l'application WoM, le développement de nouveaux connecteurs, l'exploitation du service cloud, la fourniture de services financiers et juridiques, etc.
 
@@ -50,24 +53,46 @@ Une fois la période d’émission terminée, l’association sera soutenue par 
 
 Les investisseurs aident à créer le WoM en fournissant des liquidités et en investissant des Meeds. Cela assure de stabiliser son niveau de prix pendant la période de construction. Ces deux mécanismes sont encouragés par des émissions de jetons.
 
-**Fournisseurs de liquidité** La gestion des liquidités de la devise est la clé du succès du projet et plusieurs stratégies de DeFi seront utilisées pour optimiser la performance du capital. Nous commencerons par des incitations à investir des jetons LP de la paire MEED/ETH. Puis nous introduirons des obligations pour que la liquidité soit progressivement détenue par le protocole. Ceci contribuera à la durabilité à long terme de l'association - comme mentionné ci-dessus, les commissions sur les transactions finançant en effet les frais de fonctionnement de l'association tels que les services d'hébergement.
+**Apporteurs de liquidités**
+:   La gestion des liquidités de la devise est la clé du succès du projet et plusieurs stratégies de DeFi seront utilisées pour optimiser la performance du capital. Nous commencerons par des incitations à investir des jetons LP de la paire MEED/ETH. Puis nous introduirons des obligations pour que la liquidité soit progressivement détenue par le protocole. Ceci contribuera à la durabilité à long terme de l'association - comme mentionné ci-dessus, les commissions sur les transactions finançant en effet les frais de fonctionnement de l'association tels que les services d'hébergement.
 
 Tout membre a également le droit de directement acheter un montant important de Meeds avec l'octroi d'une réduction. Le montant transmis à l'association est converti en ETH et ajouté avec la valeur équivalente de Meeds aux liquidités.
 
-**Epargne / Investissement à long terme** Pour encourager l'investissement à long terme, épargner des Meeds est récompensé. Quand les Meeds sont placés, le déposant reçoit des jetons xMeeds. Les Meeds nouvellement émis sont distribués aux déposants proportionnellement à leurs avoirs xMeeds. En pratique, les Meeds émis sont effectivement ajoutés aux avoirs du contrat intelligent xMeeds et sont distribués aux détenteurs des xMeeds quand ils se désengagent.
+**Mise en gage / investissement à long terme**
+:   Pour encourager les investissements à long terme, les Meeds déposés sont récompensées. Quand les Meeds sont placés, le déposant reçoit des jetons xMeeds. Les Meeds nouvellement émis sont distribués aux déposants proportionnellement à leurs avoirs xMeeds. En pratique, les Meeds émis sont effectivement ajoutés aux avoirs du contrat intelligent xMeeds et sont distribués aux détenteurs des xMeeds quand ils se désengagent.
 
 En plaçant des Meeds, les investisseurs peuvent aussi racheter des Deeds (et donc participer au minting à travers l'engagement), et par conséquent augmenter la demande du token. Chaque Meeds placé (xMeed) garantit à son propriétaire un nombre de points par jour. Plus la période d'acquisition est longue, plus le nombre de points obtenus par xMeed est élevé. Chaque Deed est ensuite échangé contre un certain nombre de points.
 
-Les points sont calculés avec la formule suivante (où T signifie le temps et R le taux par minute) : _xMeedBalanceNoDecimals / ( xMeedBalanceNoDecimals + 12000) * elapsedTimeInSeconds / 240 * xMeedBalanceNoDecimals = ParseInteger( xMeedBalance (=renvoyé par un appel au contrat de balanceOf) / 10^18)_
+Les points sont calculés en utilisant la formule ci-dessous :
+
+ $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
+
+ où :
+
+- $xMeeds$ : solde de xMeeds sans décimales
+- $T$ : La durée pendant laquelle les xMeeds ont été détenus par le portefeuille
 
 La formule évite de privilégier les grands détenteurs afin de distribuer les Deeds plus efficacement et plus équitablement.
 
-| **Type de carte** | **Points** | **100k xMeeds** (321 pts / jour) | **10k xMeeds** (164 pts / jour) | **1k xMeeds** (28 pts / jour) |
-| ----------------- | ---------- | -------------------------------- | ------------------------------- | ----------------------------- |
-| Commun            | 8 000      | 1 mois (25 jours)                | 2 mois (49 jours)               | 9 mois                        |
-| Peu commun        | 32 000     | 3 mois (100 jours)               | 6 mois                          | 3 ans                         |
-| Rare              | 50 000     | 5 mois (156 jours)               | 10 mois                         | 5 ans                         |
-| Légendaire        | 100 000    | 10 mois (311 jours)              | 20 mois                         | 10 ans                        |
+En se basant sur cette formule, voici quelques exemples de rythme d'accumulation de points en fonction du nombre de xMeeds détenus :
+
+
+| **Taille Porteur** | **Avoirs**     | **Rythme d'accumulation** |
+| ------------------ | -------------- | ------------------------- |
+| Petit              | 1 000 xMeeds   | 28 pts/jour               |
+| Moyen              | 10 000 xMeeds  | 164 pts/jour              |
+| Grand              | 100 000 xMeeds | 321 pts/jour              |
+
+
+Et pour vous donner une idée du temps qu'il faudra conserver vos xMeeds pour acquérir un deed, consultez ce tableau :
+
+
+| **Type de carte** | **Points** | **Grand** | **Moyen** | **Petit** |
+| ----------------- | ---------- | --------- | --------- | --------- |
+| Commun            | 8 000      | 25 jours  | 49 jours  | 9 mois    |
+| Peu commun        | 32 000     | 100 jours | 6 mois    | 3 ans     |
+| Rare              | 50 000     | 156 jours | 10 mois   | 5 ans     |
+| Légendaire        | 100 000    | 311 jours | 20 mois   | 10 ans    |
 
 ## 3.6. Gouvernance Meeds DAO
 
@@ -82,7 +107,7 @@ En effet, tout travail (qu'il soit numérique ou pas) peut être gamifié et tou
 Au-delà du portefeuille et d'une boutique où ils peuvent acheter des avantages contre des Meeds, nous prévoyons de présenter à chaque utilisateur plusieurs produits alimentés par les protocoles de financement décentralisé, tels que :
 
 - La possibilité de placer des tokens Meeds et d'obtenir des rendements (générer des revenus)
-- La possibilité d'utiliser des jetons Meeds comme garantie pour emprunter des devises stables telles que l'USDC (en exploitant d'abord un pool Fuse https://app.rari.capital/fuse puis en enregistrant le jeton Meeds auprès d'AAVE - https://aave.com/).
+- La possibilité d'utiliser des meeds comme garantie pour emprunter des devises stables telles que l'USDC (en exploitant d'abord un pool [Fuse](https://app.rari.capital/fuse) puis en enregistrant le jeton MEED auprès d'[AAVE](https://aave.com/).
 - Une carte de paiement digitale qui peut être ajoutée et utilisée à travers Apple Pay, Google Pay ou tout autre Distributeur automatique. Cette dernière peut être fournie par le biais d'un partenariat avec VISA et tirera partie d'une ligne de crédit en USDC, garantie par des Meeds mis en gage. Cette carte pourrait également être utilisée par les organisations pour financer les portefeuilles des employés afin de gérer les avantages sociaux tels que les restaurants, le transport et tout type de dépenses.
 
 Donc non seulement les nouveaux utilisateurs découvriront le monde de la blockchain, mais ils vont aussi découvrir un monde sans intermédiaire bancaire.
