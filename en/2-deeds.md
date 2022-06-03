@@ -112,19 +112,17 @@ Where :
 The global engagement index used to distribute minted Meeds among the Deeds is the sum of all Deeds’ engagement scores for the week.
 
 
-The formula above is simple and designed to favor Deeds with :
+The formula above is simple and designed to favor deeds :
 
-- numerous engaged users (engagement)
-- who share the whole of the minting income (distribution rate) with their users fairly
-(distribution spread).
+- with lots of engaged users (engagement)
+- who share the whole of the minting income (distribution rate) with their users fairly (distribution spread).
 
-Boosters are in place :
+Additionnally boosters are in place for :
 
-- For organizations with the highest engagement, regardless of their size
-(engagement rate in relation to the WoM)
-- For rarer Deeds
+- organizations with the highest engagement, regardless of their size (engagement rate in relation to the WoM)
+- scarcer deeds
 
-The association reserves the right to change the formula if required – if some specific use cases arise for instance. The association can also blacklist any Deed that hijacks the formula to its unique benefit.
+> The Meeds association reserves the right to change the formula if required – if some specific use cases arise for instance. The association can also blacklist any Deed that hijacks the formula to its unique benefit.
 
 As the Deeds are rewarded with Meeds and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the Deeds and their users are aligned in the same virtuous revenue sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
 
