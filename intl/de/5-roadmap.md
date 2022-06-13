@@ -24,7 +24,7 @@ In particular, the WoM rewards long-term investment in the verse – that is the
 
 By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the metaverse.
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The fairer they will play, the more they will get. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
+Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The fairer they will play, the more they will get. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on. The fairer they will play, the more they will get. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
 
 The diagram below represents an example of the Meeds investment strategy for capital holders :
 
