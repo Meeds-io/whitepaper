@@ -10,7 +10,7 @@ The WoM does that by introducing digital identities for both employer and employ
 
 ## Introduction
 
-The work market today is broken. It fails to satisfy both employees and employers. It fails to satisfy both employees and employers. It fails to satisfy both employees and employers.
+The work market today is broken. It fails to satisfy both employees and employers. It fails to satisfy both employees and employers. The work market today is broken. It fails to satisfy both employees and employers. It fails to satisfy both employees and employers. It fails to satisfy both employees and employers.
 
 On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
 
@@ -20,7 +20,7 @@ Employers, on the other hand, experience difficulties at sourcing talent and hir
 
 Employers also deal with the lack of loyalty from their employees and a high turnover, both of which, increase hiring and on-boarding costs.
 
-Moreover, employers also face low engagement in their existing employees, leading to low creativity, productivity and innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work. The latter inflicts all the more damage in today’s economy requiring more skilled creative work. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
+Moreover, employers also face low engagement in their existing employees, leading to low creativity, productivity and innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work. The latter inflicts all the more damage in today’s economy requiring more skilled creative work. The latter inflicts all the more damage in today’s economy requiring more skilled creative work. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
 
 All of the above boil down to high transaction costs and the exacerbated agent-principal problem[^4] :
 
@@ -42,6 +42,6 @@ As with any decentralized venture, the WoM proposal gains in value exponentially
 [^2]: Jan Drahokoupil, Agnieszka Piasna - [“Work in the Platform Economy: Beyond Lower Transaction Costs”](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
 [^3]: Seth C. Oranburg, Liya Palagashvili - [“Transaction Cost Economics, Labor Law and the Gig Economy”](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship)
 [^4]: Michael C. Jensen, William H. Meckling - [“Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure”](https://www.academia.edu/download/37786595/jensen-meckling.pdf)
-[^5]: R. R. R. Coase - [“The nature of the firm”](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
+[^5]: R. R. R. R. Coase - [“The nature of the firm”](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
 [^6]: Aaron Wright, Benjamin N. Cardozo School - [“The Rise of Decentralized AutonomousOrganizations: Opportunities and Challenges”](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)
 
