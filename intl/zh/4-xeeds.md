@@ -1,6 +1,6 @@
-# 4. 4. 4. Xeeds - Work Metaverse Individuals / users
+# 4. Xeeds - Work Metaverse Individuals / users
 
-## 4.1. 4.1. 4.1. Decentralized and self-sovereign models
+## 4.1.Decentralized and self-sovereign models
 
 The WoM recognizes privacy as a fundamental human right and empowers users to own their data.
 
@@ -8,7 +8,7 @@ Our approach is based on decentralized and self-sovereign identity principles, a
 
 User's activity and engagement in the WoM is always linked to a Deed. A Xeed is the virtual persona of a user in a Deed. Xeed does not require any KYC, it is self-declaring, but we could conceivably imagine third-party firms providing this service.
 
-## 4.2. 4.2. 4.2. Badges and credentials
+## 4.2. Badges and credentials
 
 Badges and Credentials are given to users as a part of their participation in a Deed. The holder may download them as W3C Verifiable Credentials[^7][^8] (aka VCs) and store them in his wallet. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
 
@@ -22,7 +22,7 @@ When badges are downloaded by the user, it is possible to include the number of 
 
 Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the Deed. These are signed by the Deed and can be accompanied by a signature by a peer user. These are signed by the Deed and can be accompanied by a signature by a peer user. These are signed by the Deed and can be accompanied by a signature by a peer user.
 
-## 4.3. 4.3. 4.3. Digital work identity
+## 4.3. Digital work identity
 
 All of the above contributes to forming proven digital skillset that can be kept and used by the user when changing jobs or freelancing. It would be more trustworthy than traditional solutions as it relies on not just one individual but a full community to prove it.
 
@@ -40,9 +40,9 @@ The user will be able to select whether or not to reveal anything, what informat
 
 Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Deeds – as they do in the physical world by changing employers. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to choose which Deed provides better engagement reward conditions, belongs to a more attractive city, etc.
 
-On their end, the Deeds’ holders/renters can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user. They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user. They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
+On their end, the Deeds’ holders/renters can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
 
-## 4.5. 4.5. 4.5. Tangible and transparent recognition
+## 4.5. Tangible and transparent recognition
 
 Today, details on compensation and bonuses are obscure in many workplaces. Therefore, it is difficult for a person to compare his conditions to that of another and get a sense of a fair and unbiased treatment. Employees experience a lot of frustrations with the above.
 
@@ -52,7 +52,7 @@ Engagement recognition and reward mechanism is transparent and applies fairly to
 
 Wallets are individual and blockchain based – when the user receives a reward or earns a badge, it cannot be taken back or erased.
 
-## 4.6. 4.6. 4.6. Access to Web 3.0, cryptoeconomy and DEFI services
+## 4.6. Access to Web 3.0, cryptoeconomy and DEFI services
 
 As discussed above, the Work Metaverse opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
 

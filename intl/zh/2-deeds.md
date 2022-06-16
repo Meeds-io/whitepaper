@@ -1,7 +1,7 @@
 
-# 2. 2. 2. Deeds NFT - Work Metaverse Organizations
+# 2. Deeds NFT - Work Metaverse Organizations
 
-## 2.1. 2.1. 2.1. NFT – Deeds defined
+## 2.1. NFT – Deeds defined
 
 A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
 
@@ -30,7 +30,7 @@ A Deed gives its owner the right to USE it, RENT it, or SELL it.
 
 Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
 
-## 2.4. 2.4. 2.4. Deeds services, engagement/rewards engine
+## 2.4. Deeds services, engagement/rewards engine
 
 In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement. The WoM provides an innovative framework to do that by tokenizing work engagement. The WoM provides an innovative framework to do that by tokenizing work engagement.
 
@@ -48,9 +48,9 @@ To begin with, the following free services provided by the Meeds association can
 - **Analytics** – to analyze and follow engagement within the Deed.
 - **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
 
-Some of the afore-mentioned tools and services are already decentralized, others are not. Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves. Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
+Some of the afore-mentioned tools and services are already decentralized, others are not. Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves. 
 
-New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service: Examples are countless and can include virtually any software or service: Examples are countless and can include virtually any software or service:
+New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service: 
 
 - CRM software – salespeople would get engagement points for working on opportunities.
 - Accounting software – accountants would get engagement points for keeping books.
@@ -59,7 +59,7 @@ New services can be plugged into the reward engine through APIs. Examples are co
 
 Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
 
-The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless: There again the possibilities are endless: There again the possibilities are endless:
+The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
 
 - Training courses
 - Gym memberships
@@ -70,7 +70,7 @@ The Deed’s holder or renter can enrich its store with its own perks, connect t
 
 The store functions through the use of Meeds so that Meeds are partially returned to the Deed.
 
-## 2.5. 2.5. 2.5. Rewards – Meeds and other tokens
+## 2.5. Rewards – Meeds and other tokens
 
 The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs. Indeed, each Deed can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
 
@@ -80,11 +80,11 @@ Moreover, the Deed does not necessarily need to acquire Meeds in order to distri
 
 In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
 
-## 2.6. 2.6. 2.6. The “mintium” model – tokenize work engagement
+## 2.6. The “mintium” model – tokenize work engagement
 
 By engaging their users in the WoM, Deeds get compensated through an innovative mintium model.
 
-Engagement points, gained by the Deeds’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Deeds. Engagement points, gained by the Deeds’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Deeds. Even though the Deed can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation. The index uses the same principle for all Deeds. Engagement points, gained by the Deeds’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Deeds. Even though the Deed can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation. The index uses the same principle for all Deeds. Even though the Deed can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
+Engagement points, gained by the Deeds’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Deeds. The index uses the same principle for all Deeds. Even though the Deed can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
 
 Each week, a certain amount of Meeds is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Deeds. Some Deeds get an additional boost depending on their type. The Deeds that claim their Meeds over the week, receive them. The unclaimed Meeds are added to the following week’s global distribution amount.
 
@@ -122,9 +122,9 @@ As the Deeds are rewarded with Meeds and incentivized to redistribute them as re
 
 The “mintium” model is the first of a kind - it goes further than the traditional freemium one, as not only the services are free to use but both the organizations and their users are rewarded for using them.
 
-## 2.7. 2.7. 2.7. Cities and governance
+## 2.7. Cities and governance
 
-In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
+In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type. Only the first city will exist from the start. The others will be built gradually, one after the other.
 
 A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
 
