@@ -1,35 +1,35 @@
 
 
-## Abstract
+## Аннотация
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
+Современному рынку труда нехватает эффективности из-за высоких транзакционных издержек[^1][^2][^3] и частых конфликтов в сфере интересов работодателей и работников.
 
-The Work Metaverse (the WoM) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
+Work Metaverse (WoM) предлагает новую парадигму, которая снизит транзакционные издержки и переосмыслит трудовые отношения, преодолев разрыв между традиционными корпорациями и DAO.
 
-The WoM does that by introducing digital identities for both employer and employee and offering an innovative engagement reward system that would align their interests.
+WoM это реализует за счет предоставления цифровой идентификации как для работодателей, так и для сотрудников и внедрения инновационной системы вознаграждения за сотрудничество, которая будет соответствовать их интересам.
 
-## Introduction
+## Введение
 
 The work market today is broken. It fails to satisfy both employees and employers.
 
 On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
 
-Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
+После трудоустройства права работника ущемляются взамен на заработную плату. Работники мало что могут изменить в отношении своих рабочего времени, рабочего места, содержания или методики работы. В то же время, вознаграждение редко сопоставимо с их реальным значением или ценностью. При этом, правила начисления зарплаты настолько непрозрачны, что воспринимаются как несправедливые. Более того, заработная плата и карьерный рост, зачастую, зависят от добросовестности и объективности самого работодателя.
 
-Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
+Работодатели, с другой стороны, испытывают трудности с быстрым поиском талантов и наймом людей с нужными навыками и подходящей квалификацией. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
 
-Employers also deal with the lack of loyalty from their employees and a high turnover, both of which, increase hiring and on-boarding costs.
+Работодатели также сталкиваются с отсутствием лояльности со стороны своих сотрудников и высокой текучестью кадров, что приводит к увеличению расходов на найм и трудоустройство.
 
-Moreover, employers also face low engagement in their existing employees, leading to low creativity, productivity and innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
+Кроме того, работодатели также сталкиваются с низкой вовлеченностью своих действующих сотрудников, что приводит к снижению креативности, производительности и инноваций. Что наносит еще больший ущерб в условиях современной экономики, требующей более квалифицированного творческого труда.
 
-All of the above boil down to high transaction costs and the exacerbated agent-principal problem[^4] :
+Все вышесказанное приводит к высоким операционным издержкам и обострению проблем во взаимоотношениях между участниками рынка[^4] :
 
-- With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element.
-- As to the agent-principal problem, it has been compounded by the increasing revenue and wealth gap between employees and shareholders and the rigidity of the employer-employee relationship.
+- С появлением Интернета рынок труда эволюционировал в сторону большего единообразия и прозрачности благодаря сайтам объявлений о вакансиях и т. п. But transactions costs are still too high in the absence of objectivity element.
+- Что касается проблемы во взаимоотношениях, то она усугубляется растущим разрывом в доходах и благосостоянии работника и владельца, а также жестоким отношением работодателя к работнику.
 
-The WoM aims at solving both through a new decentralized work paradigm.
+WoM стремится решить эти проблемы с помощью новой парадигмы децентрализованной работы.
 
-Following R. Coase’s works[^5], most economists link the concept of enterprise with the necessity to mitigate transaction costs. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs[^6] started this process focusing on lowering the cost of transactions for capital sourcing and governance. The WoM aims at pushing this logic further by lowering the cost of work transactions. It proposes a decentralized world where jobs and skills matching could be done objectively, quickly and globally.
+Следуя трудам Р. Коуза[^5], большинство экономистов связывают основную идею предприятия с необходимостью снижения транзакционных издержек. Интернет, а в последнее время блокчейн и Web 3.0 открывают потрясающие возможности для снижения транзакционных издержек во всем мире, перестраивая экономику и, в частности, бизнес. Первые DAO[^6] начали этот процесс, сосредоточив внимание на снижении стоимости транзакций для привлечения капитала и управления. WoM стремится к дальнейшему продвижению этой логики за счет снижения стоимости транзакций в трудовых отношениях. В нем предлагается децентрализованный мир, в котором можно было бы объективно, быстро и на глобальном уровне найти рабочие места и приобрести необходимые навыки.
 
 The first DAOs flatten the hierarchies and open ownership. The WoM pursues this logic by reinventing rather than suppressing the employer/employee relationship. It introduces a transparent, objective and decentralized reward paradigm, that would sustainably align the employer and the employee interests.
 
