@@ -43,5 +43,5 @@ As with any decentralized venture, the WoM proposal gains in value exponentially
 [^3]: Seth C. Oranburg, Liya Palagashvili - [“Transaction Cost Economics, Labor Law and the Gig Economy”](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship)
 [^4]: Michael C. Jensen, William H. Meckling - [“Theory of the Firm : Managerial Behavior, Agency Costs and Ownership Structure”](https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf)
 [^5]: R. Coase - [“The nature of the firm”](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
-[^6]: Aaron Wright - [“The Rise of Decentralized Autonomous Organizations : Opportunities and Challenges”](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)lease/1)
+[^6]: Aaron Wright - [“The Rise of Decentralized Autonomous Organizations : Opportunities and Challenges”](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)
 

@@ -1,6 +1,6 @@
 # 4. Xeeds - Work Metaverse Individuals / users
 
-## 4.1.Decentralized and self-sovereign models
+## 4.1. Decentralized and self-sovereign models
 
 The WoM recognizes privacy as a fundamental human right and empowers users to own their data.
 
@@ -20,7 +20,7 @@ Badges are used to represent accomplishments made within a Deed. After completin
 
 When badges are downloaded by the user, it is possible to include the number of points and his rank in the Deed for this specific accomplishment.
 
-Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the Deed. These are signed by the Deed and can be accompanied by a signature by a peer user. These are signed by the Deed and can be accompanied by a signature by a peer user. These are signed by the Deed and can be accompanied by a signature by a peer user.
+Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the Deed. These are signed by the Deed and can be accompanied by a signature by a peer user.
 
 ## 4.3. Digital work identity
 

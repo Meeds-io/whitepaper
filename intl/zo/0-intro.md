@@ -16,7 +16,7 @@ On the employee side, it is difficult to find the right jobs. The job market fav
 
 Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
 
-Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
+Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
 
 Employers also deal with the lack of loyalty from their employees and a high turnover, both of which, increase hiring and on-boarding costs.
 
@@ -24,7 +24,7 @@ Moreover, employers also face low engagement in their existing employees, leadin
 
 All of the above boil down to high transaction costs and the exacerbated agent-principal problem[^4] :
 
-- With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element. But transactions costs are still too high in the absence of objectivity element. But transactions costs are still too high in the absence of objectivity element.
+- With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element.
 - As to the agent-principal problem, it has been compounded by the increasing revenue and wealth gap between employees and shareholders and the rigidity of the employer-employee relationship.
 
 The WoM aims at solving both through a new decentralized work paradigm.

@@ -27,7 +27,7 @@ Part of the continuously minted Meeds is allocated to the engagement minting cha
 
 ## 3.4. Builders – Meeds association DAO and community of builders
 
-The WoM and the Meeds token are operated by the non-profit Meeds Association DAO, introduced above. A multisig contract is used to manage the association operating expenses. The WoM and the Meeds token are operated by the non-profit Meeds Association DAO, introduced above. A multisig contract is used to manage the association operating expenses. A multisig contract is used to manage the association operating expenses. A multisig contract called the _Meeds DAO Funds_ is used to manage the association's operating expenses.
+The WoM and the Meeds token are operated by the non-profit Meeds Association DAO, introduced above. A multisig contract called the _Meeds DAO Funds_ is used to manage the association's operating expenses.
 
 During the minting period, **30% of the minted Meeds are allocated to the Meeds association**.
 
@@ -56,7 +56,7 @@ Investors help creating the WoM by providing liquidity and by staking Meeds and 
 **Liquidity providers**
 :   Currency liquidity management is key to the success of the project and several DeFi strategies will be used to optimize capital efficiency. We will start with incentives for staking MeedS/ETH LP pool tokens and will progressively introduce bonds to move towards a protocol owned liquidity. The latter would contribute to the association’s long term sustainability - as mentioned above, transaction fees will fund the association operating expenses such as cloud hosting.
 
-Every member also has the right to directly purchase a large amount of Meeds at a discount. The amount wired to the association account is converted to ETH and added along with the equivalent value of Meeds to the Liquidity Pool. The amount wired to the association account is converted to ETH and added along with the equivalent value of Meeds to the Liquidity Pool. The amount wired to the association account is converted to ETH and added along with the equivalent value of Meeds to the Liquidity Pool.
+Every member also has the right to directly purchase a large amount of Meeds at a discount. The amount wired to the association account is converted to ETH and added along with the equivalent value of Meeds to the Liquidity Pool.
 
 **Staking / long-term investment**
 :   To encourage long term investment, staked Meeds are rewarded. When Meeds are staked, the staker gets some xMeeds tokens. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings. In practice, minted Meeds are effectively added to the holdings of the xMeeds smart contract and distributed to the xMeeds holder when they unstake.

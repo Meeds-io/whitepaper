@@ -1,11 +1,12 @@
 
 # 2. Deeds NFT - Work Metaverse Organizations
 
-## 2.5. Rewards – Meeds and other tokens
+## 2.1. NFT – Deeds defined
 
-A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and
+the right to mint Meeds.
 
-The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM. The Deed represents their digital existence in the WoM.
+The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM.
 
 ## 2.2. Deeds supply
 
@@ -13,19 +14,21 @@ The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a p
 
 There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
 
-| **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
-| ------------- | ------------- | ----------------- | ------------ | ---------------------- |
-| Common        | 100           | 1                 | ~ 90%        | 1                      |
-| Uncommon      | 1000          | 1.1               | ~ 9%         | 10                     |
-| Rare          | 10 000        | 1.3               | ~ 1%         | 100                    |
-| Legendary     | unlimited     | 2                 | < 0.1 %      | 1000                   |
+| **Deed Type** |  **Max users** |  **Minting power** |  **Scarcity** |  **City voting rights** | 
+| --- | --- | --- | --- | --- | 
+| Common | 100 |  1 |  ~ 90% |  1 | 
+| Uncommon | 1000 |  1.1 |  ~ 9% |  10 | 
+| Rare | 10 000  | 1.3  |   ~ 1% |  100 | 
+| Legendary | unlimited |  2 |  < 0.1 % |  1000 | 
 
 ## 2.3. Deeds ownership
 
 A Deed gives its owner the right to USE it, RENT it, or SELL it.
 
-- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
-- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
+- USE – The Deed’s owners can use the Deed directly for their organization, providing
+services to its users.
+- RENT - The Deed’s owners can also rent the Deed to another organization in order to get
+passive income.
 - SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
 
 Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
@@ -57,7 +60,8 @@ New services can be plugged into the reward engine through APIs. Examples are co
 - Clocking terminal – factory worker can get points for factory work time.
 - Etc.
 
-Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
+Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described
+below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
 
 The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
 
@@ -70,9 +74,11 @@ The Deed’s holder or renter can enrich its store with its own perks, connect t
 
 The store functions through the use of Meeds so that Meeds are partially returned to the Deed.
 
-## 2.6. The “mintium” model – tokenize work engagement
+## 2.5. Rewards – Meeds and other tokens
 
-The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs. Indeed, each Deed can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
+The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement.
+Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs.
+Indeed, each Deed can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
 
 Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Deed is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
 
@@ -92,12 +98,12 @@ The engagement score _S_  of a Deed is a function of the engagement, the number 
 
 $$S = (E_d / E_w) * D_r * D_s * M$$
 
-Where :
+Where : 
 
 - $A$ = _Activity_ - total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
 - $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
 - $E_d$ = _Engagement rate of the deed_ - actions per user ($A/U$)
-- $E_w$ = _Average engagement rate_ of all active Deeds in the WoM.
+- $E_w$ = _Average engagement rate_ of all active Deeds in the WoM. 
 - $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
 - $D_s$ =  _Distribution spread_ - if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
 - $M$ = _Minting Power_ of the Deed as defined in 2.3
@@ -128,17 +134,18 @@ In the WoM, Deeds will be generated gradually inside virtual cities. Only the fi
 
 A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
 
-| **City name** | **Deeds**   | **Available**        | **Common** | **Uncommon** | **Rare**  | **Legendary** |
-| ------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
-| 1: Tanit      | 100         | T0                   | 50         | 30           | 13        | 7             |
-| 2: Reshef     | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
-| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
-| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
-
-A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
+| **City name** |  **Deeds** |  **Available** |  **Common** |  **Uncommon** | **Rare** | **Legendary** | 
+| --- | --- | --- | --- | --- | --- | --- | 
+| 1: Tanit | 100 | T0 | 50 | 30 | 13 | 7 |   
+| 2: Reshef| 1 000  | Tanit + 4 months | 600 | 300 | 94 | 6 |   
+| 3: Ashtarte | 10 000 | Reshef + 8 months | 6 000 | 3 000 | 995 | 5 |   
+| 4: Melqart | 100 000 | Ashtarte + 16 months | 60 000 | 30 000  | 9 996 | 4 |   
+| 5: Eshmun | 1 000 000 | Melqart + 32 months | 600 000 | 300 000 | 99 997 | 3 |   
+| 6: Kushor | 10 000 000 | Eshmum + 64 months | 6 000 000 | 3 000 000 | 999 998 | 2 |   
+| 7: Hammon | 100 000 000 | Kushor + 128 months | 60 000 000 | 30 000 000 | 9 999 999 | 1 |   
+     
+A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community.
+It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
 
 Each city has its own govenance and operates its own DAO where the city’s Deeds’ owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
 
@@ -148,6 +155,6 @@ By default (unless the city votes otherwise), passive income from renting out De
 
 Ownsership transactions (Deed’s sales) will also be taxed 6% :
 
-- 2.5% for the City,
-- 2.5% for the Association,
+- 2.5% for the City, 
+- 2.5% for the Association, 
 - 1% for the original wallet that redeemed the Deed.
