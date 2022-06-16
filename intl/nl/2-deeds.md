@@ -1,11 +1,11 @@
 
 # 2. Deeds NFT - Work Metaverse Organizations
 
-## 2.5. Rewards – Meeds and other tokens
+## 2.1. NFT – Deeds defined
 
 A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
 
-The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM. The Deed represents their digital existence in the WoM.
+The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM.
 
 ## 2.2. Deeds supply
 
@@ -59,7 +59,7 @@ New services can be plugged into the reward engine through APIs. Examples are co
 
 Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
 
-The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless: There again the possibilities are endless: There again the possibilities are endless: There again the possibilities are endless:
+The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
 
 - Training courses
 - Gym memberships
@@ -70,7 +70,7 @@ The Deed’s holder or renter can enrich its store with its own perks, connect t
 
 The store functions through the use of Meeds so that Meeds are partially returned to the Deed.
 
-## 2.6. The “mintium” model – tokenize work engagement
+## 2.5. Rewards – Meeds and other tokens
 
 The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs. Indeed, each Deed can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
 
