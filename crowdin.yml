@@ -1,6 +1,8 @@
 files:
-  - source: '*.md'
+  - source: /en/*.*
     ignore:
-      - README.md
-      - /*/*
-    translation: /%two_letters_code%/%original_file_name%
+      - /intl/
+      - /templates
+      - /img
+      - /en/*/img
+    translation: /intl/%two_letters_code%/%original_file_name%
