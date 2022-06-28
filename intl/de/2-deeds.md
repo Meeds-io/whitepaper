@@ -32,11 +32,11 @@ Als aktiver Inhaber oder Mieter einer Deed wird die Organisation durch ein innov
 
 ## 2.4. Deeds-Dienste, Engagement/Belohnungs-Engine
 
-In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. Das WoM bietet dafür einen innovativen Rahmen, indem es das Arbeitsengagement in Tokens umwandelt.
+In einem zunehmend wettbewerbsorientierten Markt müssen Unternehmen Anreize für ihre Benutzer schaffen, die über eine einfache Vergütung hinausgehen, um Talente anzuziehen und zu halten und ihren Beitrag zu maximieren. Das WoM bietet dafür einen innovativen Rahmen, indem es das Arbeitsengagement in Tokens umwandelt.
 
-Der Inhaber oder Mieter jeder Urkunde kann seinen Benutzern Tools und Dienste bereitstellen, die Engagementpunkte verdienen, die auf die Prioritäten der Urkunde abgestimmt werden können. Periodically, points are converted into Meeds (and - for DAOs - potentially another token), based on the Deed’s set budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
+Jeder Deed-Inhaber oder -Mieter kann seinen Benutzern Tools und Dienste bereitstellen, die Engagementpunkte sammeln, die auf die Deed-Prioritäten abgestimmt werden können. In regelmäßigen Abständen werden Punkte in Meeds (und – für DAOs – möglicherweise einen anderen Token) umgewandelt, basierend auf dem festgelegten Budget der Deed. Auf diese Weise wird das Engagement der Benutzer für Aktivitäten belohnt, die für die Organisation wichtig sind.
 
-To begin with, the following free services provided by the Meeds association can be used to reward engagement:
+Zunächst können die folgenden kostenlosen Dienste der Meeds Association zur Belohnung von Engagement genutzt werden:
 
 - **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the Deed’s priorities via customizable engagement programs.
 - **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
