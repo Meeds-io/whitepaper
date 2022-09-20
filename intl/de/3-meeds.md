@@ -1,6 +1,6 @@
-# 3. Meeds token – the Work Metaverse currency
+# 3. Meeds token - Die Währung des Arbeitsmetavers
 
-The Work Metaverse is powered by its currency – the Meeds (MEED) token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
+Das Arbeitsmetavers wird durch seine Währung angetrieben - den Meeds (MEED)-Token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
 
 ## 3.1. Tokenomics
 
