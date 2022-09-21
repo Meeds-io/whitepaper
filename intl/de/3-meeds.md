@@ -1,6 +1,6 @@
 # 3. Meeds token - Die Währung des Arbeitsmetavers
 
-Das Arbeitsmetavers wird durch seine Währung angetrieben - den Meeds (MEED)-Token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
+Das Arbeitsmetavers wird durch seine Währung angetrieben - den Meeds (MEED)-Token. Meeds werden verwendet, um engagierte Anwender zu belohnen (dank spezieller Programme). Diese können für Einkäufe in Geschäften, Taten, finanzielle Renditen bei Investitionen, usw. genutzt werden.
 
 ## 3.1. Tokenomics
 
