@@ -1,12 +1,12 @@
 # 3. Meeds token - Die Währung des Arbeitsmetavers
 
-Das Arbeitsmetavers wird durch seine Währung angetrieben - den Meeds (MEED)-Token. Meeds werden verwendet, um engagierte Anwender zu belohnen (dank spezieller Programme). Diese können für Einkäufe in Geschäften, Taten, finanzielle Renditen bei Investitionen, usw. genutzt werden.
+Das Arbeitsmetavers wird durch seine Währung angetrieben - den Meeds (MEED)-Token. Meeds werden verwendet, um engagierte Anwender zu belohnen (dank spezieller Programme). Diese können für Einkäufe in Geschäften, Immobilien (Deeds), finanzielle Renditen bei Investitionen, usw. genutzt werden.
 
 ## 3.1. Token-System / Token-Ökonomie
 
 Das maximale Angebot von Meeds ist auf 100 Millionen Token begrenzt, die nach und nach geprägt werden. Meeds are minted at the rate of 10 MEED pro Minute. Daher beträgt der gesamte Prägeprozess fast 20 Jahre (da pro Jahr etwa $10*60*24*365 = 5 Mio. $ Meeds Münzen pro Jahr geprägt werden).
 
-5 Million Meeds (5% of total supply) have been pre-minted to date. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services.
+5 millionen Meeds (5 % des Gesamtangebots) wurden bisher produziert. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services.
 
 The rest is part of the __Meeds DAO funds__ and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
 
