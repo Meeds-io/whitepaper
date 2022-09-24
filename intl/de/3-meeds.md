@@ -6,20 +6,20 @@ Das Arbeitsmetavers wird durch seine Währung angetrieben - den Meeds (MEED)-Tok
 
 Das maximale Angebot von Meeds ist auf 100 Millionen Token begrenzt, die nach und nach geprägt werden. Meeds are minted at the rate of 10 MEED pro Minute. Daher beträgt der gesamte Prägeprozess fast 20 Jahre (da pro Jahr etwa $10*60*24*365 = 5 Mio. $ Meeds Münzen pro Jahr geprägt werden).
 
-5 millionen Meeds (5 % des Gesamtangebots) wurden bisher produziert. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services.
+5 millionen Meeds (5 % des Gesamtangebots) wurden bisher produziert. Davon wurden 4,5 Mio. mittels einer Vesting Klausel mittels linearen Vestings über 4 Jahre gebunden. Die hergestellten Meeds wurden hauptsächlich für den Erwerb von Software-IP (geistiges Eigentum an Software) genutzt, sowie für die Bezahlung der Rechtskosten von Token Emission und für Hosting-Dienste verwendet.
 
-The rest is part of the __Meeds DAO funds__ and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
+Der Rest ist Teil des Meeds DAO-Fonds (Dezentrale Autonome Organisation) und wird zur Bezahlung von Dienstleistungen sowie für einige Startanreize wie Airdrops und Empfehlungskampagnen verwendet.
 
 
-## 3.2. Minting allocation
+## 3.2. Münzverteilung
 
-Minted Meeds are allocated to encourage involvement of the three categories of stakeholders - the users, the builders and the investors:
+Die erstellten Meeds werden verteilt, um die Beteiligung der drei Kategorien von Interessengruppen zu fördern - die Nutzer, die Bauherren und die Investoren:
 
-- The users (users and Deeds holders/renters) get Meeds through engagement rewards (mintium model).
-- Builders (members of the association and community) get Meeds through the association funds to build, operate and improve the WoM.
-- Investors mint Meeds through renting and buying of liquidity pools and staking Meeds.
+- Die Nutzer (Nutzer und Inhaber/Mieter von Deeds) erhalten Meeds als Belohnung für ihr Engagement (Mintium-Modell).
+- Die Bauherren (Mitglieder des Vereins und der Gemeinde) erhalten Meeds aus dem Vereinsfond, um die WoM bauen, betreiben und verbessern zu können.
+- Investoren generieren Meeds durch das Vermieten und den Kauf von Liquiditäten, sowie durch das staking von Meeds.
 
-At the beginning, the builders get 30% of the allocation. The 70% are shared between the users and the investors. This allocation proportion will be reviewed on a regular basis, through the Meeds association DAO vote.
+Am Anfang erhalten die Bauherren 30% der ausgeschüttenen Tokens. 70% werden zwischen Nutzern und Investoren aufgeteilt. Dieser Zuteilungsanteil wird in regelmäßigen Abständen, durch die Abstimmung der Meeds DAO Vereinigung überprüft.
 
 ## 3.3. Users – minting through engagement
 
