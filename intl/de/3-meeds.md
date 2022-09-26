@@ -21,11 +21,11 @@ Die erstellten Meeds werden verteilt, um die Beteiligung der drei Kategorien von
 
 Am Anfang erhalten die Bauherren 30% der ausgeschüttenen Tokens. 70% werden zwischen Nutzern und Investoren aufgeteilt. Dieser Zuteilungsanteil wird in regelmäßigen Abständen, durch die Abstimmung der Meeds DAO Vereinigung überprüft.
 
-## 3.3. Users – minting through engagement
+## 3.3. Nutzer - Das Engagement belohnen
 
-Part of the continuously minted Meeds is allocated to the engagement minting channel. The distribution is done weekly. At any given week end, the engagement index is calculated and Deeds can claim their rewards the following week and get their Meeds. Unclaimed Meeds stay in the fund and are added to the next week’s distribution. The model is described in detail in the previous chapter (part 2.6).
+Ein Teil der fortlaufend geprägten Meeds wird dem Kanal für die Belohnung von Engagement zugewiesen. Die Verteilung erfolgt wöchentlich. An jedem beliebigen Wochenende, wird der Engagement Index berechnet und Deeds können ihre Belohnungen und ihre Meeds in der folgenden Woche erhalten. Unbeanspruchte Meeds bleiben im Fonds und werden dem Fonds der darauffolgenden Woche hinzugefügt. Das Modell wird im vorherigen Kapitel ausführlich beschrieben (Teil 2.6).
 
-## 3.4. Builders – Meeds association DAO and community of builders
+## 3.4. Bauherren – Der Meeds DAO Verein und die Gemeinschaft der Bauherren
 
 The WoM and the Meeds token are operated by the non-profit Meeds Association DAO, introduced above. A multisig contract called the _Meeds DAO Funds_ is used to manage the association's operating expenses.
 
