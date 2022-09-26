@@ -1,9 +1,9 @@
 
-# 2. Deeds NFT - Work Metaverse Organisationen
+# 2. Deeds NFT - Organisationen im Arbeitsmetavers (WoM)
 
-## 2.1. NFT - Deeds definiert
+## 2.1. Definition des NFT - Deeds
 
-Ein nicht fungibler Token (NFT) ist ein einzigartiger Token, der ein Gut darstellt. Im WoM wird eine Urkunde als Eigentumstitel verwendet. Jede Urkunde gibt ihrem Besitzer das Recht, auf mehrere Dienste zuzugreifen – zum Beispiel einen Zugriff auf ein digitales Büro, das von der Meeds-Software betrieben wird und das Recht, Meeds zu prägen.
+Ein Not-Fungible-Token (NFT), zu Deutsch: ein nicht austauschbarer Token, ist ein einzigartiger Token, der ein Gut darstellt. Im WoM wird ein Deed als Eigentumstitel verwendet. Jeder Deed gibt seinem Besitzer das Recht, auf mehrere Dienste zuzugreifen – zum Beispiel einen Zugriff auf ein digitales Büro, das von der Meeds-Software betrieben wird und das Recht, Meeds zu prägen.
 
 Das WoM begrüßt alle Arten von Organisationen - DAOs, traditionelle Unternehmen, Vereine, Denkfabriken, Partnerschaften, Theatergruppen, Projektgruppen, Schulen usw. Der Deed repräsentiert ihre digitale Existenz im WoM.
 
