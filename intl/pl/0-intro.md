@@ -1,16 +1,16 @@
 
 
-## Abstract
+## Abstrakcyjnie
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
+Dzisiejszy rynek pracy jest mało wydajny ze względu na wysokie koszty transakcyjne[^1][^2][^3]oraz częste konflikty interesów między pracodawcą a pracownikiem.
 
-The Work Metaverse (the WoM) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
+Praca Metaverse (WoM) proponuje nowy paradygmat, który obniżyłby koszty transakcji i na nowo wymyślił stosunek pracy, wypełniając lukę między tradycyjnymi korporacje i DAOs.
 
-The WoM does that by introducing digital identities for both employer and employee and offering an innovative engagement reward system that would align their interests.
+WoM robi to, wprowadzając tożsamości cyfrowe zarówno dla pracodawcy, jak i pracownika oraz oferując innowacyjny system nagradzania za zaangażowanie, który dostosowałby ich zainteresowania.
 
-## Introduction
+## Wstęp
 
-The work market today is broken. It fails to satisfy both employees and employers.
+Dzisiejszy rynek pracy jest zepsuty. It fails to satisfy both employees and employers.
 
 On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
 
