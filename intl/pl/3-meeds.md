@@ -1,4 +1,4 @@
-# 3. Meeds token – the Work Metaverse currency
+# 3. Token Meeds – waluta Work Metaverse
 
 The Work Metaverse is powered by its currency – the Meeds (MEED) token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
 
@@ -85,10 +85,10 @@ which leads to the following holding time for each class of holder :
 
 | **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
 | ------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| Common        | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| Uncommon      | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| Rare          | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| Legendary     | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| Zwykły        | 8 000 pts   | 25 days          | 49 days           | 9 months         |
+| Niezwykły     | 32 000 pts  | 100 days         | 6 months          | 3 years          |
+| Rzadki        | 50 000 pts  | 156 days         | 10 months         | 5 years          |
+| Legendarny    | 100 000 pts | 311 days         | 20 months         | 10 years         |
 
 ## 3.6. Meeds DAO governance
 
