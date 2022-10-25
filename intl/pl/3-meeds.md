@@ -1,111 +1,114 @@
 # 3. Token Meeds – waluta Work Metaverse
 
-The Work Metaverse is powered by its currency – the Meeds (MEED) token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
+Praca Metaverse jest zasilana przez swoją walutę - token Meeds (MEED). Meeds służą do nagradzania użytkowników (poprzez programy zaangażowania), zakupów w sklepach, uzyskiwania aktów własności, uzyskiwania zwrotów finansowych z inwestycji itp.
 
-## 3.1. Tokenomics
+## 3.1. Tokenomika
 
-The Meeds **maximum supply is limited to 100 million tokens**, minted progressively. **Meeds are minted at the rate of 10 MEED per minute**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).
+Maksymalna podaż Meeds** jest ograniczona do 100 milionów żetonów**, bitych stopniowo. **Meeds wybija się w tempie 10 MEED na minutę**. W związku z tym pełny horyzont bicia monet zbliża się do 20 lat (ponieważ około 106024 * 365 $ = 5 mln $ Meeds jest wybijanych rocznie).
 
-5 Million Meeds (5% of total supply) have been pre-minted to date. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services.
+Do tej pory wyprodukowano 5 milionów Meedów (5% całkowitej podaży). Z czego 4,5 mln zostało zamkniętych w kontrakcie skarbca z liniowym nabyciem uprawnień przez ponad 4 lata. Wstępnie wybita kwota została wykorzystana głównie na pozyskanie IP oprogramowania, opłacenie opłat prawnych związanych z emisją tokenów i usług hostingowych.
 
-The rest is part of the __Meeds DAO funds__ and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
-
-
-## 3.2. Minting allocation
-
-Minted Meeds are allocated to encourage involvement of the three categories of stakeholders - the users, the builders and the investors:
-
-- The users (users and Deeds holders/renters) get Meeds through engagement rewards (mintium model).
-- Builders (members of the association and community) get Meeds through the association funds to build, operate and improve the WoM.
-- Investors mint Meeds through renting and buying of liquidity pools and staking Meeds.
-
-At the beginning, the builders get 30% of the allocation. The 70% are shared between the users and the investors. This allocation proportion will be reviewed on a regular basis, through the Meeds association DAO vote.
-
-## 3.3. Users – minting through engagement
-
-Part of the continuously minted Meeds is allocated to the engagement minting channel. The distribution is done weekly. At any given week end, the engagement index is calculated and Deeds can claim their rewards the following week and get their Meeds. Unclaimed Meeds stay in the fund and are added to the next week’s distribution. The model is described in detail in the previous chapter (part 2.6).
-
-## 3.4. Builders – Meeds association DAO and community of builders
-
-The WoM and the Meeds token are operated by the non-profit Meeds Association DAO, introduced above. A multisig contract called the _Meeds DAO Funds_ is used to manage the association's operating expenses.
-
-During the minting period, **30% of the minted Meeds are allocated to the Meeds association**.
-
-Association members can provide services to the association on the basis of a signed services convention establishing the man-day rate. Services are paid monthly in Meeds, based on the market price. Exemples of services include – enriching the Meeds software, developing the WoM app, developing new connectors, operating the cloud service, providing financial and legal services etc.
-
-Without being a member, any Deed can participate in the creation of a new connector and be rewarded for doing so – first through the Meeds association acquiring the connector and then by minting through this connector.
-
-The association operates a Builders community that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
-
-Thus, the community will function as an example of a Deed, offering a standard set of services provided by the association. The association stakes Meeds in order to redeem a Deed for the community. The community will then also participate in the engagement minting like any other Deed.
-
-After the minting period is over, the association will be sustained by :
-
-- taxing passive income (3% on Deeds renting)
-- taxing selling income (2.5% on Deeds sales)
-- perceiving transaction fees over the user of the perks stores
-- acting as a liquidity pool provider
-- perceiving transaction fees when a Deed distributes non Meeds tokens via WoM services.
-- by operating the Deeds that the association minted over time.
+Reszta jest częścią funduszy__ Meeds DAO__ i zostanie wykorzystana do opłacenia usług, a także niektórych zachęt, takich jak zrzuty lotnicze i kampanie polecające.
 
 
-## 3.5. Investors
+## 3.2. Przydział bicia
 
-Investors help creating the WoM by providing liquidity and by staking Meeds and thus stabilizing its price level during the construction period. Both are encouraged through minting.
+Bicia Meeds są przydzielane w celu zachęcenia do zaangażowania trzech kategorii interesariuszy – użytkowników, budowniczych i inwestorów:
 
-**Liquidity providers**
-:   Currency liquidity management is key to the success of the project and several DeFi strategies will be used to optimize capital efficiency. We will start with incentives for staking MeedS/ETH LP pool tokens and will progressively introduce bonds to move towards a protocol owned liquidity. The latter would contribute to the association’s long term sustainability - as mentioned above, transaction fees will fund the association operating expenses such as cloud hosting.
+- Użytkownicy (użytkownicy i posiadacze/wynajmujący akty) otrzymują Meeds poprzez zaangażowanie nagrody (model Mintium).
+- Budowniczowie (członkowie stowarzyszenia i społeczności) otrzymują Meeds za pośrednictwem fundusze stowarzyszeniowe na budowę, obsługę i doskonalenie WoM.
+- Inwestorzy wybijają Meeds poprzez wynajmowanie i kupowanie puli płynności oraz staking Meeds.
 
-Every member also has the right to directly purchase a large amount of Meeds at a discount. The amount wired to the association account is converted to ETH and added along with the equivalent value of Meeds to the Liquidity Pool.
+Na początku budowniczowie otrzymują 30% alokacji. 70% jest dzielone między użytkowników i inwestorów. Ta proporcja alokacji będzie regularnie weryfikowana poprzez głosowanie stowarzyszenia Meeds DAO.
 
-**Staking / long-term investment**
-:   To encourage long term investment, staked Meeds are rewarded. When Meeds are staked, the staker gets some xMeeds tokens. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings. In practice, minted Meeds are effectively added to the holdings of the xMeeds smart contract and distributed to the xMeeds holder when they unstake.
+## 3.3. Użytkownicy – ​​bicie poprzez zaangażowanie
 
-By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. Each staked Meeds (xMeeds) grants its owner a number of points per day. The longer the vested period the higher the number of points obtained per xMeeds. Each Deed is then redeemed in exchange for a number of points.
+Część stale wybitych meedów jest przydzielana kanałowi kopalni. Dystrybucja odbywa się co tydzień. Na koniec każdego tygodnia indeks zaangażowania jest obliczany i Akty mogą otrzymać swoje nagrody w następnym tygodniu oraz otrzymać swoje Meeds. Nieodebrane Meeds pozostają w funduszu i są dodawane do dystrybucji w następnym tygodniu. Wzór został szczegółowo opisany w poprzednim rozdziale (część 2.6).
 
-Points are calculated using the formula below :
+## 3.4. Budowniczowie – stowarzyszenie Meeds DAO i społeczność budowniczych
+
+WoM i token Meeds są obsługiwane przez organizację non-profit Meeds DAO, opisaną powyżej. Wielozadaniowa umowa o nazwie_ Meeds DAO Funds_ służy do zarządzania wydatkami operacyjnymi stowarzyszenia.
+
+W okresie bicia, **330% wybitych Meeds jest przydzielanych stowarzyszeniu Meeds.**.
+
+Członkowie stowarzyszenia mogą świadczyć usługi na rzecz stowarzyszenia na podstawie podpisanej umowy o świadczeniu usług ustalającej stawkę osobodni. Usługi są opłacane co miesiąc w Meeds na podstawie ceny rynkowej. Exemples of services include – enriching the Meeds software, developing the WoM app, developing new connectors, operating the cloud service, providing financial and legal services etc.
+
+Nie będąc członkiem, każdy Akt może uczestniczyć w tworzeniu nowego łącznika i być za to wynagradzany – najpierw poprzez stowarzyszenie Meeds, które nabywa łącznik, a następnie poprzez wybijanie przez to łącznik.
+
+Stowarzyszenie prowadzi społeczność budowlaną , która wita entuzjastów WoM, którzy chcą przyczynić się do powstania WoM. Stowarzyszenie będzie sponsorować społeczność ze swojego budżetu, rekompensując zaangażowanie członków społeczności.
+
+W ten sposób społeczność będzie funkcjonować jako przykład Aktu, oferując standardowy zestaw usług świadczonych przez stowarzyszenie. Stowarzyszenie stawia Meeds w celu odkupienia aktu dla społeczności. Społeczność będzie wtedy również uczestniczyć w wybijaniu zaangażowania, jak każdy inny akt.
+
+Po zakończeniu okresu bicia stowarzyszenie będzie podtrzymywane przez:
+
+- opodatkowanie dochodu pasywnego (3% od wynajmu czynów)
+- opodatkowanie dochodu ze sprzedaży (2,5% od sprzedaży czynów)
+- postrzeganie opłat transakcyjnych nad użytkownikiem sklepów bonusowych
+- działanie jako dostawca puli płynności
+- postrzeganie opłat transakcyjnych, gdy Akt rozprowadza tokeny inne niż Meeds za pośrednictwem WoM usługi.
+- operując Aktami, które stowarzyszenie wybiło z biegiem czasu.
+
+
+## 3.5. Inwestorzy
+
+Inwestorzy pomagają w tworzeniu WoM poprzez zapewnienie płynności i poprzez udział w Meeds, a tym samym stabilizację poziomu cen w okresie budowy. Oba są zachęcone przez bicie.
+
+**Dostawcy płynności**
+:   Zarządzanie płynnością walutową jest kluczem do sukcesu projektu, a kilka strategii DeFi zostanie wykorzystanych do optymalizacji efektywności kapitałowej. Zaczniemy od zachęt do obstawiania tokenów puli MeedS/ETH LP i stopniowo wprowadzimy obligacje, aby przejść w kierunku płynności posiadanej przez protokół. Te ostatnie przyczyniłyby się do długoterminowej stabilności stowarzyszenia – jak wspomniano powyżej, opłaty transakcyjne pokryją koszty operacyjne stowarzyszenia, takie jak hosting w chmurze.
+
+Każdy członek ma również prawo do bezpośredniego zakupu dużej ilości Meeds ze zniżką. Kwota przekazana na konto stowarzyszenia jest przeliczana na ETH i dodawana wraz z ekwiwalentną wartością Meeds do puli płynności.
+
+**Stakowanie / inwestycja długoterminowa**
+:   Aby zachęcić do inwestycji długoterminowych, postawione Meeds są nagradzane. Kiedy obstawia się Meeds, osoba obstawiająca otrzymuje kilka żetonów xMeeds. Nowo wybite Meeds są rozdzielane wśród obstawiających proporcjonalnie do ich zasobów xMeeds. W praktyce wybite Meeds są skutecznie dodawane do zasobów inteligentnego kontraktu xMeeds i przekazywane posiadaczowi xMeeds po rozbiciu.
+
+Stawiając Meeds, inwestorzy mogą również wykupić Akty (a następnie uczestniczyć w wybijaniu poprzez zaangażowanie), zwiększając w ten sposób popyt na tokeny. Każdy postawiony Meeds (xMeeds) zapewnia swojemu właścicielowi określoną liczbę punktów dziennie. Im dłuższy okres uprawniający, tym większa liczba punktów uzyskanych na xMeeds. Każdy akt jest następnie umarzany w zamian za określoną liczbę punktów.
+
+Punkty oblicza się przy użyciu poniższego wzoru:
 
  $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
 
- where :
+ gdzie :
 
-- $xMeeds$ : xMeeds balance  with no decimals
-- $T$ : Time elapsed in milliseconds
+- $xMeeds$ : saldo xMeeds bez ułamków dziesiętnych
+- $T$ : Czas, który upłynął w milisekundach
 
-The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably. For example, the formula gives the following rates :
+Formuła pozwala uniknąć faworyzowania dużych posiadaczy w celu wydajniejszego i bardziej sprawiedliwego podziału aktów. Na przykład formuła podaje następujące stawki:
 
-| **Holder Size** | **Holdings**   | **Accrue Rate** |
-| --------------- | -------------- | --------------- |
-| Small           | 1 000 xMeeds   | 28 pts/day      |
-| Medium          | 10 000 xMeeds  | 164 pts/day     |
-| Large           | 100 000 xMeeds | 321 pts/day     |
+| **Rozmiar uchwytu** | **Gospodarstwa** | **Stawka naliczania** |
+| ------------------- | ---------------- | --------------------- |
+| Mały                | 1 000 xMeeds     | 28 pkt/dzień          |
+| Średni              | 10 000 xMeeds    | 164 pkt/dzień         |
+| Duży                | 100 000 xMeeds   | 321 pkt/dzień         |
 
 
-which leads to the following holding time for each class of holder :
+który prowadzi do następującego czasu przetrzymywania dla każdej klasy posiadacza:
 
-| **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| Zwykły        | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| Niezwykły     | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| Rzadki        | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| Legendarny    | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| **Typ karty** | **Koszt**       | **Duży uchwyt** | **Średni uchwyt** | **Mały uchwyt** |
+| ------------- | --------------- | --------------- | ----------------- | --------------- |
+| Zwykły        | 8 000 punktów   | 25 dni          | 49 dni            | 9 miesięcy      |
+| Niezwykły     | 32 000 punktów  | 100 dni         | 6 miesięcy        | 3 lata          |
+| Rzadki        | 50 000 punktów  | 156 dni         | 10 miesięcy       | 5 lat           |
+| Legendarny    | 100 000 punktów | 311 dni         | 20 miesięcy       | 10 lat          |
 
-## 3.6. Meeds DAO governance
+## 3.6. Zarządzanie Meeds DAO
 
-Meeds token holders need to stake tokens in order to vote on the Meeds DAO decisions such as managing the minting budget or electing DAO board members (annual mandate).
+Posiadacze tokenów Meeds muszą postawić tokeny, aby głosować nad decyzjami Meeds DAO, takimi jak zarządzanie budżetem menniczym lub wybór członków zarządu DAO (mandat roczny).
 
-## 3.7. Decentralized finance (DeFi) user services
+## 3.7. Usługi dla użytkowników decentralizowanego finansowania (DeFi)
 
-The Work Metaverse will introduce the blockchain world to many people who do not use it today.
+Praca Metaverse przedstawi świat blockchain wielu osobom, które nie używają go dzisiaj.
 
-Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
+Rzeczywiście, każda praca (czy to cyfrowa, czy nie) może być grywalna, a każde zaangażowanie - nagradzane Meeds. Meeds są udostępniane użytkownikom za pośrednictwem łatwego w użyciu portfela opartego na blockchain, który „abstrahuje” przeciętnemu użytkownikowi wszelką złożoność świata kryptowalut.
 
-Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
+Poza portfelem i sklepem, w którym mogą kupować dodatki do Meeds, planujemy wprowadzić każdego użytkownika do kilku produktów dla użytkowników końcowych obsługiwanych przez protokoły Zdecentralizowanego Finansowania, takich jak:
 
-- The ability to stake Meeds tokens and get yields (generate revenues)
-- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
-- A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. This card could also be used by organizations to fund employee wallets in order to manage employee benefits such as restaurants, transportation and any type of expenses.
+- Możliwość obstawiania tokenów Meeds i uzyskiwania plonów (generowanie przychodów)
+- Możliwość korzystania z tokenów Meeds jako zabezpieczenia pożyczania stabilnych monet, takich jak USDC (najpierw wykorzystując
 
-So not only many new users will discover the blockchain world, they will also discover a bankless world.
+pulę bezpieczników, a następnie rejestrując token Meeds w [AAVE](https://aave.com/).</li> 
+  
+  - Karta cyfrowa, którą można dodać i używać za pośrednictwem Apple Pay, Google pay lub dowolnego bankomatu. Te ostatnie mogą być zapewnione poprzez partnerstwo z VISA i będą korzystały z linii kredytowej w USDC, zabezpieczonej przez spółkę Meeds. Karta ta może być również wykorzystywana przez organizacje do finansowania portfeli pracowniczych w celu zarządzania świadczeniami pracowniczymi, takimi jak restauracje, transport i wszelkiego rodzaju wydatki.</ul> 
+
+Tak więc nie tylko wielu nowych użytkowników odkryje świat blockchain, ale także odkryje świat bez bankowości.
 
  
