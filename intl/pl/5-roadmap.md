@@ -70,16 +70,16 @@ We are counting on the early adopters from the DAOs and tech-savvy companies dur
 
 Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature metaverse, having spread to many organizations and many users globally.
 
-## 5.6. What you can do right now
+## 5.6. Co możesz teraz zrobić
 
-What can you do right now to participate?
+Co możesz teraz zrobić, aby wziąć udział?
 
-- Spread this paper to those who would be interested
-- Visit our website [meeds.io](https://www.meeds.io/)
-- Check out the [Investor app](https://meeds.io/investors)
-- Contribute to the existing liquidity pools here :
-  - [Cometh Swap](https://swap.cometh.io/)
-  - [Sushi Swap](https://sushi.com)
+- Rozpowszechnienie tego dokumentu wśród tych, którzy byliby zainteresowani
+- Odwiedź naszą stronę [meeds.io](https://www.meeds.io/)
+- Sprawdź aplikację [Investor](https://meeds.io/investors)
+- Przyczyn się do istniejących puli płynności tutaj:
+  - [Wymiana kometh](https://swap.cometh.io/)
+  - [Wymiana Sushi](https://sushi.com)
 - Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
 - Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
 
