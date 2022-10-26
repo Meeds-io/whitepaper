@@ -1,153 +1,153 @@
 
-# 2. Deeds NFT - Work Metaverse Organizations
+# 2. Akty NFT - Organizacje pracy Metaverse
 
-## 2.1. NFT – Deeds defined
+## 2.1. NFT – Akty zdefiniowane
 
-A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+Niewymienny token (NFT) to unikalny token reprezentujący towar. W WoM, czyn jest używany jako tytuł własności. Każdy akt daje właścicielowi prawo dostępu do kilku usług - na przykład dostęp do cyfrowego biura, obsługiwanego przez oprogramowanie Meeds oraz prawo do mintu Meeds. W WoM, akt jest używany jako tytuł własności. Każdy akt daje jego właścicielowi prawo dostępu do kilku usług – na przykład dostęp do cyfrowego biura obsługiwanego przez oprogramowanie Meeds oraz prawo do bicia Meets.
 
-The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM.
+WoM zaprasza wszelkiego rodzaju organizacje – DAO, tradycyjne korporacje, stowarzyszenia, think tanki, spółki partnerskie, teatry, grupy projektowe, szkoły itp. Akty reprezentuja ich cyfrową egzystencję w WoM.
 
-## 2.2. Deeds supply
+## 2.2. Dostarczenie aktów
 
-The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of Meeds rewarding (Minting Power). The term ‘user’ here and hereafter designates any type of employee, worker, freelancer, volunteer etc.
+WoM ostatecznie dostarczy ograniczoną ilość aktów. Każdy akt zawiera predefiniowaną maksymalną liczbę użytkowników i oferuje zdolność nagradzania Meeds (Minting Power). Termin „użytkownik” tutaj i dalej oznacza dowolny typ pracownika, pracownika, freelancera, wolontariusza itp.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
+Istnieją cztery rodzaje aktów, z których każdy zapewnia różne możliwości pod względem liczby użytkowników, prawa głosu w mieście (patrz 2.7) lub siły mint Meeds, przy czym najrzadszy jest najpotężniejszy:
 
-| **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
-| ------------- | ------------- | ----------------- | ------------ | ---------------------- |
-| Common        | 100           | 1                 | ~ 90%        | 1                      |
-| Uncommon      | 1000          | 1.1               | ~ 9%         | 10                     |
-| Rare          | 10 000        | 1.3               | ~ 1%         | 100                    |
-| Legendary     | unlimited     | 2                 | < 0.1 %      | 1000                   |
+| **Typ Aktu** | **Maksymalna liczba użytkowników** | **Moc bicia** | **Niedostatek** | **Prawo do głosowania w mieście** |
+| ------------ | ---------------------------------- | ------------- | --------------- | --------------------------------- |
+| Zwykły       | 100                                | 1             | ~ 90%           | 1                                 |
+| Niezwykły    | 1000                               | 1.1           | ~ 9%            | 10                                |
+| Rzadki       | 10 000                             | 1.3           | ~ 1%            | 100                               |
+| Legendarny   | nieograniczony                     | 2             | < 0.1 %         | 1000                              |
 
-## 2.3. Deeds ownership
+## 2.3. Akty własności
 
-A Deed gives its owner the right to USE it, RENT it, or SELL it.
+Akt daje właścicielowi prawo do UŻYWANIA, WYPOŻYCZANIA lub SPRZEDAŻY.
 
-- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
-- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
-- SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
+- UŻYTKOWANIE – Właściciele aktu mogą korzystać z aktu bezpośrednio w swojej organizacji, świadcząc usługi dla jego użytkowników.
+- WYNAJEM - Właściciele aktu mogą również wydzierżawić akt innej organizacji w celu uzyskania pasywnego dochodu.
+- SPRZEDAŻ — Akt własności można sprzedać na rynku wtórnym, takim jak OpenSea.
 
-Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
+Będąc aktywnym posiadaczem lub najemcą Aktu, organizacja jest nagradzana Meeds, poprzez innowacyjny model „mintium” opisany poniżej (część 2.6).
 
-## 2.4. Deeds services, engagement/rewards engine
+## 2.4. Usługi aktów, silnik zaangażowania/nagród
 
-In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
+Na coraz bardziej konkurencyjnym rynku, aby przyciągnąć i zatrzymać talenty oraz zmaksymalizować ich wkład, organizacje muszą motywować swoich użytkowników poza zwykłym wynagrodzeniem. WoM zapewnia innowacyjne ramy, aby to zrobić, tokenizując zaangażowanie w pracę.
 
-Each Deed’s holder or renter can provide tools and services to its users, who earn engagement points that can be fine-tuned to the Deed’s priorities. Periodically, points are converted into Meeds (and - for DAOs - potentially another token), based on the Deed’s set budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
+Posiadacz lub najemca każdego aktu może zapewnić narzędzia i usługi swoim użytkownikom, którzy zdobywają punkty zaangażowania, które można dostosować do priorytetów aktu. Okresowo punkty są zamieniane na Meeds (i – w przypadku DAO – potencjalnie inny token), na podstawie ustalonego budżetu aktu. W ten sposób nagradzane jest zaangażowanie użytkowników w działania ważne dla organizacji.
 
-To begin with, the following free services provided by the Meeds association can be used to reward engagement:
+Na początek następujące bezpłatne usługi świadczone przez stowarzyszenie Meeds mogą być wykorzystywane do nagradzania zaangażowania:
 
-- **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the Deed’s priorities via customizable engagement programs.
-- **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
-- **Customizable engagement programs** - organizations can create their own engagement programs matching their business goals and priorities. Programs are associated to automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatics or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
-- **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
-- **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
-- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
-- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
-- **Analytics** – to analyze and follow engagement within the Deed.
-- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
+- **Silnik grywalizacji** – automatyczne działania w WoM ma wagę punktów, które można dostosować do priorytetów Czynu za pomocą dostosowywanych programów zaangażowania.
+- **Wyzwania** – konfigurowalne wyzwania mogą być skonfigurowane, aby reprezentować osiągnięcia. Wyzwania są ustawiane przez jedną osobę i mogą być wypełnione i ogłoszone jako takie przez inną. Wyzwania mają znaczenie punktowe, w ramach dostosowywalnych programów zaangażowania.
+- **Konfigurowalne programy zaangażowania** - organizacje mogą tworzyć własne programy zaangażowania dopasowane do ich celów i priorytetów biznesowych. Programy są powiązane z automatycznymi akcjami w systemie i ręcznie ustawianymi wyzwaniami. Każdy program ma ustalony budżet Meeds. Okresowo punkty zdobyte przez każdego użytkownika poprzez automatykę lub zapowiedziane działania w każdym programie angażującym są zamieniane na Meeds, w oparciu o budżet tego programu.
+- **Kudos** - kudos mogą być przyznawane sobie przez użytkowników, jako podziękowanie i dowód uznania. Ponieważ kudo dostępne do dystrybucji są ograniczone (ustalony okresowy limit, na przykład 3 na tydzień), są rzadkie i cenne. Podobnie jak akcje, kudo niesie ze sobą punkty. W ten sposób pracownicy mogą nagradzać swoich współpracowników. Ponieważ kudo dostępne do dystrybucji są ograniczone (ustalony okresowy limit, na przykład 3 na tydzień), są rzadkie i cenne. Podobnie jak akcje, kudo niesie ze sobą punkty. W ten sposób pracownicy mogą nagradzać swoich współpracowników.
+- **Narzędzia** - do współpracy podłączone do silnika nagradzania – obszary robocze, komunikacja asynchroniczna, narzędzie do zarządzania zadaniami i notatki – umożliwiają ludziom wspólną pracę nad projektami.
+- **Portfel ** – użytkownicy otrzymują bezpieczny portfel w technologii Ethereum do przechowywania swoich Meedów. Alternatywnie, dla zaawansowanych użytkowników, można użyć portfela Metamask.
+- **Sklep** – sklep, w którym Meeds można wymieniać na korzyści zapewniane przez posiadacza lub wynajmującego Akty lub przez ekosystem Meeds.
+- **Analityka** – analiza i śledzenie zaangażowania w ramach aktu.
+- **Łączniki** podłączone do silnika nagród – użytkownicy otrzymują punkty zaangażowania poprzez działania w innym oprogramowaniu – na przykład za zatwierdzenie kodu w GitHub.
 
-Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
+Niektóre z wyżej wymienionych narzędzi i usług są już zdecentralizowane, inne nie. Ostatecznym celem jest świadczenie wszystkich usług w sposób zdecentralizowany, co będziemy robić stopniowo w miarę rozwoju technologii bazowej.
 
-New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
+Nowe usługi można podłączyć do mechanizmu nagradzania za pośrednictwem interfejsów API. Przykłady są niezliczone i mogą obejmować praktycznie dowolne oprogramowanie lub usługę:
 
-- CRM software – salespeople would get engagement points for working on opportunities.
-- Accounting software – accountants would get engagement points for keeping books.
-- Clocking terminal – factory worker can get points for factory work time.
-- Etc.
+- Oprogramowanie CRM – sprzedawcy otrzymują punkty zaangażowania za pracę nad szansami.
+- Oprogramowanie księgowe – księgowi otrzymują punkty zaangażowania za prowadzenie ksiąg.
+- Terminal zegarowy – pracownik fabryki może otrzymać punkty za czas pracy w fabryce.
+- Itd.
 
-Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
+Ponadto zaangażowanie generowane przez łącznik uczestniczy w globalnym wyniku zaangażowania organizacji, który jest czynnikiem dystrybucji bicia Meeds, opisanego poniżej. Aby to zrobić, łącznik musi być umieszczony na białej liście stowarzyszenia Meeds. Stowarzyszenie dokonuje przeglądu łącznika, zatwierdza jego algorytm i przejmuje jego własność przeciwko Meeds. Stowarzyszenie zebrane przegląda, jego zmiana i technika przeglądu i opanowanie nowości Meeds. Każdy inny akt może używać tego samego łącznika i tego samego algorytmu nagradzania dla swoich programistów.
 
-The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
+Posiadacz lub najemca aktu może wzbogacić swój sklep o własne bonusy, połączyć się z ofertą bonusów online itp. Tam znowu możliwości są nieograniczone:
 
-- Training courses
-- Gym memberships
-- Vacation packages
-- Lunch with a leader in the organization
-- Physical office space
-- Etc.
+- Kursy przygotowujące
+- Karnety na siłownię
+- Wakacyjne bagaże
+- Lunch z liderem w organizacji
+- Fizyczna powierzchnia biurowa
+- Itd.
 
-The store functions through the use of Meeds so that Meeds are partially returned to the Deed.
+Sklep działa poprzez wykorzystanie Meeds, dzięki czemu Meeds są częściowo zwracane do Aktu.
 
-## 2.5. Rewards – Meeds and other tokens
+## 2.5. Nagrody – Meeds i inne żetony
 
-The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs. Indeed, each Deed can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
+WoM będzie tokenizować zaangażowanie użytkowników poprzez grywalizację cyfrowych narzędzi pracy oraz przypisywanie punktów i potrzeb związanych z zaangażowaniem w pracę. Usługi podłączone do atrybutów silnika zaangażowania i nagród dla każdego użytkownika, zgodnie z jego poziomem zaangażowania i zgodnie z programami zaangażowania każdego aktu. Rzeczywiście, każdy Akt może doprecyzować ilość punktów przyznanych za każdy rodzaj działalności. W związku z tym, wypchnięcie jakiegoś kodu w GitHub może być warte 10 punktów dla sklepu IT, podczas gdy agencja cyfrowa może przypisać tylko 5 punktów za popchnięcia GitHub, ale zaoferuje 10 punktów za retweety.
 
-Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Deed is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
+Okresowo, nagradzający silnik zamienia punkty zaangażowania na Meeds zgodnie z budżetami i innymi zasadami dystrybucji, a ostatecznie nagradza użytkowników za pośrednictwem ich portfeli. Akt nie jest wymagany do dystrybucji Meeds i może korzystać z systemu zaangażowania w celu umożliwienia innej formy programu kompensacyjnego. Jednak dystrybucja Meeds poprawi jego zdolność bicia.
 
-Moreover, the Deed does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
+Co więcej, Akt niekoniecznie musi nabywać Meeds w celu ich dystrybucji i napędzania programów zaangażowania, ponieważ otrzyma Meeds z modelu „mintium”, opisanego poniżej.
 
-In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
+Oprócz Meeds możliwa będzie również dystrybucja innych tokenów (np. własnych tokenów DAO) w oparciu o ten sam mechanizm zaangażowania. W takim przypadku dystrybucja będzie podlegać 5% opłacie transakcyjnej (w tokenie DAO) na rzecz Meeds Association.
 
-## 2.6. The “mintium” model – tokenize work engagement
+## 2.6. Model „mintium” – tokenizacja zaangażowania w pracę
 
-By engaging their users in the WoM, Deeds get compensated through an innovative mintium model.
+Angażując swoich użytkowników w WoM, Akty są rekompensowane przez innowacyjny model Mintium.
 
-Engagement points, gained by the Deeds’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Deeds. Even though the Deed can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
+Punkty zaangażowania, zdobyte przez użytkowników aktów, biorą udział w globalnym indeksie zaangażowania, obliczanym przez Meeds Association. Indeks stosuje tę samą zasadę dla wszystkich aktów. Nawet jeśli Akt może zmienić przydział punktów, aby promować jedną akcję nad inną, zmiany te nie będą brane pod uwagę przy obliczaniu indeksu globalnego.
 
-Each week, a certain amount of Meeds is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Deeds. Some Deeds get an additional boost depending on their type. The Deeds that claim their Meeds over the week, receive them. The unclaimed Meeds are added to the following week’s global distribution amount.
+Każdego tygodnia pewna ilość Meeds jest przydzielana na globalną mennicę zaangażowania WoM. Jest obliczany co tydzień, proporcjonalnie, wśród uczestniczących czynów. Niektóre czyny otrzymują dodatkową premię w zależności od ich rodzaju. Niektóre akty dodatkowe premię w wersji od ich rodzaju. Nieodebrane Meeds są dodawane do globalnej kwoty dystrybucji w następnym tygodniu.
 
-The engagement score _S_  of a Deed is a function of the engagement, the number of engaged users and the distribution :
+Wynik zaangażowania _S_ czynu jest funkcją zaangażowania, liczby zaangażowanych użytkowników i rozkładu :
 
 $$S = (E_d / E_w) * D_r * D_s * M$$
 
-Where :
+Gdzie :
 
-- $A$ = _Activity_ - total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
-- $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
-- $E_d$ = _Engagement rate of the deed_ - actions per user ($A/U$)
-- $E_w$ = _Average engagement rate_ of all active Deeds in the WoM.
-- $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
-- $D_s$ =  _Distribution spread_ - if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
-- $M$ = _Minting Power_ of the Deed as defined in 2.3
-
-
-The global engagement index used to distribute minted Meeds among the Deeds is the sum of all Deeds’ engagement scores for the week.
+- $A$ = _Aktywność_ — całkowita liczba działań zgromadzonych przez użytkowników w ramach Czynu w ciągu tygodnia. (Na poziomie każdego Aktu każda akcja jest zamieniana na punkty zaangażowania, przy czym niektóre działania ważą więcej niż inne. (Na poziomie każdego Aktu każda kazda jest zamieniana na każde punkty, przy czym niektóre działania ważą więcej niż inne.
+- $U$ = __Zaangażowani użytkownicy</em> — użytkownicy, którzy w ciągu tygodnia przyczynili się do zdobycia punktów za co najmniej jedno działanie.
+- $E_d$ = _Wskaźnik zaangażowania w akt _- działania na u</em>żytkownika ($A/U$)
+- $E_w$ = _Średni wskaźnik zaangażowania_ wszystkich aktywnych czynów w WoM.
+- $D_r$ = _Wskaźnik dystrybucji_ - jeśli Akt otrzymał wybite Meeds za poprzedni okres, % Meeds, które zostały rozdane jego użytkownikom. Wartość % może być wyższa niż 100, jeśli dystrybucja jest opóźniona w czasie.
+- $D_s$ = _Spread dystrybucyjny_ - jeśli Deed otrzymał wybite Meeds za poprzedni okres, % użytkowników, którzy otrzymali Meeds w całkowitej puli użytkowników.
+- $M$ = _Moc Mintingu_ Aktu zgodnie z definicją w 2.3
 
 
-The formula above is simple and designed to favor deeds :
+Globalny wskaźnik zaangażowania używany do rozdzielania wybitych Meeds wśród Aktów jest sumą wyników zaangażowania wszystkich Aktów w danym tygodniu.
 
-- with lots of engaged users (engagement)
-- who share the whole of the minting income (distribution rate) with their users fairly (distribution spread).
 
-Additionnally boosters are in place for :
+Powyższa formuła jest prosta i ma na celu faworyzowanie czynów:
 
-- organizations with the highest engagement, regardless of their size (engagement rate in relation to the WoM)
-- scarcer deeds
+- z dużą ilością zaangażowanych użytkowników (zaangażowanie)
+- którzy sprawiedliwie dzielą się całym dochodem z bicia (współczynnikiem dystrybucji) ze swoimi użytkownikami (rozpiętość dystrybucji).
 
-> The Meeds association reserves the right to change the formula if required – if some specific use cases arise for instance. The association can also blacklist any Deed that hijacks the formula to its unique benefit.
+Dodatkowo dopalacze są dostępne dla:
 
-As the Deeds are rewarded with Meeds and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the Deeds and their users are aligned in the same virtuous revenue sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
+- organizacje o największym zaangażowaniu, niezależnie od ich wielkości (wskaźnik zaangażowania w stosunku do WoM)
+- rzadsze akty
 
-The “mintium” model is the first of a kind - it goes further than the traditional freemium one, as not only the services are free to use but both the organizations and their users are rewarded for using them.
+> Stowarzyszenie Meeds zastrzega sobie prawo do zmiany formuły w razie potrzeby – na przykład w przypadku wystąpienia szczególnych przypadków użycia. Stowarzyszenie może również umieścić na czarnej liście każdy akt, który przechwytuje formułę, aby uzyskać wyjątkową korzyść.
 
-## 2.7. Cities and governance
+Ponieważ Akty są nagradzane Meedami i zachęcane do redystrybucji ich jako nagrody dla swoich użytkowników za ich zaangażowanie – interesy zarówno Aktów, jak i ich użytkowników są wyrównane w tym samym cnotliwym cyklu podziału przychodów. Tym samym WoM oferuje nowy model pracy, który przekształca relację pracodawca/pracownik jako partnerstwo.
 
-In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
+Model „mintium” jest pierwszym w swoim rodzaju – idzie dalej niż tradycyjny model freemium, ponieważ nie tylko korzystanie z usług jest darmowe, ale zarówno organizacje, jak i ich użytkownicy są za to wynagradzani.
 
-A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
+## 2.7. Miasta i zarządzanie
 
-| **City name** | **Deeds**   | **Available**        | **Common** | **Uncommon** | **Rare**  | **Legendary** |
-| ------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
-| 1: Tanit      | 100         | T0                   | 50         | 30           | 13        | 7             |
-| 2: Reshef     | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
-| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
-| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
+W WoM Akty będą generowane stopniowo w wirtualnych miastach. Od początku będzie istniało tylko pierwsze miasto. Pozostałe będą budowane stopniowo, jedna po drugiej. W całym WoM będzie tylko 7 miast, każde z określoną liczbą aktów każdego typu.
 
-A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
+Miasto zostanie uznane za kompletne, gdy wszystkie jego Akty zostaną wybite. Następnie bicie każdego nowego miasta rozpocznie się w ciągu 2^n$ miesięcy po wybiciu ostatniego czynu w mieście o wartości $n-1$.
 
-Each city has its own govenance and operates its own DAO where the city’s Deeds’ owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
+| **Nazwa miasta** | **Akty**    | **Do dyspozycji**      | **Zwykły**             | **Niezwykły** | **Rzadki** | **Legendarny** |
+| ---------------- | ----------- | ---------------------- | ---------------------- | ------------- | ---------- | -------------- |
+| 1: Tanit         | 100         | T0                     | 50                     | 30            | 13         | 7              |
+| 2: Reshef        | 1 000       | Tanit + 4 miesiące     | 600                    | 300           | 94         | 6              |
+| 3: Ashtarte      | 10 000      | Reshef + 8 miesięcy    | Ashtarte + 16 miesięcy | 3 000         | 995        | 5              |
+| 4: Melqart       | 100 000     | Ashtarte + 16 miesięcy | 60 000                 | 30 000        | 9 996      | 4              |
+| 5: Eshmun        | 1 000 000   | Melqart + 32 miesiące  | 600 000                | 300 000       | 99 997     | 3              |
+| 6: Kushor        | 10 000 000  | Eszmum + 64 miesiące   | 6 000 000              | 60 000 000    | 999 998    | 2              |
+| 7: Hammon        | 100 000 000 | Kuszor + 128 miesięcy  | 60 000 000             | 30 000 000    | 9 999 999  | 1              |
 
-For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add Meeds powered food services, vacations services, etc...
+Miasto to sposób, w jaki akty łączą się i tworzą społeczność. A w konsekwencji nabyć pewnej tożsamości, związanej z tą społecznością. Jest to również sposób na zapewnienie użytkownikom dodatkowej wartości – wartości, która wykraczałaby poza możliwości jednego aktu lub wartość wytworzoną dzięki współpracy aktów.
 
-By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
+Każde miasto ma swój własny zarząd i prowadzi własne DAO, w którym właściciele miasta mogą wybierać radę miejską, głosować i ustanawiać własne zasady działania, dodawać nowe usługi i kształtować swoje miasto w sposób, w jaki chcą i aby zwiększyć atrakcyjność miasta i wartość czynów z nim związanych.
 
-Ownsership transactions (Deed’s sales) will also be taxed 6% :
+Na przykład mogą dodać cyfrową reprezentację swojego miasta, fizyczne odpowiedniki związane z ich miastem (na przykład sale konferencyjne w fizycznych przestrzeniach coworkingowych), dodać usługi gastronomiczne zasilane przez Meeds, usługi wakacyjne itp...
 
-- 2.5% for the City,
-- 2.5% for the Association,
-- 1% for the original wallet that redeemed the Deed.
+Domyślnie (chyba, że ​​miasto zagłosuje inaczej), pasywny dochód z wynajmu Czynów będzie „opodatkowany” przez miasto (5%) i Stowarzyszenie (3%) w celu zachęcenia do produktywnego wykorzystania.
+
+Transakcje własnościowe (sprzedaż aktu) również będą opodatkowane 6%:
+
+- 2,5% dla Miasta
+- 2,5% dla Stowarzyszenia,
+- 1% za oryginalny portfel, który wykorzystał Akt.
