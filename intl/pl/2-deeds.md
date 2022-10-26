@@ -1,40 +1,40 @@
 
-# 2. Akty NFT - Organizacje pracy Metaverse
+# 2. Deed NFT - Organizacje Praca Metaverse
 
-## 2.1. NFT – Akty zdefiniowane
+## 2.1. NFT – Deed zdefiniowane
 
-Niewymienny token (NFT) to unikalny token reprezentujący towar. W WoM, czyn jest używany jako tytuł własności. Każdy akt daje właścicielowi prawo dostępu do kilku usług - na przykład dostęp do cyfrowego biura, obsługiwanego przez oprogramowanie Meeds oraz prawo do mintu Meeds. W WoM, akt jest używany jako tytuł własności. Każdy akt daje jego właścicielowi prawo dostępu do kilku usług – na przykład dostęp do cyfrowego biura obsługiwanego przez oprogramowanie Meeds oraz prawo do bicia Meets.
+Niewymienny token (NFT) to unikalny token reprezentujący towar. W WoM, Deed jest używany jako tytuł własności. Każdy Deed daje jego właścicielowi prawo dostępu do kilku usług – na przykład dostęp do cyfrowego biura obsługiwanego przez oprogramowanie Meeds oraz prawo do bicia Meeds.
 
-WoM zaprasza wszelkiego rodzaju organizacje – DAO, tradycyjne korporacje, stowarzyszenia, think tanki, spółki partnerskie, teatry, grupy projektowe, szkoły itp. Akty reprezentuja ich cyfrową egzystencję w WoM.
+WoM zaprasza wszelkiego rodzaju organizacje – DAO, tradycyjne korporacje, stowarzyszenia, think tanki, spółki partnerskie, teatry, grupy projektowe, szkoły itp. Deed reprezentuje ich cyfrową egzystencję w WoM.
 
-## 2.2. Dostarczenie aktów
+## 2.2. Dostarczenie Deeds
 
-WoM ostatecznie dostarczy ograniczoną ilość aktów. Każdy akt zawiera predefiniowaną maksymalną liczbę użytkowników i oferuje zdolność nagradzania Meeds (Minting Power). Termin „użytkownik” tutaj i dalej oznacza dowolny typ pracownika, pracownika, freelancera, wolontariusza itp.
+WoM ostatecznie dostarczy ograniczoną ilość Deeds. Każdy Deed zawiera predefiniowaną maksymalną liczbę użytkowników i oferuje zdolność nagradzania Meeds (Minting Power). Termin „użytkownik” tutaj i dalej oznacza dowolny typ pracownika, pracownika, freelancera, wolontariusza itp.
 
-Istnieją cztery rodzaje aktów, z których każdy zapewnia różne możliwości pod względem liczby użytkowników, prawa głosu w mieście (patrz 2.7) lub siły mint Meeds, przy czym najrzadszy jest najpotężniejszy:
+Istnieją cztery rodzaje Deed, z których każdy zapewnia różne możliwości pod względem liczby użytkowników, prawa głosu w mieście (patrz 2.7) lub siły mint Meeds, przy czym najrzadszy jest najpotężniejszy:
 
-| **Typ Aktu** | **Maksymalna liczba użytkowników** | **Moc bicia** | **Niedostatek** | **Prawo do głosowania w mieście** |
+| **Typ Deed** | **Maksymalna liczba użytkowników** | **Moc bicia** | **Niedostatek** | **Prawo do głosowania w mieście** |
 | ------------ | ---------------------------------- | ------------- | --------------- | --------------------------------- |
-| Zwykły       | 100                                | 1             | ~ 90%           | 1                                 |
+| Powszechny   | 100                                | 1             | ~ 90%           | 1                                 |
 | Niezwykły    | 1000                               | 1.1           | ~ 9%            | 10                                |
 | Rzadki       | 10 000                             | 1.3           | ~ 1%            | 100                               |
 | Legendarny   | nieograniczony                     | 2             | < 0.1 %         | 1000                              |
 
-## 2.3. Akty własności
+## 2.3. Deeds własności
 
-Akt daje właścicielowi prawo do UŻYWANIA, WYPOŻYCZANIA lub SPRZEDAŻY.
+Deed daje właścicielowi prawo do UŻYWANIA, WYPOŻYCZANIA lub SPRZEDAŻY.
 
-- UŻYTKOWANIE – Właściciele aktu mogą korzystać z aktu bezpośrednio w swojej organizacji, świadcząc usługi dla jego użytkowników.
-- WYNAJEM - Właściciele aktu mogą również wydzierżawić akt innej organizacji w celu uzyskania pasywnego dochodu.
-- SPRZEDAŻ — Akt własności można sprzedać na rynku wtórnym, takim jak OpenSea.
+- UŻYTKOWANIE – Właściciele Deeds mogą korzystać z aktu bezpośrednio w swojej organizacji, świadcząc usługi dla jego użytkowników.
+- WYNAJEM - Właściciele Deed mogą również wydzierżawić akt innej organizacji w celu uzyskania pasywnego dochodu.
+- SPRZEDAŻ — Deed własności można sprzedać na rynku wtórnym, takim jak [OpenSea](https://opensea.io).
 
-Będąc aktywnym posiadaczem lub najemcą Aktu, organizacja jest nagradzana Meeds, poprzez innowacyjny model „mintium” opisany poniżej (część 2.6).
+Będąc aktywnym posiadaczem lub najemcą Deed, organizacja jest nagradzana Meeds, poprzez innowacyjny model „mintium” opisany poniżej (część 2.6).
 
 ## 2.4. Usługi aktów, silnik zaangażowania/nagród
 
 Na coraz bardziej konkurencyjnym rynku, aby przyciągnąć i zatrzymać talenty oraz zmaksymalizować ich wkład, organizacje muszą motywować swoich użytkowników poza zwykłym wynagrodzeniem. WoM zapewnia innowacyjne ramy, aby to zrobić, tokenizując zaangażowanie w pracę.
 
-Posiadacz lub najemca każdego aktu może zapewnić narzędzia i usługi swoim użytkownikom, którzy zdobywają punkty zaangażowania, które można dostosować do priorytetów aktu. Okresowo punkty są zamieniane na Meeds (i – w przypadku DAO – potencjalnie inny token), na podstawie ustalonego budżetu aktu. W ten sposób nagradzane jest zaangażowanie użytkowników w działania ważne dla organizacji.
+Posiadacz lub najemca każdego Deed może zapewnić narzędzia i usługi swoim użytkownikom, którzy zdobywają punkty zaangażowania, które można dostosować do priorytetów Deed. Okresowo punkty są zamieniane na Meeds (i – w przypadku DAO – potencjalnie inny token), na podstawie ustalonego budżetu Deed. W ten sposób nagradzane jest zaangażowanie użytkowników w działania ważne dla organizacji.
 
 Na początek następujące bezpłatne usługi świadczone przez stowarzyszenie Meeds mogą być wykorzystywane do nagradzania zaangażowania:
 
@@ -128,7 +128,7 @@ W WoM Akty będą generowane stopniowo w wirtualnych miastach. Od początku będ
 
 Miasto zostanie uznane za kompletne, gdy wszystkie jego Akty zostaną wybite. Następnie bicie każdego nowego miasta rozpocznie się w ciągu 2^n$ miesięcy po wybiciu ostatniego czynu w mieście o wartości $n-1$.
 
-| **Nazwa miasta** | **Akty**    | **Do dyspozycji**      | **Zwykły**             | **Niezwykły** | **Rzadki** | **Legendarny** |
+| **Nazwa miasta** | **Deeds**   | **Do dyspozycji**      | **Powszechny**         | **Niezwykły** | **Rzadki** | **Legendarny** |
 | ---------------- | ----------- | ---------------------- | ---------------------- | ------------- | ---------- | -------------- |
 | 1: Tanit         | 100         | T0                     | 50                     | 30            | 13         | 7              |
 | 2: Reshef        | 1 000       | Tanit + 4 miesiące     | 600                    | 300           | 94         | 6              |
