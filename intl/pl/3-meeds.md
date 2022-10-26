@@ -85,7 +85,7 @@ który prowadzi do następującego czasu przetrzymywania dla każdej klasy posia
 
 | **Typ karty** | **Koszt**       | **Duży uchwyt** | **Średni uchwyt** | **Mały uchwyt** |
 | ------------- | --------------- | --------------- | ----------------- | --------------- |
-| Zwykły        | 8 000 punktów   | 25 dni          | 49 dni            | 9 miesięcy      |
+| Powszechny    | 8 000 punktów   | 25 dni          | 49 dni            | 9 miesięcy      |
 | Niezwykły     | 32 000 punktów  | 100 dni         | 6 miesięcy        | 3 lata          |
 | Rzadki        | 50 000 punktów  | 156 dni         | 10 miesięcy       | 5 lat           |
 | Legendarny    | 100 000 punktów | 311 dni         | 20 miesięcy       | 10 lat          |
