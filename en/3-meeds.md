@@ -48,7 +48,7 @@ After the minting period is over, the association will be sustained by :
 
 - taxing passive income (3% on Deeds renting)
 - taxing selling income (2.5% on Deeds sales)
-- perceiving transaction fees over the user of the perks stores
+- perceiving transaction fees over the use of the perks stores
 - acting as a liquidity pool provider
 - perceiving transaction fees when a Deed distributes non Meeds tokens via WoM
 services.
