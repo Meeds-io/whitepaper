@@ -57,13 +57,13 @@ Nowe usługi można podłączyć do mechanizmu nagradzania za pośrednictwem int
 - Terminal zegarowy – pracownik fabryki może otrzymać punkty za czas pracy w fabryce.
 - Itd.
 
-Ponadto zaangażowanie generowane przez łącznik uczestniczy w globalnym wyniku zaangażowania organizacji, który jest czynnikiem dystrybucji bicia Meeds, opisanego poniżej. Aby to zrobić, łącznik musi być umieszczony na białej liście stowarzyszenia Meeds. Stowarzyszenie dokonuje przeglądu łącznika, zatwierdza jego algorytm i przejmuje jego własność przeciwko Meeds. Stowarzyszenie zebrane przegląda, jego zmiana i technika przeglądu i opanowanie nowości Meeds. Każdy inny Deed może używać tego samego łącznika i tego samego algorytmu nagradzania dla swoich programistów.
+Ponadto zaangażowanie generowane przez łącznik uczestniczy w globalnym wyniku zaangażowania organizacji, który jest czynnikiem dystrybucji bicia Meeds, opisanego poniżej. Aby to zrobić, łącznik musi być umieszczony na białej liście stowarzyszenia Meeds. Stowarzyszenie dokonuje przeglądu łącznika, zatwierdza jego algorytm i przejmuje jego własność przeciwko Meeds. Następnie staje się częścią bezpłatnych usług świadczonych przez stowarzyszenie i jest uwzględniany w globalnym indeksie zaangażowania. Każdy inny Deed może używać tego samego łącznika i tego samego algorytmu nagradzania dla swoich programistów.
 
 Posiadacz lub najemca Deed może wzbogacić swój sklep o własne bonusy, połączyć się z ofertą bonusów online itp. Tam znowu możliwości są nieograniczone:
 
 - Kursy przygotowujące
 - Karnety na siłownię
-- Wakacyjne bagaże
+- Wakacyjne karty podarunkowe
 - Lunch z liderem w organizacji
 - Fizyczna powierzchnia biurowa
 - Itd.
@@ -94,7 +94,7 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Gdzie :
 
-- $A$ = _Aktywność_ — całkowita liczba działań zgromadzonych przez użytkowników w ramach Deed w ciągu tygodnia. (Na poziomie każdego Deed każda akcja jest zamieniana na punkty zaangażowania, przy czym niektóre działania ważą więcej niż inne. (Na poziomie każdego Aktu każda kazda jest zamieniana na każde punkty, przy czym niektóre działania ważą więcej niż inne.
+- $A$ = _Aktywność_ — całkowita liczba działań zgromadzonych przez użytkowników w ramach Deed w ciągu tygodnia. (Na poziomie każdego Deed każda akcja jest zamieniana na punkty zaangażowania, przy czym niektóre działania ważą więcej niż inne. Na poziomie indeksu wszystkie akcje są linearyzowane).
 - $U$ = _Zaangażowani użytkownicy_ — użytkownicy, którzy w ciągu tygodnia przyczynili się do zdobycia punktów za co najmniej jedno działanie.
 - $E_d$ = _Wskaźnik zaangażowania w Deed_ - działania na u żytkownika ($A/U$)
 - $E_w$ = _Średni wskaźnik zaangażowania_ wszystkich aktywnych Deeds w WoM.
