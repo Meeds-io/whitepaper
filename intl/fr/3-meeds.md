@@ -43,7 +43,7 @@ Une fois la période d’émission terminée, l’association sera soutenue par 
 
 - les taxes sur les revenus passifs (3% sur les locations de Deeds)
 - les taxes sur les revenus de vente (2.5% sur les ventes de Deeds)
-- perceiving transaction fees over the use of the perks stores
+- les frais de transactions d'achat dans les boutiques
 - ses revenus en tant que fournisseur de liquidité
 - des commissions quand un Deed distribue des jetons autres que des Meeds via les services du WoM.
 - les revenus degagés en opérant les Deeds qu'elle possède
