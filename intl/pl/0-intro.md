@@ -12,7 +12,7 @@ WoM robi to, wprowadzając tożsamości cyfrowe zarówno dla pracodawcy, jak i p
 
 Dzisiejszy rynek pracy jest zepsuty. Nie satysfakcjonuje zarówno pracowników, jak i pracodawców.
 
-Po stronie pracownika trudno jest znaleźć odpowiednią pracę. Rynek pracy faworyzuje określone typy osób, pozostawiając za sobą wspaniałe umiejętności. To pochodzi z zestawu ludzi uprzedzenia – rasowe, płciowe, niepełnosprawne, introwertyczne itp. Na rynku pracy brakuje również przejrzystości co do dostępnych stanowisk i warunków zatrudnienia.
+Po stronie pracownika trudno jest znaleźć odpowiednią pracę. Rynek pracy faworyzuje określone typy osób, pozostawiając za sobą wspaniałe umiejętności. To pochodzi z różnic między typami ludzkich uprzedzeń – rasowych, płciowych, niepełnosprawnych, introwertycznych itp. Na rynku pracy brakuje również przejrzystości co do dostępnych stanowisk i warunków zatrudnienia.
 
 Po zatrudnieniu, wolności osobiste pracownika są naruszane w zamian za odszkodowanie. Pracownicy mają niewiele do powiedzenia na temat godzin pracy, miejsca pracy, treści pracy lub metody pracy. A ich wynagrodzenie rzadko jest powiązane z ich rzeczywistą implikacją lub wartością. Reguły odszkodowawcze są nieprzejrzyste i dlatego są postrzegane jako niesprawiedliwe. Ponadto wynagrodzenie i rozwój kariery zależą również od czynnika ludzkiego – dobrej wiary i obiektywizmu pracownika bezpośredniego przełożonego.
 
