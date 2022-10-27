@@ -8,7 +8,7 @@ Maksymalna podaż Meeds** jest ograniczona do 100 milionów żetonów**, bitych 
 
 Do tej pory wyprodukowano 5 milionów Meedów (5% całkowitej podaży). Z czego 4,5 mln zostało zamkniętych w kontrakcie skarbca z liniowym nabyciem uprawnień przez ponad 4 lata. Wstępnie wybita kwota została wykorzystana głównie na pozyskanie IP oprogramowania, opłacenie opłat prawnych związanych z emisją tokenów i usług hostingowych.
 
-Reszta jest częścią funduszy__ Meeds DAO__ i zostanie wykorzystana do opłacenia usług, a także niektórych zachęt, takich jak zrzuty lotnicze i kampanie polecające.
+Reszta jest częścią __funduszy Meeds DAO__ i zostanie wykorzystana do opłacenia usług, a także niektórych zachęt, takich jak zrzuty lotnicze i kampanie polecające.
 
 
 ## 3.2. Przydział bicia
@@ -23,21 +23,21 @@ Na początku budowniczowie otrzymują 30% alokacji. 70% jest dzielone między u�
 
 ## 3.3. Użytkownicy – ​​bicie poprzez zaangażowanie
 
-Część stale wybitych meedów jest przydzielana kanałowi kopalni. Dystrybucja odbywa się co tydzień. Na koniec każdego tygodnia indeks zaangażowania jest obliczany i Akty mogą otrzymać swoje nagrody w następnym tygodniu oraz otrzymać swoje Meeds. Nieodebrane Meeds pozostają w funduszu i są dodawane do dystrybucji w następnym tygodniu. Wzór został szczegółowo opisany w poprzednim rozdziale (część 2.6).
+Część stale wybitych meedów jest przydzielana kanałowi kopalni. Dystrybucja odbywa się co tydzień. Na koniec każdego tygodnia indeks zaangażowania jest obliczany i Deeds mogą otrzymać swoje nagrody w następnym tygodniu oraz otrzymać swoje Meeds. Nieodebrane Meeds pozostają w funduszu i są dodawane do dystrybucji w następnym tygodniu. Wzór został szczegółowo opisany w poprzednim rozdziale (część 2.6).
 
 ## 3.4. Budowniczowie – stowarzyszenie Meeds DAO i społeczność budowniczych
 
-WoM i token Meeds są obsługiwane przez organizację non-profit Meeds DAO, opisaną powyżej. Wielozadaniowa umowa o nazwie_ Meeds DAO Funds_ służy do zarządzania wydatkami operacyjnymi stowarzyszenia.
+WoM i token Meeds są obsługiwane przez organizację non-profit Meeds DAO, opisaną powyżej. Wielozadaniowa umowa o nazwie _Meeds DAO Funds_ służy do zarządzania wydatkami operacyjnymi stowarzyszenia.
 
 W okresie bicia, **330% wybitych Meeds jest przydzielanych stowarzyszeniu Meeds.**.
 
 Członkowie stowarzyszenia mogą świadczyć usługi na rzecz stowarzyszenia na podstawie podpisanej umowy o świadczeniu usług ustalającej stawkę osobodni. Usługi są opłacane co miesiąc w Meeds na podstawie ceny rynkowej. Exemples of services include – enriching the Meeds software, developing the WoM app, developing new connectors, operating the cloud service, providing financial and legal services etc.
 
-Nie będąc członkiem, każdy Akt może uczestniczyć w tworzeniu nowego łącznika i być za to wynagradzany – najpierw poprzez stowarzyszenie Meeds, które nabywa łącznik, a następnie poprzez wybijanie przez to łącznik.
+Nie będąc członkiem, każdy Deed może uczestniczyć w tworzeniu nowego łącznika i być za to wynagradzany – najpierw poprzez stowarzyszenie Meeds, które nabywa łącznik, a następnie poprzez wybijanie przez to łącznik.
 
 Stowarzyszenie prowadzi społeczność budowlaną , która wita entuzjastów WoM, którzy chcą przyczynić się do powstania WoM. Stowarzyszenie będzie sponsorować społeczność ze swojego budżetu, rekompensując zaangażowanie członków społeczności.
 
-W ten sposób społeczność będzie funkcjonować jako przykład Aktu, oferując standardowy zestaw usług świadczonych przez stowarzyszenie. Stowarzyszenie stawia Meeds w celu odkupienia aktu dla społeczności. Społeczność będzie wtedy również uczestniczyć w wybijaniu zaangażowania, jak każdy inny akt.
+W ten sposób społeczność będzie funkcjonować jako przykład Aktu, oferując standardowy zestaw usług świadczonych przez stowarzyszenie. Stowarzyszenie stawia Meeds w celu odkupienia Deed dla społeczności. Społeczność będzie wtedy również uczestniczyć w wybijaniu zaangażowania, jak każdy inny Deed.
 
 Po zakończeniu okresu bicia stowarzyszenie będzie podtrzymywane przez:
 
@@ -45,8 +45,8 @@ Po zakończeniu okresu bicia stowarzyszenie będzie podtrzymywane przez:
 - opodatkowanie dochodu ze sprzedaży (2,5% od sprzedaży czynów)
 - postrzeganie opłat transakcyjnych nad użytkownikiem sklepów bonusowych
 - działanie jako dostawca puli płynności
-- postrzeganie opłat transakcyjnych, gdy Akt rozprowadza tokeny inne niż Meeds za pośrednictwem WoM usługi.
-- operując Aktami, które stowarzyszenie wybiło z biegiem czasu.
+- postrzeganie opłat transakcyjnych, gdy Deed rozprowadza tokeny inne niż Meeds za pośrednictwem WoM usługi.
+- operując Deeds, które stowarzyszenie wybiło z biegiem czasu.
 
 
 ## 3.5. Inwestorzy
@@ -61,7 +61,7 @@ Każdy członek ma również prawo do bezpośredniego zakupu dużej ilości Meed
 **Stakowanie / inwestycja długoterminowa**
 :   Aby zachęcić do inwestycji długoterminowych, postawione Meeds są nagradzane. Kiedy obstawia się Meeds, osoba obstawiająca otrzymuje kilka żetonów xMeeds. Nowo wybite Meeds są rozdzielane wśród obstawiających proporcjonalnie do ich zasobów xMeeds. W praktyce wybite Meeds są skutecznie dodawane do zasobów inteligentnego kontraktu xMeeds i przekazywane posiadaczowi xMeeds po rozbiciu.
 
-Stawiając Meeds, inwestorzy mogą również wykupić Akty (a następnie uczestniczyć w wybijaniu poprzez zaangażowanie), zwiększając w ten sposób popyt na tokeny. Każdy postawiony Meeds (xMeeds) zapewnia swojemu właścicielowi określoną liczbę punktów dziennie. Im dłuższy okres uprawniający, tym większa liczba punktów uzyskanych na xMeeds. Każdy akt jest następnie umarzany w zamian za określoną liczbę punktów.
+Stawiając Meeds, inwestorzy mogą również wykupić Akty (a następnie uczestniczyć w wybijaniu poprzez zaangażowanie), zwiększając w ten sposób popyt na tokeny. Każdy postawiony Meeds (xMeeds) zapewnia swojemu właścicielowi określoną liczbę punktów dziennie. Im dłuższy okres uprawniający, tym większa liczba punktów uzyskanych na xMeeds. Każdy Deed jest następnie umarzany w zamian za określoną liczbę punktów.
 
 Punkty oblicza się przy użyciu poniższego wzoru:
 
@@ -103,11 +103,8 @@ Rzeczywiście, każda praca (czy to cyfrowa, czy nie) może być grywalna, a ka�
 Poza portfelem i sklepem, w którym mogą kupować dodatki do Meeds, planujemy wprowadzić każdego użytkownika do kilku produktów dla użytkowników końcowych obsługiwanych przez protokoły Zdecentralizowanego Finansowania, takich jak:
 
 - Możliwość obstawiania tokenów Meeds i uzyskiwania plonów (generowanie przychodów)
-- Możliwość korzystania z tokenów Meeds jako zabezpieczenia pożyczania stabilnych monet, takich jak USDC (najpierw wykorzystując
-
-pulę bezpieczników, a następnie rejestrując token Meeds w [AAVE](https://aave.com/).</li> 
-  
-  - Karta cyfrowa, którą można dodać i używać za pośrednictwem Apple Pay, Google pay lub dowolnego bankomatu. Te ostatnie mogą być zapewnione poprzez partnerstwo z VISA i będą korzystały z linii kredytowej w USDC, zabezpieczonej przez spółkę Meeds. Karta ta może być również wykorzystywana przez organizacje do finansowania portfeli pracowniczych w celu zarządzania świadczeniami pracowniczymi, takimi jak restauracje, transport i wszelkiego rodzaju wydatki.</ul> 
+- Możliwość korzystania z tokenów Meeds jako zabezpieczenia pożyczania stabilnych monet, takich jak USDC (najpierw wykorzystując [pulę bezpieczników](https://app.rari.capital/fuse), a następnie rejestrując token Meeds w [AAVE](https://aave.com/).
+- Karta cyfrowa, którą można dodać i używać za pośrednictwem Apple Pay, Google pay lub dowolnego bankomatu. Te ostatnie mogą być zapewnione poprzez partnerstwo z VISA i będą korzystały z linii kredytowej w USDC, zabezpieczonej przez spółkę Meeds. Karta ta może być również wykorzystywana przez organizacje do finansowania portfeli pracowniczych w celu zarządzania świadczeniami pracowniczymi, takimi jak restauracje, transport i wszelkiego rodzaju wydatki.
 
 Tak więc nie tylko wielu nowych użytkowników odkryje świat blockchain, ale także odkryje świat bez bankowości.
 
