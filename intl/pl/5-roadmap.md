@@ -6,7 +6,7 @@ Ostatecznie WoM jest zdecentralizowanym światem internetowym dla wszystkich –
 
 Będzie on wypełniany przez użytkowników, działających poprzez swoje cyfrowe tożsamości  **Xeeds **i uzyskujących dostęp do świata przez swoje metamaski, dla kryptowalut lub login/hasło dla początkujących. Ludzie przydzieliliby swoje zaangażowanie i otrzymaliby wynagrodzenie w sposób sprawiedliwy, przejrzysty i zdecentralizowany. W łatwy i znajomy sposób uzyskaliby dostęp do zdecentralizowanego świata i kryptoświata jutra – otrzymaliby proste narzędzia do wykorzystania swoich tokenów w swoim życiu lub zainwestowania ich w swoją przyszłość.
 
-Organizacje - **Akty** będą mogły pozyskiwać talenty, przeglądać przez WoM, dla właściwych sprawdzonych umiejętności. Otrzymaliby nagrodę za udział w metawersie poprzez wykrywanie tokenów poprzez zaangażowanie użytkowników (model mintium). Przede wszystkim jednak skorzystaliby na większym zaangażowaniu i lojalności ze strony swoich użytkowników.
+Organizacje - **Deeds** będą mogły pozyskiwać talenty, przeglądać przez WoM, dla właściwych sprawdzonych umiejętności. Otrzymaliby nagrodę za udział w metawersie poprzez wykrywanie tokenów poprzez zaangażowanie użytkowników (model mintium). Przede wszystkim jednak skorzystaliby na większym zaangażowaniu i lojalności ze strony swoich użytkowników.
 
 WoM miałby własną walutę **Meeds** – którą można by wydawać w sklepach, wymieniać na inną walutę, inwestować w celu zwrotu z inwestycji, wynajmować lub kupować itp. WoM ułatwiłby również dystrybucję innych tokenów i uczestniczyłby w całym ekosystemie kryptowalut.
 
@@ -20,11 +20,11 @@ Ponieważ obraz jest wart tysiąca słów, oto diagram opisujący przepływy WoM
 
 Oczywiście wcześni użytkownicy uzyskaliby znaczną przewagę nad późnymi.
 
-W szczególności WoM nagradza długoterminową inwestycję odwrotną – chodzi o wykup nieruchomości (akty). Pierwotny właściciel aktu własności otrzymuje rekompensatę poprzez wybiórcze zaangażowanie (aktywne użycie), poprzez dochody pasywne (wynajem) i otrzymywanie przez całe życie 1 % od każdej transakcji sprzedaży własności (przy każdej zmianie własności), podmiot akceptujący zlecenie otrzymuje opłatę za transakcję).
+W szczególności WoM nagradza długoterminową inwestycję odwrotną – chodzi o wykup nieruchomości (Deeds). Pierwotny właściciel Deed własności otrzymuje rekompensatę poprzez wybiórcze zaangażowanie (aktywne użycie), poprzez dochody pasywne (wynajem) i otrzymywanie przez całe życie 1 % od każdej transakcji sprzedaży własności (przy każdej zmianie własności, podmiot akceptujący zlecenie otrzymuje opłatę za transakcję).
 
-Wierząc w projekt, udział w puli płynności, stawianie meedów, wykupywanie ich w stosunku do czynów... wczesni inwestorzy o wszystkich rozmiarach odważyliby dodatkowe tokeny. Uzyskaliby oni również najwcześniejsze prawa głosu i pomogliby kształtować metaverse.
+Wierząc w projekt, udział w puli płynności, stawianie meedów, wykupywanie ich w stosunku do Deeds... wczesni inwestorzy o wszystkich rozmiarach odważyliby dodatkowe tokeny. Uzyskaliby oni również najwcześniejsze prawa głosu i pomogliby kształtować metaverse.
 
-Organizacje nabywające, ale przede wszystkim wykorzystujące Akty do angażowania i nagradzania swoich pracowników, otrzymywałyby wynagrodzenie w wybitych Meedach. Im uczciwiej zagrają, tym więcej dostaną.  Wcześniejsi adoptujący byliby związani z pierwszymi miastami historycznymi i zostaną następnie zidentyfikowani jako budownicy.
+Organizacje nabywające, ale przede wszystkim wykorzystujące Deeds do angażowania i nagradzania swoich pracowników, otrzymywałyby wynagrodzenie w wybitych Meedach. Im uczciwiej zagrają, tym więcej dostaną.  Wcześniejsi adoptujący byliby związani z pierwszymi miastami historycznymi i zostaną następnie zidentyfikowani jako budownicy.
 
 Poniższy wykres przedstawia przykład strategii inwestycyjnej Meeds dla posiadaczy kapitału:
 
@@ -44,7 +44,7 @@ W tym czasie token Meed już istnieje. Możliwe jest jego nabycie, a pule płynn
 
 Członkowie stowarzyszeń trzech meedów używają systemu wewnętrznie, aby zaangażować i nagradzać swoich użytkowników i ulepszyć oprogramowanie Meeds.
 
-Aplikacja Investor jest dostępna na Ethereum Mainnet. W momencie wprowadzenia na rynek obejmuje ono nabywanie akcji, nagradzanie za płynność, gromadzenie punktów i umorzenie aktów.
+Aplikacja Investor jest dostępna na Ethereum Mainnet. W momencie wprowadzenia na rynek obejmuje ono nabywanie akcji, nagradzanie za płynność, gromadzenie punktów i umorzenie Deeds.
 
 Społeczność budowlana jest i działa na oprogramowaniu Meeds, otwartym dla każdego, kto chciałby przyłączyć, przetestować i uczestniczyć. Można zalogować się za pomocą Metamask.
 
@@ -52,16 +52,16 @@ Dokument ten został opublikowany w dniu uruchomienia. Po uruchomieniu token zos
 
 ## 5.4. Społeczność budownicza
 
-Uruchamiamy społeczność budowniczych na oprogramowaniu Meeds i na Discordzie. Społeczność wita każdego, kto chce wziąć udział w budowaniu Pracy Metaverse. Stowarzyszenie nagrodzi zaangażowanie budowniczych w Meeds ze swojego budżetu marketingowego.
+Uruchamiamy społeczność budowniczych na oprogramowaniu Meeds i na Discordzie. Społeczność wita każdego, kto chce wziąć udział w budowaniu Praca Metaverse. Stowarzyszenie nagrodzi zaangażowanie budowniczych w Meeds ze swojego budżetu marketingowego.
 
-Stowarzyszenie planuje również postawić trochę Meeds w celu uzyskania (umorzenia) aktu własności dla społeczności budowniczych. Społeczność będzie następnie wybijać Meeds poprzez zaangażowanie, poprzez model mintium i dystrybuować je do zaangażowanych użytkowników.
+Stowarzyszenie planuje również postawić trochę Meeds w celu uzyskania (umorzenia) Deed własności dla społeczności budowniczych. Społeczność będzie następnie wybijać Meeds poprzez zaangażowanie, poprzez model mintium i dystrybuować je do zaangażowanych użytkowników.
 
 ## 5.5. Plan działania i kamienie milowe
 
 Nasz plan działania byłby zgodny z poniższą kolejnością priorytetów:
 
 - Wskaźnik zaangażowania i bicie poprzez zaangażowanie
-- Włączenie wypożyczanie aktów
+- Włączenie wypożyczanie Deeds
 - Tworzenie Xeed
 - Poprawa odznak i rozwój referencji
 - Usługi DeFi – w portfelu, partnerstwa kart kredytowych
@@ -78,8 +78,8 @@ Co możesz teraz zrobić, aby wziąć udział?
 - Odwiedź naszą stronę [meeds.io](https://www.meeds.io/)
 - Sprawdź aplikację [Investor](https://meeds.io/investors)
 - Przyczyn się do istniejących puli płynności tutaj:
-  - [Wymiana kometh](https://swap.cometh.io/)
-  - [Wymiana Sushi](https://sushi.com)
+  - [Cometh Swap](https://swap.cometh.io/)
+  - [Sushi Swap](https://sushi.com)
 - Dołącz do naszej społeczności [Discord](https://discord.com/invite/hAuADSq3), aby być na bieżąco
 - Dołącz do naszej społeczności [Builders](https://meeds.io/builders), aby przetestować oprogramowanie Meeds, zaangażować się i zdobyć nagrody za zaangażowanie Meeds
 
