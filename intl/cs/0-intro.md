@@ -1,20 +1,20 @@
 
 
-## Abstract
+## Abstraktní
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
+Dnešní trh práce postrádá efektivitu kvůli vysokým transakčním nákladům[^1][^2][^3]a časté střety zájmů mezi zaměstnavatelem a zaměstnancem.
 
-The Work Metaverse (the WoM) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
+Práce Metaverse (WoM) navrhuje nové paradigma, které by snížilo transakční náklady a znovuobjevilo zaměstnanecký vztah a překlenulo propast mezi tradičními korporace a DAO.
 
-The WoM does that by introducing digital identities for both employer and employee and offering an innovative engagement reward system that would align their interests.
+WoM to dělá tím, že zavádí digitální identity pro zaměstnavatele i zaměstnance a nabízí inovativní systém odměn za angažovanost, který by sladil jejich zájmy.
 
-## Introduction
+## Úvod
 
-The work market today is broken. It fails to satisfy both employees and employers.
+Dnešní trh práce je rozbitý. Neuspokojuje jak zaměstnance, tak zaměstnavatele.
 
-On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
+Na straně zaměstnanců je těžké najít tu správnou práci. Trh práce zvýhodňuje určité typy jednotlivců a zanechává velké dovednosti. To pochází ze skupiny lidí předsudky – rasové, genderové, handicapové, introvertní atd. Trh práce rovněž postrádá transparentnost, pokud jde o dostupné pozice a podmínky zaměstnání.
 
-Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
+Jakmile je zaměstnanec zaměstnán, jsou porušovány jeho osobní svobody výměnou za náhradu. Zaměstnanci mají malý vliv na svou pracovní dobu, pracoviště, pracovní náplň resp pracovní metody. A jejich kompenzace je zřídka spojena s jejich skutečným dopadem nebo hodnotou. Pravidla kompenzací postrádají transparentnost, a proto jsou vnímána jako nespravedlivá. Odměňování a kariérní postup navíc závisí také na lidském faktoru – dobré víře a objektivitě přímého nadřízeného zaměstnance.
 
 Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
 
