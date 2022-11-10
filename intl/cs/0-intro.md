@@ -16,26 +16,26 @@ Na straně zaměstnanců je těžké najít tu správnou práci. Trh práce zvý
 
 Jakmile je zaměstnanec zaměstnán, jsou porušovány jeho osobní svobody výměnou za náhradu. Zaměstnanci mají malý vliv na svou pracovní dobu, pracoviště, pracovní náplň resp pracovní metody. A jejich kompenzace je zřídka spojena s jejich skutečným dopadem nebo hodnotou. Pravidla kompenzací postrádají transparentnost, a proto jsou vnímána jako nespravedlivá. Odměňování a kariérní postup navíc závisí také na lidském faktoru – dobré víře a objektivitě přímého nadřízeného zaměstnance.
 
-Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
+Zaměstnavatelé se na druhou stranu potýkají s obtížemi při získávání talentů a při najímání správných dovedností a vhodných pro danou práci ve správný čas. Neexistuje žádný objektivní způsob, jak zjistit dovednosti potenciálního zaměstnance nebo získat lidi mimo tradiční zaměstnavatele pronájem bazénu.
 
-Employers also deal with the lack of loyalty from their employees and a high turnover, both of which, increase hiring and on-boarding costs.
+Zaměstnavatelé se také potýkají s nedostatečnou loajalitou svých zaměstnanců a vysokou fluktuací, což obojí zvyšuje náklady na nábor a nástup.
 
-Moreover, employers also face low engagement in their existing employees, leading to low creativity, productivity and innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
+Zaměstnavatelé navíc čelí nízkému zapojení svých stávajících zaměstnanců, což vede k nízké kreativitě, produktivitě a inovacím. To druhé způsobuje o to větší škody v dnešní ekonomice vyžadující kvalifikovanější tvůrčí práci.
 
-All of the above boil down to high transaction costs and the exacerbated agent-principal problem[^4] :
+Vše výše uvedené se scvrkává na vysoké transakční náklady a zhoršený agent-principal problém[^4] :
 
-- With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element.
-- As to the agent-principal problem, it has been compounded by the increasing revenue and wealth gap between employees and shareholders and the rigidity of the employer-employee relationship.
+- S internetem se trhy práce vyvíjely směrem k větší jednotě a transparentnosti díky stránkám s nabídkou práce, kariérním stránkám atd. Transakční náklady jsou však při absenci prvku objektivity stále příliš vysoké.
+- Pokud jde o problém agent-principal, byl umocněn rostoucí propastí v příjmech a bohatství mezi zaměstnanci a akcionáři a rigiditou vztahu zaměstnavatel-zaměstnanec.
 
-The WoM aims at solving both through a new decentralized work paradigm.
+Cílem WoM je vyřešit obojí prostřednictvím nového paradigmatu decentralizované práce.
 
-Following R. Coase’s works[^5], most economists link the concept of enterprise with the necessity to mitigate transaction costs. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs[^6] started this process focusing on lowering the cost of transactions for capital sourcing and governance. The WoM aims at pushing this logic further by lowering the cost of work transactions. It proposes a decentralized world where jobs and skills matching could be done objectively, quickly and globally.
+Po dílech R. Coase[^5]Většina ekonomů spojuje koncept podnikání s nutností zmírňovat transakční náklady. Internet a v poslední době blockchain a web3 otevírají vzrušující možnosti snižování transakčních nákladů kdekoli a znovuobjevují ekonomiku a zejména znovuobjevení podniku. První DAOs[^6]začal tento proces zaměření o snižování nákladů na transakce pro získávání kapitálu a řízení. Cílem WoM je posunout tuto logiku dále snížením nákladů na pracovní transakce. Navrhuje decentralizovaný svět, kde by bylo možné objektivně, rychle a globálně provádět sladění pracovních míst a dovedností.
 
-The first DAOs flatten the hierarchies and open ownership. The WoM pursues this logic by reinventing rather than suppressing the employer/employee relationship. It introduces a transparent, objective and decentralized reward paradigm, that would sustainably align the employer and the employee interests.
+První DAO zplošťují hierarchie a otevírají vlastnictví. WoM sleduje tuto logiku tím, že znovuobjevuje, spíše než potlačuje vztah zaměstnavatel/zaměstnanec. Zavádí transparentní, objektivní a decentralizované paradigma odměňování, které by udržitelně sladilo zájmy zaměstnavatele a zaměstnance.
 
-Finally, the Work Metaverse bridges the gap between corporations and the DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. On the other hand, it proposes sustainable ways to operate and create value for DAOs. Ultimately, the WoM could be among the first mainstream applications to democratize the use of the blockchain for every company and every employee – including non-digital ones.
+A konečně, Práce Metaverse překlenuje propast mezi korporacemi a DAO. Na jedné straně uvádí tradiční korporace do decentralizovaného světa prostřednictvím snadno použitelného paradigmatu odměňování angažovanosti, které doplňuje jejich odměňování. systémy. Na druhou stranu navrhuje udržitelné způsoby fungování a vytváření hodnoty pro DAO. Nakonec by WoM mohla být mezi prvními mainstreamovými aplikacemi, které demokratizují používání blockchainu pro každou společnost a každého zaměstnance – včetně nedigitálních aplikací.
 
-As with any decentralized venture, the WoM proposal gains in value exponentially as more people use it. For that reason, founders took great care to encourage long term interest and avoid monopolizing the WoM benefits, whether short term or long term. It is an open paradigm, still to be built, and open to active creative participation from everyone.
+Jako u každého decentralizovaného podniku i návrh WoM exponenciálně nabývá na hodnotě, jak jej používá více lidí. Z tohoto důvodu zakladatelé věnovali velkou pozornost podpoře dlouhodobého zájmu a zabránili monopolizaci výhod WoM, ať už krátkodobých nebo dlouhodobých. Je to otevřené paradigma, které je stále třeba budovat, a otevřené pro aktivní tvůrčí účast všech.
 
 
 [^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)
