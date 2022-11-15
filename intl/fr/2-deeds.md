@@ -3,7 +3,7 @@
 
 ## 2.1. Définition des NFT - Deeds
 
-Un jeton non fongible (NFT pour Non Fungible Token) est un jeton unique qui représente un bien. Dans le WoM, un Deed est utilisé comme titre de propriété. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+Un jeton non fongible (NFT pour Non Fungible Token) est un jeton unique qui représente un bien. Dans le WoM, un Deed est utilisé comme titre de propriété. Chaque Deed donne à son propriétaire un droit d'accès à plusieurs services - par exemple, un accès à un espace de travail numérique supporté par le logiciel Meeds ainsi que des récompenses pour l'engagement généré dans le Deed.
 
 Le WoM accueille tout type d'organisations - des DAO, des entreprises traditionnelles, des associations, des groupes de réflexion, des partenariats, voire même des compagnies de théâtre, des groupes de projets, des écoles, etc. Le Deed incarne leur représentation numérique dans le WoM.
 
