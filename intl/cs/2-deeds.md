@@ -128,7 +128,7 @@ Ve WoM se budou Deeds generovat postupně uvnitř virtuálních měst. Od začá
 
 Město bude považováno za úplné, jakmile budou vytěženy všechny činy. Poté začne ražba každého nového města $2^n$ měsíců po vyražení poslední listiny města $n-1$.
 
-| **Název města** | **Listy**   | **Dostupné**         | **Společné** | **Neobvyklé** | **Vzácné** | **Legendární** |
+| **Název města** | **Deeds**   | **Dostupné**         | **Společné** | **Neobvyklé** | **Vzácné** | **Legendární** |
 | --------------- | ----------- | -------------------- | ------------ | ------------- | ---------- | -------------- |
 | 1: Tanit        | 100         | T0                   | 50           | 30            | 13         | 7              |
 | 2: Reshef       | 1 000       | Tanit + 4 měsíce     | 600          | 300           | 94         | 6              |
@@ -138,7 +138,7 @@ Město bude považováno za úplné, jakmile budou vytěženy všechny činy. Po
 | 6: Kushor       | 10 000 000  | Eshmum + 64 měsíců   | 6 000 000    | 3 000 000     | 999 998    | 2              |
 | 7: Hammon       | 100 000 000 | Kushor + 128 měsíců  | 60 000 000   | 30 000 000    | 9 999 999  | 1              |
 
-Město je způsob, jak se Deeds sejít a vytvořit komunitu. A v důsledku toho získat určitou identitu spojenou s touto komunitou. Je to také způsob, jak poskytnout svým uživatelům dodatečnou hodnotu - hodnotu, která by přesahovala listiny či hodnotu jedné listiny vytvořenou prostřednictvím spolupráce mezi činy.
+Město je způsob, jak se Deeds sejít a vytvořit komunitu. A v důsledku toho získat určitou identitu spojenou s touto komunitou. Je to také způsob, jak poskytnout svým uživatelům dodatečnou hodnotu - hodnotu, která by přesahovala listiny či hodnotu jedné Deed vytvořenou prostřednictvím spolupráce mezi Deeds.
 
 Každé město má své vlastní vedení a provozuje své vlastní DAO, kde si majitelé listin města mohou volit svou městskou radu, hlasovat a stanovovat vlastní provozní řád, přidávat nové služby a utvářet své město tak, jak chtějí, a tak zvyšovat atraktivitu města a hodnotu listin s tím spojených.
 
@@ -146,8 +146,8 @@ Mohli by například přidat digitální reprezentaci svého města, fyzické pr
 
 Ve výchozím nastavení (pokud město nehlasuje jinak) budou pasivní příjmy z pronájmu Listin „zdaněny“ městem (5 %) a sdružením (3 %) za účelem podpory produktivního využití.
 
-Transakce ve vlastnictví (prodej listiny) budou také zdaněny 6%:
+Transakce ve vlastnictví (prodej Deeds) budou také zdaněny 6%:
 
 - 2,5 % pro město,
 - 2,5 % pro sdružení,
-- 1% pro původní peněženku, která vyplatila listina.
+- 1% pro původní peněženku, která vyplatila Deed.
