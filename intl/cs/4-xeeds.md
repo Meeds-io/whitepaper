@@ -30,7 +30,7 @@ Stejně jako v peněžence Meeds si uživatel při přechodu z jednoho Deed do d
 
 Uživatel bude moci sdílet své Xeed, odznaky a pověření s ostatními Deeds, aby zdůraznil své zkušenosti, stejně jako s náboráři nebo jinými službami, které považuje za zajímavé.
 
-Uživatel může mít ve WoM jednu nebo více digitálních identit. He could later present them in a unified way using verified presentations.
+Uživatel může mít ve WoM jednu nebo více digitálních identit. Později je mohl prezentovat jednotným způsobem pomocí ověřených prezentací.
 
 Na rozdíl od webu 2 je uživatel plným vlastníkem svých decentralizovaných identit. Ten může ukázat (a prokázat) Deeds, kterých se účastnil, jeho prokázané schopnosti, jeho deklarované schopnosti, ostatní Xeedy (lidi), se kterými spolupracoval, jeho digitální reprezentaci sebe sama... Svým způsobem důvěryhodné LinkedIn 3.0.
 
