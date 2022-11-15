@@ -53,13 +53,11 @@ Po skončení období ražby bude sdružení udržováno :
 
 Investoři pomáhají vytvářet WoM tím, že poskytují likviditu a sázejí Meeds, a tím stabilizují jeho cenovou úroveň během období výstavby. Obojí je podporováno ražbou mincí.
 
-**Poskytovatelé likvidity**
-:   Správa likvidity měny je klíčem k úspěchu projektu a k optimalizaci kapitálové efektivity se použije několik strategií DeFi. Začneme s pobídkami pro sázení tokenů MeedS/ETH LP pool a postupně zavedeme dluhopisy, abychom se posunuli k likviditě vlastněné protokolem. Ta by přispěla k dlouhodobé udržitelnosti sdružení - jak bylo uvedeno výše, z transakčních poplatků se budou financovat provozní náklady sdružení, například hosting cloudu.
+**Poskytovatelé likvidity** Správa likvidity měny je klíčem k úspěchu projektu a k optimalizaci kapitálové efektivity se použije několik strategií DeFi. Začneme s pobídkami pro sázení tokenů MeedS/ETH LP pool a postupně zavedeme dluhopisy, abychom se posunuli k likviditě vlastněné protokolem. Ta by přispěla k dlouhodobé udržitelnosti sdružení - jak bylo uvedeno výše, z transakčních poplatků se budou financovat provozní náklady sdružení, například hosting cloudu.
 
 Každý člen má také právo na přímý nákup velkého množství Meeds se slevou. Částka převedená na účet asociace se převede na ETH a přidá se spolu s ekvivalentní hodnotou Meeds do fondu likvidity.
 
-**Sázky / dlouhodobé investice**
-:   Aby se podpořily dlouhodobé investice, jsou sázky Meeds odměňovány. Když je sázka Meeds uzavřena, sázející získá několik žetonů xMeeds. Nově vyražené Meedy se rozdělují mezi stakery úměrně jejich držbě xMeedů. V praxi jsou vyražené měny xMeeds efektivně přidávány do majetku chytrého kontraktu xMeeds a distribuovány držitelům měn xMeeds při jejich znehodnoceny.
+**Staking / long-term investment** Pro povzbuzení dlouhodobých investic jsou zaseknuté Meeds odměněny. Když je sázka Meeds uzavřena, sázející získá několik žetonů xMeeds. Nově vyražené Meedy se rozdělují mezi stakery úměrně jejich držbě xMeedů. V praxi jsou vyražené měny xMeeds efektivně přidávány do majetku chytrého kontraktu xMeeds a distribuovány držitelům měn xMeeds při jejich znehodnoceny.
 
 Investoři mohou sázkou Meeds také vykoupit Deeds (a následně se zapojit do ražby prostřednictvím angažovanosti), čímž se zvýší poptávka po tokenu. Každy mince Meeds (xMeeds) přináší svému majiteli určitý počet bodů za den. Čím delší je rozhodné období, tím vyšší je počet bodů získaných za xMeeds. Každy Deed je pak vyměněna za určitý počet bodů.
 
