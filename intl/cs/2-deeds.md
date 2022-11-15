@@ -3,7 +3,7 @@
 
 ## 2.1. NFT - Vymezení Deeds
 
-Nezastupitelný token (NFT) je jedinečný token představující dobro. Ve WoM se Deed používá jako titul o vlastnictví. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+Nezastupitelný token (NFT) je jedinečný token představující dobro. Ve WoM se Deed používá jako titul o vlastnictví. Každá Deed dává svému majiteli právo na přístup k několika službám - například přístup do digitální kanceláře, která je poháněna softwarem Meeds a právo razit mince Meeds.
 
 WoM vítá všechny druhy organizací - DAO, tradiční korporace, sdružení, think tanky, partnerství, divadelní společnosti, projektové skupiny, školy atd. Listina představuje jejich digitální existenci ve WoM.
 
@@ -24,7 +24,7 @@ Existují čtyři typy Deeds, z nichž každý poskytuje různé možnosti z hle
 
 Listina dává vlastníkovi právo užívat, pronajímat nebo prodávat nemovitost.
 
-- POUŽITÍ - Vlastníci Deed's mohou Deed využívat přímo pro svou organizaci, pokud. služby jeho uživatelům.
+- POUŽITÍ - Vlastníci Deed's mohou Deed využívat přímo pro svou organizaci, pokud služby jeho uživatelům.
 - PRONÁJEM - Vlastníci Deed's mohou listinu také pronajmout jiné organizaci, aby získali pasivní příjem.
 - PRODEJ - Deed lze prodat na sekundárním trhu, např.[OpenSea](https://opensea.io).
 
@@ -34,7 +34,7 @@ Být aktivním držitelem nebo nájemcem Deed, organizace je odměňována spole
 
 Na čím dál konkurenčnějším trhu musí organizace přilákat a udržet si talenty a maximalizovat své vstupy pobídnout své uživatele nad rámec prosté kompenzace. WoM poskytuje inovativní rámec, jak toho dosáhnout, a to prostřednictvím tokenizace pracovní angažovanosti.
 
-Držitel nebo nájemce každého Deed může poskytovat nástroje a služby svým uživatelům, kteří získávají body za angažovanost, jež lze vyladit podle priorit Deed. Pravidelně se body převádějí na Meedy (a v případě DAO případně na jiný token) na základě stanoveného rozpočtu Deedu. Tímto způsobem se zapojení uživatelů do činností které jsou pro organizaci důležité, jsou odměňovány.
+Držitel nebo nájemce každého Deed může poskytovat nástroje a služby svým uživatelům, kteří získávají body za angažovanost, jež lze vyladit podle priorit Deed. Pravidelně se body převádějí na Meeds (a v případě DAO případně na jiný token) na základě stanoveného rozpočtu Deedu. Tímto způsobem se zapojení uživatelů do činností které jsou pro organizaci důležité, jsou odměňovány.
 
 Pro začátek lze k odměně za angažovanost využít následující bezplatné služby poskytované sdružením Meeds:
 
@@ -116,9 +116,9 @@ Kromě toho jsou k dispozici posilovače pro :
 - organizace s nejvyšším zapojením bez ohledu na jejich velikost (míra zapojení ve vztahu k WoM)
 - vzácnější činy
 
-> Sdružení Meeds si vyhrazuje právo tento vzorec v případě potřeby změnit - pokud se například vyskytnou některé specifické případy použití. Sdružení může také zařadit na černou listinu všechny listiny, které zneužívají vzorec ve svůj jedinečný prospěch.
+> Sdružení Meeds si vyhrazuje právo tento vzorec v případě potřeby změnit - pokud se například vyskytnou některé specifické případy použití. Sdružení může také zařadit na černou listinu všechny Deed, které zneužívají vzorec ve svůj jedinečný prospěch.
 
-Jelikož jsou Listiny odměňováni Meedy a motivováni k tomu, aby je přerozdělovali jako odměny svým uživatelům za jejich angažovanost - zájmy Listiny i jejich uživatelů jsou sladěny ve stejném cyklu sdílení příjmů. WoM tedy nabízí nový pracovní model, který přetváří vztah zaměstnavatel/zaměstnanec na partnerství.
+Jelikož jsou Deeds odměňováni Meedy a motivováni k tomu, aby je přerozdělovali jako odměny svým uživatelům za jejich angažovanost - zájmy Listiny i jejich uživatelů jsou sladěny ve stejném cyklu sdílení příjmů. WoM tedy nabízí nový pracovní model, který přetváří vztah zaměstnavatel/zaměstnanec na partnerství.
 
 Model „mintium“ je první svého druhu – jde dále než tradiční freemium, protože nejenom že služby jsou zdarma k použití, ale jak organizace, tak jejich uživatelé jsou za jejich používání odměňováni.
 
