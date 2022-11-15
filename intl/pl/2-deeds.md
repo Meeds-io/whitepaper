@@ -3,7 +3,7 @@
 
 ## 2.1. NFT – Deed zdefiniowane
 
-Niewymienny token (NFT) to unikalny token reprezentujący towar. W WoM, Deed jest używany jako tytuł własności. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+Niewymienny token (NFT) to unikalny token reprezentujący towar. W WoM, Deed jest używany jako tytuł własności. Każdy Deed daje jego właścicielowi prawo dostępu do kilku usług – na przykład dostęp do cyfrowego biura obsługiwanego przez oprogramowanie Meeds oraz prawo do bicia Meeds.
 
 WoM zaprasza wszelkiego rodzaju organizacje – DAO, tradycyjne korporacje, stowarzyszenia, think tanki, spółki partnerskie, teatry, grupy projektowe, szkoły itp. Deed reprezentuje ich cyfrową egzystencję w WoM.
 
