@@ -3,7 +3,7 @@
 
 ## 2.1. NFT - Vymezení Deeds
 
-Nezastupitelný token (NFT) je jedinečný token představující dobro. Ve WoM se Deed používá jako titul o vlastnictví. Každá Deed dává svému majiteli právo na přístup k několika službám - například přístup do digitální kanceláře, která je poháněna softwarem Meeds a. právo razit mince Meeds.
+Nezastupitelný token (NFT) je jedinečný token představující dobro. Ve WoM se Deed používá jako titul o vlastnictví. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
 
 WoM vítá všechny druhy organizací - DAO, tradiční korporace, sdružení, think tanky, partnerství, divadelní společnosti, projektové skupiny, školy atd. Listina představuje jejich digitální existenci ve WoM.
 
@@ -11,7 +11,7 @@ WoM vítá všechny druhy organizací - DAO, tradiční korporace, sdružení, t
 
 WoM nakonec dodá omezené množství Deeds. Každá Deed obsahuje předem definovaný maximální počet uživatelů a nabízí kapacitu odměňování Meeds (Minting Power). Termín "uživatel" zde a dále označuje jakýkoli typ zaměstnance, pracovníka, nezávislého pracovníka, dobrovolníka atd.
 
-Existují čtyři typy Deeds, z nichž každý poskytuje různé možnosti z hlediska počtu uživatelů, hlasovací práva ve městě (viz 2. ) nebo Meed the mining power (výkon těžby, rarest je nejúčinnější):
+Existují čtyři typy Deeds, z nichž každý poskytuje různé možnosti z hlediska počtu uživatelů, hlasovací práva ve městě (viz 2. ) nebo Meed the minting power, rarest je nejúčinnější:
 
 | **Typ Deed** | **Maximum uživatelů** | **Výkon mincovny** | **Nedostatek** | **Hlasovací práva města** |
 | ------------ | --------------------- | ------------------ | -------------- | ------------------------- |
