@@ -12,7 +12,7 @@ WoM by měl vlastní měnu **Meeds** – ta by tam byla k utrácení v obchodech
 
 Protože obrázek vydá za tisíc slov, zde je schéma, které popisuje toky WoM a Meeds
 
-![Wom a Meeds toky](en/img/wom-flows.png)
+![WoM a Meeds toky](en/img/wom-flows.png)
 
 Údržba a dlouhodobá udržitelnost je zajištěna prostřednictvím daní sdílených mezi sdružením Meeds a městy.
 
