@@ -24,10 +24,8 @@ There are four types of Deeds, each providing different capabilities in terms of
 
 A Deed gives its owner the right to USE it, RENT it, or SELL it.
 
-- USE – The Deed’s owners can use the Deed directly for their organization, providing
-services to its users.
-- RENT - The Deed’s owners can also rent the Deed to another organization in order to get
-passive income.
+- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
+- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
 - SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
 
 Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
