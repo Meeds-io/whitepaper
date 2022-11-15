@@ -53,13 +53,11 @@ Po zakończeniu okresu bicia stowarzyszenie będzie podtrzymywane przez:
 
 Inwestorzy pomagają w tworzeniu WoM poprzez zapewnienie płynności i poprzez udział w Meeds, a tym samym stabilizację poziomu cen w okresie budowy. Oba są zachęcone przez bicie.
 
-**Dostawcy płynności**
-:   Zarządzanie płynnością walutową jest kluczem do sukcesu projektu, a kilka strategii DeFi zostanie wykorzystanych do optymalizacji efektywności kapitałowej. Zaczniemy od zachęt do obstawiania tokenów puli MeedS/ETH LP i stopniowo wprowadzimy obligacje, aby przejść w kierunku płynności posiadanej przez protokół. Te ostatnie przyczyniłyby się do długoterminowej stabilności stowarzyszenia – jak wspomniano powyżej, opłaty transakcyjne pokryją koszty operacyjne stowarzyszenia, takie jak hosting w chmurze.
+**Liquidity providers** Currency liquidity management is key to the success of the project and several DeFi strategies will be used to optimize capital efficiency. Zaczniemy od zachęt do obstawiania tokenów puli MeedS/ETH LP i stopniowo wprowadzimy obligacje, aby przejść w kierunku płynności posiadanej przez protokół. Te ostatnie przyczyniłyby się do długoterminowej stabilności stowarzyszenia – jak wspomniano powyżej, opłaty transakcyjne pokryją koszty operacyjne stowarzyszenia, takie jak hosting w chmurze.
 
 Każdy członek ma również prawo do bezpośredniego zakupu dużej ilości Meeds ze zniżką. Kwota przekazana na konto stowarzyszenia jest przeliczana na ETH i dodawana wraz z ekwiwalentną wartością Meeds do puli płynności.
 
-**Stakowanie / inwestycja długoterminowa**
-:   Aby zachęcić do inwestycji długoterminowych, postawione Meeds są nagradzane. Kiedy obstawia się Meeds, osoba obstawiająca otrzymuje kilka żetonów xMeeds. Nowo wybite Meeds są rozdzielane wśród obstawiających proporcjonalnie do ich zasobów xMeeds. W praktyce wybite Meeds są skutecznie dodawane do zasobów inteligentnego kontraktu xMeeds i przekazywane posiadaczowi xMeeds po rozbiciu.
+**Staking / long-term investment** To encourage long term investment, staked Meeds are rewarded. Kiedy obstawia się Meeds, osoba obstawiająca otrzymuje kilka żetonów xMeeds. Nowo wybite Meeds są rozdzielane wśród obstawiających proporcjonalnie do ich zasobów xMeeds. W praktyce wybite Meeds są skutecznie dodawane do zasobów inteligentnego kontraktu xMeeds i przekazywane posiadaczowi xMeeds po rozbiciu.
 
 Stawiając Meeds, inwestorzy mogą również wykupić Akty (a następnie uczestniczyć w wybijaniu poprzez zaangażowanie), zwiększając w ten sposób popyt na tokeny. Każdy postawiony Meeds (xMeeds) zapewnia swojemu właścicielowi określoną liczbę punktów dziennie. Im dłuższy okres uprawniający, tym większa liczba punktów uzyskanych na xMeeds. Każdy Deed jest następnie umarzany w zamian za określoną liczbę punktów.
 

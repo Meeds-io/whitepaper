@@ -53,13 +53,11 @@ Une fois la période d’émission terminée, l’association sera soutenue par 
 
 Les investisseurs aident à créer le WoM en fournissant des liquidités et en investissant des Meeds. Cela assure de stabiliser son niveau de prix pendant la période de construction. Ces deux mécanismes sont encouragés par des émissions de jetons.
 
-**Apporteurs de liquidités**
-:   La gestion des liquidités de la devise est la clé du succès du projet et plusieurs stratégies de DeFi seront utilisées pour optimiser la performance du capital. Nous commencerons par des incitations à investir des jetons LP de la paire MEED/ETH. Puis nous introduirons des obligations pour que la liquidité soit progressivement détenue par le protocole. Ceci contribuera à la durabilité à long terme de l'association - comme mentionné ci-dessus, les commissions sur les transactions finançant en effet les frais de fonctionnement de l'association tels que les services d'hébergement.
+**Fournisseurs de liquidité** La gestion des liquidités de la devise est la clé du succès du projet et plusieurs stratégies de DeFi seront utilisées pour optimiser la performance du capital. Nous commencerons par des incitations à investir des jetons LP de la paire MEED/ETH. Puis nous introduirons des obligations pour que la liquidité soit progressivement détenue par le protocole. Ceci contribuera à la durabilité à long terme de l'association - comme mentionné ci-dessus, les commissions sur les transactions finançant en effet les frais de fonctionnement de l'association tels que les services d'hébergement.
 
 Tout membre a également le droit de directement acheter un montant important de Meeds avec l'octroi d'une réduction. Le montant transmis à l'association est converti en ETH et ajouté avec la valeur équivalente de Meeds aux liquidités.
 
-**Mise en gage / investissement à long terme**
-:   Pour encourager les investissements à long terme, les Meeds déposés sont récompensées. Quand les Meeds sont placés, le déposant reçoit des jetons xMeeds. Les Meeds nouvellement émis sont distribués aux déposants proportionnellement à leurs avoirs xMeeds. En pratique, les Meeds émis sont effectivement ajoutés aux avoirs du contrat intelligent xMeeds et sont distribués aux détenteurs des xMeeds quand ils se désengagent.
+**Epargne / Investissement à long terme** Pour encourager l'investissement à long terme, épargner des Meeds est récompensé. Quand les Meeds sont placés, le déposant reçoit des jetons xMeeds. Les Meeds nouvellement émis sont distribués aux déposants proportionnellement à leurs avoirs xMeeds. En pratique, les Meeds émis sont effectivement ajoutés aux avoirs du contrat intelligent xMeeds et sont distribués aux détenteurs des xMeeds quand ils se désengagent.
 
 En plaçant des Meeds, les investisseurs peuvent aussi racheter des Deeds (et donc participer au minting à travers l'engagement), et par conséquent augmenter la demande du token. Chaque Meeds placé (xMeed) garantit à son propriétaire un nombre de points par jour. Plus la période d'acquisition est longue, plus le nombre de points obtenus par xMeed est élevé. Chaque Deed est ensuite échangé contre un certain nombre de points.
 

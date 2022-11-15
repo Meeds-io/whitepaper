@@ -3,7 +3,7 @@
 
 ## 2.1. NFT – Deeds defined
 
-A non fungible token (NFT) is a unique token that represents a good. En el WoM, un Deed se utiliza como un título de propiedad. Cada Deed le otorga a su titular el derecho de acceder a varios servicios. Por ejemplo, acceder a una oficina digital en el marco del software de Meeds o el derecho de acuñar divisas de Meeds.
+A non fungible token (NFT) is a unique token that represents a good. En el WoM, un Deed se utiliza como un título de propiedad. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
 
 El WoM da la bienvenida a todo tipo de organizaciones: DAO, corporaciones tradicionales, asociaciones, *think tanks*, colaboraciones, compañías de teatro, proyectos grupales, escuelas, etc. El Deed representa su existencia digital en el WoM.
 
@@ -24,8 +24,8 @@ Hay cuatro tipos de Deeds. Cada uno aporta diferentes posibilidades en lo que re
 
 Un Deed le da a su titular el derecho de utilizarlo (USE), alquilarlo (RENT) o venderlo (SELL).
 
-- USE – Los titulares de los Deeds pueden utilizar su Deed directamente para su organización, brindando servicios a sus usuarios.
-- RENT - Los titulares del Deed pueden alquilar dicho Deed a otra organización para generar ingresos pasivos.
+- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
+- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
 - SELL - Un Deed puede venderse en un mercado secundario como [OpenSea](https://opensea.io).
 
 Al ser un *holder* activo o arrendador de un Deed, a la organización se la compensa con Meeds a través de un modelo innovador descrito a continuación (part 2.6).
