@@ -1,8 +1,8 @@
 
 
-## Abstract
+## Abstrakt
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
+Dnešný trh práce nie je dostatočne efektívny kvôli vysokým transakčným nákladoms[^1][^2][^3] a časté konflikty záujmov medzi zamestnávateľom a zamestnancom.
 
 The Work Metaverse (the WoM) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
 
