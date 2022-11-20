@@ -70,9 +70,9 @@ The Deed’s holder or renter can enrich its store with its own perks, connect t
 
 The store functions through the use of Meeds so that Meeds are partially returned to the Deed.
 
-## 2.5. Rewards – Meeds and other tokens
+## 2.5. Odmeny -Meeds a iné žetóny
 
-The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs. Indeed, each Deed can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
+WoM bude tokenizovať angažovanosť používateľov prostredníctvom gamifikácie digitálnych pracovných nástrojov a prideľovania bodov a Meedov vo vzťahu k pracovnej angažovanosti. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs. Indeed, each Deed can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
 
 Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Deed is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
 
