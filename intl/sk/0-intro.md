@@ -4,38 +4,38 @@
 
 Dnešný trh práce nie je dostatočne efektívny kvôli vysokým transakčným nákladoms[^1][^2][^3] a časté konflikty záujmov medzi zamestnávateľom a zamestnancom.
 
-The Work Metaverse (the WoM) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
+Práca Metaverse (WoM) navrhuje novú paradigmu, ktorá by znížila transakčné náklady a znovuobjavila pracovný pomer, čím by preklenula priepasť medzi tradičnými korporáciami a DAO.
 
-The WoM does that by introducing digital identities for both employer and employee and offering an innovative engagement reward system that would align their interests.
+WoM to robí tak, že zavádza digitálne identity pre zamestnávateľa aj zamestnanca a ponúka inovatívny systém odmeňovania za angažovanosť, ktorý by zosúladil ich záujmy.
 
-## Introduction
+## Úvod
 
-The work market today is broken. It fails to satisfy both employees and employers.
+Dnešný trh práce je nefunkčný. Neuspokojuje ani zamestnancov, ani zamestnávateľov.
 
-On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
+Na strane zamestnancov je ťažké nájsť vhodné pracovné miesta. Trh práce uprednostňuje určité typy jednotlivcov, pričom skvelé zručnosti zostávajú v úzadí. Vyplýva to zo súboru ľudských predsudkov - rasových, rodových, hendikepových, introvertných atď. Na pracovnom trhu chýba aj transparentnosť, pokiaľ ide o voľné pracovné miesta a podmienky zamestnania.
 
-Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
+Po prijatí do zamestnania sa zasahuje do osobných slobôd zamestnanca výmenou za odmenu. Zamestnanci majú malý vplyv na svoj pracovný čas, pracovisko, obsah práce alebo pracovné metódy. A ich odmena je zriedkakedy spojená s ich skutočným významom alebo hodnotou. Pravidlá odmeňovania nie sú dostatočne transparentné, a preto sú vnímané ako nespravodlivé. Okrem toho odmeňovanie a kariérny postup závisia aj od ľudského faktora - od dobrej viery a objektívnosti priameho nadriadeného zamestnanca.
 
-Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
+Na druhej strane, zamestnávatelia majú problémy s vyhľadávaním talentov a najímaním tých správnych zručností a vhodnej pracovnej pozície v správnom čase. Neexistuje žiadny objektívny spôsob, ako zistiť schopnosti potenciálneho zamestnanca alebo získať ľudí mimo tradičného okruhu zamestnávateľa.
 
-Employers also deal with the lack of loyalty from their employees and a high turnover, both of which, increase hiring and on-boarding costs.
+Zamestnávatelia sa tiež stretávajú s nedostatočnou lojalitou svojich zamestnancov a vysokou fluktuáciou, čo zvyšuje náklady na nábor a nástup do zamestnania.
 
-Moreover, employers also face low engagement in their existing employees, leading to low creativity, productivity and innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
+Okrem toho sa zamestnávatelia stretávajú aj s nízkou angažovanosťou svojich súčasných zamestnancov, čo vedie k nízkej kreativite, produktivite a inovácii. Tá v dnešnej ekonomike, ktorá si vyžaduje kvalifikovanejšiu tvorivú prácu, spôsobuje o to väčšie škody.
 
-All of the above boil down to high transaction costs and the exacerbated agent-principal problem[^4] :
+Všetky vyššie uvedené skutočnosti sa spájajú s vysokými transakčnými nákladmi a vyhroteným problémom agenta a principála[^4] :
 
-- With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element.
-- As to the agent-principal problem, it has been compounded by the increasing revenue and wealth gap between employees and shareholders and the rigidity of the employer-employee relationship.
+- Vďaka internetu sa trhy práce vyvíjali smerom k väčšej jednotnosti a transparentnosti vďaka stránkam s pracovnými ponukami, kariérnym stránkam atď. Transakčné náklady sú však pri absencii prvku objektivity stále príliš vysoké.
+- Pokiaľ ide o problém agenta a hlavného akcionára, ten sa ešte prehĺbil v dôsledku rastúcich rozdielov v príjmoch a bohatstve medzi zamestnancami a akcionármi a nepružnosti vzťahu medzi zamestnávateľom a zamestnancom.
 
-The WoM aims at solving both through a new decentralized work paradigm.
+Cieľom WoM je vyriešiť oboje prostredníctvom novej decentralizovanej pracovnej paradigmy.
 
-Following R. Coase’s works[^5], most economists link the concept of enterprise with the necessity to mitigate transaction costs. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs[^6] started this process focusing on lowering the cost of transactions for capital sourcing and governance. The WoM aims at pushing this logic further by lowering the cost of work transactions. It proposes a decentralized world where jobs and skills matching could be done objectively, quickly and globally.
+V nadväznosti na práce R. Coasea[^5], väčšina ekonómov spája pojem podnikania s potrebou zmierniť transakčné náklady. Internet a najnovšie aj blockchain a web3 otvárajú vzrušujúce možnosti, ako všade znížiť transakčné náklady, znovuobjaviť ekonomiku a najmä znovuobjaviť podnik. Prvé DAO[^6] začala tento proces so zameraním na zníženie transakčných nákladov na získavanie a správu kapitálu. Cieľom WoM je posunúť túto logiku ďalej znížením nákladov na pracovné transakcie. Navrhuje decentralizovaný svet, v ktorom by sa porovnávanie pracovných miest a zručností mohlo vykonávať objektívne, rýchlo a globálne.
 
-The first DAOs flatten the hierarchies and open ownership. The WoM pursues this logic by reinventing rather than suppressing the employer/employee relationship. It introduces a transparent, objective and decentralized reward paradigm, that would sustainably align the employer and the employee interests.
+Prvé DAO splošťujú hierarchie a otvárajú vlastníctvo. WoM sleduje túto logiku tým, že vzťah medzi zamestnávateľom a zamestnancom nie potláča, ale znovu objavuje. Zavádza transparentnú, objektívnu a decentralizovanú paradigmu odmeňovania, ktorá by trvalo zosúladila záujmy zamestnávateľa a zamestnancov.
 
-Finally, the Work Metaverse bridges the gap between corporations and the DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. On the other hand, it proposes sustainable ways to operate and create value for DAOs. Ultimately, the WoM could be among the first mainstream applications to democratize the use of the blockchain for every company and every employee – including non-digital ones.
+Metaverse práce napokon preklenuje priepasť medzi korporáciami a DAOs. Na jednej strane uvádza tradičné korporácie do decentralizovaného sveta prostredníctvom ľahko aplikovateľnej paradigmy odmeňovania za angažovanosť, ktorá dopĺňa ich systémy odmeňovania. Na druhej strane navrhuje udržateľné spôsoby fungovania a vytvárania hodnoty pre DAO. V konečnom dôsledku by WoM mohol byť jednou z prvých mainstreamových aplikácií, ktoré demokratizujú používanie blockchainu pre každú spoločnosť a každého zamestnanca - vrátane tých, ktorí nie sú digitálni.
 
-As with any decentralized venture, the WoM proposal gains in value exponentially as more people use it. For that reason, founders took great care to encourage long term interest and avoid monopolizing the WoM benefits, whether short term or long term. It is an open paradigm, still to be built, and open to active creative participation from everyone.
+Ako každý decentralizovaný podnik, aj návrh WoM získava exponenciálne na hodnote, keď ho používa viac ľudí. Z tohto dôvodu zakladatelia veľmi dbali na to, aby podporili dlhodobý záujem a zabránili monopolizácii výhod WoM, či už krátkodobých alebo dlhodobých. Je to otvorená paradigma, ktorá sa ešte len bude budovať a je otvorená aktívnej tvorivej účasti všetkých.
 
 
 [^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)
