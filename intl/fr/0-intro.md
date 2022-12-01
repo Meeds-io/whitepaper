@@ -10,7 +10,7 @@ Le WoM y parvient en introduisant des identités numériques tant pour l'employe
 
 ## Introduction
 
-Le marché du travail ne fonctionne pas. Il a échoué à satisfaire tant les salariés que leurs employeurs.
+Le marché du travail ne fonctionne pas. Il échoue à satisfaire tant les salariés que leurs employeurs.
 
 Du point de vue des employés, il est devenu difficile de trouver des emplois adéquats. Le marché favorise certains individus plus aptes à valoriser leur expérience, alors que d’autres personnes moins en vue mais parfois plus compétentes sont mises de côté. Nombre de biais l’expliquent : discrimination raciste, sexiste, handicap, introversion des individus, etc. Le marché du travail manque également de transparence sur d’autres sujets tels que les emplois disponibles et les conditions de travail.
 
@@ -45,3 +45,6 @@ Et comme toute autre organisation décentralisée, plus les personnes l’utilis
 [^5]: R. Coase - [“The nature of the firm”](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
 [^6]: Aaron Wright - [“The Rise of Decentralized Autonomous Organizations : Opportunities and Challenges”](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)
 
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbLTEzMjAzMTMxODZdfQ==
+-->
