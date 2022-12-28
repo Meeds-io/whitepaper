@@ -1,10 +1,10 @@
 
 
-## Abstract
+## Abstrak
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
+Pasar tenaga kerja saat ini tidak efisien, karena biayanya tinggi[^1][^2][^3] dan sering terjadi konflik kepentingan antara pekerja dan pemberi kerja.
 
-The Work Metaverse (the WoM) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
+Work Metaverse (WoM) membawa paradigma baru yang bisa menekan biaya transaksi dan menemukan ulang relasi dunia kerja, menjembatani kesenjangan antara perusahaan tradisional dengan DAO.
 
 The WoM does that by introducing digital identities for both employer and employee and offering an innovative engagement reward system that would align their interests.
 
