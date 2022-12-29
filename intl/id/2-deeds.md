@@ -1,86 +1,86 @@
 
-# 2. Deeds NFT - Work Metaverse Organizations
+# 2. NFT Deed - Organisasi Work Metaverse
 
-## 2.1. NFT – Deeds defined
+## 2.1. NFT - Definisi Deed
 
-A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+Sebuah non fungible token (NFT) adalah sebuah token unik yang mewakili sebuah benda. Dalam WoM, Deed digunakan sebagai bukti kepemilikan. Satu Deed memberikan pemiliknya sebuah hak untuk mendapatkan beberapa layanan - misalnya, sebuah akses masuk ke kantor digital, yang disokong perangkat lunak Meed dan hak untuk mencetak Meed.
 
-The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM.
+WoM terbuka untuk beragam jenis organisai - DAO, perusahaan tradisional, asosiasi, lembaga pemikir, kerjasama, perusahaan perfilman, kelompok proyek, sekolah dll. Deed mewakili keberadaan pemiliknya secara digital dalam Wom.
 
-## 2.2. Deeds supply
+## 2.2. Suplai Deed
 
-The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of Meeds rewarding (Minting Power). The term ‘user’ here and hereafter designates any type of employee, worker, freelancer, volunteer etc.
+WoM pada akhirnya akan membatasi suplai Deed. Sebuah Deed sebelumnya sudah menentukan jumlah pengguna maksimum dan menawarkan kapasitasnya memberi imbalan Meed (Minting Power). Kata 'user' atau pengguna di sini merujuk pada semua jenis pekerja, karyawan, pekerja lepas, sukarelawan dll.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
+Ada empat jenis Deed, yang tiap jenisnya memberikan kemampuan yang berbeda untuk menampung pengguna, hak suara di dalam kota (lihat bagian 2.7) atau kemampuan mencetak Meed, yang paling langka paling kuat :
 
-| **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
-| ------------- | ------------- | ----------------- | ------------ | ---------------------- |
-| Common        | 100           | 1                 | ~ 90%        | 1                      |
-| Uncommon      | 1000          | 1.1               | ~ 9%         | 10                     |
-| Rare          | 10 000        | 1.3               | ~ 1%         | 100                    |
-| Legendary     | unlimited     | 2                 | < 0.1 %      | 1000                   |
+| **Tipe Deed** | **Maksimal Pengguna** | **Kemampuan Mencetak** | **Kelangkaan** | **Hak suara kota** |
+| ------------- | --------------------- | ---------------------- | -------------- | ------------------ |
+| Common        | 100                   | 1                      | ~ 90%          | 1                  |
+| Uncommon      | 1000                  | 1.1                    | ~ 9%           | 10                 |
+| Rare          | 10 000                | 1.3                    | ~ 1%           | 100                |
+| Lengendary    | tak terbatas          | 2                      | < 0.1 %        | 1000               |
 
-## 2.3. Deeds ownership
+## 2.3. Kepemilikan Deed
 
-A Deed gives its owner the right to USE it, RENT it, or SELL it.
+Sebuah Deed memberi pemiliknya hak untuk MENGGUNAKANNYA, MENYEWAKANNYA, atau MENJUALNYA.
 
-- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
-- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
-- SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
+- GUNA - Pemilik Deed bisa menggunakan Deed langsung untuk perusahaannya, menyediakan layanan untuk penggunanya.
+- SEWA - Pemilik Deed juga bisa menyewakan Deed kepada lembaga lain untuk memperoleh pendapatan pasif.
+- JUAL - Sebuah Deed bisa dijual ke pasar sekunder seperti [OpenSea](https://opensea.io).
 
-Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
+Menjadi pemilik atau menyewakan Deed secara aktif, membuat lembaga tersebut diganjar Meed, lewat model inovatif "mintium" yang dijelaskan seperti di bawah ini (bagian 2.6).
 
-## 2.4. Deeds services, engagement/rewards engine
+## 2.4. Layanan Deed, mesin janji/ganjaran
 
-In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
+Pada pasar yang kompetitif, untuk menarik dan mempertahankan talenta serta memaksimalkan kinerja mereka, organisasi perlu memberikan insentif penggunanya lebih dari hanya sekadar gaji biasa. WoM menyediakan kerangka kerja inovatif untuk itu, dengan melakukan tokenisasi keterlibatan kerja.
 
-Each Deed’s holder or renter can provide tools and services to its users, who earn engagement points that can be fine-tuned to the Deed’s priorities. Periodically, points are converted into Meeds (and - for DAOs - potentially another token), based on the Deed’s set budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
+Setiap pemilik atau yang menyewakan Deed bisa menyediakan peralatan dan layanan kepada penggunanya, akan memperoleh poin keterlibatan yang bisa disesuaikan dengan prioritas Deed. Secara periodek, poin-poin tersebut bisa ditukar menjadi Meed (dan -untuk DAO- berpotensi menjadi token lainnya), berdasar pada bujet Deed yang disetel. Dengan cara kerja seperti itu, keterlibatan pengguna sangat berharga bagi organisasi dan layak dihargai dengan setimpal.
 
-To begin with, the following free services provided by the Meeds association can be used to reward engagement:
+Sebagai awalan, layanan gratis berikut bisa disediakan oleh asosiasi Meed yang bisa digunakan untuk ganjaran keterlibatan:
 
-- **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the Deed’s priorities via customizable engagement programs.
-- **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
-- **Customizable engagement programs** - organizations can create their own engagement programs matching their business goals and priorities. Programs are associated to automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatics or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
-- **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
-- **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
-- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
-- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
-- **Analytics** – to analyze and follow engagement within the Deed.
-- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
+- **Mesin Gamifikasi** – aksi otomatis dalam WoM memiliki bobot poin yang bisa disesuaikan dengan prioritas Deed dengan program keterlibatan yang bisa disesuaikan.
+- **Tantangan** –tantangan yang bisa disesuaikan dan dapat diatur untuk menunjukkan pencapaian. Tantangan ditentukan oleh satu orang dan bisa diselesaikan dan diumumkan oleh orang lainnya. Tantangan memuat bobot poin, yang bisa disesuaikan dengan program keterlibatan.
+- **Program Keterlibatan yang Bisa Dikustom** -organisasi bisa membuat program keterlibatan mereka sendiri sesuai dengan tujuan dan prioritas bisnis mereka. Program terikat pada aksi otomatis dengan sistem dan tantangan yang disetel manual. Setiap program ada bujet yang ditetapkan. Secara berkala, poin yang diperoleh tiap pengguna dengan otomatis atau dengan pengumuman pada tiap program keterlibatan diubah menjadi Meed, berdasar bujet program.
+- **Pujian** - pujian bisa diberikan oleh sesama pengguna, sebagai ungkapan terima kasih dan sebagai tanda pengakuan. Pujian yang bisa diberikan terbatas (bisa disetel batasan waktunya, misalnya 3 per minggu), karena pujian itu langka dan bernilai. Seperti aksi, pujian memiliki poin. Dengan cara seperti ini, karyawan diberdayakan untuk menghargai kolega mereka.
+- **Kolaborasi** peralatan, ditancapkan ke dalam mesin hadiah - ruang kerja, komunikasi, catatan dan peralatan tugas manajemen - memungkinkan pekerja untuk bekerja bersama dalam proyek.
+- **Dompet** - Pengguna disediakan dengan dompet Ethereum untuk menyimpan Meed mereka. Sebagai pilihan, bagi pengguna yang sudah mahir, bisa menggunakan dompet Metamask.
+- **Toko** - sebuah toko adalah tempat di mana Meed bisa ditukar untuk mendapat keuntungan disediakan oleh pemilik Deed atau yang menyewakan, atau oleh ekosistem Meed.
+- **Analisis** - untuk menganalisi dan mengikuti keterlibatan dalam Deed.
+- **Penghubung**, ditancapkan dengan mesin hadiah - pengguna mendapatkan poin keterlibatan lewat tindakannya di perangkat lunak lainnya - misalnya dengan melakukan kode di GitHub.
 
-Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
+Beberapa peralatan dan layanan yang disebut di atas ada yang sudah terdesentralisasi, ada juga yang tidak. Tujuan utama adalah menyediakan semua layanan secara terdesentralisasi, yang akan kami lakukan secara bertahap seiring perkembangan teknologinya.
 
-New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
+Layanan baru bisa ditancapkan ke mesin hadiah lewat API. Banyak contohnya dan meliputi hampir semua perangkat lunak, atau layanan virtual:
 
-- CRM software – salespeople would get engagement points for working on opportunities.
-- Accounting software – accountants would get engagement points for keeping books.
-- Clocking terminal – factory worker can get points for factory work time.
-- Etc.
+- Perangkat lunak CRM - tenaga penjualan akan mendapat poin keterlibatan karena mengerjakan sesuai kesempatannya.
+- Perangkat lunak akuntansi - akuntan akan mendapat poin keterlibatan karena mengelola pembukuan.
+- Terminal Clocking - pekerja bisa mendapatkan poin untuk pekerjaan sesuai masa kerjanya.
+- Dll.
 
-Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
+Selain itu, keterlibatan yang dihasilkan dari partisipasi konektor dalam perhitungan keterlibatan organisasi global yang jadi faktor pencetakan distribusi Meed, dijelaskan di bawah ini. Untuk melakukan itu, konektor harus didaftar oleh asosiasi Meed. Asosiasi menilai konektor, menyetujui algoritmanya dan mendapatkan hak terhadap Meed. Hal ini akan menjadi bagian dari layanan gratis yang disediakan oleh asosiasi dan termasuk dalam bagian indeks keterlibatan global. Deed yang lain boleh menggunakan konektor dan algoritma yang sama untuk para pengembangnya.
 
-The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
+Pemegang atau penyewa bisa melengkapi tokonya dengan dagangan mereka sendiri, dan menghubungkannya dengan dagangan yang ditawarkan secara daring dll. Ada pula peluang-peluang lain yang tak terbatas:
 
-- Training courses
-- Gym memberships
-- Vacation packages
-- Lunch with a leader in the organization
-- Physical office space
-- Etc.
+- Kursus
+- Keanggotaan gimnastik
+- Paket liburan
+- Makan siang dengan pemimpin organisasi
+- Ruang kantor fisik
+- Dll.
 
-The store functions through the use of Meeds so that Meeds are partially returned to the Deed.
+Fungsi toko bisa difungsikan dengan penggunaan Meed, sehingga sebagian Meed bisa dikembalikan ke Deed.
 
-## 2.5. Rewards – Meeds and other tokens
+## 2.5. Hadiah - Meed dan token lainnya
 
-The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs. Indeed, each Deed can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
+WoM akan mengembangkan token untuk keterlibatan pengguna, dengan gamifikasi peralatan kerja digital, dan memberi poin dan Meed dalan hubungannya dengan keterlibatan kerja. Layanan dihubungkan dengan keterlibatan dan mesin hadiah poin ke setiap pengguna, menurut tingkat keterlibatan mereka dan selaras dengan tiap program keterlibatan Deed. Tentunya, setiap Deed bisa menyetel berapa besar poin hadiah yang diberikan pada tiap jenis aktivitas. Jadi, tiap mengunggah kode di GitHub bisa bernilai 10 poin untuk toko IT, sedangkan bagi digital agensi hanya bernilai 5 poin untuk aktivitas mengunggah kode ke GitHub, tapi mereka mendapatkan 10 poin jika meretweet.
 
-Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Deed is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
+Secara berkala, mesin hadiah mengubah poin keterlibatan menjadi Meed sesuai dengan bujet dan aturan distribusi lainnya, dan memberikan hadiah kepada pengguna lewat dompet mereka. Deed tidak wajib mendistribusikan Meed, dan bisa menggunakan sistem keterlibatan untuk melakukan bentuk lain dari program kompensasi. Namun, mendistribusikan Meed akan meningkatan kemampuan mencetak mereka.
 
-Moreover, the Deed does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
+Selain itu, Deed tidak perlu memperoleh Meed untuk mendistribusikannya dan mendorong program keterlibatan, karena mereka akan mendapat Meed dengan model "mintium' yang dijelaskan di bawah.
 
-In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
+Selain Meed, mereka juga bisa mendistribusikan token lain (misalnya token DAO mereka sendiri) berdasar pada mekanisme keterlibatan yang sama. Pada kasus itu, distribusinya akan dikenakan biaya transaksi 5% (dalam token DAO) untuk Meed Association.
 
-## 2.6. The “mintium” model – tokenize work engagement
+## 2.6. Model "Mintium" - tokenisasi keterlibatan kerja
 
 By engaging their users in the WoM, Deeds get compensated through an innovative mintium model.
 
@@ -122,32 +122,32 @@ As the Deeds are rewarded with Meeds and incentivized to redistribute them as re
 
 The “mintium” model is the first of a kind - it goes further than the traditional freemium one, as not only the services are free to use but both the organizations and their users are rewarded for using them.
 
-## 2.7. Cities and governance
+## 2.7. Kota dan tata kelola
 
-In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
+Dalam WoM, Deed akan dicetak secara berkala dalam kota virtual. Hanya kota pertama yang akan tetap ada sejak awal. Kota lainnya, akan dibangun secara bertahap, satu per satu. Pada seluruh WoM, hanya akan ada 7 kota, jumlah Deed tetap pada tiap jenisnya.
 
-A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
+Sebuah kota dianggap sudah lengkap, saat semua Deed sudah dicetak. Lalu, pencetakan tiap kota baru, akan dimulai pada $2^n$ bulan setelah Deed terakhir dari $n-1$ kota yang sudah dicetak.
 
-| **City name** | **Deeds**   | **Available**        | **Common** | **Uncommon** | **Rare**  | **Legendary** |
-| ------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
-| 1: Tanit      | 100         | T0                   | 50         | 30           | 13        | 7             |
-| 2: Reshef     | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
-| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
-| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
+| **Nama Kota** | **Deed**    | **Ketersediaan**    | **Common** | **Uncommon** | **Rare**  | **Lengendary** |
+| ------------- | ----------- | ------------------- | ---------- | ------------ | --------- | -------------- |
+| 1: Tanit      | 100         | T0                  | 50         | 30           | 13        | 7              |
+| 2: Reshef     | 1 000       | Tanit + 4 bulan     | 600        | 300          | 94        | 6              |
+| 3: Ashtarte   | 10 000      | Reshef + 8 bulan    | 6 000      | 3 000        | 995       | 5              |
+| 4: Melqart    | 100 000     | Ashtarte + 16 bulan | 60 000     | 30 000       | 9 996     | 4              |
+| 5: Eshmun     | 1 000 000   | Melqart + 32 bulan  | 600 000    | 300 000      | 99 997    | 3              |
+| 6: Kushor     | 10 000 000  | Eshmum + 64 bulan   | 6 000 000  | 3 000 000    | 999 998   | 2              |
+| 7: Hammon     | 100 000 000 | Kushor + 128 bulan  | 60 000 000 | 30 000 000   | 9 999 999 | 1              |
 
-A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
+Sebuah kota adalah cara bagi Deed untuk bersatu dan membangun komunitas. Maka, konsekuensinya mengakuisisi identitas yang jelas, terkait dengan komunitas tersebut. Hal ini juga cara menyediakan nilai tambah bagi pengguna - nilai yang akan melampaui kapasitas satu Deed atau nilai dari gabungan beberapa Deed.
 
-Each city has its own govenance and operates its own DAO where the city’s Deeds’ owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
+Tiap kota memiliki pemerintahnya dan dioperasikan dengan DAO mereka, di mana pemilik Deed kota bisa memilih dewan kota mereka, menentukan tata kelola kota mereka sendiri, menambah layanan dan membentuk kota mereka sesuai keinginan mereka agar meningkatkan daya tarik kota sehingga menambah nilai Deed yang ada di dalamnya.
 
-For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add Meeds powered food services, vacations services, etc...
+Misalnya, mereka bisa menambah representasi digital kota mereka, mitra fisik yang terkait dengan kota (misalnya ruang pertemuan fisik kerja bersama), menambah kemampuan Meed dengan layanan makanan, liburan, dll...
 
-By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
+Sesuai peraturan (kecuali kota memilih lainnya), pendapatan pasif bisa diperoleh dari menyewakan Deed akan dikenai pajak oleh kota (5%) dan asosiasi (3%) untuk mendorong penggunaan yang produktif.
 
-Ownsership transactions (Deed’s sales) will also be taxed 6% :
+Transaksi kepemilikan (penjualan Deed) akan dipajaki 6% :
 
-- 2.5% for the City,
-- 2.5% for the Association,
-- 1% for the original wallet that redeemed the Deed.
+- 2,5% untuk City
+- 2,5% untuk asosiasi
+- 1% untuk pemilik aslinya yang menebud Deed.
