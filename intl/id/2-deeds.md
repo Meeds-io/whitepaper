@@ -82,9 +82,9 @@ Selain Meed, mereka juga bisa mendistribusikan token lain (misalnya token DAO me
 
 ## 2.6. Model "Mintium" - tokenisasi keterlibatan kerja
 
-By engaging their users in the WoM, Deeds get compensated through an innovative mintium model.
+Dengan melibatkan pengguna mereka di WoM, Deed mendapat kompensasi melalui model inovatif mintium.
 
-Engagement points, gained by the Deeds’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Deeds. Even though the Deed can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
+Poin keterlibatan, diperoleh dari pengguna Deed, indeks partisipasi keterlibatan global, dan dihitung oleh Meed Association. Indeks tersebut menggunakan prinsip yang sama kepada semua Deed. Walau Deed bisa mengubah alokasi poin untuk mempromosikan satu perilaku terhadap yang lain, perubahan itu tidak akan diperhitungkan dalam perhitungan indeks global.
 
 Each week, a certain amount of Meeds is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Deeds. Some Deeds get an additional boost depending on their type. The Deeds that claim their Meeds over the week, receive them. The unclaimed Meeds are added to the following week’s global distribution amount.
 
