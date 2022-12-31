@@ -84,43 +84,43 @@ Selain Meed, mereka juga bisa mendistribusikan token lain (misalnya token DAO me
 
 Dengan melibatkan pengguna mereka di WoM, Deed mendapat kompensasi melalui model inovatif mintium.
 
-Poin keterlibatan, diperoleh dari pengguna Deed, indeks partisipasi keterlibatan global, dan dihitung oleh Meed Association. Indeks tersebut menggunakan prinsip yang sama kepada semua Deed. Walau Deed bisa mengubah alokasi poin untuk mempromosikan satu perilaku terhadap yang lain, perubahan itu tidak akan diperhitungkan dalam perhitungan indeks global.
+Poin keterlibatan, diperoleh dari pengguna Deed, indeks partisipasi keterlibatan global, dan dihitung oleh Meed Association. Indeks tersebut menggunakan prinsip yang sama kepada semua Deed. Walau Deed bisa mengubah alokasi poin untuk mempromosikan satu aksi terhadap yang lain, perubahan itu tidak akan diperhitungkan dalam perhitungan indeks global.
 
-Each week, a certain amount of Meeds is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Deeds. Some Deeds get an additional boost depending on their type. The Deeds that claim their Meeds over the week, receive them. The unclaimed Meeds are added to the following week’s global distribution amount.
+Dalam satu pekan, sejumlah Meed dialokasikan untuk pencetakan keterlibatan global dalam WoM. Alokasi ini dihitung tiap pekan, pro-rata, di antara para partisipan Deed. Sebagian Deed mendapat poin tambahan tergantung tipe mereka. Deed yang mengklaim Meed mereka dalam satu pekan, akan mereka terima. Meed yang tidak diklaim, akan dimasukkan dalam distribusi global minggu selanjutnya.
 
-The engagement score _S_  of a Deed is a function of the engagement, the number of engaged users and the distribution :
+Nilai keterlibatan _S_   dari Deed berdasar fungsi keterlibatan, jumlah pengguna yang terlibat dan distribusinya :
 
 $$S = (E_d / E_w) * D_r * D_s * M$$
 
-Where :
+Di mana :
 
-- $A$ = _Activity_ - total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
-- $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
-- $E_d$ = _Engagement rate of the deed_ - actions per user ($A/U$)
-- $E_w$ = _Average engagement rate_ of all active Deeds in the WoM.
-- $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
-- $D_s$ =  _Distribution spread_ - if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
-- $M$ = _Minting Power_ of the Deed as defined in 2.3
-
-
-The global engagement index used to distribute minted Meeds among the Deeds is the sum of all Deeds’ engagement scores for the week.
+- $A$ = _Activity_ - menunjukkan angka total akumulasi aksi pengguna dalam Deed selama sepekan. (Dalam tiap tingkat Deed, satu aksi ditukar dengan poin keterlibatan, beberapa aksi berbobot lebih banyak dibanding lainnya. Dalam tingkat indeks, semua aksi diselaraskan).
+- $U$ = _Engaged users_ - menunjukkan poin kontribusi pengguna selama sepekan, setidaknya satu aksi.
+- $E_d$ = _Engagement rate of the deed_ - aksi tiap pengguna ($A/U$)
+- $E_w$ = _Tingkat rerata keterlibatan_ semua Deed aktif dalam WoM.
+- $D_r$ = _Distribution rate_ - jika sebuah Deed menerima Meed yang dicetak pada periode sebelumnya, % dari Meed didistribusikan kepada penggunanya. Proporsi % bisa lebih dari 100 jika waktu pendistribusiannya terlambat.
+- $D_s$ =  _Distribution spread_ - jika sebuah Deed menerima Meed yang dicetak pada periode sebelumnya, porsi % dari pengguna yang menerima Meed dari total pengguna.
+- $M$ = _Kapasitas Mencetak_ Deed dijelaskan pada bagian 2.3
 
 
-The formula above is simple and designed to favor deeds :
+Indeks keterlibatan global digunakan untuk mendistribusikan Meed yang dicetak di antara Deed adalah jumlah dari nilai keterlibatan semua Deed dalam sepekan.
 
-- with lots of engaged users (engagement)
-- who share the whole of the minting income (distribution rate) with their users fairly (distribution spread).
 
-Additionnally boosters are in place for :
+Rumus di atas sederhana dan dirancang untuk mendukung Deed :
 
-- organizations with the highest engagement, regardless of their size (engagement rate in relation to the WoM)
-- scarcer deeds
+- dengan banyaknya jumlah pengguna yang terlibat (keterlibatan)
+- yang berbagi seluruh Deed yang diperoleh (distribution rate) dengan pengguna mereka secara adil (distribution rate).
 
-> The Meeds association reserves the right to change the formula if required – if some specific use cases arise for instance. The association can also blacklist any Deed that hijacks the formula to its unique benefit.
+Selain itu, ada tambahan bagi :
 
-As the Deeds are rewarded with Meeds and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the Deeds and their users are aligned in the same virtuous revenue sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
+- organisasi yang memiliki keterlibatan tertinggi, terlepas dari ukuran mereka (kaitan antara engagement rate dengan Wom)
+- deed yang lebih langka
 
-The “mintium” model is the first of a kind - it goes further than the traditional freemium one, as not only the services are free to use but both the organizations and their users are rewarded for using them.
+> Asosiasi Meed berhak mengubah rumus tersebut jika diperlukan - misalnya jika ada kasus tertentu. Asosiasi juga bisa memblokir Deed yang meretas rumus untuk keuntungan mereka pribadi.
+
+Karena Deed diberi imbalan dan insentif berupa Meed untuk didistribusikan ulang sebagai imbalan untuk pengguna mereka atas keterlibatan pengguna - kepentingan Deed dan penggunanya harus selaras dan sama dalam pembagian hasilnya. Maka, WoM menawarkan model kerja baru, untuk menyusun ulang hubungan pekerja/pemberi kerja sebagai sebuah kemitraan.
+
+Model "mintium" adalah jenis baru - yang berbeda dengan model freemium tradisional, karena tidak hanya memberikan layanan gratis, tapi antara organisasi dan penggunanya sama-sama diberi imbalan karena ikut menggunakan.
 
 ## 2.7. Kota dan tata kelola
 
