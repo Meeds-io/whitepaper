@@ -43,12 +43,12 @@ Na začiatok môžete na odmenu za angažovanosť využiť nasledujúce bezplatn
 - **Pripojiteľné programy zapojenia** - organizácie si môžu vytvoriť vlastné programy zapojenia zodpovedajúce ich obchodným cieľom a prioritám. Programy sú priradené k automatickým akciám v systéme a ručne nastaveným výzvam. Each program has a set Meeds budget. Pravidelne sa body získané každým používateľom prostredníctvom automatických alebo oznámených akcií v každom programe zapojenia konvertujú na Meeds na základe rozpočtu daného programu.
 - **Kudos** - kudos si môžu udeľovať používatelia navzájom ako poďakovanie a prejav uznania. Keďže kudos, ktoré je možné distribuovať, sú obmedzené (prednastavený pravidelný limit, napríklad 3 týždenne), sú vzácne a cenné. Rovnako ako akcie, aj pochvaly prinášajú body. Zamestnanci tak majú možnosť odmeňovať svojich kolegov.
 - **Spolupráca** zapojené do systému odmeňovania - pracovné priestory, asynchrónna komunikácia, nástroj na správu úloh a poznámky - umožňujú ľuďom spoločne pracovať na projektoch.
-- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
-- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
-- **Analytics** – to analyze and follow engagement within the Deed.
-- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
+- **Peňaženka** - používatelia majú k dispozícii bezpečnú peňaženku s technológiou Ethereum na ukladanie svojich Meeds. Pokročilí používatelia môžu použiť aj peňaženku Metamask.
+- **Store** - obchod, v ktorom je možné vymeniť Meeds za výhody poskytnuté držiteľom alebo nájomcom Deedu alebo ekosystémom Meeds.
+- **Analytika** - na analýzu a sledovanie zapojenia v rámci Deed.
+- **Konektory**, zapojené do systému odmeňovania - používatelia získavajú body za zapojenie prostredníctvom akcií v inom softvéri - napríklad za odovzdanie kódu v službe GitHub.
 
-Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
+Niektoré z uvedených nástrojov a služieb sú už decentralizované, iné nie. Konečným cieľom je poskytovať všetky služby decentralizovaným spôsobom, čo budeme robiť postupne, ako sa bude vyvíjať základná technológia.
 
 New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
 
