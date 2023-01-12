@@ -50,25 +50,25 @@ Na začiatok môžete na odmenu za angažovanosť využiť nasledujúce bezplatn
 
 Niektoré z uvedených nástrojov a služieb sú už decentralizované, iné nie. Konečným cieľom je poskytovať všetky služby decentralizovaným spôsobom, čo budeme robiť postupne, ako sa bude vyvíjať základná technológia.
 
-New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
+Nové služby možno do systému odmeňovania zapojiť prostredníctvom rozhraní APIs. Príkladov je nespočetne veľa a môžu zahŕňať prakticky akýkoľvek softvér alebo službu:
 
-- CRM software – salespeople would get engagement points for working on opportunities.
-- Accounting software – accountants would get engagement points for keeping books.
-- Clocking terminal – factory worker can get points for factory work time.
-- Etc.
+- Softvér CRM - predajcovia by získavali body za prácu na príležitostiach.
+- Účtovný softvér - účtovníci by získali body za vedenie účtovníctva.
+- Hodinový terminál - pracovník továrne môže získať body za pracovný čas v továrni.
+- Atď.
 
-Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
+Okrem toho sa angažovanosť vytvorená prostredníctvom konektora podieľa na globálnom skóre angažovanosti organizácie, ktoré je faktorom rozdelenia Meeds mince, opísaného nižšie. Na to musí byť konektor zaradený do bielej listiny združenia Meeds. Združenie preskúma konektor, schváli jeho algoritmus a nadobudne jeho vlastníctvo voči spoločnosti Meeds. Potom sa stane súčasťou bezplatných služieb poskytovaných združením a je zahrnutá do globálneho indexu angažovanosti. Akýkoľvek iný čin môže používať rovnaký konektor a rovnaký algoritmus odmeňovania pre svojich vývojárov.
 
-The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
+Držiteľ alebo nájomca Deedu môže svoj obchod obohatiť o vlastné výhody, pripojiť sa k online ponuke výhod atď. Aj tu sú možnosti nekonečné:
 
-- Training courses
-- Gym memberships
-- Vacation packages
-- Lunch with a leader in the organization
-- Physical office space
-- Etc.
+- Školenie
+- Členstvo v posilňovni
+- Dovolenkové balíky
+- Obed s vedúcim pracovníkom organizácie
+- Fyzické kancelárske priestory
+- Atď.
 
-The store functions through the use of Meeds so that Meeds are partially returned to the Deed.
+Obchod funguje prostredníctvom používania Meedov, takže Meedy sa čiastočne vracajú do Deedu.
 
 ## 2.5. Odmeny -Meeds a iné žetóny
 
