@@ -1,13 +1,13 @@
 
 # 2. Deeds NFT - Organizaciones de Work Metaverse
 
-## 2.1. NFT – Deeds defined
+## 2.1. NFT - Deeds definidos
 
-A non fungible token (NFT) is a unique token that represents a good. En el WoM, un Deed se utiliza como un título de propiedad. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+Una ficha no fungible (NFT) es una ficha única que representa un bien. En el WoM, un Deed se utiliza como un título de propiedad. Cada Deed otorga a su propietario el derecho a acceder a varios servicios: por ejemplo, el acceso a una oficina digital, impulsada por el software Meeds y el derecho a acuñar Meeds.
 
 El WoM da la bienvenida a todo tipo de organizaciones: DAO, corporaciones tradicionales, asociaciones, *think tanks*, colaboraciones, compañías de teatro, proyectos grupales, escuelas, etc. El Deed representa su existencia digital en el WoM.
 
-## 2.2. Deeds supply
+## 2.2. Suministro de Deeds
 
 En última instancia, el WoM proveerá una cantidad limitada de Deeds. Cada Deed incluye un número máximo predefinido de usuarios, y ofrece una capacidad de recompensa de Meeds (Minting Power, o poder de creación de divisa). De aquí en adelante, el término 'usuario' designará cualquier tipo de empleado, trabajador, autónomo, voluntario, etc.
 
@@ -24,8 +24,8 @@ Hay cuatro tipos de Deeds. Cada uno aporta diferentes posibilidades en lo que re
 
 Un Deed le da a su titular el derecho de utilizarlo (USE), alquilarlo (RENT) o venderlo (SELL).
 
-- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
-- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
+- USO - Los propietarios de Deed pueden utilizarlo directamente para su organización, prestando servicios a sus usuarios.
+- ALQUILER - Los propietarios de Deed también pueden alquilarlo a otra organización para obtener ingresos pasivos.
 - SELL - Un Deed puede venderse en un mercado secundario como [OpenSea](https://opensea.io).
 
 Al ser un *holder* activo o arrendador de un Deed, a la organización se la compensa con Meeds a través de un modelo innovador descrito a continuación (part 2.6).
