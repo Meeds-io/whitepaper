@@ -5,7 +5,7 @@
 
 Ein Not-Fungible-Token (NFT), zu Deutsch: ein nicht austauschbarer Token, ist ein einzigartiger Token, der ein Gut darstellt. Im WoM wird ein Deed als Eigentumstitel verwendet. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
 
-Das WoM begrüßt alle Arten von Organisationen - DAOs, traditionelle Unternehmen, Vereine, Denkfabriken, Partnerschaften, Theatergruppen, Projektgruppen, Schulen usw. Der Deed repräsentiert ihre digitale Existenz im WoM.
+Das WoM begrüßt alle Arten von Organisationen - DAOs, traditionelle Unternehmen, Vereine, Denkfabriken, Partnerschaften, Theatergruppen, Projektgruppen, Schulen usw. Der Deed repräsentiert ihre digitale Existenz im WoM. Der Deed repräsentiert ihre digitale Existenz im WoM.
 
 ## 2.2. Deeds liefern
 
@@ -59,7 +59,7 @@ Neue Dienste können über APIs in die Belohnungsmaschine integriert werden. Bei
 
 Darüber hinaus nimmt das über den Konnektor erzeugte Engagement am globalen Engagement-Score der Organisation teil, der ein Faktor der beschriebenen Prägeverteilung von Meeds ist unter. Dazu muss der Connector von der Meeds Association auf die Whitelist gesetzt werden. Die Association überprüft den Konnektor, genehmigt seinen Algorithmus und erwirbt sein Eigentum gegen Meeds. Es wird dann Teil der kostenlosen Dienstleistungen des Vereins und wird in den globalen Engagement-Index aufgenommen. Jede andere Deed kann denselben Konnektor und denselben Belohnungsalgorithmus für ihre Entwickler verwenden.
 
-Der Inhaber oder Mieter des Deed kann sein Geschäft mit eigenen Vergünstigungen bereichern, sich mit einem Online-Vergünstigungsangebot verbinden usw. Auch hier sind die Möglichkeiten endlos:
+Der Inhaber oder Mieter des Deed kann sein Geschäft mit eigenen Vergünstigungen bereichern, sich mit einem Online-Vergünstigungsangebot verbinden usw. Auch hier sind die Möglichkeiten endlos: Auch hier sind die Möglichkeiten endlos:
 
 - Trainingskurse
 - Mitgliedschaften im Fitnessstudio
