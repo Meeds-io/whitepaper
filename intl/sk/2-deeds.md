@@ -72,82 +72,82 @@ Obchod funguje prostredníctvom používania Meedov, takže Meedy sa čiastočne
 
 ## 2.5. Odmeny -Meeds a iné žetóny
 
-WoM bude tokenizovať angažovanosť používateľov prostredníctvom gamifikácie digitálnych pracovných nástrojov a prideľovania bodov a Meedov vo vzťahu k pracovnej angažovanosti. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs. Indeed, each Deed can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
+WoM bude tokenizovať angažovanosť používateľov prostredníctvom gamifikácie digitálnych pracovných nástrojov a prideľovania bodov a Meedov vo vzťahu k pracovnej angažovanosti. Služby zapojené do systému zapojenia a odmeňovania prideľujú body každému používateľovi podľa úrovne jeho zapojenia a v súlade s programami zapojenia jednotlivých Deed. Každý Deed môže presne nastaviť počet bodov udelených za každý typ činnosti. Vloženie kódu do GitHubu tak môže mať pre IT obchod hodnotu 10 bodov, zatiaľ čo digitálna agentúra môže za vloženie kódu do GitHubu prideliť len 5 bodov, ale za retweet môže ponúknuť 10 bodov.
 
-Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Deed is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
+Systém odmeňovania pravidelne premieňa body za zapojenie na Meeds podľa rozpočtov a iných distribučných pravidiel a nakoniec odmeňuje používateľov prostredníctvom ich peňaženiek. Deed nie je povinná rozdeľovať Meeds a môže použiť systém zapojenia, aby umožnila inú formu kompenzačného programu. Distribúcia Meeds však zlepší jej mincovnú kapacitu.
 
-Moreover, the Deed does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
+Okrem toho Deed nemusí nevyhnutne získať Meeds, aby ich mohol distribuovať a podporovať svoje programy angažovanosti, pretože získa Meeds z modelu "mintium", ktorý je opísaný nižšie.
 
-In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
+Okrem Meeds bude možné distribuovať aj iné tokeny (napríklad vlastné tokeny DAO) na základe rovnakého mechanizmu zapojenia. V takom prípade bude distribúcia podliehať 5 % transakčnému poplatku (v tokene DAO) pre združenie Meeds.
 
-## 2.6. The “mintium” model – tokenize work engagement
+## 2.6. Model "mintium" - tokenizácia pracovného nasadenia
 
-By engaging their users in the WoM, Deeds get compensated through an innovative mintium model.
+Za zapojenie svojich používateľov do WoM dostávajú Deeds kompenzáciu prostredníctvom inovatívneho modelu mintium.
 
-Engagement points, gained by the Deeds’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Deeds. Even though the Deed can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
+Body za angažovanosť, ktoré získajú používatelia Deeds, sa podieľajú na globálnom indexe angažovanosti, ktorý vypočítava združenie Meeds. Index používa rovnaký princíp pre všetky Deeds. Aj keď Deed môže zmeniť pridelenie bodov s cieľom uprednostniť jednu akciu pred druhou, tieto zmeny sa pri výpočte globálneho indexu nezohľadnia.
 
-Each week, a certain amount of Meeds is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Deeds. Some Deeds get an additional boost depending on their type. The Deeds that claim their Meeds over the week, receive them. The unclaimed Meeds are added to the following week’s global distribution amount.
+Každý týždeň sa na globálne angažované razenie WoM vyčlení určité množstvo Meedov. Vypočítava sa týždenne, proporcionálne, medzi zúčastnenými Deedami. Niektoré Deedy získavajú dodatočné zvýšenie v závislosti od ich typu. Deedy, ktoré sa v priebehu týždňa hlásia o svoje Meedy, ich dostanú. Nevyzdvihnuté Meedy sa pripočítajú k celkovej sume na distribúciu v nasledujúcom týždni.
 
-The engagement score _S_  of a Deed is a function of the engagement, the number of engaged users and the distribution :
+Skóre zapojenia _S_ Deedu je funkciou zapojenia, počtu zapojených používateľov a distribúcie :
 
 $$S = (E_d / E_w) * D_r * D_s * M$$
 
-Where :
+Kde:
 
-- $A$ = _Activity_ - total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
-- $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
-- $E_d$ = _Engagement rate of the deed_ - actions per user ($A/U$)
-- $E_w$ = _Average engagement rate_ of all active Deeds in the WoM.
-- $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
-- $D_s$ =  _Distribution spread_ - if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
-- $M$ = _Minting Power_ of the Deed as defined in 2.3
-
-
-The global engagement index used to distribute minted Meeds among the Deeds is the sum of all Deeds’ engagement scores for the week.
+- $A$ = _Aktivita_ - celkový počet akcií, ktoré používatelia v rámci Deedu nahromadili za týždeň. (Na každej úrovni Deedu sa každá akcia prepočítava na body angažovanosti, pričom niektoré akcie majú väčšiu váhu ako iné. Na úrovni indexu sú všetky akcie linearizované).
+- $U$ = _Zapojení používatelia_ - používatelia, ktorí počas týždňa prispeli k bodom aspoň jednou akciou.
+- $U$ = _Zapojení používatelia_ - používatelia, ktorí počas týždňa prispeli aspoň jednou akciou k bodom
+- $E_w$ = _Priemerná miera zapojenia_ všetkých aktívnych Deedow vo WoM.
+- $E_w$ = _Priemerná miera zapojenia_ všetkých aktívnych činov vo WoM. Toto % môže byť vyššie ako 100, ak sa distribúcia oneskorí v čase.
+- $D_s$ = _Rozpätie distribúcie_ - ak listina dostala za predchádzajúce obdobie vyrazené Meedy, % používateľov, ktorí dostali Meedy, z celkového počtu používateľov.
+- $M$ = _Mincovacie právo_ právneho Deedu podľa definície v bode 2.3
 
 
-The formula above is simple and designed to favor deeds :
+Globálny index angažovanosti, ktorý sa používa na rozdelenie vyrazených Meedov medzi Deeds, je súčtom skóre angažovanosti všetkých Deeds za daný týždeň.
 
-- with lots of engaged users (engagement)
-- who share the whole of the minting income (distribution rate) with their users fairly (distribution spread).
 
-Additionnally boosters are in place for :
+Uvedený vzorec je jednoduchý a navrhnutý v prospech deedov:
 
-- organizations with the highest engagement, regardless of their size (engagement rate in relation to the WoM)
-- scarcer deeds
+- s množstvom zapojených používateľov (angažovanie)
+- ktorí sa spravodlivo podelia o celý príjem z razenia (distribučná sadzba) so svojimi používateľmi (distribučné rozpätie).
 
-> The Meeds association reserves the right to change the formula if required – if some specific use cases arise for instance. The association can also blacklist any Deed that hijacks the formula to its unique benefit.
+Okrem toho sú k dispozícii posilňovače pre :
 
-As the Deeds are rewarded with Meeds and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the Deeds and their users are aligned in the same virtuous revenue sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
+- organizácie s najvyššou angažovanosťou bez ohľadu na ich veľkosť (miera angažovanosti vo vzťahu k WoM)
+- vzácnejšie deedy
 
-The “mintium” model is the first of a kind - it goes further than the traditional freemium one, as not only the services are free to use but both the organizations and their users are rewarded for using them.
+> Združenie Meeds si vyhradzuje právo zmeniť vzorec, ak to bude potrebné - napríklad ak sa vyskytnú niektoré špecifické prípady použitia. Združenie môže tiež zaradiť na čiernu listinu každý Deed, ktorý zneužíva vzorec vo svoj jedinečný prospech.
 
-## 2.7. Cities and governance
+Keďže Deeds sú odmeňovaní Meeds a motivovaní k tomu, aby ich prerozdeľovali ako odmeny svojim používateľom za ich angažovanosť - záujmy Deeds aj ich používateľov sú zosúladené v rovnakom cykle zdieľania príjmov. WoM tak ponúka nový model práce, ktorý pretvára vzťah medzi zamestnávateľom a zamestnancom na partnerstvo.
 
-In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
+Model "mintium" je prvý svojho druhu - ide ďalej ako tradičný model freemium, pretože nielenže sú služby zadarmo, ale organizácie aj ich používatelia sú za ich používanie odmeňovaní.
 
-A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
+## 2.7. Mestá a správa vecí verejných
 
-| **City name** | **Deeds**   | **Available**        | **Obvyklý** | **Neobvyklý** | **Zriedkavé** | **Legendárne** |
-| ------------- | ----------- | -------------------- | ----------- | ------------- | ------------- | -------------- |
-| 1: Tanit      | 100         | T0                   | 50          | 30            | 13            | 7              |
-| 2: Reshef     | 1 000       | Tanit + 4 months     | 600         | 300           | 94            | 6              |
-| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000       | 3 000         | 995           | 5              |
-| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000      | 30 000        | 9 996         | 4              |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000     | 300 000       | 99 997        | 3              |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000   | 3 000 000     | 999 998       | 2              |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000  | 30 000 000    | 9 999 999     | 1              |
+Vo WoM sa Deedy budú postupne generovať vo virtuálnych mestách. Od začiatku bude existovať len prvé mesto. Ostatné sa budú budovať postupne, jeden po druhom. V celom WoM bude vždy len 7 miest, z ktorých každé bude obsahovať pevný počet Deedow každého typu.
 
-A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
+Mesto sa považuje za dokončené, keď sú vyrazené všetky jeho Deedy. Potom sa razba každého nového mesta začne $2^n$ mesiacov po vyrazení poslednej $n-1$ Deedu mesta.
 
-Each city has its own govenance and operates its own DAO where the city’s Deeds’ owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
+| **Názov mesta** | **Deeds**   | **Dostupné**           | **Obvyklý** | **Neobvyklý** | **Zriedkavé** | **Legendárne** |
+| --------------- | ----------- | ---------------------- | ----------- | ------------- | ------------- | -------------- |
+| 1: Tanit        | 100         | T0                     | 50          | 30            | 13            | 7              |
+| 2: Reshef       | 1 000       | Tanit + 4 mesiace      | 600         | 300           | 94            | 6              |
+| 3: Ashtarte     | 10 000      | Reshef + 8 mesiacov    | 6 000       | 3 000         | 995           | 5              |
+| 4: Melqart      | 100 000     | Ashtarte + 16 mesiacov | 60 000      | 30 000        | 9 996         | 4              |
+| 5: Eshmun       | 1 000 000   | Melqart + 32 mesiacov  | 600 000     | 300 000       | 99 997        | 3              |
+| 6: Kushor       | 10 000 000  | Eshmum + 64 mesiacov   | 6 000 000   | 3 000 000     | 999 998       | 2              |
+| 7: Hammon       | 100 000 000 | Kushor + 128 mesiacov  | 60 000 000  | 30 000 000    | 9 999 999     | 1              |
 
-For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add Meeds powered food services, vacations services, etc...
+Mesto je pre Deeds spôsob, ako sa spojiť a vytvoriť komunitu. A v dôsledku toho získať určitú identitu, spojenú s touto komunitou. Je to tiež spôsob, ako poskytnúť svojim používateľom dodatočnú hodnotu - hodnotu, ktorá by presahovala možnosti jedného Deedu alebo hodnotu vytvorenú spoluprácou medzi Deedmi.
 
-By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
+Každé mesto má vlastnú samosprávu a prevádzkuje vlastnú DAO, v ktorej si vlastníci listín môžu voliť mestskú radu, hlasovať a stanovovať vlastné pravidlá fungovania, pridávať nové služby a formovať svoje mesto tak, ako chcú, a zvyšovať tak atraktívnosť mesta a hodnotu listín, ktoré sú s ním spojené.
 
-Ownsership transactions (Deed’s sales) will also be taxed 6% :
+Mohli by napríklad pridať digitálnu reprezentáciu svojho mesta, fyzické náprotivky spojené s ich mestom (napríklad zasadacie miestnosti vo fyzických co-workingových priestoroch), pridať stravovacie služby poháňané spoločnosťou Meeds, dovolenkové služby atď...
 
-- 2.5% for the City,
-- 2.5% for the Association,
-- 1% for the original wallet that redeemed the Deed.
+Štandardne (ak mesto neodhlasuje inak) budú pasívne príjmy z prenájmu "zdaňované" mestom (5 %) a združením (3 %) s cieľom podporiť produktívne využitie.
+
+Vlastnícke transakcie (predaj Deedu) budú tiež zdanené 6 %:
+
+- 2,5 % pre Mesto,
+- 2,5 % pre Združenie,
+- 1 % pre pôvodnú peňaženku, ktorá odkúpila Deed.
