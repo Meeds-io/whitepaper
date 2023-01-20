@@ -1,10 +1,10 @@
-# 5. The Work Metaverse for ALL – vision summary and milestones
+# 5. El Work Metaverse para TODOS - resumen de visión e hitos
 
-## 5.1. Ultimate goal - decentralized web for everyone
+## 5.1. Objetivo final: una web descentralizada para todos
 
-In the end, the WoM is a decentralized web world for everyone – every person and every organization.
+Al final, el WoM es un mundo web descentralizado para todos, cada persona y cada organización.
 
-It will be populated by users, acting through their digital identities **Xeeds** and accessing the world through their metamasks, for crypto-savvies, or login/password for the newbies. People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
+Será poblado por los usuarios, actuando a través de sus identidades digitales **Xeeds** y accediendo al mundo a través de sus metamasas, para los salvavidas criptográficos, o login/password para los novatos. People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
 
 Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the metaverse, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
 
