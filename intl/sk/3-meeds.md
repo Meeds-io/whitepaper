@@ -1,25 +1,25 @@
-# 3. Meeds token – the Work Metaverse currency
+# 3. Token Meeds - pracovná mena Metaverse
 
-The Work Metaverse is powered by its currency – the Meeds (MEED) token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
+Metaverse Praca poháňa jej mena - token Meeds (MEED). Meeds sa používajú na odmeňovanie používateľov (prostredníctvom programov zapojenia), nákupy v obchodoch, získavanie Deedow, finančné výnosy z investícií atď.
 
-## 3.1. Tokenomics
+## 3.1. Tokenomika
 
-The Meeds **maximum supply is limited to 100 million tokens**, minted progressively. **Meeds are minted at the rate of 10 MEED per minute**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).
+Maximálna ponuka Meeds **je obmedzená na 100 miliónov tokenov**, ktoré sa razia postupne. **Meedy sa razia rýchlosťou 10 MEED za minútu**. Preto sa celý horizont razby blíži k 20 rokom (keďže ročne sa vyrazí približne 10 dolárov*60*24*365 = 5 miliónov dolárov).
 
-5 Million Meeds (5% of total supply) have been pre-minted to date. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services.
+K dnešnému dňu bolo predbežne vylisovaných 5 miliónov Meedow (5 % z celkovej ponuky). Z toho 4,5 milióna bolo viazaných trezorovou zmluvou s lineárnou dobou platnosti na 4 roky. Predminulá suma bola použitá najmä na získanie softvérového duševného vlastníctva, zaplatenie právnych poplatkov za emisiu tokenov a hostingové služby.
 
-The rest is part of the __Meeds DAO funds__ and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
+Zvyšok je súčasťou __Fondov DAO Meeds__ a bude použitý na zaplatenie služieb, ako aj na niektoré stimuly na spustenie, ako sú napríklad výsadky a referenčné kampane.
 
 
-## 3.2. Minting allocation
+## 3.2. Rozdelenie mincí
 
-Minted Meeds are allocated to encourage involvement of the three categories of stakeholders - the users, the builders and the investors:
+Mincovne Meeds sa prideľujú na podporu zapojenia troch kategórií zainteresovaných strán - užívateľov, stavebníkov a investorov:
 
-- The users (users and Deeds holders/renters) get Meeds through engagement rewards (mintium model).
-- Builders (members of the association and community) get Meeds through the association funds to build, operate and improve the WoM.
-- Investors mint Meeds through renting and buying of liquidity pools and staking Meeds.
+- Používatelia (používatelia a držitelia/prenajímatelia Deeds) získavajú Meeds prostredníctvom odmien za zapojenie (model mintium).
+- Stavebníci (členovia združenia a komunity) získavajú Meedy z fondov združenia na výstavbu, prevádzku a zlepšenie WoM.
+- Investori mincujú Meeds prostredníctvom prenájmu a nákupu likvidity poolov a stávkovania Meeds.
 
-At the beginning, the builders get 30% of the allocation. The 70% are shared between the users and the investors. This allocation proportion will be reviewed on a regular basis, through the Meeds association DAO vote.
+Na začiatku dostanú stavitelia 30 % pridelených prostriedkov. O 70 % sa delia používatelia a investori. Tento podiel pridelených prostriedkov sa bude pravidelne prehodnocovať prostredníctvom hlasovania združenia Meeds DAO.
 
 ## 3.3. Users – minting through engagement
 
