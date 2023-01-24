@@ -6,28 +6,28 @@ El Metaverso del Trabajo se nutre de su moneda: el token Meeds (MEED). Los Meeds
 
 El suministro máximo de Meeds **está limitado a 100 millones de tokens**, acuñadas progresivamente. **Los MEED se acuñan a razón de 10 MEED por minuto**. Por lo tanto, el horizonte completo de acuñación se aproxima a los 20 años (ya que se acuñan unos 10*60*24*365 = 5M$ Meeds al año).
 
-Hasta la fecha se han pre-emitido 5 millones de Meeds (5% del suministro total). De ellos, 4,5 millones han sido bloqueados en un contrato de bóveda con un devengo lineal a lo largo de 4 años. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services.
+Hasta la fecha se han pre-emitido 5 millones de Meeds (5% del suministro total). De ellos, 4,5 millones han sido bloqueados en un contrato de bóveda con un devengo lineal a lo largo de 4 años. La cantidad anticipada se utilizó principalmente para adquirir el software IP, pagar los honorarios legales de token emisión y servicios de hosting.
 
-The rest is part of the __Meeds DAO funds__ and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
+El resto forma parte de los fondos de __Meeds DAO__ y se utilizará para pagar servicios, así como algunos incentivos de lanzamiento como lanzamientos aéreos y campañas de recomendación.
 
 
-## 3.2. Minting allocation
+## 3.2. Asignación de monedas
 
-Minted Meeds are allocated to encourage involvement of the three categories of stakeholders - the users, the builders and the investors:
+Los Minted Meeds se asignan para fomentar la participación de las tres categorías de interesados: los usuarios, los constructores y los inversores:
 
-- The users (users and Deeds holders/renters) get Meeds through engagement rewards (mintium model).
-- Builders (members of the association and community) get Meeds through the association funds to build, operate and improve the WoM.
-- Investors mint Meeds through renting and buying of liquidity pools and staking Meeds.
+- Los usuarios (usuarios y titulares/alquiladores de Deeds) obtienen Meeds a través de recompensas por compromiso (modelo mintium).
+- Los builders (miembros de la asociación y de la comunidad) obtienen Meeds a través de los fondos de la asociación para construir, operar y mejorar el WoM.
+- Los inversores acuñan Meeds mediante el alquiler y la compra de pools de liquidez y estacando Meeds.
 
-At the beginning, the builders get 30% of the allocation. The 70% are shared between the users and the investors. This allocation proportion will be reviewed on a regular basis, through the Meeds association DAO vote.
+Al principio, los constructores reciben el 30% de la asignación. El 70% se reparte entre los usuarios y los inversores. Esta proporción de asignación se revisará periódicamente, a través de la votación de la asociación Meeds DAO.
 
-## 3.3. Users – minting through engagement
+## 3.3. Usuarios: acuñar mediante el compromiso
 
-Part of the continuously minted Meeds is allocated to the engagement minting channel. The distribution is done weekly. At any given week end, the engagement index is calculated and Deeds can claim their rewards the following week and get their Meeds. Unclaimed Meeds stay in the fund and are added to the next week’s distribution. The model is described in detail in the previous chapter (part 2.6).
+Una parte de los Meeds de acuñación continua se destina al canal de acuñación de compromisos. La distribución se hace semanalmente. Al final de cada semana, se calcula el índice de compromiso y las Acciones pueden reclamar sus recompensas la semana siguiente y obtener sus Meeds. Los Meeds no reclamados permanecen en el fondo y se añaden a la distribución de la semana siguiente. El modelo se describe detalladamente en el capítulo anterior (parte 2.6).
 
-## 3.4. Builders – Meeds association DAO and community of builders
+## 3.4. Builders - Asociación Meeds DAO y comunidad de builders
 
-The WoM and the Meeds token are operated by the non-profit Meeds Association DAO, introduced above. A multisig contract called the _Meeds DAO Funds_ is used to manage the association's operating expenses.
+El WoM y el token Meeds son operados por la Meeds Association DAO sin ánimo de lucro, presentada anteriormente. Para gestionar los gastos de funcionamiento de la asociación se utiliza un contrato multisig denominado _Meeds DAO Funds_.
 
 During the minting period, **30% of the minted Meeds are allocated to the Meeds association**.
 
@@ -76,21 +76,21 @@ The formula avoids favoring large holders in order to distribute Deeds more effi
 | --------------- | -------------- | --------------- |
 | Small           | 1 000 xMeeds   | 28 pts/day      |
 | Medium          | 10 000 xMeeds  | 164 pts/day     |
-| Large           | 100 000 xMeeds | 321 pts/day     |
+| Large           | 100 000 xMeeds | 321 puntos/día  |
 
 
-which leads to the following holding time for each class of holder :
+lo que conduce al siguiente tiempo de retención para cada clase de titular :
 
-| **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| Común         | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| Poco común    | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| Raro          | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| Lengendario   | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| **Tipo de carta** | **Coste**      | **Large Holder** | **Medium Holder** | **Small Holder** |
+| ----------------- | -------------- | ---------------- | ----------------- | ---------------- |
+| Común             | 8 000 puntos   | 25 días          | 49 días           | 9 meses          |
+| Poco común        | 32 000 puntos  | 100 días         | 6 meses           | 3 años           |
+| Raro              | 50 000 puntos  | 156 días         | 10 meses          | 5 años           |
+| Lengendario       | 100 000 puntos | 311 días         | 20 meses          | 10 años          |
 
-## 3.6. Meeds DAO governance
+## 3.6. Gobernanza de Meeds DAO
 
-Meeds token holders need to stake tokens in order to vote on the Meeds DAO decisions such as managing the minting budget or electing DAO board members (annual mandate).
+Los titulares de tokens de Meeds necesitan apostar tokens para votar en las decisiones de Meeds DAO, como la gestión del presupuesto de acuñación o la elección de los miembros del consejo de la DAO (mandato anual).
 
 ## 3.7. Decentralized finance (DeFi) user services
 
