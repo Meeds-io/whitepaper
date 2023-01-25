@@ -72,51 +72,51 @@ La tienda funciona mediante el uso de Meeds, de modo que los Meeds se devuelven 
 
 ## 2.5. Recompensas - Meeds y otras fichas
 
-The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs. Indeed, each Deed can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
+El WoM tokenizará el compromiso de los usuarios, gamificando las herramientas digitales de trabajo y atribuyendo puntos y Meeds en relación con el compromiso al trabajo. Los servicios conectados al motor de compromiso y recompensa atribuyen puntos a cada usuario, según su nivel de compromiso y en línea con los programas de compromiso de cada Deed. De hecho, cada Deed puede ajustar la cantidad de puntos otorgados por cada tipo de actividad. Así, enviar código a GitHub puede valer 10 puntos para una empresa de IT, mientras que una agencia digital puede atribuir sólo 5 puntos por enviar código a GitHub, pero ofrecer 10 puntos por retweets.
 
-Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Deed is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
+Periódicamente, el motor de recompensas convierte los puntos de participación en Meeds según los presupuestos y otras normas de distribución y, en última instancia, recompensa a los usuarios a través de sus monederos. El Deed no está obligado a distribuir Meeds y puede utilizar el sistema de compromiso para habilitar otra forma de programa de compensación. Sin embargo, la distribución de Meeds mejorará su capacidad de acuñación.
 
-Moreover, the Deed does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
+Además, la Escritura no necesita forzosamente adquirir Meeds para distribuirlos y alimentar sus programas de compromiso, ya que obtendrá Meeds del modelo "mintium", descrito a continuación.
 
-In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
+Además de Meeds, será también posible distribuir otros tokens basados en el mismo mecanismo de compromiso (por ejemplo, los tokens de la DAO). En ese caso, la distribución estará sujeta a una comisión de transacción de 5% (en token DAO) para la Asociación Meeds.
 
-## 2.6. The “mintium” model – tokenize work engagement
+## 2.6. El modelo "mintium" - tokenizar el compromiso del trabajo
 
-By engaging their users in the WoM, Deeds get compensated through an innovative mintium model.
+Al involucrar a sus usuarios en el WoM, Deeds recibe una compensación a través de un innovador modelo de mintium.
 
-Engagement points, gained by the Deeds’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Deeds. Even though the Deed can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
+Los puntos de compromiso, ganados por los usuarios de Deeds, participan en el índice de compromiso global, calculado por la Asociación Meeds. El índice utiliza el mismo principio para todos los Deeds. Aunque el Deed puede cambiar la asignación de puntos para favorecer una acción en detrimento de otra, esos cambios no se tendrán en cuenta en el cómputo global del índice.
 
-Each week, a certain amount of Meeds is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Deeds. Some Deeds get an additional boost depending on their type. The Deeds that claim their Meeds over the week, receive them. The unclaimed Meeds are added to the following week’s global distribution amount.
+Cada semana, se asigna una determinada cantidad de Meeds a la acuñación del compromiso global de la WoM. Se computa semanalmente, a prorrata, entre los Deeds participantes. Algunas Deeds reciben un impulso adicional dependiendo de su tipo. Los Deeds que reclaman sus Meeds a lo largo de la semana, los reciben. Los Meeds no reclamados se añaden al importe de distribución global de la semana siguiente.
 
-The engagement score _S_  of a Deed is a function of the engagement, the number of engaged users and the distribution :
+La puntuación de compromiso _S_ de un Deed es una función del compromiso, el número de usuarios comprometidos y la distribución :
 
 $$S = (E_d / E_w) * D_r * D_s * M$$
 
-Where :
+Dónde :
 
-- $A$ = _Activity_ - total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
-- $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
-- $E_d$ = _Engagement rate of the deed_ - actions per user ($A/U$)
-- $E_w$ = _Average engagement rate_ of all active Deeds in the WoM.
-- $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
-- $D_s$ =  _Distribution spread_ - if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
-- $M$ = _Minting Power_ of the Deed as defined in 2.3
-
-
-The global engagement index used to distribute minted Meeds among the Deeds is the sum of all Deeds’ engagement scores for the week.
+- $A$ = _Actividad_ - número total de acciones acumuladas por los usuarios dentro del Deed durante de la semana. (En cada nivel de Deed, cada acción se convierte en puntos de combate, y algunas acciones tienen más peso que otras. A nivel de índice, todas las acciones están linealizadas).
+- $U$ = _Usuarios comprometidos_ - usuarios que contribuyeron a los puntos durante la semana, mediante al menos una acción.
+- $E_d$ = _Tasa de compromiso de la acción_ - acciones por usuario ($A/U$)
+- $E_w$ = _Tasa media de compromiso_ de todos los Deeds activos en la WoM.
+- $D_r$ = _Tasa de distribución_ - si un Deed recibió Meeds acuñados durante el periodo anterior, el % de los Meeds que se distribuyó a sus usuarios. El % puede ser superior a 100 si la distribución se retrasa en el tiempo.
+- $D_s$ = _Distribución extendida_ - si un Deed recibió Meeds acuñados durante el periodo anterior, el % de los usuarios que recibieron Meeds en el conjunto total de usuarios.
+- $M$ = _Poder de Montaje_ del Deed como se define en 2.3
 
 
-The formula above is simple and designed to favor deeds :
+El índice de implicación global utilizado para distribuir los Meeds acuñados entre los Deeds es la suma de todos los puntos de compromiso de los Deeds para la semana.
 
-- with lots of engaged users (engagement)
-- who share the whole of the minting income (distribution rate) with their users fairly (distribution spread).
 
-Additionnally boosters are in place for :
+La fórmula anterior es sencilla y está diseñada para favorecer los hechos :
 
-- organizations with the highest engagement, regardless of their size (engagement rate in relation to the WoM)
-- scarcer deeds
+- con muchos usuarios implicados (compromiso)
+- que reparten equitativamente la totalidad de los ingresos de acuñación (tasa de distribución) entre sus usuarios (reparto de la distribución).
 
-> The Meeds association reserves the right to change the formula if required – if some specific use cases arise for instance. The association can also blacklist any Deed that hijacks the formula to its unique benefit.
+Además, se han instalado impulsores para :
+
+- organizaciones con mayor compromiso, independientemente de su tamaño (índice de compromiso en relación con la WoM)
+- deeds más escaso
+
+> La asociación Meeds se reserva el derecho a modificar la fórmula en caso necesario, por ejemplo, si surgen algunos casos de uso específicos. The association can also blacklist any Deed that hijacks the formula to its unique benefit.
 
 As the Deeds are rewarded with Meeds and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the Deeds and their users are aligned in the same virtuous revenue sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
 
