@@ -29,24 +29,24 @@ Una parte de los Meeds de acuñación continua se destina al canal de acuñació
 
 El WoM y el token Meeds son operados por la Meeds Association DAO sin ánimo de lucro, presentada anteriormente. Para gestionar los gastos de funcionamiento de la asociación se utiliza un contrato multisig denominado _Meeds DAO Funds_.
 
-During the minting period, **30% of the minted Meeds are allocated to the Meeds association**.
+Durante el periodo de acuñación, **30% de los Meeds acuñados se asignan a la asociación de Meeds**.
 
-Association members can provide services to the association on the basis of a signed services convention establishing the man-day rate. Services are paid monthly in Meeds, based on the market price. Exemples of services include – enriching the Meeds software, developing the WoM app, developing new connectors, operating the cloud service, providing financial and legal services etc.
+Los miembros de la asociación pueden prestar servicios a la asociación sobre la base de un convenio de servicios firmado en el que se establece la tarifa por día-hombre. Los servicios se pagan mensualmente en Meeds, según el precio de mercado. Ejemplos de servicios incluyen: enriquecer el software Meeds, desarrollar la aplicación WoM, desarrollar nuevos conectores, operar el servicio en la nube, proporcionar servicios financieros y legales, etc.
 
-Without being a member, any Deed can participate in the creation of a new connector and be rewarded for doing so – first through the Meeds association acquiring the connector and then by minting through this connector.
+Sin ser miembro, cualquier Deed puede participar en la creación de un nuevo conector y ser recompensado por ello, primero a través de la adquisición del conector por parte de la asociación Meeds y luego mediante la acuñación a través de este conector.
 
-The association operates a Builders community that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
+La asociación opera una comunidad de constructores que da la bienvenida a los entusiastas de WoM, que desean contribuir a la creación de WoM. La asociación patrocinará la comunidad con su presupuesto, compensando el compromiso de los miembros de la comunidad.
 
-Thus, the community will function as an example of a Deed, offering a standard set of services provided by the association. The association stakes Meeds in order to redeem a Deed for the community. The community will then also participate in the engagement minting like any other Deed.
+Por lo tanto, la comunidad funcionará como un ejemplo de un Título, ofreciendo un conjunto estándar de servicios proporcionados por la asociación. La asociación apuesta Meeds con el fin de redimir un Deed para la comunidad. La comunidad también participará en la acuñación mediante compromiso, al igual que cualquier otro Título.
 
-After the minting period is over, the association will be sustained by :
+Después de que finalice el periodo de acuñación, la asociación se mantendrá mediante:
 
-- taxing passive income (3% on Deeds renting)
-- taxing selling income (2.5% on Deeds sales)
-- perceiving transaction fees over the use of the perks stores
-- acting as a liquidity pool provider
-- perceiving transaction fees when a Deed distributes non Meeds tokens via WoM services.
-- by operating the Deeds that the association minted over time.
+- imponiendo un impuesto sobre los ingresos pasivos (3% sobre el alquiler de los Títulos)
+- imponiendo un impuesto sobre los ingresos de venta (2.5% sobre las ventas de Títulos)
+- percibiendo tarifas de transacción por el uso de las tiendas de ventajas
+- actuando como proveedor de liquidez
+- percibiendo tarifas de transacción cuando un Título distribuye tokens no Meeds a través de los servicios WoM.
+- mediante la operación de los Títulos que la asociación acuñó con el tiempo.
 
 
 ## 3.5. Investors
@@ -92,11 +92,11 @@ lo que conduce al siguiente tiempo de retención para cada clase de titular :
 
 Los titulares de tokens de Meeds necesitan apostar tokens para votar en las decisiones de Meeds DAO, como la gestión del presupuesto de acuñación o la elección de los miembros del consejo de la DAO (mandato anual).
 
-## 3.7. Decentralized finance (DeFi) user services
+## 3.7. Servicios de la financiación descentralizada para usuarios (DeFi)
 
-The Work Metaverse will introduce the blockchain world to many people who do not use it today.
+El Metaverso del Trabajo introducirá el mundo del blockchain a muchas personas que hoy no lo utilizan.
 
-Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
+De hecho, cualquier trabajo (digital o no) puede gamificarse y cualquier compromiso puede recompensarse con Meeds. Los meeds se ponen a disposición de los usuarios a través de un monedero fácil de usar, basado en blockchain, que "abstrae" cualquier complejidad del mundo criptográfico para un usuario medio.
 
 Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
 
