@@ -27,11 +27,11 @@ Ein Teil der fortlaufend geprägten Meeds wird dem Kanal für die Belohnung von 
 
 ## 3.4. Bauherren – Der Meeds DAO Verein und die Gemeinschaft der Bauherren
 
-The WoM and the Meeds token are operated by the non-profit Meeds Association DAO, introduced above. A multisig contract called the _Meeds DAO Funds_ is used to manage the association's operating expenses.
+Die WoM und der Meeds Token werden von der oben vorgestellten gemeinnützigen Meeds Association DAO betrieben. Ein Multisig-Vertrag namens _Meeds DAO Funds_ wird verwendet, um die Betriebskosten des Verbandes zu verwalten.
 
-During the minting period, **30% of the minted Meeds are allocated to the Meeds association**.
+Während der Prägeperiode werden **30% der Prägemeilen dem Meeds-Verein** zugewiesen.
 
-Association members can provide services to the association on the basis of a signed services convention establishing the man-day rate. Services are paid monthly in Meeds, based on the market price. Exemples of services include – enriching the Meeds software, developing the WoM app, developing new connectors, operating the cloud service, providing financial and legal services etc.
+Die Vereinsmitglieder können dem Verein auf der Grundlage einer unterschriebenen Dienstleistungskonvention zur Festsetzung des Personaltarifs Leistungen erbringen. Services are paid monthly in Meeds, based on the market price. Exemples of services include – enriching the Meeds software, developing the WoM app, developing new connectors, operating the cloud service, providing financial and legal services etc.
 
 Without being a member, any Deed can participate in the creation of a new connector and be rewarded for doing so – first through the Meeds association acquiring the connector and then by minting through this connector.
 
