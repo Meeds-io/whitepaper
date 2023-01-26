@@ -116,27 +116,27 @@ Además, se han instalado impulsores para :
 - organizaciones con mayor compromiso, independientemente de su tamaño (índice de compromiso en relación con la WoM)
 - deeds más escaso
 
-> La asociación Meeds se reserva el derecho a modificar la fórmula en caso necesario, por ejemplo, si surgen algunos casos de uso específicos. The association can also blacklist any Deed that hijacks the formula to its unique benefit.
+> La asociación Meeds se reserva el derecho a modificar la fórmula en caso necesario, por ejemplo, si surgen algunos casos de uso específicos. La asociación también puede poner en la lista negra cualquier Deed que desvíe la fórmula en su propio beneficio.
 
-As the Deeds are rewarded with Meeds and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the Deeds and their users are aligned in the same virtuous revenue sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
+Como los Deeds son recompensados con Meeds e incentivados a redistribuirlos como recompensas a sus usuarios a cambio de su participación, los intereses de los Deeds y de sus usuarios se alinean en el mismo ciclo virtuoso de reparto de ingresos. Así pues, la WoM ofrece un nuevo modelo de trabajo, que reconfigura la relación empleador/empleado como una colaboración.
 
-The “mintium” model is the first of a kind - it goes further than the traditional freemium one, as not only the services are free to use but both the organizations and their users are rewarded for using them.
+El modelo "mintium" es el primero de su tipo: va más allá del freemium tradicional, ya que no sólo los servicios son de uso gratuito, sino que tanto las organizaciones como sus usuarios son recompensados por utilizarlos.
 
-## 2.7. Cities and governance
+## 2.7. Ciudades y gobernanza
 
-In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
+En el WoM, Deeds se generarán gradualmente dentro de las ciudades virtuales. Sólo la primera ciudad existirá desde el principio. Los demás se construirán gradualmente, uno tras otro. En todo el WoM, sólo habrá 7 ciudades, cada una incluyendo un número fijo de Deeds de cada tipo.
 
 Una ciudad se considerará completa cuando se hayan acuñado todas sus Deeds. Entonces, la acuñación de cada nueva ciudad comenzará $2^n$ meses después de quel último Deed de la ciudad $n-1$ fuera acuñada.
 
-| **Nombre de la ciudad** | **Deeds**   | **Disponible**       | **Común**  | **Poco común** | **Raro**  | **Lengendario** |
-| ----------------------- | ----------- | -------------------- | ---------- | -------------- | --------- | --------------- |
-| 1: Tanit                | 100         | T0                   | 50         | 30             | 13        | 7               |
-| 2: Reshef               | 1 000       | Tanit + 4 months     | 600        | 300            | 94        | 6               |
-| 3: Ashtarte             | 10 000      | Reshef + 8 months    | 6 000      | 3 000          | 995       | 5               |
-| 4: Melqart              | 100 000     | Ashtarte + 16 months | 60 000     | 30 000         | 9 996     | 4               |
-| 5: Eshmun               | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000        | 99 997    | 3               |
-| 6: Kushor               | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000      | 999 998   | 2               |
-| 7: Hammon               | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000     | 9 999 999 | 1               |
+| **Nombre de la ciudad** | **Deeds**   | **Disponible**      | **Común**  | **Poco común** | **Raro**  | **Lengendario** |
+| ----------------------- | ----------- | ------------------- | ---------- | -------------- | --------- | --------------- |
+| 1: Tanit                | 100         | T0                  | 50         | 30             | 13        | 7               |
+| 2: Reshef               | 1 000       | Tanit + 4 meses     | 600        | 300            | 94        | 6               |
+| 3: Ashtarte             | 10 000      | Reshef + 8 meses    | 6 000      | 3 000          | 995       | 5               |
+| 4: Melqart              | 100 000     | Ashtarte + 16 meses | 60 000     | 30 000         | 9 996     | 4               |
+| 5: Eshmun               | 1 000 000   | Melqart + 32 meses  | 600 000    | 300 000        | 99 997    | 3               |
+| 6: Kushor               | 10 000 000  | Eshmum + 64 meses   | 6 000 000  | 3 000 000      | 999 998   | 2               |
+| 7: Hammon               | 100 000 000 | Kushor + 128 meses  | 60 000 000 | 30 000 000     | 9 999 999 | 1               |
 
 Una ciudad es una forma de que los Deeds se unan y creen una comunidad. Y, como consecuencia, adquirir una cierta identidad, asociada a esa comunidad. También es una forma de proporcionar valor adicional a sus usuarios: valor que iría más allá de las capacidades de una Deed o valor creado a través de la cooperación entre las Deeds.
 
