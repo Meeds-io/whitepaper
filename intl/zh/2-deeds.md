@@ -1,34 +1,34 @@
 
-# 2. 2. Deeds NFT - Work Metaverse Organizations
+# 2. Deeds NFT - 工作 Metaverse 组织
 
-## 2.1. 2.1. NFT – Deeds defined
+## 2.1. NFT – 契约定义
 
-A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+不可替代代币 (NFT) 是代表商品的独特代币。 在 WoM 中，契约被用作所有权的名称。 每份契约都赋予其所有者访问多项服务的权利——例如，访问由 Meeds 软件提供支持的数字办公室以及铸造 Meeds 的权利。
 
-The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM. The Deed represents their digital existence in the WoM.
+WoM 欢迎各种组织——DAO、传统公司、协会、智库、合作伙伴、剧院公司、项目组、学校等。 契据代表他们在 WoM 中的数字存在。
 
-## 2.2. Deeds supply Deeds supply
+## 2.2. Deeds supply 契约供应
 
-The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of Meeds rewarding (Minting Power). The term ‘user’ here and hereafter designates any type of employee, worker, freelancer, volunteer etc.
+WoM 最终将提供有限数量的契据。 每个契约都包含一个预定义的最大用户数，并提供 Meeds 奖励能力（铸币能力）。 此处和下文中的“用户”一词指代任何类型的雇员、工人、自由职业者、志愿者等。
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
+契约有四种类型，每种契约在用户数量、城市投票权（见 2.7）或 Meeds 铸币权方面提供不同的能力，最稀有的是最强大的：
 
-| **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
-| ------------- | ------------- | ----------------- | ------------ | ---------------------- |
-| Common        | 100           | 1                 | ~ 90%        | 1                      |
-| Uncommon      | 1000          | 1.1               | ~ 9%         | 10                     |
-| Rare          | 10 000        | 1.3               | ~ 1%         | 100                    |
-| Legendary     | unlimited     | 2                 | < 0.1 %      | 1000                   |
+| **契约类型** | **最大用户数** | **Minting power** | **缺乏**  | **城市投票权** |
+| -------- | --------- | ----------------- | ------- | --------- |
+| 常见的      | 100       | 1                 | ~ 90%   | 1         |
+| 罕见       | 1000      | 1.1               | ~ 9%    | 10        |
+| 稀有的      | 10 000    | 1.3               | ~ 1%    | 100       |
+| 传奇的      | 无限        | 2                 | < 0.1 % | 1000      |
 
-## 2.3. Deeds ownership Deeds ownership
+## 2.3. Deeds ownership 契据所有权
 
-A Deed gives its owner the right to USE it, RENT it, or SELL it.
+契约赋予其所有者使用、出租或出售它的权利。
 
-- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
-- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
-- SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
+- 使用——契约的所有者可以直接为他们的组织使用契约，为其用户提供服务。
+- 租金 - 契约的所有者也可以将契约出租给另一个组织以获得被动收入。
+- 卖 - 契约可以在二级市场上出售，例如 [OpenSea](https://opensea.io)。
 
-Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
+作为契约的积极持有人或承租人，该组织通过下文描述的创新“mintium”模型（第 2.6 部分）获得 Meeds 奖励。
 
 ## 2.4. 2.4. Deeds services, engagement/rewards engine
 
@@ -128,15 +128,15 @@ In the WoM, Deeds will be generated gradually inside virtual cities. Only the fi
 
 A city will be considered complete, once all of its Deeds have been minted. A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
 
-| **City name** | **Deeds**   | **Available**        | **Common** | **Uncommon** | **Rare**  | **Legendary** |
-| ------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
-| 1: Tanit      | 100         | T0                   | 50         | 30           | 13        | 7             |
-| 2: Reshef     | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
-| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
-| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
+| **City name** | **Deeds**   | **Available**        | **常见的**    | **罕见**     | **稀有的**   | **传奇的** |
+| ------------- | ----------- | -------------------- | ---------- | ---------- | --------- | ------- |
+| 1: Tanit      | 100         | T0                   | 50         | 30         | 13        | 7       |
+| 2: Reshef     | 1 000       | Tanit + 4 months     | 600        | 300        | 94        | 6       |
+| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000      | 3 000      | 995       | 5       |
+| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000     | 30 000     | 9 996     | 4       |
+| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000    | 99 997    | 3       |
+| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000  | 999 998   | 2       |
+| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000 | 9 999 999 | 1       |
 
 A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
 
