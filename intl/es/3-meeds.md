@@ -53,40 +53,40 @@ Después de que finalice el periodo de acuñación, la asociación se mantendrá
 
 Los inversores contribuyen a la creación del WoM aportando liquidez y apostando Meeds, estabilizando así su nivel de precios durante el periodo de construcción. Ambos se fomentan mediante la acuñación.
 
-**Liquidity providers** Currency liquidity management is key to the success of the project and several DeFi strategies will be used to optimize capital efficiency. Comenzaremos con incentivos para apostar tokens del pool MeedS/ETH LP y progresivamente introduciremos bonos para avanzar hacia una liquidez propiedad del protocolo. The latter would contribute to the association’s long term sustainability - as mentioned above, transaction fees will fund the association operating expenses such as cloud hosting.
+**Proveedores de liquidez** La gestión de la liquidez en divisas es importante para el éxito del proyecto y se utilizarán varias DeFi estrategias para optimizar la eficiencia del capital. Comenzaremos con incentivos para apostar tokens del pool MeedS/ETH LP y progresivamente introduciremos bonos para avanzar hacia una liquidez propiedad del protocolo. Esto último contribuiría a la sostenibilidad a largo plazo de la asociación: como ya se ha mencionado, las tasas de transacción financiarán los gastos de funcionamiento de la asociación, como el alojamiento en la nube.
 
-Every member also has the right to directly purchase a large amount of Meeds at a discount. The amount wired to the association account is converted to ETH and added along with the equivalent value of Meeds to the Liquidity Pool.
+Además, todos los afiliados tienen derecho a adquirir directamente una gran cantidad de Meeds con descuento. La cantidad transferida a la cuenta de la asociación se convierte en ETH y se añade junto con el valor equivalente de Meeds al Fondo de Liquidez.
 
-**Staking / long-term investment** To encourage long term investment, staked Meeds are rewarded. When Meeds are staked, the staker gets some xMeeds tokens. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings. In practice, minted Meeds are effectively added to the holdings of the xMeeds smart contract and distributed to the xMeeds holder when they unstake.
+**Inversión a largo plazo** Para fomentar la inversión a largo plazo, se recompensan los Meeds apostados. Cuando los Meeds son apostados, el apostador obtiene algunas fichas xMeeds. Los Meeds recién acuñados se distribuyen a los estacadores proporcionalmente a sus tenencias de xMeeds. En la práctica, los Meeds acuñados se añaden a las tenencias del contrato inteligente xMeeds y se distribuyen a los titulares de los Meeds cuando éstos los retiran.
 
-By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. Each staked Meeds (xMeeds) grants its owner a number of points per day. The longer the vested period the higher the number of points obtained per xMeeds. Each Deed is then redeemed in exchange for a number of points.
+Al apostar Meeds, los inversores también pueden canjear Deeds (y luego participar en la acuñación a través del compromiso), aumentando así la demanda de tokens. Cada apostado Meeds (xMeeds) otorga a su propietario un número de puntos por día. Cuanto más largo sea el período de carencia, mayor será el número de puntos obtenidos por xMeeds. A continuación, cada Deed se canjea por un número de puntos.
 
-Points are calculated using the formula below :
+Los puntos se calculan mediante la siguiente fórmula :
 
  $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
 
- where :
+ dónde :
 
-- $xMeeds$ : xMeeds balance  with no decimals
-- $T$ : Time elapsed in milliseconds
+- $xMeeds$ : saldo de xMeeds sin decimales
+- $T$ : Tiempo transcurrido en milisegundos
 
-The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably. For example, the formula gives the following rates :
+La fórmula evita favorecer a los grandes tenedores para distribuir los Deeds de forma más eficiente y equitativa. Por ejemplo, la fórmula da los siguientes índices :
 
-| **Holder Size** | **Holdings**   | **Accrue Rate** |
-| --------------- | -------------- | --------------- |
-| Small           | 1 000 xMeeds   | 28 pts/day      |
-| Medium          | 10 000 xMeeds  | 164 pts/day     |
-| Large           | 100 000 xMeeds | 321 puntos/día  |
+| **Tamaño del Titular** | **Holdings**   | **Tasa de Acumulación** |
+| ---------------------- | -------------- | ----------------------- |
+| Pequeño                | 1 000 xMeeds   | 28 puntos/día           |
+| Medio                  | 10 000 xMeeds  | 164 puntos/día          |
+| Large                  | 100 000 xMeeds | 321 puntos/día          |
 
 
 lo que conduce al siguiente tiempo de retención para cada clase de titular :
 
-| **Tipo de carta** | **Coste**      | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ----------------- | -------------- | ---------------- | ----------------- | ---------------- |
-| Común             | 8 000 puntos   | 25 días          | 49 días           | 9 meses          |
-| Poco común        | 32 000 puntos  | 100 días         | 6 meses           | 3 años           |
-| Raro              | 50 000 puntos  | 156 días         | 10 meses          | 5 años           |
-| Lengendario       | 100 000 puntos | 311 días         | 20 meses          | 10 años          |
+| **Tipo de carta** | **Coste**      | **Gran Titular** | **Medio Titular** | **Pequeño Titular** |
+| ----------------- | -------------- | ---------------- | ----------------- | ------------------- |
+| Común             | 8 000 puntos   | 25 días          | 49 días           | 9 meses             |
+| Poco común        | 32 000 puntos  | 100 días         | 6 meses           | 3 años              |
+| Raro              | 50 000 puntos  | 156 días         | 10 meses          | 5 años              |
+| Lengendario       | 100 000 puntos | 311 días         | 20 meses          | 10 años             |
 
 ## 3.6. Gobernanza de Meeds DAO
 
@@ -98,12 +98,12 @@ El Metaverso del Trabajo introducirá el mundo del blockchain a muchas personas 
 
 De hecho, cualquier trabajo (digital o no) puede gamificarse y cualquier compromiso puede recompensarse con Meeds. Los meeds se ponen a disposición de los usuarios a través de un monedero fácil de usar, basado en blockchain, que "abstrae" cualquier complejidad del mundo criptográfico para un usuario medio.
 
-Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
+Más allá del monedero y de una tienda donde pueden adquirir ventajas en Meeds, tenemos previsto presentar a cada usuario varios productos de cliente final impulsados por los protocolos de Finanzas Descentralizadas, como:
 
-- The ability to stake Meeds tokens and get yields (generate revenues)
-- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
-- A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. This card could also be used by organizations to fund employee wallets in order to manage employee benefits such as restaurants, transportation and any type of expenses.
+- La posibilidad de apostar Meeds tokens y obtener rendimientos (generar ingresos)
+- La capacidad de utilizar Meeds tokens como garantía para pedir prestadas monedas estables como USDC (apalancando primero un [Fuse pool](https://app.rari.capital/fuse) y luego registrando el Meeds token a [AAVE](https://aave.com/).
+- Una tarjeta digital que se puede añadir y utilizar a través de Apple Pay, Google pay o cualquier cajero automático. Este último puede proporcionarse a través de una colaboración con VISA y aprovechará una línea de crédito en USDC, garantizada por Meeds apostados. Esta tarjeta también podría ser utilizada por las organizaciones para financiar las carteras de los empleados con el fin de gestionar los beneficios de los empleados, como restaurantes, transporte y cualquier tipo de gastos.
 
-So not only many new users will discover the blockchain world, they will also discover a bankless world.
+Así que no sólo muchos nuevos usuarios descubrirán el mundo blockchain, sino que también descubrirán un mundo sin bancos.
 
  
