@@ -1,11 +1,11 @@
 
-# 2. 2. Deeds NFT - Work Metaverse Organizations
+# 2. Deeds NFT - 工作 Metaverse 組織
 
-## 2.1. 2.1. NFT – Deeds defined
+## 2.1. NFT – 契約定義
 
-A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+不可替代代幣 (NFT) 是代表商品的獨特代幣。 在 WoM 中，契約被用作所有權的名稱。 每份契約都賦予其所有者訪問多項服務的權利——例如，訪問由 Meeds 軟件提供支持的數字辦公室以及鑄造 Meeds 的權利。
 
-The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM. The Deed represents their digital existence in the WoM.
+WoM 歡迎各種組織——DAO、傳統公司、協會、智庫、合作夥伴、劇院公司、項目組、學校等。 契據代表他們在 WoM 中的數字存在。
 
 ## 2.2. Deeds supply Deeds supply
 
