@@ -1,14 +1,14 @@
 
-# 1. 1. Who we are – the Meeds Association
+# 1. 我們是誰 – Meeds 協會
 
-The Meeds association is a non-profit organization originally launched by several Open Source Software (OSS) communities around the common vision of a free digital world – a decentralized world that would not be controlled by a handful of centralized mega-corporations.
+Meeds 協會是一個非營利組織，最初由幾個開源軟件 (OSS) 社區發起，圍繞著自由數字世界的共同願景——一個不受少數中心化大公司控制的去中心化世界。
 
-The Meeds association is incorporated in Geneva, as a non-profit association under the Swiss law.
+Meeds 協會在日內瓦註冊成立，是一家受瑞士法律保護的非營利性協會。
 
-The association regulates the issuance of the Meeds currency, an ERC20 token, recognized as a utility token.
+該協會監管 Meeds 貨幣的發行，這是一種 ERC20 代幣，被公認為實用代幣。
 
-To build the WoM and Meeds, the association leverages the Ethereum platform and its ecosystem, making it accessible in a friendly and cost-effective way to all users.
+為了構建 WoM 和 Meeds，該協會利用以太坊平台及其生態系統，讓所有用戶都能以友好且經濟高效的方式訪問它。
 
-The association is structured as a Decentralized Autonomous Organization (DAO) where the governance token holders vote on all important organizational changes such as electing the board every year.
+該協會的結構是一個去中心化自治組織 (DAO)，治理代幣持有者在其中對所有重要的組織變革進行投票，例如每年選舉董事會。
 
-Besides Meeds token management, the association holds the Intellectual Property (IP) of the Meeds software [github.com/meeds-io](https://github.com/meeds-io), available under the LGPL license and distributed for free. The latter includes an Ethereum wallet app that users can use to store and transact their Meeds (see section 2.4 for more details). The Meeds Association also runs a multi-tenant cloud hosting service leveraging that software. The latter includes an Ethereum wallet app that users can use to store and transact their Meeds (see section 2.4 for more details). The Meeds Association also runs a multi-tenant cloud hosting service leveraging that software.
+除了 Meeds 代幣管理外，該協會還擁有 Meeds 軟件 [github.com/meeds-io](https://github.com/meeds-io) 的知識產權 (IP)，可根據 LGPL 許可免費分發。 後者包括一個以太坊錢包應用程序，用戶可以使用該應用程序來存儲和交易他們的 Meeds（有關更多詳細信息，請參見第 2.4 節）。 Meeds 協會 還運行一個利用該軟件的多租戶雲託管服務。
