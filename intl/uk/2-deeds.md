@@ -1,17 +1,17 @@
 
-# 2. Deeds NFT - Work Metaverse Organizations
+# 2. Deeds NFT - Організації Work Metaverse
 
-## 2.1. NFT – Deeds defined
+## 2.1. NFT - Визначені Deeds
 
-A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+Необмінний токен (NFT) - це унікальний токен, який представляє товар. У WoM, Deed використовується як заголовок власності. У WoM, Deed використовується як заголовок власності. Кожен Deed дає свому власнику право на доступ до ряду сервісів - наприклад, доступ до цифрової офісу, підтримуваного Meeds software і право на випадок Meeds.
 
-The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM.
+WoM вітає всі види організацій - DAO, традиційні корпорації, асоціації, танк-танки, партнерства, театральні компанії, проектні групи, школи тощо. Документ представляє їх цифрове існування у WoM.
 
-## 2.2. Deeds supply
+## 2.2. Deeds постачання
 
-The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of Meeds rewarding (Minting Power). The term ‘user’ here and hereafter designates any type of employee, worker, freelancer, volunteer etc.
+WoM окончательно будет поставлять ограниченное количество Deeds. Кожний Deed включає передзадану максимальну кількість користувачів і надає можливість нагородження Meeds (Потужність карбування). Термін 'користувач' тут та далі означає будь-який тип співробітника, робітника, фрілансера, волонтера та ін.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
+Існують чотири типи Deed, які надають різні можливості залежно від кількості користувачів, права голосу в місті (див. 2.7) або можливості випуску Meeds, рідше буде найбільш мощним:
 
 | **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
 | ------------- | ------------- | ----------------- | ------------ | ---------------------- |
