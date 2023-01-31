@@ -52,10 +52,10 @@ WoM अंत से सीमित मात्रा में Deeds प्�
 
 एपीआई के माध्यम से नई सेवाओं को इनाम इंजन में जोड़ा जा सकता APIs। उदाहरण अनगिनत हैं और इनमें वस्तुतः कोई भी सॉफ्टवेयर या सेवा शामिल हो सकती है:
 
-- CRM software – salespeople would get engagement points for working on opportunities.
-- Accounting software – accountants would get engagement points for keeping books.
-- Clocking terminal – factory worker can get points for factory work time.
-- Etc.
+- CRM सॉफ्टवेयर – विक्रेताओं को मौजूदा मौकों पर काम करने पर सम्पर्क अंक मिलेंगे।
+- एकाउंटिंग सॉफ्टवेयर – एकाउंटेंट्स को किताबों को रखने पर सम्पर्क अंक मिलेंगे।
+- क्लॉकिंग टर्मिनल – फैक्ट्री मजदूर फैक्ट्री काम के समय पर अंक प्राप्त कर सकते हैं।
+- इत्यादि।
 
 Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
 
@@ -66,7 +66,7 @@ The Deed’s holder or renter can enrich its store with its own perks, connect t
 - Vacation packages
 - Lunch with a leader in the organization
 - Physical office space
-- Etc.
+- इत्यादि।
 
 The store functions through the use of Meeds so that Meeds are partially returned to the Deed.
 
