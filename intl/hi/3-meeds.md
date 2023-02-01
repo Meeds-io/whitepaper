@@ -1,6 +1,6 @@
 # 3. Meeds token – the Work Metaverse currency
 
-The Work Metaverse is powered by its currency – the Meeds (MEED) token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
+The Work Metaverse is powered by its currency – the Meeds (MEED) token. मीड्स उपयोगकर्ताओं को प्रोत्साहन कार्यक्रमों के माध्यम से पुरस्कृत करने, दुकानों में खरीदने, दस्तावेज़ प्राप्त करने, निवेशों पर वित्तीय लाभ प्राप्त करने आदि के लिए प्रयुक्त किये जाते हैं।
 
 ## 3.1. Tokenomics
 
@@ -13,17 +13,17 @@ The rest is part of the __Meeds DAO funds__ and will be used to pay for services
 
 ## 3.2. Minting allocation
 
-Minted Meeds are allocated to encourage involvement of the three categories of stakeholders - the users, the builders and the investors:
+मिंटेड मीड्स तीन श्रृंखले के सदस्यों, निर्माताओं और निवेशकों की भागीदारी को प्रोत्साहित करने के लिए अनुकूलित किये जाते हैं:
 
 - The users (users and Deeds holders/renters) get Meeds through engagement rewards (mintium model).
-- Builders (members of the association and community) get Meeds through the association funds to build, operate and improve the WoM.
-- Investors mint Meeds through renting and buying of liquidity pools and staking Meeds.
+- निर्माताओं (समूह और समुदाय के सदस्य) वॉम को निर्मित, चलाने और सुधारने के लिए समूह फंड के माध्यम से Meeds प्राप्त करते हैं।
+- निवेशकों द्वारा शून्यता तकनीकों के किराये और खरीद के माध्यम से Meeds को छोड़ने और Meeds को स्थिर करने से Meeds मिंट करते हैं
 
-At the beginning, the builders get 30% of the allocation. The 70% are shared between the users and the investors. This allocation proportion will be reviewed on a regular basis, through the Meeds association DAO vote.
+शुरुआत में, निर्माताओं को आवंटन के 30% मिलते हैं। 70% उपयोगकर्ताओं और निवेशकों के बीच साझा किये जाते हैं। इस वितरण अनुपात को मीड्स संघ DAO वोट के माध्यम से नियमित विवरण के माध्यम से समीक्षित किया जाएगा।
 
 ## 3.3. Users – minting through engagement
 
-Part of the continuously minted Meeds is allocated to the engagement minting channel. The distribution is done weekly. At any given week end, the engagement index is calculated and Deeds can claim their rewards the following week and get their Meeds. Unclaimed Meeds stay in the fund and are added to the next week’s distribution. The model is described in detail in the previous chapter (part 2.6).
+निरंतर मिंटेड Meeds का हिस्सा engagement minting channel के लिए आवंटित किया जाता है। The distribution is done weekly. At any given week end, the engagement index is calculated and Deeds can claim their rewards the following week and get their Meeds. Unclaimed Meeds stay in the fund and are added to the next week’s distribution. The model is described in detail in the previous chapter (part 2.6).
 
 ## 3.4. Builders – Meeds association DAO and community of builders
 
@@ -90,13 +90,13 @@ which leads to the following holding time for each class of holder :
 
 ## 3.6. Meeds DAO governance
 
-Meeds token holders need to stake tokens in order to vote on the Meeds DAO decisions such as managing the minting budget or electing DAO board members (annual mandate).
+Meeds टोकन धारकों को Meeds DAO निर्णयों पर वोट करने के लिए, जैसे मिंटिंग बजट का प्रबंधन या DAO बोर्ड सदस्यों के निर्वाचन (वार्षिक मंडेट), टोकनों को स्थान देना होगा।
 
-## 3.7. Decentralized finance (DeFi) user services
+## 3.7. स्वतंत्र वित्तीय (DeFi) उपयोगकर्ता सेवाएं
 
-The Work Metaverse will introduce the blockchain world to many people who do not use it today.
+वर्क मेटावर्स दुनिया में ब्लॉकचैन का प्रवेश कई लोगों के लिए करने वाले हैं जो आज इसे उपयोग नहीं करते हैं।
 
-Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
+वास्तव में, कुछ भी काम (डिजिटल हो या नहीं) गेमीफाइड किया जा सकता है और कोई भी प्रतिनिधित्व - Meeds के साथ इनामित किया जा सकता है। Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
 
 Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
 
