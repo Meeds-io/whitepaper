@@ -1,6 +1,6 @@
 
 
-## Abstract
+## Abstrato
 
 Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
 
