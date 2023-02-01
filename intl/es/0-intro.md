@@ -24,10 +24,10 @@ Por otra parte, los empleadores también se enfrentan a un bajo nivel de comprom
 
 Todo lo anterior se reduce a los elevados costes de transacción y al exacerbado problema agente-principal[^4] :
 
-- Con Internet, los mercados laborales ganaron mayor unidad y transparencia gracias a los sitios web de búsqueda de empleo. Aun así, los costes transaccionales siguen siendo demasiado altos al carecer de un elemento de objetividad.
-- El problema del agente-principal es una mezcla que comprende tanto la distancia creciente de beneficios y patrimonio entre empleados y accionistas, y la rigidez de la relación empleado-empleador.
+- Con Internet, los mercados de trabajo evolucionaron hacia una mayor unidad y transparencia gracias a los sitios de ofertas de empleo, sitios de carreras profesionales, etc. Pero los costes de transacción siguen siendo demasiado elevados en ausencia de un elemento de objetividad.
+- En cuanto al problema del agente-principal, se ha visto agravado por la creciente diferencia de ingresos y riqueza entre empleados y accionistas y la rigidez de la relación empleador-empleado.
 
-El WoM tiene por meta resolver esta distancia y rigidez por medio de un nuevo paradigma de trabajo descentralizado.
+La WoM pretende resolver ambos problemas mediante un nuevo paradigma de trabajo descentralizado.
 
 Coase[^5], la mayoría de economistas relacionan el concepto de empresa con la necesidad de mitigar los costes transaccionales. Internet y, más recientemente, blockchain y web3 abren posibilidades apasionantes para reducir los costes de transacción en todas partes, reinventar la economía y, en particular, reinventar la empresa. Las primeras DAO[^6] iniciaron este proceso centrándose en reducir el coste de las transacciones para la obtención de capital y la gobernanza. El objetivo de WoM es ir más allá y rebajar el coste de las transacciones laborales. Propone un mundo descentralizado donde la correspondencia de trabajos con habilidades puedan establecerse de forma objetiva, rápida y global.
 
