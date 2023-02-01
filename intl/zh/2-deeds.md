@@ -30,63 +30,63 @@ WoM 最终将提供有限数量的契据。 每个契约都包含一个预定义
 
 作为契约的积极持有人或承租人，该组织通过下文描述的创新“mintium”模型（第 2.6 部分）获得 Meeds 奖励。
 
-## 2.4. 2.4. Deeds services, engagement/rewards engine
+## 2.4. 契约服务、参与/奖励引擎
 
-In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement. The WoM provides an innovative framework to do that by tokenizing work engagement.
+在竞争日益激烈的市场中，为了吸引和留住人才并最大化他们的投入，组织需要激励他们的用户，而不仅仅是简单的补偿。 WoM 提供了一个创新的框架，通过标记工作参与来做到这一点。
 
-Each Deed’s holder or renter can provide tools and services to its users, who earn engagement points that can be fine-tuned to the Deed’s priorities. Periodically, points are converted into Meeds (and - for DAOs - potentially another token), based on the Deed’s set budget. In that manner, users’ engagement in activities that matter to the organization is rewarded. Periodically, points are converted into Meeds (and - for DAOs - potentially another token), based on the Deed’s set budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
+每个 Deed 的持有人或承租人都可以为其用户提供工具和服务，他们可以获得可以根据 Deed 的优先级进行微调的参与度。 根据契约的设定预算，点数会定期转换为 Meeds（并且 - 对于 DAOs - 可能是另一种代币）。 以这种方式，用户参与对组织重要的活动会得到奖励。
 
-To begin with, the following free services provided by the Meeds association can be used to reward engagement:
+首先，Meeds 协会提供的以下免费服务可用于奖励参与：
 
-- **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the Deed’s priorities via customizable engagement programs.
-- **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
-- **Customizable engagement programs** - organizations can create their own engagement programs matching their business goals and priorities. Programs are associated to automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatics or announced actions in each engagement program are converted into Meeds, based on that program’s budget. Programs are associated to automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatics or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
-- **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
-- **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
-- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used. Alternatively, for advanced users, a Metamask wallet can be used.
-- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
-- **Analytics** – to analyze and follow engagement within the Deed.
-- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
+- **游戏化引擎** – WoM 中的自动操作具有权重，可以通过可定制的参与程序根据契约的优先级进行微调。
+- **挑战** – 可以设置可定制的挑战来代表成就。 挑战由一个人预设，可以由另一个人填写和宣布。 在可定制的参与计划中，挑战具有重要意义。
+- **可定制的参与计划** - 组织可以根据其业务目标和优先事项创建自己的参与计划。 程序与系统内的自动操作相关联并手动设置挑战。 每个项目都有一套 Meeds 预算。 根据该计划的预算，每个用户通过自动或宣布的每个参与计划中的行动定期获得的积分将转换为 Meeds。
+- **荣誉** - 用户可以互相授予荣誉，作为感谢和认可的象征。 由于可分发的荣誉是有限的（预设的周期性限制，例如每周 3 个），因此它们是稀有且有价值的。 与行动一样，荣誉也能加分。 通过这种方式，员工有权奖励他们的同事。
+- 插入奖励引擎的**协作**工具 - 工作区、异步通信、任务管理工具和注释 - 使人们能够在项目上协同工作。
+- **钱包** – 为用户提供了一个安全的以太坊技术钱包来存储他们的 Meeds。 或者，高级用户可以使用 Metamask 钱包。
+- **商店** – 可以将 Meeds 换成契约持有人或承租人或 Meeds 生态系统提供的额外津贴的商店。
+- **分析** – 分析和跟踪 Deed 中的参与情况。
+- **连接器**，插入奖励引擎 - 用户通过在另一个软件中的操作获得参与点 - 例如在 GitHub 中提交代码。
 
-Some of the afore-mentioned tools and services are already decentralized, others are not. Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
+上述一些工具和服务已经是去中心化的，而另一些则不是。 最终目标是以去中心化的方式提供所有服务，我们将随着底层技术的发展逐步做到这一点。
 
-New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service: Examples are countless and can include virtually any software or service:
+可以通过 API 将新服务插入奖励引擎。 例子数不胜数，几乎可以包括任何软件或服务：
 
-- CRM software – salespeople would get engagement points for working on opportunities.
-- Accounting software – accountants would get engagement points for keeping books.
-- Clocking terminal – factory worker can get points for factory work time.
-- Etc.
+- CRM 软件——销售人员会因处理机会而获得参与度。
+- 会计软件——会计师会因为记账而获得参与度。
+- 打卡终端——工厂工人可以获得工厂工作时间的积分。
+- 等等。
 
-Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
+此外，通过连接器产生的参与参与了组织的全球参与评分，这是 Meeds 铸币分布的一个因素，如下所述。 为了做到这一点，连接器必须是Meeds协会的白名单。 该协会审查连接器，批准其算法并获得其对 Meeds 的所有权。 然后它成为协会提供的免费服务的一部分，并包含在全球参与指数中。 任何其他 Deed 都可以为其开发人员使用相同的连接器和相同的奖励算法。
 
-The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless: There again the possibilities are endless:
+Deed 的持有人或承租人可以通过自己的福利来丰富其商店，连接到在线福利优惠等。 可能性又是无穷无尽的：
 
-- Training courses
-- Gym memberships
-- Vacation packages
-- Lunch with a leader in the organization
-- Physical office space
-- Etc.
+- 训练课程
+- 健身房会员资格
+- 度假套餐
+- 与组织领导共进午餐
+- 实体办公空间
+- 等等。
 
-The store functions through the use of Meeds so that Meeds are partially returned to the Deed.
+商店通过使用 Meeds 发挥作用，从而将 Meeds 部分返回给 Deed。
 
-## 2.5. 2.5. Rewards – Meeds and other tokens
+## 2.5. 奖励 – Meeds 和其他代币
 
-The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs. Indeed, each Deed can fine-tune the amount of points given for each type of activity. The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs. Indeed, each Deed can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
+WoM 将通过对数字工作工具进行游戏化以及将与工作参与度相关的积分和 Meeds 归因于用户参与度来标记用户参与度。 根据每个用户的参与程度和每个 Deed 的参与计划，插入参与和奖励引擎属性的服务指向每个用户。 实际上，每个 Deed 都可以微调为每种类型的活动提供的点数。 因此，在 GitHub 中推送一些代码对于 IT 商店来说可能值 10 分，而数字机构可能只为 GitHub 推送赋予 5 分，但会为转发提供 10 分。
 
-Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Deed is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity. The Deed is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
+定期，奖励引擎根据预算和其他分配规则将参与点转换为 Meeds，并最终通过他们的钱包奖励用户。 Deed 不需要分发 Meeds，并且可以使用参与系统来启用其他形式的补偿计划。 但是，分发 Meeds 将提高其铸币能力。
 
-Moreover, the Deed does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
+此外，Deed 不一定需要获取 Meeds 才能分发它们并推动其参与计划，因为它将从“mintium”模型中获取 Meeds，如下所述。
 
-In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
+除了 Meeds 之外，还可以基于相同的参与机制分发其他代币（例如 DAO 自己的代币）。 在这种情况下，分配将对 Meeds 协会收取 5% 的交易费（以 DAO 代币计）。
 
-## 2.6. 2.6. The “mintium” model – tokenize work engagement
+## 2.6. “mintium”模型——代币化工作参与
 
-By engaging their users in the WoM, Deeds get compensated through an innovative mintium model.
+通过让用户参与 WoM，Deeds 通过创新的 mintium 模型获得补偿。
 
-Engagement points, gained by the Deeds’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Deeds. Engagement points, gained by the Deeds’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Deeds. Even though the Deed can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
+Deeds 用户获得的参与点参与由 Meeds 协会计算的全球参与指数。 该索引对所有 Deeds 使用相同的原则。 即使 Deed 可以更改点数分配以促进一项行动优于另一项行动，但这些更改不会在全局指数计算中考虑在内。
 
-Each week, a certain amount of Meeds is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Deeds. Some Deeds get an additional boost depending on their type. The Deeds that claim their Meeds over the week, receive them. The unclaimed Meeds are added to the following week’s global distribution amount.
+每周，一定数量的 Meeds 被分配给 WoM 的全球参与铸造。 它在参与的 Deeds 中每周按比例计算。 某些 Deeds 会根据其类型获得额外的提升。 在一周内领取他们的 Meeds 的 Deeds，接收他们。 无人认领的 Meeds 将添加到下周的全球分发数量中。
 
 The engagement score _S_  of a Deed is a function of the engagement, the number of engaged users and the distribution :
 
