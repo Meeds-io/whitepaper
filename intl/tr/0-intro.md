@@ -1,33 +1,33 @@
 
 
-## Abstract
+## Özet
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
+Günümüz iş piyasası, yüksek işlem maliyetleri[^1][^2][^3] ve işveren ile çalışan arasında sık sık yaşanan çıkar çatışmaları nedeniyle verimlilikten yoksundur.
 
-The Work Metaverse (the WoM) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
+Work Metaverse (WoM), işlem maliyetlerini düşürecek ve istihdam ilişkisini yeniden keşfederek geleneksel şirketler ile DAO'lar arasındaki boşluğu dolduracak yeni bir paradigma önermektedir.
 
-The WoM does that by introducing digital identities for both employer and employee and offering an innovative engagement reward system that would align their interests.
+WoM bunu, hem işveren hem de çalışan için dijital kimlikler sunarak ve çıkarlarını aynı hizaya getirecek yenilikçi bir katılım ödül sistemi sunarak yapıyor.
 
-## Introduction
+## Giriş
 
-The work market today is broken. It fails to satisfy both employees and employers.
+Bugün iş piyasası çökmüş durumda. Hem çalışanları hem de işverenleri tatmin etmekte başarısız olmaktadır.
 
-On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
+Çalışan tarafında ise doğru işleri bulmak zor. İş piyasası belirli tipteki bireyleri kayırmakta ve büyük beceri setlerini geride bırakmaktadır. Bu, bir dizi insani önyargıdan kaynaklanmaktadır - ırk temelli, cinsiyet temelli, engel temelli, içe dönük temelli vb. İş piyasası da mevcut pozisyonlar ve istihdam koşulları konusunda şeffaflıktan yoksundur.
 
-Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
+İşe alındıktan sonra, ücret karşılığında çalışanların kişisel özgürlükleri ihlal edilmektedir. Çalışanların çalışma saatleri, işyeri, iş içeriği veya çalışma yöntemleri konusunda çok az söz hakkı vardır. Ve aldıkları ücret, gerçek anlamları veya değerleriyle nadiren bağlantılıdır. Tazminat kuralları şeffaflıktan yoksundur ve bu nedenle adaletsiz olarak algılanmaktadır. Ayrıca, ücretlendirme ve kariyer ilerlemesi insan faktörüne de bağlıdır - çalışanın yakın yöneticisinin iyi niyeti ve tarafsızlığı.
 
-Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
+İşverenler ise yetenek bulma ve doğru becerilere sahip, işe doğru zamanda uygun kişileri işe alma konusunda zorluklar yaşamaktadır. Potansiyel işe alımın becerilerini tespit etmenin veya işverenin geleneksel işe alım havuzu dışındaki kişileri bulmanın objektif bir yolu yoktur.
 
-Employers also deal with the lack of loyalty from their employees and a high turnover, both of which, increase hiring and on-boarding costs.
+İşverenler ayrıca çalışanlarının sadakatsizliği ve yüksek iş gücü devri ile de uğraşmakta, her ikisi de işe alma ve işe yerleştirme maliyetlerini artırmaktadır.
 
-Moreover, employers also face low engagement in their existing employees, leading to low creativity, productivity and innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
+Dahası, işverenler mevcut çalışanlarının düşük bağlılığıyla da karşı karşıya kalmakta, bu da düşük yaratıcılık, üretkenlik ve inovasyona yol açmaktadır. İkincisi, daha vasıflı yaratıcı işler gerektiren günümüz ekonomisinde daha fazla zarar veriyor.
 
-All of the above boil down to high transaction costs and the exacerbated agent-principal problem[^4] :
+Yukarıdakilerin hepsi, yüksek işlem maliyetleri ve daha da kötüleşen vekil-müdür sorununa dayanmaktadır[^4] :
 
-- With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element.
-- As to the agent-principal problem, it has been compounded by the increasing revenue and wealth gap between employees and shareholders and the rigidity of the employer-employee relationship.
+- İnternetle birlikte, iş ilanı siteleri, kariyer siteleri vb. sayesinde iş piyasaları daha fazla birlik ve şeffaflığa doğru evrildi. Ancak tarafsızlık unsurunun yokluğunda işlem maliyetleri hala çok yüksektir.
+- Vekil-asıl sorununa gelince, çalışanlar ve hissedarlar arasındaki artan gelir ve servet uçurumu ile işveren-çalışan ilişkisinin katılığı bu sorunu daha da derinleştirmiştir.
 
-The WoM aims at solving both through a new decentralized work paradigm.
+WoM, yeni bir merkezi olmayan çalışma paradigması aracılığıyla her ikisini de çözmeyi amaçlamaktadır.
 
 Following R. Coase’s works[^5], most economists link the concept of enterprise with the necessity to mitigate transaction costs. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs[^6] started this process focusing on lowering the cost of transactions for capital sourcing and governance. The WoM aims at pushing this logic further by lowering the cost of work transactions. It proposes a decentralized world where jobs and skills matching could be done objectively, quickly and globally.
 
