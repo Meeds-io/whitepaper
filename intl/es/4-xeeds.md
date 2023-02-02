@@ -1,16 +1,16 @@
 # 4. Xeeds - Trabajo Metaverse Individuos/usuarios
 
-## 4.1. Modelos descentralizados y auto-soberanos
+## 4.1. Modelos descentralizados y autosuficientes
 
-La WoM reconoce la privacidad como un derecho humano fundamental y permite a los usuarios poseer sus datos.
+El WoM reconoce la privacidad como un derecho humano fundamental y permite a los usuarios ser propietarios de sus datos.
 
-Nuestro enfoque se basa en principios de identidad descentralizada y auto-soberana, permitiendo a los usuarios estar en control en cualquier momento de qué información desean publicar, compartir con un grupo restringido o mantener privada.
+Nuestro planteamiento se basa en principios de identidad descentralizada y autosuficiente, lo que permite a los usuarios controlar en todo momento qué información desean hacer pública, compartir con un grupo restringido o mantener en privado.
 
-La actividad y el compromiso del usuario en la WoM siempre están vinculados a un Deed. Un Xeed es la personalidad virtual de un usuario en un Acto. Un Xeed no requiere KYC, es autodeclarado, pero podríamos concebir empresas terceras que proporcionen este servicio.
+La actividad y el compromiso del usuario en el WoM siempre están vinculados a un Deed. Una Xeed es la persona virtual de un usuario en un Deed. Xeed no requiere ningún CSC, es autodeclarable, pero podríamos imaginarnos a terceras empresas prestando este servicio.
 
 ## 4.2. Insignias y credenciales
 
-Los Distintivos y Credenciales son otorgados a los usuarios como parte de su participación en un Acto. El titular puede descargarlas como Credenciales Verificables del W3C[^7][^8] (también conocidas como CV) y guardarlas en su cartera. Esos CV son una prueba de conocimientos técnicos certificados por la organización que lo emite.
+Las Insignias y Credenciales se otorgan a los usuarios como parte de su participación en un Deed. El titular puede descargarlas como Credenciales Verificables W3C[^7][^8] (también conocidas como CV) y guardarlas en su cartera. Esos VCs son una prueba de conocimientos técnicos certificados por la organización que los expide.
 
 En el mundo actual, es difícil demostrar una habilidad de antemano. Cuando las personas se anuncian en las redes, cuentan con que sus gerentes para darles una recomendación. Esta última supone cierta buena voluntad por parte del gestor, pero no es necesariamente tratada como prueba por el futuro empleador.
 
