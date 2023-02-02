@@ -1,17 +1,17 @@
 
-# 2. Deeds NFT - Work Metaverse Organizations
+# 2. Deeds NFT - İş Metaverse Kuruluşları
 
-## 2.1. NFT – Deeds defined
+## 2.1. NFT - Deeds Tanımlanmış
 
-A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+Değiştirilemez bir token (NFT), bir malı temsil eden benzersiz bir token'dır. WoM'da Deed, mülkiyet unvanı olarak kullanılır. Her Deed, sahibine çeşitli hizmetlere erişim hakkı verir - örneğin, Meeds yazılımı tarafından desteklenen dijital bir ofise erişim ve Mint Meeds hakkı.
 
-The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM.
+WoM her türlü kuruluşa açıktır - DAO'lar, geleneksel şirketler, dernekler, düşünce kuruluşları, ortaklıklar, tiyatro şirketleri, proje grupları, okullar vb. Deed, onların WoM'daki dijital varlıklarını temsil eder.
 
-## 2.2. Deeds supply
+## 2.2. Deed temini
 
-The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of Meeds rewarding (Minting Power). The term ‘user’ here and hereafter designates any type of employee, worker, freelancer, volunteer etc.
+WoM nihayetinde sınırlı miktarda Deed sağlayacaktır. Her Deed önceden tanımlanmış maksimum sayıda kullanıcı içerir ve Meeds ödüllendirme (Darphane Gücü) kapasitesi sunar. Burada ve bundan sonra 'kullanıcı' terimi her türlü çalışan, işçi, serbest meslek sahibi, gönüllü vb. anlamına gelmektedir.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
+Her biri kullanıcı sayısı, bir şehirdeki oy hakları (bkz. 2.7) veya Meeds basma gücü açısından farklı yetenekler sağlayan dört tür Deed vardır, en nadir olanı en güçlü olanıdır:
 
 | **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
 | ------------- | ------------- | ----------------- | ------------ | ---------------------- |
