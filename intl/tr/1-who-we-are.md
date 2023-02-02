@@ -1,14 +1,14 @@
 
-# 1. Who we are – the Meeds Association
+# 1. Biz Kimiz - Meeds Derneği
 
-The Meeds association is a non-profit organization originally launched by several Open Source Software (OSS) communities around the common vision of a free digital world – a decentralized world that would not be controlled by a handful of centralized mega-corporations.
+Meeds derneği, özgür bir dijital dünya - bir avuç merkezi mega şirket tarafından kontrol edilmeyecek merkezi olmayan bir dünya - ortak vizyonu etrafında birkaç Açık Kaynak Yazılım (OSS) topluluğu tarafından başlatılan kar amacı gütmeyen bir kuruluştur.
 
-The Meeds association is incorporated in Geneva, as a non-profit association under the Swiss law.
+Meeds derneği, İsviçre yasalarına göre kar amacı gütmeyen bir dernek olarak Cenevre'de kurulmuştur.
 
-The association regulates the issuance of the Meeds currency, an ERC20 token, recognized as a utility token.
+Dernek, bir yardımcı token olarak tanınan bir ERC20 token olan Meeds para biriminin ihracını düzenler.
 
-To build the WoM and Meeds, the association leverages the Ethereum platform and its ecosystem, making it accessible in a friendly and cost-effective way to all users.
+WoM ve Meeds'i oluşturmak için Ethereum platformundan ve ekosisteminden yararlanan dernek, bunu tüm kullanıcılar için kolay ve uygun maliyetli bir şekilde erişilebilir hale getiriyor.
 
-The association is structured as a Decentralized Autonomous Organization (DAO) where the governance token holders vote on all important organizational changes such as electing the board every year.
+Dernek, yönetişim token sahiplerinin her yıl yönetim kurulunu seçmek gibi tüm önemli organizasyonel değişiklikleri oyladığı Merkezi Olmayan Özerk bir Organizasyon (DAO) olarak yapılandırılmıştır.
 
-Besides Meeds token management, the association holds the Intellectual Property (IP) of the Meeds software [github.com/meeds-io](https://github.com/meeds-io), available under the LGPL license and distributed for free. The latter includes an Ethereum wallet app that users can use to store and transact their Meeds (see section 2.4 for more details). The Meeds Association also runs a multi-tenant cloud hosting service leveraging that software.
+Meeds token yönetiminin yanı sıra dernek, LGPL lisansı altında bulunan ve ücretsiz olarak dağıtılan Meeds yazılımının [github.com/meeds-io](https://github.com/meeds-io) Fikri Mülkiyetini (IP) elinde bulundurmaktadır. İkincisi, kullanıcıların Meed'lerini saklamak ve işlem yapmak için kullanabilecekleri bir Ethereum cüzdan uygulaması içerir (daha fazla ayrıntı için bkz. bölüm 2.4). Meeds Derneği ayrıca bu yazılımdan yararlanarak çok kiracılı bir bulut barındırma hizmeti de yürütmektedir.
