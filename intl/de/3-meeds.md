@@ -31,13 +31,13 @@ Die WoM und der Meeds Token werden von der oben vorgestellten gemeinnützigen Me
 
 Während der Prägeperiode werden **30% der Prägemeilen dem Meeds-Verein** zugewiesen.
 
-Die Vereinsmitglieder können dem Verein auf der Grundlage einer unterschriebenen Dienstleistungskonvention zur Festsetzung des Personaltarifs Leistungen erbringen. Services are paid monthly in Meeds, based on the market price. Exemples of services include – enriching the Meeds software, developing the WoM app, developing new connectors, operating the cloud service, providing financial and legal services etc.
+Die Vereinsmitglieder können dem Verein auf der Grundlage einer unterschriebenen Dienstleistungskonvention zur Festsetzung des Personaltarifs Leistungen erbringen. Die Dienstleistungen werden monatlich in Meeds bezahlt, basierend auf dem Marktpreis. Beispiele für Dienstleistungen sind: Bereicherung der Meeds Software, Entwicklung der WoM App, Entwicklung neuer Verbindungen, Betrieb des Cloud-Service, Bereitstellung von Finanz- und Rechtsdienstleistungen usw.
 
-Without being a member, any Deed can participate in the creation of a new connector and be rewarded for doing so – first through the Meeds association acquiring the connector and then by minting through this connector.
+Ohne Mitglied zu sein, kann jeder Deed an der Erstellung eines neuen Konnektors teilnehmen und dafür belohnt werden - zunächst durch den Erwerb des Konnektors durch die Meeds Vereinigung und dann durch Prägung durch diesen Konnektor.
 
-The association operates a Builders community that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
+Die Vereinigung betreibt eine Builders-Community, die WoM Begeisterte willkommen heißt, die zur Schaffung von WoM beitragen möchten. Die Vereinigung wird die Community aus ihrem Budget unterstützen und das Engagement der Community-Mitglieder entschädigen.
 
-Thus, the community will function as an example of a Deed, offering a standard set of services provided by the association. The association stakes Meeds in order to redeem a Deed for the community. The community will then also participate in the engagement minting like any other Deed.
+Auf diese Weise wird die Community als Beispiel für einen Deed funktionieren und eine Standardgruppe von Dienstleistungen anbieten, die von der Vereinigung bereitgestellt werden. The association stakes Meeds in order to redeem a Deed for the community. The community will then also participate in the engagement minting like any other Deed.
 
 After the minting period is over, the association will be sustained by :
 
