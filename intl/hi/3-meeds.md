@@ -1,17 +1,17 @@
 # 3. Meeds token – the Work Metaverse currency
 
-The Work Metaverse is powered by its currency – the Meeds (MEED) token. मीड्स उपयोगकर्ताओं को प्रोत्साहन कार्यक्रमों के माध्यम से पुरस्कृत करने, दुकानों में खरीदने, दस्तावेज़ प्राप्त करने, निवेशों पर वित्तीय लाभ प्राप्त करने आदि के लिए प्रयुक्त किये जाते हैं।
+वर्क मेटावर्स को इसकी मुद्रा - मीड्स (MEED) टोकन द्वारा पावर किया जाता है। मीड्स उपयोगकर्ताओं को प्रोत्साहन कार्यक्रमों के माध्यम से पुरस्कृत करने, दुकानों में खरीदने, दस्तावेज़ प्राप्त करने, निवेशों पर वित्तीय लाभ प्राप्त करने आदि के लिए प्रयुक्त किये जाते हैं।
 
-## 3.1. Tokenomics
+## 3.1. टोकनोमिक्स
 
-The Meeds **maximum supply is limited to 100 million tokens**, minted progressively. **Meeds are minted at the rate of 10 MEED per minute**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).
+मीड्स ** अधिकतम आपूर्ति 100 मिलियन टोकन सीमित है, <0> क्रमशः उत्पन्न होती है। **Meeds are minted at the rate of 10 MEED per minute**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).</p>
 
-5 Million Meeds (5% of total supply) have been pre-minted to date. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services.
+5 Million Meeds (5% of total supply) have been pre-minted to date. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years. पूर्व मुद्रित राशि मुख्यतः सॉफ्टवेयर IP प्राप्त करने, टोकन उत्पन्न के कानूनी शुल्कों और होस्टिंग सेवाओं के लिए खर्च करने के लिए उपयोग की गई।
 
-The rest is part of the __Meeds DAO funds__ and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
+बाकी भाग __ Meeds DAO फंड __ का है और सेवाओं के लिए भुगतान करने, जैसे कि एयरड्रॉप्स और रेफरल कैम्पेंज जैसी लॉन्च इन्सेंटिवेट्स के लिए उपयोग किया जाएगा।
 
 
-## 3.2. Minting allocation
+## 3.2. मिंटिंग आवंटन
 
 मिंटेड मीड्स तीन श्रृंखले के सदस्यों, निर्माताओं और निवेशकों की भागीदारी को प्रोत्साहित करने के लिए अनुकूलित किये जाते हैं:
 
