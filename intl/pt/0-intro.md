@@ -2,40 +2,40 @@
 
 ## Abstrato
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
+O mercado de trabalho atual carece de eficiência devido aos altos custos de transação[^1][^2][^3] e freqüentes conflitos de interesses entre o empregador e o empregado.
 
-The Work Metaverse (the WoM) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
+O Metaverso trabalho (o WoM) propõe um novo paradigma que reduziria os custos de transação e reinventava a relação de emprego, fazendo a ponte entre as corporações tradicionais e os DAOs.
 
-The WoM does that by introducing digital identities for both employer and employee and offering an innovative engagement reward system that would align their interests.
+O WoM faz isso introduzindo identidades digitais tanto para o empregador quanto para o funcionário e oferecendo um sistema inovador de recompensa por engajamento que alinharia seus interesses.
 
-## Introduction
+## Introdução
 
-The work market today is broken. It fails to satisfy both employees and employers.
+O mercado de trabalho hoje está quebrado. Ela não satisfaz tanto os funcionários quanto os empregadores.
 
-On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
+Do lado do empregado, é difícil encontrar os empregos certos. Do lado do empregado, é difícil encontrar os empregos certos. Isto vem de um conjunto de preconceitos humanos - baseados em raça, gênero, deficiência, introvertido, etc. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
 
-Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
+Uma vez empregado, as liberdades pessoais do funcionário são violadas em troca de uma compensação. Os funcionários têm pouco a dizer em seu horário, local, conteúdo ou métodos de trabalho. E sua compensação raramente está ligada à sua real implicação ou valor. As regras de compensação carecem de transparência e, portanto, são percebidas como injustas. Além disso, a remuneração e o progresso na carreira também dependem do fator humano - a boa fé e a objetividade do gerente imediato do funcionário.
 
-Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
+Os empregadores, por outro lado, experimentam dificuldades para encontrar talentos e contratar as habilidades certas e o ajuste certo na hora certa para o trabalho. Não há nenhuma maneira objetiva de verificar as habilidades potenciais de contratação ou de buscar pessoas fora do pool de contratação tradicional do empregador.
 
-Employers also deal with the lack of loyalty from their employees and a high turnover, both of which, increase hiring and on-boarding costs.
+Os empregadores também lidam com a falta de lealdade de seus funcionários e uma alta rotatividade, ambas as quais aumentam os custos de contratação e de embarque.
 
-Moreover, employers also face low engagement in their existing employees, leading to low creativity, productivity and innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
+Além disso, os empregadores também enfrentam um baixo envolvimento em seus funcionários existentes, levando à baixa criatividade, produtividade e inovação. Este último inflige ainda mais danos na economia atual, exigindo um trabalho criativo mais qualificado.
 
-All of the above boil down to high transaction costs and the exacerbated agent-principal problem[^4] :
+Tudo isso se resume a altos custos de transação e ao exacerbado problema agen-principal[^4] :
 
-- With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element. But transactions costs are still too high in the absence of objectivity element.
-- As to the agent-principal problem, it has been compounded by the increasing revenue and wealth gap between employees and shareholders and the rigidity of the employer-employee relationship.
+- With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element. Mas os custos de transação ainda são muito altos na ausência do elemento objetividade.
+- Quanto ao problema agente-principal, ele tem sido agravado pela crescente diferença de renda e riqueza entre empregados e acionistas e pela rigidez da relação empregador-empregado.
 
-The WoM aims at solving both through a new decentralized work paradigm.
+O WoM visa resolver ambos através de um novo paradigma de trabalho descentralizado.
 
-Following R. Coase’s works[^5], most economists link the concept of enterprise with the necessity to mitigate transaction costs. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs[^6] started this process focusing on lowering the cost of transactions for capital sourcing and governance. The WoM aims at pushing this logic further by lowering the cost of work transactions. It proposes a decentralized world where jobs and skills matching could be done objectively, quickly and globally.
+Seguindo os trabalhos de R. Coase[^5], a maioria dos economistas relaciona o conceito de empresa com a necessidade de mitigar os custos de transação. A Internet e, mais recentemente, a cadeia de bloqueio e a web3 abrem possibilidades interessantes de reduzir os custos de transação em todos os lugares, reinventando a economia e, em particular, reinventando a empresa. Os primeiros DAOs[^6] iniciaram este processo focando na redução do custo das transações para obtenção de capital e governança. O WoM tem como objetivo levar esta lógica ainda mais longe, baixando o custo das transações de trabalho. Ela propõe um mundo descentralizado onde a correspondência de empregos e habilidades poderia ser feita de forma objetiva, rápida e global.
 
-The first DAOs flatten the hierarchies and open ownership. The WoM pursues this logic by reinventing rather than suppressing the employer/employee relationship. It introduces a transparent, objective and decentralized reward paradigm, that would sustainably align the employer and the employee interests.
+Os primeiros DAOs achatam as hierarquias e abrem a propriedade. O WoM segue esta lógica reinventando ao invés de suprimir a relação empregador/empregado. Ele introduz um paradigma de recompensa transparente, objetivo e descentralizado, que alinharia de forma sustentável os interesses do empregador e do empregado.
 
-Finally, the Work Metaverse bridges the gap between corporations and the DAOs. On the other hand, it proposes sustainable ways to operate and create value for DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. Ultimately, the WoM could be among the first mainstream applications to democratize the use of the blockchain for every company and every employee – including non-digital ones.
+Finalmente, o Metaverso de Trabalho faz a ponte entre as corporações e os DAOs. On the other hand, it proposes sustainable ways to operate and create value for DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. Em última análise, o WoM poderia estar entre as primeiras aplicações principais para democratizar o uso da cadeia de bloqueio para cada empresa e cada funcionário - incluindo os não-digitais.
 
-As with any decentralized venture, the WoM proposal gains in value exponentially as more people use it. For that reason, founders took great care to encourage long term interest and avoid monopolizing the WoM benefits, whether short term or long term. It is an open paradigm, still to be built, and open to active creative participation from everyone.
+Como em qualquer empreendimento descentralizado, o proposta WoM ganha em valor exponencialmente à medida que mais pessoas a utilizam. Por essa razão, os fundadores tomaram muito cuidado para incentivar o interesse a longo prazo e evitar monopolizar os benefícios da WoM, tanto a curto como a longo prazo. É um paradigma aberto, ainda a ser construído, e aberto à participação criativa ativa de todos.
 
 
 [^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)
