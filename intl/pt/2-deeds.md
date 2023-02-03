@@ -1,9 +1,9 @@
 
-# 2. Deeds NFT - Work Metaverse Organizations
+# 2. Deeds NFT - Organizações do Metaverso do Trabalho
 
-## 2.1. NFT – Deeds defined
+## 2.1. NFT - Deeds definidas
 
-A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+Uma ficha não fungível (NFT) é uma ficha única que representa um bem. No WoM, um Deed é usada como título de propriedade. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
 
 The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM. The Deed represents their digital existence in the WoM.
 
@@ -50,56 +50,56 @@ To begin with, the following free services provided by the Meeds association can
 
 Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
 
-New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
+Novos serviços podem ser conectados ao mecanismo de recompensa através de APIs. Os exemplos são incontáveis e podem incluir praticamente qualquer software ou serviço:
 
-- CRM software – salespeople would get engagement points for working on opportunities.
-- Accounting software – accountants would get engagement points for keeping books.
-- Clocking terminal – factory worker can get points for factory work time.
+- Software CRM - os vendedores obteriam pontos de engajamento para trabalhar em oportunidades.
+- Software de contabilidade - os contadores obteriam pontos de compromisso para manter os livros.
+- Terminal de relógio - o trabalhador de fábrica pode obter pontos pelo tempo de trabalho de fábrica.
 - Etc.
 
-Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
+Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. Para fazer isso, o conector precisa ser listado na lista branca da Meeds Association. A associação revisa o conector, aprova seu algoritmo e adquire sua propriedade contra a Meeds. Em seguida, torna-se parte dos serviços gratuitos prestados pela associação e incluída no índice de engajamento global. Qualquer outro Deed pode usar o mesmo conector e o mesmo algoritmo de recompensa para seus desenvolvedores.
 
-The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless: There again the possibilities are endless:
+The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless: Lá novamente as possibilidades são infinitas:
 
-- Training courses
-- Gym memberships
-- Vacation packages
-- Lunch with a leader in the organization
+- Cursos de treinamento
+- Afiliação a ginásios
+- Pacotes de férias
+- Almoço com um líder da organização
 - Physical office space
 - Etc.
 
-The store functions through the use of Meeds so that Meeds are partially returned to the Deed.
+A loja funciona através do uso do Meeds para que o Meeds seja parcialmente devolvido para o Deed.
 
-## 2.5. Rewards – Meeds and other tokens
+## 2.5. Recompensas - Meeds e outros tokens
 
-The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs. Indeed, each Deed can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
+O WoM irá demonstrar o engajamento dos usuários, através da gamificação de ferramentas de trabalho digitais e da atribuição de pontos e Meeds em relação ao engajamento no trabalho. Os serviços conectados ao motor de engajamento e recompensa apontam para cada usuário, de acordo com seu nível de engajamento e em linha com os programas de engajamento de cada Deed. De fato, cada Deed pode afinar a quantidade de pontos dados para cada tipo de atividade. Assim, empurrar algum código em GitHub pode valer 10 pontos para uma loja de TI, enquanto uma agência digital pode atribuir apenas 5 pontos para GitHub empurra, mas ofereceria 10 pontos para reimplantes.
 
-Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Deed is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
+Periodicamente, o motor recompensador converte pontos de compromisso em Meeds de acordo com orçamentos e outras regras de distribuição e, em última instância, recompensa os usuários através de suas carteiras. O Deed não é obrigada a distribuir Meeds e pode usar o sistema de engajamento para permitir alguma outra forma de programa de compensação. Entretanto, a distribuição do Meeds melhorará sua capacidade de cunhagem.
 
-Moreover, the Deed does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
+Além disso, a Deed não precisa necessariamente adquirir Meeds para distribuí-los e alimentar seus programas de engajamento, pois obterá Meeds do modelo "mintium", descrito abaixo.
 
-In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
+Além do Meeds, também será possível distribuir outros tokens (por exemplo, os próprios tokens do DAO) com base no mesmo mecanismo de engajamento. Nesse caso, a distribuição estará sujeita a uma taxa de transação de 5% (em token DAO) para a Associação Meeds.
 
-## 2.6. The “mintium” model – tokenize work engagement
+## 2.6. O modelo de "mintium" - tokenize o compromisso de trabalho
 
-By engaging their users in the WoM, Deeds get compensated through an innovative mintium model.
+Ao envolver seus usuários na WoM, os Deeds são compensados através de um modelo inovador de mintium.
 
-Engagement points, gained by the Deeds’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Deeds. Even though the Deed can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
+Os pontos de engajamento, obtidos pelos usuários dos Deeds, participam do índice de engajamento global, calculado pela Meeds Association. O índice usa o mesmo princípio para todos os Deeds. Mesmo que o Deed possa alterar a alocação de pontos para promover uma ação em detrimento de outra, essas mudanças não serão levadas em conta no cálculo do índice global.
 
-Each week, a certain amount of Meeds is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Deeds. Some Deeds get an additional boost depending on their type. The Deeds that claim their Meeds over the week, receive them. The unclaimed Meeds are added to the following week’s global distribution amount.
+Toda semana, uma certa quantidade de Meeds é alocada para a cunhagem de engajamento global do WoM. É computado semanalmente, proporcionalmente, entre os Deeds participantes. Alguns Deeds recebem um impulso adicional dependendo de seu tipo. Os Deeds que reclamam seus Meeds durante a semana, os recebem. Os Meeds não reclamados são adicionados ao valor da distribuição global da semana seguinte.
 
-The engagement score _S_  of a Deed is a function of the engagement, the number of engaged users and the distribution :
+A pontuação do compromisso _S_ de um Deed é uma função do compromisso, do número de usuários comprometidos e da distribuição :
 
 $$S = (E_d / E_w) * D_r * D_s * M$$
 
-Where :
+Onde :
 
-- $A$ = _Activity_ - total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
-- $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
-- $E_d$ = _Engagement rate of the deed_ - actions per user ($A/U$)
-- $E_w$ = _Average engagement rate_ of all active Deeds in the WoM.
-- $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
-- $D_s$ =  _Distribution spread_ - if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
+- $A$ = _Atividade_ - número total de ações acumuladas pelos usuários dentro do Deed ao longo da semana. (No nível de cada Deed, cada ação é convertida em pontos de compromisso, algumas ações pesando mais do que outras. No nível do índice, todas as ações são linearizadas).
+- $U$ = _Utilizadores idosos_ - usuários que contribuíram com pontos durante a semana, por pelo menos uma ação.
+- $E_d$ = _ Taxa de administração do deed_ - ações por usuário ($A/U$)
+- $E_w$ = _A taxa média de engajamento_ de todas as Ações ativas no WoM.
+- $D_r$ = _ Taxa de distribuição_ - se um Deed recebida cunhou Meeds para o período anterior, a % do Meeds que foi distribuída a seus usuários. A % pode estar acima de 100 se a distribuição for atrasada no tempo.
+- $D_s$ = _Spread de distribuição_ - se um Deed recebida cunhou Meeds para o período anterior, a % dos usuários que receberam Meeds no pool total de usuários.
 - $M$ = _Minting Power_ of the Deed as defined in 2.3
 
 
