@@ -1,16 +1,16 @@
-# 4. Xeeds - Work Metaverse Individuals / users
+# 4. Xeeds - Trabalho Metaverso Indivíduos/usuários
 
-## 4.1. Decentralized and self-sovereign models
+## 4.1. Modelos descentralizados e auto-soberanos
 
-The WoM recognizes privacy as a fundamental human right and empowers users to own their data.
+O WoM reconhece a privacidade como um direito humano fundamental e capacita os usuários a possuírem seus dados.
 
-Our approach is based on decentralized and self-sovereign identity principles, allowing users to be in control at any time of what information they want to publicize, share with a restricted group, or keep private.
+Nossa abordagem é baseada nos princípios de identidade descentralizada e auto-soberana, permitindo que os usuários estejam no controle a qualquer momento de quais informações eles querem divulgar, compartilhar com um grupo restrito ou manter a privacidade.
 
-User's activity and engagement in the WoM is always linked to a Deed. A Xeed is the virtual persona of a user in a Deed. Xeed does not require any KYC, it is self-declaring, but we could conceivably imagine third-party firms providing this service.
+A atividade e o engajamento do usuário no WoM está sempre ligado a um Deed. Um Xeed é a pessoa virtual de um usuário em um Deed. Xeed não requer nenhuma KYC, é autodeclaração, mas poderíamos imaginar empresas terceirizadas prestando este serviço.
 
-## 4.2. Badges and credentials
+## 4.2. Crachás e credenciais
 
-Badges and Credentials are given to users as a part of their participation in a Deed. The holder may download them as W3C Verifiable Credentials[^7][^8] (aka VCs) and store them in his wallet. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
+Crachás e Credenciais são dados aos usuários como parte de sua participação em um Deed. O titular pode baixá-los como Credenciais Verificáveis W3C[^7][^8] (VCs) e armazená-los em sua carteira. Esses VCs são prova de conhecimento/know-how certificados pela organização que os emite.
 
 In today’s world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they count on their managers to give them a recommendation. The latter supposes certain goodwill on the part of the manager but is not necessarily treated as proof by the future employer.
 
