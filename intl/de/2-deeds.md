@@ -3,7 +3,7 @@
 
 ## 2.1. Definition des NFT - Deeds
 
-Ein Not-Fungible-Token (NFT), zu Deutsch: ein nicht austauschbarer Token, ist ein einzigartiger Token, der ein Gut darstellt. Im WoM wird ein Deed als Eigentumstitel verwendet. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+Ein Not-Fungible-Token (NFT), zu Deutsch: ein nicht austauschbarer Token, ist ein einzigartiger Token, der ein Gut darstellt. Im WoM wird ein Deed als Eigentumstitel verwendet. Jede Urkunde gibt ihrem Besitzer das Recht auf Zugang zu verschiedenen Diensten - zum Beispiel den Zugang zu einem digitalen Büro, das von der Meeds Software betrieben wird, und das Recht, Meeds zu prägen.
 
 Das WoM begrüßt alle Arten von Organisationen - DAOs, traditionelle Unternehmen, Vereine, Denkfabriken, Partnerschaften, Theatergruppen, Projektgruppen, Schulen usw. Der Deed repräsentiert ihre digitale Existenz im WoM. Der Deed repräsentiert ihre digitale Existenz im WoM.
 
@@ -24,8 +24,8 @@ Es gibt vier Arten von Urkunden, die jeweils unterschiedliche Möglichkeiten in 
 
 Eine Deed gibt ihrem Besitzer das Recht, sie zu BENUTZEN, zu VERMIETEN oder zu VERKAUFEN.
 
-- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
-- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
+- USE - Die Eigentümer der Urkunde können die Urkunde direkt für ihre Organisation nutzen und ihren Nutzern Dienstleistungen anbieten.
+- RENT - Die Eigentümer der Urkunde können die Urkunde auch an eine andere Organisation vermieten, um ein passives Einkommen zu erzielen.
 - VERKAUFEN – Eine Deed kann auf einem Sekundärmarkt wie [OpenSea](https://opensea.io) verkauft werden.
 
 Als aktiver Inhaber oder Mieter einer Deed wird die Organisation durch ein innovatives "Mintium"-Modell, das unten beschrieben wird (Teil 2.6), mit Meeds belohnt.
@@ -94,7 +94,7 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Wo:
 
-- $A$ = _Aktivität_ - Gesamtzahl der Aktionen, die von Benutzern innerhalb der Deed im Laufe der Woche angesammelt wurden. (Auf der Ebene jedes Deed wird jede Aktion in Interaktionspunkte umgewandelt, wobei einige Aktionen mehr Gewicht haben als andere. At the index level, all actions are linearized).
+- $A$ = _Aktivität_ - Gesamtzahl der Aktionen, die von Benutzern innerhalb der Deed im Laufe der Woche angesammelt wurden. (Auf der Ebene jedes Deed wird jede Aktion in Interaktionspunkte umgewandelt, wobei einige Aktionen mehr Gewicht haben als andere. Auf der Indexebene werden alle Aktionen linearisiert).
 - $U$ = _Engagierte Nutzer_ – Nutzer, die während der Woche durch mindestens eine Aktion zu Punkten beigetragen haben.
 - $E_d$ = _Engagement-Rate des Deeds_ - Aktionen pro Benutzer ($A/U$)
 - $E_w$ = _Durchschnittliche Engagement-Rate_ aller aktiven Deeds im WoM.
@@ -128,7 +128,7 @@ Im WoM werden Urkunden nach und nach in virtuellen Städten generiert. Nur die e
 
 Eine Stadt gilt als vollständig, wenn alle ihre Urkunden ausgestellt wurden. Dann beginnt die Prägung jeder neuen Stadt $2^n$ Monate nachdem die letzte Urkunde der $n-1$ Stadt geprägt wurde.
 
-| **Stadt Name** | **Deeds**   | **Available**        | **Gewöhnlich** | **Ungewöhnlich** | **Selten** | **Legendär** |
+| **Stadt Name** | **Deeds**   | **Verfügbar**        | **Gewöhnlich** | **Ungewöhnlich** | **Selten** | **Legendär** |
 | -------------- | ----------- | -------------------- | -------------- | ---------------- | ---------- | ------------ |
 | 1: Tanit       | 100         | T0                   | 50             | 30               | 13         | 7            |
 | 2: Reshef      | 1 000       | Tanit + 4 months     | 600            | 300              | 94         | 6            |
@@ -138,16 +138,16 @@ Eine Stadt gilt als vollständig, wenn alle ihre Urkunden ausgestellt wurden. Da
 | 6: Kushor      | 10 000 000  | Eshmum + 64 months   | 6 000 000      | 3 000 000        | 999 998    | 2            |
 | 7: Hammon      | 100 000 000 | Kushor + 128 months  | 60 000 000     | 30 000 000       | 9 999 999  | 1            |
 
-A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
+Eine Stadt ist eine Möglichkeit für die Taten, zusammenzukommen und eine Gemeinschaft zu bilden. Und als Folge davon erwerben sie eine bestimmte Identität, die mit dieser Gemeinschaft verbunden ist. Es ist auch eine Möglichkeit, zusätzlichen Wert für seine Benutzer zu bieten - Wert, der über die Fähigkeiten eines Meeds hinausgehen oder durch die Zusammenarbeit zwischen den Meeds geschaffen werden würde.
 
-Each city has its own govenance and operates its own DAO where the city’s Deeds’ owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
+Jede Stadt hat ihre eigene Regierung und betreibt ihre eigene DAO, in der die Eigentümer der Deeds ihren Stadtrat wählen, abstimmen und ihre eigenen Betriebsregeln aufstellen, neue Dienstleistungen hinzufügen und ihre Stadt so gestalten können, wie sie es wünschen, um die Attraktivität der Stadt und den Wert der mit ihr verbundenen Deeds zu steigern.
 
-For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add Meeds powered food services, vacations services, etc...
+Sie könnten zum Beispiel eine digitale Darstellung ihrer Stadt hinzufügen, physische Gegenstücke, die mit ihrer Stadt verbunden sind (z. B. Tagungsräume in physischen Co-Working-Spaces), von Meeds betriebene Lebensmitteldienste, Urlaubsdienste etc...
 
-By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
+Standardmäßig (es sei denn, die Stadt stimmt anders) wird das passive Einkommen aus der Vermietung von Meeds von der Stadt (5%) und der Vereinigung (3%) "besteuert", um eine produktive Verwendung zu fördern.
 
-Ownsership transactions (Deed’s sales) will also be taxed 6% :
+Eigentumsübertragungen (Verkauf von Meeds) werden auch mit 6% besteuert:
 
-- 2.5% for the City,
-- 2.5% for the Association,
-- 1% for the original wallet that redeemed the Deed.
+- 2,5 % für die Stadt,
+- 2,5 % für die Vereinigung,
+- 1 % für die ursprüngliche Geldbörse, die die Urkunde eingelöst hat.
