@@ -88,66 +88,66 @@ Deeds 用户获得的参与点参与由 Meeds 协会计算的全球参与指数�
 
 每周，一定数量的 Meeds 被分配给 WoM 的全球参与铸造。 它在参与的 Deeds 中每周按比例计算。 某些 Deeds 会根据其类型获得额外的提升。 在一周内领取他们的 Meeds 的 Deeds，接收他们。 无人认领的 Meeds 将添加到下周的全球分发数量中。
 
-The engagement score _S_  of a Deed is a function of the engagement, the number of engaged users and the distribution :
+契约的参与度分数 _S_ 是参与度、参与用户数和分布的函数：
 
 $$S = (E_d / E_w) * D_r * D_s * M$$
 
-Where :
+在哪里 ：
 
-- $A$ = _Activity_ - total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized). (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
-- $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
-- $E_d$ = _Engagement rate of the deed_ - actions per user ($A/U$)
-- $E_w$ = _Average engagement rate_ of all active Deeds in the WoM.
-- $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time. The % can be above 100 if the distribution is delayed in time.
-- $D_s$ =  _Distribution spread_ - if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
-- $M$ = _Minting Power_ of the Deed as defined in 2.3
-
-
-The global engagement index used to distribute minted Meeds among the Deeds is the sum of all Deeds’ engagement scores for the week.
+- $A$ = _活动_ - 用户在一周内在契约中累积的操作总数。 （在每个 Deed 的级别，每个动作都被转换为参与点，一些动作比其他动作更重要。 在索引级别，所有操作都被线性化）。
+- $U$ = _参与用户_ - 在一周内通过至少一项操作贡献积分的用户。
+- $E_d$ = _行为的参与率_ - 每个用户的操作（$A/U$）
+- $E_w$ = WoM 中所有活动契约的_平均参与率_。
+- $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time. 如果分发时间延迟，则 % 可以高于 100。
+- $D_s$ = _分布价差_ - 如果 Deed 在前一时期收到了铸造的 Meeds，则收到 Meeds 的用户在总用户群中的百分比。
+- $M$ = 2.3 中定义的契约的_铸币权_
 
 
-The formula above is simple and designed to favor deeds :
+用于在 Deed 中分配铸造的 Meed 的全球参与指数是本周所有 Deed 参与分数的总和。
 
-- with lots of engaged users (engagement)
-- who share the whole of the minting income (distribution rate) with their users fairly (distribution spread).
 
-Additionnally boosters are in place for :
+上面的公式很简单，旨在支持 deeds ：
 
-- organizations with the highest engagement, regardless of their size (engagement rate in relation to the WoM)
-- scarcer deeds
+- 有很多参与的用户（参与）
+- 谁与他们的用户公平地分享全部铸币收入（分配率）（分配价差）。
 
-> The Meeds association reserves the right to change the formula if required – if some specific use cases arise for instance. The association can also blacklist any Deed that hijacks the formula to its unique benefit. The association can also blacklist any Deed that hijacks the formula to its unique benefit.
+此外，助推器适用于：
 
-As the Deeds are rewarded with Meeds and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the Deeds and their users are aligned in the same virtuous revenue sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
+- 参与度最高的组织，无论其规模如何（与 WoM 相关的参与率）
+- 稀缺行为
 
-The “mintium” model is the first of a kind - it goes further than the traditional freemium one, as not only the services are free to use but both the organizations and their users are rewarded for using them.
+> 如果需要，Meeds 协会保留更改公式的权利——例如，如果出现某些特定的用例。 该协会还可以将任何劫持该公式以获得其独特利益的 Deed 列入黑名单。
 
-## 2.7. 2.7. Cities and governance
+由于 Deeds 得到 Meeds 奖励，并被激励将它们作为对用户参与的奖励重新分配——Deeds 及其用户的利益在同一个良性收入共享循环中保持一致。 因此，WoM 提供了一种新的工作模式，将雇主/雇员关系重塑为伙伴关系。
 
-In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
+“mintium”模式是同类中的第一个——它比传统的免费增值模式走得更远，因为不仅服务是免费使用的，而且组织和他们的用户都会因使用它们而获得奖励。
 
-A city will be considered complete, once all of its Deeds have been minted. A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
+## 2.7. 城市与治理
 
-| **City name** | **Deeds**   | **Available**        | **常见的**    | **罕见**     | **稀有的**   | **传奇的** |
-| ------------- | ----------- | -------------------- | ---------- | ---------- | --------- | ------- |
-| 1: Tanit      | 100         | T0                   | 50         | 30         | 13        | 7       |
-| 2: Reshef     | 1 000       | Tanit + 4 months     | 600        | 300        | 94        | 6       |
-| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000      | 3 000      | 995       | 5       |
-| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000     | 30 000     | 9 996     | 4       |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000    | 99 997    | 3       |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000  | 999 998   | 2       |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000 | 9 999 999 | 1       |
+在WoM中，契据会在虚拟城市中逐渐生成。 从一开始只有第一个城市会存在。 其他的将逐步建造，一个接一个。 在整个 WoM 中，永远只有 7 个城市，每个城市包含固定数量的每种类型的契据。
 
-A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
+一个城市将被认为是完整的，一旦它的所有行为都被铸造出来。 然后，每个新城市的铸造将在 $n-1$ 城市的最后一个契据铸造后 $2^n$ 个月开始。
 
-Each city has its own govenance and operates its own DAO where the city’s Deeds’ owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
+| **城市名称**    | **Deeds**   | **空车**            | **常见的**    | **罕见**     | **稀有的**   | **传奇的** |
+| ----------- | ----------- | ----------------- | ---------- | ---------- | --------- | ------- |
+| 1: Tanit    | 100         | T0                | 50         | 30         | 13        | 7       |
+| 2: Reshef   | 1 000       | Tanit + 4 个月      | 600        | 300        | 94        | 6       |
+| 3: Ashtarte | 10 000      | Reshef + 8 months | 6 000      | 3 000      | 995       | 5       |
+| 4: Melqart  | 100 000     | Ashtarte + 16 个月  | 60 000     | 30 000     | 9 996     | 4       |
+| 5: Eshmun   | 1 000 000   | Melqart + 32 个月   | 600 000    | 300 000    | 99 997    | 3       |
+| 6: Kushor   | 10 000 000  | Eshmum + 64 个月    | 6 000 000  | 3 000 000  | 999 998   | 2       |
+| 7: Hammon   | 100 000 000 | Kushor + 128 个月   | 60 000 000 | 30 000 000 | 9 999 999 | 1       |
 
-For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add Meeds powered food services, vacations services, etc...
+A city is a way for the Deeds to come together and create a community. 因此，获得与该社区相关的特定身份。 这也是一种为其用户提供额外价值的方式——价值将超出一个 Deed 的能力或通过 Deeds 之间的合作创造的价值。
 
-By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
+每个城市都有自己的治理并运营自己的 DAO，城市的 Deed 所有者可以在其中选举他们的市议会，投票并建立自己的运营规则，添加新服务并以他们想要的方式塑造他们的城市，从而增加城市的 吸引力和附加在其上的 Deeds 的价值。
 
-Ownsership transactions (Deed’s sales) will also be taxed 6% :
+例如，他们可以添加他们城市的数字表示、与他们城市相关的物理对应物（例如物理合作空间中的会议室）、添加由 Meeds 提供支持的食品服务、假期服务等......
 
-- 2.5% for the City,
-- 2.5% for the Association,
-- 1% for the original wallet that redeemed the Deed.
+默认情况下（除非城市投票另有决定），出租契约的被动收入将由城市（5%）和协会（3%）“征税”以鼓励生产性使用。
+
+所有权交易（Deed 销售）也将被征税 6%：
+
+- 城市 2.5%，
+- 协会2.5%，
+- 赎回契约的原始钱包 1%。
