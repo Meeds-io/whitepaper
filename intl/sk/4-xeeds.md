@@ -1,64 +1,64 @@
-# 4. Xeeds - Work Metaverse Individuals / users
+# 4. Xeeds - Práca Metaverse Jednotlivci / používatelia
 
-## 4.1. Decentralized and self-sovereign models
+## 4.1. Decentralizované a samosprávne modely
 
-The WoM recognizes privacy as a fundamental human right and empowers users to own their data.
+WoM uznáva súkromie ako základné ľudské právo a umožňuje používateľom vlastniť svoje údaje.
 
-Our approach is based on decentralized and self-sovereign identity principles, allowing users to be in control at any time of what information they want to publicize, share with a restricted group, or keep private.
+Náš prístup je založený na princípoch decentralizovanej a suverénnej identity, čo umožňuje používateľom mať kedykoľvek kontrolu nad tým, ktoré informácie chcú zverejniť, zdieľať s obmedzenou skupinou alebo ponechať v súkromí.
 
-User's activity and engagement in the WoM is always linked to a Deed. A Xeed is the virtual persona of a user in a Deed. Xeed does not require any KYC, it is self-declaring, but we could conceivably imagine third-party firms providing this service.
+Činnosť používateľa a jeho zapojenie do WoM je vždy spojené so Deedow. Xeed je virtuálna osoba používateľa v službe Deed. Xeed nevyžaduje žiadne KYC, je to samozdanenie, ale vieme si predstaviť, že by túto službu poskytovali firmy tretích strán.
 
-## 4.2. Badges and credentials
+## 4.2. Odznaky a poverenia
 
-Badges and Credentials are given to users as a part of their participation in a Deed. The holder may download them as W3C Verifiable Credentials[^7][^8] (aka VCs) and store them in his wallet. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
+Odznaky a poverenia sa udeľujú používateľom ako súčasť ich účasti na Deed. Držiteľ si ich môže stiahnuť ako overiteľné poverenia W3C[^7][^8] (alias VC) a uložiť ich do peňaženky. Tieto certifikáty VC sú dokladom o znalostiach/vedomostiach certifikovaných organizáciou, ktorá ich vydala.
 
-In today’s world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they count on their managers to give them a recommendation. The latter supposes certain goodwill on the part of the manager but is not necessarily treated as proof by the future employer.
+V dnešnom svete je ťažké vopred preukázať svoju zručnosť. Keď sa ľudia inzerujú na sieťach, spoliehajú sa na to, že ich manažéri im dajú odporúčanie. Tá predpokladá určitú dobrú vôľu manažéra, ale budúci zamestnávateľ ju nemusí považovať za dôkaz.
 
-The Work Metaverse provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
+Metaverse práce poskytuje transparentnejšie a nemenné prostriedky na získavanie a preukazovanie schopností.
 
-Badges are used to represent accomplishments made within a Deed. After completing a set of objectives or challenges, users will be awarded points. Badges can be unlocked by accumulating certain amounts of points in specific categories.
+Odznaky sa používajú na označenie úspechov dosiahnutých v rámci Deedu. Po splnení súboru cieľov alebo výziev získajú používatelia body. Odznaky možno odomknúť nazbieraním určitého počtu bodov v konkrétnych kategóriách.
 
-When badges are downloaded by the user, it is possible to include the number of points and his rank in the Deed for this specific accomplishment.
+Keď si používateľ stiahne odznaky, je možné uviesť počet bodov a jeho hodnosť v Deed za tento konkrétny úspech.
 
-Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the Deed. These are signed by the Deed and can be accompanied by a signature by a peer user.
+Oprávnenia sú flexibilnejšie ako odznaky; môžu byť odporúčaním od kolegu, uvedením rokov odborných znalostí, absolvovaním školenia alebo skúšky alebo zapojením sa do Deed. Tieto sú podpísané Deedu a môžu byť doplnené podpisom rovnocenného používateľa.
 
-## 4.3. Digital work identity
+## 4.3. Digitálna pracovná identita
 
-All of the above contributes to forming proven digital skillset that can be kept and used by the user when changing jobs or freelancing. It would be more trustworthy than traditional solutions as it relies on not just one individual but a full community to prove it.
+Všetko uvedené prispieva k vytvoreniu osvedčeného súboru digitálnych zručností, ktoré si používateľ môže ponechať a používať pri zmene zamestnania alebo pri práci na voľnej nohe. Bola by dôveryhodnejšia ako tradičné riešenia, pretože sa nespolieha len na jedného jednotlivca, ale na celú komunitu, ktorá to dokáže.
 
-Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Deed to another, from one city to another, anywhere through the WoM.
+Rovnako ako v peňaženke Meeds si používateľ pri prechode z jedného Deedu do druhého, z jedného mesta do druhého, kdekoľvek v rámci WoM, zachová svoj Xeed, odznaky a poverenia k nemu pripojené v peňaženke identity.
 
-The user will be able to share his Xeed, Badges, and Credentials with other Deeds to highlight his experience, as well as with recruiters or any other services that he deems interesting.
+Používateľ bude môcť zdieľať svoje Xeed, odznaky a poverenia s ostatnými Deedy, aby zdôraznil svoje skúsenosti, ako aj s náborovými pracovníkmi alebo inými službami, ktoré považuje za zaujímavé.
 
-A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations.
+Používateľ môže mať vo WoM jednu alebo viacero digitálnych identít. Neskôr ich mohol prezentovať jednotným spôsobom pomocou overených prezentácií.
 
-Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... In a manner of trustworthy LinkedIn 3.0.
+Na rozdiel od webu 2 je používateľ plným vlastníkom svojich decentralizovaných identít. Ten môže ukázať (a dokázať) Deedy, na ktorých sa podieľal, jeho preukázané schopnosti, jeho deklarované schopnosti, iných Xeedov (ľudí), s ktorými pracoval, jeho digitálne zobrazenie seba samého... Na spôsob dôveryhodného LinkedIn 3.0.
 
-The user will be able to select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Deeds, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time.
+Používateľ si bude môcť vybrať, či chce alebo nechce niečo odhaliť, aké informácie má poskytnúť a ktoré identity má použiť pre každú pozíciu. Obsah (preukázané zručnosti, predchádzajúce Deedy atď.) je chránený proti neoprávnenej manipulácii, a preto ho nemožno upraviť. Každá identita by sa musela časom vyvinúť.
 
-## 4.4. Fair work marketplace
+## 4.4. Trh spravodlivej práce
 
-Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Deeds – as they do in the physical world by changing employers. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to choose which Deed provides better engagement reward conditions, belongs to a more attractive city, etc.
+V rámci tejto paradigmy trh práce budúcnosti umožňuje používateľom voľne sa pohybovať a prideľovať/predávať svoju angažovanosť medzi Deedami - tak ako to robia vo fyzickom svete zmenou zamestnávateľa. Vo WoM by však ich angažovanosť bola hmatateľná, meraná a spravodlivo odmeňovaná. Ak budú prechádzať medzi systémami, ktoré sa riadia podobnou logikou, lepšie pochopia pravidlá hry a budú spravodlivo posudzovať zamestnávateľov - nie vždy je tráva inde zelenšia. Používatelia si budú môcť vybrať, ktorý Deed poskytuje lepšie podmienky odmeňovania za angažovanosť, patrí k atraktívnejšiemu mestu atď.
 
-On their end, the Deeds’ holders/renters can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
+Na ich strane môžu držitelia/nájomcovia Deedu vyhľadávať príslušné zručnosti pomocou siete digitálnych pracovných identít WoM (ktoré sa používatelia rozhodli zverejniť). Budú môcť efektívnejšie získavať zručnosti na základe overených a podrobných informácií o pracovnej histórii, pracovných zručnostiach a úrovni zapojenia používateľa.
 
-## 4.5. Tangible and transparent recognition
+## 4.5. Hmatateľné a transparentné uznanie
 
-Today, details on compensation and bonuses are obscure in many workplaces. Therefore, it is difficult for a person to compare his conditions to that of another and get a sense of a fair and unbiased treatment. Employees experience a lot of frustrations with the above.
+Podrobnosti o odmenách a bonusoch sú dnes na mnohých pracoviskách nejasné. Preto je pre človeka ťažké porovnať svoje podmienky s podmienkami iného človeka a získať pocit spravodlivého a nestranného zaobchádzania. Zamestnanci zažívajú veľa frustrácií z vyššie uvedených skutočností.
 
-The WoM introduces an objective way to recognize achievements and reward them.
+WoM zavádza objektívny spôsob uznávania úspechov a ich odmeňovania.
 
-Engagement recognition and reward mechanism is transparent and applies fairly to all users, following the same explicit rules, decided in advance and aligned with the Deed’s goals.
+Mechanizmus uznávania a odmeňovania angažovanosti je transparentný a uplatňuje sa spravodlivo na všetkých používateľov podľa rovnakých explicitných pravidiel, o ktorých sa rozhodlo vopred a ktoré sú v súlade s cieľmi Deedu.
 
-Wallets are individual and blockchain based – when the user receives a reward or earns a badge, it cannot be taken back or erased.
+Peňaženky sú individuálne a založené na blockchaine - keď používateľ dostane odmenu alebo získa odznak, nemožno ho vziať späť alebo vymazať.
 
-## 4.6. Access to Web 3.0, cryptoeconomy and DEFI services
+## 4.6. Prístup k službám Web 3.0, kryptoekonomike a DEFI
 
-As discussed above, the Work Metaverse opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
+Ako už bolo spomenuté vyššie, Praca Metaverse otvára svet kryptomien a decentralizovaných webových služieb v podstate každému - veľmi veľkej populácii používateľov, dokonca možno aj nesúvisiacej s digitálnou oblasťou.
 
-Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
+Každá pracovná angažovanosť môže byť potenciálne tokenizovaná. Svet sa stáva čoraz digitálnejším vďaka trendom ako 5G, iot, wearables atď. V dôsledku toho by sa potenciálne mohlo zachytiť a analyzovať čoraz viac signálov, ktoré by umožnili identifikovať zapojenie nedigitálnych profesií. Výzvy poskytujú pripravený spôsob, ako ju symbolizovať tým, že predstavujú úspechy vo fyzickom svete.
 
-Any user can get Meeds and use a Meeds wallet to get access to new age services without any special training.
+Každý používateľ môže získať Meedy a používať peňaženku Meedy na získanie prístupu k službám novej doby bez akéhokoľvek špeciálneho školenia.
 
-[^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
-[^8]: Verifiable Credentials Data Model
+[^7]: A.Preukschatt, R. Drummond "Sebavrchovaná identita"
+[^8]: Režim údajov overiteľných povereníl
