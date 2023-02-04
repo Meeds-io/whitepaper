@@ -65,28 +65,28 @@
 
  $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
 
- where :
+ जहां:
 
-- $xMeeds$ : xMeeds balance  with no decimals
-- $T$ : Time elapsed in milliseconds
+- $xMeeds$: xMeeds बैलेंस, कोई दशमलव नहीं।
+- $T$ : मिलीसेकंड में बिते हुए समय
 
-The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably. For example, the formula gives the following rates :
+फार्मूला मेंग लगभग मात्राओं को प्रदर्शित करने और इन्हें त्यागी ढंग से वितरित करने के लिए वह व्यक्तियों को प्रफुर्म करते हैं, जो वहाँ बड़े होल्डर होते हैं। उदाहरण के लिए, फॉर्मूला निम्नलिखित दरों देता है:
 
-| **Holder Size** | **Holdings**   | **Accrue Rate** |
-| --------------- | -------------- | --------------- |
-| Small           | 1 000 xMeeds   | 28 pts/day      |
-| Medium          | 10 000 xMeeds  | 164 pts/day     |
-| Large           | 100 000 xMeeds | 321 pts/day     |
+| **होल्डर साइज** | **होल्डिंग**   | **अक्रू दर**     |
+| --------------- | -------------- | ---------------- |
+| छोट             | 1 000 xMeeds   | २८ प्रति दिन     |
+| मध्यम           | 10 000 xMeeds  | 164 प्रतिदिन अंक |
+| बड              | 100 000 xMeeds | 321 पॉइंट्स/दिन  |
 
 
-which leads to the following holding time for each class of holder :
+जो निम्नलिखित होल्डर के हर क्लास के लिए निम्नलिखित रखरखाव सम
 
-| **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| सामान्य       | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| असामान्य      | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| दुर्लभ        | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| किस्मती       | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| **कार्ड प्रकार** | **लागत**       | **बड़ा धाग** | **मीडियम होल्डर** | **छोटे होल्डर** |
+| ---------------- | -------------- | ------------ | ----------------- | --------------- |
+| सामान्य          | ८ हजार पॉइंट्स | पच्चीस दिन   | चालीस दिन         | नौ महीन         |
+| असामान्य         | ३२ ००० पोइंट्स | सौ दिन       | छह महीन           | 3 years         |
+| दुर्लभ           | 50 000 pts     | 156 days     | 10 months         | 5 years         |
+| किस्मती          | 100 000 pts    | 311 days     | २० महीन           | दस वर           |
 
 ## 3.6. Meeds DAO प्रशासन
 
