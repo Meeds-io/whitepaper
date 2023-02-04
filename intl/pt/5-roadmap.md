@@ -58,29 +58,29 @@ The association plans also to stake some Meeds in order to acquire (redeem) a De
 
 ## 5.5. Roadmap and milestones
 
-Our roadmap would follow the priority order below:
+Nosso roteiro seguiria a ordem de prioridade abaixo:
 
-- Engagement index and minting through engagement
-- Enable Deeds renting
-- Xeed creation
-- Badges improvement and credentials development
-- DeFi services – in the wallet, credit cards partnership
+- Índice de engajamento e cunhagem através do engajamento
+- Habilitar o aluguel de Deeds
+- Criação de Xeed
+- Melhoria de crachás e desenvolvimento de credenciais
+- Serviços DeFi - na carteira, parceria com cartões de crédito
 
-We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
+Estamos contando com os primeiros adotantes dos DAOs e empresas de tecnologia durante a fase de construção. Devemos também ter alguns dos primeiros adotantes de empresas tradicionais que ganham valor imediato com o metaverso de fornecer programas de engajamento relevantes a seu pessoal, além de seus planos de remuneração tradicionais atuais.
 
-Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature metaverse, having spread to many organizations and many users globally.
+Meeds minting abrange um período de 20 anos. Nessa época, aspiramos ter alcançado a construção de um metaverso maduro, tendo se espalhado por muitas organizações e muitos usuários globalmente.
 
-## 5.6. What you can do right now
+## 5.6. O que você pode fazer neste momento
 
-What can you do right now to participate?
+O que você pode fazer agora mesmo para participar?
 
-- Spread this paper to those who would be interested
-- Visit our website [meeds.io](https://www.meeds.io/)
-- Check out the [Investor app](https://meeds.io/investors)
-- Contribute to the existing liquidity pools here :
+- Divulgue este documento para aqueles que estariam interessados
+- Visite nosso website [meeds.io](https://www.meeds.io/)
+- Confira o aplicativo [Investor app](https://meeds.io/investors)
+- Contribuir para os pools de liquidez existentes aqui :
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
-- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
+- Junte-se à nossa comunidade [Discord](https://discord.com/invite/hAuADSq3) para ser mantido no circuito
+- Junte-se à nossa comunidade [Builders](https://meeds.io/builders) para testar o software Meeds, engajar-se e ganhar algumas recompensas de engajamento Meeds
 
-**\*\*\* The Work Metaverse - let’s build this crazy future world together. \*\*\***
+**\*\*\* O Metaverso do Trabalho - vamos construir juntos este mundo louco do futuro. \*\*\***
