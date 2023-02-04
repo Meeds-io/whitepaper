@@ -3,15 +3,15 @@
 
 ## 2.1. NFT - Deeds definidas
 
-Uma ficha não fungível (NFT) é uma ficha única que representa um bem. No WoM, um Deed é usada como título de propriedade. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+Uma ficha não fungível (NFT) é uma ficha única que representa um bem. No WoM, um Deed é usada como título de propriedade. Cada Deed dá a seu proprietário o direito de acessar vários serviços - por exemplo, um acesso a um escritório digital, alimentado pelo software Meeds e o direito de cunhar Meeds.
 
-The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM. The Deed represents their digital existence in the WoM.
+The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM. O Deed representa sua existência digital na WoM.
 
-## 2.2. Deeds supply
+## 2.2. Fornecimento de Deeds
 
-The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of Meeds rewarding (Minting Power). The term ‘user’ here and hereafter designates any type of employee, worker, freelancer, volunteer etc.
+A WoM acabará por fornecer uma quantidade limitada de Ações. Cada Deed inclui um número máximo predefinido de usuários e oferece uma capacidade de Meeds gratificante (Minting Power). O termo "usuário" aqui e daqui em diante designa qualquer tipo de funcionário, trabalhador, autônomo, voluntário, etc.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
+Existem quatro tipos de Deeds, cada um fornecendo diferentes capacidades em termos de número de usuários, direitos de voto em uma cidade (ver 2.7) ou Meeds minting power, sendo o mais raro o mais poderoso :
 
 | **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
 | ------------- | ------------- | ----------------- | ------------ | ---------------------- |
@@ -28,7 +28,7 @@ A Deed gives its owner the right to USE it, RENT it, or SELL it.
 - RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
 - SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
 
-Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
+Sendo um titular ativo ou locatário de um Deed, a organização é recompensada com Meeds, através de um modelo inovador de "mintium" descrito abaixo (parte 2.6).
 
 ## 2.4. Deeds services, engagement/rewards engine
 
