@@ -13,12 +13,12 @@ A WoM acabará por fornecer uma quantidade limitada de Ações. Cada Deed inclui
 
 Existem quatro tipos de Deeds, cada um fornecendo diferentes capacidades em termos de número de usuários, direitos de voto em uma cidade (ver 2.7) ou Meeds minting power, sendo o mais raro o mais poderoso :
 
-| **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
-| ------------- | ------------- | ----------------- | ------------ | ---------------------- |
-| Common        | 100           | 1                 | ~ 90%        | 1                      |
-| Uncommon      | 1000          | 1.1               | ~ 9%         | 10                     |
-| Rare          | 10 000        | 1.3               | ~ 1%         | 100                    |
-| Legendary     | unlimited     | 2                 | < 0.1 %      | 1000                   |
+| **Tipo de Deed** | **Máximo de Usuários** | **Minting power** | **Scarcity** | **City voting rights** |
+| ---------------- | ---------------------- | ----------------- | ------------ | ---------------------- |
+| Common           | 100                    | 1                 | ~ 90%        | 1                      |
+| Uncommon         | 1000                   | 1.1               | ~ 9%         | 10                     |
+| Rare             | 10 000                 | 1.3               | ~ 1%         | 100                    |
+| Legendary        | unlimited              | 2                 | < 0.1 %      | 1000                   |
 
 ## 2.3. Deeds ownership
 
