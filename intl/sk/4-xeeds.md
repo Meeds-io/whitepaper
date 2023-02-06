@@ -1,4 +1,4 @@
-# 4. Xeeds - Práca Metaverse Jednotlivci / používatelia
+# 4. Xeeds - Work Metaverse Jednotlivci / používatelia
 
 ## 4.1. Decentralizované a samosprávne modely
 
@@ -14,7 +14,7 @@ Odznaky a poverenia sa udeľujú používateľom ako súčasť ich účasti na D
 
 V dnešnom svete je ťažké vopred preukázať svoju zručnosť. Keď sa ľudia inzerujú na sieťach, spoliehajú sa na to, že ich manažéri im dajú odporúčanie. Tá predpokladá určitú dobrú vôľu manažéra, ale budúci zamestnávateľ ju nemusí považovať za dôkaz.
 
-Metaverse práce poskytuje transparentnejšie a nemenné prostriedky na získavanie a preukazovanie schopností.
+Work Metaverse poskytuje transparentnejšie a nemenné prostriedky na získavanie a preukazovanie schopností.
 
 Odznaky sa používajú na označenie úspechov dosiahnutých v rámci Deedu. Po splnení súboru cieľov alebo výziev získajú používatelia body. Odznaky možno odomknúť nazbieraním určitého počtu bodov v konkrétnych kategóriách.
 
@@ -54,7 +54,7 @@ Peňaženky sú individuálne a založené na blockchaine - keď používateľ d
 
 ## 4.6. Prístup k službám Web 3.0, kryptoekonomike a DEFI
 
-Ako už bolo spomenuté vyššie, Praca Metaverse otvára svet kryptomien a decentralizovaných webových služieb v podstate každému - veľmi veľkej populácii používateľov, dokonca možno aj nesúvisiacej s digitálnou oblasťou.
+Ako už bolo spomenuté vyššie, Work Metaverse otvára svet kryptomien a decentralizovaných webových služieb v podstate každému - veľmi veľkej populácii používateľov, dokonca možno aj nesúvisiacej s digitálnou oblasťou.
 
 Každá pracovná angažovanosť môže byť potenciálne tokenizovaná. Svet sa stáva čoraz digitálnejším vďaka trendom ako 5G, iot, wearables atď. V dôsledku toho by sa potenciálne mohlo zachytiť a analyzovať čoraz viac signálov, ktoré by umožnili identifikovať zapojenie nedigitálnych profesií. Výzvy poskytujú pripravený spôsob, ako ju symbolizovať tým, že predstavujú úspechy vo fyzickom svete.
 
