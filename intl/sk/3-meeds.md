@@ -1,6 +1,6 @@
-# 3. Token Meeds - pracovná mena Metaverse
+# 3. Token Meeds - mena Work Metaverse
 
-Metaverse Praca poháňa jej mena - token Meeds (MEED). Meeds sa používajú na odmeňovanie používateľov (prostredníctvom programov zapojenia), nákupy v obchodoch, získavanie Deedow, finančné výnosy z investícií atď.
+Work Metaverse poháňa jej mena - token Meeds (MEED). Meeds sa používajú na odmeňovanie používateľov (prostredníctvom programov zapojenia), nákupy v obchodoch, získavanie Deedow, finančné výnosy z investícií atď.
 
 ## 3.1. Tokenomika
 
@@ -94,7 +94,7 @@ Držitelia tokenov Meeds musia vsadiť tokeny, aby mohli hlasovať o rozhodnutia
 
 ## 3.7. Decentralizované finančné služby (DeFi) pre používateľov
 
-Praca Metaverse predstaví svet blockchainu mnohým ľuďom, ktorí ho dnes nepoužívajú.
+Work Metaverse predstaví svet blockchainu mnohým ľuďom, ktorí ho dnes nepoužívajú.
 
 Akákoľvek práca (či už digitálna alebo nie) môže byť skutočne gamifikovaná a akákoľvek angažovanosť - odmenená prostriedkami Meedami. Meedy sú používateľom k dispozícii prostredníctvom ľahko použiteľnej peňaženky založenej na blockchaine, ktorá "abstrahuje" od akejkoľvek zložitosti kryptografického sveta pre bežného používateľa.
 
