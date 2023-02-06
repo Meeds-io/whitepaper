@@ -57,7 +57,7 @@ Nya tjänster kan anslutas till belöningsmotorn via API:er. Exemplen är oräkn
 - Klockterminal - Fabriksarbetaren kan få poäng för arbetstiden i fabriken.
 - Etc.
 
-Dessutom deltar engagemang som produceras via kontakten i organisationens globala engagemangspoäng, vilket är en faktor i Meeds minting-fördelningen, som beskrivs beskrivs nedan. För att kunna göra det måste anslutningen vara vitlistad av Meeds Association. Föreningen granskar konnektorn, godkänner dess algoritm och förvärvar äganderätten till den mot Meeds. Det blir sedan en del av föreningens kostnadsfria tjänster och ingår i det globala indexet för engagemang. Alla andra Deed kan använda samma kontaktdon och samma belöningsalgoritm för sina utvecklare.
+Dessutom deltar engagemang som produceras via kontakten i organisationens globala engagemangspoäng, vilket är en faktor i Meeds minting-fördelningen, som beskrivs nedan. För att kunna göra det måste anslutningen vara vitlistad av Meeds Association. Föreningen granskar konnektorn, godkänner dess algoritm och förvärvar äganderätten till den mot Meeds. Det blir sedan en del av föreningens kostnadsfria tjänster och ingår i det globala indexet för engagemang. Alla andra Deed kan använda samma kontaktdon och samma belöningsalgoritm för sina utvecklare.
 
 Innehavaren eller hyresgästen kan berika sin butik med egna förmåner, ansluta sig till ett online-erbjudande av förmåner osv. Även här är möjligheterna oändliga:
 
@@ -84,70 +84,70 @@ Förutom Meeds kommer det också att vara möjligt att distribuera andra tokens 
 
 Genom att engagera sina användare i WoM får Deeds ersättning genom en innovativ mintiummodell.
 
-Engagemangspoäng som Deeds-användarna får ingår i det globala indexet för engagemang som beräknas av Meeds Association. The index uses the same principle for all Deeds. Even though the Deed can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
+Engagemangspoäng som Deeds-användarna får ingår i det globala indexet för engagemang som beräknas av Meeds Association. Indexet använder samma princip för alla Deeds. Även om Deeds kan ändra poängfördelningen för att främja en åtgärd framför en annan, kommer dessa ändringar inte att beaktas vid beräkningen av det globala indexet.
 
-Each week, a certain amount of Meeds is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Deeds. Some Deeds get an additional boost depending on their type. The Deeds that claim their Meeds over the week, receive them. The unclaimed Meeds are added to the following week’s global distribution amount.
+Varje vecka tilldelas en viss mängd Meeds till det globala engagemanget för att prägla WoM. Den beräknas varje vecka, proportionellt, bland de deltagande Deeds. Vissa handlingar får en extra förstärkning beroende på vilken typ de är. De Deeds som kräver sina Meeds under veckan får dem. De Meeds som inte tas ut läggs till den följande veckans globala utdelning.
 
-The engagement score _S_  of a Deed is a function of the engagement, the number of engaged users and the distribution :
+Engagemangspoängen _S_ för en Deed är en funktion av engagemanget, antalet engagerade användare och fördelningen :
 
 $$S = (E_d / E_w) * D_r * D_s * M$$
 
-Where :
+Var :
 
-- $A$ = _Activity_ - total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
-- $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
-- $E_d$ = _Engagement rate of the deed_ - actions per user ($A/U$)
-- $E_w$ = _Average engagement rate_ of all active Deeds in the WoM.
-- $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
-- $D_s$ =  _Distribution spread_ - if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
-- $M$ = _Minting Power_ of the Deed as defined in 2.3
-
-
-The global engagement index used to distribute minted Meeds among the Deeds is the sum of all Deeds’ engagement scores for the week.
+- $A$ = _Aktivitet_ - totalt antal åtgärder som användare inom Deed har utfört under veckan. (På varje Deed-nivå omvandlas varje åtgärd till engagemangspoäng, där vissa åtgärder väger tyngre än andra. På indexnivå är alla åtgärder linjäriserade).
+- $U$ = _Engagerade användare_ - användare som bidrog till poäng under veckan genom minst en åtgärd.
+- $E_d$ = _Aktivitetsgrad för handlingen_ - åtgärder per användare ($A/U$)
+- $E_w$ = _Genomsnittlig engagemangshastighet_ för alla aktiva handlingar i WoM.
+- $D_r$ = _Distributionsgrad_ - om en Deed mottog myntade Meeds under föregående period, den procentandel av Meeds som delades ut till dess användare. Procentsatsen kan överstiga 100 om distributionen är försenad i tid.
+- $D_s$ = _Distributionsspridning_ - om en Deed fick präglade Meeds under föregående period, % av användarna som fick Meeds i den totala gruppen användare.
+- $M$ = _Myntaffekt_ för Deed enligt definitionen i 2.3.
 
 
-The formula above is simple and designed to favor deeds :
+Det globala indexet för engagemang som används för att fördela de nya Meeds bland Deeds är summan av alla Deeds engagemangspoäng för veckan.
 
-- with lots of engaged users (engagement)
-- who share the whole of the minting income (distribution rate) with their users fairly (distribution spread).
 
-Additionnally boosters are in place for :
+Formeln ovan är enkel och utformad för att gynna handlingar :
 
-- organizations with the highest engagement, regardless of their size (engagement rate in relation to the WoM)
-- scarcer deeds
+- med många engagerade användare (engagemang)
+- som delar hela myntningsinkomsten (fördelningsgrad) med sina användare på ett rättvist sätt (fördelningsspridning).
 
-> The Meeds association reserves the right to change the formula if required – if some specific use cases arise for instance. The association can also blacklist any Deed that hijacks the formula to its unique benefit.
+Dessutom finns det boosters på plats för :
 
-As the Deeds are rewarded with Meeds and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the Deeds and their users are aligned in the same virtuous revenue sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
+- Organisationer med det högsta engagemanget, oavsett storlek (engagemang i förhållande till WoM).
+- knappa gärningar
 
-The “mintium” model is the first of a kind - it goes further than the traditional freemium one, as not only the services are free to use but both the organizations and their users are rewarded for using them.
+> Meeds Association förbehåller sig rätten att ändra formeln vid behov, till exempel om vissa specifika användningsområden uppstår. Föreningen kan också svartlista varje Deed som utnyttjar formeln till sin egen fördel.
 
-## 2.7. Cities and governance
+Eftersom Deeds belönas med Meeds och uppmuntras att distribuera dem som belöningar till sina användare mot deras engagemang - är både Deeds och användarnas intressen i linje med varandra i samma goda intäktsdelningscykel. WoM erbjuder således en ny arbetsmodell som omformar förhållandet mellan arbetsgivare och arbetstagare till ett partnerskap.
 
-In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
+Mintium-modellen är den första i sitt slag - den går längre än den traditionella freemium-modellen, eftersom tjänsterna inte bara är gratis att använda utan både organisationerna och användarna belönas för att använda dem.
 
-A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
+## 2.7. Städer och styrning
 
-| **City name** | **Deeds**   | **Available**        | **Vanligt** | **Ovanlig** | **Sällsynt** | **Legendarisk** |
-| ------------- | ----------- | -------------------- | ----------- | ----------- | ------------ | --------------- |
-| 1: Tanit      | 100         | T0                   | 50          | 30          | 13           | 7               |
-| 2: Reshef     | 1 000       | Tanit + 4 months     | 600         | 300         | 94           | 6               |
-| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000       | 3 000       | 995          | 5               |
-| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000      | 30 000      | 9 996        | 4               |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000     | 300 000     | 99 997       | 3               |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000   | 3 000 000   | 999 998      | 2               |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000  | 30 000 000  | 9 999 999    | 1               |
+I WoM kommer DEEDS successivt att skapas i virtuella städer. Endast den första staden kommer att existera från början. De andra kommer att byggas upp successivt, en efter en. I hela WoM kommer det någonsin bara att finnas 7 städer, var och en med ett fast antal Deeds av varje typ.
 
-A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
+En stad anses vara färdig när alla dess Deeds har präglats. Därefter börjar präglingen av varje ny stad 2^n$ månader efter det att den sista Deed i staden $n-1$ präglades.
 
-Each city has its own govenance and operates its own DAO where the city’s Deeds’ owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
+| **Ort namn** | **Deeds**   | **Tillgängligt**      | **Vanligt** | **Ovanlig** | **Sällsynt** | **Legendarisk** |
+| ------------ | ----------- | --------------------- | ----------- | ----------- | ------------ | --------------- |
+| 1: Tanit     | 100         | T0                    | 50          | 30          | 13           | 7               |
+| 2: Reshef    | 1 000       | Tanit + 4 månader     | 600         | 300         | 94           | 6               |
+| 3: Ashtarte  | 10 000      | Reshef + 8 månader    | 6 000       | 3 000       | 995          | 5               |
+| 4: Melqart   | 100 000     | Ashtarte + 16 månader | 60 000      | 30 000      | 9 996        | 4               |
+| 5: Eshmun    | 1 000 000   | Melqart + 32 månader  | 600 000     | 300 000     | 99 997       | 3               |
+| 6: Kushor    | 10 000 000  | Reshef + 64 månader   | 6 000 000   | 3 000 000   | 999 998      | 2               |
+| 7: Hammon    | 100 000 000 | Reshef + 128 månader  | 60 000 000  | 30 000 000  | 9 999 999    | 1               |
 
-For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add Meeds powered food services, vacations services, etc...
+En stad är ett sätt för Deeds att samlas och skapa en gemenskap. Och som en följd av detta får de en viss identitet som är förknippad med det samhället. Det är också ett sätt att ge användarna ett mervärde - ett värde som går utöver en Deed:s kapacitet eller ett värde som skapas genom samarbete mellan Deeds.
 
-By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
+Varje stad har sitt eget styre och driver sin egen DAO där stadens Deed-ägare kan välja sitt stadsfullmäktige, rösta och fastställa sina egna driftsregler, lägga till nya tjänster och utforma sin stad på det sätt som de vill för att öka stadens attraktionskraft och värdet av de Deeds som är knutna till den.
 
-Ownsership transactions (Deed’s sales) will also be taxed 6% :
+De kan till exempel lägga till en digital representation av sin stad, fysiska motsvarigheter som är kopplade till staden (mötesrum i fysiska samarbetsutrymmen till exempel), lägga till Meeds-drivna mat- och semestertjänster, etc...
 
-- 2.5% for the City,
-- 2.5% for the Association,
-- 1% for the original wallet that redeemed the Deed.
+Som standard (om inte staden röstar annorlunda) kommer passiva inkomster från uthyrning av Deeds att "beskattas" av staden (5 %) och föreningen (3 %) för att uppmuntra till produktiv användning.
+
+Även äganderättstransaktioner (försäljning av handlingar) kommer att beskattas med 6 %:
+
+- 2,5 % för staden,
+- 2,5 % för föreningen,
+- 1 % för den ursprungliga plånboken som löste in skuldebrevet.
