@@ -2,63 +2,63 @@
 
 ## 4.1. Desentralisasi dan model kedaulatan-diri
 
-The WoM recognizes privacy as a fundamental human right and empowers users to own their data.
+WoM mengakui privasi sebagai hak asasi manusia yang mendasar dan memberikan kekuatan kepada pengguna untuk memiliki data mereka.
 
-Our approach is based on decentralized and self-sovereign identity principles, allowing users to be in control at any time of what information they want to publicize, share with a restricted group, or keep private.
+Pendekatan kami didasarkan pada prinsip identitas terdesentralisasi dan mandiri, sehingga pengguna dapat mengontrol kapan saja informasi apa yang ingin dipublikasikan, dibagikan ke grup terbatas, atau dikelola privat.
 
-User's activity and engagement in the WoM is always linked to a Deed. A Xeed is the virtual persona of a user in a Deed. Xeed does not require any KYC, it is self-declaring, but we could conceivably imagine third-party firms providing this service.
+Aktivitas dan keterlibatan pengguna di WoM selalu terkait dengan suatu Tindakan. Xeed adalah persona virtual dari pengguna dalam Deed. Xeed tidak membutuhkan KYC apapun, itu adalah self-declaring, tetapi kita bisa membayangkan perusahaan pihak ketiga memberikan layanan ini.
 
 ## 4.2. Lencana dan kredensial
 
-Badges and Credentials are given to users as a part of their participation in a Deed. The holder may download them as W3C Verifiable Credentials[^7][^8] (aka VCs) and store them in his wallet. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
+Badge dan Sertifikat diberikan kepada pengguna sebagai bagian dari partisipasi mereka dalam Deed. Pemegang dapat mengunduh mereka sebagai W3C Sertifikat Terverifikasi.<sup id="fnref:7"><a href="#fn:7" class="footnote-ref"></a></sup>[^8] (aka VCs) dan menyimpannya di dompetnya. VC hose adalah bukti dari pengetahuan / keahlian yang dicertifikasi oleh organisasi yang mengeluarkannya.
 
-In today’s world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they count on their managers to give them a recommendation. The latter supposes certain goodwill on the part of the manager but is not necessarily treated as proof by the future employer.
+Di dunia saat ini, sulit untuk membuktikan kemampuan sebelumnya. Ketika orang mempromosikan diri mereka pada jaringan, mereka mengharapkan manajer mereka memberikan rekomendasi bagi mereka. Yang terakhir menganggap adanya kebaikan hati dari manajer tetapi tidak necessarily dianggap sebagai bukti oleh pemberi kerja masa depan.
 
-The Work Metaverse provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
+Work Metaverse menyediakan cara yang lebih transparan dan tidak dapat berubah untuk memperoleh dan menunjukkan kemampuan orang.
 
-Badges are used to represent accomplishments made within a Deed. After completing a set of objectives or challenges, users will be awarded points. Badges can be unlocked by accumulating certain amounts of points in specific categories.
+Lencana digunakan untuk mewakili prestasi yang dicapai dalam sebuah Amal. Setelah menyelesaikan sekumpulan tujuan atau tantangan, pengguna akan diberikan poin. Lencana dapat terbuka dengan mengumpulkan jumlah poin tertentu dalam kategori tertentu.
 
-When badges are downloaded by the user, it is possible to include the number of points and his rank in the Deed for this specific accomplishment.
+Ketika pengguna mengunduh badge, maka mungkin termasuk jumlah poin dan ranking mereka dalam Deed untuk prestasi spesifik ini.
 
-Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the Deed. These are signed by the Deed and can be accompanied by a signature by a peer user.
+Credentials lebih fleksibel daripada Badges; mereka bisa menjadi rekomendasi dari seorang rekan, menunjukkan tahun pengalaman, pelatihan atau selesai ujian, atau terlibat dalam Amal. Ini ditandatangani oleh Akte dan dapat disertai dengan tanda tangan oleh pengguna sejawat.
 
 ## 4.3. Identitas Kerja Digital
 
-All of the above contributes to forming proven digital skillset that can be kept and used by the user when changing jobs or freelancing. It would be more trustworthy than traditional solutions as it relies on not just one individual but a full community to prove it.
+Semua di atas berkontribusi untuk membentuk keterampilan digital yang terbukti yang dapat diterapkan dan digunakan oleh pengguna saat berganti pekerjaan atau bekerja sebagai freelancer (Tidak ada perubahan). Ini akan lebih terpercaya daripada solusi tradisional karena tidak hanya berdasarkan satu individu tetapi seluruh komunitas untuk membuktikannya.
 
-Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Deed to another, from one city to another, anywhere through the WoM.
+Seperti dompet Meeds-nya, pengguna akan mempertahankan Xeed, Badge, dan Sertifikat yang terhubung dengan identitasnya di dalam dompet identitasnya ketika pindah dari satu Deed ke Deed lain, dari satu kota ke kota lain, dimanapun melalui WoM.
 
-The user will be able to share his Xeed, Badges, and Credentials with other Deeds to highlight his experience, as well as with recruiters or any other services that he deems interesting.
+Pengguna akan dapat membagikan Xeed, Badge, dan Sertifikasinya dengan Deeds lain untuk menampilkan pengalamannya, serta dengan rekruter atau layanan lain yang ia anggap menarik.
 
-A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations.
+Seorang pengguna dapat memiliki satu atau beberapa identitas digital dalam WoM. Dia bisa nantinya menyajikan mereka dengan cara terpadu menggunakan presentasi yang terverifikasi.
 
-Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... In a manner of trustworthy LinkedIn 3.0.
+Berlawanan dengan web 2, pengguna memiliki kepemilikan penuh atas identitas terdesentralisasinya. Yang terakhir dapat menunjukkan (dan membuktikan) tindakan yang ia ikuti, keahlian yang terbukti, keahlian yang diklaim, Xeeds (orang) lain yang bekerja dengannya, representasi digital dirinya... Dengan cara yang dapat dipercaya LinkedIn 3.0.
 
-The user will be able to select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Deeds, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time.
+Pengguna akan dapat memilih apakah akan mengungkapkan sesuatu atau tidak, informasi apa yang akan diberikan, dan identitas apa yang akan digunakan untuk setiap posisi. Isi (keahlian terbukti, tindakan sebelumnya, dll.) tidak bisa diubah dan sudah terjamin keamanannya. Setiap identitas harus dikembangkan dalam waktu yang panjang.
 
 ## 4.4. Pasar Kerja yang Adil
 
-Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Deeds – as they do in the physical world by changing employers. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to choose which Deed provides better engagement reward conditions, belongs to a more attractive city, etc.
+Dalam paradigma ini, pasar kerja masa depan memungkinkan pengguna untuk bebas bergerak dan mengalokasikan/menjual engagemennya di antara Tindakan - seperti yang mereka lakukan di dunia fisik dengan mengubah pemberi kerja. Namun, dalam WoM partisipasi mereka akan menjadi terasa, diukur dan diberikan imbalan secara adil. Dengan berpindah antar sistem yang mengikuti logika yang sama, mereka akan lebih memahami aturan dari permainan dan akan menilai pemberi kerja dengan adil - rumput tidak selalu hijau di tempat lain. Pengguna akan bisa memilih Deed yang memberikan kondisi reward engagement yang lebih baik, milik kota yang lebih menarik, dll.
 
-On their end, the Deeds’ holders/renters can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
+Di sisi mereka, pemegang/penyewa Deeds dapat mencari kemampuan yang relevan menggunakan jaringan identitas kerja digital WoM (yang pengguna memutuskan untuk membuka). Mereka akan mampu untuk mencari sumber keterampilan dengan lebih efektif, berdasarkan informasi terverifikasi dan rinci mengenai riwayat kerja, keterampilan kerja, dan tingkat engagemen pengguna.
 
 ## 4.5. Pengakuan yang Transparan dan Jelas
 
-Today, details on compensation and bonuses are obscure in many workplaces. Therefore, it is difficult for a person to compare his conditions to that of another and get a sense of a fair and unbiased treatment. Employees experience a lot of frustrations with the above.
+Hari ini, detail tentang kompensasi dan bonus sangat samar di banyak tempat kerja. Oleh karena itu, sulit bagi seseorang untuk membandingkan kondisinya dengan orang lain dan mendapatkan rasa perlakuan yang adil dan tidak memihak. Karyawan mengalami banyak kekecewaan dengan hal di atas.
 
-The WoM introduces an objective way to recognize achievements and reward them.
+WoM memperkenalkan cara objektif untuk mengenali prestasi dan memberikan hadiah untuknya.
 
-Engagement recognition and reward mechanism is transparent and applies fairly to all users, following the same explicit rules, decided in advance and aligned with the Deed’s goals.
+Mekanisme pengakuan dan pemberian imbalan engagement adalah transparan dan diterapkan secara adil pada semua pengguna, mengikuti aturan yang sama yang jelas, ditentukan sebelumnya dan selaras dengan tujuan Deed.
 
-Wallets are individual and blockchain based – when the user receives a reward or earns a badge, it cannot be taken back or erased.
+Dompet adalah individu dan berbasis blockchain - ketika pengguna menerima hadiah atau memperoleh penghargaan, hal itu tidak bisa diambil kembali atau dihapus.
 
 ## 4.6. Akses ke Web 3.0, kriptoekonomi dan layanan DeFi
 
-As discussed above, the Work Metaverse opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
+Seperti dibahas di atas, Work Metaverse membuka dunia mata uang kripto dan layanan web terdesentralisasi untuk sebagian besar orang - sejumlah besar pengguna, bahkan mungkin tidak terkait dengan bidang digital.
 
-Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
+Benar-benar, setiap keterlibatan pekerjaan dapat potensial tertokenisasi. Faktanya, dunia semakin menjadi digital dengan tren seperti 5G, IoT, wearables dan seterusnya. Sebagai akibatnya, potensial semakin banyak sinyal dapat ditangkap dan dianalisis untuk menerjemahkan engagement profesi non-digital. Tantangan memberikan cara siap pakai untuk meng-token-kan hal tersebut dengan mewakili prestasi di dunia fisik.
 
-Any user can get Meeds and use a Meeds wallet to get access to new age services without any special training.
+Setiap pengguna dapat mendapatkan Meeds dan menggunakan dompet Meeds untuk mendapatkan akses ke layanan zaman baru tanpa pelatihan khusus.
 
-[^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
-[^8]: Verifiable Credentials Data Model
+[^7]: A.Preukschatt, R. Drummond Identitas Otonomi Pribadi
+[^8]: Model Data Sertifikat Terverifikasi
