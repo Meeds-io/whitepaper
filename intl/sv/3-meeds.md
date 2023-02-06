@@ -1,31 +1,31 @@
-# 3. Meeds token – the Work Metaverse currency
+# 3. Meeds token - valutan för arbetsmetaverset
 
-The Work Metaverse is powered by its currency – the Meeds (MEED) token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
+Work Metaverse drivs av sin valuta - Meeds (MEED)-token. Meeds används för att belöna användare (genom engagemangsprogram), köpa i butiker, få Deeds, få ekonomisk avkastning på investeringar osv.
 
-## 3.1. Tokenomics
+## 3.1. Tokenomik
 
-The Meeds **maximum supply is limited to 100 million tokens**, minted progressively. **Meeds are minted at the rate of 10 MEED per minute**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).
+Meeds **maximala utbud är begränsat till 100 miljoner tokens**, som präglas successivt. **Meeds slås ut med 10 MEED per minut**. Därför är den fullständiga mynthorisonten nära 20 år (eftersom cirka 10*60*24*365 = 5 miljoner dollar i mynt präglas per år).
 
-5 Million Meeds (5% of total supply) have been pre-minted to date. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services.
+Hittills har 5 miljoner Meeds (5 % av det totala utbudet) präglats på förhand. Av dessa har 4,5 miljoner euro låsts in i ett valvkontrakt med en linjär intjänandeperiod på fyra år. Det förskottsbetalda beloppet användes huvudsakligen för att förvärva programvaru-IP, betala för tokenemissions juridiska avgifter och webbhotellstjänster.
 
-The rest is part of the __Meeds DAO funds__ and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
+Resten är en del av __Meeds DAO-fonderna__ och kommer att användas för att betala för tjänster samt för vissa lanseringsincitament, t.ex. luftlandsättningar och referenskampanjer.
 
 
-## 3.2. Minting allocation
+## 3.2. Fördelning av myntning
 
-Minted Meeds are allocated to encourage involvement of the three categories of stakeholders - the users, the builders and the investors:
+Minted Meeds tilldelas för att uppmuntra de tre kategorierna av intressenter - användare, byggare och investerare - att delta:
 
-- The users (users and Deeds holders/renters) get Meeds through engagement rewards (mintium model).
-- Builders (members of the association and community) get Meeds through the association funds to build, operate and improve the WoM.
-- Investors mint Meeds through renting and buying of liquidity pools and staking Meeds.
+- Användarna (användare och innehavare/uthyrare av handlingar) får Meeds genom belöningar för engagemang (mintium-modellen).
+- Byggare (medlemmar i föreningen och samhället) får Meeds genom föreningens medel för att bygga, driva och förbättra WoM.
+- Investerare skapar Meeds genom att hyra och köpa likviditetspooler och satsa Meeds.
 
-At the beginning, the builders get 30% of the allocation. The 70% are shared between the users and the investors. This allocation proportion will be reviewed on a regular basis, through the Meeds association DAO vote.
+I början får byggherrarna 30 procent av tilldelningen. De 70 procenten delas mellan användarna och investerarna. Denna tilldelningsandel kommer att ses över regelbundet genom Meeds associations DAO-omröstning.
 
-## 3.3. Users – minting through engagement
+## 3.3. Användare - myntning genom engagemang
 
-Part of the continuously minted Meeds is allocated to the engagement minting channel. The distribution is done weekly. At any given week end, the engagement index is calculated and Deeds can claim their rewards the following week and get their Meeds. Unclaimed Meeds stay in the fund and are added to the next week’s distribution. The model is described in detail in the previous chapter (part 2.6).
+En del av de kontinuerligt präglade Meeds tilldelas den engagerade myntningskanalen. Utdelningen sker varje vecka. Vid varje veckoslut beräknas engagemanget och Deeds kan begära sina belöningar följande vecka och få sina Meeds. De pengar som inte tas ut stannar i fonden och läggs till i nästa veckas utdelning. Modellen beskrivs i detalj i föregående kapitel (del 2.6).
 
-## 3.4. Builders – Meeds association DAO and community of builders
+## 3.4. Byggare - Meeds Association DAO och byggare i gemenskapen
 
 The WoM and the Meeds token are operated by the non-profit Meeds Association DAO, introduced above. A multisig contract called the _Meeds DAO Funds_ is used to manage the association's operating expenses.
 
@@ -88,22 +88,22 @@ which leads to the following holding time for each class of holder :
 | Sällsynt      | 50 000 pts  | 156 days         | 10 months         | 5 years          |
 | Legendarisk   | 100 000 pts | 311 days         | 20 months         | 10 years         |
 
-## 3.6. Meeds DAO governance
+## 3.6. Meeds DAO-styrning
 
-Meeds token holders need to stake tokens in order to vote on the Meeds DAO decisions such as managing the minting budget or electing DAO board members (annual mandate).
+Innehavare av Meeds token måste satsa token för att kunna rösta om Meeds DAO:s beslut, t.ex. att förvalta myntningsbudgeten eller välja DAO:s styrelseledamöter (årligt mandat).
 
-## 3.7. Decentralized finance (DeFi) user services
+## 3.7. Användartjänster för decentraliserad finansiering (DeFi)
 
-The Work Metaverse will introduce the blockchain world to many people who do not use it today.
+Work Metaverse kommer att introducera blockkedjevärlden för många människor som inte använder den idag.
 
-Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
+Allt arbete (oavsett om det är digitalt eller inte) kan spelifieras och allt engagemang kan belönas med Meeds. Meeds görs tillgängliga för användarna genom en lättanvänd, blockkedjebaserad plånbok som "abstraherar" all komplexitet i kryptovärlden för en genomsnittlig användare.
 
-Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
+Utöver plånboken och en butik där de kan köpa förmåner för Meeds planerar vi att introducera varje användare till flera slutanvändarprodukter som drivs av de decentraliserade finansprotokollen, till exempel:
 
-- The ability to stake Meeds tokens and get yields (generate revenues)
-- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
-- A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. This card could also be used by organizations to fund employee wallets in order to manage employee benefits such as restaurants, transportation and any type of expenses.
+- Möjligheten att satsa Meeds-tokens och få avkastning (generera intäkter).
+- Möjligheten att använda Meeds tokens som säkerhet för att låna stabila mynt som USDC (genom att först använda en [Fuse pool](https://app.rari.capital/fuse) och sedan registrera Meeds token till [AAVE](https://aave.com/)).
+- Ett digitalt kort som kan läggas till och användas via Apple Pay, Google Pay och alla bankomater. Den senare kan tillhandahållas genom ett partnerskap med VISA och kommer att utnyttja en kreditlinje i USDC, med säkerhet i form av staked Meeds. Det här kortet kan också användas av organisationer för att finansiera anställdas plånböcker för att hantera anställdas förmåner, t.ex. restauranger, transporter och alla typer av utgifter.
 
-So not only many new users will discover the blockchain world, they will also discover a bankless world.
+Det är alltså inte bara många nya användare som kommer att upptäcka blockkedjevärlden, de kommer också att upptäcka en banklös värld.
 
  
