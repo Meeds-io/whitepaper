@@ -1,5 +1,5 @@
 
-# 2. Deeds NFT - Pracovné Organizácie Metaverse
+# 2. Deeds NFT - Work Metaverse Organizácie
 
 ## 2.1. NFT - Definícia Deeds
 
