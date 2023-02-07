@@ -1,12 +1,12 @@
-# 3. Meeds token – the Work Metaverse currency
+# 3. Meeds token - a moeda do Metaverso do Trabalho
 
-The Work Metaverse is powered by its currency – the Meeds (MEED) token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
+O Metaverso de Trabalho é alimentado por sua moeda - a ficha Meeds (MEED). Os Meeds são usados para recompensar os usuários (através de programas de engajamento), comprar nas lojas, obter Deeds, obter retorno financeiro sobre os investimentos, etc.
 
-## 3.1. Tokenomics
+## 3.1. Tokenômico
 
-The Meeds **maximum supply is limited to 100 million tokens**, minted progressively. **Meeds are minted at the rate of 10 MEED per minute**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).
+O Meeds **a oferta máxima é limitada a 100 milhões de fichas**, cunhadas progressivamente. **Os Meeds são cunhadas à razão de 10 MEED por minuto.**. Portanto, o horizonte de cunhagem total é próximo de 20 anos (pois cerca de $10*60*24*365 = 5M$ Meeds são cunhados por ano).
 
-5 Million Meeds (5% of total supply) have been pre-minted to date. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years. A quantia pré-marcada foi utilizada principalmente para adquirir o software IP, pagar as taxas legais de emissão de token e serviços de hospedagem.
+5 Milhões de Meeds (5% do fornecimento total) foram pré-mintados até o momento. Dos quais, 4,5 milhões foram trancados em um contrato de abóbada com uma aquisição linear ao longo de 4 anos. A quantia pré-marcada foi utilizada principalmente para adquirir o software IP, pagar as taxas legais de emissão de token e serviços de hospedagem.
 
 O restante faz parte dos fundos __Meeds DAO__ e será usado para pagar pelos serviços, bem como alguns incentivos de lançamento, tais como gotas aéreas e campanhas de encaminhamento.
 
@@ -61,49 +61,49 @@ Cada membro também tem o direito de comprar diretamente uma grande quantidade d
 
 Ao apostar no Meeds, os investidores também podem resgatar Deeds (e depois participar da cunhagem através do engajamento), aumentando assim a demanda simbólica. Cada Meeds (xMeeds) apostado concede a seu proprietário um número de pontos por dia. Quanto mais longo for o período de aquisição, maior será o número de pontos obtidos por xMeeds. Cada Deed é então resgatada em troca de uma série de pontos.
 
-Points are calculated using the formula below :
+Os pontos são calculados utilizando a fórmula abaixo :
 
  $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
 
- where :
+ onde :
 
-- $xMeeds$ : xMeeds balance  with no decimals
-- $T$ : Time elapsed in milliseconds
+- $xMeeds$ : xMeeds saldo sem decimais
+- $T$ : Tempo transcorrido em milissegundos
 
-The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably. For example, the formula gives the following rates :
+A fórmula evita favorecer os grandes detentores a fim de distribuir os Deeds de forma mais eficiente e eqüitativa. Por exemplo, a fórmula dá as seguintes taxas :
 
-| **Holder Size** | **Holdings**   | **Accrue Rate** |
-| --------------- | -------------- | --------------- |
-| Small           | 1 000 xMeeds   | 28 pts/day      |
-| Medium          | 10 000 xMeeds  | 164 pts/day     |
-| Large           | 100 000 xMeeds | 321 pts/day     |
+| **Tamanho do titular** | **Holdings**   | **Taxa de Acumulação** |
+| ---------------------- | -------------- | ---------------------- |
+| Small                  | 1 000 xMeeds   | 28 pts/dia             |
+| Médio                  | 10 000 xMeeds  | 164 pts/dia            |
+| Grande                 | 100 000 xMeeds | 321 pts/dia            |
 
 
-which leads to the following holding time for each class of holder :
+o que leva ao seguinte tempo de retenção para cada classe de detentor :
 
-| **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| Common        | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| Uncommon      | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| Rare          | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| Legendary     | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| **Tipo de Card** | **Custo**   | **Grande suporte** | **Médio suporte** | **Pequeno suporte** |
+| ---------------- | ----------- | ------------------ | ----------------- | ------------------- |
+| Comum            | 8 000 pts   | 25 dias            | 49 dias           | 9 meses             |
+| Não comum        | 32 000 pts  | 100 dias           | 6 meses           | 3 anos              |
+| Raro             | 50 000 pts  | 156 dias           | 10 meses          | 5 anos              |
+| Lendário         | 100 000 pts | 311 dias           | 20 meses          | 10 anos             |
 
-## 3.6. Meeds DAO governance
+## 3.6. Meeds DAO governança
 
-Meeds token holders need to stake tokens in order to vote on the Meeds DAO decisions such as managing the minting budget or electing DAO board members (annual mandate).
+Os detentores de fichas Meeds precisam colocar fichas para votar nas decisões do Meeds DAO, tais como administrar o orçamento de cunhagem ou eleger membros do conselho do Meeds (mandato anual).
 
-## 3.7. Decentralized finance (DeFi) user services
+## 3.7. Serviços financeiros descentralizados (DeFi) para usuários
 
-The Work Metaverse will introduce the blockchain world to many people who do not use it today.
+O Metaverso de Trabalho apresentará o mundo da cadeia de bloqueio a muitas pessoas que não o utilizam hoje.
 
-Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
+De fato, qualquer trabalho (seja digital ou não) pode ser jogado e qualquer compromisso - recompensado com Meeds. Meeds são disponibilizados aos usuários através de uma carteira fácil de usar, baseada em cadeias de bloqueio, que "abstrai" qualquer complexidade do mundo criptográfico para um usuário médio.
 
-Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
+Além da carteira e de uma loja onde eles podem comprar regalias para Meeds, planejamos introduzir cada usuário a vários produtos para usuários finais alimentados pelos protocolos de Finanças Descentralizadas, como por exemplo:
 
-- The ability to stake Meeds tokens and get yields (generate revenues)
-- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
-- A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. This card could also be used by organizations to fund employee wallets in order to manage employee benefits such as restaurants, transportation and any type of expenses.
+- A capacidade de apostar Meeds tokens e obter rendimentos (gerar receitas)
+- A capacidade de usar as Meeds tokens como garantia para emprestar moedas estáveis como USDC (alavancando primeiro um [Fuse pool](https://app.rari.capital/fuse) e depois registrando a ficha Meeds para [AAVE](https://aave.com/).
+- Um cartão digital que pode ser adicionado e utilizado através do Apple Pay, Google pay ou qualquer ATM. Este último pode ser fornecido através de uma parceria com a VISA e alavancará uma linha de crédito em USDC, garantida pela staked Meeds. Este cartão também poderia ser usado por organizações para financiar carteiras de funcionários a fim de administrar os benefícios dos funcionários, tais como restaurantes, transporte e qualquer tipo de despesa.
 
-So not only many new users will discover the blockchain world, they will also discover a bankless world.
+Assim, não somente muitos novos usuários descobrirão o mundo da cadeia de bloqueio, mas também um mundo sem banda.
 
  
