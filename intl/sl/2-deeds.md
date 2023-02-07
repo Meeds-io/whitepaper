@@ -134,20 +134,20 @@ Mesto se bo štelo za dokončano, ko bodo v njem izdelane vse Deedy. Vsako novo 
 | 2: Reshef     | 1 000       | Tanit + 4 mesece      | 600        | 300            | 94        | 6              |
 | 3: Ashtarte   | 10 000      | Reshef + 8 mesecev    | 6 000      | 3 000          | 995       | 5              |
 | 4: Melqart    | 100 000     | Ashtarte + 16 mesecev | 60 000     | 30 000         | 9 996     | 4              |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months   | 600 000    | 300 000        | 99 997    | 3              |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months    | 6 000 000  | 3 000 000      | 999 998   | 2              |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months   | 60 000 000 | 30 000 000     | 9 999 999 | 1              |
+| 5: Eshmun     | 1 000 000   | Melqart + 32 mesecev  | 600 000    | 300 000        | 99 997    | 3              |
+| 6: Kushor     | 10 000 000  | Eshmum +64 mesecev    | 6 000 000  | 3 000 000      | 999 998   | 2              |
+| 7: Hammon     | 100 000 000 | Kushor + 128 mesecev  | 60 000 000 | 30 000 000     | 9 999 999 | 1              |
 
-A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
+Mesto je način združevanja zakoncev Deeds in ustvarite skupnost. In posledično pridobijo določeno identiteto, povezano s to skupnostjo. To je tudi način za zagotavljanje dodatne vrednosti svojim uporabnikom - vrednosti, ki bi presegala zmožnosti enega Deeda, ali vrednosti, ustvarjene s sodelovanjem med Deedy.
 
-Each city has its own govenance and operates its own DAO where the city’s Deeds’ owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
+Vsako mesto ima svojo upravo in upravlja svoj DAO, v katerem lahko lastniki mestnih Deeds' volijo mestni svet, glasujejo in določajo svoja pravila delovanja, dodajajo nove storitve in oblikujejo svoje mesto po svojih željah, da bi povečali privlačnost mesta in vrednost Deedy, ki so z njim povezani.
 
-For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add Meeds powered food services, vacations services, etc...
+Dodali bi lahko na primer digitalno predstavitev svojega mesta, fizične partnerje, povezane z njihovim mestom (na primer sejne sobe v fizičnih prostorih za skupno delo), dodali prehranske storitve, ki jih poganja Meeds, storitve počitnic itd...
 
-By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
+Pasivni dohodek od oddajanja Deedy v najem bo privzeto (če mesto ne bo glasovalo drugače) "obdavčen" s strani mesta (5 %) in združenja (3 %), da se spodbudi produktivna uporaba.
 
-Ownsership transactions (Deed’s sales) will also be taxed 6% :
+Tudi transakcije z lastništvom (prodaja Deedov) bodo obdavčene s 6 % davkom:
 
-- 2.5% for the City,
-- 2.5% for the Association,
-- 1% for the original wallet that redeemed the Deed.
+- 2,5 % za Mesto,
+- 2,5 % za Združenje,
+- 1 % za prvotno denarnico, ki je odkupila Deed.
