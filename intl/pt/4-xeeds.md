@@ -56,9 +56,9 @@ As carteiras são individuais e em cadeia - quando o usuário recebe uma recompe
 
 Como discutido acima, o Metaverso de trabalho abre o mundo da moeda criptográfica e serviços web descentralizados para basicamente todos - uma população muito grande de usuários, mesmo possivelmente sem relação com o campo digital.
 
-Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
+De fato, qualquer engajamento de trabalho pode ser simbólico. Na verdade, o mundo está se tornando cada vez mais digital, com tendências como 5G, iot, wearables e assim por diante. Como conseqüência, potencialmente mais e mais sinais poderiam ser capturados e analisados para simbolizar o engajamento de profissões não-digitais. Os desafios proporcionam um caminho pronto para ser percorrido, representando conquistas no mundo físico.
 
-Any user can get Meeds and use a Meeds wallet to get access to new age services without any special training.
+Qualquer usuário pode obter Meeds e usar uma carteira Meeds para ter acesso aos serviços da nova era sem nenhum treinamento especial.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
-[^8]: Verifiable Credentials Data Model
+[^8]: Modelo de Dados de Credenciais Verificáveis
