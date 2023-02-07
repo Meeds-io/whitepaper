@@ -1,35 +1,35 @@
-# 3. Meeds token – the Work Metaverse currency
+# 3. Токен Meeds - валюта Work Metaverse
 
-The Work Metaverse is powered by its currency – the Meeds (MEED) token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
+Метапростір роботи працює завдяки своїй валюті - токену Meeds (MEED). Meeds використовуються для винагороди користувачів (через програми залучення), покупок в магазинах, отримання Deeds, отримання фінансової віддачі від інвестицій тощо.
 
-## 3.1. Tokenomics
+## 3.1. Токеноміка
 
-The Meeds **maximum supply is limited to 100 million tokens**, minted progressively. **Meeds are minted at the rate of 10 MEED per minute**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).
+Максимальна пропозиція Meeds **обмежена до 100 мільйонів токенів**- поступово видобувається. **Мeeds карбуються зі швидкістю 10 MEED за хвилину**. Таким чином, повний горизонт карбування становить близько 20 років (оскільки за рік карбується близько $10*60*24*365 = 5M$ Meeds).
 
-5 Million Meeds (5% of total supply) have been pre-minted to date. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services.
+На сьогоднішній день вже викарбувано 5 мільйонів Meeds (5% від загальної кількості). З них 4,5 млн. були заблоковані в депозитному договорі з лінійним переходом права власності на 4 роки. Заздалегідь випущена сума в основному була використана для придбання інтелектуальної власності на програмне забезпечення, оплати юридичних послуг емісії токенів та послуг хостингу.
 
-The rest is part of the __Meeds DAO funds__ and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
+Решта є частиною __фондів Meeds DAO__ і буде використана для оплати послуг, а також для деяких заохочень, таких як запуск кампаній та реферальних кампаній.
 
 
-## 3.2. Minting allocation
+## 3.2. Розподіл карбування
 
-Minted Meeds are allocated to encourage involvement of the three categories of stakeholders - the users, the builders and the investors:
+Монети Meeds виділяються для заохочення залучення трьох категорій зацікавлених сторін - користувачів, забудовників та інвесторів:
 
-- The users (users and Deeds holders/renters) get Meeds through engagement rewards (mintium model).
-- Builders (members of the association and community) get Meeds through the association funds to build, operate and improve the WoM.
-- Investors mint Meeds through renting and buying of liquidity pools and staking Meeds.
+- Користувачі (користувачі та власники/орендарі Deeds) отримують Meeds через винагороду за участь (модель мінтіум).
+- Будівельники (члени асоціації та спільноти) отримують Meeds через фонди асоціації для створення, експлуатації та вдосконалення WoM.
+- Інвестори отримують Meeds через оренду та купівлю пулів ліквідності, а також через інвестування в Meeds.
 
-At the beginning, the builders get 30% of the allocation. The 70% are shared between the users and the investors. This allocation proportion will be reviewed on a regular basis, through the Meeds association DAO vote.
+На початку будівельники отримують 30% від розподілу. Решта 70% розподіляються між користувачами та інвесторами. Ця пропорція розподілу буде регулярно переглядатися за допомогою голосування DAO асоціації Meeds.
 
-## 3.3. Users – minting through engagement
+## 3.3. Користувачі - майнінг через залучення
 
-Part of the continuously minted Meeds is allocated to the engagement minting channel. The distribution is done weekly. At any given week end, the engagement index is calculated and Deeds can claim their rewards the following week and get their Meeds. Unclaimed Meeds stay in the fund and are added to the next week’s distribution. The model is described in detail in the previous chapter (part 2.6).
+Частина постійно видобутих Meeds виділяється для каналу залучення користувачів. Розподіл відбувається щотижня. Наприкінці кожного тижня підраховується індекс залученості, і Deeds можуть претендувати на винагороду наступного тижня та отримати свої Meeds. Незатребувані Meeds залишаються у фонді і додаються до роздачі наступного тижня. Модель описана в попередньому розділі (частина 2.6).
 
-## 3.4. Builders – Meeds association DAO and community of builders
+## 3.4. Будівельники - асоціація Meeds DAO та спільнота будівельників
 
-The WoM and the Meeds token are operated by the non-profit Meeds Association DAO, introduced above. A multisig contract called the _Meeds DAO Funds_ is used to manage the association's operating expenses.
+WoM і токен Meeds управляються некомерційною асоціацією Meeds Association DAO, представленою вище. Для управління операційними витратами асоціації використовується багатосторонній контракт під назвою _Meeds DAO Funds_.
 
-During the minting period, **30% of the minted Meeds are allocated to the Meeds association**.
+Протягом періоду карбування **30% викарбуваних Meeds виділяються асоціації Meeds**.
 
 Association members can provide services to the association on the basis of a signed services convention establishing the man-day rate. Services are paid monthly in Meeds, based on the market price. Exemples of services include – enriching the Meeds software, developing the WoM app, developing new connectors, operating the cloud service, providing financial and legal services etc.
 
@@ -83,10 +83,10 @@ which leads to the following holding time for each class of holder :
 
 | **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
 | ------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| Common        | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| Uncommon      | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| Rare          | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| Legendary     | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| Спільне       | 8 000 pts   | 25 days          | 49 days           | 9 months         |
+| Рідкісний     | 32 000 pts  | 100 days         | 6 months          | 3 years          |
+| Зелений чай   | 50 000 pts  | 156 days         | 10 months         | 5 years          |
+| Легендарний   | 100 000 pts | 311 days         | 20 months         | 10 years         |
 
 ## 3.6. Meeds DAO governance
 
