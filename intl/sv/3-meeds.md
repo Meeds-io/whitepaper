@@ -27,24 +27,24 @@ En del av de kontinuerligt präglade Meeds tilldelas den engagerade myntningskan
 
 ## 3.4. Byggare - Meeds Association DAO och byggare i gemenskapen
 
-The WoM and the Meeds token are operated by the non-profit Meeds Association DAO, introduced above. A multisig contract called the _Meeds DAO Funds_ is used to manage the association's operating expenses.
+WoM och Meeds token drivs av den icke-vinstdrivande Meeds Association DAO, som presenteras ovan. Ett multisigkontrakt som kallas _Meeds DAO Funds_ används för att hantera föreningens driftskostnader.
 
-During the minting period, **30% of the minted Meeds are allocated to the Meeds association**.
+Under präglingsperioden tilldelas **30 % av de präglade Meeds till Meeds-föreningen**.
 
-Association members can provide services to the association on the basis of a signed services convention establishing the man-day rate. Services are paid monthly in Meeds, based on the market price. Exemples of services include – enriching the Meeds software, developing the WoM app, developing new connectors, operating the cloud service, providing financial and legal services etc.
+Föreningsmedlemmar kan tillhandahålla tjänster till föreningen på grundval av ett undertecknat tjänsteavtal som fastställer priset för en arbetsdag. Tjänsterna betalas månadsvis i Meeds, baserat på marknadspriset. Exempel på tjänster är att förbättra Meeds-programvaran, utveckla WoM-appen, utveckla nya anslutningar, driva molntjänsten, tillhandahålla finansiella och juridiska tjänster osv.
 
-Without being a member, any Deed can participate in the creation of a new connector and be rewarded for doing so – first through the Meeds association acquiring the connector and then by minting through this connector.
+Utan att vara medlem kan varje Deed delta i skapandet av en ny kontakt och belönas för detta - först genom att Meeds förening förvärvar kontakten och sedan genom att prägla mynt genom denna kontakt.
 
-The association operates a Builders community that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
+Föreningen driver ett byggvaruhus som välkomnar WoM-entusiaster som vill bidra till skapandet av WoM. Föreningen kommer att sponsra samhället med medel från sin budget och ersätta samhällsmedlemmarnas engagemang.
 
-Thus, the community will function as an example of a Deed, offering a standard set of services provided by the association. The association stakes Meeds in order to redeem a Deed for the community. The community will then also participate in the engagement minting like any other Deed.
+På så sätt kommer gemenskapen att fungera som ett exempel på en handling och erbjuda en standarduppsättning av tjänster som tillhandahålls av föreningen. Föreningen sätter ut Meeds för att kunna lösa in en lagfart för samhället. Gemenskapen kommer då också att delta i myntningen av engagemanget som vilken annan handling som helst.
 
-After the minting period is over, the association will be sustained by :
+När präglingstiden är slut kommer föreningen att upprätthållas av :
 
-- taxing passive income (3% on Deeds renting)
-- taxing selling income (2.5% on Deeds sales)
-- perceiving transaction fees over the use of the perks stores
-- acting as a liquidity pool provider
+- beskattning av passiva inkomster (3 % på uthyrning av handlingar)
+- Beskattning av försäljningsinkomster (2,5 % på försäljning av handlingar).
+- att transaktionsavgifter uppfattas som mer än användning av förmånsbutiker
+- agera som leverantör av en likviditetspool
 - perceiving transaction fees when a Deed distributes non Meeds tokens via WoM services.
 - by operating the Deeds that the association minted over time.
 
