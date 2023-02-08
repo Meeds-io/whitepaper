@@ -1,153 +1,153 @@
 
-# 2. Deeds NFT - Organizações do Metaverso do Trabalho
+# 2. Deeds NFT - Organizações do Work Metaverse
 
-## 2.1. NFT - Deeds definidas
+## 2.1. NFT - Ações definidas
 
-Uma ficha não fungível (NFT) é uma ficha única que representa um bem. No WoM, um Deed é usada como título de propriedade. Cada Deed dá a seu proprietário o direito de acessar vários serviços - por exemplo, um acesso a um escritório digital, alimentado pelo software Meeds e o direito de cunhar Meeds.
+Uma ficha não fúngica (NFT) é uma ficha única que representa um bem. Na WoM, uma Escritura é usada como título de propriedade. Cada escritura dá a seu proprietário o direito de acessar vários serviços - por exemplo, um acesso a um escritório digital, alimentado pelo software Meeds e o direito de cunhar Meeds.
 
-The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM. O Deed representa sua existência digital na WoM.
+A WoM acolhe todos os tipos de organizações - DAOs, corporações tradicionais, associações, grupos de reflexão, parcerias, companhias de teatro, grupos de projeto, escolas, etc. A Escritura representa sua existência digital na WoM.
 
-## 2.2. Fornecimento de Deeds
+## 2.2. Fornecimento de escrituras
 
-A WoM acabará por fornecer uma quantidade limitada de Ações. Cada Deed inclui um número máximo predefinido de usuários e oferece uma capacidade de Meeds gratificante (Minting Power). O termo "usuário" aqui e daqui em diante designa qualquer tipo de funcionário, trabalhador, autônomo, voluntário, etc.
+A WoM eventualmente fornecerá uma quantidade limitada de estoques. Cada Deed inclui um número predefinido máximo de usuários e oferece uma capacidade de Meeds gratificante (Minting Power). O termo "usuário" aqui e adiante designa qualquer tipo de funcionário, trabalhador, freelancer, voluntário, etc.
 
-Existem quatro tipos de Deeds, cada um fornecendo diferentes capacidades em termos de número de usuários, direitos de voto em uma cidade (ver 2.7) ou Meeds minting power, sendo o mais raro o mais poderoso :
+Existem quatro tipos de Deeds, cada um fornecendo diferentes capacidades em termos de número de usuários, direitos de voto em uma cidade (veja 2.7) ou poder de criação de Meeds, sendo o mais raro o mais poderoso:
 
-| **Tipo de Deed** | **Máximo de Usuários** | **Poder de cunhagem** | **Escassez** | **Direito de voto da cidade** |
-| ---------------- | ---------------------- | --------------------- | ------------ | ----------------------------- |
-| Comum            | 100                    | 1                     | ~ 90%        | 1                             |
-| Não comum        | 1000                   | 1.1                   | ~ 9%         | 10                            |
-| Raro             | 10 000                 | 1.3                   | ~ 1%         | 100                           |
-| Lendário         | ilimitado              | 2                     | < 0.1 %      | 1000                          |
+| **Tipo de escritura** | **Max usuários** | **Potência de cunhagem** | **Scarcidade** | **Direitos de voto da cidade** |
+| --------------------- | ---------------- | ------------------------ | -------------- | ------------------------------ |
+| Ordinárias            | 100              | 1                        | ~ 90%          | 1                              |
+| Inusitado             | 1000             | 1.1                      | ~ 9%           | 10                             |
+| Raros                 | 10 000           | 1.3                      | ~ 1%           | 100                            |
+| Legenda               | ilimitada        | 2                        | < 0.1 %        | 1000                           |
 
-## 2.3. Propriedade dos Deeds
+## 2.3. Propriedade das escrituras
 
-Um Deed dá a seu proprietário o direito de UTILIZÁ-LO, ALUGUIÁ-LO ou VENDÁ-LO.
+Uma Escritura dá a seu proprietário o direito de UTILIZÁ-LO, ALUGUIÁ-LO ou VENDÁ-LO.
 
-- USO - Os proprietários do Deed podem usar o Deed diretamente para sua organização, prestando serviços a seus usuários.
-- ALUGUER - Os proprietários do Deed também podem alugar o Deed para outra organização a fim de obter renda passiva.
-- SELL - Um Deed pode ser vendida em um mercado secundário como [OpenSea](https://opensea.io).
+- USE - Os proprietários da Escritura podem usar a Escritura diretamente para sua organização, prestando serviços a seus usuários.
+- RENT - Os proprietários da escritura também podem alugar a escritura para outra organização a fim de obter renda passiva.
+- SELL - Uma escritura pode ser vendida em um mercado secundário como [OpenSea](https://opensea.io).
 
-Sendo um titular ativo ou locatário de um Deed, a organização é recompensada com Meeds, através de um modelo inovador de "mintium" descrito abaixo (parte 2.6).
+Sendo um detentor ativo ou locatário de um Deed, a organização é recompensada com Meeds, através de um modelo inovador de "mintium" descrito abaixo (parte 2.6).
 
-## 2.4. Serviços de Deeds, motor de engajamento/recompensa
+## 2.4. Serviços de escrituras, motor de engajamento/recompensa
 
-Em um mercado cada vez mais competitivo, a fim de atrair e reter talentos e maximizar sua contribuição, as organizações precisam incentivar seus usuários além da simples compensação. O WoM fornece uma estrutura inovadora para fazer isso através de um compromisso de trabalho.
+Em um mercado cada vez mais competitivo, para atrair e reter talentos e maximizar seu input, as organizações precisam incentivar seus usuários além da simples compensação. O WoM fornece um framework inovador para fazer isso tokenizando o engajamento no trabalho.
 
-Cada titular ou locatário do Deed pode fornecer ferramentas e serviços a seus usuários, que ganham pontos de compromisso que podem ser ajustados de acordo com as prioridades do Deed. Periodicamente, os pontos são convertidos em Meeds (e - para DAOs - potencialmente outro sinal), com base no orçamento estabelecido pelo Deed. Dessa forma, o envolvimento dos usuários em atividades que são importantes para a organização é recompensado.
+Cada titular ou locatário da Escritura pode fornecer ferramentas e serviços a seus usuários, que ganham pontos de compromisso que podem ser ajustados de acordo com as prioridades da Escritura. Periodicamente, pontos são convertidos em Meeds (e, para DAOs, potencialmente em outro token), com base no orçamento definido pelo Deed. Dessa forma, o engajamento dos usuários em atividades que importam para a organização é recompensado.
 
-Para começar, os seguintes serviços gratuitos fornecidos pela associação Meeds podem ser usados para recompensar o engajamento:
+Para começar, os seguintes serviços gratuitos fornecidos pela associação Meeds podem ser usados para recompensar o envolvimento:
 
-- **Gamification engine** - as ações automáticas dentro do WoM têm um peso em pontos, que podem ser ajustados às prioridades do Deed através de programas de engajamento personalizáveis.
-- **Challenges** - desafios personalizáveis podem ser estabelecidos para representar conquistas. Os challenges são predefinidos por uma pessoa e podem ser preenchidos e anunciados como tal por outra pessoa. Os challenges carregam um peso em pontos, dentro de programas de engajamento personalizáveis.
-- **Programas de engajamento customizáveis** - as organizações podem criar seus próprios programas de engajamento que atendam às suas metas e prioridades comerciais. Os programas estão associados a ações automáticas dentro do sistema e definem desafios manualmente. Cada programa tem um orçamento Meeds definido. Periodicamente, os pontos ganhos por cada usuário através de ações automáticas ou anunciadas em cada programa de engajamento são convertidos em Meeds, com base no orçamento desse programa.
-- **Kudos** - kudos podem ser concedidos pelos usuários uns aos outros, como um agradecimento e um sinal de reconhecimento. Como os kudos disponíveis para distribuição são limitados (um limite periódico predefinido, 3 por semana, por exemplo), eles são raros e valiosos. Como as ações, os kudos carregam pontos. Desta forma, os funcionários têm o poder de recompensar seus colegas.
-- **Collaboration** ferramentas, ligadas ao motor gratificante - espaços de trabalho, comunicação assíncrona, uma ferramenta de gerenciamento de tarefas e notas - permitem que as pessoas trabalhem juntas em projetos.
-- **Wallet** - os usuários recebem uma carteira segura com tecnologia Ethereum para armazenar seus Meeds. AlteMetrnativamente, para usuários avançados, uma carteira amask pode ser usada.
-- **Store** - uma loja onde o Meeds pode ser trocado por benefícios fornecidos pelo titular do Deed ou locatário ou pelo ecossistema Meeds.
-- **Analíticos** - para analisar e seguir o compromisso dentro do Deed.
-- **Connectors**, conectados ao motor de recompensa - os usuários recebem pontos de compromisso através de ações em outro software - por exemplo, para cometer código no GitHub.
+- **Motor de Gamificação** - ações automáticas dentro do WoM têm um peso em pontos, que podem ser ajustados às prioridades do Deed através de programas de engajamento personalizáveis.
+- **Desafios** - desafios personalizáveis podem ser criados para representar realizações. Os desafios são definidos por uma pessoa e podem ser cumpridos e anunciados como tal por outra. Os desafios têm um peso em pontos, dentro de programas de engajamento personalizáveis.
+- **Programas de engajamento personalizáveis** - as organizações podem criar seus próprios programas de engajamento correspondentes aos seus objetivos e prioridades de negócios. Programas são associados às ações automáticas dentro do sistema e desafios definidos manualmente. Cada programa tem um orçamento Meeds. Pontos ganhos periodicamente por cada usuário através de ações automáticas ou anunciadas em cada programa de engajamento são convertidos em Meeds, com base no orçamento desse programa.
+- ** Kudos ** - os kudos podem ser concedidos por usuários uns aos outros como um obrigado e uma forma de reconhecimento. Como os kudos disponíveis para distribuição são limitados (um limite periódico pré-definido, por exemplo, 3 por semana), eles são raros e valiosos. Como as ações, kudos carregam pontos. Desta maneira, os funcionários têm o poder de recompensar seus colegas.
+- **Colaboração** ferramentas, conectadas ao motor gratificante - espaços de trabalho, comunicação assíncrona, uma ferramenta de gerenciamento de tarefas e notas - permitem que as pessoas trabalhem juntas em projetos.
+- **Carteira** - os usuários recebem uma carteira segura baseada na tecnologia Ethereum para armazenar seus Meeds. Como alternativa, usuários avançados podem usar uma carteira Metamask.
+- **Loja** - uma loja onde Meeds podem ser trocados por benefícios fornecidos pelo detentor da Deed ou pelo locador ou pelo ecossistema Meeds.
+- **Análise** - para analisar e acompanhar o engajamento dentro da Deed.
+- **Conectores**, plugados na engine de recompensa - os usuários recebem pontos de engajamento por ações em outro software, por exemplo, ao commitar código no GitHub.
 
-Algumas das ferramentas e serviços mencionados acima já estão descentralizados, outras não. O objetivo final é fornecer todos os serviços de forma descentralizada, o que faremos gradualmente à medida que a tecnologia subjacente evolui.
+Algumas das ferramentas e serviços mencionados anteriormente já são descentralizados, outros não são. O objetivo final é fornecer todos os serviços de maneira descentralizada, o que faremos gradualmente à medida que a tecnologia subjacente evolui.
 
-Novos serviços podem ser conectados ao mecanismo de recompensa através de APIs. Os exemplos são incontáveis e podem incluir praticamente qualquer software ou serviço:
+Novos serviços podem ser conectados ao motor de recompensas através de APIs. Exemplos são incontáveis e podem incluir virtualmente qualquer software ou serviço:
 
-- Software CRM - os vendedores obteriam pontos de engajamento para trabalhar em oportunidades.
-- Software de contabilidade - os contadores obteriam pontos de compromisso para manter os livros.
-- Terminal de relógio - o trabalhador de fábrica pode obter pontos pelo tempo de trabalho de fábrica.
-- Etc.
+- Software CRM - os vendedores receberiam pontos de engajamento por trabalhar em oportunidades.
+- Software de contabilidade - contadores ganhariam pontos de engajamento por manter livros.
+- Terminal de ponto - trabalhador de fábrica pode ganhar pontos pelo tempo de trabalho na fábrica.
+- Et cetera.
 
-Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. Para fazer isso, o conector precisa ser listado na lista branca da Meeds Association. A associação revisa o conector, aprova seu algoritmo e adquire sua propriedade contra a Meeds. Em seguida, torna-se parte dos serviços gratuitos prestados pela associação e incluída no índice de engajamento global. Qualquer outro Deed pode usar o mesmo conector e o mesmo algoritmo de recompensa para seus desenvolvedores.
+Além disso, o engajamento produzido através do conector participa da pontuação global de engajamento da organização, que é um fator da distribuição de moeda Meeds, descrita abaixo. Está correto. A tradução para o português brasileiro está correta. A associação revisa o conector, aprova seu algoritmo e adquire sua propriedade contra Meeds. Em seguida, ele se torna parte dos serviços gratuitos fornecidos pela associação e é incluído no índice global de engajamento. Qualquer outra Deed pode usar o mesmo conector e o mesmo algoritmo de recompensa para seus desenvolvedores.
 
-The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless: Lá novamente as possibilidades são infinitas:
+O titular ou locatário da Deed pode enriquecer sua loja com suas próprias vantagens, conectar-se a uma oferta de vantagens online, etc. Novamente, as possibilidades são infinitas:
 
-- Cursos de treinamento
-- Afiliação a ginásios
-- Pacotes de férias
-- Almoço com um líder da organização
-- Physical office space
-- Etc.
+- Cursos de capacitação
+- Afiliação ao ginásio
+- Pacotes de feriados
+- Almoço com um líder na organização
+- Espaço físico de escritório
+- Et cetera.
 
-A loja funciona através do uso do Meeds para que o Meeds seja parcialmente devolvido para o Deed.
+A loja funciona através do uso de Meeds, de forma que Meeds são parcialmente retornados à Deed.
 
-## 2.5. Recompensas - Meeds e outros tokens
+## 2.5. Recompensas - Meeds e outras fichas
 
-O WoM irá demonstrar o engajamento dos usuários, através da gamificação de ferramentas de trabalho digitais e da atribuição de pontos e Meeds em relação ao engajamento no trabalho. Os serviços conectados ao motor de engajamento e recompensa apontam para cada usuário, de acordo com seu nível de engajamento e em linha com os programas de engajamento de cada Deed. De fato, cada Deed pode afinar a quantidade de pontos dados para cada tipo de atividade. Assim, empurrar algum código em GitHub pode valer 10 pontos para uma loja de TI, enquanto uma agência digital pode atribuir apenas 5 pontos para GitHub empurra, mas ofereceria 10 pontos para reimplantes.
+A WoM irá tokenizar o engajamento dos usuários, gamificando as ferramentas de trabalho digital e atribuindo pontos e Meeds em relação ao engajamento no trabalho. Serviços conectados ao motor de engajamento e recompensa atribuem pontos a cada usuário, de acordo com seu nível de engajamento e de acordo com os programas de engajamento de cada Deed. De fato, cada Deed pode ajustar a quantidade de pontos dados para cada tipo de atividade. Assim, enviar algum código no GitHub pode valer 10 pontos para uma loja de TI, enquanto uma agência digital pode atribuir apenas 5 pontos para empurrões no GitHub, mas ofereceria 10 pontos para retweets.
 
-Periodicamente, o motor recompensador converte pontos de compromisso em Meeds de acordo com orçamentos e outras regras de distribuição e, em última instância, recompensa os usuários através de suas carteiras. O Deed não é obrigada a distribuir Meeds e pode usar o sistema de engajamento para permitir alguma outra forma de programa de compensação. Entretanto, a distribuição do Meeds melhorará sua capacidade de cunhagem.
+Periodicamente, o motor de recompensa converte pontos de engajamento em Meeds de acordo com orçamentos e outras regras de distribuição e, finalmente, recompensa os usuários através de suas carteiras. A Deed não é obrigada a distribuir Meeds e pode usar o sistema de engajamento para habilitar algum outro tipo de programa de compensação. No entanto, distribuir Meeds melhorará sua capacidade de cunhagem.
 
-Além disso, a Deed não precisa necessariamente adquirir Meeds para distribuí-los e alimentar seus programas de engajamento, pois obterá Meeds do modelo "mintium", descrito abaixo.
+Além disso, a Deed não precisa necessariamente adquirir Meeds para distribuí-los e alimentar seus programas de engajamento, pois receberá Meeds do modelo "mintium", descrito abaixo.
 
-Além do Meeds, também será possível distribuir outros tokens (por exemplo, os próprios tokens do DAO) com base no mesmo mecanismo de engajamento. Nesse caso, a distribuição estará sujeita a uma taxa de transação de 5% (em token DAO) para a Associação Meeds.
+Além de Meeds, também será possível distribuir outros tokens (por exemplo, os próprios tokens da DAO) com base no mesmo mecanismo de engajamento. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) to the Meeds Association.
 
-## 2.6. O modelo de "mintium" - tokenize o compromisso de trabalho
+## 2.6. O modelo de "mintium" - tokenize o trabalho
 
-Ao envolver seus usuários na WoM, os Deeds são compensados através de um modelo inovador de mintium.
+Ao envolver os seus usuários no WoM, os Deeds são compensados através de um modelo inovador de mintium.
 
-Os pontos de engajamento, obtidos pelos usuários dos Deeds, participam do índice de engajamento global, calculado pela Meeds Association. O índice usa o mesmo princípio para todos os Deeds. Mesmo que o Deed possa alterar a alocação de pontos para promover uma ação em detrimento de outra, essas mudanças não serão levadas em conta no cálculo do índice global.
+Os pontos de engajamento, obtidos pelos usuários dos Deeds, participam do índice global de engajamento, calculado pela Associação Meeds. O índice utiliza o mesmo princípio para todos os Deeds. Apesar de o Deed poder mudar a alocação de pontos para promover uma ação sobre outra, essas mudanças não serão levadas em consideração na computação do índice global.
 
-Toda semana, uma certa quantidade de Meeds é alocada para a cunhagem de engajamento global do WoM. É computado semanalmente, proporcionalmente, entre os Deeds participantes. Alguns Deeds recebem um impulso adicional dependendo de seu tipo. Os Deeds que reclamam seus Meeds durante a semana, os recebem. Os Meeds não reclamados são adicionados ao valor da distribuição global da semana seguinte.
+Cada semana, uma certa quantidade de Meeds é alocada para a criação de moedas de engajamento global da WoM. É computado semanalmente, proporcionalmente, entre os Escritos participantes. Alguns Deeds recebem um impulso adicional dependendo do seu tipo. Os Deeds que solicitam seus Meeds durante a semana, os recebem. Os Meeds não solicitados são adicionados à quantidade de distribuição global da próxima semana.
 
-A pontuação do compromisso _S_ de um Deed é uma função do compromisso, do número de usuários comprometidos e da distribuição :
+A pontuação de engajamento _S_ de um Deed é uma função do engajamento, do número de usuários engajados e da distribuição:
 
 $$S = (E_d / E_w) * D_r * D_s * M$$
 
-Onde :
+Em que : :
 
-- $A$ = _Atividade_ - número total de ações acumuladas pelos usuários dentro do Deed ao longo da semana. (No nível de cada Deed, cada ação é convertida em pontos de compromisso, algumas ações pesando mais do que outras. No nível do índice, todas as ações são linearizadas).
-- $U$ = _Utilizadores idosos_ - usuários que contribuíram com pontos durante a semana, por pelo menos uma ação.
-- $E_d$ = _ Taxa de administração do deed_ - ações por usuário ($A/U$)
-- $E_w$ = _A taxa média de engajamento_ de todas as Ações ativas no WoM.
-- $D_r$ = _ Taxa de distribuição_ - se um Deed recebida cunhou Meeds para o período anterior, a % do Meeds que foi distribuída a seus usuários. A % pode estar acima de 100 se a distribuição for atrasada no tempo.
-- $D_s$ = _Spread de distribuição_ - se um Deed recebida cunhou Meeds para o período anterior, a % dos usuários que receberam Meeds no pool total de usuários.
-- $M$ = _Poder de cunhagem_ da Escritura como definido em 2.3
-
-
-O índice de engajamento global usado para distribuir o Meeds cunhado entre os Deeds é a soma de todas as pontuações de engajamento dos Deeds para a semana.
+- $A$ = _Atividade_ - número total de ações acumuladas pelos usuários dentro do Deed durante a semana. (Em cada nível de Deed, cada ação é convertida em pontos de engajamento, algumas ações pesando mais do que outras. No nível de indexação, todas as ações são linearizadas).
+- $U$ = _Usuários engajados_ - usuários que contribuíram com pontos durante a semana, pelo menos uma ação.
+- $E_d$ = _Taxa de engajamento do deed_ - ações por usuário ($A/U$)
+- $E_w$ = _Taxa de engajamento média_ de todos os Deeds ativos na WoM.
+- $D_r$ = _Taxa de distribuição_ - se um Deed recebeu Meeds criados para o período anterior, o % de Meeds que foi distribuído para seus usuários. O % pode ser acima de 100 se a distribuição for atrasada no tempo.
+- $D_s$ = _Propagação da distribuição_ - se um Deed recebeu Meeds criados para o período anterior, o % de usuários que receberam Meeds na piscina total de usuários.
+- $M$ = _Poder de criação_ do Deed como definido em 2.3
 
 
-A fórmula acima é simples e projetada para favorecer as ações :
+O índice global de engajamento usado para distribuir Meeds criados entre os Deeds é a soma de todas as pontuações de engajamento dos Deeds para a semana.
 
-- com muitos usuários engajados (engajamento)
-- que compartilham toda a renda da cunhagem (taxa de distribuição) com seus usuários de forma justa (spread de distribuição).
 
-Adicionalmente, existem reforços adicionais para :
+A fórmula acima é simples e projetada para favorecer deeds:
 
-- organizações com maior engajamento, independentemente de seu tamanho (taxa de engajamento em relação à WoM)
-- deeds mais escassas
+- com muitos usuários engajados (comprometidos)
+- que compartilham toda a renda de criação (taxa de distribuição) de maneira justa com seus usuários (propagação da distribuição).
 
-> A associação Meeds se reserva o direito de mudar a fórmula se necessário - se alguns casos específicos de uso surgirem, por exemplo. A associação também pode colocar na lista negra qualquer Deed que se aproprie da fórmula em seu benefício único.
+Além disso, há impulsionadores para:
 
-Como os Deeds são recompensados com Meeds e incentivados a redistribuí-los como recompensas para seus usuários contra seu engajamento - o interesse tanto dos Deeds quanto de seus usuários está alinhado no mesmo ciclo virtuoso de compartilhamento de receitas. Assim, o WoM oferece um novo modelo de trabalho, que reestruturou a relação empregador/empregado como uma parceria.
+- organizações com o maior engajamento, independentemente de seu tamanho (taxa de engajamento em relação ao WoM)
+- ações mais escassas
 
-O modelo "mintium" é o primeiro do gênero - ele vai além do tradicional modelo freemium, pois não apenas os serviços são gratuitos, mas tanto as organizações quanto seus usuários são recompensados por utilizá-los.
+> A associação Meeds reserva o direito de mudar a fórmula se necessário - por exemplo, se surgirem casos de uso específicos. A associação também pode colocar na lista negra qualquer Ata que sequestre a fórmula para seu benefício exclusivo.
 
-## 2.7. Cidades e governança
+Como as Atas são recompensadas com Meeds e incentivadas a redistribuí-los como recompensas para seus usuários em troca de seu envolvimento - os interesses das Atas e de seus usuários estão alinhados no mesmo ciclo virtuoso de compartilhamento de receita. Assim, o WoM oferece um novo modelo de trabalho que reformula a relação empregador/empregado como uma parceria.
 
-No WoM, os Deeds serão gerados gradualmente dentro das cidades virtuais. Somente a primeira cidade existirá desde o início. Os outros serão construídos gradualmente, um após o outro. Em toda o WoM, haverá sempre apenas 7 cidades, cada uma delas incluindo um número fixo de escrituras de cada tipo.
+O modelo "mintium" é o primeiro do seu tipo - ele vai além do tradicional freemium, pois não apenas os serviços são gratuitos para uso, mas tanto as organizações quanto seus usuários são recompensados por usá-los.
 
-Uma cidade será considerada completa, uma vez que todos os seus atos tenham sido cunhados. Então, a cunhagem de cada nova cidade começará $2^n$ meses após a última escritura da cidade de $n-1$ ter sido cunhada.
+## 2.7. As cidades e a governança
 
-| **Nome da cidade** | **Deeds**   | **Disponível**      | **Comum**  | **Não comum** | **Raro**  | **Lendário** |
-| ------------------ | ----------- | ------------------- | ---------- | ------------- | --------- | ------------ |
-| 1: Tanit           | 100         | T0                  | 50         | 30            | 13        | 7            |
-| 2: Reshef          | 1 000       | Tanit + 4 meses     | 600        | 300           | 94        | 6            |
-| 3: Ashtarte        | 10 000      | Reshef + 8 meses    | 6 000      | 3 000         | 995       | 5            |
-| 4: Melqart         | 100 000     | Ashtarte + 16 meses | 60 000     | 30 000        | 9 996     | 4            |
-| 5: Eshmun          | 1 000 000   | Melqart + 32 meses  | 600 000    | 300 000       | 99 997    | 3            |
-| 6: Kushor          | 10 000 000  | Eshmum + 64 meses   | 6 000 000  | 3 000 000     | 999 998   | 2            |
-| 7: Hammon          | 100 000 000 | Kushor + 128 meses  | 60 000 000 | 30 000 000    | 9 999 999 | 1            |
+No WoM, as Atas serão geradas gradualmente dentro de cidades virtuais. Só a primeira cidade existirá desde o início. As outras serão construídas gradualmente, uma depois da outra. Em todo o WoM, haverá sempre apenas 7 cidades, cada uma incluindo um número fixo de Atas de cada tipo.
 
-Uma cidade é uma forma de os Deeds se reunirem e criarem uma comunidade. E, como consequência, adquirir uma certa identidade, associada a essa comunidade. É também uma forma de proporcionar valor adicional a seus usuários - valor que iria além das capacidades de um Deed ou valor criado através da cooperação entre os Deeds.
+Uma cidade será considerada completa quando todas as suas Atas tiverem sido cunhadas. Em seguida, a cunhagem de cada nova cidade começará $2^n$ meses após a última Ata da cidade $n-1$ ter sido cunhada.
 
-Cada cidade tem seu próprio convênio e opera seu próprio DAO onde os proprietários dos Deeds da cidade podem eleger seu conselho municipal, votar e estabelecer suas próprias regras operacionais, adicionar novos serviços e moldar sua cidade da maneira que quiserem e de modo a aumentar a atratividade da cidade e o valor das escrituras anexadas a ela.
+| **Nome da Cidade** | **Ações**   | **Disponível em**   | **Ordinárias** | **Inusitado** | **Raros** | **Legenda** |
+| ------------------ | ----------- | ------------------- | -------------- | ------------- | --------- | ----------- |
+| 1: Tanit           | 100         | T0                  | 50             | 30            | 13        | 7           |
+| 2: Reshef          | 1 000       | Tanit + 4 meses     | 600            | 300           | 94        | 6           |
+| 3: Ashtarte        | 10 000      | Reshef + 8 meses    | 6 000          | 3 000         | 995       | 5           |
+| 4: Melqart         | 100 000     | Ashtarte + 16 meses | 60 000         | 30 000        | 9 996     | 4           |
+| 5: Eshmun          | 1 000 000   | Melqart + 32 meses  | 600 000        | 300 000       | 99 997    | 3           |
+| 6: Kushor          | 10 000 000  | Eshmum + 64 meses   | 6 000 000      | 3 000 000     | 999 998   | 2           |
+| 7: Hammon          | 100 000 000 | Kushor + 128 meses  | 60 000 000     | 30 000 000    | 9 999 999 | 1           |
 
-Por exemplo, eles poderiam acrescentar uma representação digital de sua cidade, contrapartidas físicas associadas à sua cidade (salas de reunião em espaços físicos de co-trabalho, por exemplo), acrescentar serviços de alimentação alimentados pelo Meeds, serviços de férias, etc...
+Uma cidade é uma forma para as Atas se unirem e criarem uma comunidade. E como consequência, adquirir uma certa identidade associada àquela comunidade. Também é uma forma de fornecer valor adicional aos seus usuários - valor que iria além das capacidades de uma única Ata ou valor criado através da cooperação entre as Atas.
 
-Por padrão (a menos que a cidade vote em contrário), a renda passiva proveniente do aluguel de escrituras será "tributada" pela cidade (5%) e pela Associação (3%) para incentivar o uso produtivo.
+Cada cidade tem sua própria governança e opera seu próprio DAO, onde os proprietários das Atas da cidade podem eleger seu conselho municipal, votar e estabelecer suas próprias regras de operação, adicionar novos serviços e moldar sua cidade da maneira que desejam e aumentar a atratividade da cidade e o valor das Atas anexadas a ela.
 
-As transações de propriedade (vendas do Deed) também serão tributadas a 6%:
+Por exemplo, eles poderiam adicionar uma representação digital de sua cidade, contrapartes físicas associadas à sua cidade (sala de reuniões em espaços de co-working físicos, por exemplo), adicionar serviços alimentares com Meeds, serviços de férias, etc...
 
-- 2,5% para a cidade,
-- 2,5% para a Associação,
-- 1% para a carteira original que resgatou o Deed.
+Por padrão (a menos que a cidade vote de outra forma), a renda passiva de aluguel de Atas será "taxada" pela cidade (5%) e pela Associação (3%) para incentivar o uso produtivo.
+
+As transações de propriedade (vendas da Deed) também serão tributadas a 6%:
+
+- 2,5% para a Cidade,
+- 2,5% para a associação,
+- 1% para a carteira original que resgatou a Escritura.
