@@ -2,40 +2,40 @@
 
 ## Abstract
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
+De huidige arbeidsmarkt is niet efficiënt genoeg vanwege de hoge transactiekosten[^1][^2][^3] en frequente belangenconflicten tussen de werkgever en de werknemer.
 
-The Work Metaverse (the WoM) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
+De Work Metaverse (de WoM) stelt een nieuw paradigma voor dat de transactiekosten zou verlagen en de arbeidsrelatie opnieuw zou uitvinden, waarbij de kloof tussen traditionele bedrijven en DAOs wordt overbrugd.
 
-The WoM does that by introducing digital identities for both employer and employee and offering an innovative engagement reward system that would align their interests.
+De WoM doet dat door digitale identiteiten voor zowel werkgever als werknemer in te voeren en een innovatief systeem van engagementbeloning aan te bieden dat hun belangen op elkaar afstemt.
 
-## Introduction
+## Inleiding
 
-The work market today is broken. It fails to satisfy both employees and employers.
+De huidige arbeidsmarkt is kapot. Zowel werknemers als werkgevers zijn niet tevreden.
 
-On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
+Aan werknemerszijde is het moeilijk de juiste banen te vinden. De arbeidsmarkt bevoordeelt bepaalde soorten mensen en laat grote vaardigheden achterwege. Dit komt door een reeks menselijke vooroordelen - op basis van ras, geslacht, handicap, introvertheid enz. De arbeidsmarkt is ook niet transparant wat betreft de beschikbare banen en de arbeidsvoorwaarden.
 
-Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
+Eenmaal in dienst worden de persoonlijke vrijheden van werknemers geschonden in ruil voor compensatie. Werknemers hebben weinig inspraak in hun werktijden, werkplek, werkinhoud of werkmethoden. En hun beloning is zelden gekoppeld aan hun werkelijke inzet of waarde. Beloningsregels zijn niet transparant en worden daarom als oneerlijk ervaren. Bovendien zijn compensatie en loopbaanontwikkeling ook afhankelijk van de menselijke factor - de goede trouw en objectiviteit van de werknemer en zijn directe manager.
 
-Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
+Werkgevers daarentegen ondervinden moeilijkheden bij het vinden van talent en het aannemen van de juiste vaardigheden en de juiste fit op het juiste moment voor de baan. Er is geen objectieve manier om de vaardigheden van de potentiële werknemer vast te stellen of om mensen buiten de traditionele aanwervingspool van de werkgever aan te trekken.
 
-Employers also deal with the lack of loyalty from their employees and a high turnover, both of which, increase hiring and on-boarding costs.
+Werkgevers hebben ook te maken met een gebrek aan loyaliteit van hun werknemers en een hoog verloop, die beide de kosten voor aanwerving en indiensttreding verhogen.
 
-Moreover, employers also face low engagement in their existing employees, leading to low creativity, productivity and innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
+Bovendien worden werkgevers ook geconfronteerd met een lage betrokkenheid van hun bestaande werknemers, wat leidt tot een lage creativiteit, productiviteit en innovatie. Dit laatste brengt des te meer schade toe in de huidige economie die meer geschoold creatief werk vereist.
 
-All of the above boil down to high transaction costs and the exacerbated agent-principal problem[^4] :
+Al het bovenstaande komt neer op hoge transactiekosten en het verergerde agent-hoofdprobleem[^4] :
 
-- With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element. But transactions costs are still too high in the absence of objectivity element.
-- As to the agent-principal problem, it has been compounded by the increasing revenue and wealth gap between employees and shareholders and the rigidity of the employer-employee relationship.
+- Met internet zijn de arbeidsmarkten geëvolueerd naar meer eenheid en transparantie dankzij sites met vacatures, carrièresites, enz. Maar de transactiekosten zijn nog steeds te hoog bij gebrek aan objectiviteit.
+- Het probleem van de agent-principaal is nog verergerd door de toenemende kloof tussen werknemers en aandeelhouders wat betreft inkomsten en rijkdom, en de starheid van de relatie tussen werkgever en werknemer.
 
-The WoM aims at solving both through a new decentralized work paradigm.
+De WoM wil beide oplossen via een nieuw gedecentraliseerd werkmodel.
 
-Following R. Coase’s works[^5], most economists link the concept of enterprise with the necessity to mitigate transaction costs. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs[^6] started this process focusing on lowering the cost of transactions for capital sourcing and governance. The WoM aims at pushing this logic further by lowering the cost of work transactions. It proposes a decentralized world where jobs and skills matching could be done objectively, quickly and globally.
+Naar aanleiding van de werken van R. Coase[^5], koppelen de meeste economen het begrip onderneming aan de noodzaak om de transactiekosten te beperken. Internet en meer recent blockchain en web3 openen spannende mogelijkheden om de transactiekosten overal te verlagen, de economie en in het bijzonder de onderneming opnieuw uit te vinden. De eerste DAOs[^6] begon dit proces met de nadruk op verlaging van de transactiekosten voor het aantrekken van kapitaal en governance. De WoM wil deze logica verder doorvoeren door de kosten van werktransacties te verlagen. Het stelt een gedecentraliseerde wereld voor waarin banen en vaardigheden objectief, snel en wereldwijd op elkaar kunnen worden afgestemd.
 
-The first DAOs flatten the hierarchies and open ownership. The WoM pursues this logic by reinventing rather than suppressing the employer/employee relationship. It introduces a transparent, objective and decentralized reward paradigm, that would sustainably align the employer and the employee interests.
+De eerste DAO's vlakken de hiërarchieën af en openen het eigenaarschap. De WoM volgt deze logica door de relatie tussen werkgever en werknemer opnieuw uit te vinden in plaats van te onderdrukken. Het introduceert een transparant, objectief en gedecentraliseerd beloningsparadigma dat de belangen van de werkgever en de werknemer duurzaam op elkaar afstemt.
 
-Finally, the Work Metaverse bridges the gap between corporations and the DAOs. On the other hand, it proposes sustainable ways to operate and create value for DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. Ultimately, the WoM could be among the first mainstream applications to democratize the use of the blockchain for every company and every employee – including non-digital ones.
+Ten slotte slaat de Work Metaverse een brug tussen ondernemingen en DAO's. Het stelt duurzame manieren voor om te werken en waarde te creëren voor Dao's. Enerzijds introduceert het traditionele bedrijven in de gedecentraliseerde wereld via een eenvoudig toe te passen beloningsparadigma voor engagement, als aanvulling op hun beloningssystemen. Uiteindelijk zou de WoM een van de eerste mainstream toepassingen kunnen zijn om het gebruik van de blockchain te democratiseren voor elk bedrijf en elke werknemer - ook de niet-digitale.
 
-As with any decentralized venture, the WoM proposal gains in value exponentially as more people use it. For that reason, founders took great care to encourage long term interest and avoid monopolizing the WoM benefits, whether short term or long term. It is an open paradigm, still to be built, and open to active creative participation from everyone.
+Zoals bij elke gedecentraliseerde onderneming wint het WoM-voorstel exponentieel aan waarde naarmate meer mensen het gebruiken. Om die reden hebben de oprichters grote zorg besteed aan het aanmoedigen van belangstelling op lange termijn en het vermijden van monopolisering van de WoM-voordelen, zowel op korte als op lange termijn. Het is een open paradigma, nog te bouwen, en open voor actieve creatieve deelname van iedereen.
 
 
 [^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)
