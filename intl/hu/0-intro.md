@@ -1,37 +1,37 @@
 
 
-## Abstract
+## Absztrakt
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
+A mai munkaerőpiacon hiányzik a hatékonyság a magas tranzakciós költségek miatt.[^1][^2][^3]és a munkáltató és a munkavállaló közötti gyakori érdekellentétek.
 
-The Work Metaverse (the WoM) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
+A Munka Metaverse (a WoM) új paradigmát javasol, amely csökkentené a tranzakciós költségeket és újragondolná az alkalmazotti kapcsolatot, így áthidalva a hagyományos vállalatok és a DAO-k közti szakadékot.
 
-The WoM does that by introducing digital identities for both employer and employee and offering an innovative engagement reward system that would align their interests.
+A WoM azáltal teszi ezt, hogy digitális identitásokat vezet be az alkalmazó és az alkalmazott számára, és egy innovatív részvételi jutalom rendszert kínál, amely összhangban van az érdekeikkel.
 
-## Introduction
+## Bevezetés
 
-The work market today is broken. It fails to satisfy both employees and employers.
+A mai munkapiac törött. Nem sikerül megelégedésre bírni az alkalmazottakat és a munkáltatókat.
 
-On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
+A munkavállalói oldalon nehéz megtalálni a megfelelő állásokat. A munkaerőpiacon bizonyos típusú személyeknek van előnye, ami jelentős készségek hátrahagyásával jár. Ez egy emberi előítéletek halmazából származik - rasszal, nemmel, fogyatékossággal, befelé fordulóval stb. alapuló. A munkaerőpiacon a rendelkezésre álló pozíciók és a munkafeltételek tekintetében is hiányzik a transzparencia.
 
-Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
+Miután elhelyezkedett, a dolgozó személyes szabadságai korlátozásra kerülnek a jutalom cseréjében. A munkavállalók kevés beleszólása van a munkaóráikban, munkahelyükben, munkatartalmukban vagy munkamódszereikben. És jutalmazásuk ritkán van összefüggésben a valós hozzájárulásukkal vagy értékükkel. A jutalom szabályok hiányosak a transzparenciában, és ezért igazságtalannak tartják őket. Továbbá a juttatások és a karrier haladás is a emberi tényezőtől függ - a munkavállaló azonnali vezetőjének jóindulatától és objektivitásától.
 
-Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
+A munkáltatók oldaláról nézve nehézségek adódnak a megfelelő képességek és alkalmasságú munkaerő megtalálásában és foglalkoztatásában a megfelelő időpontban a munkához. Nincs objektív módja annak, hogy megállapítsák a jelölt képességeit, vagy olyan embereket találjanak meg a munkáltató hagyományos felvételi medencéje kívül.
 
-Employers also deal with the lack of loyalty from their employees and a high turnover, both of which, increase hiring and on-boarding costs.
+A munkáltatók a munkavállalóik lojalitásának hiányával és a magas lemorzsolódási aránnyal is szembesülnek, amelyek mindkettő növeli a felvételi és beilleszkedési költségeket.
 
-Moreover, employers also face low engagement in their existing employees, leading to low creativity, productivity and innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
+Ráadásul az alkalmazók is alacsony motivációt tapasztalnak a jelenlegi munkavállalóikban, ami alacsony kreativitáshoz, termelékenységhez és innovációhoz vezet. A utóbbi még nagyobb kárt okoz a mai gazdaságban, amely több szakképzett kreatív munkát igényel.
 
-All of the above boil down to high transaction costs and the exacerbated agent-principal problem[^4] :
+Az összes fenti levezetődik magas tranzakciós költségekre és súlyosbodott ügynök-főnök problémára[^4] :
 
-- With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element.
-- As to the agent-principal problem, it has been compounded by the increasing revenue and wealth gap between employees and shareholders and the rigidity of the employer-employee relationship.
+- Az internetnek köszönhetően a munkaerőpiacon a munkaajánlatok oldalak, karrier oldalak stb. révén több egység és átláthatóság jött létre. De a tranzakciós költségek még mindig túl magasak az objektivitás elem hiányában.
+- A munkaadó-munkavállaló kapcsolat merevsége és a munkavállalók és részvényesek jövedelem- és vagyonkülönbségének növekedése miatt az ügynök-főnök probléma még nehezebbé vált.
 
-The WoM aims at solving both through a new decentralized work paradigm.
+A WoM célja a decentralizált munka paradigmáján keresztül mindkettő megoldására.
 
-Following R. Coase’s works[^5], most economists link the concept of enterprise with the necessity to mitigate transaction costs. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs[^6] started this process focusing on lowering the cost of transactions for capital sourcing and governance. The WoM aims at pushing this logic further by lowering the cost of work transactions. It proposes a decentralized world where jobs and skills matching could be done objectively, quickly and globally.
+R. Coase munkái követése[^5], a legtöbb közgazdász összekapcsolja a vállalkozás fogalmát a tranzakciós költségek csökkentésének szükségességével. Az internet, és legújabbakban egy blokklánc és a web3 lehetőséget nyit meg a tranzakciók költségeinek csökkentésére mindenhol, újraalkotva a gazdaságot és különösen újraalkotva a vállalatot. Az első DAOs[^6] ezzel a folyamattal a transzakciók költségének csökkentésére fókuszáltunk a tőkeforrások és a vezetőség számára. A WoM célja a munkatranszakciók költségének csökkentésével ennek a logikának további nyomásgyakorlását. Egy decentralizált világot javasol, ahol a munka és a képességek párosítása objektíven, gyorsan és globálisan végezhető.
 
-The first DAOs flatten the hierarchies and open ownership. The WoM pursues this logic by reinventing rather than suppressing the employer/employee relationship. Bevezet egy átlátható, objektív és decentralizált jutalom paradigmát, amely fenntarthatóan összhangban tartja a munkáltató és a munkavállaló érdekeit.
+Az első DAO-k laposítják a hierarchiákat és nyitott tulajdonjogot biztosítanak. A WoM ezzel a logikával újraalkotja, nem pedig elnyomja az alkalmazó/alkalmazott kapcsolatot. Bevezet egy átlátható, objektív és decentralizált jutalom paradigmát, amely fenntarthatóan összhangban tartja a munkáltató és a munkavállaló érdekeit.
 
 Végül a Munka Metaverse áthidalja a társaságok és a DAO-k közti szakadékot. Egyrészt bevezeti a hagyományos vállalatokat a decentralizált világba az egyszerűen alkalmazható részvételi jutalmazási paradigmán keresztül, amely kiegészíti az elismerési rendszereiket. Másrészről, fenntartható módokat javasol a DAO-k működtetésére és értékteremtésére. Végül a WoM lehet az első mainstream alkalmazás, amely demokratikussá teszi a blockchain használatát minden vállalat és dolgozó számára – beleértve azokat is, akik nem digitálisak.
 
