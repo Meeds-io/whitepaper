@@ -1,17 +1,17 @@
 
-# 2. Deeds NFT - Work Metaverse Organizations
+# 2. Deeds NFT - Munka Metaverse Szervezetek
 
-## 2.1. NFT – Deeds defined
+## 2.1. NFT - Deeds ingatlanok
 
-A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+Egy nem cserélhető token (NFT) egy egyedi token, amely egy jót jelképez. A WoM-ban a "Deed" tulajdonosi címként van használva. Minden Deed tulajdonosának jogát adja több szolgáltatás elérésére - például hozzáférés egy digitális irodához, a Meeds szoftver által működtetve és a Meeds megművelésének jogához.
 
-The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM.
+A WoM minden típusú szervezetet üdvözöl - DAO-k, hagyományos vállalatok, szövetségek, gondolkodó csoportok, együttműködések, színházi társulatok, projektcégek, iskolák, stb. A Cselekvés az ő digitális létezésüket jelenti a WoM-ben.
 
-## 2.2. Deeds supply
+## 2.2. Cselekmények szolgáltatása
 
-The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of Meeds rewarding (Minting Power). The term ‘user’ here and hereafter designates any type of employee, worker, freelancer, volunteer etc.
+A WoM végül korlátozott mennyiségű Cselekményt fog szolgáltatni. Minden Cselekmény egy előre meghatározott maximális felhasználószámot tartalmaz és Meeds jutalmazási (Verési teljesítmény) kapacitást kínál. A "felhasználó" fogalma itt és azután bármilyen típusú munkavállalót, dolgozót, önálló vállalkozót, önkéntest stb. jelöl.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
+Négyféle Cselekmény létezik, melyek mindegyike eltérő képességeket kínál a felhasználók számát, a városi szavazati jogokat (lásd 2.7) vagy a Meeds verési teljesítményét illetően, a legritkább a legerősebb:
 
 | **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
 | ------------- | ------------- | ----------------- | ------------ | ---------------------- |
@@ -22,131 +22,131 @@ There are four types of Deeds, each providing different capabilities in terms of
 
 ## 2.3. Deeds ownership
 
-A Deed gives its owner the right to USE it, RENT it, or SELL it.
+A Cselekmény jogot ad annak tulajdonosának arra, hogy HASZNÁLJA, KIKÖLCSÖNÖZZE vagy ELADJA.
 
-- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
-- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
-- SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
+- HASZNÁLAT - A Cselekmény tulajdonosai közvetlenül a szervezetük részére használhatják a Cselekményt, szolgáltatásokat nyújtva a felhasználóiknak.
+- KIKÖLCSÖNZÉS - A Cselekmény tulajdonosai továbbá kikölcsönözhetik a Cselekményt egy másik szervezetnek, hogy passzív jövedelemhez jussanak.
+- ELADÁS - A Cselekmény eladható egy másodlagos piacán, mint például az [OpenSea](https://opensea.io).
 
-Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
+Aktív Cselekménytulajdonos vagy bérlőként, a szervezet Meeds jutalmazásban részesül, az alábbi újszerű "mintium" modell révén (2.6. rész).
 
-## 2.4. Deeds services, engagement/rewards engine
+## 2.4. Cselekmény szolgáltatások, részvétel/jutalmazás motor
 
-In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
+Egy egyre versenyképesebb piacban, a tehetségek vonzásához és megtartásához, valamint a bevételük maximális kihasználásához, a szervezeteknek többet kell motiválniuk felhasználóikat, mint egyszerű bérezés. A WoM innovatív keretet biztosít erre azzal, hogy a munka részvételét tokenizálja.
 
-Each Deed’s holder or renter can provide tools and services to its users, who earn engagement points that can be fine-tuned to the Deed’s priorities. Periodically, points are converted into Meeds (and - for DAOs - potentially another token), based on the Deed’s set budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
+Minden Cselekmény tulajdonosa vagy bérlője szolgáltatásokat és eszközöket nyújthat felhasználóinak, akik részvételi pontokat szereznek, amelyek a Cselekmény prioritásaihoz igazíthatók. Időszakosan, a pontok Meeds-ekké (és - DAO-k esetén - potenciálisan más tokenké) alakulnak át, a Cselekmény előre meghatározott költségvetése alapján. Ezen a módon, a felhasználók részvétele a szervezet számára fontos tevékenységekben jutalmazásban részesül.
 
-To begin with, the following free services provided by the Meeds association can be used to reward engagement:
+Kezdetnek a következő ingyenes szolgáltatásokat, amelyeket a Meeds egyesület biztosít, a részvétel jutalmazására lehet használni:
 
-- **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the Deed’s priorities via customizable engagement programs.
-- **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
-- **Customizable engagement programs** - organizations can create their own engagement programs matching their business goals and priorities. Programs are associated to automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatics or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
-- **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
-- **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
-- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
-- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
-- **Analytics** – to analyze and follow engagement within the Deed.
-- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
+- **Gamifikációs motor** - az WoM belüli automatikus műveletek súlya pontban van, amelyek a Cselekmény prioritásaihoz igazíthatók a testreszabható részvételi programok által.
+- **Kihívások** - testreszabható kihívások állíthatók fel elérések képviselésére. A kihívásokat egy személy állítja be, és másik személy teljesítheti és jelentheti be őket. A kihívások súlyt képviselnek pontban, a testreszabható részvételi programokon belül.
+- **Testreszabható részvételi programok** - az szervezetek saját részvételi programokat hozhatnak létre üzleti céljaik és prioritásaiknak megfelelően. <0>Testreszabható részvételi programok</0> - az szervezetek saját részvételi programokat hozhatnak létre üzleti céljaik és prioritásaiknak megfelelően. Minden programnak van egy beállított Meeds költségvetése. Időről-időre a rendszeresen megszerzett pontok átalakulnak Meeds-ekké minden egyes felhasználó által automatikusan vagy bejelentett cselekvések révén a részvételi programokban, annak költségvetése alapján.
+- Kudos - a kudoszt más felhasználók adhatják egymásnak, hálaként és elismerés jeléül. Mint kudos, amelyeket felhasználók adhatnak egymásnak, hálaként és elismerés jelként. Mivel a kiosztható kudosok száma korlátozott (beállított időszakos korlát, például 3 egy héten), ritkák és értékesek. A kudos-ok pontokat hordoznak. Úgy a munkatársak képesek jutalmazni kollégáikat.
+- Együttműködési eszközök, a jutalmazó motorba illesztve - munkahelyek, aszinkron kommunikáció, feladatkezelő eszköz és jegyzetek - lehetővé teszik az embereknek, hogy együtt dolgozzanak projekteken.
+- A **pénztárca** - a felhasználók biztonságos Ethereum technológiás pénztárcát kapnak, hogy tárolják Meeds-jeiket. Röviden: "Vagy a biztonságos Ethereum technológiai pénztárca használható a Meedek tárolásához, vagy haladó felhasználók számára Metamask pénztárca is használható.
+- **Áruház** - egy áruház, ahol a Meedeket a Deed tulajdonosa vagy bérlője vagy a Meeds ökoszisztéma által biztosított előnyök ellenében lehet cserélni.
+- </strong>Analitika** - a részvétel elemzése és követése a Deeden belül.</li>
+- **Csatlakozók**, a jutalmazó motorhoz csatlakozva - a felhasználók más szoftverben végzett cselekvésekből szerzik a részvételi pontjaikat, például a GitHub-ban elkötelezett kódból.</ul>
 
-Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
+Az említett eszközök és szolgáltatások közül néhány már decentralizált, mások nem azok. A végső cél az, hogy az összes szolgáltatást decentralizált módon biztosítsunk, amit fokozatosan fogunk megtenni a háttérben lévő technológia fejlődésével.
 
-New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
+Új szolgáltatások bekapcsolhatók a jutalmazó motorba API-kon keresztül. Példák száma végtelen és virtuálisan bármilyen szoftver vagy szolgáltatás tartalmazható:
 
-- CRM software – salespeople would get engagement points for working on opportunities.
-- Accounting software – accountants would get engagement points for keeping books.
-- Clocking terminal – factory worker can get points for factory work time.
-- Etc.
+- CRM szoftver - az értékesítők lehetőségekre való munkájukért interakciós pontokat kapnának.
+- Számviteli szoftver - a könyvelők megkapnának foglalkoztatási pontokat a könyvek tartásáért.
+- Órarendszer terminál - a gyári munkás pontokat kaphat a gyári munkaidő alatt.
+- Stb.
 
-Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
+Továbbá, a csatlakozón keresztül előállított részvétel részt vesz az szervezet globális részvételi pontszámában, ami a Meeds megméréssel kapcsolatos elosztás faktora, amely alább ismertetett. Azért, hogy azt megtegye, a kapcsolót a Meeds Egyesületnek ki kell jelölnie fehérlistára. Az egyesület áttekinti a kapcsolót, jóváhagyja annak algoritmusát és Meeds ellen megszerzi annak tulajdonjogát. Azután részévé válik a szövetség által nyújtott ingyenes szolgáltatásoknak, és beleértendő a globális engagement indexbe. Bármely más Deed használhatja ugyanazt a csatlakozót és ugyanazt a jutalom algoritmust a fejlesztői számára.
 
-The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
+A Deed tulajdonosa vagy bérlője saját előnyeivel gazdagíthatja a boltját, csatlakozhat egy online előnyajánlat stb. hez. Itt megint a lehetőségek végtelenek:
 
-- Training courses
-- Gym memberships
-- Vacation packages
-- Lunch with a leader in the organization
-- Physical office space
-- Etc.
+- Képzési kurzusok
+- Edzőterem tagságok
+- Nyaralási csomagok
+- Ebéd a szervezet vezetőjével
+- Fizikai irodahelyiség
+- Stb.
 
-The store functions through the use of Meeds so that Meeds are partially returned to the Deed.
+A bolt Meeds használatán keresztül működik, így a Meedek részben visszatérnek a Deednek.
 
-## 2.5. Rewards – Meeds and other tokens
+## 2.5. Jutalmak – Meeds és más tokenek
 
-The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs. Indeed, each Deed can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
+A WoM a felhasználók részvételét tokenizálja a digitális munkaeszközök gamifikálásával, és pontokat és Meed-eket rendel a munkarészvételhez kapcsolódóan. A szolgáltatások a részvétel és jutalmazási motorba vannak bekötve, és pontokat rendelnek hozzá minden felhasználóhoz a részvétel szintjének megfelelően és a Deed részvételi programjainak megfelelően. Valóban, minden Deed finomhangolhatja az adott tevékenység típusának pontjainak számát. Ezért a GitHub-on való kód továbbítása egy IT bolt számára 10 pontot érhet, míg egy digitális ügynökség csak 5 pontot adhat a GitHub továbbításokért, de 10 pontot adhat a retweetekért.
 
-Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Deed is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
+Időszakonként a jutalmazó motor a foglalkoztatási pontokat Meeds-ekké alakítja a költségvetések és más terítési szabályok alapján, és végül a felhasználók jutalmazását biztosítja a pénztárcáik által. A Deed nem kötelező a Meeds terjesztésére, és használhatja a részvételi rendszert más jellegű juttatási program engedélyezésére. Azonban a Meeds terjesztése javítja annak vermetképességét.
 
-Moreover, the Deed does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
+Továbbá, a Deed nem szükségszerűen szerez be Meed-eket annak érdekében, hogy eloszthassa őket és táplálhassa kapcsolódási programjait, mivel a "mintium" modellből kap Meed-eket, amely alább ismertetett.
 
-In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
+Meeds mellett más tokenek is kioszthatók lesznek (például a DAO saját tokenjei) ugyanazzal a részvételi mechanizmussal. Ebben az esetben a Meeds Egyesület által a 5% tranzakciós díj (DAO tokenban) lesz alávetve a szétosztásnak.
 
-## 2.6. The “mintium” model – tokenize work engagement
+## 2.6. A "mintium" modell - a munkaengagement tokenizálása
 
-By engaging their users in the WoM, Deeds get compensated through an innovative mintium model.
+A felhasználóik bevonásával a WoM-ban, a Deeds innovatív mintium modell révén kap jutalékot.
 
-Engagement points, gained by the Deeds’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Deeds. Even though the Deed can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
+A Deeds felhasználók által megszerzett foglalkoztatási pontok részt vesznek a Meeds Egyesület által számított globális foglalkoztatási indexben. Az index minden ügylet esetében ugyanazt a elvet alkalmazza. Akkor is, ha a Jogok megváltoztathatják a pontok kiosztását annak érdekében, hogy egy cselekvést a másik felett előtérbe hozzanak, ezek a változások nem lesznek figyelembe véve a globális index számításban.
 
-Each week, a certain amount of Meeds is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Deeds. Some Deeds get an additional boost depending on their type. The Deeds that claim their Meeds over the week, receive them. The unclaimed Meeds are added to the following week’s global distribution amount.
+Minden héten egy bizonyos Meeds összeg van fenntartva a WoM globális bevonódásának megalkotására. Hetente számítják el, arányosan, a részt vevő okiratok között. Néhány cselekedetnek további előnyök járnak a típusuktól függően. A cselekedetek, amelyek igényt tartanak magukra Meeds, az héten át kapd meg őket. A nem igényelt Meed-ek a következő héten az egész világra kiterjedő elosztási összeghez vannak hozzáadva.
 
-The engagement score _S_  of a Deed is a function of the engagement, the number of engaged users and the distribution :
+Az engagement pontszám _S_ a szerződés működése függ a részvételtől, a résztvevők számától és a szétosztás módjától:
 
 $$S = (E_d / E_w) * D_r * D_s * M$$
 
-Where :
+Hol:
 
-- $A$ = _Activity_ - total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
-- $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
-- $E_d$ = _Engagement rate of the deed_ - actions per user ($A/U$)
-- $E_w$ = _Average engagement rate_ of all active Deeds in the WoM.
-- $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
+- $A$ = _Aktivitás_ - a felhasználók által az Eseten belül acumulált tevékenységek teljes száma a héten. (Minden Deed szintjén, minden akció bevonási pontokká alakul, néhány akció több súllyal rendelkezik, mint mások. Az index szinten, minden cselekedet lineáris).
+- $U$ = _Résztvevő felhasználók_ - felhasználók, akik legalább egy cselekvéssel hozzájárultak pontokhoz a héten.
+- $E_d$ = _A cselekmény részvételi aránya _ - felhasználónkénti cselekmények ($A/U$)
+- $E_w$ = _ Átlagos részvételi arány_ az összes aktív Deed-ből a WoM.
+- $D_r$ = _Terjesztési arány_ - ha a Deed előző időszakra megszületett Meedeket kapott, a Meedek % amelyet felhasználóinak terjesztettek. Az százalék 100 feletti lehet, ha a terjesztés időben késik.
 - $D_s$ =  _Distribution spread_ - if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
 - $M$ = _Minting Power_ of the Deed as defined in 2.3
 
 
-The global engagement index used to distribute minted Meeds among the Deeds is the sum of all Deeds’ engagement scores for the week.
+A globális részvételi index, amely a megdobott Meedek elosztását végzi a Deedek között, a Deedek heti részvételi pontszámainak összege.
 
 
-The formula above is simple and designed to favor deeds :
+Az fenti képlet egyszerű és a Deedek előnyösödése érdekében van tervezve:
 
-- with lots of engaged users (engagement)
-- who share the whole of the minting income (distribution rate) with their users fairly (distribution spread).
+- sok aktív felhasználóval (részvétellel)
+- aki egészen egyenlően osztja meg a megdobás jövedelmét (osztási arányt) a felhasználóikkal (osztási terjedelem).
 
-Additionnally boosters are in place for :
+További növelők vannak a következőkre:
 
-- organizations with the highest engagement, regardless of their size (engagement rate in relation to the WoM)
+- azok szervezetei számára, akiknek a legmagasabb a részvétele, méretüktől függetlenül (részvételi arány a nőknek kapcsolatban)
 - scarcer deeds
 
-> The Meeds association reserves the right to change the formula if required – if some specific use cases arise for instance. The association can also blacklist any Deed that hijacks the formula to its unique benefit.
+> A Meeds egyesület fenntartja a jogot a képlet módosítására, ha szükséges - például ha bizonyos specifikus használati esetek merülnek fel. Az egyesület feketelistára is helyezhet bármely olyan Deed-et, amely a képletet saját egyedülálló előnyére hijackolja.
 
-As the Deeds are rewarded with Meeds and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the Deeds and their users are aligned in the same virtuous revenue sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
+Mint ahogy a Deedek Meedekkel jutalmazzák és ösztönzik őket a részvételükért jutalmazó újraelosztására a felhasználóik számára - a Deedek és felhasználóik érdekei ugyanabban a virtuális jövedelemmegosztó ciklusban vannak összhangban. Úgyhogy a nők ajánlanak egy új munkamodellt, amely átformálja a munkáltató / alkalmazotti kapcsolatot partnerségként.
 
-The “mintium” model is the first of a kind - it goes further than the traditional freemium one, as not only the services are free to use but both the organizations and their users are rewarded for using them.
+A "mintium" modell az első ilyen - továbbmegy a hagyományos ingyenesen használható modellen, mert nem csak a szolgáltatások ingyenesen használhatók, hanem a szervezetek és felhasználóik is jutalmazva vannak azokért a használatokért.
 
 ## 2.7. Cities and governance
 
-In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
+A nők világában a Deedek fokozatosan jönnek létre a virtuális városok belsejében. Csak az első város fog létezni a kezdetektől. Az egyébek fokozatosan épülnek fel, egymás után. Az egész nők világában mindig csak 7 város lesz, mindegyikben fix számú Deed minden típusával.
 
-A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
+Egy várost teljesnek fogunk tekinteni, amikor az összes Deed-je megjelent. Aztán a következő város pénzverése $2^n$ hónappal kezdődik az utolsó Deed pénzverése után az $n-1$ városból.
 
-| **City name** | **Deeds**   | **Available**        | **Common** | **Uncommon** | **Rare**  | **Legendary** |
-| ------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
-| 1: Tanit      | 100         | T0                   | 50         | 30           | 13        | 7             |
-| 2: Reshef     | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
-| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
-| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
+| **Város neve** | **Deeds**   | **Available**        | **Common** | **Uncommon** | **Rare**  | **Legendary** |
+| -------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
+| 1: Tanit       | 100         | T0                   | 50         | 30           | 13        | 7             |
+| 2: Reshef      | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
+| 3: Ashtarte    | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
+| 4: Melqart     | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
+| 5: Eshmun      | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
+| 6: Kushor      | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
+| 7: Hammon      | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
 
-A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
+Egy város egy lehetőség a Deedeknek, hogy összejöjjenek és közösséget hozzanak létre. És ennek következtében, megszereznek egy bizonyos identitást, amely a közösséghez kapcsolódik. Ez az út a felhasználók számára további érték nyújtására is - érték, amely meghaladja egy Deed képességeit, vagy a Deedek közötti együttműködés révén létrehozott értéket.
 
-Each city has its own govenance and operates its own DAO where the city’s Deeds’ owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
+Minden városnak saját kormányzata van és saját DAO-ja működik, ahol a város Deed-jeinek tulajdonosai választhatják a város tanácsát, szavazhatnak és meghatározhatják saját működési szabályaikat, hozzáadhatnak új szolgáltatásokat és alakíthatják városukat a saját elképzeléseik szerint, hogy növeljék a város vonzerejét és az ahhoz csatolt Deed-ek értékét.
 
-For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add Meeds powered food services, vacations services, etc...
+Például hozzáadhatsz egy digitális ábrázolást a városodhoz, a várossal összefüggő fizikai párjait (például találkozószobákat a fizikai ko-working terekben), Meeds erősített élelmiszer-szolgáltatásokat, nyaralási szolgáltatásokat, stb...
 
-By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
+Alapértelmezés szerint (kivéve, ha a város másképp szavaz), a Deed-ek bérléséből származó passzív jövedelem "adózott" lesz a város részéről (5%) és az Egyesület részéről (3%) a termelékeny használat ösztönzése érdekében.
 
-Ownsership transactions (Deed’s sales) will also be taxed 6% :
+A Deed tulajdonjogának tranzakciói (Deed értékesítései) is 6% adókötelesek lesznek:
 
 - 2.5% for the City,
 - 2.5% for the Association,
