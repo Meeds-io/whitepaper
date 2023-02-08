@@ -13,33 +13,33 @@ WoM nihayetinde sınırlı miktarda Deed sağlayacaktır. Her Deed önceden tan�
 
 Her biri kullanıcı sayısı, bir şehirdeki oy hakları (bkz. 2.7) veya Meeds basma gücü açısından farklı yetenekler sağlayan dört tür Deed vardır, en nadir olanı en güçlü olanıdır:
 
-| **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
-| ------------- | ------------- | ----------------- | ------------ | ---------------------- |
-| Common        | 100           | 1                 | ~ 90%        | 1                      |
-| Uncommon      | 1000          | 1.1               | ~ 9%         | 10                     |
-| Rare          | 10 000        | 1.3               | ~ 1%         | 100                    |
-| Legendary     | unlimited     | 2                 | < 0.1 %      | 1000                   |
+| **Deed Türü**  | **Maksimum kullanıcı** | **Darphane gücü** | **Kıtlık** | **Şehir oy hakları** |
+| -------------- | ---------------------- | ----------------- | ---------- | -------------------- |
+| Ortak          | 100                    | 1                 | ~ 90%      | 1                    |
+| Yaygın olmayan | 1000                   | 1.1               | ~ 9%       | 10                   |
+| Nadir          | 10 000                 | 1.3               | ~ 1%       | 100                  |
+| Efsanevi       | sınırsız               | 2                 | < 0.1 %    | 1000                 |
 
-## 2.3. Deeds ownership
+## 2.3. Deed mülkiyeti
 
-A Deed gives its owner the right to USE it, RENT it, or SELL it.
+Bir Deed, sahibine onu KULLANMA, KİRALAMA veya SATMA hakkı verir.
 
-- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
-- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
-- SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
+- KULLANIM - Deed sahipleri, doğrudan kendi kuruluşları için kullanabilir ve kullanıcılarına hizmet sağlayabilir.
+- KİRALAMA - Deed sahipleri pasif gelir elde etmek için Deed başka bir kuruluşa da kiralayabilir.
+- SAT - Bir Deed [OpenSea](https://opensea.io) gibi ikincil bir piyasada satılabilir.
 
-Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
+Bir Deed aktif sahibi veya kiracısı olan kuruluş, aşağıda açıklanan yenilikçi bir "mintium" modeli aracılığıyla Meed'lerle ödüllendirilir (bölüm 2.6).
 
-## 2.4. Deeds services, engagement/rewards engine
+## 2.4. Deed hizmetleri, nişan/ödül motoru
 
-In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
+Rekabetin giderek arttığı bir piyasada, yetenekleri çekmek ve elde tutmak ve girdilerini en üst düzeye çıkarmak için, kuruluşların kullanıcılarını basit bir ücretin ötesinde teşvik etmeleri gerekir. WoM, iş katılımını tokenize ederek bunu yapmak için yenilikçi bir çerçeve sunmaktadır.
 
-Each Deed’s holder or renter can provide tools and services to its users, who earn engagement points that can be fine-tuned to the Deed’s priorities. Periodically, points are converted into Meeds (and - for DAOs - potentially another token), based on the Deed’s set budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
+Her Deed sahibi veya kiracısı, Deed'in önceliklerine göre ince ayarlanabilen etkileşim puanları kazanan kullanıcılarına araçlar ve hizmetler sağlayabilir. Periyodik olarak puanlar, Deed'in belirlenen bütçesine göre Meed'lere (ve - DAO'lar için - potansiyel olarak başka bir token'a) dönüştürülür. Bu şekilde, kullanıcıların kurum için önemli olan faaliyetlere katılımı ödüllendirilir.
 
-To begin with, the following free services provided by the Meeds association can be used to reward engagement:
+Başlangıç olarak, Meeds derneği tarafından sağlanan aşağıdaki ücretsiz hizmetler katılımı ödüllendirmek için kullanılabilir:
 
-- **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the Deed’s priorities via customizable engagement programs.
-- **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
+- **Oyunlaştırma motoru** - WoM içindeki otomatik eylemlerin puan cinsinden bir ağırlığı vardır ve özelleştirilebilir angajman programları aracılığıyla Deed'in önceliklerine göre ince ayar yapılabilir.
+- **Zorluklar** - başarıları temsil etmek için özelleştirilebilir zorluklar ayarlanabilir. Challenges are preset by one person and can be full-filled and announced as such by another. Zorluklar, özelleştirilebilir katılım programları dahilinde puan olarak bir ağırlık taşır.
 - **Customizable engagement programs** - organizations can create their own engagement programs matching their business goals and priorities. Programs are associated to automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatics or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
 - **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
 - **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
@@ -128,15 +128,15 @@ In the WoM, Deeds will be generated gradually inside virtual cities. Only the fi
 
 A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
 
-| **City name** | **Deeds**   | **Available**        | **Common** | **Uncommon** | **Rare**  | **Legendary** |
-| ------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
-| 1: Tanit      | 100         | T0                   | 50         | 30           | 13        | 7             |
-| 2: Reshef     | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
-| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
-| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
+| **City name** | **Deeds**   | **Available**        | **Ortak**  | **Yaygın olmayan** | **Nadir** | **Efsanevi** |
+| ------------- | ----------- | -------------------- | ---------- | ------------------ | --------- | ------------ |
+| 1: Tanit      | 100         | T0                   | 50         | 30                 | 13        | 7            |
+| 2: Reshef     | 1 000       | Tanit + 4 months     | 600        | 300                | 94        | 6            |
+| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000      | 3 000              | 995       | 5            |
+| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000     | 30 000             | 9 996     | 4            |
+| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000            | 99 997    | 3            |
+| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000          | 999 998   | 2            |
+| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000         | 9 999 999 | 1            |
 
 A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
 
