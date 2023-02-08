@@ -1,86 +1,86 @@
-# 5. The Work Metaverse for ALL – vision summary and milestones
+# 5. The Work Metaverse untuk semua - ringkasan visi dan tahap-tahapnya
 
-## 5.1. Ultimate goal - decentralized web for everyone
+## 5.1. Tujuan utama - web terdesentralisasi untuk semua orang
 
-In the end, the WoM is a decentralized web world for everyone – every person and every organization.
+Pada akhirnya, WoM adalah web terdesentralisasi untuk semua pihak - semua orang dan semua organisasi.
 
-It will be populated by users, acting through their digital identities **Xeeds** and accessing the world through their metamasks, for crypto-savvies, or login/password for the newbies. People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
+Web terdesentralisasi ini akan diisi oleh para pengguna, dengan identitas digital mereka **Xeeds**. Bagi pegiat kripto bisa mengaksesnya melalui dompet metamask atau lewat login/kata kunci bagi para pemula. Pengguna bisa beraktivitas dan mendapatkan imbalan cara yang adil, transparan, dan terdesentralisasi. Mereka akan mendapat akses lewat dunia terdesentralisasi dan dunia kripto masa depan dengan cara yang mudah dan akrab -mereka akan mendapat alat yang mudah unuk menggunakan token mereka, baik dalam keseharian atau untuk diinvestasikan kelak.
 
-Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the metaverse, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
+Organisasi - **Deeds** akan bisa mencari talenta, menjelajahi lewat WoM untuk mendapatkan talenta yang benar dan tepat. Mereka akan diberi imbalan sesuai dengan partisipasinya dalam metaverse, dengan cara mencetak token lewat keterlibatan para pengguna (model mintium). Tapi kebanyakan, mereka akan memperoleh manfaat dari besarnya keterlibatan dan loyalitas dari para penggunanya.
 
-The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
+WoM akan punya mata uangnya sendiri yang disebut **Meeds** –ini bisa digunakan di toko, ditukar ke mata uang lain, diinvestasikan, atau untuk pengembalian investasi, sewa atau beli dll. WoM juga bisa memfasilitasi distribusi token lain dan partisipasi di seluruh ekosistem kripto.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
+Karena satu gambar bisa mengungkapkan seribu kata, berikut diagram yang mendeskripsikan alur WoM dan Meeds
 
-![WoM and Meeds flows](en/img/wom-flows.png)
+![WoM dan alur Meeds](en/img/wom-flows.png)
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
+Untuk pemeliharaan dan keberlanjutan dalam jangka panjang dilakukan dengan pajak yang dibagi antara The Meeds Association dan The Cities.
 
-## 5.2. What’s in it for early adopters
+## 5.2. Apa Keuntungan bagi Para Pengguna Awal
 
-Obviously, early adopters would get considerable advantages over the late comers.
+Tentu pengguna awal akan mendapatkan banyak keuntungan dibanding dengan pendatang baru.
 
-In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
+Secara khusus, keuntungan yang diberikan WoM adalah investasi jangka panjang - yang bisa mengganti properti (Deeds). Pemilik asli Deeds mendapat kompensasi dari keterlibatannya dalam lahirnya (pengguna aktif), lewat pendapatan pasif (menyewakan), dan keuntungan 1% sepanjang masa dai transaksi penjualan Deeds (pada setiap perubahan kepemilikan, penebus aslinya memperoleh dana dari biaya transaksi).
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the metaverse.
+Dengan meyakini proyek ini, berpartisipasi pada likuiditas bersama, mempertaruhkan Meed, menebusnya dengan Deeds...investor awal akan mendapat token tambahan. Mereka juga akan mendapat hak suara awal dan dan ikut membentuk metaverse.
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
+Perusahaan mendapatkan, utamanya yang menggunakan Deed, untuk terlibat dan memberikan pekerja mereka imbalan, akan mendapatkan kompensasi Meeds yang mereka terbitkan. Semakin adil mereka bekerja, semakin banyak yang mereka peroleh. Para pengguna awal akan dikaitkan dengan sejarah kota-kota dan kelak akan disebut sebagai orang-orang yang membangun.
 
-The diagram below represents an example of the Meeds investment strategy for capital holders :
+Diagram di bawah ini menunjukkan contoh strategi investasi Meeds untuk pemilik modal:
 
-![Meeds investment strategy for capital holders](en/img/invest-capital.png)
+![Strategi investasi Meeds untuk pemilik modal](en/img/invest-capital.png)
 
-Organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
+Perusahaan tidak hanya bisa berpartisipasi dalam likuiditas bersama, tapi juga bisa bergabung dengan komunitas pembangun dan mendapatkan imbalan keterlibatan tambahan.
 
-The diagram below represents an example of the Meeds investment strategy for work holders :
+Diagram di bawah ini menunjukkan contoh strategi investasi Meeds untuk pemilik pekerjaan:
 
-![Meeds investment strategy for work holders](en/img/invest-work.png)
+![Strategi investasi untuk pemilik pekerjaan](en/img/invest-work.png)
 
-## 5.3. The launch
+## 5.3. Peluncuran
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+Tanggal peluncuran resmi ditetapkan pada **1 Mei 2022** - Hari Buruh Internasional yang dirayakan di banyak negara.
 
-At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
+Saat itu, token Meed sudah ada. Ini memungkinkan untuk mendapatkan token tersebut dan likuiditas bersama bisa diikuti, di jaringan Polygon dan Ethereum.
 
-Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
+Tiga anggota asosiasi Meed menggunakan sistem internal untuk terlibat dan memberikan pengunanya dan mengembangkan perangkat lunak Meeds.
 
-The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
+Aplikasi investor sudah tersedia di Jaringan Utama Ethereum. Saat peluncuran, termasuk staking, imbalan likuiditas, akumulasi poin, dan penebusan Deed.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
+Komunitas pembangun meningkatkan dan menjalankan perangkat lunak Meeds, terbuka bagi siapa saja yang mau bergabung, mengetes, dan berpartisipasi. Anda bisa masuk dan bergabung menggunakan Metamask.
 
-This paper was published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
+Laporan ini dipublikasikan di hari peluncuran. Menindaklanjuti dari peluncuran, token ini akan disebarkan kepada orang-orang di komunitas kripto.
 
-## 5.4. The builders community
+## 5.4. Komunitas Pembangun
 
-We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the Work Metaverse. The association would reward builders engagement with Meeds, from its marketing budget.
+Kami meluncurkan komunitas pembangun di perangkat lunak Meeds dan Discord. Komunitas ini terbuka bagi siapa saja yang mau mengambil peran dalam pembangunan Work Metaverse. Asosiasi ini akan menghadiahi para pembangun yang aktif dengan Meeds, diambil dari bujet marketing.
 
-The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
+Asosiasi juga berencana untuk menaruh beberapa Meed untuk mendapatkan (menebus) Deed dari komunitas pembangun. Komunitas juga akan mencetak Meed dengan keterlibatan, melalui model mintium, dan mendistribusikannya kepada pengguna yang terlibat.
 
-## 5.5. Roadmap and milestones
+## 5.5. Peta jalan dan tahap-tahapnya
 
-Our roadmap would follow the priority order below:
+Peta jalan kami akan mengikuti prioritas di bawah ini:
 
-- Engagement index and minting through engagement
-- Enable Deeds renting
-- Xeed creation
-- Badges improvement and credentials development
-- DeFi services – in the wallet, credit cards partnership
+- Indeks keterlibatan dan pencetakan dengan keterlibatan
+- Mengaktifkan penyewaan Deed
+- Pembuatan Xeed
+- Pengembangan lencana dan kredensial
+- Layanan DeFi - dalam dompet, kerjasama kartu kredit
 
-We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
+Kami memperhitungkan para pengguna awal sejak DAO dan perusahaan yang antusias dengan teknologi selama tahap pembangunan. Kami juga harus memiliki beberapa pengguna awal dari perusahaan tradisional yang cepat memahami nilai metaverse dengan mengadakan program pelibatan yang relevan untuk orang-orang mereka, yang menduduki pucuk perusahaan dengan rencana kompensasi.
 
-Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature metaverse, having spread to many organizations and many users globally.
+Meed akan dicetak dalam rentang waktu 20 tahun. Saat itu, kami berjarap bisa membangun metaverse yang matang, tersebar di banyak perusahaan dan memiliki pengguna di seluruh dunia.
 
-## 5.6. What you can do right now
+## 5.6. Apa yang bisa Anda lakukan
 
-What can you do right now to participate?
+Partisipasi apa yang bisa Anda lakukan sekarang?
 
-- Spread this paper to those who would be interested
-- Visit our website [meeds.io](https://www.meeds.io/)
-- Check out the [Investor app](https://meeds.io/investors)
-- Contribute to the existing liquidity pools here :
+- Sebarkan informasi ini kepada mereka yang tertarik
+- Kunjungi situs kami [meeds.io](https://www.meeds.io/)
+- Cek sekarang [Investor app](https://meeds.io/investors)
+- Berkontribusi di likuidtas bersama di sini :
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
-- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
+- Bergabung dengan komunitas [Discord](https://discord.com/invite/hAuADSq3)
+- Bergabung dengan komunitas [Builders](https://meeds.io/builders) untuk mengetes perangkat lunak Meeds, ikuti dan dapatkan imbalan beberapa Meeds
 
-**\*\*\* The Work Metaverse - let’s build this crazy future world together. \*\*\***
+**\*\*\* The Work Metaverse - mari bangun masa depan dunia yang keras ini bersama-sama.*. \*\*\***

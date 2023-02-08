@@ -1,14 +1,14 @@
 
-# 1. Who we are – the Meeds Association
+# 1. Siapa Kami - the Meeds Association
 
-The Meeds association is a non-profit organization originally launched by several Open Source Software (OSS) communities around the common vision of a free digital world – a decentralized world that would not be controlled by a handful of centralized mega-corporations.
+The Meeds association adalah organisasi nirlaba yang awalnya diluncurkan oleh beberapa komunitas Open Source Software (OSS) yang memiliki visi dunia digital yang bebas - sebuah dunia yang terdesentralisasi yang bebas dari kontrol segelintir perusahaan yang terpusat.
 
-The Meeds association is incorporated in Geneva, as a non-profit association under the Swiss law.
+The Meeds association didirikan di Jenewa, sebagai lembaga nirlaba yang tunduk dengan hukum Swiss.
 
-The association regulates the issuance of the Meeds currency, an ERC20 token, recognized as a utility token.
+Asosiasi ini mengatur penerbitan mata uang Meed, sebuah token ERC-20, yang dikenal sebagai token yang bisa digunakan.
 
-To build the WoM and Meeds, the association leverages the Ethereum platform and its ecosystem, making it accessible in a friendly and cost-effective way to all users.
+Untuk membangun Wom dan Meeds, asosiasi memanfaatkan blockchain Ethereum dan ekosistemnya, agar mudah diakses bagi semua pengguna dan murah.
 
-The association is structured as a Decentralized Autonomous Organization (DAO) where the governance token holders vote on all important organizational changes such as electing the board every year.
+Asosiasi ini menggunakan strukttur Decentralized Autonomous Organization (DAO) di mana pemilik token yang menetukan semua keputusan organiasi yang penting seperti memilih pengurus setiap tahun.
 
-Besides Meeds token management, the association holds the Intellectual Property (IP) of the Meeds software [github.com/meeds-io](https://github.com/meeds-io), available under the LGPL license and distributed for free. The latter includes an Ethereum wallet app that users can use to store and transact their Meeds (see section 2.4 for more details). The Meeds Association also runs a multi-tenant cloud hosting service leveraging that software.
+Selain mengelola token, asosiasi juga memiliki hak kekayaan intelektual (IP) berupa perangkat lunak Meeds [github.com/meeds-io](https://github.com/meeds-io), yang tersedia di bawah lisensi LGPL dan bisa didistribusikan secara bebas. Hak kekayaan intelektual itu termasuk aplikasi dompet Ethereum yang bisa digunakan pengguna untuk menyimpan dan mentransaksikan token Meeds mereka (lihat bagian 2.4 untuk lebih detailnya). The Meeds Association juga mengoperasikan layanan komputasi awan banyak penyewa yang menggunakan perangkat lunak tersebut.
