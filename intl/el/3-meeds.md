@@ -1,22 +1,22 @@
-# 3. Meeds token – the Work Metaverse currency
+# 3. Meeds token - το νόμισμα του Work Metaverse
 
-The Work Metaverse is powered by its currency – the Meeds (MEED) token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
+Το Work Metaverse τροφοδοτείται από το νόμισμά του - το κουπόνι Meeds (MEED). Τα Meeds χρησιμοποιούνται για την επιβράβευση των χρηστών (μέσω προγραμμάτων δέσμευσης), την αγορά σε καταστήματα, την απόκτηση Deeds, την οικονομική απόδοση επενδύσεων κ. λπ.
 
 ## 3.1. Tokenomics
 
-The Meeds **maximum supply is limited to 100 million tokens**, minted progressively. **Meeds are minted at the rate of 10 MEED per minute**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).
+Η μέγιστη προσφορά του Meeds ** περιορίζεται σε 100 εκατομμύρια μάρκες**, οι οποίες κόβονται σταδιακά. **Τα Meeds κόβονται με ρυθμό 10 MEED ανά λεπτό**. Ως εκ τούτου, ο πλήρης ορίζοντας κοπής είναι κοντά στα 20 χρόνια (καθώς περίπου $10*60*24*365 = 5M$ Meeds κόβονται ετησίως).
 
-5 Million Meeds (5% of total supply) have been pre-minted to date. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services.
+5 εκατομμύρια Meeds (5% της συνολικής προσφοράς) έχουν προεκτυπωθεί μέχρι σήμερα. Εκ των οποίων, 4,5 εκατ. έχουν κλειδωθεί σε συμβόλαιο θόλου με γραμμική κατοχύρωση σε 4 χρόνια. Το προκαταβολικό ποσό χρησιμοποιήθηκε κυρίως για την απόκτηση διανοητικής ιδιοκτησίας λογισμικού, την πληρωμή των νομικών εξόδων της token emission και των υπηρεσιών φιλοξενίας.
 
-The rest is part of the __Meeds DAO funds__ and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
+Τα υπόλοιπα αποτελούν μέρος των κεφαλαίων του __Meeds DAO funds__ και θα χρησιμοποιηθούν για την πληρωμή υπηρεσιών, καθώς και για κάποια κίνητρα εκκίνησης, όπως πτώσεις από αέρος και εκστρατείες παραπομπών.
 
 
-## 3.2. Minting allocation
+## 3.2. Κατανομή νομισματοκοπείου
 
-Minted Meeds are allocated to encourage involvement of the three categories of stakeholders - the users, the builders and the investors:
+Τα Minted Meeds κατανέμονται για να ενθαρρύνουν τη συμμετοχή των τριών κατηγοριών ενδιαφερομένων - των χρηστών, των κατασκευαστών και των επενδυτών:
 
-- The users (users and Deeds holders/renters) get Meeds through engagement rewards (mintium model).
-- Builders (members of the association and community) get Meeds through the association funds to build, operate and improve the WoM.
+- Οι χρήστες (χρήστες και κάτοχοι/εκμισθωτές Deeds) αποκτούν Meeds μέσω ανταμοιβών δέσμευσης (μοντέλο mintium).
+- Οι οικοδόμοι (μέλη της ένωσης και της κοινότητας) λαμβάνουν Meeds μέσω των κονδυλίων της ένωσης για την κατασκευή, τη λειτουργία και τη βελτίωση του WoM.
 - Investors mint Meeds through renting and buying of liquidity pools and staking Meeds.
 
 At the beginning, the builders get 30% of the allocation. The 70% are shared between the users and the investors. This allocation proportion will be reviewed on a regular basis, through the Meeds association DAO vote.
@@ -70,23 +70,23 @@ Points are calculated using the formula below :
 - $xMeeds$ : xMeeds balance  with no decimals
 - $T$ : Time elapsed in milliseconds
 
-The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably. For example, the formula gives the following rates :
+Η φόρμουλα αποφεύγει να ευνοεί τους μεγάλους κατόχους, προκειμένου να διανέμει τις πράξεις πιο αποτελεσματικά και πιο δίκαια. Για παράδειγμα, ο τύπος δίνει τα ακόλουθα ποσοστά :
 
-| **Holder Size** | **Holdings**   | **Accrue Rate** |
-| --------------- | -------------- | --------------- |
-| Small           | 1 000 xMeeds   | 28 pts/day      |
-| Medium          | 10 000 xMeeds  | 164 pts/day     |
-| Large           | 100 000 xMeeds | 321 pts/day     |
+| **Μέγεθος κατόχου** | **Συμμετοχές** | **Συγκεντρώστε ποσοστό** |
+| ------------------- | -------------- | ------------------------ |
+| Μικρό               | 1 000 xMeeds   | 28 pts/ημέρα             |
+| Μεσαίο              | 10 000 xMeeds  | 164 pts/ημέρα            |
+| Μεγάλο              | 100 000 xMeeds | 321 pts/ημέρα            |
 
 
-which leads to the following holding time for each class of holder :
+το οποίο οδηγεί στον ακόλουθο χρόνο διακράτησης για κάθε κατηγορία κατόχων :
 
-| **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| Common        | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| Uncommon      | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| Rare          | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| Legendary     | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| **Τύπος κάρτας** | **Κόστος**   | **Μεγάλη θήκη** | **Μεσαίο κάτοχος** | **Μικρή θήκη** |
+| ---------------- | ------------ | --------------- | ------------------ | -------------- |
+| Κοινό            | 8 000 πόντοι | 25 ημέρες       | 49 days            | 9 months       |
+| Ασυνήθιστο       | 32 000 pts   | 100 days        | 6 months           | 3 years        |
+| Σπάνια           | 50 000 pts   | 156 days        | 10 months          | 5 years        |
+| Θρυλικό          | 100 000 pts  | 311 days        | 20 months          | 10 years       |
 
 ## 3.6. Meeds DAO governance
 
