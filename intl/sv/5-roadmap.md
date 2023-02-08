@@ -1,24 +1,24 @@
-# 5. The Work Metaverse for ALL – vision summary and milestones
+# 5. Arbetsmetaversumet för ALLA - sammanfattning av visionen och milstolpar
 
-## 5.1. Ultimate goal - decentralized web for everyone
+## 5.1. Arbetsmetaversumet för ALLA - sammanfattning av visionen och milstolpar
 
-In the end, the WoM is a decentralized web world for everyone – every person and every organization.
+I slutändan är WoM en decentraliserad webbvärld för alla - varje person och varje organisation.
 
-It will be populated by users, acting through their digital identities **Xeeds** and accessing the world through their metamasks, for crypto-savvies, or login/password for the newbies. People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
+Den kommer att befolkas av användare som agerar genom sina digitala identiteter **Xeeds** och som får tillgång till världen genom sina metamasker, för kryptosvenskar, eller genom inloggning/lösenord för nybörjare. Människor skulle fördela sitt engagemang och bli belönade på ett rättvist, öppet och decentraliserat sätt. De skulle få tillgång till morgondagens decentraliserade värld och kryptovärld på ett enkelt och bekant sätt - de skulle få enkla verktyg för att använda sina tokens i sina liv eller investera dem för sin framtid.
 
-Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the metaverse, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
+Organisationer - **Deeds** skulle kunna hitta talanger genom att bläddra igenom WoM för att hitta de rätta bevisade färdigheterna. De skulle belönas för sitt deltagande i metaverset genom att prägla polletter genom användarnas engagemang (mintium-modellen). De skulle belönas för sitt deltagande i metaverset genom att prägla polletter genom användarnas engagemang (mintium-modellen).
 
-The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
+WoM skulle ha en egen valuta **Meeds** - som man skulle kunna spendera i butiker, konvertera till en annan valuta, investera för att få avkastning på investeringen, hyra eller köpa osv. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
+WoM skulle också underlätta distributionen av andra tokens och delta i det övergripande krypto-ekosystemet.
 
 ![WoM and Meeds flows](en/img/wom-flows.png)
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
+Världsunderhållet och hållbarheten på lång sikt säkerställs genom skatter som delas mellan Meeds-föreningen och städerna.
 
-## 5.2. What’s in it for early adopters
+## 5.2. Vad får de tidiga användarna ut av det?
 
-Obviously, early adopters would get considerable advantages over the late comers.
+Det är uppenbart att tidiga användare skulle få avsevärda fördelar jämfört med sena användare.
 
 In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
 
