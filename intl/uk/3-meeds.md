@@ -31,79 +31,79 @@ WoM і токен Meeds управляються некомерційною ас
 
 Протягом періоду карбування **30% викарбуваних Meeds виділяються асоціації Meeds**.
 
-Association members can provide services to the association on the basis of a signed services convention establishing the man-day rate. Services are paid monthly in Meeds, based on the market price. Exemples of services include – enriching the Meeds software, developing the WoM app, developing new connectors, operating the cloud service, providing financial and legal services etc.
+Члени асоціації можуть надавати послуги асоціації на основі підписаної угоди про надання послуг, яка встановлює вартість людино-дня. Послуги оплачуються щомісяця в Meeds, виходячи з ринкової ціни. Приклади послуг включають - збагачення програмного забезпечення Meeds, розробку додатку WoM, розробку нових з'єднувачів, експлуатацію хмарного сервісу, надання фінансових та юридичних послуг тощо.
 
-Without being a member, any Deed can participate in the creation of a new connector and be rewarded for doing so – first through the Meeds association acquiring the connector and then by minting through this connector.
+Не будучи членом асоціації, будь-який Deed може взяти участь у створенні нового коннектора і отримати за це винагороду - спочатку через придбання коннектора асоціацією Meeds, а потім через майнінг через цей коннектор.
 
-The association operates a Builders community that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
+Асоціація управляє спільнотою будівельників, яка вітає ентузіастів WoM, які хочуть зробити свій внесок у створення WoM. Асоціація буде спонсорувати спільноту зі свого бюджету, компенсуючи участь членів спільноти.
 
-Thus, the community will function as an example of a Deed, offering a standard set of services provided by the association. The association stakes Meeds in order to redeem a Deed for the community. The community will then also participate in the engagement minting like any other Deed.
+Таким чином, спільнота буде функціонувати як приклад Deed, пропонуючи стандартний набір послуг, що надаються асоціацією. Асоціація робить ставку на Meeds для того, щоб викупити Deed для громади. Після цього громада також братиме участь у карбуванні залучення, як і будь-якого іншого Deed.
 
-After the minting period is over, the association will be sustained by :
+Після закінчення періоду карбування асоціація буде підтримуватися за рахунок :
 
-- taxing passive income (3% on Deeds renting)
-- taxing selling income (2.5% on Deeds sales)
-- perceiving transaction fees over the use of the perks stores
-- acting as a liquidity pool provider
-- perceiving transaction fees when a Deed distributes non Meeds tokens via WoM services.
-- by operating the Deeds that the association minted over time.
+- оподаткування пасивних доходів (3% від оренди Deeds)
+- оподаткування доходу від продажу (2,5% від продажу Deeds)
+- отримання комісійних за транзакції за використання магазинів перків
+- виступаючи постачальником пулу ліквідності
+- отримання комісії за транзакції, коли Deed поширює токени, відмінні від Meeds, через сервіси WoM.
+- за рахунок використання Deeds, які асоціація випустила за певний час.
 
 
-## 3.5. Investors
+## 3.5. Інвестори
 
-Investors help creating the WoM by providing liquidity and by staking Meeds and thus stabilizing its price level during the construction period. Both are encouraged through minting.
+Інвестори допомагають створювати WoM, забезпечуючи ліквідність і вкладаючи кошти в Meeds і таким чином стабілізуючи рівень цін на них протягом періоду будівництва. Обидва процеси заохочуються за допомогою майнінгу.
 
-**Liquidity providers** Currency liquidity management is key to the success of the project and several DeFi strategies will be used to optimize capital efficiency. We will start with incentives for staking MeedS/ETH LP pool tokens and will progressively introduce bonds to move towards a protocol owned liquidity. The latter would contribute to the association’s long term sustainability - as mentioned above, transaction fees will fund the association operating expenses such as cloud hosting.
+**Провайдери ліквідності** Управління валютною ліквідністю є ключовим для успіху проекту, і для оптимізації ефективності використання капіталу буде використано кілька стратегій DeFi. Ми почнемо зі стимулів для інвестування в токени пулу MeedS/ETH LP і поступово запровадимо облігації, щоб перейти до ліквідності, що належить протоколу. Останнє сприятиме довгостроковій стійкості асоціації - як згадувалося вище, комісії за транзакції будуть фінансувати операційні витрати асоціації, такі як хмарний хостинг.
 
-Every member also has the right to directly purchase a large amount of Meeds at a discount. The amount wired to the association account is converted to ETH and added along with the equivalent value of Meeds to the Liquidity Pool.
+Кожен член асоціації також має право напряму придбати велику кількість Meeds зі знижкою. Сума, переказана на рахунок асоціації, конвертується в ETH і додається разом з еквівалентною вартістю Meeds до пулу ліквідності.
 
-**Staking / long-term investment** To encourage long term investment, staked Meeds are rewarded. When Meeds are staked, the staker gets some xMeeds tokens. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings. In practice, minted Meeds are effectively added to the holdings of the xMeeds smart contract and distributed to the xMeeds holder when they unstake.
+**Стейкінг / довгострокові інвестиції** Щоб заохотити довгострокові інвестиції, ви отримуєте винагороду за стейкінг Meeds. Коли Meeds стейкуються, стейкхолдер отримує певну кількість токенів xMeeds. Новостворені Meeds розподіляються серед стейкхолдерів пропорційно до їхніх запасів xMeeds. На практиці, випущені Meeds фактично додаються до авуарів смарт-контракту xMeeds і розподіляються серед власників xMeeds, коли вони виходять зі стейку.
 
-By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. Each staked Meeds (xMeeds) grants its owner a number of points per day. The longer the vested period the higher the number of points obtained per xMeeds. Each Deed is then redeemed in exchange for a number of points.
+Інвестори також можуть викупити Deeds (а потім взяти участь у майнінгу через залучення), таким чином збільшуючи попит на токени. Кожен зарезервований Meeds (xMeeds) дає його власнику певну кількість балів на день. Чим довший період володіння, тим більша кількість балів, отриманих за xMeeds. Кожна Deed потім викуповується в обмін на певну кількість балів.
 
-Points are calculated using the formula below :
+Бали розраховуються за формулою нижче:
 
  $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
 
- where :
+ де:
 
-- $xMeeds$ : xMeeds balance  with no decimals
-- $T$ : Time elapsed in milliseconds
+- $xMeeds$ : баланс xMeeds без десяткових знаків
+- $T$ : Час, що минув у мілісекундах
 
-The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably. For example, the formula gives the following rates :
+Формула уникає надання переваги великим власникам з метою більш ефективного та справедливого розподілу Deeds землю. Наприклад, формула дає такі ставки :
 
-| **Holder Size** | **Holdings**   | **Accrue Rate** |
-| --------------- | -------------- | --------------- |
-| Small           | 1 000 xMeeds   | 28 pts/day      |
-| Medium          | 10 000 xMeeds  | 164 pts/day     |
-| Large           | 100 000 xMeeds | 321 pts/day     |
+| **Розмір тримача** | **Холдинги**   | **Ставка нарахування** |
+| ------------------ | -------------- | ---------------------- |
+| Малий              | 1 000 xMeeds   | 28 пт/день             |
+| Середній           | 10 000 xMeeds  | 164 пт/день            |
+| Великий            | 100 000 xMeeds | 321 пт/день            |
 
 
-which leads to the following holding time for each class of holder :
+що призводить до наступного часу утримання для кожного класу тримачів :
 
-| **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| Спільне       | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| Рідкісний     | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| Зелений чай   | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| Легендарний   | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| **Тип картки** | **Вартість** | **Великий держатель** | **Середній держатель** | **Малий держатель** |
+| -------------- | ------------ | --------------------- | ---------------------- | ------------------- |
+| Спільне        | 8 000 очок   | 25 днів               | 49 днів                | 9 місяців           |
+| Рідкісний      | 32 000 очок  | 100 днів              | 6 місяців              | 3 роки              |
+| Зелений чай    | 50 000 очок  | 156 днів              | 10 місяців             | 5 років             |
+| Легендарний    | 100 000 очок | 311 днів              | 20 місяців             | 10 років            |
 
-## 3.6. Meeds DAO governance
+## 3.6. Управління Meeds DAO
 
-Meeds token holders need to stake tokens in order to vote on the Meeds DAO decisions such as managing the minting budget or electing DAO board members (annual mandate).
+Власники токенів Meeds повинні вкладати токени, щоб голосувати за рішення Meeds DAO, такі як управління бюджетом монетного двору або обрання членів правління DAO (річний мандат).
 
-## 3.7. Decentralized finance (DeFi) user services
+## 3.7. Користувацькі сервіси децентралізованих фінансів (DeFi)
 
-The Work Metaverse will introduce the blockchain world to many people who do not use it today.
+Меtaverse Work познайомить зі світом блокчейну багатьох людей, які сьогодні ним не користуються.
 
-Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
+Дійсно, будь-яка робота (цифрова чи ні) може бути гейміфікована, а будь-яке залучення - винагороджене за допомогою Meeds. Meeds доступні користувачам через простий у використанні гаманець на основі блокчейну, який "абстрагує" будь-яку складність криптовалютного світу для пересічного користувача.
 
-Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
+Окрім гаманця та магазину, де можна придбати бонуси за Meeds, ми плануємо познайомити кожного користувача з кількома продуктами для кінцевих користувачів, що працюють на основі протоколів децентралізованих фінансів, такими як:
 
-- The ability to stake Meeds tokens and get yields (generate revenues)
-- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
-- A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. This card could also be used by organizations to fund employee wallets in order to manage employee benefits such as restaurants, transportation and any type of expenses.
+- Можливість ставити токени Meeds і отримувати дохід (отримувати прибуток)
+- Можливість використовувати токени Meeds як заставу для запозичення стабільних монет, таких як USDC(спочатку використовуючи [Fuse pool](https://app.rari.capital/fuse), а потім реєструючи токен Meeds в [AAVE](https://aave.com/).
+- Цифрова картка, яку можна поповнювати та використовувати через Apple Pay, Google Pay або будь-який банкомат. Остання може бути надана через партнерство з VISA і використовуватиме кредитну лінію в USDC, забезпечену пакетом акцій Meeds. Ця картка також може бути використана організаціями для поповнення гаманців працівників з метою управління пільгами для працівників, такими як ресторани, транспорт та будь-які інші витрати.
 
-So not only many new users will discover the blockchain world, they will also discover a bankless world.
+Таким чином, не тільки багато нових користувачів відкриють для себе світ блокчейну, вони також відкриють для себе світ без банків.
 
  
