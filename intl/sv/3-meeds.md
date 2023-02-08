@@ -45,48 +45,48 @@ När präglingstiden är slut kommer föreningen att upprätthållas av :
 - Beskattning av försäljningsinkomster (2,5 % på försäljning av handlingar).
 - att transaktionsavgifter uppfattas som mer än användning av förmånsbutiker
 - agera som leverantör av en likviditetspool
-- perceiving transaction fees when a Deed distributes non Meeds tokens via WoM services.
-- by operating the Deeds that the association minted over time.
+- Upplevande av transaktionsavgifter när en Deed distribuerar andra än Meeds-tokens via WoM-tjänster.
+- genom att använda de handlingar som föreningen har skapat med tiden.
 
 
-## 3.5. Investors
+## 3.5. Investerare
 
-Investors help creating the WoM by providing liquidity and by staking Meeds and thus stabilizing its price level during the construction period. Both are encouraged through minting.
+Investerare hjälper till att skapa WoM genom att tillhandahålla likviditet och genom att satsa Meeds och på så sätt stabilisera dess prisnivå under uppbyggnadsperioden. Båda uppmuntras genom myntning.
 
-**Liquidity providers** Currency liquidity management is key to the success of the project and several DeFi strategies will be used to optimize capital efficiency. We will start with incentives for staking MeedS/ETH LP pool tokens and will progressively introduce bonds to move towards a protocol owned liquidity. The latter would contribute to the association’s long term sustainability - as mentioned above, transaction fees will fund the association operating expenses such as cloud hosting.
+**Liquiditetsleverantörer** Valutalikviditetshantering är nyckeln till projektets framgång och flera DeFi-strategier kommer att användas för att optimera kapitaleffektiviteten. Vi kommer att börja med incitament för att satsa MeedS/ETH LP pool tokens och kommer successivt att införa obligationer för att gå mot en protokollägd likviditet. Det sistnämnda skulle bidra till föreningens långsiktiga hållbarhet - som nämnts ovan kommer transaktionsavgifterna att finansiera föreningens driftskostnader, t.ex. molnhosting.
 
-Every member also has the right to directly purchase a large amount of Meeds at a discount. The amount wired to the association account is converted to ETH and added along with the equivalent value of Meeds to the Liquidity Pool.
+Varje medlem har också rätt att direkt köpa en stor mängd Meeds till rabatterat pris. Beloppet som överförs till föreningskontot omvandlas till ETH och läggs tillsammans med motsvarande värde av Meeds till likviditetspoolen.
 
-**Staking / long-term investment** To encourage long term investment, staked Meeds are rewarded. When Meeds are staked, the staker gets some xMeeds tokens. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings. In practice, minted Meeds are effectively added to the holdings of the xMeeds smart contract and distributed to the xMeeds holder when they unstake.
+**Satsning / långsiktig investering** För att uppmuntra till långsiktiga investeringar belönas Meeds med insatser. När Meeds sätts på spel får spelaren xMeeds-markeringar. Nya Meeds delas ut till stakers i proportion till deras xMeeds-innehav. I praktiken läggs de präglade Meeds till xMeeds-smartkontraktets innehav och distribueras till xMeeds-innehavaren när de tas loss.
 
-By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. Each staked Meeds (xMeeds) grants its owner a number of points per day. The longer the vested period the higher the number of points obtained per xMeeds. Each Deed is then redeemed in exchange for a number of points.
+Genom att satsa Meeds kan investerare också lösa in Deeds (och sedan delta i myntningen genom engagemang), vilket ökar efterfrågan på token. Varje stakad Meeds (xMeeds) ger ägaren ett visst antal poäng per dag. Ju längre den förvärvade perioden är, desto högre är det antal poäng som erhålls per xMeeds. Varje handling kan sedan lösas in i utbyte mot ett antal poäng.
 
-Points are calculated using the formula below :
+Poängen beräknas med hjälp av följande formel :
 
  $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
 
- where :
+ där :
 
-- $xMeeds$ : xMeeds balance  with no decimals
-- $T$ : Time elapsed in milliseconds
+- $xMeeds$ : xMeeds-saldo utan decimaler
+- $T$ : elapsed time in milliseconds
 
-The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably. For example, the formula gives the following rates :
+Genom formeln undviker man att gynna stora innehavare för att fördela handlingarna på ett effektivare och mer rättvist sätt. Formeln ger t.ex. följande värden :
 
-| **Holder Size** | **Holdings**   | **Accrue Rate** |
-| --------------- | -------------- | --------------- |
-| Small           | 1 000 xMeeds   | 28 pts/day      |
-| Medium          | 10 000 xMeeds  | 164 pts/day     |
-| Large           | 100 000 xMeeds | 321 pts/day     |
+| **Storlek på hållare** | **Storlek på hållaren** | **Upplupna ränta** |
+| ---------------------- | ----------------------- | ------------------ |
+| Liten                  | 1 000 xMeeds            | 28 pts/dag         |
+| Medium                 | 10 000 xMeeds           | 164 pts/dag        |
+| Stor                   | 100 000 xMeeds          | 321 pts/dag        |
 
 
-which leads to the following holding time for each class of holder :
+vilket leder till följande innehavstid för varje innehavarklass :
 
-| **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| Vanligt       | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| Ovanlig       | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| Sällsynt      | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| Legendarisk   | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| **Typ av kort** | **Kostnad** | **Stor hållare** | **Medium hållare** | **Liten hållare** |
+| --------------- | ----------- | ---------------- | ------------------ | ----------------- |
+| Vanligt         | 8 000 poäng | 25 dagar         | 49 dagar           | 9 månader         |
+| Ovanlig         | 32 000 pts  | 100 dagar        | 6 månader          | 3 år              |
+| Sällsynt        | 50 000 pts  | 156 dagar        | 10 mànader         | 5 år              |
+| Legendarisk     | 100 000 pts | 311 dagar        | 20 mànader         | 10 år             |
 
 ## 3.6. Meeds DAO-styrning
 
