@@ -83,10 +83,10 @@ o que leva ao seguinte tempo de retenção para cada classe de detentor :
 
 | **Tipo de Card** | **Custo**   | **Grande suporte** | **Médio suporte** | **Pequeno suporte** |
 | ---------------- | ----------- | ------------------ | ----------------- | ------------------- |
-| Comum            | 8 000 pts   | 25 dias            | 49 dias           | 9 meses             |
-| Não comum        | 32 000 pts  | 100 dias           | 6 meses           | 3 anos              |
-| Raro             | 50 000 pts  | 156 dias           | 10 meses          | 5 anos              |
-| Lendário         | 100 000 pts | 311 dias           | 20 meses          | 10 anos             |
+| Ordinárias       | 8 000 pts   | 25 dias            | 49 dias           | 9 meses             |
+| Inusitado        | 32 000 pts  | 100 dias           | 6 meses           | 3 anos              |
+| Raros            | 50 000 pts  | 156 dias           | 10 meses          | 5 anos              |
+| Legenda          | 100 000 pts | 311 dias           | 20 meses          | 10 anos             |
 
 ## 3.6. Meeds DAO governança
 
