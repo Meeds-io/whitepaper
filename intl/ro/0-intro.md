@@ -1,20 +1,20 @@
 
 
-## Abstract
+## Rezumat
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
+Piața muncii de astăzi este lipsită de eficiență din cauza costurilor ridicate de tranzacționare<sup id="fnref:1"></sup></a></sup>[^2][^3] și a conflictelor frecvente de interese dintre angajator și angajat.
 
-The Work Metaverse (the WoM) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
+Work Metaverse (WoM) propune o nouă paradigmă care ar reduce costurile de tranzacție și ar reinventa relația de muncă, făcând legătura între corporațiile tradiționale și DAO.
 
-The WoM does that by introducing digital identities for both employer and employee and offering an innovative engagement reward system that would align their interests.
+WoM face acest lucru prin introducerea unor identități digitale atât pentru angajator, cât și pentru angajat și prin oferirea unui sistem inovator de recompensare a angajamentului care ar alinia interesele acestora.
 
-## Introduction
+## Introducere
 
-The work market today is broken. It fails to satisfy both employees and employers.
+În prezent, piața muncii este distrusă. Ea nu reușește să satisfacă nici angajații, nici angajatorii.
 
-On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
+Din partea angajaților, este dificil să găsească locurile de muncă potrivite. Piața forței de muncă favorizează anumite tipuri de persoane, lăsând în urmă seturi de competențe deosebite. Acest lucru provine dintr-un set de prejudecăți umane - bazate pe rasă, pe gen, pe handicap, pe introvertire etc. De asemenea, piața muncii este lipsită de transparență în ceea ce privește posturile disponibile și condițiile de angajare.
 
-Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
+Odată angajați, libertățile personale ale angajaților sunt încălcate în schimbul unei compensații. Angajații au puțin de spus în ceea ce privește orele de lucru, locul de muncă, conținutul muncii sau metodele de lucru. Iar remunerarea lor este rareori legată de implicarea sau valoarea lor reală. Regulile de compensare sunt lipsite de transparență și, prin urmare, sunt percepute ca fiind inechitabile. N plus, remunerarea și evoluția în carieră depind și de factorul uman - buna credință și obiectivitatea managerului imediat al angajatului.
 
 Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
 
