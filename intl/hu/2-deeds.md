@@ -13,14 +13,14 @@ A WoM végül korlátozott mennyiségű Cselekményt fog szolgáltatni. Minden C
 
 Négyféle Cselekmény létezik, melyek mindegyike eltérő képességeket kínál a felhasználók számát, a városi szavazati jogokat (lásd 2.7) vagy a Meeds verési teljesítményét illetően, a legritkább a legerősebb:
 
-| **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
-| ------------- | ------------- | ----------------- | ------------ | ---------------------- |
-| Common        | 100           | 1                 | ~ 90%        | 1                      |
-| Uncommon      | 1000          | 1.1               | ~ 9%         | 10                     |
-| Rare          | 10 000        | 1.3               | ~ 1%         | 100                    |
-| Legendary     | unlimited     | 2                 | < 0.1 %      | 1000                   |
+| **Deed típus** | **Max felhasználók** | **Nyomtatóerejük** | **Korlátozott mennyiség** | **Városi választójogok** |
+| -------------- | -------------------- | ------------------ | ------------------------- | ------------------------ |
+| Általános      | 100                  | 1                  | ~ 90%                     | 1                        |
+| Ritka          | 1000                 | 1.1                | ~ 9%                      | 10                       |
+| Ritka          | 10 000               | 1.3                | ~ 1%                      | 100                      |
+| Legendás       | korlátlan            | 2                  | < 0.1 %                   | 1000                     |
 
-## 2.3. Deeds ownership
+## 2.3. Tulajdonjogok tényei
 
 A Cselekmény jogot ad annak tulajdonosának arra, hogy HASZNÁLJA, KIKÖLCSÖNÖZZE vagy ELADJA.
 
@@ -99,8 +99,8 @@ Hol:
 - $E_d$ = _A cselekmény részvételi aránya _ - felhasználónkénti cselekmények ($A/U$)
 - $E_w$ = _ Átlagos részvételi arány_ az összes aktív Deed-ből a WoM.
 - $D_r$ = _Terjesztési arány_ - ha a Deed előző időszakra megszületett Meedeket kapott, a Meedek % amelyet felhasználóinak terjesztettek. Az százalék 100 feletti lehet, ha a terjesztés időben késik.
-- $D_s$ =  _Distribution spread_ - if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
-- $M$ = _Minting Power_ of the Deed as defined in 2.3
+- $D_s$ = _Terjesztési szórás_ - ha egy Dokumentum megszerzett Meed-et az előző időszakban, a felhasználók %  akik Meed-et kaptak az összes felhasználói körből.
+- $M$ =_Verési erő_ a 2.3-ban meghatározott Okiratban
 
 
 A globális részvételi index, amely a megdobott Meedek elosztását végzi a Deedek között, a Deedek heti részvételi pontszámainak összege.
@@ -114,7 +114,7 @@ Az fenti képlet egyszerű és a Deedek előnyösödése érdekében van tervezv
 További növelők vannak a következőkre:
 
 - azok szervezetei számára, akiknek a legmagasabb a részvétele, méretüktől függetlenül (részvételi arány a nőknek kapcsolatban)
-- scarcer deeds
+- ritka cselekedetek
 
 > A Meeds egyesület fenntartja a jogot a képlet módosítására, ha szükséges - például ha bizonyos specifikus használati esetek merülnek fel. Az egyesület feketelistára is helyezhet bármely olyan Deed-et, amely a képletet saját egyedülálló előnyére hijackolja.
 
@@ -122,21 +122,21 @@ Mint ahogy a Deedek Meedekkel jutalmazzák és ösztönzik őket a részvételü
 
 A "mintium" modell az első ilyen - továbbmegy a hagyományos ingyenesen használható modellen, mert nem csak a szolgáltatások ingyenesen használhatók, hanem a szervezetek és felhasználóik is jutalmazva vannak azokért a használatokért.
 
-## 2.7. Cities and governance
+## 2.7. Városok és kormányzás
 
 A nők világában a Deedek fokozatosan jönnek létre a virtuális városok belsejében. Csak az első város fog létezni a kezdetektől. Az egyébek fokozatosan épülnek fel, egymás után. Az egész nők világában mindig csak 7 város lesz, mindegyikben fix számú Deed minden típusával.
 
 Egy várost teljesnek fogunk tekinteni, amikor az összes Deed-je megjelent. Aztán a következő város pénzverése $2^n$ hónappal kezdődik az utolsó Deed pénzverése után az $n-1$ városból.
 
-| **Város neve** | **Deeds**   | **Available**        | **Common** | **Uncommon** | **Rare**  | **Legendary** |
-| -------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
-| 1: Tanit       | 100         | T0                   | 50         | 30           | 13        | 7             |
-| 2: Reshef      | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
-| 3: Ashtarte    | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
-| 4: Melqart     | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
-| 5: Eshmun      | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
-| 6: Kushor      | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
-| 7: Hammon      | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
+| **Város neve** | **Cselekedetek** | **Elérhető**        | **Általános** | **Ritka**  | **Ritka** | **Legendás** |
+| -------------- | ---------------- | ------------------- | ------------- | ---------- | --------- | ------------ |
+| 1: Tanit       | 100              | T0                  | 50            | 30         | 13        | 7            |
+| 2: Reshef      | 1 000            | Tanit + 4 hónap     | 600           | 300        | 94        | 6            |
+| 3: Ashtarte    | 10 000           | Reshef + 8 hónap    | 6 000         | 3 000      | 995       | 5            |
+| 4: Melqart     | 100 000          | Ashtarte + 16 hónap | 60 000        | 30 000     | 9 996     | 4            |
+| 5: Eshmun      | 1 000 000        | Melqart + 32 hónap  | 600 000       | 300 000    | 99 997    | 3            |
+| 6: Kushor      | 10 000 000       | Eshmum + 64 hónap   | 6 000 000     | 3 000 000  | 999 998   | 2            |
+| 7: Hammon      | 100 000 000      | Kushor + 128 hónap  | 60 000 000    | 30 000 000 | 9 999 999 | 1            |
 
 Egy város egy lehetőség a Deedeknek, hogy összejöjjenek és közösséget hozzanak létre. És ennek következtében, megszereznek egy bizonyos identitást, amely a közösséghez kapcsolódik. Ez az út a felhasználók számára további érték nyújtására is - érték, amely meghaladja egy Deed képességeit, vagy a Deedek közötti együttműködés révén létrehozott értéket.
 
@@ -148,6 +148,6 @@ Alapértelmezés szerint (kivéve, ha a város másképp szavaz), a Deed-ek bér
 
 A Deed tulajdonjogának tranzakciói (Deed értékesítései) is 6% adókötelesek lesznek:
 
-- 2.5% for the City,
-- 2.5% for the Association,
-- 1% for the original wallet that redeemed the Deed.
+- 2.5% a város számára,
+- 2.5% az Egyesülésnek
+- 1% az eredeti pénztárcának, amely visszaváltotta a Tulajdoni Lap.
