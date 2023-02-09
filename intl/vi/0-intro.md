@@ -4,9 +4,9 @@
 
 Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
 
-The Work Metaverse (the WoM) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
+Các Thế Giới Công Việc (WoM) đề xuất một giải pháp mới mà sẽ giảm chi phí giao dịch và tái tạo mối quan hệ việc làm, kết nối các công ty truyền thống và DAOs.
 
-The WoM does that by introducing digital identities for both employer and employee and offering an innovative engagement reward system that would align their interests.
+WoM làm điều đó bằng cách giới thiệu những tư cách kỹ thuật số cho cả nhà tuyển dụng và nhân viên và cung cấp một hệ thống thưởng hứng tích cậy mới mẻ mà sẽ cân bằng sở thích của họ.
 
 ## Introduction
 
@@ -14,28 +14,28 @@ The work market today is broken. It fails to satisfy both employees and employer
 
 On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
 
-Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
+Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Ngoài ra, việc đền bù và tiến bộ nghề nghiệp cũng phụ thuộc vào yếu tố con người - tin cậy và trung thực của quản lý trực tiếp của nhân viên.
 
-Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
+Người sở hữu công ty, trong khi đó, gặp khó khăn trong việc tìm kiếm nguồn nhân lực và tuyển dụng kỹ năng đúng và phù hợp vào lúc đúng cho công việc. Không có cách chính xác để xác định năng lực của người được tuyển dụng hoặc tìm kiếm nhân tài ngoài nguồn tuyển dụng truyền thống của nhà tuyển dụng.
 
-Employers also deal with the lack of loyalty from their employees and a high turnover, both of which, increase hiring and on-boarding costs.
+Nhà tuyển dụng cũng phải đối mặt với thiếu trung thành từ nhân viên và tỷ lệ thay đổi cao, cả hai điều này tăng chi phí tuyển dụng và khởi động.
 
-Moreover, employers also face low engagement in their existing employees, leading to low creativity, productivity and innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
+Ngoài ra, nhà tuyển dụng cũng đối mặt với sự không tích cực của nhân viên hiện tại, dẫn đến sự thiếu sáng tạo, hiệu quả và sáng tạo. Cuối cùng gây ra nhiều thiệt hại hơn trong kinh tế hiện nay yêu cầu nhiều công việc sáng tạo có kỹ năng.
 
-All of the above boil down to high transaction costs and the exacerbated agent-principal problem[^4] :
+Tất cả các điều trên rút gọn thành chi phí giao dịch cao và vấn đề đại diện-chủ sản phẩm làm nảy sinh[^4] :
 
-- With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element.
-- As to the agent-principal problem, it has been compounded by the increasing revenue and wealth gap between employees and shareholders and the rigidity of the employer-employee relationship.
+- Với Internet, thị trường việc làm đã phát triển hướng đến sự đoàn kết và trong suốt hơn nữa nhờ các trang web đăng tin tuyển dụng, trang web nghề nghiệp, vv. Nhưng chi phí giao dịch vẫn quá cao trong trạng thái thiếu phần đối lưu.
+- Về vấn đề đại lý-chủ sở hữu, nó đã bị phức tạp bởi sự tăng trưởng của khoảng cách doanh thu và tài sản giữa nhân viên và cổ đông và sự cứng cỏi của mối quan hệ nhà tuyển dụng-nhân viên.
 
-The WoM aims at solving both through a new decentralized work paradigm.
+WoM hướng tới giải quyết cả hai bằng một giải pháp làm việc phi tập trung mới.
 
-Following R. Coase’s works[^5], most economists link the concept of enterprise with the necessity to mitigate transaction costs. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs[^6] started this process focusing on lowering the cost of transactions for capital sourcing and governance. The WoM aims at pushing this logic further by lowering the cost of work transactions. It proposes a decentralized world where jobs and skills matching could be done objectively, quickly and globally.
+Sau các tác phẩm của R. Coase[^5], Hầu hết các nhà kinh tế liên kết khái niệm về doanh nghiệp với việc giảm chi phí giao dịch. Internet và gần đây là blockchain và web3 mở ra những cơ hội hấp dẫn trong việc giảm chi phí giao dịch ở mọi nơi, tái tạo kinh tế và đặc biệt là tái tạo doanh nghiệp. Các DAO đầu tiên [^6] bắt đầu quá trình này tập trung vào việc giảm chi phí giao dịch cho nguồn cung và quản trị. WoM cố gắng đẩy nền lý lại này đến tận đáy bằng cách giảm chi phí của các giao dịch làm việc. Nó đề xuất một thế giới phi tập trung, trong đó việc phù hợp công việc và kỹ năng có thể được thực hiện một cách chính xác, nhanh chóng và toàn cầu.
 
-The first DAOs flatten the hierarchies and open ownership. The WoM pursues this logic by reinventing rather than suppressing the employer/employee relationship. It introduces a transparent, objective and decentralized reward paradigm, that would sustainably align the employer and the employee interests.
+Các DAO đầu tiên phẳng hóa các cấp bậc và mở rộng sở hữu. Câu này có thể dịch sang tiếng Việt như sau: WoM theo đuổi lý luận này bằng cách tái tạo, chứ không phải loại bỏ mối quan hệ nhà tuyển dụng/nhân viên. Nó giới thiệu một kiến trúc thưởng trong suốt, độc lập và không gian, sẽ cân bằng một cách bền vững quan điểm của nhà tuyển dụng và nhân viên.
 
-Finally, the Work Metaverse bridges the gap between corporations and the DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. On the other hand, it proposes sustainable ways to operate and create value for DAOs. Ultimately, the WoM could be among the first mainstream applications to democratize the use of the blockchain for every company and every employee – including non-digital ones.
+Cuối cùng, Work Metaverse là cầu nối giữa các công ty và DAOs. Một bên, nó giới thiệu các công ty truyền thống vào thế giới phân tán bằng một kịch bản đánh giá thưởng dễ dàng áp dụng, bổ sung hệ thống trả lương của họ. Trên một tay khác, nó đề xuất các cách hoạt động bền vững để tạo ra giá trị cho DAOs. Cuối cùng, WoM có thể trở thành một trong những ứng dụng đầu tiên để đổi mới sử dụng blockchain cho mọi công ty và mọi nhân viên - bao gồm cả những người không sử dụng kỹ thuật số.
 
-As with any decentralized venture, the WoM proposal gains in value exponentially as more people use it. For that reason, founders took great care to encourage long term interest and avoid monopolizing the WoM benefits, whether short term or long term. It is an open paradigm, still to be built, and open to active creative participation from everyone.
+Cuối cùng, WoM có thể trở thành một trong những ứng dụng đầu tiên để đổi mới sử dụng blockchain cho mọi công ty và mọi nhân viên - bao gồm cả những người không sử dụng kỹ thuật số. Vì thế, những người sáng lập đã rất cẩn thận trong việc thúc đẩy sự quan tâm dài hạn và tránh tập trung lợi ích WoM, bất kể là tạm thời hoặc dài hạn. Đây là một giải pháp mở, vẫn chưa được xây dựng và mở rộng cho sự tham gia tạo tác hoạt động từ mọi người.
 
 
 [^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)
