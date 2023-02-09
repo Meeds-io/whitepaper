@@ -1,153 +1,153 @@
 
-# 2. Deeds NFT - Work Metaverse Organizations
+# 2. Deeds NFT - Arbeidsmetaverse organisasjoner
 
-## 2.1. NFT – Deeds defined
+## 2.1. NFT –  Deeds definert
 
-A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+Et ikke-fungible token (NFT) er et unikt token som representerer en vare. I WoM brukes et skjøte som tittel på eierskap. Hver Deed gir sin eier rett til tilgang til flere tjenester - for eksempel tilgang til et digitalt kontor, drevet av Meeds-programvaren og retten til å prege Meeds.
 
-The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM.
+WoM ønsker alle slags organisasjoner velkommen - DAOer, tradisjonelle selskaper, foreninger, tenketanker, partnerskap, teaterselskaper, prosjektgrupper, skoler etc. The Deed representerer deres digitale eksistens i WoM.
 
-## 2.2. Deeds supply
+## 2.2. Skjøteforsyning
 
-The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of Meeds rewarding (Minting Power). The term ‘user’ here and hereafter designates any type of employee, worker, freelancer, volunteer etc.
+WoM vil til slutt levere et begrenset antall skjøter. Hver Deed inkluderer et  forhåndsdefinert maksimalt antall brukere og tilbyr en kapasitet på Meeds-belønning (Minting Power). Begrepet "bruker" her og heretter betegner enhver type ansatt, arbeider, frilanser, frivillig osv.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
+Det er fire typer skjøter, som hver gir forskjellige funksjoner når det gjelder antall brukere, stemmerett i en by (se 2.7) eller Meeds pregekraft, den sjeldneste er den mektigste:
 
-| **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
-| ------------- | ------------- | ----------------- | ------------ | ---------------------- |
-| Common        | 100           | 1                 | ~ 90%        | 1                      |
-| Uncommon      | 1000          | 1.1               | ~ 9%         | 10                     |
-| Rare          | 10 000        | 1.3               | ~ 1%         | 100                    |
-| Legendary     | unlimited     | 2                 | < 0.1 %      | 1000                   |
+| **Deed Type** | **Max brukere** | **Minting power** | **Skarby** | **By stemmerett** |
+| ------------- | --------------- | ----------------- | ---------- | ----------------- |
+| Vanlig        | 100             | 1                 | ~ 90%      | 1                 |
+| Uvanlig       | 1000            | 1.1               | ~ 9%       | 10                |
+| Sjelden       | 10 000          | 1.3               | ~ 1%       | 100               |
+| Legendarisk   | ubegrenset      | 2                 | < 0.1 %    | 1000              |
 
-## 2.3. Deeds ownership
+## 2.3. Deeds eierskap
 
-A Deed gives its owner the right to USE it, RENT it, or SELL it.
+Et skjøte gir sin eier rett til å BRUKE det, LEIE det eller SELGE det.
 
-- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
-- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
-- SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
+- BRUK – Skjøtens eiere kan bruke skjøtet direkte for sin organisasjon, og tilby tjenester til brukerne.
+- LEIE - Skjøteets eiere kan også leie skjøtet til en annen organisasjon for å få passiv inntekt.
+- SELG - Et skjøte kan selges på et annenhåndsmarked som [OpenSea](https://opensea.io).
 
 Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
 
-## 2.4. Deeds services, engagement/rewards engine
+## 2.4. Deeds-tjenester, motor for engasjement/belønning
 
-In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
+I et stadig mer konkurranseutsatt marked, for å tiltrekke og beholde talenter og maksimere deres innspill, må organisasjoner motivere brukerne sine utover enkel kompensasjon. WoM gir et innovativt rammeverk for å gjøre det ved å symbolisere arbeidsengasjement.
 
-Each Deed’s holder or renter can provide tools and services to its users, who earn engagement points that can be fine-tuned to the Deed’s priorities. Periodically, points are converted into Meeds (and - for DAOs - potentially another token), based on the Deed’s set budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
+Hver Deed-innehaver eller  -leier kan tilby verktøy og tjenester til sine brukere, som tjener engasjementspoeng som kan finjusteres i henhold til Deeds prioriteringer. Med jevne mellomrom konverteres poeng til Meeds (og - for DAO-er - potensielt et annet token), basert på Deeds fastsatte budsjett. På den måten belønnes brukernes engasjement i aktiviteter som har betydning for organisasjonen.
 
-To begin with, the following free services provided by the Meeds association can be used to reward engagement:
+Til å begynne med kan følgende gratistjenester levert av Meeds-foreningen brukes til å belønne engasjement:
 
-- **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the Deed’s priorities via customizable engagement programs.
-- **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
-- **Customizable engagement programs** - organizations can create their own engagement programs matching their business goals and priorities. Programs are associated to automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatics or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
-- **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
-- **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
-- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
-- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
-- **Analytics** – to analyze and follow engagement within the Deed.
-- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
+- **Gamification engine** - automatiske handlinger i WoM har en vekt i poeng, som kan finjusteres til handlingens prioriteringer via tilpassbare engasjementsprogrammer.
+- **Utfordringer** - tilpassbare utfordringer kan settes opp for å representere prestasjoner. Utfordringer er forhåndsinnstilt av én person og kan fylles ut og annonseres som sådan av en annen. Utfordringer har en vekt i poeng, innenfor tilpassede engasjementsprogrammer.
+- **Tilpassbare engasjementsprogrammer** – organisasjoner kan lage sine egne engasjementsprogram som matcher deres forretningsmål og prioriteringer. Programmene er knyttet til automatiske handlinger i systemet og manuelt angitte utfordringer . Hvert program har et fastsatt Meeds-budsjett. Med jevne mellomrom konverteres poeng opptjent av hver bruker gjennom automatiske eller annonserte handlinger i hvert engasjementsprogram til Meeds, basert på programmets budsjett.
+- **Kudos** - kudos kan tildeles av brukere til hverandre, som en takk og et tegn på anerkjennelse. Ettersom det er begrenset hvor mange kudos som kan deles ut (en forhåndsinnstilt periodisk grense, for eksempel 3 per uke), er de sjeldne og verdifulle. I likhet med handlinger gir kudos poeng. På denne måten får de ansatte mulighet til å belønne kollegene sine.
+- **Samarbeid** verktøy, koblet til den givende motoren - arbeidsområder, asynkron kommunikasjon, et oppgavehåndteringsverktøy og notater - gjør det mulig for folk å jobbe sammen på prosjekter.
+- **Lommebok** - brukerne får en sikker Ethereum-teknologilommebok for å lagre Meeds. Alternativt kan en Metamask lommebok brukes for avanserte brukere.
+- **Lagre** - en butikk der Meeds kan byttes mot fordeler som tilbys av Deeds-innehaveren eller -leieren eller av Meeds-økosystemet.
+- **Analyser** - å analysere og følge engasjementet i Deed.
+- **Koblinger**, koblet til belønningsmotoren - brukerne får engasjementspoeng via handlinger i en annen programvare - for eksempel for å legge inn kode i GitHub.
 
-Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
+Noen av de nevnte verktøyene og tjenestene er allerede desentralisert, andre ikke. Det endelige målet er å tilby alle tjenester på en desentralisert måte,  noe vi vil gjøre gradvis etter hvert som den underliggende teknologien utvikler seg.
 
-New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
+Nye tjenester kan kobles til belønningsmotoren gjennom APIer. Nye tjenester kan kobles til belønningsmotoren gjennom APIer.
 
-- CRM software – salespeople would get engagement points for working on opportunities.
-- Accounting software – accountants would get engagement points for keeping books.
-- Clocking terminal – factory worker can get points for factory work time.
-- Etc.
+- CRM-programvare – selgere vil få engasjementspoeng for å jobbe med muligheter.
+- Regnskapsprogramvare - regnskapsførere vil få engasjementspoeng for å føre bøker.
+- Klokketerminal – fabrikkarbeider kan få poeng for fabrikkarbeidstid.
+- etc.
 
-Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
+Videre deltar engasjement som produseres via koblingen i organisasjonens globale engasjementsscore, som er en faktor for Meeds pregdistribusjon, beskrevet nedenfor. For å gjøre det, må koblingen være hvitelistet av Meeds Association. Foreningen vurderer koblingen, godkjenner algoritmen og overtar eierskapet mot Meeds. Det blir da en del av gratistjenestene som tilbys av foreningen og er inkludert i den globale engasjementsindeksen. Enhver annen Deed kan bruke den samme koblingen og den samme belønningsalgoritmen for utviklerne.
 
-The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
+Deeds innehaver eller renter har mulighet til å formidle sine egne fordeler og tilkoble seg et nettbasert tilbud osv. Også her er mulighetene uendelige:
 
-- Training courses
-- Gym memberships
-- Vacation packages
-- Lunch with a leader in the organization
-- Physical office space
-- Etc.
+- Treningskurs
+- Medlemskap på treningssenter
+- Gavekort til ferier
+- Lunsj med en leder i organisasjonen
+- Fysisk kontorplass
+- Osv.
 
-The store functions through the use of Meeds so that Meeds are partially returned to the Deed.
+Butikken fungerer gjennom bruk av Meeds slik at Meeds delvis returneres til Deed.
 
-## 2.5. Rewards – Meeds and other tokens
+## 2.5. Belønninger – Meeds og andre tokens
 
-The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs. Indeed, each Deed can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
+WoM vil symbolisere brukernes engasjement, ved å gamify digitale arbeidsverktøy, og tilskrive poeng og Meeds i forhold til arbeidsengasjement. Tjenester koblet til engasjements- og belønningsmotorattributtet peker til hver bruker, i henhold til deres engasjementsnivå og i tråd med hver Deeds engasjementsprogrammer. Faktisk kan hver Deed finjustere antall poeng gitt for hver type aktivitet. Dermed kan det å pushe noe kode i GitHub være verdt 10 poeng for en IT-butikk, mens et digitalt byrå kan tilskrive bare 5 poeng for GitHub-push, men vil tilby 10 poeng for retweets.
 
-Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Deed is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
+Med jevne mellomrom konverterer den belønningsmotoren engasjementspoeng til Meeds i henhold til budsjetter og andre distribusjonsregler og belønner til slutt brukerne via deres lommebøker. Skjøtet er ikke pålagt å distribuere Meeds og kan bruke engasjementsystemet til å aktivere en annen form for kompensasjonsprogram. Imidlertid vil distribusjon av Meeds forbedre pregekapasiteten.
 
-Moreover, the Deed does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
+Dessuten trenger ikke Deed nødvendigvis å anskaffe Meeds for å distribuere dem og gi energi til engasjementsprogrammene, siden den vil få Meeds fra "mintium"-modellen, beskrevet nedenfor.
 
-In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
+I tillegg til Meeds vil det også være mulig å distribuere andre tokens (for eksempel DAOs egne tokens) basert på samme engasjementsmekanisme. I så fall vil distribusjonen være underlagt et transaksjonsgebyr på  5 % (i DAO-token) for Meeds Association.
 
-## 2.6. The “mintium” model – tokenize work engagement
+## 2.6. "Mintium"-modellen - tokenisere arbeidsengasjementet
 
-By engaging their users in the WoM, Deeds get compensated through an innovative mintium model.
+Ved å engasjere brukerne i WoM får Deeds kompensasjon gjennom en innovativ mintiummodell.
 
-Engagement points, gained by the Deeds’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Deeds. Even though the Deed can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
+Engasjementspoeng, oppnådd av Deeds' brukere, inngår i den globale engasjementsindeksen, beregnet av Meeds Association. Indeksen bruker samme prinsipp for alle Deeds.  Selv om Deed kan endre poengtildelingen for å fremme en handling fremfor en annen,  vil disse endringene ikke bli tatt med i beregningen av den globale indeksen.
 
-Each week, a certain amount of Meeds is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Deeds. Some Deeds get an additional boost depending on their type. The Deeds that claim their Meeds over the week, receive them. The unclaimed Meeds are added to the following week’s global distribution amount.
+Hver uke tildeles en viss mengde Meeds til den globale engasjementspregingen av WoM. Det beregnes ukentlig, pro-rata, blant deltakende Deeds. Noen Deeds får et ekstra løft avhengig av deres type.  De Deeds som gjør krav på sine Meeds i løpet av uken, mottar dem. Meeds som ikke hentes ut, legges til neste ukes globale distribusjonsbeløp.
 
-The engagement score _S_  of a Deed is a function of the engagement, the number of engaged users and the distribution :
+Engasjementspoengsummen_S_ en Deed er en funksjon av engasjementet, antall engasjerte brukere og distribusjonen:
 
 $$S = (E_d / E_w) * D_r * D_s * M$$
 
-Where :
+Hvor:
 
-- $A$ = _Activity_ - total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
-- $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
-- $E_d$ = _Engagement rate of the deed_ - actions per user ($A/U$)
-- $E_w$ = _Average engagement rate_ of all active Deeds in the WoM.
-- $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
-- $D_s$ =  _Distribution spread_ - if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
-- $M$ = _Minting Power_ of the Deed as defined in 2.3
-
-
-The global engagement index used to distribute minted Meeds among the Deeds is the sum of all Deeds’ engagement scores for the week.
+- $A$ = _Aktivitet_ - totalt antall handlinger akkumulert av brukere innenfor Deed i løpet av uken. (På hvert Deed-nivå konverteres hver handling til engasjementspoeng, og noen handlinger vektes mer enn andre. På indeksnivå er alle handlinger linearisert).
+- $U$ = _Engasjerte brukere_ - brukere som bidro til poeng i løpet av uken, med minst én handling.
+- $E_d$= _Engasjementsgrad for Deed_ - handlinger per bruker ($A/U$)
+- $E_w$ = _Gjennomsnittlig engasjementsgrad_ for alle aktive Deeds i WoM.
+- $D_r$ = _Distribusjonsrate_ - hvis en Deed mottok myntede Meeds for den foregående perioden, prosentandelen av Meeds som ble distribuert til brukerne. Prosentandelen kan være over 100 hvis distribusjonen er forsinket i tid.
+- $D_s$ =  _Distribusjonsspredning_ - hvis en Deed mottok utstedte Meeds for den foregående perioden, % av brukerne som mottok Meeds i den totale brukergruppen.
+- $M$ = _Minting Power_ av Deed som definert i 2.3
 
 
-The formula above is simple and designed to favor deeds :
+Den globale engasjementsindeksen som brukes til å fordele myntede Meeds blant Deeds, er summen av alle Deeds' engasjementspoeng for uken.
 
-- with lots of engaged users (engagement)
-- who share the whole of the minting income (distribution rate) with their users fairly (distribution spread).
 
-Additionnally boosters are in place for :
+Formelen ovenfor er enkel og utformet for å favorisere deeds :
 
-- organizations with the highest engagement, regardless of their size (engagement rate in relation to the WoM)
-- scarcer deeds
+- med mange engasjerte brukere (engasjement)
+- som deler hele myntinntekten (distribusjonsrate) med brukerne sine på en rettferdig måte (distribusjonsspredning).
 
-> The Meeds association reserves the right to change the formula if required – if some specific use cases arise for instance. The association can also blacklist any Deed that hijacks the formula to its unique benefit.
+I tillegg er boostere på plass for :
 
-As the Deeds are rewarded with Meeds and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the Deeds and their users are aligned in the same virtuous revenue sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
+- organisasjoner med det høyeste engasjementet, uavhengig av størrelse (engasjementsgrad i forhold til WoM)
+- sjeldnere deeds
 
-The “mintium” model is the first of a kind - it goes further than the traditional freemium one, as not only the services are free to use but both the organizations and their users are rewarded for using them.
+> Meeds-foreningen forbeholder seg retten til å endre formelen om nødvendig – hvis det for eksempel skulle oppstå noen spesifikke brukstilfeller. Foreningen kan også svarteliste enhver Deed som kaprer formelen til sin unike fordel.
 
-## 2.7. Cities and governance
+Ettersom Deeds belønnes med Meeds og incentiveres til å omfordele dem som belønninger til brukerne mot deres engasjement – er interessene til både Deeds og deres brukere på linje i den samme gode inntektsdelingssyklusen. Dermed tilbyr WoM en ny arbeidsmodell som omformer arbeidsgiver/arbeidstakerforholdet som et partnerskap.
 
-In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
+"Mintium"-modellen er den første av sitt slag - den går lenger enn den tradisjonelle freemium-modellen, siden ikke bare tjenestene er gratis å bruke, men både organisasjonene og brukerne deres blir belønnet for å bruke dem.
 
-A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
+## 2.7. Byer og styring
 
-| **City name** | **Deeds**   | **Available**        | **Common** | **Uncommon** | **Rare**  | **Legendary** |
-| ------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
-| 1: Tanit      | 100         | T0                   | 50         | 30           | 13        | 7             |
-| 2: Reshef     | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
-| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
-| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
+I WoM vil Deeds bli generert gradvis inne i virtuelle byer. Bare den første byen vil eksistere fra starten. De andre vil bli bygget gradvis, den ene etter den andre. I hele WoM vil det alltid bare være 7 byer, hver med et fast antall Deeds av hver type.
 
-A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
+En by vil bli ansett som komplett når alle dens Deeds er preget. Deretter vil pregingen av hver nye by starte $2^n$ måneder etter at det siste Deed til byen $n-1$ ble preget.
 
-Each city has its own govenance and operates its own DAO where the city’s Deeds’ owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
+| **By navn** | **Deeds**   | **Tilgjengelig**      | **Vanlig** | **Uvanlig** | **Sjelden** | **Legendarisk** |
+| ----------- | ----------- | --------------------- | ---------- | ----------- | ----------- | --------------- |
+| 1: Tanit    | 100         | T0                    | 50         | 30          | 13          | 7               |
+| 2: Reshef   | 1 000       | Tanit + 4 måneder     | 600        | 300         | 94          | 6               |
+| 3: Ashtarte | 10 000      | Reshef + 8 måneder    | 6 000      | 3 000       | 995         | 5               |
+| 4: Melqart  | 100 000     | Ashtarte + 16 måneder | 60 000     | 30 000      | 9 996       | 4               |
+| 5: Eshmun   | 1 000 000   | Melqart + 32 måneder  | 600 000    | 300 000     | 99 997      | 3               |
+| 6: Kushor   | 10 000 000  | Eshmum + 64 måneder   | 6 000 000  | 3 000 000   | 999 998     | 2               |
+| 7: Hammon   | 100 000 000 | Kushor + 128 måneder  | 60 000 000 | 30 000 000  | 9 999 999   | 1               |
 
-For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add Meeds powered food services, vacations services, etc...
+En by er en måte for Deeds å komme sammen og skape et fellesskap. Og som en konsekvens, tilegne seg en viss identitet, assosiert med det fellesskapet. Det er også en måte å gi ekstra verdi til sine brukere - verdi som vil gå utover en Deeds evner eller verdi skapt gjennom samarbeid mellom Deeds.
 
-By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
+Hver by har sin egen styring og driver sin egen DAO der byens Deeds-eiere kan velge sitt bystyre, stemme og etablere sine egne driftsregler, legge til nye tjenester og forme byen sin på den måten de ønsker og for å øke byens attraktivitet og verdien av skjøtene knyttet til den.
 
-Ownsership transactions (Deed’s sales) will also be taxed 6% :
+De kan for eksempel legge til en digital representasjon av byen deres, fysiske motstykker knyttet til byen deres (for eksempel møterom i fysiske samarbeidsrom), legge til Meeds-drevne mattjenester, ferietjenester osv.
 
-- 2.5% for the City,
-- 2.5% for the Association,
-- 1% for the original wallet that redeemed the Deed.
+Som standard (med mindre byen stemmer noe annet), vil passive inntekter fra utleie av Deeds "skattes" av byen (5%) og foreningen (3%) for å oppmuntre til produktiv bruk.
+
+Eierskapstransaksjoner (Deeds salg) vil også bli beskattet 6% :
+
+- 2,5 % for Byen,
+- 2,5 % til Foreningen,
+- 1% for den opprinnelige lommeboken som innløste Deed.
