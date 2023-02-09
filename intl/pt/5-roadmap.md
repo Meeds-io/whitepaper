@@ -1,14 +1,14 @@
-# 5. O Metaverso de Trabalho para TODOS - resumo de visão e marcos
+# 5. O Work Metaverse para Todos - resumo e visão e marcos
 
-## 5.1. Objetivo final - web descentralizada para todos
+## 5.1. Objetivo final - web descentralizada acessível a todos
 
-No final, o WoM é um mundo web descentralizado para todos - cada pessoa e cada organização.
+No final, a WoM é um mundo da web descentralizado para todos - cada pessoa e cada organização.
 
-Ela será preenchida pelos usuários, atuando através de suas identidades digitais **Xeeds** e acessando o mundo através de suas metamáscaras, para crypto-savvies, ou login/password para os novatos. As pessoas alocariam seu compromisso e seriam recompensadas de forma justa, transparente e descentralizada. Eles teriam acesso ao mundo descentralizado e ao mundo criptográfico de amanhã de forma fácil e familiar - eles obteriam ferramentas simples para usar seus símbolos em suas vidas ou investi-los para seu futuro.
+Ele será habitado por usuários, atuando através de suas identidades digitais **Xeeds** e acessando o mundo através de suas metamascs, para os conhecedores de criptomoedas, ou login/senha para os iniciantes. As pessoas alocariam seu envolvimento e seriam recompensadas de maneira justa, transparente e descentralizada. Elas teriam acesso ao mundo descentralizado e ao mundo das criptomoedas do futuro de uma forma fácil e familiar - elas teriam ferramentas simples para usar seus tokens em suas vidas ou investi-los para o futuro.
 
-As organizações - **Deeds** seriam capazes de buscar talentos, navegando através do WoM, para as habilidades comprovadas certas. Eles seriam recompensados por sua participação no metaverso, cunhando fichas através de seu engajamento de usuários (modelo de mintium). Mas, acima de tudo, eles se beneficiariam de um maior envolvimento e lealdade de seus usuários.
+Organizações - **Deeds** poderiam encontrar talentos, navegando pelo WoM, com as habilidades comprovadas certas. Eles seriam recompensadas por sua participação na metaversa, criando tokens através do envolvimento de seus usuários (modelo mintium). Mas acima de tudo, eles se beneficontariam com um maior envolvimento e lealdade de seus usuários.
 
-The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem. O WoM também facilitaria a distribuição de outras fichas e participaria do ecossistema criptográfico em geral.
+A WoM teria sua própria moeda **Meeds** - que estaria disponível para gastar em lojas, converter em outra moeda, investir em retorno de investimento, alugar ou comprar, etc. O WoM também facilitaria a distribuição de outras fichas e participaria do ecossistema criptográfico em geral.
 
 Como uma imagem vale mais que mil palavras, aqui está um diagrama que descreve os fluxos de WoM e Meeds
 
