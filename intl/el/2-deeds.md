@@ -57,61 +57,61 @@
 - Τερματικό χρονομέτρησης - ο εργάτης του εργοστασίου μπορεί να πάρει πόντους για το χρόνο εργασίας στο εργοστάσιο.
 - Etc.
 
-Επιπλέον, η δέσμευση που παράγεται μέσω του συνδετήρα συμμετέχει στη συνολική βαθμολογία δέσμευσης του οργανισμού, η οποία είναι ένας παράγοντας της κατανομής της νομισματοκοπίας Meeds, που περιγράφεται παρακάτω. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
+Επιπλέον, η δέσμευση που παράγεται μέσω του συνδετήρα συμμετέχει στη συνολική βαθμολογία δέσμευσης του οργανισμού, η οποία είναι ένας παράγοντας της κατανομής της νομισματοκοπίας Meeds, που περιγράφεται παρακάτω. Για να γίνει αυτό, ο σύνδεσμος πρέπει να είναι στη λευκή λίστα του Meeds Association. Η ένωση εξετάζει τον σύνδεσμο, εγκρίνει τον αλγόριθμό του και αποκτά την κυριότητά του έναντι της Meeds. Στη συνέχεια γίνεται μέρος των δωρεάν υπηρεσιών που παρέχει η ένωση και περιλαμβάνεται στον παγκόσμιο δείκτη δέσμευσης. Οποιοδήποτε άλλο Deed μπορεί να χρησιμοποιήσει τον ίδιο σύνδεσμο και τον ίδιο αλγόριθμο ανταμοιβής για τους προγραμματιστές του.
 
-The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
+Ο κάτοχος ή ο ενοικιαστής του Deed μπορεί να εμπλουτίσει το κατάστημά του με τα δικά του προνόμια, να συνδεθεί με μια ηλεκτρονική προσφορά προνομίων κ. λπ. Και πάλι οι δυνατότητες είναι ατελείωτες:
 
-- Training courses
-- Gym memberships
-- Vacation packages
-- Lunch with a leader in the organization
-- Physical office space
+- Μαθήματα κατάρτισης
+- Συνδρομές γυμναστηρίου
+- Πακέτα διακοπών
+- Γεύμα με έναν ηγέτη του οργανισμού
+- Φυσικός χώρος γραφείων
 - Etc.
 
-The store functions through the use of Meeds so that Meeds are partially returned to the Deed.
+Το κατάστημα λειτουργεί μέσω της χρήσης των Meeds, έτσι ώστε τα Meeds να επιστρέφονται εν μέρει στο Deed.
 
-## 2.5. Rewards – Meeds and other tokens
+## 2.5. Ανταμοιβές - Meeds και άλλα κουπόνια
 
-The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs. Indeed, each Deed can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
+Το WoM θα συμβολίζει την εμπλοκή των χρηστών, με την παιχνιδοποίηση των ψηφιακών εργαλείων εργασίας και την απόδοση πόντων και Meeds σε σχέση με την εργασιακή εμπλοκή. Οι υπηρεσίες που συνδέονται με τη μηχανή δέσμευσης και ανταμοιβής αποδίδουν πόντους σε κάθε χρήστη, ανάλογα με το επίπεδο δέσμευσής του και σύμφωνα με τα προγράμματα δέσμευσης κάθε Deed. Πράγματι, κάθε Deed μπορεί να ρυθμίσει λεπτομερώς το ποσό των βαθμών που δίνονται για κάθε είδος δραστηριότητας. Έτσι, η προώθηση κάποιου κώδικα στο GitHub μπορεί να αξίζει 10 πόντους για ένα κατάστημα πληροφορικής, ενώ ένα ψηφιακό πρακτορείο μπορεί να αποδίδει μόνο 5 πόντους για τις προωθήσεις στο GitHub, αλλά θα προσφέρει 10 πόντους για τα retweets.
 
-Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Deed is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
+Σε τακτά χρονικά διαστήματα, η μηχανή ανταμοιβής μετατρέπει τους πόντους συμμετοχής σε Meeds σύμφωνα με τους προϋπολογισμούς και άλλους κανόνες διανομής και τελικά ανταμείβει τους χρήστες μέσω των πορτοφολιών τους. Το Deed δεν υποχρεούται να διανέμει Meeds και μπορεί να χρησιμοποιήσει το σύστημα δέσμευσης για να ενεργοποιήσει κάποια άλλη μορφή προγράμματος αποζημίωσης. Ωστόσο, η διανομή των Meeds θα βελτιώσει την ικανότητα κοπής νομισμάτων.
 
-Moreover, the Deed does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
+Επιπλέον, το Deed δεν χρειάζεται απαραίτητα να αποκτήσει Meeds για να τα διανείμει και να τροφοδοτήσει τα προγράμματα δέσμευσης, καθώς θα αποκτήσει Meeds από το μοντέλο "mintium", που περιγράφεται παρακάτω.
 
-In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
+Εκτός από τα Meeds, θα είναι επίσης δυνατή η διανομή άλλων μαρκών (για παράδειγμα των μαρκών του DAO) με βάση τον ίδιο μηχανισμό δέσμευσης. Σε αυτή την περίπτωση, η διανομή θα υπόκειται σε τέλος συναλλαγής 5% (σε token DAO) για την Ένωση Meeds.
 
-## 2.6. The “mintium” model – tokenize work engagement
+## 2.6. Το μοντέλο "mintium" - συμβολική δέσμευση στην εργασία
 
-By engaging their users in the WoM, Deeds get compensated through an innovative mintium model.
+Με τη συμμετοχή των χρηστών τους στο WoM, οι Deeds αποζημιώνονται μέσω ενός καινοτόμου μοντέλου mintium.
 
-Engagement points, gained by the Deeds’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Deeds. Even though the Deed can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
+Οι πόντοι δέσμευσης, που κερδίζουν οι χρήστες του Deeds, συμμετέχουν στον παγκόσμιο δείκτη δέσμευσης, ο οποίος υπολογίζεται από το Meeds Association. Ο δείκτης χρησιμοποιεί την ίδια αρχή για όλες τις Deeds. Παρόλο που η Deed μπορεί να αλλάξει την κατανομή των βαθμών για να προωθήσει μια δράση έναντι μιας άλλης, οι αλλαγές αυτές δεν θα ληφθούν υπόψη στον υπολογισμό του συνολικού δείκτη.
 
-Each week, a certain amount of Meeds is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Deeds. Some Deeds get an additional boost depending on their type. The Deeds that claim their Meeds over the week, receive them. The unclaimed Meeds are added to the following week’s global distribution amount.
+Κάθε εβδομάδα, ένα ορισμένο ποσό Meeds διατίθεται για την παγκόσμια νομισματοκοπία του WoM. Υπολογίζεται εβδομαδιαία, αναλογικά, μεταξύ των συμμετεχόντων Deeds. Ορισμένα Deeds λαμβάνουν πρόσθετη ενίσχυση ανάλογα με τον τύπο τους. Τα Deeds που διεκδικούν τα Meeds τους κατά τη διάρκεια της εβδομάδας, τα λαμβάνουν. Τα αζήτητα Meeds προστίθενται στο συνολικό ποσό διανομής της επόμενης εβδομάδας.
 
-The engagement score _S_  of a Deed is a function of the engagement, the number of engaged users and the distribution :
+Το σκορ εμπλοκής _S_ ενός Deed είναι μια συνάρτηση της εμπλοκής, του αριθμού των δεσμευμένων χρηστών και της κατανομής :
 
 $$S = (E_d / E_w) * D_r * D_s * M$$
 
-Where :
+Πού :
 
-- $A$ = _Activity_ - total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
-- $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
-- $E_d$ = _Engagement rate of the deed_ - actions per user ($A/U$)
-- $E_w$ = _Average engagement rate_ of all active Deeds in the WoM.
-- $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
-- $D_s$ =  _Distribution spread_ - if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
-- $M$ = _Minting Power_ of the Deed as defined in 2.3
-
-
-The global engagement index used to distribute minted Meeds among the Deeds is the sum of all Deeds’ engagement scores for the week.
+- $A$ = _Activity_ - συνολικός αριθμός ενεργειών που έχουν συσσωρευτεί από τους χρήστες εντός του Deed κατά τη διάρκεια της εβδομάδας. (Σε επίπεδο κάθε Deeds, κάθε δράση μετατρέπεται σε πόντους δέσμευσης, με ορισμένες δράσεις να έχουν μεγαλύτερη βαρύτητα από άλλες. Σε επίπεδο δείκτη, όλες οι ενέργειες γραμμικοποιούνται).
+- $U$ = _Engaged users_ - χρήστες που συνέβαλαν σε πόντους κατά τη διάρκεια της εβδομάδας, με τουλάχιστον μία ενέργεια.
+- $E_d$ = _Ποσοστό εμπλοκής του Deed_ - ενέργειες ανά χρήστη ($A/U$)
+- $E_w$ = _Μέσο ποσοστό εμπλοκής_ όλων των ενεργών Deeds στο WoM.
+- $D_r$ = _Distribution rate_ - εάν ένα Deed έλαβε νομισματοκοπήματα Meeds για την προηγούμενη περίοδο, το % των Meeds που διανεμήθηκε στους χρήστες του. Το % μπορεί να υπερβαίνει το 100 εάν η διανομή καθυστερεί χρονικά.
+- $D_s$ = _Distribution spread_ - εάν ένα Deed έλαβε νομισματοποιημένα Meeds για την προηγούμενη περίοδο, το % των χρηστών που έλαβαν Meeds στο σύνολο των χρηστών.
+- $M$ = _Minting Power_ της πράξης, όπως ορίζεται στο 2.3
 
 
-The formula above is simple and designed to favor deeds :
+Ο συνολικός δείκτης δέσμευσης που χρησιμοποιείται για τη διανομή των Meeds μεταξύ των Deeds είναι το άθροισμα των βαθμολογιών δέσμευσης όλων των Deeds για την εβδομάδα.
 
-- with lots of engaged users (engagement)
-- who share the whole of the minting income (distribution rate) with their users fairly (distribution spread).
 
-Additionnally boosters are in place for :
+Ο παραπάνω τύπος είναι απλός και έχει σχεδιαστεί για να ευνοεί τις Deeds :
+
+- με πολλούς εμπλεκόμενους χρήστες (αρραβώνας)
+- οι οποίοι μοιράζονται δίκαια το σύνολο των εσόδων από την κοπή (ποσοστό διανομής) με τους χρήστες τους (διασπορά διανομής).
+
+Επιπλέον, υπάρχουν ενισχυτές για :
 
 - οργανισμοί με την υψηλότερη δέσμευση, ανεξάρτητα από το μέγεθός τους (ποσοστό δέσμευσης σε σχέση με το WoM)
 - σπανιότερα Deeds
