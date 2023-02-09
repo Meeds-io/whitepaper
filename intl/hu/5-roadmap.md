@@ -16,7 +16,7 @@ Mint ahogy a kép többet mond ezer szónál, itt van egy diagram, amely leírja
 
 A világ fenntartása és fenntarthatósága a hosszú távon a Meeds egyesület és a Városok közötti adók által biztosított.
 
-## 5.2. What’s in it for early adopters
+## 5.2. Mi van benne az előrehaladók számára
 
 Az előnyök előnyökkel járnak, nyilvánvalóan az első felhasználók nagy előnyökkel rendelkeznek a késői érkezőkkel szemben.
 
@@ -36,51 +36,51 @@ Az alábbi diagram egy példa a Meeds befektetési stratégiájára a munka megt
 
 ![Meeds befektetési stratégiája a munka megtartói számára](en/img/invest-work.png)
 
-## 5.3. The launch
+## 5.3. A start
 
 Az hivatalos indulás dátuma **2022. május 1-jének** van beállítva - a Nemzetközi Dolgozók Napja, sok országban ünnepelt.
 
-At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
+Ekkor a Meed token már létezik. Lehetséges megszerezni és a likviditási medencék nyitva állnak a részvételre, a Polygon és Ethereum hálózatokon.
 
-Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
+A három Meeds Egyesület tagja belsőleg használja a rendszert, hogy bevonja és jutalmazza felhasználóikat, és javítsa a Meeds szoftverét.
 
-The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
+Az Investor alkalmazás elérhető az Ethereum Mainnet-en. Indításkor tartalmazza a rögzítést, likviditási jutalmakat, pontgyűjtést és Deed-ek visszaváltását.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
+A Építők közössége működik a Meeds szoftverrel, nyitva bárki számára, aki csatlakozni, tesztelni és részt venni szeretne. Lehetséges bejelentkezni Metamask-al.
 
-This paper was published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
+Ez a papír a bevezető napon jelent meg. A bevezetés után a token sok embernek lesz leeresztve a kripto közösségben.
 
-## 5.4. The builders community
+## 5.4. Az építők közössége
 
-We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the Work Metaverse. The association would reward builders engagement with Meeds, from its marketing budget.
+A Meeds szoftver és a Discorden indítjuk el a építők közösségét. A közösség szívesen fogad bárkit, aki részt szeretne venni a Munka Metaverse építésében. Az egyesület jutalmazná a Meeds építőinek részvételét a marketing költségvetésből.
 
-The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
+Az egyesület tervei szerint néhány Meed-et is befektetnek annak érdekében, hogy megszerezzék (visszavásárolják) egy Deed-et az építők közösségének. A közösség akkor fog Meed-eket kibocsátani a részvétel által, a Mintium modell segítségével, és az érintett felhasználóknak fogja őket elosztani.
 
-## 5.5. Roadmap and milestones
+## 5.5. Útterv és mérföldkövek
 
-Our roadmap would follow the priority order below:
+Az útterveink a következő prioritásrend szerint követnék:
 
-- Engagement index and minting through engagement
-- Enable Deeds renting
-- Xeed creation
-- Badges improvement and credentials development
-- DeFi services – in the wallet, credit cards partnership
+- Engagement index és az engagement általi bélyegzés
+- Engedélyezze a bérleti cselekményeket
+- Xeed létrehozás
+- Jelvények javítása és minősítési fejlesztés
+- DeFi szolgáltatások – a pénztárcában, hitelkártyák partnersé
 
-We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
+Számítunk az előfutárokra az DAO-k és a technológiailag jártas cégek köréből a építési szakasz alatt. Azt is elvárnánk, hogy a hagyományos vállalatok közül is legyenek korai ügyfelek, akik azonnal hasznot húznak a metaverzumból, amikor releváns részvételi programokat biztosítanak munkatársaik számára, a meglévő hagyományos juttatási tervek mellett.
 
-Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature metaverse, having spread to many organizations and many users globally.
+A Meeds zárakat 20 éves időtartamra tervezték. Ekkor reméljük, hogy sikerült építeni egy érett metaverzumot, amely széles körben elterjedt számos szervezetnél és felhasználónál a világban.
 
 ## 5.6. Amit most tehetsz
 
 Mit tehetsz most, hogy részt vegyél?
 
-- Spread this paper to those who would be interested
-- Visit our website [meeds.io](https://www.meeds.io/)
-- Check out the [Investor app](https://meeds.io/investors)
+- Terjessze ezt a papírt az érdeklődőknek
+- Látogass el honlapunkra [meeds.io](https://www.meeds.io/)
+- Nézd meg az [Investor app](https://meeds.io/investors)
 - Járuljon hozzá a meglévő likviditási medencékhez itt:
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
-- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
+- Csatlakozz a [Discord](https://discord.com/invite/hAuADSq3) közösségünkhöz, hogy naprakész legyél
+- Csatlakozz a [Builders](https://meeds.io/builders) közösségünkhöz, hogy tesztelhesd a Meeds szoftvert, bekapcsolódj és nyerj néhány Meeds részvételi jutalmat
 
-**\*\*\* The Work Metaverse - let’s build this crazy future world together. \*\*\***
+**\*\*\* A Munka Metaverse - építsük együtt ezt a őrült jövő világát. \*\*\***
