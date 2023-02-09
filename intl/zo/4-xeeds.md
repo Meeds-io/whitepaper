@@ -1,64 +1,64 @@
-# 4. 4. Xeeds - Work Metaverse Individuals / users
+# 4. Xeeds - Work Metaverse 個人/用戶
 
-## 4.1. 4.1. Decentralized and self-sovereign models
+## 4.1. 去中心化和自主權模型
 
-The WoM recognizes privacy as a fundamental human right and empowers users to own their data.
+WoM 將隱私視為一項基本人權，並授權用戶擁有自己的數據。
 
-Our approach is based on decentralized and self-sovereign identity principles, allowing users to be in control at any time of what information they want to publicize, share with a restricted group, or keep private.
+我們的方法基於去中心化和自我主權的身份原則，允許用戶隨時控制他們想要公開、與受限群體共享或保密的信息。
 
-User's activity and engagement in the WoM is always linked to a Deed. A Xeed is the virtual persona of a user in a Deed. User's activity and engagement in the WoM is always linked to a Deed. A Xeed is the virtual persona of a user in a Deed. Xeed does not require any KYC, it is self-declaring, but we could conceivably imagine third-party firms providing this service.
+用戶在 WoM 中的活動和參與始終與 Deed 相關聯。 Xeed 是 Deed 中用戶的虛擬角色。 Xeed 不需要任何 KYC，它是自我聲明的，但我們可以想像第三方公司提供這種服務。
 
-## 4.2. 4.2. Badges and credentials
+## 4.2. 徽章和證書
 
-Badges and Credentials are given to users as a part of their participation in a Deed. Badges and Credentials are given to users as a part of their participation in a Deed. The holder may download them as W3C Verifiable Credentials[^7][^8] (aka VCs) and store them in his wallet. Those VCs are proof of knowledge/know-how certified by the organization issuing it. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
+徽章和憑證作為用戶參與 Deed 的一部分提供給用戶。 持有者可以下載它們作為 W3C 可驗證憑證[^7][^8]（又名 VC）並將它們存儲在他的錢包中。 這些 VC 是由發布它的組織認證的知識/專有技術證明。
 
-In today’s world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they count on their managers to give them a recommendation. The latter supposes certain goodwill on the part of the manager but is not necessarily treated as proof by the future employer.
+在當今世界，很難事先證明一項技能。 當人們在網絡上做廣告時，他們指望他們的經理給他們推薦。 後者假設經理有一定的善意，但未必被未來的雇主視為證據。
 
-The Work Metaverse provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
+Work Metaverse 為人們獲得和展示他們的能力提供了一種更加透明和不變的方式。
 
-Badges are used to represent accomplishments made within a Deed. Badges are used to represent accomplishments made within a Deed. After completing a set of objectives or challenges, users will be awarded points. Badges can be unlocked by accumulating certain amounts of points in specific categories. Badges can be unlocked by accumulating certain amounts of points in specific categories.
+徽章用於表示在 Deed 中取得的成就。 完成一組目標或挑戰後，用戶將獲得積分。 可以通過在特定類別中積累一定數量的積分來解鎖徽章。
 
-When badges are downloaded by the user, it is possible to include the number of points and his rank in the Deed for this specific accomplishment.
+當用戶下載徽章時，可以在該特定成就的 Deed 中包含點數和他的等級。
 
-Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the Deed. These are signed by the Deed and can be accompanied by a signature by a peer user. These are signed by the Deed and can be accompanied by a signature by a peer user.
+憑證比徽章更靈活； 他們可以是同行的推薦，表明多年的專業知識、培訓或考試完成，或參與 Deed。 這些由 Deed 簽署，並且可以附有同行用戶的簽名。
 
-## 4.3. 4.3. Digital work identity
+## 4.3. 數字作品身份
 
-All of the above contributes to forming proven digital skillset that can be kept and used by the user when changing jobs or freelancing. It would be more trustworthy than traditional solutions as it relies on not just one individual but a full community to prove it. It would be more trustworthy than traditional solutions as it relies on not just one individual but a full community to prove it.
+以上所有內容都有助於形成經過驗證的數字技能，用戶在換工作或自由職業時可以保留和使用這些技能。 它將比傳統解決方案更值得信賴，因為它不僅依賴於一個人，而且依賴於整個社區來證明這一點。
 
-Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Deed to another, from one city to another, anywhere through the WoM.
+就像他的 Meeds 錢包一樣，當用戶通過 WoM 從一個 Deed 轉移到另一個，從一個城市轉移到另一個城市時，將在他的身份錢包中保留附加的 Xeed、徽章和憑證。
 
-The user will be able to share his Xeed, Badges, and Credentials with other Deeds to highlight his experience, as well as with recruiters or any other services that he deems interesting.
+用戶將能夠與其他 Deeds 以及招聘人員或他認為有趣的任何其他服務分享他的 Xeed、徽章和證書以突出他的經驗。
 
-A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations. He could later present them in a unified way using verified presentations.
+一個用戶在 WoM 中可以擁有一個或多個數字身份。 他稍後可以使用經過驗證的演示文稿以統一的方式展示它們。
 
-Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... In a manner of trustworthy LinkedIn 3.0.
+與 web 2 相反，用戶完全擁有他的去中心化身份。 後者可以顯示（並證明）他參與的 Deeds、他已證明的技能、他聲稱的技能、與他一起工作的其他 Xeeds（人）、他對自己的數字表示…… 以值得信賴的 LinkedIn 3.0 方式。
 
-The user will be able to select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Deeds, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time. The content (proven skill, previous Deeds, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time.
+用戶將能夠選擇是否透露任何信息、提供什麼信息以及為每個職位使用哪些身份。 內容（經過驗證的技能、以前的 Deeds 等）是防篡改的，因此無法修改。 任何身份都必須隨著時間的推移而發展。
 
-## 4.4. 4.4. Fair work marketplace
+## 4.4. 公平工作市場
 
-Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Deeds – as they do in the physical world by changing employers. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to choose which Deed provides better engagement reward conditions, belongs to a more attractive city, etc.
+在這個範例中，未來的工作市場允許用戶自由移動並在契約中分配/出售他們的參與——就像他們在現實世界中通過更換雇主所做的那樣。 然而，在 WoM 中，他們的參與將是有形的、可衡量的並以公平的方式得到獎勵。 通過在遵循相似邏輯的系統之間轉換，他們將更好地理解遊戲規則，並公平地評判雇主——其他地方的草並不總是更綠。 用戶將能夠選擇哪個 Deed 提供更好的參與獎勵條件，屬於更具吸引力的城市等。
 
-On their end, the Deeds’ holders/renters can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user. They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
+最後，Deeds 持有人/承租人可以使用數字工作身份的 WoM 網絡（用戶決定公開）搜索相關技能。 他們將能夠根據有關用戶的工作歷史、工作技能和參與程度的經過驗證的詳細信息，更有效地獲取技能。
 
-## 4.5. 4.5. Tangible and transparent recognition
+## 4.5. 有形和透明的認可
 
-Today, details on compensation and bonuses are obscure in many workplaces. Therefore, it is difficult for a person to compare his conditions to that of another and get a sense of a fair and unbiased treatment. Employees experience a lot of frustrations with the above.
+如今，在許多工作場所，薪酬和獎金的細節並不明確。 因此，一個人很難將自己的條件與另一個人的條件進行比較，從而獲得公平公正的待遇。 員工對上述情況感到非常沮喪。
 
-The WoM introduces an objective way to recognize achievements and reward them.
+WoM 引入了一種客觀的方式來識別成就並獎勵它們。
 
-Engagement recognition and reward mechanism is transparent and applies fairly to all users, following the same explicit rules, decided in advance and aligned with the Deed’s goals.
+參與認可和獎勵機制是透明的，公平地適用於所有用戶，遵循相同的明確規則，提前決定並與契約目標保持一致。
 
-Wallets are individual and blockchain based – when the user receives a reward or earns a badge, it cannot be taken back or erased.
+錢包是基於個人和區塊鏈的——當用戶收到獎勵或獲得徽章時，它不能被收回或刪除。
 
-## 4.6. 4.6. Access to Web 3.0, cryptoeconomy and DEFI services
+## 4.6. 訪問 Web 3.0、加密經濟和 DEFI 服務
 
-As discussed above, the Work Metaverse opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
+如上所述，Work Metaverse 向基本上所有人開放了加密貨幣和去中心化網絡服務的世界——大量用戶，甚至可能與數字領域無關。
 
-Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
+事實上，任何工作參與都可能被標記化。 事實上，隨著 5G、物聯網、可穿戴設備等趨勢的出現，世界正變得越來越數字化。 因此，可能會捕獲和分析越來越多的信號，以標記非數字職業的參與。 挑戰提供了一種現成的方式來通過代表物理世界中的成就來標記它。
 
-Any user can get Meeds and use a Meeds wallet to get access to new age services without any special training.
+任何用戶都可以獲取 Meeds 並使用 Meeds 錢包來訪問新時代的服務，無需任何特殊培訓。
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
-[^8]: Verifiable Credentials Data Model
+[^8]: 可驗證憑證數據模型
