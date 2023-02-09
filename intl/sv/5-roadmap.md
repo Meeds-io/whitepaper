@@ -12,7 +12,7 @@ WoM skulle ha en egen valuta **Meeds** - som man skulle kunna spendera i butiker
 
 WoM skulle också underlätta distributionen av andra tokens och delta i det övergripande krypto-ekosystemet.
 
-![WoM and Meeds flows](en/img/wom-flows.png)
+![WoM och Meeds flöden](en/img/wom-flows.png)
 
 Världsunderhållet och hållbarheten på lång sikt säkerställs genom skatter som delas mellan Meeds-föreningen och städerna.
 
@@ -20,67 +20,67 @@ Världsunderhållet och hållbarheten på lång sikt säkerställs genom skatter
 
 Det är uppenbart att tidiga användare skulle få avsevärda fördelar jämfört med sena användare.
 
-In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
+I synnerhet belönar WoM långsiktiga investeringar i versen - det vill säga inlösen av egendomen (Deeds). Deed ursprungliga ägare kompenseras genom engagemangsmyntning (aktiv användning), genom passiv inkomst (uthyrning) och får livslångt 1 % på varje försäljningstransaktion av Deedken (vid varje ägarbyte får den ursprungliga inlösaren en avgift på transaktionen).
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the metaverse.
+Genom att tro på projektet, delta i likviditetspoolerna, satsa Meeds, lösa in dem mot Deeds... tidiga investerare av alla storlekar skulle få ytterligare tokens. De skulle också få den tidigaste rösträtten och hjälpa till att forma metaverset.
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
+Organisationer som förvärvar men framför allt använder sig av Deeds för att engagera och belöna sina anställda skulle kompenseras i form av nya Meeds. Ju mer rättvisare de spelar, desto mer får de. De som tidigare har anammat systemet skulle förknippas med de första historiska städerna och skulle senare identifieras som byggherrar.
 
-The diagram below represents an example of the Meeds investment strategy for capital holders :
+Diagrammet nedan är ett exempel på Meeds investeringsstrategi för kapitalägare:
 
-![Meeds investment strategy for capital holders](en/img/invest-capital.png)
+![Meeds investeringsstrategi för kapitalägare](en/img/invest-capital.png)
 
-Organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
+Organisationer kan naturligtvis delta i likviditetspooler, men de kan också gå med i byggarnas gemenskap och få ytterligare belöningar för sitt engagemang där.
 
-The diagram below represents an example of the Meeds investment strategy for work holders :
+Diagrammet nedan är ett exempel på Meeds investeringsstrategi för arbetsgivare :
 
-![Meeds investment strategy for work holders](en/img/invest-work.png)
+![Meeds investeringsstrategi för arbetskraftsutövare](en/img/invest-work.png)
 
-## 5.3. The launch
+## 5.3. Lanseringen
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+Det officiella lanseringsdatumet är **den 1 maj 2022** - den internationella arbetstagardagen, som firas i många länder.
 
-At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
+Vid den tidpunkten finns Meed-tecknet redan. Det är möjligt att förvärva den och likviditetspooler är öppna för deltagande på Polygon- och Ethereum-nätverken.
 
-Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
+Tre Meeds-föreningsmedlemmar använder systemet internt för att engagera och belöna sina användare och förbättra Meeds-programvaran.
 
-The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
+Investor-appen är tillgänglig på Ethereum Mainnet. Vid lanseringen omfattar det insatser, likviditetsbelöningar, poängsättning och inlösen av handlingar.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
+Builders community är igång med Meeds programvara och är öppen för alla som vill gå med, testa och delta. Det är möjligt att logga in med Metamask.
 
-This paper was published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
+Detta dokument offentliggjordes på lanseringsdagen. Efter lanseringen kommer tokenet att delas ut till många människor i kryptogemenskapen.
 
-## 5.4. The builders community
+## 5.4. Byggmästarna
 
-We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the Work Metaverse. The association would reward builders engagement with Meeds, from its marketing budget.
+Vi lanserar byggvarugemenskapen i Meeds-programvaran och på Discord. Gemenskapen välkomnar alla som vill delta i uppbyggnaden av Work Metaverse. Föreningen skulle belöna byggherrarnas engagemang i Meeds med hjälp av sin marknadsföringsbudget.
 
-The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
+Föreningen planerar också att sätta ut några Meeds för att förvärva (lösa in) en Deed för byggnadsarbetarna. Gemenskapen kommer sedan att utforma Meeds efter engagemang, genom mintium-modellen, och distribuera dem till engagerade användare.
 
-## 5.5. Roadmap and milestones
+## 5.5. Färdplan och milstolpar
 
-Our roadmap would follow the priority order below:
+Vår färdplan skulle följa nedanstående prioriteringsordning:
 
-- Engagement index and minting through engagement
-- Enable Deeds renting
-- Xeed creation
-- Badges improvement and credentials development
-- DeFi services – in the wallet, credit cards partnership
+- Engagemangsindex och myntning genom engagemang
+- Aktivera Deeds hyrning
+- Skapande av Xeed
+- Förbättring av märken och utveckling av referenser
+- DeFi-tjänster - i plånboken, partnerskap med kreditkort
 
-We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
+Vi räknar med tidiga användare från DAO:er och tekniskt kunniga företag under uppbyggnadsfasen. Vi bör också ha några tidiga användare från traditionella företag som får ett omedelbart värde från metaversummet genom att erbjuda relevanta engagemangsprogram till sina anställda, utöver deras nuvarande traditionella kompensationsplaner.
 
-Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature metaverse, having spread to many organizations and many users globally.
+Meeds myntning omfattar en 20-årsperiod. Vid den tidpunkten vill vi ha byggt upp ett moget metaversum som har spridits till många organisationer och många användare globalt.
 
-## 5.6. What you can do right now
+## 5.6. Vad du kan göra just nu
 
-What can you do right now to participate?
+Vad kan du göra just nu för att delta?
 
-- Spread this paper to those who would be interested
-- Visit our website [meeds.io](https://www.meeds.io/)
-- Check out the [Investor app](https://meeds.io/investors)
-- Contribute to the existing liquidity pools here :
+- Sprid detta dokument till dem som kan vara intresserade.
+- Besök vår webbplats [meeds.io](https://www.meeds.io/)
+- Kolla in [Investor-appen](https://meeds.io/investors)
+- Bidra till de befintliga likviditetspoolerna här :
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
-- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
+- Gå med i vår [Discord](https://discord.com/invite/hAuADSq3) community för att hålla dig uppdaterad.
+- Gå med i vår [Builders](https://meeds.io/builders)-community för att testa Meeds-programvaran, engagera dig och tjäna Meeds-engagemangspremier.
 
-**\*\*\* The Work Metaverse - let’s build this crazy future world together. \*\*\***
+**\*\*\\* The Work Metaverse - låt oss bygga denna galna framtida värld tillsammans. \*\*\***
