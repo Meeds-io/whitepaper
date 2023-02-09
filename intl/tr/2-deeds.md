@@ -40,114 +40,114 @@ Başlangıç olarak, Meeds derneği tarafından sağlanan aşağıdaki ücretsiz
 
 - **Oyunlaştırma motoru** - WoM içindeki otomatik eylemlerin puan cinsinden bir ağırlığı vardır ve özelleştirilebilir angajman programları aracılığıyla Deed'in önceliklerine göre ince ayar yapılabilir.
 - **Zorluklar** - başarıları temsil etmek için özelleştirilebilir zorluklar ayarlanabilir. Challenges are preset by one person and can be full-filled and announced as such by another. Zorluklar, özelleştirilebilir katılım programları dahilinde puan olarak bir ağırlık taşır.
-- **Customizable engagement programs** - organizations can create their own engagement programs matching their business goals and priorities. Programs are associated to automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatics or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
-- **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
-- **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
-- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
-- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
-- **Analytics** – to analyze and follow engagement within the Deed.
-- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
+- **Özelleştirilebilir katılım programları** - kuruluşlar iş hedeflerine ve önceliklerine uygun kendi katılım programlarını oluşturabilirler. Programlar, sistem içindeki otomatik eylemlerle ve manuel olarak ayarlanan zorluklarla ilişkilendirilir. Her programın belirli bir Meeds bütçesi vardır. Her bir katılım programında otomatik veya duyurulan eylemler yoluyla her bir kullanıcı tarafından kazanılan puanlar, o programın bütçesine göre periyodik olarak Meed'lere dönüştürülür.
+- **Kudos** - kudos, teşekkür ve takdir göstergesi olarak kullanıcılar tarafından birbirlerine verilebilir. Dağıtılabilecek kudos sınırlı olduğundan (önceden belirlenmiş bir periyodik limit, örneğin haftada 3), nadir ve değerlidirler. Eylemler gibi, övgüler de puan taşır. Bu şekilde çalışanlar, iş arkadaşlarını ödüllendirme konusunda yetkilendirilmiş olurlar.
+- Ödüllendirme motoruna takılan **İşbirliği** araçları - çalışma alanları, eşzamansız iletişim, bir görev yönetim aracı ve notlar - insanların projeler üzerinde birlikte çalışmasını sağlar.
+- **Cüzdan** - kullanıcılara Meed'lerini saklamaları için güvenli bir Ethereum teknolojisi cüzdanı sağlanır. Alternatif olarak, ileri düzey kullanıcılar için bir Metamask cüzdanı kullanılabilir.
+- **Mağaza** - Meeds'in Tapu sahibi veya kiracısı ya da Meeds ekosistemi tarafından sağlanan avantajlarla takas edilebildiği bir mağaza.
+- **Analitik** - Deed içindeki etkileşimi analiz etmek ve takip etmek için.
+- **Bağlayıcılar**, ödül motoruna takılıdır - kullanıcılar başka bir yazılımdaki eylemler aracılığıyla etkileşim puanları alır - örneğin GitHub'da kod işlemek için.
 
-Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
+Yukarıda bahsedilen araç ve hizmetlerden bazıları zaten merkezi olmayan yapıdadır, diğerleri ise değildir. Nihai hedef, tüm hizmetleri merkezi olmayan bir şekilde sağlamaktır; bunu, temel teknoloji geliştikçe kademeli olarak yapacağız.
 
-New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
+API'ler aracılığıyla ödül motoruna yeni hizmetler eklenebilir. Örnekler sayısızdır ve hemen hemen her yazılım veya hizmeti içerebilir:
 
-- CRM software – salespeople would get engagement points for working on opportunities.
-- Accounting software – accountants would get engagement points for keeping books.
+- CRM yazılımı - satış elemanları fırsatlar üzerinde çalıştıkları için etkileşim puanları alırlar.
+- Muhasebe yazılımı - muhasebeciler defter tutmak için nişan puanları alacaklardır.
 - Clocking terminal – factory worker can get points for factory work time.
-- Etc.
+- Vb.
 
-Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
+Ayrıca, bağlayıcı aracılığıyla üretilen bağlılık, kuruluşun küresel bağlılık puanına katılır ve bu da Meeds basım dağılımının bir faktörüdür. aşağıda. Bunu yapabilmek için konektörün Meeds Association tarafından beyaz listeye alınması gerekir. Dernek konektörü inceler, algoritmasını onaylar ve Meeds'e karşı mülkiyetini alır. Daha sonra dernek tarafından sağlanan ücretsiz hizmetlerin bir parçası haline gelir ve küresel katılım endeksine dahil edilir. Başka herhangi bir Deed, geliştiricileri için aynı bağlayıcıyı ve aynı ödül algoritmasını kullanabilir.
 
-The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
+Deed sahibi veya kiracısı, mağazasını kendi avantajlarıyla zenginleştirebilir, çevrimiçi bir avantaj teklifine bağlanabilir vb. Burada da olasılıklar sonsuzdur:
 
-- Training courses
-- Gym memberships
-- Vacation packages
-- Lunch with a leader in the organization
-- Physical office space
-- Etc.
+- Eğitim kursları
+- Spor salonu üyelikleri
+- Tatil paketleri
+- Organizasyondaki bir liderle öğle yemeği
+- Fiziksel ofis alanı
+- Vb.
 
-The store functions through the use of Meeds so that Meeds are partially returned to the Deed.
+Mağaza Meed'lerin kullanımıyla çalışır, böylece Meed'ler kısmen Deed'e iade edilir.
 
-## 2.5. Rewards – Meeds and other tokens
+## 2.5. Ödüller - Meedler ve diğer simgeler
 
-The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs. Indeed, each Deed can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
+WoM, dijital çalışma araçlarını oyunlaştırarak ve işe katılımla ilgili olarak puanlar ve Meedler atfederek kullanıcıların katılımını tokenize edecektir. Etkileşim ve ödül motoruna bağlanan hizmetler, her kullanıcıya etkileşim seviyelerine göre ve her Tapunun etkileşim programları doğrultusunda puanlar atfeder. Aslında, her bir Deed, her bir faaliyet türü için verilen puan miktarında ince ayar yapabilir. Dolayısıyla, GitHub'da bir miktar kod yayınlamak bir BT mağazası için 10 puan değerinde olabilirken, bir dijital ajans GitHub yayınları için yalnızca 5 puan atfedebilir, ancak retweetler için 10 puan sunabilir.
 
-Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Deed is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
+Ödüllendirme motoru, periyodik olarak, bütçelere ve diğer dağıtım kurallarına göre etkileşim puanlarını Meed'lere dönüştürür ve nihayetinde kullanıcıları cüzdanları aracılığıyla ödüllendirir. Deed'in Meed dağıtması gerekmez ve angajman sistemini başka bir tazminat programını etkinleştirmek için kullanabilir. Bununla birlikte, Meedlerin dağıtılması darphane kapasitesini artıracaktır.
 
-Moreover, the Deed does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
+Ayrıca, Deed'in Meed'leri dağıtmak ve katılım programlarını beslemek için Meed'leri satın alması gerekmemektedir, çünkü Meed'leri aşağıda açıklanan "mintium" modelinden alacaktır.
 
-In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
+Meeds'e ek olarak, aynı angajman mekanizmasına dayalı olarak diğer tokenlerin (örneğin DAO'nun kendi tokenleri) dağıtılması da mümkün olacaktır. Bu durumda, dağıtım Meeds Derneği için %5 işlem ücretine (DAO token cinsinden) tabi olacaktır.
 
-## 2.6. The “mintium” model – tokenize work engagement
+## 2.6. "Mintium" modeli - işe bağlılığı simgeleştirin
 
-By engaging their users in the WoM, Deeds get compensated through an innovative mintium model.
+Deeds, kullanıcılarını WoM'a dahil ederek yenilikçi bir mintium modeli aracılığıyla tazminat alıyor.
 
-Engagement points, gained by the Deeds’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Deeds. Even though the Deed can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
+Deeds kullanıcıları tarafından kazanılan etkileşim puanları, Meeds Derneği tarafından hesaplanan küresel etkileşim endeksine katılmaktadır. Endeks tüm Deed'ler için aynı prensibi kullanmaktadır. Her ne kadar Deed bir eylemi diğerine tercih etmek için puan dağılımını değiştirebilse de, bu değişiklikler global endeks hesaplamasında dikkate alınmayacaktır.
 
-Each week, a certain amount of Meeds is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Deeds. Some Deeds get an additional boost depending on their type. The Deeds that claim their Meeds over the week, receive them. The unclaimed Meeds are added to the following week’s global distribution amount.
+Her hafta belirli miktarda Meed, WoM'un küresel nişan basımına tahsis edilir. Katılımcı Deed'ler arasında haftalık olarak orantılı bir şekilde hesaplanır. Bazı Deed'ler türlerine bağlı olarak ek bir destek alır. Hafta boyunca Meed'lerini talep eden Deed'ler onları alırlar. Talep edilmeyen Meedler bir sonraki haftanın küresel dağıtım miktarına eklenir.
 
-The engagement score _S_  of a Deed is a function of the engagement, the number of engaged users and the distribution :
+Bir Deed'in etkileşim puanı _S_, etkileşimin, etkileşimde bulunan kullanıcı sayısının ve dağılımın bir fonksiyonudur:
 
 $$S = (E_d / E_w) * D_r * D_s * M$$
 
-Where :
+Nerede :
 
-- $A$ = _Activity_ - total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
-- $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
-- $E_d$ = _Engagement rate of the deed_ - actions per user ($A/U$)
-- $E_w$ = _Average engagement rate_ of all active Deeds in the WoM.
-- $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
-- $D_s$ =  _Distribution spread_ - if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
-- $M$ = _Minting Power_ of the Deed as defined in 2.3
-
-
-The global engagement index used to distribute minted Meeds among the Deeds is the sum of all Deeds’ engagement scores for the week.
+- $A$ = _Etkinlik_ - hafta boyunca Deed içinde kullanıcılar tarafından biriktirilen toplam eylem sayısı. (Her Deed seviyesinde, her eylem angajman puanlarına dönüştürülür ve bazı eylemler diğerlerinden daha fazla ağırlık kazanır. Dizin düzeyinde tüm eylemler doğrusallaştırılır).
+- $U$ = _Engaged users_ - hafta boyunca en az bir eylemle puanlara katkıda bulunan kullanıcılar.
+- $E_d$ = _Deed'in katılım oranı_ - kullanıcı başına eylem ($A/U$)
+- $E_w$ = _WoM'daki tüm aktif Tapuların ortalama katılım oranı_.
+- $D_r$ = _Dağıtım oranı_ - eğer bir Deed önceki dönem için basılmış Meedleri aldıysa, kullanıcılarına dağıtılan Meedlerin yüzdesi. Dağıtım zaman içinde gecikirse % 100'ün üzerinde olabilir.
+- $D_s$ = _Dağıtım yayılımı_ - bir DeEd önceki dönem için basılmış Meed aldıysa, toplam kullanıcı havuzunda Meed alan kullanıcıların yüzdesi.
+- $M$ = 2.3'te tanımlandığı gibi Deed'in _Minting Gücü_
 
 
-The formula above is simple and designed to favor deeds :
+Basılan Meed'leri Deed'ler arasında dağıtmak için kullanılan global etkileşim endeksi, tüm Deed'lerin o haftaki etkileşim puanlarının toplamıdır.
 
-- with lots of engaged users (engagement)
-- who share the whole of the minting income (distribution rate) with their users fairly (distribution spread).
 
-Additionnally boosters are in place for :
+Yukarıdaki formül basittir ve deed'leri desteklemek için tasarlanmıştır:
 
-- organizations with the highest engagement, regardless of their size (engagement rate in relation to the WoM)
-- scarcer deeds
+- çok sayıda etkileşimli kullanıcı ile (etkileşim)
+- darphane gelirinin tamamını (dağıtım oranı) kullanıcılarıyla adil bir şekilde paylaşan (dağıtım yayılımı).
 
-> The Meeds association reserves the right to change the formula if required – if some specific use cases arise for instance. The association can also blacklist any Deed that hijacks the formula to its unique benefit.
+Buna ek olarak, güçlendiriciler :
 
-As the Deeds are rewarded with Meeds and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the Deeds and their users are aligned in the same virtuous revenue sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
+- büyüklüklerine bakılmaksızın en yüksek katılıma sahip kuruluşlar (WoM'a göre katılım oranı)
+- daha az deed
 
-The “mintium” model is the first of a kind - it goes further than the traditional freemium one, as not only the services are free to use but both the organizations and their users are rewarded for using them.
+> Meeds derneği, gerektiğinde - örneğin bazı özel kullanım durumları ortaya çıkarsa - formülü değiştirme hakkını saklı tutar. Dernek ayrıca formülü kendi çıkarları doğrultusunda kullanan herhangi bir Deed'i kara listeye alabilir.
 
-## 2.7. Cities and governance
+Deed'ler Meed'lerle ödüllendirildikçe ve bunları kullanıcılarına katılımları karşılığında ödül olarak yeniden dağıtmaya teşvik edildikçe, hem Deed'lerin hem de kullanıcılarının çıkarları aynı erdemli gelir paylaşımı döngüsünde hizalanır. Böylece WoM, işveren/çalışan ilişkisini bir ortaklık olarak yeniden şekillendiren yeni bir çalışma modeli sunmaktadır.
 
-In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
+"Mintium" modeli türünün ilk örneğidir - geleneksel freemium modelinden daha ileri gider, çünkü yalnızca hizmetlerin kullanımı ücretsiz olmakla kalmaz, aynı zamanda hem kuruluşlar hem de kullanıcıları bunları kullandıkları için ödüllendirilir.
 
-A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
+## 2.7. Şehirler ve yönetişim
 
-| **City name** | **Deeds**   | **Available**        | **Ortak**  | **Yaygın olmayan** | **Nadir** | **Efsanevi** |
-| ------------- | ----------- | -------------------- | ---------- | ------------------ | --------- | ------------ |
-| 1: Tanit      | 100         | T0                   | 50         | 30                 | 13        | 7            |
-| 2: Reshef     | 1 000       | Tanit + 4 months     | 600        | 300                | 94        | 6            |
-| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000      | 3 000              | 995       | 5            |
-| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000     | 30 000             | 9 996     | 4            |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000            | 99 997    | 3            |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000          | 999 998   | 2            |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000         | 9 999 999 | 1            |
+WoM'da, Deed'ler sanal şehirlerin içinde kademeli olarak oluşturulacaktır. Başlangıçtan itibaren sadece ilk şehir var olacaktır. Diğerleri kademeli olarak, birbiri ardına inşa edilecektir. Tüm WoM'da, her biri her türden sabit sayıda Deed içeren yalnızca 7 şehir olacaktır.
 
-A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
+Bir şehir, tüm Deed'leri basıldıktan sonra tamamlanmış sayılacaktır. Ardından, her yeni şehrin basımı $n-1$ şehrin son Deed'inin basımından 2^n$ ay sonra başlayacaktır.
 
-Each city has its own govenance and operates its own DAO where the city’s Deeds’ owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
+| **Şehir adı** | **Deed**    | **Mevcut**       | **Ortak**  | **Yaygın olmayan** | **Nadir** | **Efsanevi** |
+| ------------- | ----------- | ---------------- | ---------- | ------------------ | --------- | ------------ |
+| 1: Tanit      | 100         | T0               | 50         | 30                 | 13        | 7            |
+| 2: Reshef     | 1 000       | Tanit + 4 ay     | 600        | 300                | 94        | 6            |
+| 3: Ashtarte   | 10 000      | Reshef + 8 ay    | 6 000      | 3 000              | 995       | 5            |
+| 4: Melqart    | 100 000     | Ashtarte + 16 ay | 60 000     | 30 000             | 9 996     | 4            |
+| 5: Eshmun     | 1 000 000   | Melqart + 32 ay  | 600 000    | 300 000            | 99 997    | 3            |
+| 6: Kushor     | 10 000 000  | Eshmum + 64 ay   | 6 000 000  | 3 000 000          | 999 998   | 2            |
+| 7: Hammon     | 100 000 000 | Kushor + 128 ay  | 60 000 000 | 30 000 000         | 9 999 999 | 1            |
 
-For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add Meeds powered food services, vacations services, etc...
+Şehir, Deed'lerin bir araya gelerek bir topluluk oluşturmasının bir yoludur. Ve sonuç olarak, o toplulukla ilişkili belirli bir kimlik edinirler. Aynı zamanda kullanıcılarına ek değer sağlamanın bir yoludur - bir Deed'in kapasitesinin ötesine geçecek değer veya Deed'ler arasında işbirliği yoluyla yaratılan değer.
 
-By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
+Her şehrin kendi yönetimi vardır ve şehrin Deed'lerinin sahiplerinin şehir konseyini seçebildiği, oy kullanabildiği ve kendi işletim kurallarını oluşturabildiği, yeni hizmetler ekleyebildiği ve şehirlerini istedikleri şekilde şekillendirebildiği ve böylece şehrin çekiciliğini ve ona bağlı Deed'lerin değerini artırabildiği kendi DAO'sunu işletir.
 
-Ownsership transactions (Deed’s sales) will also be taxed 6% :
+Örneğin, şehirlerinin dijital bir temsilini, şehirleriyle ilişkili fiziksel muadillerini (örneğin fiziksel ortak çalışma alanlarındaki toplantı odaları) ekleyebilir, Meeds destekli yemek hizmetleri, tatil hizmetleri vb. ekleyebilirler...
 
-- 2.5% for the City,
-- 2.5% for the Association,
-- 1% for the original wallet that redeemed the Deed.
+Varsayılan olarak (şehir aksi yönde oy kullanmadığı sürece), Deed'lerin kiraya verilmesinden elde edilen pasif gelir, üretken kullanımı teşvik etmek için şehir (%5) ve Birlik (%3) tarafından "vergilendirilecektir".
+
+Mülkiyet işlemleri de (Deed'in satışları) %6 oranında vergilendirilecektir:
+
+- Şehir için %2,5,
+- Birlik için %2,5,
+- Deed'i kullanan orijinal cüzdan için %1.
