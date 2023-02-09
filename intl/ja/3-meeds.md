@@ -1,10 +1,10 @@
-# 3. Meeds token – the Work Metaverse currency
+# 3. ワークス・メタバースの通貨「ミーズトークン
 
-The Work Metaverse is powered by its currency – the Meeds (MEED) token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
+Work Metaverseは、その通貨であるMeeds（MEED）トークンによって運営されています。 Meedsは、ユーザーへの報酬（エンゲージメントプログラム）、店舗での購入、Deedsの取得、投資に対する金銭的リターンの獲得などに使用されます。
 
-## 3.1. Tokenomics
+## 3.1. トークノミクス
 
-The Meeds **maximum supply is limited to 100 million tokens**, minted progressively. **Meeds are minted at the rate of 10 MEED per minute**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).
+Meeds **の最大供給量は1億トークン**に制限されており、順次鋳造されます。 **Meedsは1分間に10MEEDの割合で鋳造される**。 したがって、完全な鋳造期間は20年近くになります（1年に約10*60<0>24*365=5M$のMeedsが鋳造されるため）。</p>
 
 5 Million Meeds (5% of total supply) have been pre-minted to date. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services.
 
