@@ -36,51 +36,51 @@ The diagram below represents an example of the Meeds investment strategy for wor
 
 ![Meeds investment strategy for work holders](en/img/invest-work.png)
 
-## 5.3. The launch
+## 5.3. Το λανσάρισμα
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+Η επίσημη ημερομηνία κυκλοφορίας έχει οριστεί για την ** 1η Μαΐου 2022** - τη Διεθνή Ημέρα των Εργαζομένων, που γιορτάζεται σε πολλές χώρες.
 
-At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
+Εκείνη τη στιγμή, το σύμβολο Meed υπάρχει ήδη. Είναι δυνατή η απόκτησή του και οι δεξαμενές ρευστότητας είναι ανοικτές για συμμετοχή, στα δίκτυα Polygon και Ethereum.
 
-Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
+Τρία μέλη της ένωσης Meeds χρησιμοποιούν το σύστημα εσωτερικά για να εμπλέξουν και να επιβραβεύσουν τους χρήστες τους και να βελτιώσουν το λογισμικό Meeds.
 
-The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
+Η εφαρμογή Investor είναι διαθέσιμη στο Ethereum Mainnet. Κατά την έναρξη, περιλαμβάνει το ποντάρισμα, τις ανταμοιβές ρευστότητας, τη συσσώρευση πόντων και την εξαργύρωση Πράξεων.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
+Η κοινότητα Builders λειτουργεί με το λογισμικό Meeds, ανοιχτή σε όποιον θέλει να συμμετάσχει, να δοκιμάσει και να συμμετάσχει. Είναι δυνατή η σύνδεση με το Metamask.
 
-This paper was published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
+Το έγγραφο αυτό δημοσιεύθηκε την ημέρα της έναρξης. Μετά την κυκλοφορία, το κουπόνι θα διατεθεί σε πολλούς ανθρώπους σε όλη την κοινότητα κρυπτογράφησης.
 
-## 5.4. The builders community
+## 5.4. Η κοινότητα των κατασκευαστών
 
-We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the Work Metaverse. The association would reward builders engagement with Meeds, from its marketing budget.
+Ξεκινάμε την κοινότητα κατασκευαστών στο λογισμικό Meeds και στο Discord. Η κοινότητα καλωσορίζει οποιονδήποτε θέλει να συμμετάσχει στην οικοδόμηση του Work Metaverse. Η ένωση θα επιβραβεύει την εμπλοκή των οικοδόμων με την Meeds, από τον προϋπολογισμό μάρκετινγκ της.
 
-The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
+Ο σύλλογος σχεδιάζει επίσης να στοιχίσει μερικά Meeds προκειμένου να αποκτήσει (εξαγοράσει) ένα Deed για την κοινότητα των οικοδόμων. Στη συνέχεια, η κοινότητα θα διαμορφώνει τα Meeds ανά δέσμευση, μέσω του μοντέλου mintium, και θα τα διανέμει στους δεσμευμένους χρήστες.
 
-## 5.5. Roadmap and milestones
+## 5.5. Χάρτης πορείας και ορόσημα
 
-Our roadmap would follow the priority order below:
+Ο οδικός μας χάρτης θα ακολουθήσει την παρακάτω σειρά προτεραιότητας:
 
-- Engagement index and minting through engagement
-- Enable Deeds renting
-- Xeed creation
-- Badges improvement and credentials development
-- DeFi services – in the wallet, credit cards partnership
+- Δείκτης δέσμευσης και νομισματοκοπία μέσω της δέσμευσης
+- Ενεργοποίηση ενοικίασης Deeds
+- Δημιουργία Xeed
+- Βελτίωση των badges και ανάπτυξη διαπιστευτηρίων
+- Υπηρεσίες DeFi - στο πορτοφόλι, συνεργασία πιστωτικών καρτών
 
-We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
+Βασιζόμαστε στους πρώιμους υποστηρικτές από τις DAOs και τις εταιρείες με τεχνολογικές γνώσεις κατά τη διάρκεια του σταδίου της οικοδόμησης. Θα πρέπει επίσης να έχουμε κάποιους πρώιμους υιοθετητές από παραδοσιακές εταιρείες που κερδίζουν άμεση αξία από το metaverse παρέχοντας σχετικά προγράμματα δέσμευσης στους ανθρώπους τους, επιπλέον των σημερινών παραδοσιακών προγραμμάτων αποζημίωσης.
 
-Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature metaverse, having spread to many organizations and many users globally.
+Η νομισματοκοπία του Meeds καλύπτει μια περίοδο 20 ετών. Μέχρι τότε, φιλοδοξούμε να έχουμε καταφέρει να δημιουργήσουμε ένα ώριμο metaverse, το οποίο θα έχει εξαπλωθεί σε πολλούς οργανισμούς και πολλούς χρήστες παγκοσμίως.
 
-## 5.6. What you can do right now
+## 5.6. Τι μπορείτε να κάνετε τώρα
 
-What can you do right now to participate?
+Τι μπορείτε να κάνετε τώρα για να συμμετάσχετε;
 
-- Spread this paper to those who would be interested
-- Visit our website [meeds.io](https://www.meeds.io/)
-- Check out the [Investor app](https://meeds.io/investors)
-- Contribute to the existing liquidity pools here :
+- Διαδώστε αυτό το έγγραφο σε όσους ενδιαφέρονται
+- Επισκεφθείτε την ιστοσελίδα μας [meeds.io](https://www.meeds.io/)
+- Ελέγξτε την εφαρμογή [Investor](https://meeds.io/investors)
+- Συμβάλλετε στις υπάρχουσες δεξαμενές ρευστότητας εδώ :
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
-- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
+- Γίνετε μέλος της κοινότητας [Discord](https://discord.com/invite/hAuADSq3) για να είστε πάντα ενήμεροι
+- Γίνετε μέλος της κοινότητας [Builders](https://meeds.io/builders) για να δοκιμάσετε το λογισμικό Meeds, να συμμετάσχετε και να κερδίσετε κάποιες ανταμοιβές συμμετοχής Meeds
 
-**\*\*\* The Work Metaverse - let’s build this crazy future world together. \*\*\***
+**\*\*\\* The Work Metaverse - ας χτίσουμε μαζί αυτόν τον τρελό μελλοντικό κόσμο. \*\*\***
