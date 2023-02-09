@@ -2,7 +2,7 @@
 
 Translate into Hungarian "The Work Metaverse is powered by its currency – the Meeds (MEED) token.". A Meeds-eket a felhasználók jutalmazására használják (részvételi programokon keresztül), üzletekben való vásárlásra, Deed-ek megszerzésére, befektetések pénzügyi hozamaira stb.
 
-## 3.1. Tokenomics
+## 3.1. Tokenomika
 
 A Meeds **legfeljebb 100 millió tokenre korlátozott**, fokozatosan megvert. **A Meeds 10 MEED percenként kerül megverésre**. "Ezért a teljes megverési horizont körülbelül 20 év körüli (mint körülbelül $10*60*24*365 = 5M$ Meeds kerül évente megverésre).".
 
@@ -49,7 +49,7 @@ Az éremverés időszaka befejeződése után az egyesületet a következők fen
 - az egyesület által fémjelzett Deed-ek működtetésével.
 
 
-## 3.5. Investors
+## 3.5. Befektetők
 
 Az befektetők segítenek a WoM létrehozásában a likviditás biztosításával, Meeds stakingjével és így a építési időszak árak stabilitásának biztosításával. Az újraszereztetés által ösztönözve.
 
@@ -72,23 +72,23 @@ A pontok a lenti képlettel számítják ki :
 
 A képlet elkerüli a nagy tartók előnyös kezelését annak érdekében, hogy a Deedeket hatékonyabb és egyenlőbb módon oszthassuk szét. Például a képlet a következő kamatokat adja :
 
-| **Holder Size** | **Holdings**   | **Accrue Rate** |
-| --------------- | -------------- | --------------- |
-| Small           | 1 000 xMeeds   | 28 pts/day      |
-| Medium          | 10 000 xMeeds  | 164 pts/day     |
-| Large           | 100 000 xMeeds | 321 pts/day     |
+| **Tartó mérete** | **Tartalmak**  | **Accrual Árfolyam** |
+| ---------------- | -------------- | -------------------- |
+| Kicsi            | 1 000 xMeeds   | 28 pont/nap          |
+| Közepes          | 10 000 xMeeds  | 164 pont/nap         |
+| Nagy             | 100 000 xMeeds | 321 pont/nap         |
 
 
 amely a következő tartási időt eredményezi minden tulajdonos osztályában :
 
-| **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| Common        | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| Uncommon      | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| Rare          | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| Legendary     | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| **Kártya típusa** | **Költségek** | **Nagy Tartó** | **Közepes Tartó** | **Közepes támasz** |
+| ----------------- | ------------- | -------------- | ----------------- | ------------------ |
+| Általános         | 8 000 pont    | 25 napok       | 49 napok          | 9 hónap            |
+| Ritka             | 32 000 pont   | 100 napok      | 6 hónap           | 3 évek             |
+| Ritka             | 50 000 pont   | 156 napok      | 10 hónap          | 5 évek             |
+| Legendás          | 100 000 pont  | 311 napok      | 20 hónap          | 10 évek            |
 
-## 3.6. Meeds DAO governance
+## 3.6. Meeds DAO irányítás
 
 A Meeds token tulajdonosai szükségesek a tokenek lekötésére a Meeds DAO döntésekre való szavazáshoz, mint például a pénzverési költségvetés kezelése vagy a DAO vezetői testület tagjainak választása (éves mandátum).
 
