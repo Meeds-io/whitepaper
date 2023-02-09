@@ -1,14 +1,14 @@
-# 5. The Work Metaverse for ALL – vision summary and milestones
+# 5. The Work Metaverse for ALL - vizyon özeti ve kilometre taşları
 
-## 5.1. Ultimate goal - decentralized web for everyone
+## 5.1. Nihai hedef - herkes için merkezi olmayan web
 
-In the end, the WoM is a decentralized web world for everyone – every person and every organization.
+Nihayetinde WoM, herkes - her kişi ve her kuruluş - için merkezi olmayan bir web dünyasıdır.
 
-It will be populated by users, acting through their digital identities **Xeeds** and accessing the world through their metamasks, for crypto-savvies, or login/password for the newbies. People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
+Kullanıcılar tarafından doldurulacak, dijital kimlikleri **Xeeds** aracılığıyla hareket edecek ve kripto uzmanları için metamaskları veya yeni başlayanlar için giriş / şifre aracılığıyla dünyaya erişecekler. İnsanlar katılımlarını tahsis edecek ve adil, şeffaf ve merkezi olmayan bir şekilde ödüllendirileceklerdir. Merkezi olmayan dünyaya ve yarının kripto dünyasına kolay ve tanıdık bir şekilde erişebilecekler - tokenlerini hayatlarında kullanmak veya gelecekleri için yatırım yapmak için basit araçlar elde edecekler.
 
-Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the metaverse, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
+Kuruluşlar - **Devletler** doğru kanıtlanmış beceriler için WoM'a göz atarak yetenekleri tedarik edebilecektir. Kullanıcılarının katılımı (mintium modeli) yoluyla jeton basarak metaverse katılımları için ödüllendirileceklerdir. Ancak hepsinden önemlisi, kullanıcılarının daha yüksek bir katılım ve sadakatinden faydalanacaklardır.
 
-The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
+WoM'un kendi para birimi **Meeds** olacaktır - mağazalarda harcamak, başka bir para birimine dönüştürmek, yatırım getirisi için yatırım yapmak, kiralamak veya satın almak vb. için orada olacaktır. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
 
 As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
 
