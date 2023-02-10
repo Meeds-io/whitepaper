@@ -1,14 +1,14 @@
 
-# 1. Who we are – the Meeds Association
+# 1. Kes me oleme - Meeds Association
 
-The Meeds association is a non-profit organization originally launched by several Open Source Software (OSS) communities around the common vision of a free digital world – a decentralized world that would not be controlled by a handful of centralized mega-corporations.
+Meeds Association on mittetulundusühing, mille on algselt asutanud mitmed avatud lähtekoodiga tarkvara (Open Source Software, OSS) kogukonnad, kelle ühine visioon on vaba digitaalne maailm - detsentraliseeritud maailm, mida ei kontrolliks käputäis tsentraliseeritud megakorporatsioone.
 
-The Meeds association is incorporated in Geneva, as a non-profit association under the Swiss law.
+Meedsi ühing on asutatud Genfis Šveitsi õiguse alusel mittetulundusühinguna.
 
-The association regulates the issuance of the Meeds currency, an ERC20 token, recognized as a utility token.
+Ühing reguleerib Meeds'i valuuta, ERC20 tokeni väljaandmist, mis on tunnustatud kasulikuks tokeniks.
 
-To build the WoM and Meeds, the association leverages the Ethereum platform and its ecosystem, making it accessible in a friendly and cost-effective way to all users.
+WoMi ja Meedi loomiseks kasutab ühendus Ethereumi platvormi ja selle ökosüsteemi, muutes selle kõigile kasutajatele sõbralikult ja kulutõhusalt kättesaadavaks.
 
-The association is structured as a Decentralized Autonomous Organization (DAO) where the governance token holders vote on all important organizational changes such as electing the board every year.
+Ühing on üles ehitatud detsentraliseeritud autonoomse organisatsioonina (DAO), kus juhtimismärkide omanikud hääletavad igal aastal kõigi oluliste organisatsiooniliste muudatuste üle, näiteks juhatuse valimise üle.
 
-Besides Meeds token management, the association holds the Intellectual Property (IP) of the Meeds software [github.com/meeds-io](https://github.com/meeds-io), available under the LGPL license and distributed for free. The latter includes an Ethereum wallet app that users can use to store and transact their Meeds (see section 2.4 for more details). The Meeds Association also runs a multi-tenant cloud hosting service leveraging that software.
+Lisaks Meedsi sümboolika haldamisele kuulub ühingule ka Meedsi tarkvara [github.com/meeds-io](https://github.com/meeds-io) intellektuaalomand (IP), mis on saadaval LGPL litsentsi alusel ja mida levitatakse tasuta. Viimane sisaldab Ethereumi rahakoti rakendust, mida kasutajad saavad kasutada oma Meedide salvestamiseks ja tehingute tegemiseks (vt täpsemalt punkt 2.4). Meeds Association haldab ka seda tarkvara kasutavat mitmekülgset pilvehostinguteenust.
