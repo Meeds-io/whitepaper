@@ -4,68 +4,68 @@ The Work Metaverse is powered by its currency – the Meeds (MEED) token. Meeds 
 
 ## 3.1. Tokenomics
 
-The Meeds **maximum supply is limited to 100 million tokens**, minted progressively. **Meeds are minted at the rate of 10 MEED per minute**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).
+The Meeds **maximum supply is limited to 100 million tokens**, minted progressively. **Meeds are minted at the rate of 10 MEED per minute**. Vì thế, giới hạn đặt mệnh giá đầy đủ gần 20 năm (khi khoảng $10*60*24*365 = 5M$ Meeds được đặt mệnh mỗi năm).
 
-5 Million Meeds (5% of total supply) have been pre-minted to date. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services.
+Vì thế, giới hạn đặt mệnh giá đầy đủ gần 20 năm (khi khoảng $10<0>60</0>24*365 = 5M$ Meeds được đặt mệnh mỗi năm). Trong đó, 4,5 triệu đơn vị đã được khóa trong hợp đồng két sắt với một chu kỳ vận dụng tuyến tính trong vòng 4 năm. Số tiền được in trước chủ yếu được sử dụng để mua bản quyền phần mềm, thanh toán chi phí pháp lý cho việc phát hành token.
 
-The rest is part of the __Meeds DAO funds__ and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
+Phần còn lại là một phần của __Quỹ Meeds DAO__ và sẽ được sử dụng để trả cho các dịch vụ cũng như một số khuyến mãi khởi đầu như airdrops và chiến dịch giới thiệu.
 
 
-## 3.2. Minting allocation
+## 3.2. Phân bổ giấy tiền
 
-Minted Meeds are allocated to encourage involvement of the three categories of stakeholders - the users, the builders and the investors:
+Minted Meeds được phân bổ để hỗ trợ tham gia của ba loại nhà quản lý - người dùng, nhà xây dựng và nhà đầu tư:
 
-- The users (users and Deeds holders/renters) get Meeds through engagement rewards (mintium model).
-- Builders (members of the association and community) get Meeds through the association funds to build, operate and improve the WoM.
-- Investors mint Meeds through renting and buying of liquidity pools and staking Meeds.
+- Người dùng (người dùng và chủ sở hữu/thuê của Deeds) nhận được Meeds qua phần thưởng tích cực (mô hình Mintium).
+- Nhà xây dựng (thành viên của hiệp hội và cộng đồng) nhận được Meeds từ quỹ hiệp hội để xây dựng, hoạt động và cải thiện WoM.
+- Nhà đầu tư đánh giá Meeds qua việc thuê và mua các hồ nước lưu chuyển và gắn cổ Meeds.
 
-At the beginning, the builders get 30% of the allocation. The 70% are shared between the users and the investors. Phần phân bổ này sẽ được đánh giá thường xuyên qua cuộc bỏ phiếu của Hiệp hội DAO Meeds.
+Ở đầu, nhà xây dựng sẽ nhận được 30% của phân bổ. 70% được chia giữa người dùng và nhà đầu tư. Phần phân bổ này sẽ được đánh giá thường xuyên qua cuộc bỏ phiếu của Hiệp hội DAO Meeds.
 
 ## 3.3. Người dùng - xuất bản qua sự tích cực
 
 Một phần của Meeds được đồng xuất liên tục được phân bổ cho kênh đồng xuất tích cực. Phân phối được thực hiện hàng tuần. Vào bất kỳ cuối tuần nào, chỉ số tương tác được tính toán và Deeds có thể yêu cầu phần thưởng của họ vào tuần sau và nhận được Meeds của họ. Các Meeds chưa được yêu cầu sẽ giữ trong quỹ và được thêm vào phân phối tuần sau. Mô hình được mô tả chi tiết trong chương trước (phần 2.6).
 
-## 3.4. Builders – Meeds association DAO and community of builders
+## 3.4. Xây dựng viên - Hiệp hội Meeds DAO và cộng đồng xây dựng
 
-The WoM and the Meeds token are operated by the non-profit Meeds Association DAO, introduced above. A multisig contract called the _Meeds DAO Funds_ is used to manage the association's operating expenses.
+WoM và token Meeds được hoạt động bởi Hiệp hội Meeds DAO không lợi nhuận, đã được giới thiệu ở trên. Một hợp đồng multisig gọi là _Quỹ DAO Meeds_ được sử dụng để quản lý chi phí hoạt động của tổ chức.
 
-During the minting period, **30% of the minted Meeds are allocated to the Meeds association**.
+Trong thời gian đồng kim, **30% của Meeds được đồng kim được gán cho Hiệp hội Meeds**.
 
-Association members can provide services to the association on the basis of a signed services convention establishing the man-day rate. Services are paid monthly in Meeds, based on the market price. Exemples of services include – enriching the Meeds software, developing the WoM app, developing new connectors, operating the cloud service, providing financial and legal services etc.
+Các thành viên Hiệp hội có thể cung cấp dịch vụ cho Hiệp hội dựa trên một thỏa thuận dịch vụ đã ký xác định tỷ lệ ngày làm việc. Dịch sang tiếng Việt: Dịch vụ được trả hàng tháng trong Meeds, dựa trên giá thị trường. Ví dụ các dịch vụ bao gồm - phục vụ phần mềm Meeds, phát triển ứng dụng WoM, phát triển các kết nối mới, hoạt động dịch vụ điện toán đám mây, cung cấp dịch vụ tài chính và pháp lý v.v.
 
-Without being a member, any Deed can participate in the creation of a new connector and be rewarded for doing so – first through the Meeds association acquiring the connector and then by minting through this connector.
+Không cần là một thành viên, bất kỳ Hợp đồng nào cũng có thể tham gia tạo một kết nối mới và được phần thưởng cho việc làm như vậy - trước qua Hiệp hội Meeds mua lại kết nối và sau đó bằng cách xuất dẫn thông qua kết nối này.
 
-The association operates a Builders community that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
+Hội tục hoạt động một cộng đồng Nhà xây dựng mà chào đón những người yêu thích WoM, muốn đóng góp vào sự tạo ra của WoM. Hội sẽ tài trợ cộng đồng từ ngân sách của mình, bồi thường tích cực của thành viên cộng đồng.
 
-Thus, the community will function as an example of a Deed, offering a standard set of services provided by the association. The association stakes Meeds in order to redeem a Deed for the community. The community will then also participate in the engagement minting like any other Deed.
+Vì vậy, cộng đồng sẽ hoạt động như một ví dụ của một Hiệp định, cung cấp một tập hợp các dịch vụ tiêu chuẩn được cung cấp bởi tổ chức. Hội đồng đánh cờ Meeds để trả lại giấy tờ cho cộng đồng. Cộng đồng sẽ sau đó cũng tham gia vào quá trình làm đồng tiền tương tự như bất kỳ Deed khác.
 
-After the minting period is over, the association will be sustained by :
+Sau khi thời gian đánh tiền kết thúc, hiệp hội sẽ được duy trì bởi:
 
-- taxing passive income (3% on Deeds renting)
-- taxing selling income (2.5% on Deeds sales)
-- perceiving transaction fees over the use of the perks stores
-- acting as a liquidity pool provider
-- perceiving transaction fees when a Deed distributes non Meeds tokens via WoM services.
-- by operating the Deeds that the association minted over time.
+- thuế từ thu nhập bị động (3% từ cho thuê hợp đồng)
+- thuế bán hàng thu nhập (2,5% trên bán hàng ghi trên giấy)
+- dịch câu này sang tiếng Việt: Thấy phí giao dịch qua sử dụng cửa hàng tiện ích
+- hoạt động như một nhà cung cấp hồ nước tiền tệ
+- dịch câu này sang tiếng Việt: Nhận thấy phí giao dịch khi một Hiệp Định phân phối Token non-Meeds qua dịch vụ WoM.
+- bằng cách hoạt động các Hợp Đồng mà Hiệp Hội đã đặt ra qua thời gian.
 
 
-## 3.5. Investors
+## 3.5. Nhà đầu tư
 
-Investors help creating the WoM by providing liquidity and by staking Meeds and thus stabilizing its price level during the construction period. Both are encouraged through minting.
+Nhà đầu tư giúp tạo ra WoM bằng cách cung cấp tín dụng và cổ phần vào Meeds và vậy giữ cho mức giá của nó ổn định trong quá trình xây dựng. Cả hai đều được hỗ trợ qua việc ép kim.
 
-**Liquidity providers** Currency liquidity management is key to the success of the project and several DeFi strategies will be used to optimize capital efficiency. We will start with incentives for staking MeedS/ETH LP pool tokens and will progressively introduce bonds to move towards a protocol owned liquidity. The latter would contribute to the association’s long term sustainability - as mentioned above, transaction fees will fund the association operating expenses such as cloud hosting.
+**Nhà cung cấp chất lượng** Quản lý chất lượng tiền tệ là quan trọng cho thành công của dự án và một số chiến lược DeFi sẽ được sử dụng để tối ưu hóa hiệu quả vốn. Chúng tôi sẽ bắt đầu với các chế độ hỗ trợ cho việc đặt cổ phần MeedS/ETH LP pool và sẽ dần dần giới thiệu các trái phiếu để chuyển đến sự có đủ tài sản do giao thức quản lý. Cái sau sẽ đóng góp vào tính bền vững dài hạn của hiệp hội - như đã đề cập trên, phí giao dịch sẽ tài trợ chi phí hoạt động của hiệp hội như là việc lưu trữ trên đám mây.
 
-Every member also has the right to directly purchase a large amount of Meeds at a discount. The amount wired to the association account is converted to ETH and added along with the equivalent value of Meeds to the Liquidity Pool.
+Mỗi thành viên cũng có quyền mua trực tiếp một lượng lớn Meeds với giảm giá. Số tiền chuyển điện tới tài khoản hợp tác xã được chuyển đổi thành ETH và được cộng thêm với giá trị tương đương của Meeds vào Hồ nước Đối tác.
 
-**Staking / long-term investment** To encourage long term investment, staked Meeds are rewarded. When Meeds are staked, the staker gets some xMeeds tokens. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings. In practice, minted Meeds are effectively added to the holdings of the xMeeds smart contract and distributed to the xMeeds holder when they unstake.
+**Giữ cổ phần / đầu tư dài hạn** Để hỗ trợ đầu tư dài hạn, các cổ phần đã giữ sẽ được thưởng. Khi Meeds được gắn cổ, người gắn cổ sẽ nhận được một số xMeeds tokens. Các Meeds mới được phát hành cho các stakers theo tỷ lệ tương ứng với số lượng xMeeds của họ. Trong thực tế, Meeds được đồng xuất xuất thực sự được thêm vào số lượng tài sản của hợp đồng thông minh xMeeds và được phân phối cho chủ nhân xMeeds khi họ giải nắm.
 
-By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. Each staked Meeds (xMeeds) grants its owner a number of points per day. The longer the vested period the higher the number of points obtained per xMeeds. Each Deed is then redeemed in exchange for a number of points.
+Bằng cách đầu tư Meeds, các nhà đầu tư cũng có thể hoàn lại Deeds (và sau đó tham gia sản xuất qua tương tác), tức tăng nhu cầu cho token. Mỗi Meeds (xMeeds) được gắn cổ cho chủ sở hữu một số điểm mỗi ngày. Càng lâu thời gian hạn chế, số điểm được nhận được mỗi xMeeds sẽ cao hơn. Mỗi hành động được hoàn lại thay cho một số điểm.
 
-Points are calculated using the formula below :
+Các điểm được tính sử dụng công thức dưới đây:
 
  $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
 
- where :
+ ở đâu:
 
 - $xMeeds$ : xMeeds balance  with no decimals
 - $T$ : Time elapsed in milliseconds
