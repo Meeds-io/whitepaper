@@ -1,40 +1,40 @@
-# 5. The Work Metaverse for ALL – vision summary and milestones
+# 5. Το Metaverse της εργασίας για ΟΛΟΥΣ - σύνοψη οράματος και ορόσημα
 
-## 5.1. Ultimate goal - decentralized web for everyone
+## 5.1. Απώτερος στόχος - αποκεντρωμένος ιστός για όλους
 
-In the end, the WoM is a decentralized web world for everyone – every person and every organization.
+Τελικά, το WoM είναι ένας αποκεντρωμένος διαδικτυακός κόσμος για όλους - κάθε άτομο και κάθε οργανισμό.
 
-It will be populated by users, acting through their digital identities **Xeeds** and accessing the world through their metamasks, for crypto-savvies, or login/password for the newbies. People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
+Θα κατοικείται από χρήστες, οι οποίοι θα ενεργούν μέσω των ψηφιακών τους ταυτοτήτων **Xeeds** και θα έχουν πρόσβαση στον κόσμο μέσω των metamasks τους, για τους κρυπτογραφημένους, ή μέσω login/password για τους αρχάριους. Οι άνθρωποι θα κατανέμουν τη δέσμευσή τους και θα ανταμείβονται με δίκαιο, διαφανή και αποκεντρωμένο τρόπο. Θα αποκτήσουν πρόσβαση στον αποκεντρωμένο κόσμο και τον κρυπτόκοσμο του αύριο με έναν εύκολο και οικείο τρόπο - θα αποκτήσουν απλά εργαλεία για να χρησιμοποιήσουν τις μάρκες τους στη ζωή τους ή να τις επενδύσουν για το μέλλον τους.
 
-Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the metaverse, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
+Οι οργανισμοί - **Deeds** θα μπορούν να αναζητούν ταλέντα, ψάχνοντας στο WoM για τις κατάλληλες αποδεδειγμένες δεξιότητες. Θα ανταμείβονται για τη συμμετοχή τους στο metaverse, κόβοντας μάρκες μέσω της εμπλοκής των χρηστών τους (μοντέλο mintium). Κυρίως όμως, θα επωφεληθούν από τη μεγαλύτερη δέσμευση και αφοσίωση των χρηστών τους.
 
-The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
+Το WoM θα έχει το δικό του νόμισμα **Meeds** - το οποίο θα υπάρχει για να το ξοδέψετε στα καταστήματα, να το μετατρέψετε σε άλλο νόμισμα, να το επενδύσετε για απόδοση της επένδυσης, να το νοικιάσετε ή να το αγοράσετε κ. λπ. Το WoM θα διευκολύνει επίσης τη διανομή άλλων tokens και θα συμμετέχει στο συνολικό οικοσύστημα κρυπτογράφησης.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
+Επειδή μια εικόνα αξίζει όσο χίλιες λέξεις, ακολουθεί ένα διάγραμμα που περιγράφει τις ροές WoM και Meeds
 
-![WoM and Meeds flows](en/img/wom-flows.png)
+![Ροές WoM και Meeds](en/img/wom-flows.png)
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
+Η παγκόσμια συντήρηση και η βιωσιμότητα μακροπρόθεσμα εξασφαλίζονται μέσω των φόρων που μοιράζονται μεταξύ της ένωσης Meeds και των πόλεων.
 
-## 5.2. What’s in it for early adopters
+## 5.2. Τι ισχύει για τους πρώιμους υποστηρικτές
 
-Obviously, early adopters would get considerable advantages over the late comers.
+Προφανώς, οι πρώιμοι χρήστες θα έχουν σημαντικά πλεονεκτήματα έναντι των καθυστερημένων.
 
-In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
+Ειδικότερα, το WoM ανταμείβει τη μακροπρόθεσμη επένδυση στο στίχο - δηλαδή την εξαγορά της περιουσίας (Deeds). Ο αρχικός ιδιοκτήτης του Deed αμείβεται μέσω της κοπής δεσμεύσεων (ενεργή χρήση), μέσω παθητικού εισοδήματος (ενοικίαση) και λαμβάνει εφ' όρου ζωής 1% σε κάθε συναλλαγή πώλησης του Deed (σε κάθε αλλαγή ιδιοκτησίας, ο αρχικός εξαργυρωτής λαμβάνει αμοιβή επί της συναλλαγής).
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the metaverse.
+Πιστεύοντας στο έργο, συμμετέχοντας στις δεξαμενές ρευστότητας, ποντάροντας Meeds, εξαργυρώνοντάς τα με Deeds... οι πρώτοι επενδυτές όλων των μεγεθών θα έκοβαν επιπλέον μάρκες. Θα είχαν επίσης τα πρώτα δικαιώματα ψήφου και θα βοηθούσαν στη διαμόρφωση του metaverse.
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
+Οι οργανισμοί που αποκτούν, αλλά κυρίως χρησιμοποιούν Deeds για να δεσμεύουν και να ανταμείβουν τους υπαλλήλους τους, θα αποζημιώνονται με νομισματοκοπημένα Meeds. Όσο πιο δίκαια παίξουν, τόσο περισσότερα θα πάρουν. Οι πρώτοι που το υιοθέτησαν θα συσχετιστούν με τις πρώτες ιστορικές πόλεις και θα αναγνωριστούν αργότερα ως οι οικοδόμοι.
 
-The diagram below represents an example of the Meeds investment strategy for capital holders :
+Το παρακάτω διάγραμμα αποτελεί ένα παράδειγμα της επενδυτικής στρατηγικής της Meeds για τους κατόχους κεφαλαίου :
 
-![Meeds investment strategy for capital holders](en/img/invest-capital.png)
+![Επενδυτική στρατηγική της Meeds για κατόχους κεφαλαίου](en/img/invest-capital.png)
 
-Organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
+Οι οργανισμοί μπορούν φυσικά να συμμετέχουν σε δεξαμενές ρευστότητας, αλλά και να ενταχθούν στην κοινότητα των κατασκευαστών και να λάβουν πρόσθετες ανταμοιβές δέσμευσης εκεί.
 
-The diagram below represents an example of the Meeds investment strategy for work holders :
+Το παρακάτω διάγραμμα αποτελεί παράδειγμα της επενδυτικής στρατηγικής της Meeds για τους κατόχους εργασίας :
 
-![Meeds investment strategy for work holders](en/img/invest-work.png)
+![Επενδυτική στρατηγική της Meeds για τους κατόχους εργασίας](en/img/invest-work.png)
 
 ## 5.3. Το λανσάρισμα
 
