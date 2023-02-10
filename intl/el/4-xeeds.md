@@ -38,27 +38,27 @@
 
 ## 4.4. Δίκαιη αγορά εργασίας
 
-Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Deeds – as they do in the physical world by changing employers. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to choose which Deed provides better engagement reward conditions, belongs to a more attractive city, etc.
+Στο πλαίσιο αυτού του παραδείγματος, η μελλοντική αγορά εργασίας επιτρέπει στους χρήστες να κινούνται ελεύθερα και να κατανέμουν/πωλούν τη δέσμευσή τους μεταξύ των Deeds - όπως κάνουν στον φυσικό κόσμο, αλλάζοντας εργοδότη. Ωστόσο, στο WoM η δέσμευσή τους θα είναι απτή, θα μετριέται και θα ανταμείβεται με δίκαιο τρόπο. Μετακινούμενοι μεταξύ συστημάτων που ακολουθούν παρόμοια λογική, θα κατανοήσουν καλύτερα τους κανόνες του παιχνιδιού και θα κρίνουν δίκαια τους εργοδότες - το γρασίδι δεν είναι πάντα πιο πράσινο αλλού. Οι χρήστες θα μπορούν να επιλέξουν ποιο Deed παρέχει καλύτερες συνθήκες ανταμοιβής δέσμευσης, ανήκει σε μια πιο ελκυστική πόλη κ. λπ.
 
-On their end, the Deeds’ holders/renters can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
+Από την πλευρά τους, οι κάτοχοι/μισθωτές των Deeds μπορούν να αναζητήσουν σχετικές δεξιότητες χρησιμοποιώντας το δίκτυο WoM των ψηφιακών ταυτοτήτων εργασίας (που οι χρήστες αποφάσισαν να αποκαλύψουν). Θα είναι σε θέση να προμηθεύονται δεξιότητες πιο αποτελεσματικά, με βάση επαληθευμένες και λεπτομερείς πληροφορίες σχετικά με το ιστορικό εργασίας, τις εργασιακές δεξιότητες και το επίπεδο δέσμευσης του χρήστη.
 
-## 4.5. Tangible and transparent recognition
+## 4.5. Απτή και διαφανής αναγνώριση
 
-Today, details on compensation and bonuses are obscure in many workplaces. Therefore, it is difficult for a person to compare his conditions to that of another and get a sense of a fair and unbiased treatment. Employees experience a lot of frustrations with the above.
+Σήμερα, οι λεπτομέρειες σχετικά με τις αποζημιώσεις και τα μπόνους είναι ασαφείς σε πολλούς χώρους εργασίας. Ως εκ τούτου, είναι δύσκολο για ένα άτομο να συγκρίνει τις συνθήκες του με αυτές ενός άλλου και να έχει την αίσθηση μιας δίκαιης και αμερόληπτης μεταχείρισης. Οι εργαζόμενοι βιώνουν πολλές απογοητεύσεις με τα παραπάνω.
 
-The WoM introduces an objective way to recognize achievements and reward them.
+Το WoM εισάγει έναν αντικειμενικό τρόπο αναγνώρισης και επιβράβευσης των επιτευγμάτων.
 
-Engagement recognition and reward mechanism is transparent and applies fairly to all users, following the same explicit rules, decided in advance and aligned with the Deed’s goals.
+Ο μηχανισμός αναγνώρισης και ανταμοιβής της δέσμευσης είναι διαφανής και εφαρμόζεται δίκαια σε όλους τους χρήστες, ακολουθώντας τους ίδιους ρητούς κανόνες, οι οποίοι αποφασίζονται εκ των προτέρων και ευθυγραμμίζονται με τους στόχους της πράξης.
 
-Wallets are individual and blockchain based – when the user receives a reward or earns a badge, it cannot be taken back or erased.
+Τα πορτοφόλια είναι ατομικά και βασίζονται στην αλυσίδα μπλοκ - όταν ο χρήστης λαμβάνει μια ανταμοιβή ή κερδίζει ένα σήμα, δεν μπορεί να το πάρει πίσω ή να το διαγράψει.
 
-## 4.6. Access to Web 3.0, cryptoeconomy and DEFI services
+## 4.6. Πρόσβαση σε υπηρεσίες Web 3.0, κρυπτοοικονομίας και DEFI
 
-As discussed above, the Work Metaverse opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
+Όπως αναφέρθηκε παραπάνω, το Work Metaverse ανοίγει τον κόσμο των κρυπτονομισμάτων και των αποκεντρωμένων διαδικτυακών υπηρεσιών ουσιαστικά σε όλους - έναν πολύ μεγάλο πληθυσμό χρηστών, ακόμη και ενδεχομένως άσχετο με τον ψηφιακό τομέα.
 
-Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
+Πράγματι, οποιαδήποτε εργασιακή δέσμευση μπορεί δυνητικά να χαρακτηριστεί ως συμβολική. Στην πραγματικότητα, ο κόσμος γίνεται όλο και πιο ψηφιακός με τάσεις όπως το 5G, το iot, τα wearables και ούτω καθεξής. Ως εκ τούτου, θα μπορούσαν να συλλεχθούν και να αναλυθούν όλο και περισσότερα σήματα για να αποτυπωθεί η δέσμευση των μη ψηφιακών επαγγελμάτων. Οι προκλήσεις παρέχουν έναν έτοιμο τρόπο για να το συμβολίσουν, αντιπροσωπεύοντας επιτεύγματα στον φυσικό κόσμο.
 
-Any user can get Meeds and use a Meeds wallet to get access to new age services without any special training.
+Οποιοσδήποτε χρήστης μπορεί να αποκτήσει Meeds και να χρησιμοποιήσει ένα πορτοφόλι Meeds για να αποκτήσει πρόσβαση σε υπηρεσίες νέας εποχής χωρίς καμία ειδική εκπαίδευση.
 
-[^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
-[^8]: Verifiable Credentials Data Model
+[^7]: A.Preukschatt, R. Drummond "Αυτοκυριαρχική ταυτότητα"
+[^8]: Μοντέλο δεδομένων επαληθεύσιμων διαπιστευτηρίων
