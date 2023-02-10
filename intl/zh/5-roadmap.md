@@ -12,7 +12,7 @@ WoM将有它自己的货币**Meeds**--可以在商店里消费，兑换成另一
 
 图片胜过千言万语，这里有一张描述WoM和Meeds流程的图。
 
-![WoM and Meeds flows](en/img/wom-flows.png)
+![禾木和米德的流动](en/img/wom-flows.png)
 
 从长远来看，世界的维护和可持续性是通过Meeds协会和各城市之间的税收来保证的。
 
@@ -28,13 +28,13 @@ WoM将有它自己的货币**Meeds**--可以在商店里消费，兑换成另一
 
 下图代表了资本持有人的 Meeds 投资策略示例：
 
-![Meeds investment strategy for capital holders](en/img/invest-capital.png)
+![Meeds对资本持有人的投资策略](en/img/invest-capital.png)
 
 组织当然可以参与流动资金池，但也可以加入建设者社区，在那里获得额外的参与奖励。
 
 下图代表了 Meeds 工作人员投资策略的一个例子：
 
-![Meeds investment strategy for work holders](en/img/invest-work.png)
+![Meeds的工作持有人的投资策略](en/img/invest-work.png)
 
 ## 5.3. The launch 发射仪式
 
@@ -68,19 +68,19 @@ Builders 社区在 Meeds 软件上启动并运行，向任何想要加入、测�
 
 路线图和里程碑 我们还应该有一些来自传统公司的早期采用者，他们在当前的传统薪酬计划之外，通过向员工提供相关的参与计划，从元宇宙中获得直接价值。
 
-Meeds minting spans a 20 year period. Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature metaverse, having spread to many organizations and many users globally.
+Meeds造币的时间跨度为20年。 到那个时候，我们希望能够建立一个成熟的元空间，在全球范围内推广到许多组织和许多用户。
 
-## 5.6. 5.6. What you can do right now
+## 5.6. 你现在可以做什么
 
-What can you do right now to participate?
+你现在可以做什么来参与？
 
-- Spread this paper to those who would be interested
-- Visit our website [meeds.io](https://www.meeds.io/)
-- Check out the [Investor app](https://meeds.io/investors)
-- Contribute to the existing liquidity pools here :
+- 向有兴趣的人传播这份文件
+- 访问我们的网站[meeds.io](https://www.meeds.io/)。
+- 查看[Investor app](https://meeds.io/investors)。
+- 在这里为现有的流动资金池做贡献 :
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
-- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
+- 加入我们的[Discord](https://discord.com/invite/hAuADSq3)社区，随时了解情况。
+- 加入我们的[建设者](https://meeds.io/builders)社区，测试Meeds软件，参与并获得一些Meeds参与奖励。
 
-**\*\*\* The Work Metaverse - let’s build this crazy future world together. \*\*\* \*\*\***
+**\*\*\* The Work Metaverse - 让我们一起打造这个疯狂的未来世界。 \*\*\***
