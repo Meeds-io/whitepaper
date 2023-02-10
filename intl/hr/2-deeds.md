@@ -43,21 +43,21 @@ To begin with, the following free services provided by the Meeds association can
 - **Customizable engagement programs** - organizations can create their own engagement programs matching their business goals and priorities. Programs are associated to automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatics or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
 - **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
 - **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
-- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
-- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
-- **Analytics** – to analyze and follow engagement within the Deed.
-- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
+- **Wallet** – korisnici dobivaju sigurni novčanik Ethereum tehnologije za pohranu svojih Meedova. Alternativno, za napredne korisnike, može se koristiti Metamask novčanik.
+- **Store** – trgovina u kojoj se Meeds može zamijeniti za povlastice koje pruža vlasnik ili unajmljivač ugovora ili ekosustav Meeds.
+- **Analytics** – za analizu i praćenje angažmana unutar Djela.
+- **Connectors**, uključeni u sustav nagrađivanja – korisnici dobivaju bodove angažmana putem radnji u drugom softveru – na primjer za uvrštavanje koda u GitHub.
 
-Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
+Neki od gore navedenih alata i usluga već su decentralizirani, drugi nisu. Konačni cilj je pružanje svih usluga na decentraliziran način, što ćemo činiti postupno kako se temeljna tehnologija bude razvijala.
 
-New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
+Nove usluge mogu se uključiti u sustav nagrađivanja putem API-ja. Primjeri su bezbrojni i mogu uključivati ​​gotovo bilo koji softver ili uslugu:
 
-- CRM software – salespeople would get engagement points for working on opportunities.
-- Accounting software – accountants would get engagement points for keeping books.
-- Clocking terminal – factory worker can get points for factory work time.
-- Etc.
+- CRM softver – prodavači bi dobili bodove angažmana za rad na prilikama.
+- Računovodstveni softver – računovođe bi dobile bodove angažmana za vođenje poslovnih knjiga.
+- Terminal za mjerenje vremena – tvornički radnik može dobiti bodove za radno vrijeme u tvornici.
+- Itd.
 
-Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
+Nadalje, angažman proizveden putem konektora sudjeluje u globalnom rezultatu angažmana organizacije koji je faktor opisane distribucije kovanja Meeds ispod. Da biste to učinili, Meeds Association mora staviti konektor na popis dopuštenih. Udruga pregledava konektor, odobrava njegov algoritam i stječe svoje vlasništvo protiv Meedsa. Tada postaje dio besplatnih usluga koje pruža udruga i uključen je u globalni indeks angažmana. Any other Deed can use the same connector and the same reward algorithm for its developers.
 
 The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
 
@@ -66,7 +66,7 @@ The Deed’s holder or renter can enrich its store with its own perks, connect t
 - Vacation packages
 - Lunch with a leader in the organization
 - Physical office space
-- Etc.
+- Itd.
 
 The store functions through the use of Meeds so that Meeds are partially returned to the Deed.
 
