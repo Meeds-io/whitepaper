@@ -2,19 +2,19 @@
 
 ## Abstract
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
+Thị trường lao động hôm nay thiếu hiệu quả do chi phí giao dịch cao [^1][^2][^3] và tình trạng xung đột quan tâm giữa nhà tuyển dụng và nhân viên thường xuyên.
 
 Các Thế Giới Công Việc (WoM) đề xuất một giải pháp mới mà sẽ giảm chi phí giao dịch và tái tạo mối quan hệ việc làm, kết nối các công ty truyền thống và DAOs.
 
 WoM làm điều đó bằng cách giới thiệu những tư cách kỹ thuật số cho cả nhà tuyển dụng và nhân viên và cung cấp một hệ thống thưởng hứng tích cậy mới mẻ mà sẽ cân bằng sở thích của họ.
 
-## Introduction
+## Giới thiệu
 
-The work market today is broken. It fails to satisfy both employees and employers.
+Thị trường lao động hôm nay bị hỏng. Nó không thể làm hài lòng cả nhân viên và nhà tuyển dụng.
 
-On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
+Trên phía nhân viên, việc tìm kiếm công việc phù hợp là khó khăn. Thị trường việc làm ưu tiên một số loại cá nhân, để lại nhiều kỹ năng tuyệt vời bên lại. Điều này xuất phát từ một bộ giới hạn con người - dựa trên chủng tộc, giới tính, khuyết tật, nội tâm vv. Thị trường lao động cũng thiếu trong mắt về vị trí có sẵn và điều kiện việc làm.
 
-Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Ngoài ra, việc đền bù và tiến bộ nghề nghiệp cũng phụ thuộc vào yếu tố con người - tin cậy và trung thực của quản lý trực tiếp của nhân viên.
+Sau khi được tuyển dụng, quyền tự do cá nhân của nhân viên bị giới hạn đổi lấy một mức trả lương. Nhân viên có ít quyền góp ý về thời gian làm việc, nơi làm việc, nội dung công việc hoặc cách làm việc. Và mức trả lương của họ rất hiếm khi liên quan đến sự góp mặt hoặc giá trị thực sự của họ. Luật hỗ trợ bồi thường thiếu trong vấn đề trong suốt và, vì thế, được coi là không công bằng. Ngoài ra, việc đền bù và tiến bộ nghề nghiệp cũng phụ thuộc vào yếu tố con người - tin cậy và trung thực của quản lý trực tiếp của nhân viên.
 
 Người sở hữu công ty, trong khi đó, gặp khó khăn trong việc tìm kiếm nguồn nhân lực và tuyển dụng kỹ năng đúng và phù hợp vào lúc đúng cho công việc. Không có cách chính xác để xác định năng lực của người được tuyển dụng hoặc tìm kiếm nhân tài ngoài nguồn tuyển dụng truyền thống của nhà tuyển dụng.
 
