@@ -8,79 +8,79 @@ Kullanıcılar tarafından doldurulacak, dijital kimlikleri **Xeeds** aracılı�
 
 Kuruluşlar - **Devletler** doğru kanıtlanmış beceriler için WoM'a göz atarak yetenekleri tedarik edebilecektir. Kullanıcılarının katılımı (mintium modeli) yoluyla jeton basarak metaverse katılımları için ödüllendirileceklerdir. Ancak hepsinden önemlisi, kullanıcılarının daha yüksek bir katılım ve sadakatinden faydalanacaklardır.
 
-WoM'un kendi para birimi **Meeds** olacaktır - mağazalarda harcamak, başka bir para birimine dönüştürmek, yatırım getirisi için yatırım yapmak, kiralamak veya satın almak vb. için orada olacaktır. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
+WoM'un kendi para birimi **Meeds** olacaktır - mağazalarda harcamak, başka bir para birimine dönüştürmek, yatırım getirisi için yatırım yapmak, kiralamak veya satın almak vb. için orada olacaktır. WoM ayrıca diğer tokenlerin dağıtımını kolaylaştıracak ve genel kripto ekosistemine katılacaktır.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
+Bir resim bin kelimeye bedeldir, işte WoM ve Meeds akışlarını açıklayan bir diyagram
 
-![WoM and Meeds flows](en/img/wom-flows.png)
+![WoM ve Meeds akışları](en/img/wom-flows.png)
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
+Dünyanın bakımı ve uzun vadede sürdürülebilirliği, Meeds derneği ve Şehirler arasında paylaşılan vergilerle sağlanmaktadır.
 
-## 5.2. What’s in it for early adopters
+## 5.2. Erken benimseyenler için neler var
 
-Obviously, early adopters would get considerable advantages over the late comers.
+Açıkçası, erken benimseyenler geç gelenlere göre önemli avantajlar elde edecektir.
 
-In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
+WoM özellikle ayete yapılan uzun vadeli yatırımı, yani mülkün itfa edilmesini (Deeds) ödüllendirmektedir. Deed'in asıl sahibi, nişan basımı (aktif kullanım), pasif gelir (kiralama) yoluyla tazminat alır ve Tapunun herhangi bir satış işleminden ömür boyu %1 alır (her sahiplik değişiminde, asıl itfa eden işlemden bir ücret alır).
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the metaverse.
+Projeye inanarak, likidite havuzlarına katılarak, Meed'leri stake ederek, bunları Deed'lere karşı kullanarak... her büyüklükteki ilk yatırımcılar ek tokenlar basacaktı. Ayrıca en erken oy hakkına sahip olacaklar ve metaverse'in şekillenmesine yardımcı olacaklardır.
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
+Çalışanlarının ilgisini çekmek ve onları ödüllendirmek için Deed'leri satın alan ancak özellikle kullanan kuruluşlar, basılmış Meed'lerle tazmin edilecektir. Ne kadar adil oynarlarsa, o kadar çok kazanacaklar. Daha erken benimseyenler ilk tarihi şehirlerle ilişkilendirilecek ve daha sonra inşaatçılar olarak tanımlanacaktır.
 
-The diagram below represents an example of the Meeds investment strategy for capital holders :
+Aşağıdaki diyagram, sermaye sahipleri için Meeds yatırım stratejisinin bir örneğini temsil etmektedir:
 
-![Meeds investment strategy for capital holders](en/img/invest-capital.png)
+![Sermaye sahipleri için Meeds yatırım stratejisi](en/img/invest-capital.png)
 
-Organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
+Kuruluşlar elbette likidite havuzlarına katılabilir, ancak aynı zamanda inşaatçılar topluluğuna katılabilir ve orada ek katılım ödülleri alabilir.
 
-The diagram below represents an example of the Meeds investment strategy for work holders :
+Aşağıdaki şema, iş sahipleri için Meeds yatırım stratejisinin bir örneğini temsil etmektedir:
 
-![Meeds investment strategy for work holders](en/img/invest-work.png)
+![İş sahipleri için Meeds yatırım stratejisi](en/img/invest-work.png)
 
-## 5.3. The launch
+## 5.3. Lansman
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+Resmi lansman tarihi, birçok ülkede kutlanan Uluslararası İşçi Günü olan **1 Mayıs 2022** olarak belirlendi.
 
-At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
+O sırada Meed belirteci zaten mevcuttur. Polygon ve Ethereum ağlarında elde etmek mümkündür ve likidite havuzları katılıma açıktır.
 
-Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
+Üç Meeds derneği üyesi, kullanıcılarının ilgisini çekmek ve ödüllendirmek ve Meeds yazılımını geliştirmek için sistemi dahili olarak kullanıyor.
 
-The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
+Yatırımcı uygulaması Ethereum Mainnet'te mevcuttur. Başlangıçta, stake etme, likidite ödülleri, puan biriktirme ve Deeds'in kullanılmasını içerir.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
+Builders topluluğu Meeds yazılımı üzerinde çalışıyor ve katılmak, test etmek ve katılmak isteyen herkese açık. Metamask ile giriş yapmak mümkündür.
 
-This paper was published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
+Bu makale lansman gününde yayımlanmıştır. Lansmanın ardından token, kripto topluluğundaki birçok kişiye hava yoluyla gönderilecek.
 
-## 5.4. The builders community
+## 5.4. İnşaatçılar topluluğu
 
-We are launching the builders community on the Meeds software and on Discord. The association would reward builders engagement with Meeds, from its marketing budget. The community welcomes anyone who wants to take part in the building of the Work Metaverse.
+Meeds yazılımında ve Discord'da inşaatçılar topluluğunu başlatıyoruz. Topluluk, Work Metaverse'in inşasında yer almak isteyen herkesi memnuniyetle karşılamaktadır. Dernek, pazarlama bütçesinden inşaatçıların Meeds ile olan ilişkilerini ödüllendirecektir.
 
-The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
+Dernek ayrıca, inşaatçılar topluluğu için bir Deed elde etmek (kurtarmak) amacıyla bazı Meed'leri hisselendirmeyi planlamaktadır. Topluluk daha sonra mintium modeli aracılığıyla Meed'leri etkileşime göre daraltacak ve bunları etkileşime giren kullanıcılara dağıtacaktır.
 
-## 5.5. Roadmap and milestones
+## 5.5. Yol haritası ve kilometre taşları
 
-Our roadmap would follow the priority order below:
+Yol haritamız aşağıdaki öncelik sırasını takip edecektir:
 
-- Engagement index and minting through engagement
-- Enable Deeds renting
-- Xeed creation
-- Badges improvement and credentials development
-- DeFi services – in the wallet, credit cards partnership
+- Katılım endeksi ve katılım yoluyla para basma
+- Deeds kiralamayı etkinleştir
+- Xeed oluşturma
+- Rozetlerin iyileştirilmesi ve kimlik bilgilerinin geliştirilmesi
+- DeFi hizmetleri - cüzdanda, kredi kartları ortaklığı
 
-We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
+İnşa aşamasında DAO'lardan ve teknoloji meraklısı şirketlerden erken benimseyenlere güveniyoruz. Ayrıca, mevcut geleneksel tazminat planlarına ek olarak çalışanlarına ilgili katılım programları sağlayarak metaverse'ten anında değer elde eden geleneksel şirketlerden bazı erken benimseyenler de olmalıdır.
 
-Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature metaverse, having spread to many organizations and many users globally.
+Meeds'in basımı 20 yıllık bir dönemi kapsamaktadır. O zamana kadar, dünya çapında birçok kuruluşa ve birçok kullanıcıya yayılmış, olgun bir metaverse oluşturmayı hedefliyoruz.
 
-## 5.6. What you can do right now
+## 5.6. Şu anda yapabilecekleriniz
 
-What can you do right now to participate?
+Katılmak için şu anda ne yapabilirsiniz?
 
-- Spread this paper to those who would be interested
-- Visit our website [meeds.io](https://www.meeds.io/)
-- Check out the [Investor app](https://meeds.io/investors)
-- Contribute to the existing liquidity pools here :
+- Bu makaleyi ilgilenenlere dağıtın
+- Web sitemizi ziyaret edin [meeds.io](https://www.meeds.io/)
+- [Yatırımcı uygulamasına göz atın](https://meeds.io/investors)
+- Buradaki mevcut likidite havuzlarına katkıda bulunun:
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
-- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
+- Döngüden haberdar olmak için [Discord](https://discord.com/invite/hAuADSq3) topluluğumuza katılın
+- Meeds yazılımını test etmek, etkileşimde bulunmak ve bazı Meeds katılım ödülleri kazanmak için [Builders](https://meeds.io/builders) topluluğumuza katılın
 
-**\*\*\* The Work Metaverse - let’s build this crazy future world together. \*\*\***
+**\*\*\* The Work Metaverse - gelin bu çılgın gelecek dünyasını birlikte inşa edelim. \*\*\***
