@@ -2,35 +2,35 @@
 
 ## 4.1. Decentralized and self-sovereign models
 
-The WoM recognizes privacy as a fundamental human right and empowers users to own their data.
+WoM công nhận quyền riêng tư là một quyền cơ bản của con người và cho phép người dùng sở hữu dữ liệu của mình.
 
-Our approach is based on decentralized and self-sovereign identity principles, allowing users to be in control at any time of what information they want to publicize, share with a restricted group, or keep private.
+Cách tiếp cận của chúng tôi dựa trên nguyên tắc tự do và tự quản lý của thẻ định danh, cho phép người dùng có quyền kiểm soát bất cứ lúc nào về thông tin họ muốn công bố, chia sẻ với một nhóm hạn chế hoặc giữ bí mật.
 
-User's activity and engagement in the WoM is always linked to a Deed. A Xeed is the virtual persona of a user in a Deed. Xeed does not require any KYC, it is self-declaring, but we could conceivably imagine third-party firms providing this service.
+Hoạt động và tích cực của người dùng trong WoM luôn liên kết với một hành động. Một Xeed là nhân tố ảo của một người dùng trong một Deed. Xeed không yêu cầu bất kỳ KYC nào, nó tự deklarasi, nhưng chúng ta có thể dễ dàng tưởng tượng các công ty bên thứ ba cung cấp dịch vụ này.
 
-## 4.2. Badges and credentials
+## 4.2. Huy hiệu và chứng chỉ
 
-Badges and Credentials are given to users as a part of their participation in a Deed. The holder may download them as W3C Verifiable Credentials[^7][^8] (aka VCs) and store them in his wallet. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
+Badges và Credentials được cấp cho người dùng là một phần của tham gia của họ trong một Deed. Chủ cấm có thể tải xuống chúng như là Giấy chứng nhận W3C có thể xác nhận [^7][^8] (còn gọi là VCs) và lưu trữ chúng trong ví của mình. Những chứng chỉ VC đó là chứng nhận của kiến thức/kiến thức chứng minh bởi tổ chức cấp chứng chỉ.
 
-In today’s world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they count on their managers to give them a recommendation. The latter supposes certain goodwill on the part of the manager but is not necessarily treated as proof by the future employer.
+Trong thế giới hiện đại, rất khó để chứng minh một kỹ năng trước đó. Khi mọi người quảng cáo chính mình trên mạng, họ tính tới quản lý của mình để cung cấp cho họ một đề nghị. Cải thiện sau đó giả định một sự tốt đẹp của quản lý nhưng không cần thiết phải được coi là bằng chứng bởi nhà tuyển dụng tương lai.
 
-The Work Metaverse provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
+Metaverse công việc cung cấp một cách trong suốt và không thay đổi hơn cho người dùng để nhận được và chứng minh khả năng của họ.
 
-Badges are used to represent accomplishments made within a Deed. After completing a set of objectives or challenges, users will be awarded points. Badges can be unlocked by accumulating certain amounts of points in specific categories.
+Huy hiệu được sử dụng để biểu thị những thành tựu đã đạt được trong một nhiệm vụ. Sau khi hoàn thành một tập hợp các mục tiêu hoặc thách thức, người dùng sẽ được trao điểm. Huy hiệu có thể mở bằng cách tích lũy một số điểm nhất định trong các danh mục cụ thể.
 
-When badges are downloaded by the user, it is possible to include the number of points and his rank in the Deed for this specific accomplishment.
+Khi người dùng tải xuống các huy hiệu, có thể bao gồm số điểm và xếp hạng của họ trong Deed cho thành tựu này cụ thể.
 
-Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the Deed. These are signed by the Deed and can be accompanied by a signature by a peer user.
+Chứng chỉ có linh hoạt hơn huy hiệu; chúng có thể là một đề nghị từ một đồng nghiệp, chỉ ra nhiều năm kinh nghiệm, hoàn thành một khóa đào tạo hoặc kiểm tra, hoặc tham gia trong hành động. Những gì được ký bằng Giấy cam kết và có thể được đi kèm với chữ ký của một người dùng đồng cấp.
 
-## 4.3. Digital work identity
+## 4.3. Nhận dạng công việc kỹ thuật số
 
-All of the above contributes to forming proven digital skillset that can be kept and used by the user when changing jobs or freelancing. It would be more trustworthy than traditional solutions as it relies on not just one individual but a full community to prove it.
+Tất cả trên đều góp phần tạo thành bộ kỹ năng số hữu hiệu mà người dùng có thể giữ lại và sử dụng khi chuyển việc hoặc làm tự do. Nó sẽ có độ tin cậy cao hơn các giải pháp truyền thống vì nó phụ thuộc vào toàn bộ cộng đồng, không chỉ là một cá nhân để chứng minh nó.
 
-Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Deed to another, from one city to another, anywhere through the WoM.
+Giống như ví Meeds của mình, người dùng sẽ giữ nguyên Xeed, Badge và Credentials đính kèm với nó trong ví danh tính khi chuyển từ một Deed sang một Deed khác, từ một thành phố sang một thành phố khác, bất cứ đâu trên WoM.
 
-The user will be able to share his Xeed, Badges, and Credentials with other Deeds to highlight his experience, as well as with recruiters or any other services that he deems interesting.
+Người dùng sẽ có thể chia sẻ Xeed, huy hiệu và chứng chỉ của mình với các Deed khác để tôn vinh kinh nghiệm của mình, cũng như với các nhà tuyển dụng hoặc bất kỳ dịch vụ nào mà anh ta coi là quan tâm.
 
-A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations.
+Một người dùng có thể có một hoặc nhiều nhận dạng kỹ thuật số trong WoM. Anh ta có thể sau đó trình bày chúng một cách đồng nhất sử dụng các bản trình bày đã được xác thực.
 
 Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... In a manner of trustworthy LinkedIn 3.0.
 
