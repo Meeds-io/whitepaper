@@ -124,30 +124,30 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 ## 2.7. 城市與治理
 
-In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
+在 WoM 中，Deeds 將在虛擬城市內部逐漸生成。 從一開始只有第一個城市會存在。 其他的將逐步建造，一個接一個。 在整個 WoM 中，永遠只有 7 個城市，每個城市包含固定數量的每種類型的 Deeds。
 
-A city will be considered complete, once all of its Deeds have been minted. A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
+一旦所有的 Deeds 都被鑄造，一個城市將被認為是完整的。 然後，每個新城市的鑄造將在 $n-1$ 城市的最後一個 Deeds 鑄造後 $2^n$ 個月開始。
 
-| **City name** | **Deeds**   | **Available**        | **常見的**    | **罕見**     | **稀有的**   | **傳奇的** |
-| ------------- | ----------- | -------------------- | ---------- | ---------- | --------- | ------- |
-| 1: Tanit      | 100         | T0                   | 50         | 30         | 13        | 7       |
-| 2: Reshef     | 1 000       | Tanit + 4 months     | 600        | 300        | 94        | 6       |
-| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000      | 3 000      | 995       | 5       |
-| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000     | 30 000     | 9 996     | 4       |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000    | 99 997    | 3       |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000  | 999 998   | 2       |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000 | 9 999 999 | 1       |
+| **城市名**     | **Deeds**   | **可用**           | **常見的**    | **罕見**     | **稀有的**   | **傳奇的** |
+| ----------- | ----------- | ---------------- | ---------- | ---------- | --------- | ------- |
+| 1: Tanit    | 100         | T0               | 50         | 30         | 13        | 7       |
+| 2: Reshef   | 1 000       | Tanit + 4 個月     | 600        | 300        | 94        | 6       |
+| 3: Ashtarte | 10 000      | Reshef + 8 個月    | 6 000      | 3 000      | 995       | 5       |
+| 4: Melqart  | 100 000     | Ashtarte + 16 個月 | 60 000     | 30 000     | 9 996     | 4       |
+| 5: Eshmun   | 1 000 000   | Melqart + 32 個月  | 600 000    | 300 000    | 99 997    | 3       |
+| 6: Kushor   | 10 000 000  | Eshmum + 64 個月   | 6 000 000  | 3 000 000  | 999 998   | 2       |
+| 7: Hammon   | 100 000 000 | Kushor  + 128 個月 | 60 000 000 | 30 000 000 | 9 999 999 | 1       |
 
-A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
+城市是讓 Deeds 聚集在一起並創建社區的一種方式。 因此，獲得與該社區相關的特定身份。 這也是一種為其用戶提供額外價值的方式——價值將超出一個契約的能力或通過 Deeds 之間的合作創造的價值。
 
-Each city has its own govenance and operates its own DAO where the city’s Deeds’ owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
+每個城市都有自己的治理並運營自己的 DAO，城市的 Deeds 所有者可以在其中選舉他們的市議會，投票並製定自己的運營規則，添加新服務並以他們想要的方式塑造他們的城市，從而增加城市的 吸引力和附加的 Deeds 的價值。
 
-For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add Meeds powered food services, vacations services, etc...
+例如，他們可以添加他們城市的數字表示、與他們城市相關的物理對應物（例如物理合作空間中的會議室）、添加由 Meeds 提供支持的食品服務、假期服務等......
 
-By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
+默認情況下（除非市政府另有投票），出租 Deeds 的被動收入將由市政府 (5%) 和協會 (3%) “徵稅”，以鼓勵生產性使用。
 
-Ownsership transactions (Deed’s sales) will also be taxed 6% :
+所有權交易（Deed 銷售）也將按 6% 徵稅：
 
-- 2.5% for the City,
-- 2.5% for the Association,
-- 1% for the original wallet that redeemed the Deed.
+- 城市 2.5%，
+- 協會2.5%，
+- 兌換 Deed 的原始錢包為 1%。
