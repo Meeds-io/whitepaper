@@ -8,79 +8,79 @@ Ele será habitado por usuários, atuando através de suas identidades digitais 
 
 Organizações - **Deeds** poderiam encontrar talentos, navegando pelo WoM, com as habilidades comprovadas certas. Eles seriam recompensadas por sua participação na metaversa, criando tokens através do envolvimento de seus usuários (modelo mintium). Mas acima de tudo, eles se beneficontariam com um maior envolvimento e lealdade de seus usuários.
 
-A WoM teria sua própria moeda **Meeds** - que estaria disponível para gastar em lojas, converter em outra moeda, investir em retorno de investimento, alugar ou comprar, etc. O WoM também facilitaria a distribuição de outras fichas e participaria do ecossistema criptográfico em geral.
+A WoM teria sua própria moeda **Meeds** - que estaria disponível para gastar em lojas, converter em outra moeda, investir em retorno de investimento, alugar ou comprar, etc. A WoM também facilitaria a distribuição de outros tokens e participaria do ecossistema criptográfico como um todo.
 
-Como uma imagem vale mais que mil palavras, aqui está um diagrama que descreve os fluxos de WoM e Meeds
+Como uma imagem vale mais do que mil palavras, aqui está um diagrama que descreve os fluxos de WoM e Meeds
 
-![Fluxos de WoM e Meeds](en/img/wom-flows.png)
+![Fluxos de Work Metaverse e Meeds](en/img/wom-flows.png)
 
-A manutenção mundial e a sustentabilidade a longo prazo são garantidas através de impostos compartilhados entre a associação Meeds e as Cidades.
+A manutenção e a sustentabilidade do mundo a longo prazo são garantidas através de impostos compartilhados entre a associação Meeds e as Cidades.
 
-## 5.2. O que há nele para os primeiros adeptos
+## 5.2. O que há para os primeiros adopteiros
 
-Obviamente, os primeiros adotantes obteriam vantagens consideráveis em relação aos que chegaram mais tarde.
+Obviamente, os primeiros adopteiros teriam vantagens consideráveis sobre os tardios.
 
-Em particular, o WoM recompensa o investimento de longo prazo no verso - ou seja, a redenção da propriedade (Deeds). O proprietário original do Deed é compensado através da cunhagem (uso ativo), através da renda passiva (aluguel) e recebe uma renda vitalícia de 1% sobre qualquer transação de venda do Deed (a cada mudança de propriedade, o redentor original recebe uma taxa sobre a transação).
+Em particular, a WoM recompensa o investimento de longo prazo no universo - ou seja, a resgate da propriedade (Deeds). O proprietário original da Deed é compensado através da criação de envolvimento (uso ativo), através de renda passiva (aluguel) e recebe 1% por toda a vida em qualquer transação de venda da Deed (em cada mudança de propriedade, o resgatador original recebe uma taxa na transação).
 
-Ao acreditar no projeto, participar dos pools de liquidez, apostar no Meeds, resgatá-los contra Deeds... os primeiros investidores de todos os tamanhos cunhariam fichas adicionais. Eles também obteriam os primeiros direitos de voto e ajudariam a moldar o metaverso.
+Ao acreditar no projeto, participar das piscinas de liquidez, fazer staking em Meeds, resgatá-los contra Deeds... investidores iniciais de todos os tamanhos poderão criar tokens adicionais. Eles também terão os direitos de voto mais cedo e ajudarão a moldar o metaverse.
 
-As organizações que adquirem, mas especialmente que utilizam Deeds para engajar e recompensar seus funcionários, seriam compensadas em Meeds cunhadas. Quanto mais justos eles jogarem, mais irão receber. Os primeiros adotantes seriam associados às primeiras cidades históricas e seriam identificados como os construtores mais tarde.
+Organizações que adquirem, mas especialmente que usam Deeds para envolver e recompensar seus funcionários serão compensadas com Meeds criados. Quanto mais justamente eles jogarem, mais eles receberão. Os primeiros adopteiros estariam associados às primeiras cidades históricas e seriam identificados como os construtores mais tarde.
 
-O diagrama abaixo representa um exemplo da estratégia de investimento do Meeds para os detentores de capital:
+O diagrama abaixo representa um exemplo da estratégia de investimento Meeds para os detentores de capital:
 
-![Significa estratégia de investimento para os detentores de capital](en/img/invest-capital.png)
+![Meeds estratégia de investimento para os detentores de capital](en/img/invest-capital.png)
 
-É claro que as organizações podem participar de pools de liquidez, mas também se juntar à comunidade de construtores e obter recompensas adicionais de engajamento lá.
+As organizações claro, podem participar de piscinas de liquidez, mas também se juntar à comunidade de construtores e obter recompensas adicionais de envolvimento lá.
 
-O diagrama abaixo representa um exemplo da estratégia de investimento do Meeds para os trabalhadores:
+O diagrama abaixo representa um exemplo da estratégia de investimento Meeds para os detentores de trabalho:
 
-![Significa estratégia de investimento para os trabalhadores](en/img/invest-work.png)
+![Meeds estratégia de investimento para os trabalhadores](en/img/invest-work.png)
 
-## 5.3. O lançamento
+## 5.3. O início
 
-A data oficial de lançamento é fixada como para ** 1º de maio de 2022** - o Dia Internacional do Trabalhador, celebrado em muitos países.
+A data oficial de lançamento está definida para **1º de maio de 2022** - o Dia Internacional dos Trabalhadores, comemorado em muitos países.
 
-Naquela época, o token Meed já existe. É possível adquiri-la e os pools de liquidez estão abertos para participação, nas redes Polygon e Ethereum.
+Nesse momento, o token Meed já existe. É possível adquiri-lo e as piscinas de liquidez estão abertas para participação, nas redes Polygon e Ethereum.
 
-Três membros da associação Meeds usam o sistema internamente para engajar e recompensar seus usuários e melhorar o software Meeds.
+Três membros da associação Meeds usam o sistema internamente para envolver e recompensar seus usuários e melhorar o software Meeds.
 
-O aplicativo do Investidor está disponível no Ethereum Mainnet. No lançamento, inclui a estaca, recompensas de liquidez, acumulação de pontos e redenção de Deeds.
+O aplicativo para investidores está disponível na Mainnet Ethereum. No lançamento, inclui staking, recompensas de liquidez, acúmulo de pontos e resgate de Deeds.
 
-A comunidade Builders está em funcionamento no software Meeds, aberto a qualquer pessoa que queira se juntar, testar e participar. É possível fazer o login com Metamask.
+A comunidade de construtores está funcionando no software Meeds, aberta a qualquer pessoa que queira se juntar, testar e participar. É possível fazer login com o Metamask.
 
-Este artigo foi publicado no dia do lançamento. Após o lançamento, a ficha será lançada no ar para muitas pessoas em toda a comunidade criptográfica.
+Este papel foi publicado no dia de lançamento. Após o lançamento, o token será distribuído por meio de "air-drop" para muitas pessoas na comunidade criptográfica.
 
-## 5.4. A comunidade dos construtores
+## 5.4. A comunidade de construtores
 
-Estamos lançando a comunidade dos construtores sobre o software Meeds e sobre o Discord. The association would reward builders engagement with Meeds, from its marketing budget. The community welcomes anyone who wants to take part in the building of the Work Metaverse.
+Estamos lançando a comunidade de construtores no software Meeds e no Discord. A comunidade acolhe qualquer pessoa que queira participar da construção do Metaverse do Trabalho. A associação recompensaria o engajamento dos construtores com o Meeds, a partir de seu orçamento de marketing.
 
-A associação também planeja apostar em alguns Meeds a fim de adquirir (redimir) um Deed para a comunidade dos construtores. A comunidade então cunhará Meeds por engajamento, através do modelo de mintium, e os distribuirá aos usuários engajados.
+A associação também planeja stakear alguns Meeds para adquirir (resgatar) uma Escritura para a comunidade de construtores. A comunidade então criará Meeds por meio de engajamento, através do modelo Mintium, e os distribuirá para usuários engajados.
 
-## 5.5. Roteiro e marcos
+## 5.5. Roadmap e marcos importantes
 
-Nosso roteiro seguiria a ordem de prioridade abaixo:
+Nossa roadmap seguirá a ordem de prioridade abaixo:
 
-- Índice de engajamento e cunhagem através do engajamento
-- Habilitar o aluguel de Deeds
-- Criação de Xeed
-- Melhoria de crachás e desenvolvimento de credenciais
-- Serviços DeFi - na carteira, parceria com cartões de crédito
+- Índice de engajamento e criação por meio de engajamento
+- Habilitar aluguel de Escrituras
+- Criação de Xeeds
+- Melhoria de emblemas e desenvolvimento de credenciais
+- Serviços DeFi - em parceria com cartões de crédito e na carteira
 
-Estamos contando com os primeiros adotantes dos DAOs e empresas de tecnologia durante a fase de construção. Devemos também ter alguns dos primeiros adotantes de empresas tradicionais que ganham valor imediato com o metaverso de fornecer programas de engajamento relevantes a seu pessoal, além de seus planos de remuneração tradicionais atuais.
+Estamos contando com os primeiros adotantes das DAOs e empresas de alta tecnologia durante a fase de construção. Também devemos ter alguns primeiros adotantes de empresas tradicionais que obtêm valor imediato do metaverse ao fornecer programas de engajamento relevantes para suas pessoas, além de seus planos de compensação tradicionais atuais.
 
-Meeds minting abrange um período de 20 anos. Nessa época, aspiramos ter alcançado a construção de um metaverso maduro, tendo se espalhado por muitas organizações e muitos usuários globalmente.
+A criação de Meeds cobre um período de 20 anos. Nesse momento, aspiramos ter construído um metaverse maduro, tendo se espalhado para muitas organizações e muitos usuários globalmente.
 
-## 5.6. O que você pode fazer neste momento
+## 5.6. O que você pode fazer agora mesmo
 
-O que você pode fazer agora mesmo para participar?
+Como participar agora mesmo?
 
-- Divulgue este documento para aqueles que estariam interessados
-- Visite nosso website [meeds.io](https://www.meeds.io/)
-- Confira o aplicativo [Investor app](https://meeds.io/investors)
-- Contribuir para os pools de liquidez existentes aqui :
-  - [Cometh Swap](https://swap.cometh.io/)
-  - [Sushi Swap](https://sushi.com)
-- Junte-se à nossa comunidade [Discord](https://discord.com/invite/hAuADSq3) para ser mantido no circuito
-- Junte-se à nossa comunidade [Builders](https://meeds.io/builders) para testar o software Meeds, engajar-se e ganhar algumas recompensas de engajamento Meeds
+- Divulgue este papel para aqueles que possam estar interessados
+- Visite nosso site [meeds.io](https://www.meeds.io/)
+- Confira o [Investor app](https://meeds.io/investors)
+- Contribuir para os pools de liquidez existentes :
+  - [Troca de Dente](https://swap.cometh.io/)
+  - [Sushi de troca](https://sushi.com)
+- Junte-se à nossa comunidade [Disco](https://discord.com/invite/hAuADSq3) para ser mantido no circuito
+- Participe da nossa comunidade de [Builders](https://meeds.io/builders) para testar o software Meeds, engaje e ganhe algumas recompensas de engajamento
 
-**\*\*\* O Metaverso do Trabalho - vamos construir juntos este mundo louco do futuro. \*\*\***
+**\*\*\* O Work Metaverse - vamos construir juntos este mundo louco do futuro. \*\*\***
