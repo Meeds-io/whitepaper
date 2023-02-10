@@ -11,7 +11,7 @@ Một Token không phải là thỏi (NFT) là một Token duy nhất mà biểu
 
 WoM cuối cùng sẽ cung cấp một số lượng hạn chế của Tài sản. Mỗi hành động bao gồm số lượng người dùng tối đa đã xác định trước và cung cấp khả năng thưởng cho Meeds (Khả năng Minting). Từ "người dùng" ở đây và sau này chỉ định bất kỳ loại nhân viên, công nhân, tự do, tình nguyện viên, v. v.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
+Có bốn loại Hiến tại, mỗi loại cung cấp những khả năng khác nhau về số lượng người dùng, quyền bỏ phiếu trong một thành phố (xem 2.7) hoặc sức sản xuất Meeds, loại hiến tại quý giá nhất là mạnh mẽ nhất:
 
 | **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
 | ------------- | ------------- | ----------------- | ------------ | ---------------------- |
@@ -41,32 +41,32 @@ Mỗi chủ sở hữu hoặc người cho thuê Deed có thể cung cấp các 
 - **Cơ chế gamification** –các hành động tự động trong WoM có một trọng lượng điểm, có thể điều chỉnh cho ưu tiên của Deed thông qua chương trình tương tác tùy biến.
 - **Thách thức** – các thách thức có thể tùy chỉnh được thiết lập để biểu tượng cho những thành tựu. Thách thức được đặt ra bởi một người và có thể được hoàn thành và thông báo như vậy bởi người khác. Thách thức tạo ra một trọng lượng điểm trong chương trình tham gia tùy biến.
 - **Chương trình tương tác có thể tùy chỉnh** - các tổ chức có thể tạo ra chương trình tương tác riêng của mình phù hợp với mục tiêu và ưu tiên kinh doanh của họ. Chương trình liên kết với hành động tự động trong hệ thống và thách thức được thiết lập theo tay. Mỗi chương trình có một ngân sách đặt sẵn. Điểm được ghi nhận cho mỗi người dùng thông qua hoạt động tự động hoặc được thông báo trong mỗi chương trình tích cực sẽ được chuyển đổi thành Meeds dựa trên ngân sách của chương trình đó.
-- **Kudos** - Kudos có thể được trao bởi người dùng cho nhau như là một cách cảm ơn và một dấu hiệu nhận thức. Vì số lượng kudos có sẵn để phân phối là hạn chế (giới hạn định kỳ cài đặt, ví dụ 3 mỗi tuần), nó rất hiếm và giá trị. Giống như hành động, kudos mang điểm số. This way employees are empowered to reward their colleagues.
-- **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
-- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
-- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
-- **Analytics** – to analyze and follow engagement within the Deed.
-- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
+- **Kudos** - Kudos có thể được trao bởi người dùng cho nhau như là một cách cảm ơn và một dấu hiệu nhận thức. Vì số lượng kudos có sẵn để phân phối là hạn chế (giới hạn định kỳ cài đặt, ví dụ 3 mỗi tuần), nó rất hiếm và giá trị. Giống như hành động, kudos mang điểm số. Cách này cho phép nhân viên cửa hàng trao thưởng cho các đồng nghiệp của họ.
+- ** hợp tác ** Các công cụ, gắn vào máy phần thưởng - khu vực làm việc, giao tiếp không đồng bộ, một công cụ quản lý tác vụ và ghi chú - cho phép mọi người cùng làm việc trên các dự án.
+- **Ví **– người dùng được cung cấp một ví an toàn sử dụng công nghệ Ethereum để lưu trữ Meeds của họ. Hoặc lại, cho người dùng nâng cao, ví Metamask có thể được sử dụng.
+- **Cửa hàng** - một cửa hàng mà các Meeds có thể được trao đổi chốt các phúc lợi được cung cấp bởi chủ Deed hoặc người thuê hoặc bởi hệ thống Meeds.
+- **Phân tích** - để phân tích và theo dõi tương tác trong Deed.
+- **Kết nối**, được gắn vào máy phần thưởng - người dùng nhận điểm tích cực thông qua hành động trong phần mềm khác - ví dụ như gửi mã lên GitHub.
 
-Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
+Một số các công cụ và dịch vụ được liệt kê trước đã được phân tán, còn lại chưa. Mục tiêu cuối cùng là cung cấp tất cả các dịch vụ theo cách phân tán, điều này chúng tôi sẽ làm dần dần khi công nghệ cơ bản tiến triển.
 
-New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
+Dịch sang tiếng Việt: Các dịch vụ mới có thể được gắn vào hệ thống phần thưởng qua API. Ví dụ không tính được và có thể bao gồm bất kỳ phần mềm hoặc dịch vụ nào:
 
-- CRM software – salespeople would get engagement points for working on opportunities.
-- Accounting software – accountants would get engagement points for keeping books.
-- Clocking terminal – factory worker can get points for factory work time.
-- Etc.
+- Phần mềm CRM - những nhân viên bán hàng sẽ nhận được điểm tích cực khi làm việc với các cơ hội.
+- Phần mềm kế toán - các kế toán sẽ nhận điểm tham gia cho việc giữ sổ.
+- Máy chấm công - công nhân nhà máy có thể nhận điểm cho thời gian làm việc trong nhà máy.
+- V.v.
 
-Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
+Ngoài ra, sự tích cực được tạo ra qua kết nối tham gia vào điểm số tích cực toàn cầu của tổ chức, đó là một yếu tố của phân phối Meeds minting, được miêu tả. Để làm điều đó, kết nối cần được cho phép bởi Hiệp hội Meeds. Hiệp hội xem xét kết nối, chấp thuận thuật toán của nó và có quyền sở hữu chống lại Meeds. Sau đó, nó trở thành một phần của các dịch vụ miễn phí cung cấp bởi hiệp hội và được bao gồm trong chỉ số tích cực toàn cầu. Bất kỳ hợp đồng khác cũng có thể sử dụng cùng một kết nối và cùng một thuật toán thưởng cho nhà phát triển của nó.
 
-The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
+Chủ sở hữu hoặc người thuê của Hợp Đồng có thể giàu lên cửa hàng của mình với các ưu đãi riêng, kết nối với các ưu đãi trực tuyến, v. v. Lại nữa, sự khả năng là vô tận:
 
-- Training courses
+- Khóa đào tạo
 - Thành viên của phòng tập gym
 - Gói nghỉ dưỡng
 - Lunch with a leader in the organization
 - Physical office space
-- Etc.
+- V.v.
 
 Cửa hàng hoạt động qua sử dụng Meeds để Meeds được hoàn trả một phần về cho Deed.
 
