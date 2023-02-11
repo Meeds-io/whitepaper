@@ -1,86 +1,86 @@
-# 5. The Work Metaverse for ALL – vision summary and milestones
+# 5. 모두를 위한 작업 메타버스 - 비전 요약 및 마일스톤
 
-## 5.1. Ultimate goal - decentralized web for everyone
+## 5.1. 궁극적인 목표 - 모두를 위한 탈중앙화 웹
 
-In the end, the WoM is a decentralized web world for everyone – every person and every organization.
+결국, WoM은 모든 개인과 조직을 위한 탈중앙화된 웹 세상입니다.
 
-It will be populated by users, acting through their digital identities **Xeeds** and accessing the world through their metamasks, for crypto-savvies, or login/password for the newbies. People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
+디지털 ID인 **Xeeds**를 통해 활동하고 메타마스크(암호화 전문가용) 또는 초보자용 로그인/비밀번호를 통해 세상에 액세스하는 사용자로 채워질 것입니다. 사람들은 공정하고 투명하며 탈중앙화된 방식으로 참여를 할당하고 보상을 받을 수 있습니다. 그들은 쉽고 친숙한 방식으로 분산된 세계와 미래의 암호 세계에 접근할 수 있을 것입니다. 그들은 그들의 삶에서 토큰을 사용하거나 미래를 위해 투자할 수 있는 간단한 도구를 얻을 것입니다.
 
-Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the metaverse, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
+조직 - **Deeds**는 WoM을 검색하여 올바른 입증된 기술을 찾는 인재를 소싱할 수 있습니다. 그들은 사용자 참여(mintium 모델)를 통해 토큰을 발행함으로써 메타버스에 대한 참여에 대한 보상을 받게 됩니다. 그러나 무엇보다도 사용자의 참여도와 충성도가 높아지는 이점이 있습니다.
 
-The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
+WoM은 자체 통화 **Meeds**를 갖게 됩니다. 즉, 매장에서 지출하고, 다른 통화로 변환하고, 투자 수익을 위해 투자하고, 임대하거나 구매하는 등의 용도로 사용할 수 있습니다. WoM은 또한 다른 토큰 배포를 촉진하고 전체 암호화 생태계에 참여할 것입니다.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
+그림은 천 단어의 가치가 있으므로 다음은 WoM 및 Meeds 흐름을 설명하는 다이어그램입니다.
 
-![WoM and Meeds flows](en/img/wom-flows.png)
+![WoM 및 Meeds 흐름](en/img/wom-flows.png)
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
+장기적으로 세계 유지 및 지속 가능성은 Meeds 협회와 도시 간에 공유되는 세금을 통해 보장됩니다.
 
-## 5.2. What’s in it for early adopters
+## 5.2. 얼리 어답터를 위한 기능
 
-Obviously, early adopters would get considerable advantages over the late comers.
+분명히 얼리 어답터는 후발자보다 상당한 이점을 얻을 것입니다.
 
-In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
+특히 WoM은 구절에 대한 장기 투자, 즉 재산의 구속(Deeds)에 대해 보상합니다. Deed의 원래 소유자는 수동적 소득(임대)을 통해 약혼 주조(활성 사용)를 통해 보상을 받고 Deed의 모든 판매 거래에 대해 평생 1%를 얻습니다(소유권이 변경될 때마다 원래 구속자는 거래).
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the metaverse.
+프로젝트를 믿고, 유동성 풀에 참여하고, Meeds를 스테이킹하고, Deeds와 교환함으로써... 모든 규모의 초기 투자자는 추가 토큰을 발행할 것입니다. 그들은 또한 가장 빠른 투표권을 얻고 메타버스를 형성하는 데 도움을 줄 것입니다.
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
+직원을 참여시키고 보상하기 위해 Deeds를 인수하지만 특히 사용하는 조직은 발행된 Meeds로 보상을 받게 됩니다. The fairer they will play, the more they will get. 얼리 어답터는 최초의 역사적인 도시와 관련이 있으며 나중에 건설자로 식별됩니다.
 
-The diagram below represents an example of the Meeds investment strategy for capital holders :
+아래 다이어그램은 자본 보유자를 위한 Meeds 투자 전략의 예를 나타냅니다.
 
-![Meeds investment strategy for capital holders](en/img/invest-capital.png)
+![자본 보유자를 위한 Meeds 투자 전략](en/img/invest-capital.png)
 
-Organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
+조직은 물론 유동성 풀에 참여할 수 있지만 빌더 커뮤니티에 가입하여 추가 참여 보상을 받을 수도 있습니다.
 
-The diagram below represents an example of the Meeds investment strategy for work holders :
+아래 다이어그램은 워크홀더를 위한 Meeds 투자 전략의 예를 나타냅니다.
 
-![Meeds investment strategy for work holders](en/img/invest-work.png)
+![워크홀더를 위한 Meeds 투자 전략](en/img/invest-work.png)
 
-## 5.3. The launch
+## 5.3. 출시
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+공식 출시일은 많은 국가에서 기념하는 국제 근로자의 날인 **2022년 5월 1일**로 설정되어 있습니다.
 
-At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
+당시 Meed 토큰은 이미 존재합니다. 그것을 획득하는 것이 가능하며 유동성 풀은 Polygon 및 Ethereum 네트워크에서 참여할 수 있습니다.
 
-Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
+세 명의 Meeds 협회 회원은 내부적으로 시스템을 사용하여 사용자 참여 및 보상을 제공하고 Meeds 소프트웨어를 개선합니다.
 
-The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
+Investor 앱은 Ethereum Mainnet에서 사용할 수 있습니다. 출시 시 스테이킹, 유동성 보상, 포인트 적립 및 deeds 상환이 포함됩니다.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
+Builders 커뮤니티는 Meeds 소프트웨어에서 실행 중이며 참여, 테스트 및 참여를 원하는 모든 사람에게 열려 있습니다. Metamask로 로그인이 가능합니다.
 
-This paper was published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
+이 논문은 출시일에 출판되었습니다. 출시 후 토큰은 암호화 커뮤니티의 많은 사람들에게 에어 드롭됩니다.
 
-## 5.4. The builders community
+## 5.4. 빌더 커뮤니티
 
-We are launching the builders community on the Meeds software and on Discord. The association would reward builders engagement with Meeds, from its marketing budget. The community welcomes anyone who wants to take part in the building of the Work Metaverse.
+우리는 Meeds 소프트웨어와 Discord에서 빌더 커뮤니티를 시작합니다. 커뮤니티는 Work Metaverse 구축에 참여하려는 모든 사람을 환영합니다. 협회는 마케팅 예산에서 빌더의 Meeds 참여에 대해 보상할 것입니다.
 
-The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
+또한 협회는 빌더 커뮤니티를 위한 증서를 획득(상환)하기 위해 일부 Meeds를 걸 계획입니다. 그런 다음 커뮤니티는 민티움 모델을 통해 참여를 통해 Meeds를 만들고 참여 사용자에게 배포합니다.
 
-## 5.5. Roadmap and milestones
+## 5.5. 로드맵 및 마일스톤
 
-Our roadmap would follow the priority order below:
+우리의 로드맵은 아래의 우선 순위를 따릅니다.
 
-- Engagement index and minting through engagement
-- Enable Deeds renting
+- 참여 지수 및 참여를 통한 채굴
+- Deeds 대여 활성화
 - Xeed creation
-- Badges improvement and credentials development
-- DeFi services – in the wallet, credit cards partnership
+- 배지 개선 및 자격 증명 개발
+- DeFi 서비스 – 지갑, 신용 카드 제휴
 
-We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
+우리는 구축 단계에서 DAO 및 기술에 정통한 회사의 얼리 어답터를 믿고 있습니다. 우리는 또한 현재의 전통적인 보상 계획 외에 직원들에게 관련 참여 프로그램을 제공함으로써 메타버스에서 즉각적인 가치를 얻는 전통적인 회사의 얼리 어답터를 확보해야 합니다.
 
-Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature metaverse, having spread to many organizations and many users globally.
+Meeds 주조는 20년의 기간에 걸쳐 있습니다. 그때까지 우리는 전 세계적으로 많은 조직과 많은 사용자에게 확산되어 성숙한 메타버스를 구축하기를 열망합니다.
 
-## 5.6. What you can do right now
+## 5.6. 지금 할 수 있는 일
 
-What can you do right now to participate?
+참여하기 위해 지금 무엇을 할 수 있습니까?
 
-- Spread this paper to those who would be interested
-- Visit our website [meeds.io](https://www.meeds.io/)
-- Check out the [Investor app](https://meeds.io/investors)
-- Contribute to the existing liquidity pools here :
+- 관심있는 사람들에게 이 종이를 퍼뜨려라
+- 웹사이트 [meeds.io](https://www.meeds.io/)를 방문하세요.
+- [Investor app](https://meeds.io/investors)을 확인하세요.
+- 여기에서 기존 유동성 풀에 기여하십시오.
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
-- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
+- 우리의 [Discord](https://discord.com/invite/hAuADSq3) 커뮤니티에 가입하여 소식을 받아보세요
+- [Builders](https://meeds.io/builders) 커뮤니티에 가입하여 Meeds 소프트웨어를 테스트하고 참여하고 Meeds 참여 보상을 받으세요.
 
-**\*\*\* The Work Metaverse - let’s build this crazy future world together. \*\*\***
+**\*\*\* The Work Metaverse - 이 멋진 미래 세계를 함께 만들어 갑시다. \*\*\***
