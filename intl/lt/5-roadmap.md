@@ -16,15 +16,15 @@ As a picture is worth a thousand words, here is a diagram that describes the WoM
 
 The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
 
-## 5.2. What’s in it for early adopters
+## 5.2. Kas skirta ankstyviesiems įsivaikintojams
 
-Obviously, early adopters would get considerable advantages over the late comers.
+Akivaizdu, kad ankstyvieji diegėjai gaus daug pranašumų prieš vėlyvuosius.
 
-In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
+Visų pirma WoM atlygina už ilgalaikes investicijas į stichiją, t. y. už turto išpirkimą (Deeds). Pirminis Deedų savininkas gauna kompensaciją per užsiangažavimą (aktyvų naudojimą), per pasyvias pajamas (nuomą) ir visą gyvenimą gauna 1 % nuo bet kokio Deedų pardavimo sandorio (kiekvieną kartą keičiantis savininkui, pirminis išpirkėjas gauna mokestį už sandorį).
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the metaverse.
+Tikėdami projektu, dalyvaudami likvidumo fonduose, statydami Meedus, išpirkdami juos už Deedow... ankstyvieji įvairaus dydžio investuotojai nukaldintų papildomų žetonų. Jie taip pat gautų anksčiausias balsavimo teises ir padėtų formuoti metaverse.
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
+Organizacijoms, įsigyjančioms, bet ypač naudojančioms Deeds, kad įtrauktų ir apdovanotų savo darbuotojus, būtų kompensuojama iškaltais Meeds. Kuo sąžiningiau jos žais, tuo daugiau gaus. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
 
 The diagram below represents an example of the Meeds investment strategy for capital holders :
 
