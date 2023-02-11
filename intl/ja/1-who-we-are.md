@@ -1,7 +1,7 @@
 
 # 1. ミーズ・アソシエーションとは
 
-The Meeds association is a non-profit organization originally launched by several Open Source Software (OSS) communities around the common vision of a free digital world – a decentralized world that would not be controlled by a handful of centralized mega-corporations.
+MEEDS協会 は、自由なデジタル世界、つまり一握りの中央集権型メガ企業によって制御されない分散型世界という共通のビジョンに基づいて、いくつかのオープン ソース ソフトウェア (OSS) コミュニティによって立ち上げられた非営利組織です。
 
 Meeds協会は、スイスの法律に基づく非営利団体として、ジュネーブで法人化されています。
 
