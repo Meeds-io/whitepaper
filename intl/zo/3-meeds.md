@@ -2,7 +2,7 @@
 
 Work Metaverse 由其貨幣——Meeds (MEED) 代幣提供支持。 Meeds 用於獎勵用戶（通過參與計劃）、在商店購買、獲得 Deeds、獲得投資的財務回報等。
 
-## 3.1. Tokenomics 代幣經濟學
+## 3.1. 代幣經濟學
 
 Meeds **最大供應量限制為 1 億個代幣**，逐步鑄造。 **Meeds 以每分鐘 10 個 Meed 的速度鑄造**。 因此，整個鑄造週期接近 20 年（因為每年鑄造大約 $10*60*24*365 = 500 萬美元 Meeds）。
 
@@ -11,7 +11,7 @@ Meeds **最大供應量限制為 1 億個代幣**，逐步鑄造。 **Meeds 以�
 其餘部分是 __Meeds DAO 資金__的一部分，將用於支付服務費用以及一些啟動激勵措施，例如空投和推薦活動。
 
 
-## 3.2. Minting allocation 鑄幣分配
+## 3.2. 鑄幣分配
 
 分配 Minted Meeds 是為了鼓勵三類利益相關者（用戶、建設者和投資者）的參與：
 
@@ -21,7 +21,7 @@ Meeds **最大供應量限制為 1 億個代幣**，逐步鑄造。 **Meeds 以�
 
 一開始，建設者獲得 30% 的分配。 70% 由用戶和投資者共享。 這個分配比例將通過 Meeds 協會 DAO 投票定期審查。
 
-## 3.3. 3.3. Users – minting through engagement
+## 3.3. Users – minting through engagement
 
 部分連續鑄造的 Meeds 被分配到 engagement 鑄造通道。 分配每週進行一次。 在任何給定的周末，都會計算參與度指數，並且 Deeds 可以在下一周領取獎勵並獲得他們的 Meeds。 無人認領的 Meeds 留在基金中，並被添加到下週的分配中。 該模型在前一章（第 2.6 部分）中有詳細描述。
 
@@ -49,7 +49,7 @@ The association operates a Builders community that welcomes WoM enthusiasts, who
 - 通過操作協會隨時間鑄造的 Deeds。
 
 
-## 3.5. Investors 投資者
+## 3.5. 投資者
 
 投資者通過提供流動性和抵押 Meeds 來幫助創建 WoM，從而在建設期間穩定其價格水平。 兩者都通過鑄幣得到鼓勵。
 
