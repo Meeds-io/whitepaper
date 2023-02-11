@@ -1,153 +1,153 @@
 
-# 2. Deeds NFT - Work Metaverse Organizations
+# 2. Deeds NFT - 작업 메타버스 조직
 
-## 2.1. NFT – Deeds defined
+## 2.1. NFT – 증서 정의
 
-A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+대체 불가능한 토큰(NFT)은 재화를 나타내는 고유한 토큰입니다. WoM에서 Deed는 소유권의 제목으로 사용됩니다. 각 Deed는 소유자에게 여러 서비스에 대한 액세스 권한을 부여합니다. 예를 들어 Meeds 소프트웨어로 구동되는 디지털 오피스에 대한 액세스 권한과 Meeds를 생성할 수 있는 권한이 있습니다.
 
-The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM.
+WoM은 DAO, 전통적인 기업, 협회, 싱크 탱크, 파트너십, 극단, 프로젝트 그룹, 학교 등 모든 종류의 조직을 환영합니다. Deed는 WoM에서 그들의 디지털 존재를 나타냅니다.
 
-## 2.2. Deeds supply
+## 2.2. 증서 공급
 
-The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of Meeds rewarding (Minting Power). The term ‘user’ here and hereafter designates any type of employee, worker, freelancer, volunteer etc.
+WoM은 궁극적으로 제한된 양의 Deeds를 공급할 것입니다. 각 Deed에는 미리 정의된 최대 사용자 수가 포함되어 있으며 Meeds 보상 용량(Minting Power)을 제공합니다. 여기서 '이용자'라는 용어는 직원, 근로자, 프리랜서, 자원봉사자 등 모든 유형을 지칭합니다.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
+4가지 유형의 Deeds가 있으며, 각각 사용자 수, 도시의 투표권(2.7 참조) 또는 Meeds 채굴 능력 측면에서 서로 다른 기능을 제공하며 가장 희귀한 것이 가장 강력합니다.
 
-| **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
-| ------------- | ------------- | ----------------- | ------------ | ---------------------- |
-| Common        | 100           | 1                 | ~ 90%        | 1                      |
-| Uncommon      | 1000          | 1.1               | ~ 9%         | 10                     |
-| Rare          | 10 000        | 1.3               | ~ 1%         | 100                    |
-| Legendary     | unlimited     | 2                 | < 0.1 %      | 1000                   |
+| **Deed 유형** | **최대 사용자** | **채굴 능력** | **희소성** | **시 투표권** |
+| ----------- | ---------- | --------- | ------- | --------- |
+| 공통          | 100        | 1         | ~ 90%   | 1         |
+| 드문          | 1000       | 1.1       | ~ 9%    | 10        |
+| 희귀          | 10 000     | 1.3       | ~ 1%    | 100       |
+| 전설          | 무제한        | 2         | < 0.1 % | 1000      |
 
-## 2.3. Deeds ownership
+## 2.3. 증서 소유권
 
-A Deed gives its owner the right to USE it, RENT it, or SELL it.
+Deed는 소유자에게 사용, 임대 또는 판매할 수 있는 권리를 부여합니다.
 
-- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
-- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
-- SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
+- 사용 – Deed 소유자는 조직을 위해 직접 증서를 사용하여 사용자에게 서비스를 제공할 수 있습니다.
+- 임대 - Deed의 소유자는 소극적 소득을 얻기 위해 증서를 다른 조직에 임대할 수도 있습니다.
+- 판매 - Deed는 [OpenSea](https://opensea.io)와 같은 2차 시장에서 판매될 수 있습니다.
 
-Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
+Deed의 활성 소유자 또는 임차인인 조직은 아래에 설명된 혁신적인 "mintium" 모델을 통해 Meeds로 보상을 받습니다(2.6부).
 
-## 2.4. Deeds services, engagement/rewards engine
+## 2.4. Deeds 서비스, 참여/보상 엔진
 
-In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
+점점 더 경쟁이 치열해지는 시장에서 인재를 유치 및 유지하고 그들의 투입을 극대화하기 위해 조직은 단순한 보상 이상으로 사용자에게 인센티브를 제공해야 합니다. WoM은 작업 참여를 토큰화하여 이를 수행할 수 있는 혁신적인 프레임워크를 제공합니다.
 
-Each Deed’s holder or renter can provide tools and services to its users, who earn engagement points that can be fine-tuned to the Deed’s priorities. Periodically, points are converted into Meeds (and - for DAOs - potentially another token), based on the Deed’s set budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
+각 Deed의 소유자 또는 임차인은 Deed의 우선순위에 따라 미세 조정될 수 있는 참여 포인트를 획득하는 사용자에게 도구 및 서비스를 제공할 수 있습니다. 주기적으로 포인트는 Deed의 설정된 예산에 따라 Meeds(DAO의 경우 잠재적으로 다른 토큰)로 전환됩니다. 이러한 방식으로 조직에 중요한 활동에 대한 사용자의 참여는 보상을 받습니다.
 
-To begin with, the following free services provided by the Meeds association can be used to reward engagement:
+우선 Meeds 협회에서 제공하는 다음과 같은 무료 서비스를 사용하여 참여에 대한 보상을 받을 수 있습니다.
 
-- **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the Deed’s priorities via customizable engagement programs.
-- **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
-- **Customizable engagement programs** - organizations can create their own engagement programs matching their business goals and priorities. Programs are associated to automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatics or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
-- **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
-- **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
-- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
-- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
-- **Analytics** – to analyze and follow engagement within the Deed.
-- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
+- **게임화 엔진** – WoM 내의 자동 작업에는 가중치가 있으며 사용자 지정 가능한 참여 프로그램을 통해 Deed의 우선 순위에 맞게 미세 조정할 수 있습니다.
+- **챌린지** – 업적을 나타내도록 사용자 지정 가능한 챌린지를 설정할 수 있습니다. 챌린지는 한 사람이 미리 설정하고 다른 사람이 완료하고 발표할 수 있습니다. 챌린지는 맞춤형 참여 프로그램 내에서 포인트에 가중치를 부여합니다.
+- **맞춤형 참여 프로그램** - 조직은 비즈니스 목표와 우선순위에 맞는 자체 참여 프로그램을 만들 수 있습니다. 프로그램은 시스템 내의 자동 작업과 연결되고 수동으로 설정한 문제입니다. 각 프로그램에는 정해진 Meeds 예산이 있습니다. 각 참여 프로그램에서 자동 또는 발표된 작업을 통해 각 사용자가 정기적으로 얻은 포인트는 해당 프로그램의 예산에 따라 Meeds로 전환됩니다.
+- **찬성** - 칭찬은 감사와 인정의 표시로 사용자가 서로에게 수여할 수 있습니다. 배포할 수 있는 명성은 제한되어 있기 때문에(예를 들어 사전 설정된 주기 제한, 주당 3개) 희귀하고 가치가 있습니다. 행동과 마찬가지로 명성도 점수를 받습니다. 이러한 방식으로 직원들은 동료에게 보상할 수 있는 권한을 부여받습니다.
+- 보상 엔진에 연결된 **공동작업** 도구(작업 공간, 비동기식 커뮤니케이션, 작업 관리 도구 및 메모)는 사람들이 프로젝트에서 함께 작업할 수 있도록 합니다.
+- **지갑** – 사용자에게는 Meeds를 저장할 수 있는 안전한 이더리움 기술 지갑이 제공됩니다. 또는 고급 사용자의 경우 Metamask 지갑을 사용할 수 있습니다.
+- **상점** – Meeds를 증서 소유자나 임차인 또는 Meeds 생태계에서 제공하는 혜택과 교환할 수 있는 매장입니다.
+- **분석** – Deed 내 참여를 분석하고 따릅니다.
+- 보상 엔진에 연결된 **커넥터** – 사용자는 다른 소프트웨어의 작업을 통해 참여 포인트를 얻습니다(예: GitHub의 코드 커밋).
 
-Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
+앞서 언급한 도구 및 서비스 중 일부는 이미 분산되어 있고 다른 일부는 그렇지 않습니다. 궁극적인 목표는 모든 서비스를 분산된 방식으로 제공하는 것이며, 기본 기술이 발전함에 따라 점진적으로 수행할 것입니다.
 
-New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
+새로운 서비스는 API를 통해 보상 엔진에 연결할 수 있습니다. 예는 무수히 많으며 거의 모든 소프트웨어 또는 서비스를 포함할 수 있습니다.
 
-- CRM software – salespeople would get engagement points for working on opportunities.
-- Accounting software – accountants would get engagement points for keeping books.
-- Clocking terminal – factory worker can get points for factory work time.
-- Etc.
+- CRM 소프트웨어 – 영업 사원은 기회에 대한 작업에 대한 참여 포인트를 얻습니다.
+- 회계 소프트웨어 – 회계사는 장부를 유지하기 위해 참여 포인트를 얻습니다.
+- 클럭킹 터미널 – 공장 근로자는 공장 근무 시간에 대한 포인트를 얻을 수 있습니다.
+- 기타
 
-Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
+또한 커넥터를 통해 생성된 참여는 아래에 설명된 Meeds 발행 분포의 요소인 조직의 글로벌 참여 점수에 참여합니다. 그러기 위해서는 커넥터가 Meeds Association에서 허용 목록에 있어야 합니다. 협회는 커넥터를 검토하고 알고리즘을 승인하며 Meeds에 대한 소유권을 획득합니다. 그런 다음 협회에서 제공하는 무료 서비스의 일부가 되고 글로벌 참여 지수에 포함됩니다. 다른 Deed는 개발자를 위해 동일한 커넥터와 동일한 보상 알고리즘을 사용할 수 있습니다.
 
-The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
+Deed 소유자 또는 임차인은 자체 특전으로 매장을 풍부하게 하고 온라인 특전 제안 등에 연결할 수 있습니다. 다시 가능성은 무한합니다.
 
-- Training courses
-- Gym memberships
-- Vacation packages
-- Lunch with a leader in the organization
-- Physical office space
-- Etc.
+- 교육 과정
+- 체육관 멤버십
+- 휴가 패키지
+- 조직의 리더와 점심 식사
+- 물리적 사무실 공간
+- 기타
 
-The store functions through the use of Meeds so that Meeds are partially returned to the Deed.
+상점은 Meeds를 사용하여 작동하므로 Meeds는 Deed에 부분적으로 반환됩니다.
 
-## 2.5. Rewards – Meeds and other tokens
+## 2.5. 보상 – Meeds 및 기타 토큰
 
-The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs. Indeed, each Deed can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
+WoM은 디지털 작업 도구를 게임화하고 작업 참여와 관련하여 포인트 및 Meeds를 부여하여 사용자 참여를 토큰화합니다. 참여 및 보상 엔진 속성에 연결된 서비스는 참여 수준과 각 Deed의 참여 프로그램에 따라 각 사용자에게 포인트를 부여합니다. 실제로 각 Deed는 각 활동 유형에 대해 부여되는 포인트의 양을 미세 조정할 수 있습니다. 따라서 GitHub에서 일부 코드를 푸시하는 것은 IT 상점에 대해 10포인트의 가치가 있을 수 있는 반면 디지털 에이전시는 GitHub 푸시에 대해 5포인트만 부여할 수 있지만 리트윗에 대해 10포인트를 제공할 수 있습니다.
 
-Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Deed is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
+정기적으로 보상 엔진은 예산 및 기타 배포 규칙에 따라 참여 포인트를 Meeds로 변환하고 궁극적으로 사용자의 지갑을 통해 사용자에게 보상합니다. Deed는 Meeds를 배포할 필요가 없으며 참여 시스템을 사용하여 다른 형태의 보상 프로그램을 활성화할 수 있습니다. 그러나 Meeds를 배포하면 채굴 능력이 향상됩니다.
 
-Moreover, the Deed does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
+또한 Deed는 Meeds를 배포하고 참여 프로그램에 연료를 공급하기 위해 반드시 Meeds를 인수할 필요는 없습니다. 아래에 설명된 "mintium" 모델에서 Meeds를 얻을 것이기 때문입니다.
 
-In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
+Meeds 외에도 동일한 참여 메커니즘을 기반으로 다른 토큰(예: DAO 자체 토큰)을 배포할 수도 있습니다. 이 경우 배포에는 Meeds Association의 5% 거래 수수료(DAO 토큰 기준)가 적용됩니다.
 
-## 2.6. The “mintium” model – tokenize work engagement
+## 2.6. 이 경우 배포에는 Meeds Association의 5% 거래 수수료(DAO 토큰 기준)가 적용됩니다.
 
-By engaging their users in the WoM, Deeds get compensated through an innovative mintium model.
+WoM에 사용자를 참여시킴으로써 Deeds는 혁신적인 민티엄 모델을 통해 보상을 받습니다.
 
-Engagement points, gained by the Deeds’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Deeds. Even though the Deed can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
+Deeds 사용자가 얻은 참여 포인트는 Meeds Association에서 계산한 글로벌 참여 지수에 참여합니다. 지수는 모든 Deeds에 대해 동일한 원칙을 사용합니다. Deed가 한 작업을 다른 작업보다 촉진하기 위해 포인트 할당을 변경할 수 있지만 이러한 변경 사항은 글로벌 지수 계산에서 고려되지 않습니다.
 
-Each week, a certain amount of Meeds is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Deeds. Some Deeds get an additional boost depending on their type. The Deeds that claim their Meeds over the week, receive them. The unclaimed Meeds are added to the following week’s global distribution amount.
+매주 특정 양의 Meeds가 WoM의 글로벌 참여 주조에 할당됩니다. 참여하는 Deeds 간에 비례하여 매주 계산됩니다. 일부 Deeds는 유형에 따라 추가 부스트를 얻습니다. 일주일 동안 Meeds를 청구하는 Deeds는 이를 받습니다. 청구되지 않은 Meeds는 다음 주 글로벌 배포 금액에 추가됩니다.
 
-The engagement score _S_  of a Deed is a function of the engagement, the number of engaged users and the distribution :
+증서의 참여 점수 _S_는 참여, 참여 사용자 수 및 분포의 함수입니다.
 
 $$S = (E_d / E_w) * D_r * D_s * M$$
 
-Where :
+장소:
 
-- $A$ = _Activity_ - total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
-- $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
-- $E_d$ = _Engagement rate of the deed_ - actions per user ($A/U$)
-- $E_w$ = _Average engagement rate_ of all active Deeds in the WoM.
-- $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
-- $D_s$ =  _Distribution spread_ - if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
-- $M$ = _Minting Power_ of the Deed as defined in 2.3
-
-
-The global engagement index used to distribute minted Meeds among the Deeds is the sum of all Deeds’ engagement scores for the week.
+- $A$ = _활동_ - 일주일 동안 증서 내에서 사용자가 누적한 총 작업 수입니다. (각 Deed의 수준에서 각 행동은 참여 포인트로 변환되며 일부 행동은 다른 행동보다 더 중요합니다. 인덱스 수준에서는 모든 작업이 선형화됩니다).
+- $U$ = _참여한 사용자_ - 한 주 동안 적어도 하나의 작업으로 포인트에 기여한 사용자입니다.
+- $E_d$ = _Deed 참여율_ - 사용자당 작업($A/U$)
+- $E_w$ = WoM의 모든 활성 Deeds의 _평균 참여율_.
+- $D_r$ = _분배율_ - Deed가 이전 기간 동안 발행된 Meeds를 받은 경우 사용자에게 배포된 Meeds의 %입니다. 분배가 시간상 지연되는 경우 %는 100을 초과할 수 있습니다.
+- $D_s$ = _배포 스프레드_ - Deed가 이전 기간 동안 발행된 Meeds를 받은 경우 총 사용자 풀에서 Meeds를 받은 사용자의 %입니다.
+- $M$ = 2.3에 정의된 Deed의 _조폐력_
 
 
-The formula above is simple and designed to favor deeds :
+발행된 Meeds를 Deeds에 배포하는 데 사용되는 글로벌 참여 지수는 해당 주의 모든 Deeds 참여 점수의 합계입니다.
 
-- with lots of engaged users (engagement)
-- who share the whole of the minting income (distribution rate) with their users fairly (distribution spread).
 
-Additionnally boosters are in place for :
+위의 공식은 간단하며 Deeds를 선호하도록 설계되었습니다.
 
-- organizations with the highest engagement, regardless of their size (engagement rate in relation to the WoM)
-- scarcer deeds
+- 참여도가 높은 사용자(참여도)가 많은 경우
+- 채굴 수입(배분율)을 사용자와 공평하게 공유(배분 스프레드)합니다.
 
-> The Meeds association reserves the right to change the formula if required – if some specific use cases arise for instance. The association can also blacklist any Deed that hijacks the formula to its unique benefit.
+에 대한 추가 부스터가 마련되어 있습니다:
 
-As the Deeds are rewarded with Meeds and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the Deeds and their users are aligned in the same virtuous revenue sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
+- 규모에 관계없이 참여도가 가장 높은 조직(WoM 대비 참여율)
+- 희소성 Deeds
 
-The “mintium” model is the first of a kind - it goes further than the traditional freemium one, as not only the services are free to use but both the organizations and their users are rewarded for using them.
+> Meeds 협회는 예를 들어 일부 특정 사용 사례가 발생하는 경우 필요한 경우 공식을 변경할 권리를 보유합니다. 협회는 고유한 이점을 위해 공식을 도용하는 모든 Deed를 블랙리스트에 올릴 수도 있습니다.
 
-## 2.7. Cities and governance
+Deeds는 Meeds로 보상을 받고 참여에 대한 보상으로 사용자에게 재분배하도록 장려하므로 Deeds와 사용자 모두의 이익은 동일한 선순환 수익 공유 주기로 정렬됩니다. 따라서 WoM은 고용주/피고용인 관계를 파트너십으로 재구성하는 새로운 작업 모델을 제공합니다.
 
-In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
+"mintium" 모델은 최초의 모델입니다. 서비스를 무료로 사용할 수 있을 뿐만 아니라 조직과 사용자 모두 사용에 대한 보상을 받기 때문에 기존의 부분 유료화 모델보다 한 걸음 더 나아갑니다.
 
-A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
+## 2.7. 도시 및 거버넌스
 
-| **City name** | **Deeds**   | **Available**        | **Common** | **Uncommon** | **Rare**  | **Legendary** |
-| ------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
-| 1: Tanit      | 100         | T0                   | 50         | 30           | 13        | 7             |
-| 2: Reshef     | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
-| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
-| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
+WoM에서 Deeds는 가상 도시 내에서 점진적으로 생성됩니다. 처음부터 첫 번째 도시만 존재합니다. 다른 것들은 차례로 하나씩 하나씩 만들어질 것입니다. 전체 WoM에는 각 유형의 고정된 수의 Deeds를 포함하는 7개의 도시만 있을 것입니다.
 
-A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
+모든 Deeds가 발행되면 도시는 완전한 것으로 간주됩니다. 그런 다음 각 새 도시의 주조는 $n-1$ 도시의 마지막 Deed가 주조된 후 $2^n$ 달에 시작됩니다.
 
-Each city has its own govenance and operates its own DAO where the city’s Deeds’ owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
+| **도시명**     | **증서**      | **사용 가능**       | **공통**     | **드문**     | **희귀**    | **전설** |
+| ----------- | ----------- | --------------- | ---------- | ---------- | --------- | ------ |
+| 1: Tanit    | 100         | T0              | 50         | 30         | 13        | 7      |
+| 2: Reshef   | 1 000       | Tanit + 4개월     | 600        | 300        | 94        | 6      |
+| 3: Ashtarte | 10 000      | Reshef + 8개월    | 6 000      | 3 000      | 995       | 5      |
+| 4: Melqart  | 100 000     | Ashtarte + 16개월 | 60 000     | 30 000     | 9 996     | 4      |
+| 5: Eshmun   | 1 000 000   | Melqart + 32개월  | 600 000    | 300 000    | 99 997    | 3      |
+| 6: Kushor   | 10 000 000  | Eshmum + 64개월   | 6 000 000  | 3 000 000  | 999 998   | 2      |
+| 7: Hammon   | 100 000 000 | Kushor + 128개월  | 60 000 000 | 30 000 000 | 9 999 999 | 1      |
 
-For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add Meeds powered food services, vacations services, etc...
+도시는 Deeds가 함께 모여 커뮤니티를 만드는 방법입니다. 결과적으로 해당 커뮤니티와 관련된 특정 정체성을 얻습니다. 하나의 Deed의 능력을 뛰어넘는 가치 또는 Deeds 간의 협력을 통해 창출되는 가치를 사용자에게 추가로 제공하는 방법이기도 합니다.
 
-By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
+각 도시에는 고유한 거버넌스가 있으며 도시의 Deeds 소유자가 시의회를 선출하고, 투표하고, 자체 운영 규칙을 수립하고, 새로운 서비스를 추가하고, 원하는 방식으로 도시를 형성하여 도시의 가치를 높일 수 있는 자체 DAO를 운영합니다. 매력과 그것에 붙은 Deeds의 가치.
 
-Ownsership transactions (Deed’s sales) will also be taxed 6% :
+예를 들어, 도시의 디지털 표현, 도시와 관련된 물리적 대응물(예: 물리적 공동 작업 공간의 회의실)을 추가하고 Meeds에서 제공하는 음식 서비스, 휴가 서비스 등을 추가할 수 있습니다.
 
-- 2.5% for the City,
-- 2.5% for the Association,
-- 1% for the original wallet that redeemed the Deed.
+기본적으로(시에서 달리 투표하지 않는 한) 증서 임대로 인한 소극적 소득은 생산적인 사용을 장려하기 위해 시(5%)와 협회(3%)에서 "과세"됩니다.
+
+소유권 거래(Deed 판매)에도 6%의 세금이 부과됩니다.
+
+- 도시 2.5%,
+- 협회 2.5%,
+- Deed를 교환한 원래 지갑의 경우 1%.
