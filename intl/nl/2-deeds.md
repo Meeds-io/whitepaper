@@ -1,7 +1,7 @@
 
 # 2. Deeds NFT - Work Metaverse Organisaties
 
-## 2.5. Beloningen - Meeds en andere penningen
+## 2.1. Beloningen - Meeds en andere penningen
 
 Een niet-vervalsbaar token (NFT) is een uniek token dat een goed vertegenwoordigt. In de WoM wordt een Deed gebruikt als eigendomstitel. Elke Deed geeft zijn eigenaar recht op toegang tot verschillende diensten - bijvoorbeeld een toegang tot een digitaal kantoor, aangedreven door de Meeds-software en het recht om Meeds te slaan.
 
@@ -70,7 +70,7 @@ De houder of huurder van de Deed kan zijn winkel verrijken met zijn eigen perks,
 
 De winkel functioneert door het gebruik van Meeds, zodat Meeds gedeeltelijk worden teruggegeven aan de Deed.
 
-## 2.6. Beloningen - Meeds en andere penningen
+## 2.5. Beloningen - Meeds en andere penningen
 
 De WoM zal gebruikersbetrokkenheid tokenen, door digitale werkinstrumenten te gamificeren en punten en Meeds toe te kennen in relatie tot werkbetrokkenheid. Diensten die zijn aangesloten op de engagement- en beloningsmotor kennen punten toe aan elke gebruiker, afhankelijk van hun engagementsniveau en in overeenstemming met de engagementprogramma's van elke Deed. Elke Deed kan namelijk het aantal punten voor elk type activiteit nauwkeurig afstemmen. Zo kan het pushen van wat code in GitHub 10 punten waard zijn voor een IT-shop, terwijl een digitaal agentschap slechts 5 punten kan toekennen voor GitHub pushes, maar 10 punten voor retweets.
 
