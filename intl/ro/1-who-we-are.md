@@ -1,14 +1,14 @@
 
-# 1. Who we are – the Meeds Association
+# 1. Cine suntem - Asociația Meeds
 
-The Meeds association is a non-profit organization originally launched by several Open Source Software (OSS) communities around the common vision of a free digital world – a decentralized world that would not be controlled by a handful of centralized mega-corporations.
+Asociația Meeds este o organizație non-profit lansată inițial de mai multe comunități de software cu sursă deschisă (OSS) în jurul viziunii comune a unei lumi digitale libere - o lume descentralizată care nu ar fi controlată de o mână de mega-corporații centralizate.
 
-The Meeds association is incorporated in Geneva, as a non-profit association under the Swiss law.
+Asociația Meeds este înregistrată la Geneva, ca asociație non-profit în conformitate cu legislația elvețiană.
 
-The association regulates the issuance of the Meeds currency, an ERC20 token, recognized as a utility token.
+Asociația reglementează emiterea monedei Meeds, un token ERC20, recunoscut ca un token de utilitate.
 
-To build the WoM and Meeds, the association leverages the Ethereum platform and its ecosystem, making it accessible in a friendly and cost-effective way to all users.
+Pentru a construi WoM și Meeds, asociația valorifică platforma Ethereum și ecosistemul său, făcându-l accesibil într-un mod prietenos și rentabil pentru toți utilizatorii.
 
-The association is structured as a Decentralized Autonomous Organization (DAO) where the governance token holders vote on all important organizational changes such as electing the board every year.
+Asociația este structurată ca o organizație autonomă descentralizată (DAO), în cadrul căreia deținătorii de token-uri de guvernanță votează toate modificările organizaționale importante, cum ar fi alegerea consiliului de administrație în fiecare an.
 
-Besides Meeds token management, the association holds the Intellectual Property (IP) of the Meeds software [github.com/meeds-io](https://github.com/meeds-io), available under the LGPL license and distributed for free. The latter includes an Ethereum wallet app that users can use to store and transact their Meeds (see section 2.4 for more details). The Meeds Association also runs a multi-tenant cloud hosting service leveraging that software.
+Pe lângă gestionarea token-urilor Meeds, asociația deține proprietatea intelectuală (IP) a software-ului Meeds [github.com/meeds-io](https://github.com/meeds-io), disponibil sub licența LGPL și distribuit gratuit. Acesta din urmă include o aplicație de portofel Ethereum pe care utilizatorii o pot utiliza pentru a-și stoca și tranzacționa Meeds (a se vedea secțiunea 2.4 pentru mai multe detalii). Asociația Meeds gestionează, de asemenea, un serviciu de găzduire în cloud multi-tenant care utilizează acest software.
