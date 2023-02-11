@@ -15,3 +15,7 @@ book: true
 listings-no-page-break: true
 first-chapter: 2
 classoption: oneside
+latex-engine: xelatex
+CJKmainfont: "PingFang HK"
+
+...
