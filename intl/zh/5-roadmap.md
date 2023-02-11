@@ -1,86 +1,86 @@
-# 5. The Work Metaverse for ALL – vision summary and milestones
+# 5. 所有人的工作会议 - 愿景总结和里程碑
 
-## 5.1. Ultimate goal - decentralized web for everyone
+## 5.1. 最终目标--为每个人提供去中心化的网络
 
-In the end, the WoM is a decentralized web world for everyone – every person and every organization.
+最后，WoM是一个为每个人--每个人和每个组织--提供的去中心化的网络世界。
 
-It will be populated by users, acting through their digital identities **Xeeds** and accessing the world through their metamasks, for crypto-savvies, or login/password for the newbies. People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
+它将由用户填充，通过他们的数字身份 **Xeeds** 进行操作，并通过他们的元掩码访问世界，对于加密专家来说，或者对于新手来说是登录名/密码。 人们将以公平、透明和去中心化的方式分配他们的参与度并获得奖励。 他们将以一种简单而熟悉的方式进入去中心化的世界和未来的加密货币世界--他们将获得简单的工具，在生活中使用他们的代币或为他们的未来投资。
 
-Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the metaverse, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
+组织--**Deeds**将能够寻找人才，通过WoM浏览，寻找合适的成熟技能。 他们将通过参与用户的活动（mintium模式）来铸造代币，从而为他们在元空间的参与获得奖励。 但最重要的是，他们会从用户更高的参与度和忠诚度中受益。
 
-The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
+WoM将有它自己的货币**Meeds**--可以在商店里消费，兑换成另一种货币，投资以获得投资回报，租赁或购买等等。 WoM还将促进其他代币的发行，并参与到整个加密货币生态系统中。
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
+图片胜过千言万语，这里有一张描述WoM和Meeds流程的图。
 
-![WoM and Meeds flows](en/img/wom-flows.png)
+![禾木和米德的流动](en/img/wom-flows.png)
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
+从长远来看，世界的维护和可持续性是通过Meeds协会和各城市之间的税收来保证的。
 
-## 5.2. What’s in it for early adopters
+## 5.2. 对早期采用者有什么好处
 
-Obviously, early adopters would get considerable advantages over the late comers.
+很明显，早期采用者将比晚来者获得相当大的优势。
 
-In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
+特别是，WoM奖励长期投资的诗句--那就是赎回财产（Deeds）。 Deed 的原始所有者通过参与铸币（主动使用）、被动收入（租赁）获得补偿，并在 Deed 的任何销售交易中获得终身 1% 的收益（在每次所有权变更时，原始赎回者获得费用 交易）。
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the metaverse.
+通过相信这个项目，参与流动资金池，押注Meeds，用Deeds赎回......各种规模的早期投资者将铸造额外的代币。 他们也将获得最早的投票权，并帮助塑造元气。
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
+获得但特别是使用Deeds来吸引和奖励他们的员工的组织，将得到铸币Meeds的补偿。 他们会打得越公平，就会得到越多。 早期的采用者将与第一批历史名城相关联，并在后来被确定为建设者。
 
-The diagram below represents an example of the Meeds investment strategy for capital holders :
+下图代表了资本持有人的 Meeds 投资策略示例：
 
-![Meeds investment strategy for capital holders](en/img/invest-capital.png)
+![Meeds对资本持有人的投资策略](en/img/invest-capital.png)
 
-Organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
+组织当然可以参与流动资金池，但也可以加入建设者社区，在那里获得额外的参与奖励。
 
-The diagram below represents an example of the Meeds investment strategy for work holders :
+下图代表了 Meeds 工作人员投资策略的一个例子：
 
-![Meeds investment strategy for work holders](en/img/invest-work.png)
+![Meeds的工作持有人的投资策略](en/img/invest-work.png)
 
-## 5.3. The launch
+## 5.3. The launch 发射仪式
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+正式发布日期定为**2022年5月1日**--在许多国家庆祝的国际工人节。
 
-At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
+那时候，Meed令牌已经存在。 可以在 Polygon 和 Ethereum 网络上获取它，并且流动资金池开放供参与。
 
-Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
+三个Meeds协会成员在内部使用该系统来吸引和奖励他们的用户并改进Meeds软件。
 
-The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
+投资者应用程序可在Ethereum主网上使用。 在推出时，它包括质押、流动性奖励、积分积累和赎回 Deeds。
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
+Builders 社区在 Meeds 软件上启动并运行，向任何想要加入、测试和参与的人开放。 可以使用 Metamask 登录。
 
-This paper was published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
+这份文件是在启动日发表的。 推出后，该代币将被空投给整个加密货币社区的许多人。
 
-## 5.4. The builders community
+## 5.4. 建设者社区
 
-We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the Work Metaverse. The association would reward builders engagement with Meeds, from its marketing budget.
+我们正在Meeds软件上和Discord上推出建设者社区。 社区欢迎任何想参与 Work Metaverse 建设的人。 该协会将从其营销预算中奖励建筑商参与 Meeds。
 
-The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
+该协会还计划质押一些 Meeds，以便为建筑商社区获取（赎回）契约。 然后，社区将通过 mintium 模型通过参与来铸造 Meed，并将它们分发给参与的用户。
 
-## 5.5. Roadmap and milestones
+## 5.5. 路线图和里程碑
 
-Our roadmap would follow the priority order below:
+我们的路线图将遵循以下优先顺序：
 
-- Engagement index and minting through engagement
-- Enable Deeds renting
-- Xeed creation
-- Badges improvement and credentials development
-- DeFi services – in the wallet, credit cards partnership
+- 参与指数和通过参与铸币
+- 启用Deeds租赁
+- Xeed创作
+- 徽章改进和证书开发
+- DeFi 服务——在钱包、信用卡合作中
 
-We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
+路线图和里程碑 我们还应该有一些来自传统公司的早期采用者，他们在当前的传统薪酬计划之外，通过向员工提供相关的参与计划，从元宇宙中获得直接价值。
 
-Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature metaverse, having spread to many organizations and many users globally.
+Meeds造币的时间跨度为20年。 到那个时候，我们希望能够建立一个成熟的元空间，在全球范围内推广到许多组织和许多用户。
 
-## 5.6. What you can do right now
+## 5.6. 你现在可以做什么
 
-What can you do right now to participate?
+你现在可以做什么来参与？
 
-- Spread this paper to those who would be interested
-- Visit our website [meeds.io](https://www.meeds.io/)
-- Check out the [Investor app](https://meeds.io/investors)
-- Contribute to the existing liquidity pools here :
+- 向有兴趣的人传播这份文件
+- 访问我们的网站[meeds.io](https://www.meeds.io/)。
+- 查看[Investor app](https://meeds.io/investors)。
+- 在这里为现有的流动资金池做贡献 :
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
-- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
+- 加入我们的[Discord](https://discord.com/invite/hAuADSq3)社区，随时了解情况。
+- 加入我们的[建设者](https://meeds.io/builders)社区，测试Meeds软件，参与并获得一些Meeds参与奖励。
 
-**\*\*\* The Work Metaverse - let’s build this crazy future world together. \*\*\***
+**\*\*\* The Work Metaverse - 让我们一起打造这个疯狂的未来世界。 \*\*\***

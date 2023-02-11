@@ -1,41 +1,41 @@
 
 
-## Abstract
+## 抽象的
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
+今天的工作市场缺乏效率，因为交易成本高 [^1][^2][^3]，雇主和雇员之间经常发生利益冲突。
 
-The Work Metaverse (the WoM) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
+Work Metaverse（WoM）提出了一种新的范式，它将降低交易成本，重塑雇佣关系，弥合传统企业和DAO之间的差距。
 
-The WoM does that by introducing digital identities for both employer and employee and offering an innovative engagement reward system that would align their interests.
+和盟通过为雇主和雇员引入数字身份，并提供一个创新的参与奖励系统，使他们的利益保持一致。
 
-## Introduction
+## 简介
 
-The work market today is broken. It fails to satisfy both employees and employers.
+今天的工作市场已经崩溃。 它未能使雇员和雇主都满意。
 
-On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
+在雇员方面，很难找到合适的工作。 就业市场偏向于某些类型的人，把优秀的技能组合抛在后面。 这来自于人类的一系列偏见--基于种族、基于性别、基于残障、基于内向等等。 工作市场也缺乏关于现有职位和就业条件的透明度。
 
-Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
+一旦被雇用，雇员的个人自由就会受到侵犯，以换取报酬。 员工对自己的工作时间、工作场所、工作内容或工作方法几乎没有发言权。 背景要求 而且他们的报酬很少与他们的实际意义或价值挂钩。 补偿规则缺乏透明度，因此被认为是不公平的。 此外，报酬和职业发展也取决于人的因素--雇员直属经理的诚意和客观性。
 
-Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
+另一方面，雇主在寻找人才，以及在合适的时间雇用合适的技能和合适的工作方面遇到了困难。 没有客观的方法来确定潜在雇员的技能或在雇主的传统招聘池之外寻找人才。
 
-Employers also deal with the lack of loyalty from their employees and a high turnover, both of which, increase hiring and on-boarding costs.
+雇主还应对员工缺乏忠诚度和人员流动率高的问题，这两者都会增加招聘和入职成本。
 
-Moreover, employers also face low engagement in their existing employees, leading to low creativity, productivity and innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
+此外，雇主还面临着现有员工敬业度低下的问题，导致创造力、生产力和创新能力低下。 后者在当今需要更多技能创造性工作的经济中造成了更大的损害。
 
-All of the above boil down to high transaction costs and the exacerbated agent-principal problem[^4] :
+以上所有归结为高交易成本和加剧的委托代理问题[^4]：
 
-- With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element.
-- As to the agent-principal problem, it has been compounded by the increasing revenue and wealth gap between employees and shareholders and the rigidity of the employer-employee relationship.
+- 由于工作发布网站、求职网站等，借助互联网，就业市场确实朝着更加统一和透明的方向发展。 但在缺乏客观性因素的情况下，交易成本仍然过高。
+- 至于代理-委托人问题，员工与股东之间收入和财富差距的扩大以及劳资关系的僵化加剧了这一问题。
 
-The WoM aims at solving both through a new decentralized work paradigm.
+WoM 旨在通过新的去中心化工作范式解决这两个问题。
 
-Following R. Coase’s works[^5], most economists link the concept of enterprise with the necessity to mitigate transaction costs. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs[^6] started this process focusing on lowering the cost of transactions for capital sourcing and governance. The WoM aims at pushing this logic further by lowering the cost of work transactions. It proposes a decentralized world where jobs and skills matching could be done objectively, quickly and globally.
+根据 R. Coase 的著作[^5]，大多数经济学家将企业的概念与降低交易成本的必要性联系起来。 互联网以及最近的区块链和 web3 在降低各地的交易成本、重塑经济，特别是重塑企业方面开启了令人兴奋的可能性。 第一批 DAO[^6] 启动了这一过程，重点是降低资本采购和治理的交易成本。 WoM 旨在通过降低工作交易的成本来进一步推动这一逻辑。 它提出了一个去中心化的世界，在这个世界中，可以客观、快速和全球地完成工作和技能匹配。
 
-The first DAOs flatten the hierarchies and open ownership. The WoM pursues this logic by reinventing rather than suppressing the employer/employee relationship. It introduces a transparent, objective and decentralized reward paradigm, that would sustainably align the employer and the employee interests.
+第一个 DAO 扁平化了层次结构并开放了所有权。 WoM 通过重塑而不是压制雇主/雇员关系来追求这一逻辑。 它引入了一种透明、客观和去中心化的奖励模式，可持续地使雇主和雇员的利益保持一致。
 
-Finally, the Work Metaverse bridges the gap between corporations and the DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. On the other hand, it proposes sustainable ways to operate and create value for DAOs. Ultimately, the WoM could be among the first mainstream applications to democratize the use of the blockchain for every company and every employee – including non-digital ones.
+最后，Work Metavers弥合了公司与DAO之间的差距。 一方面，它通过易于应用的参与奖励范式将传统公司引入去中心化世界，以补充其薪酬系统。 另一方面，它提出了为 DAO 运营和创造价值的可持续方式。 最终，WoM 可能成为首批为每个公司和每个员工（包括非数字员工）民主化使用区块链的主流应用程序之一。
 
-As with any decentralized venture, the WoM proposal gains in value exponentially as more people use it. For that reason, founders took great care to encourage long term interest and avoid monopolizing the WoM benefits, whether short term or long term. It is an open paradigm, still to be built, and open to active creative participation from everyone.
+与任何去中心化企业一样，WoM 提案的价值会随着越来越多的人使用而呈指数级增长。 出于这个原因，创始人非常注意鼓励长期利益并避免垄断 WoM 利益，无论是短期还是长期。 它是一个开放的范例，仍有待建立，并开放给每个人积极的创造性参与。
 
 
 [^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)
