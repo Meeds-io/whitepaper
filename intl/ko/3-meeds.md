@@ -65,45 +65,45 @@ Meeds를 스테이킹함으로써 투자자는 Deeds를 상환(그리고 참여�
 
  $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
 
- where :
+ 어디:
 
-- $xMeeds$ : xMeeds balance  with no decimals
-- $T$ : Time elapsed in milliseconds
+- $xMeeds$ : 소수점이 없는 xMeeds 잔액
+- $T$ : 경과 시간(밀리초)
 
-The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably. For example, the formula gives the following rates :
+이 공식은 Deeds를 보다 효율적이고 공평하게 분배하기 위해 대규모 보유자를 선호하지 않습니다. 예를 들어 공식은 다음 비율을 제공합니다.
 
-| **Holder Size** | **Holdings**   | **Accrue Rate** |
-| --------------- | -------------- | --------------- |
-| Small           | 1 000 xMeeds   | 28 pts/day      |
-| Medium          | 10 000 xMeeds  | 164 pts/day     |
-| Large           | 100 000 xMeeds | 321 pts/day     |
+| **홀더 크기** | **지주**         | **적립률**  |
+| --------- | -------------- | -------- |
+| 작음        | 1 000 xMeeds   | 28포인트/일  |
+| 중간        | 10 000 xMeeds  | 164포인트/일 |
+| 큰         | 100 000 xMeeds | 321포인트/일 |
 
 
-which leads to the following holding time for each class of holder :
+이는 각 보유자 클래스에 대해 다음과 같은 보유 시간으로 이어집니다.
 
-| **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| 공통            | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| 드문            | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| 희귀            | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| 전설            | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| **카드 종류** | **비용**      | **대형 홀더** | **미디엄 홀더** | **소 자작농** |
+| --------- | ----------- | --------- | ---------- | --------- |
+| 공통        | 8 000 포인트   | 25일       | 49일        | 9개월       |
+| 드문        | 32 000 포인트  | 100일      | 6개월        | 3년        |
+| 희귀        | 50,000 포인트  | 156일      | 10개월       | 5년        |
+| 전설        | 100,000 포인트 | 311일      | 20개월       | 10년       |
 
-## 3.6. Meeds DAO governance
+## 3.6. Meeds DAO 거버넌스
 
-Meeds token holders need to stake tokens in order to vote on the Meeds DAO decisions such as managing the minting budget or electing DAO board members (annual mandate).
+Meeds 토큰 보유자는 채굴 예산 관리 또는 DAO 이사회 구성원 선출(연간 의무)과 같은 Meeds DAO 결정에 투표하기 위해 토큰을 스테이킹해야 합니다.
 
-## 3.7. Decentralized finance (DeFi) user services
+## 3.7. 탈중앙화 금융(DeFi) 사용자 서비스
 
-The Work Metaverse will introduce the blockchain world to many people who do not use it today.
+The Work Metaverse는 오늘날 블록체인을 사용하지 않는 많은 사람들에게 블록체인 세계를 소개할 것입니다.
 
-Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
+실제로 모든 작업(디지털이든 아니든)은 게임화될 수 있으며 모든 참여는 Meeds로 보상받을 수 있습니다. Meeds는 암호화 세계의 모든 복잡성을 일반 사용자에게 "추상화"하는 사용하기 쉬운 블록체인 기반 지갑을 통해 사용자에게 제공됩니다.
 
-Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
+지갑과 Meeds에 대한 특전을 구매할 수 있는 상점 외에도 다음과 같은 탈중앙화 금융 프로토콜로 구동되는 여러 최종 사용자 제품을 모든 사용자에게 소개할 계획입니다.
 
-- The ability to stake Meeds tokens and get yields (generate revenues)
-- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
-- A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. This card could also be used by organizations to fund employee wallets in order to manage employee benefits such as restaurants, transportation and any type of expenses.
+- Meeds 토큰을 스테이킹하고 수익을 얻을 수 있는 기능(수익 창출)
+- Meeds 토큰을 담보로 사용하여 USDC와 같은 스테이블 코인을 빌릴 수 있습니다(먼저 [퓨즈 풀](https://app.rari.capital/fuse)을 활용한 다음 Meeds 토큰을 [AAVE](https://aave.com/)에 등록합니다.
+- Apple Pay, Google Pay 또는 모든 ATM을 통해 추가하고 사용할 수 있는 디지털 카드입니다. 후자는 VISA와의 파트너십을 통해 제공될 수 있으며 스테이킹된 Meeds가 확보한 USDC의 신용 한도를 활용할 것입니다. 이 카드는 레스토랑, 교통 및 모든 유형의 비용과 같은 직원 혜택을 관리하기 위해 조직에서 직원 지갑에 자금을 지원하는 데 사용할 수도 있습니다.
 
-So not only many new users will discover the blockchain world, they will also discover a bankless world.
+따라서 많은 신규 사용자가 블록체인 세계를 발견할 뿐만 아니라 은행 없는 세계도 발견하게 될 것입니다.
 
  
