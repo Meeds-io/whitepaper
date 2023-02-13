@@ -98,7 +98,7 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 - $U$ = _参与用户_ - 在一周内通过至少一项操作贡献积分的用户。
 - $E_d$ = _行为的参与率_ - 每个用户的操作（$A/U$）
 - $E_w$ = WoM 中所有活动契约的_平均参与率_。
-- $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. 如果分发时间延迟，则 % 可以高于 100。
+- $D_r$ = _Distribution rate_ - 如果契约在前一时期收到铸造的 Meeds，则分配给其用户的 Meeds 的百分比。 如果分发时间延迟，则 % 可以高于 100。
 - $D_s$ = _分布价差_ - 如果 Deed 在前一时期收到了铸造的 Meeds，则收到 Meeds 的用户在总用户群中的百分比。
 - $M$ = 2.3 中定义的契约的_铸币权_
 
