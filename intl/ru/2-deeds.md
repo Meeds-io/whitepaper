@@ -1,30 +1,30 @@
 
-# 2. Deeds NFT - Work Metaverse Organizations
+# 2. Дела NFT - Работа Metaverse Организаций
 
-## 2.5. Rewards – Meeds and other tokens
+## 2.5. НМТ - Определены действия
 
-A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+Неперемещаемый токен (НТТ) - это уникальный токен, представляющий товар. В WoM, Deed используется как титул собственности. Каждый Deed дает его владельцу право на доступ к нескольким услугам - например, доступ к цифровому офису, работающему на базе программного обеспечения Meeds, и право на чеканку Meeds.
 
-The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM.
+WoM приветствует все виды организаций - DAO, традиционные корпорации, ассоциации, аналитические центры, партнерства, театральные компании, проектные группы, школы и т. д. Подвиг представляет их цифровое существование в WoM.
 
-## 2.2. Deeds supply
+## 2.2. Обеспечение сделок
 
-The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of Meeds rewarding (Minting Power). The term ‘user’ here and hereafter designates any type of employee, worker, freelancer, volunteer etc.
+В конечном итоге WoM предоставит ограниченное количество Подвигов. Каждый Deed включает в себя предопределенное максимальное количество пользователей и предлагает мощность вознаграждения Meeds (Minting Power). Термин "пользователь" здесь и далее обозначает любого сотрудника, рабочего, фрилансера, волонтера и т. д.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
+Существует четыре типа Мидов, каждый из которых предоставляет различные возможности в плане количества пользователей, права голоса в городе (см. 2.7) или возможности чеканки Мидов, причем самый редкий является самым мощным:
 
-| **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
-| ------------- | ------------- | ----------------- | ------------ | ---------------------- |
-| Common        | 100           | 1                 | ~ 90%        | 1                      |
-| Uncommon      | 1000          | 1.1               | ~ 9%         | 10                     |
-| Rare          | 10 000        | 1.3               | ~ 1%         | 100                    |
-| Legendary     | unlimited     | 2                 | < 0.1 %      | 1000                   |
+| **Тип договора** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
+| ---------------- | ------------- | ----------------- | ------------ | ---------------------- |
+| Common           | 100           | 1                 | ~ 90%        | 1                      |
+| Uncommon         | 1000          | 1.1               | ~ 9%         | 10                     |
+| Rare             | 10 000        | 1.3               | ~ 1%         | 100                    |
+| Legendary        | unlimited     | 2                 | < 0.1 %      | 1000                   |
 
 ## 2.3. Deeds ownership
 
-A Deed gives its owner the right to USE it, RENT it, or SELL it.
+Документ дает его владельцу право использовать его, сдавать в аренду или продавать.
 
-- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
+- ИСПОЛЬЗОВАНИЕ - Владельцы участка могут использовать участок непосредственно для своей организации, предоставляя услуги его пользователям.
 - RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
 - SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
 
