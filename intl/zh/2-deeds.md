@@ -7,7 +7,7 @@
 
 WoM 欢迎各种组织——DAO、传统公司、协会、智库、合作伙伴、剧院公司、项目组、学校等。 契据代表他们在 WoM 中的数字存在。
 
-## 2.2. Deeds supply 契约供应
+## 2.2. 契约供应
 
 WoM 最终将提供有限数量的契据。 每个契约都包含一个预定义的最大用户数，并提供 Meeds 奖励能力（铸币能力）。 此处和下文中的“用户”一词指代任何类型的雇员、工人、自由职业者、志愿者等。
 
@@ -20,7 +20,7 @@ WoM 最终将提供有限数量的契据。 每个契约都包含一个预定义
 | 稀有的      | 10 000    | 1.3     | ~ 1%    | 100       |
 | 传奇的      | 无限        | 2       | < 0.1 % | 1000      |
 
-## 2.3. Deeds ownership 契据所有权
+## 2.3. 契据所有权
 
 契约赋予其所有者使用、出租或出售它的权利。
 
@@ -98,7 +98,7 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 - $U$ = _参与用户_ - 在一周内通过至少一项操作贡献积分的用户。
 - $E_d$ = _行为的参与率_ - 每个用户的操作（$A/U$）
 - $E_w$ = WoM 中所有活动契约的_平均参与率_。
-- $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time. 如果分发时间延迟，则 % 可以高于 100。
+- $D_r$ = _Distribution rate_ - 如果契约在前一时期收到铸造的 Meeds，则分配给其用户的 Meeds 的百分比。 如果分发时间延迟，则 % 可以高于 100。
 - $D_s$ = _分布价差_ - 如果 Deed 在前一时期收到了铸造的 Meeds，则收到 Meeds 的用户在总用户群中的百分比。
 - $M$ = 2.3 中定义的契约的_铸币权_
 

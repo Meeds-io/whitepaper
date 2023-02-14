@@ -17,6 +17,4 @@ first-chapter: 2
 classoption: oneside
 latex-engine: xelatex
 CJKmainfont: "Heiti TC"
-
-
 ...
