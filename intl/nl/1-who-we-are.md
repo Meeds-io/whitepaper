@@ -1,14 +1,14 @@
 
-# 1. Who we are – the Meeds Association
+# 1. Wie we zijn - de Vereniging Meeds
 
-The Meeds association is a non-profit organization originally launched by several Open Source Software (OSS) communities around the common vision of a free digital world – a decentralized world that would not be controlled by a handful of centralized mega-corporations.
+De Meeds vereniging is een non-profit organisatie die oorspronkelijk werd opgericht door verschillende Open Source Software (OSS) gemeenschappen rond de gemeenschappelijke visie van een vrije digitale wereld - een gedecentraliseerde wereld die niet zou worden gecontroleerd door een handvol gecentraliseerde mega-bedrijven.
 
-The Meeds association is incorporated in Geneva, as a non-profit association under the Swiss law.
+De Meeds-vereniging is opgericht in Genève, als vereniging zonder winstoogmerk naar Zwitsers recht.
 
-The association regulates the issuance of the Meeds currency, an ERC20 token, recognized as a utility token.
+De vereniging regelt de uitgifte van de munt Meeds, een ERC20 token, erkend als utility token.
 
-To build the WoM and Meeds, the association leverages the Ethereum platform and its ecosystem, making it accessible in a friendly and cost-effective way to all users.
+Om de WoM en Meeds op te bouwen, maakt de vereniging gebruik van het Ethereum-platform en zijn ecosysteem.
 
-The association is structured as a Decentralized Autonomous Organization (DAO) where the governance token holders vote on all important organizational changes such as electing the board every year.
+De vereniging is gestructureerd als een Decentrale Autonome Organisatie (DAO) waar de houders van de bestuurstoken stemmen over alle belangrijke organisatorische veranderingen, zoals het kiezen van het bestuur elk jaar.
 
-Besides Meeds token management, the association holds the Intellectual Property (IP) of the Meeds software [github.com/meeds-io](https://github.com/meeds-io), available under the LGPL license and distributed for free. The latter includes an Ethereum wallet app that users can use to store and transact their Meeds (see section 2.4 for more details). The Meeds Association also runs a multi-tenant cloud hosting service leveraging that software.
+Naast het beheer van Meeds tokens bezit de vereniging het Intellectueel Eigendom (IP) van de Meeds-software [github.com/meeds-io](https://github.com/meeds-io), beschikbaar onder de LGPL-licentie en gratis verspreid. Deze software omvat een Ethereum wallet app die gebruikers kunnen gebruiken om hun Meeds op te slaan en te verhandelen (zie punt 2.4 voor meer details). De Meeds Association heeft ook een multi-tenant cloud hosting service die software gebruikt.
