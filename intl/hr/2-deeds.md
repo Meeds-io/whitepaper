@@ -32,11 +32,11 @@ Budući da je aktivni nositelj ili iznajmljivač Deed, organizacija je nagrađen
 
 ## 2.4. Deeds usluge, sustav angažiranja/nagrađivanja
 
-Na sve konkurentnijem tržištu, kako bi privukle i zadržale talente i maksimizirale njihov doprinos, organizacije moraju poticati svoje korisnike osim jednostavne naknade. The WoM provides an innovative framework to do that by tokenizing work engagement.
+Na sve konkurentnijem tržištu, kako bi privukle i zadržale talente i maksimizirale njihov doprinos, organizacije moraju poticati svoje korisnike osim jednostavne naknade. WoM pruža inovativan okvir za to tokeniziranjem radnog angažmana.
 
-Each Deed’s holder or renter can provide tools and services to its users, who earn engagement points that can be fine-tuned to the Deed’s priorities. Periodically, points are converted into Meeds (and - for DAOs - potentially another token), based on the Deed’s set budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
+Svaki nositelj ili iznajmljivač Deed-a može pružiti alate i usluge svojim korisnicima, koji zarađuju bodove angažmana koji se mogu fino prilagoditi prioritetima Deed-a. Povremeno se bodovi pretvaraju u Meeds (i - za DAO-ove - potencijalno u drugi token), na temelju proračuna koji je zadao Deed. Na taj se način nagrađuje angažman korisnika u aktivnostima važnim za organizaciju.
 
-To begin with, the following free services provided by the Meeds association can be used to reward engagement:
+Za početak, za nagrađivanje angažmana mogu se koristiti sljedeće besplatne usluge udruge Meeds:
 
 - **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the Deed’s priorities via customizable engagement programs.
 - **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
