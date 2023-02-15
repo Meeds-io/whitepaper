@@ -13,97 +13,97 @@ WoM приветствует все виды организаций - DAO, тр�
 
 Существует четыре типа Мидов, каждый из которых предоставляет различные возможности в плане количества пользователей, права голоса в городе (см. 2.7) или возможности чеканки Мидов, причем самый редкий является самым мощным:
 
-| **Тип договора** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
-| ---------------- | ------------- | ----------------- | ------------ | ---------------------- |
-| Common           | 100           | 1                 | ~ 90%        | 1                      |
-| Uncommon         | 1000          | 1.1               | ~ 9%         | 10                     |
-| Rare             | 10 000        | 1.3               | ~ 1%         | 100                    |
-| Legendary        | unlimited     | 2                 | < 0.1 %      | 1000                   |
+| **Тип договора** | **Максимальное количество пользователей** | **Мощность чеканки** | **Дефицит** | **Право голоса в городе** |
+| ---------------- | ----------------------------------------- | -------------------- | ----------- | ------------------------- |
+| Общий            | 100                                       | 1                    | ~ 90%       | 1                         |
+| Необычный        | 1000                                      | 1.1                  | ~ 9%        | 10                        |
+| Редкие           | 10 000                                    | 1.3                  | ~ 1%        | 100                       |
+| Легендарный      | неограниченный                            | 2                    | < 0.1 %     | 1000                      |
 
-## 2.3. Deeds ownership
+## 2.3. Право собственности по документам
 
 Документ дает его владельцу право использовать его, сдавать в аренду или продавать.
 
 - ИСПОЛЬЗОВАНИЕ - Владельцы участка могут использовать участок непосредственно для своей организации, предоставляя услуги его пользователям.
-- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
-- SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
+- АРЕНДА - Владельцы Сделки могут также сдать Сделку в аренду другой организации с целью получения пассивного дохода.
+- ПРОДАТЬ - Договор может быть продан на вторичном рынке, например, [OpenSea](https://opensea.io).
 
-Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
+Будучи активным держателем или арендатором Deed, организация получает вознаграждение в виде Meeds, используя инновационную модель "mintium", описанную ниже (часть 2.6).
 
-## 2.4. Deeds services, engagement/rewards engine
+## 2.4. Услуги по оформлению сделок, механизм помолвки/вознаграждения
 
-In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
+В условиях все более конкурентного рынка для привлечения и удержания талантов и максимизации их вклада организациям необходимо стимулировать своих пользователей не только простой компенсацией. WoM обеспечивает инновационную основу для этого, символизируя вовлеченность в работу.
 
-Each Deed’s holder or renter can provide tools and services to its users, who earn engagement points that can be fine-tuned to the Deed’s priorities. Periodically, points are converted into Meeds (and - for DAOs - potentially another token), based on the Deed’s set budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
+Каждый владелец или арендатор Deed может предоставлять инструменты и услуги своим пользователям, которые зарабатывают очки вовлеченности, которые могут быть точно настроены в соответствии с приоритетами Deed. Периодически баллы конвертируются в Meeds (и - для DAO - потенциально в другой токен), исходя из установленного бюджета Deed. Таким образом, участие пользователей в деятельности, имеющей значение для организации, вознаграждается.
 
-To begin with, the following free services provided by the Meeds association can be used to reward engagement:
+Для начала можно использовать следующие бесплатные услуги, предоставляемые ассоциацией Meeds, для поощрения вовлеченности:
 
-- **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the Deed’s priorities via customizable engagement programs.
-- **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
-- **Customizable engagement programs** - organizations can create their own engagement programs matching their business goals and priorities. Programs are associated to automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatics or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
-- **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
-- **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
-- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
-- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
-- **Analytics** – to analyze and follow engagement within the Deed.
-- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
+- WoM имеют вес в очках, который может быть точно настроен в соответствии с приоритетами Deed с помощью настраиваемых программ вовлеч.
+- **Задачи** - настраиваемые задачи могут быть установлены для представления достижений. Задачи задаются одним человеком, а заполняются и объявляются таковыми другим. Задания имеют вес в баллах в рамках настраиваемых программ вовлечения.
+- **Настраиваемые программы вовлечения** - организации могут создавать собственные программы вовлечения, соответствующие их бизнес-целям и приоритетам. Программы связаны с автоматическими действиями в системе и задачами, поставленными вручную. Каждая программа имеет установленный бюджет Meeds. Периодически баллы, заработанные каждым пользователем с помощью автоматики или объявленных действий в каждой программе вовлечения, конвертируются в Meeds, исходя из бюджета этой программы.
+- **Кудо** - кудо могут присуждаться пользователями друг другу в знак благодарности и признания. Поскольку количество раздаваемых кудо ограничено (установленный периодический лимит, например, 3 в неделю), они редки и ценны. Как и действия, похвалы приносят очки. Таким образом, сотрудники получают возможность поощрять своих коллег.
+- ** Инструменты для совместной работы**, подключенные к механизму вознаграждения - рабочие пространства, асинхронное общение, инструмент управления задачами и заметки - позволяют людям совместно работать над проектами.
+- **Кошелек** - пользователям предоставляется защищенный кошелек технологии Ethereum для хранения своих Meeds. В качестве альтернативы, для опытных пользователей, можно использовать кошелек Metamask.
+- **Store** - магазин, где Миды можно обменять на бонусы, предоставляемые владельцем или арендатором Deed или экосистемой Meeds.
+- **Analytics** - для анализа и отслеживания вовлеченности в Deed.
+- **Connectors**, подключенные к механизму вознаграждения - пользователи получают очки вовлеченности за действия в другой программе - например, за фиксацию кода в GitHub.
 
-Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
+Некоторые из вышеупомянутых инструментов и услуг уже децентрализованы, другие - нет. Конечной целью является предоставление всех услуг децентрализованно, что мы будем делать постепенно, по мере развития базовой технологии.
 
-New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
+Новые услуги могут быть подключены к механизму вознаграждения через API. Примеры бесчисленны и могут включать практически любое программное обеспечение или услугу:
 
-- CRM software – salespeople would get engagement points for working on opportunities.
-- Accounting software – accountants would get engagement points for keeping books.
-- Clocking terminal – factory worker can get points for factory work time.
-- Etc.
+- Программное обеспечение CRM - продавцы будут получать очки вовлеченности за работу над возможностями.
+- Бухгалтерское программное обеспечение - бухгалтеры будут получать очки за ведение бухгалтерского учета.
+- Часовой терминал - работник завода может получать очки за время работы завода.
+- И т. д.
 
-Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
+Кроме того, вовлеченность, созданная с помощью коннектора, участвует в глобальном показателе вовлеченности организации, который является фактором распределения мидсов, описанного ниже. ниже. Для этого коннектор должен быть внесен в белый список Meeds Association. Ассоциация рассматривает коннектор, одобряет его алгоритм и приобретает его в собственность против Meeds. Затем он становится частью бесплатных услуг, предоставляемых ассоциацией, и включается в глобальный индекс вовлеченности. Любой другой Deed может использовать тот же коннектор и тот же алгоритм вознаграждения для своих разработчиков.
 
-The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
+Владелец или арендатор Deed's может обогатить свой магазин собственными привилегиями, подключиться к онлайн-предложению привилегий и т. д. И здесь возможности безграничны:
 
-- Training courses
-- Gym memberships
-- Vacation packages
-- Lunch with a leader in the organization
-- Physical office space
-- Etc.
+- Учебные курсы
+- Членство в тренажерном зале
+- Пакеты отпусков
+- Обед с одним из руководителей организации
+- Физические офисные помещения
+- И т. д.
 
-The store functions through the use of Meeds so that Meeds are partially returned to the Deed.
+Магазин функционирует за счет использования Мидов, так что Миды частично возвращаются в Deed.
 
-## 2.6. The “mintium” model – tokenize work engagement
+## 2.6. Вознаграждения - медяки и другие жетоны
 
-The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs. Indeed, each Deed can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
+WoM будет токенизировать вовлеченность пользователей путем геймификации цифровых рабочих инструментов и начисления баллов и мидов в зависимости от вовлеченности в работу. Сервисы, подключенные к системе вовлечения и вознаграждения, начисляют баллы каждому пользователю в зависимости от уровня его вовлеченности и в соответствии с программами вовлечения каждого Deed. Действительно, каждый Deed может точно регулировать количество баллов, начисляемых за каждый вид деятельности. Таким образом, продвижение кода в GitHub может стоить 10 баллов для IT-компании, в то время как цифровое агентство может присвоить только 5 баллов за продвижение в GitHub, но предложить 10 баллов за ретвиты.
 
-Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Deed is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
+Периодически механизм вознаграждения конвертирует очки вовлеченности в Миды в соответствии с бюджетом и другими правилами распределения и в конечном итоге вознаграждает пользователей через их кошельки. Deed не обязан распределять миды и может использовать систему вовлечения для реализации другой формы программы вознаграждения. Однако распространение "Мидов" улучшит его чеканку.
 
-Moreover, the Deed does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
+Более того, Deed не обязательно приобретать Meeds, чтобы распространять их и подпитывать свои программы вовлечения, поскольку он будет получать Meeds от модели "mintium", описанной ниже.
 
-In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
+Помимо Meeds, можно будет распространять и другие токены (например, собственные токены DAO) на основе того же механизма привлечения. В этом случае распределение будет облагаться 5% комиссией за транзакцию (в токенах DAO) для Ассоциации Meeds.
 
-## 2.6. The “mintium” model – tokenize work engagement
+## 2.6. Модель "минтиум" - токенизация вовлеченности в работу
 
-By engaging their users in the WoM, Deeds get compensated through an innovative mintium model.
+Вовлекая своих пользователей в WoM, Deeds получают компенсацию по инновационной модели mintium.
 
-Engagement points, gained by the Deeds’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Deeds. Even though the Deed can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
+Баллы вовлеченности, набранные пользователями "Дидов", участвуют в глобальном индексе вовлеченности, рассчитываемом Ассоциацией "Миды". Индекс использует один и тот же принцип для всех Deeds. Даже если Deed может изменить распределение баллов для продвижения одного действия над другим, эти изменения не будут учтены при расчете глобального индекса.
 
-Each week, a certain amount of Meeds is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Deeds. Some Deeds get an additional boost depending on their type. The Deeds that claim their Meeds over the week, receive them. The unclaimed Meeds are added to the following week’s global distribution amount.
+Каждую неделю определенное количество Meeds выделяется для майнинга WoM в рамках глобального вовлечения. Она начисляется еженедельно, пропорционально, среди участвующих в программе Deeds. Некоторые Deeds получают дополнительное усиление в зависимости от их типа. Deeds, которые заявляют о своих Мидах в течение недели, получают их. Невостребованные Миды добавляются к сумме глобального распределения на следующую неделю.
 
-The engagement score _S_  of a Deed is a function of the engagement, the number of engaged users and the distribution :
+Оценка вовлеченности _S_ Deed является функцией вовлеченности, количества вовлеченных пользователей и распределения:
 
 $$S = (E_d / E_w) * D_r * D_s * M$$
 
-Where :
+Где :
 
-- $A$ = _Activity_ - total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
-- $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
-- $E_d$ = _Engagement rate of the deed_ - actions per user ($A/U$)
-- $E_w$ = _Average engagement rate_ of all active Deeds in the WoM.
-- $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
+- $A$ = _Активность_ - общее количество действий, накопленных пользователями в рамках Deed за неделю. (На каждом уровне Deed'а каждое действие конвертируется в очки вовлеченности, причем некоторые действия имеют больший вес, чем другие. На уровне индекса все действия линеаризованы).
+- $U$ = _Задействованные пользователи_ - пользователи, которые внесли свой вклад в начисление очков в течение недели, совершив хотя бы одно действие.
+- $E_d$ = _Коэффициент вовлеченности дела_ - действия на пользователя ($A/U$)
+- $E_w$ = _Средний показатель вовлеченности_ всех активных Подвигов в WoM.
+- $D_r$ = _Коэффициент распределения_ - если Дид получил отчеканенные Миды за предыдущий период, то % Мидов, который был распределен среди его пользователей. Этот % может быть выше 100, если распределение задерживается во времени.
 - $D_s$ =  _Distribution spread_ - if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
-- $M$ = _Minting Power_ of the Deed as defined in 2.3
+- $M$ = _Мощность чеканки_ Дэд, как определено в п. 2.3
 
 
-The global engagement index used to distribute minted Meeds among the Deeds is the sum of all Deeds’ engagement scores for the week.
+Глобальный индекс вовлеченности, используемый для распределения отчеканенных Мидов между Deeds, представляет собой сумму баллов вовлеченности всех Deeds за неделю.
 
 
 The formula above is simple and designed to favor deeds :
@@ -128,15 +128,15 @@ In the WoM, Deeds will be generated gradually inside virtual cities. Only the fi
 
 A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
 
-| **City name** | **Deeds**   | **Available**        | **Common** | **Uncommon** | **Rare**  | **Legendary** |
-| ------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
-| 1: Tanit      | 100         | T0                   | 50         | 30           | 13        | 7             |
-| 2: Reshef     | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
-| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
-| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
+| **City name** | **Deeds**   | **Available**        | **Общий**  | **Необычный** | **Редкие** | **Легендарный** |
+| ------------- | ----------- | -------------------- | ---------- | ------------- | ---------- | --------------- |
+| 1: Tanit      | 100         | T0                   | 50         | 30            | 13         | 7               |
+| 2: Reshef     | 1 000       | Tanit + 4 months     | 600        | 300           | 94         | 6               |
+| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000      | 3 000         | 995        | 5               |
+| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000     | 30 000        | 9 996      | 4               |
+| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000       | 99 997     | 3               |
+| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000     | 999 998    | 2               |
+| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000    | 9 999 999  | 1               |
 
 A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
 
