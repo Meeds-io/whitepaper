@@ -32,17 +32,17 @@ Người dùng sẽ có thể chia sẻ Xeed, huy hiệu và chứng chỉ của
 
 Một người dùng có thể có một hoặc nhiều nhận dạng kỹ thuật số trong WoM. Anh ta có thể sau đó trình bày chúng một cách đồng nhất sử dụng các bản trình bày đã được xác thực.
 
-Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... In a manner of trustworthy LinkedIn 3.0.
+Không giống như web 2, người dùng hoàn toàn sở hữu các danh tính phi tập trung của mình. Người dùng có thể thể hiện (và chứng minh) các Loại Giấy tờ tài sản mà họ tham gia, kỹ năng đã được chứng minh, kỹ năng được tuyên bố, những người khác (Xeeds) mà họ đã làm việc cùng và đại diện kỹ thuật số của họ... Một cách đáng tin cậy như LinkedIn 3.0.
 
-The user will be able to select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Deeds, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time.
+Người dùng sẽ có thể chọn để tiết lộ hoặc không, cung cấp thông tin gì và sử dụng danh tính nào cho mỗi vị trí. Nội dung (kỹ năng đã chứng minh, Loại Giấy tờ tài sản trước đó, v. v.) là không thể can thiệp và do đó không thể được sửa đổi. Bất kỳ danh tính nào cũng phải được phát triển theo thời gian.
 
-## 4.4. Fair work marketplace
+## 4.4. Thị trường công bằng
 
-Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Deeds – as they do in the physical world by changing employers. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to choose which Deed provides better engagement reward conditions, belongs to a more attractive city, etc.
+Trong mô hình này, thị trường công việc trong tương lai cho phép người dùng di chuyển tự do và phân bổ/bán quyền tham gia của họ giữa các Loại Giấy tờ tài sản - như cách họ làm trong thế giới vật lý bằng cách thay đổi nhà tuyển dụng. Tuy nhiên, trong WoM, quyền tham gia của họ sẽ có thể nhìn thấy được, được đo lường và được thưởng một cách công bằng. Bằng cách di chuyển giữa các hệ thống có cùng logic, họ sẽ hiểu rõ hơn các quy tắc của trò chơi và đánh giá nhà tuyển dụng một cách công bằng - cỏ không phải lúc nào cũng xanh hơn ở nơi khác. Người dùng sẽ có thể chọn Deed nào cung cấp điều kiện thù lao hấp dẫn hơn, thuộc thành phố hấp dẫn hơn, vv.
 
-On their end, the Deeds’ holders/renters can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
+Gười nắm giữ/nhà cho các Deed có thể tìm kiếm các kỹ năng liên quan bằng cách sử dụng mạng lưới danh tính lao động kỹ thuật số WoM (mà người dùng đã quyết định tiết lộ). Họ sẽ có thể tìm kiếm kỹ năng hiệu quả hơn. Họ sẽ có thể tìm nguồn kỹ năng một cách hiệu quả hơn, dựa trên thông tin được xác minh và chi tiết về lịch sử làm việc, kỹ năng làm việc và mức độ tham gia của người dùng.
 
-## 4.5. Tangible and transparent recognition
+## 4.5. Dựa trên thông tin được xác minh và chi tiết về lịch sử làm việc
 
 Today, details on compensation and bonuses are obscure in many workplaces. Therefore, it is difficult for a person to compare his conditions to that of another and get a sense of a fair and unbiased treatment. Employees experience a lot of frustrations with the above.
 
@@ -54,7 +54,7 @@ Wallets are individual and blockchain based – when the user receives a reward 
 
 ## 4.6. Access to Web 3.0, cryptoeconomy and DEFI services
 
-As discussed above, the Work Metaverse opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
+Người dùng sẽ có thể chọn Deed nào cung cấp điều kiện thù lao hấp dẫn hơn, thuộc thành phố hấp dẫn hơn, vv.
 
 Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
 
