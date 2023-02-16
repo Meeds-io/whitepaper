@@ -1,10 +1,10 @@
-# 3. Meeds token – the Work Metaverse currency
+# 3. Có thể dịch sang tiếng Việt là "Token Meeds - đồng tiền của Thế giới ảo Work Metaverse
 
-The Work Metaverse is powered by its currency – the Meeds (MEED) token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
+Có thể dịch sang tiếng Việt là "Thế giới ảo Work Metaverse được hỗ trợ bởi đồng tiền Meeds (MEED) của nó. Có thể dịch sang tiếng Việt là "Meeds được sử dụng để thưởng cho người dùng (qua các chương trình tương tác), mua hàng tại cửa hàng, mua Giấy tờ tài sản, đầu tư để có lợi nhuận tài chính v. v.
 
-## 3.1. Tokenomics
+## 3.1. Kinh tế đồng token
 
-The Meeds **maximum supply is limited to 100 million tokens**, minted progressively. **Meeds are minted at the rate of 10 MEED per minute**. Vì thế, giới hạn đặt mệnh giá đầy đủ gần 20 năm (khi khoảng $10*60*24*365 = 5M$ Meeds được đặt mệnh mỗi năm).
+Có thể dịch sang tiếng Việt là "Tổng cung của Meeds **bị giới hạn tối đa là 100 triệu đồng token**, được sản xuất theo tiến độ. có thể dịch sang tiếng Việt là "**Meeds được sản xuất với tốc độ 10 MEED mỗi phút**. Vì thế, giới hạn đặt mệnh giá đầy đủ gần 20 năm (khi khoảng $10*60*24*365 = 5M$ Meeds được đặt mệnh mỗi năm).
 
 Vì thế, giới hạn đặt mệnh giá đầy đủ gần 20 năm (khi khoảng $10<0>60</0>24*365 = 5M$ Meeds được đặt mệnh mỗi năm). Trong đó, 4,5 triệu đơn vị đã được khóa trong hợp đồng két sắt với một chu kỳ vận dụng tuyến tính trong vòng 4 năm. Số tiền được in trước chủ yếu được sử dụng để mua bản quyền phần mềm, thanh toán chi phí pháp lý cho việc phát hành token.
 
@@ -81,12 +81,12 @@ The formula avoids favoring large holders in order to distribute Deeds more effi
 
 which leads to the following holding time for each class of holder :
 
-| **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| Common        | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| Uncommon      | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| Rare          | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| Legendary     | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| **Card Type**  | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
+| -------------- | ----------- | ---------------- | ----------------- | ---------------- |
+| Phổ biến       | 8 000 pts   | 25 days          | 49 days           | 9 months         |
+| Không phổ biến | 32 000 pts  | 100 days         | 6 months          | 3 years          |
+| Hiếm           | 50 000 pts  | 156 days         | 10 months         | 5 years          |
+| Huyền thoại    | 100 000 pts | 311 days         | 20 months         | 10 years         |
 
 ## 3.6. Meeds DAO governance
 
