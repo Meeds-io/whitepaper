@@ -1,6 +1,6 @@
 
 
-## Abstract
+## Tóm tắt
 
 Thị trường lao động hôm nay thiếu hiệu quả do chi phí giao dịch cao [^1][^2][^3] và tình trạng xung đột quan tâm giữa nhà tuyển dụng và nhân viên thường xuyên.
 
