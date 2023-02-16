@@ -13,14 +13,14 @@ WoM cuối cùng sẽ cung cấp một số lượng hạn chế của Tài sả
 
 Có bốn loại Hiến tại, mỗi loại cung cấp những khả năng khác nhau về số lượng người dùng, quyền bỏ phiếu trong một thành phố (xem 2.7) hoặc sức sản xuất Meeds, loại hiến tại quý giá nhất là mạnh mẽ nhất:
 
-| **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
-| ------------- | ------------- | ----------------- | ------------ | ---------------------- |
-| Common        | 100           | 1                 | ~ 90%        | 1                      |
-| Uncommon      | 1000          | 1.1               | ~ 9%         | 10                     |
-| Rare          | 10 000        | 1.3               | ~ 1%         | 100                    |
-| Legendary     | unlimited     | 2                 | < 0.1 %      | 1000                   |
+| **Deed Kiểu**  | **Số người dùng tối đa** | **Sức mỏ đúc** | **Sự khan hiếm** | **Quyền bỏ phiếu của thành phố** |
+| -------------- | ------------------------ | -------------- | ---------------- | -------------------------------- |
+| Phổ biến       | 100                      | 1              | ~ 90%            | 1                                |
+| Không phổ biến | 1000                     | 1.1            | ~ 9%             | 10                               |
+| Hiếm           | 10 000                   | 1.3            | ~ 1%             | 100                              |
+| Huyền thoại    | vô hạn                   | 2              | < 0.1 %          | 1000                             |
 
-## 2.3. Deeds ownership
+## 2.3. Sở hữu tài sản
 
 Một Giấy Chứng Nhận cho chủ sở hữu quyền sử dụng nó, cho thuê hoặc bán nó.
 
@@ -64,8 +64,8 @@ Chủ sở hữu hoặc người thuê của Hợp Đồng có thể giàu lên 
 - Khóa đào tạo
 - Thành viên của phòng tập gym
 - Gói nghỉ dưỡng
-- Lunch with a leader in the organization
-- Physical office space
+- Ăn trưa với một nhà lãnh đạo trong tổ chức"
+- Không gian văn phòng vật lý
 - V.v.
 
 Cửa hàng hoạt động qua sử dụng Meeds để Meeds được hoàn trả một phần về cho Deed.
@@ -120,34 +120,34 @@ Thêm nữa, các bộ kích hoạt đang được sắp đặt cho:
 
 Vì các Hành động được phần thưởng bằng Meeds và được khuyến khích chia sẻ lại như là phần thưởng cho người dùng dựa trên tích cực của họ - sự quan tâm của cả Hành động và người dùng được cân bằng trong một chu trình chia sẻ lợi nhuận tốt đẹp. Vì vậy, WoM cung cấp một mô hình làm việc mới, mà tái tạo mối quan hệ nhà tuyển dụng/nhân viên như một hợp tác.
 
-The “mintium” model is the first of a kind - it goes further than the traditional freemium one, as not only the services are free to use but both the organizations and their users are rewarded for using them.
+Mô hình "mintium" là một dạng đầu tiên - nó vượt xa mô hình freemium truyền thống, khi không chỉ các dịch vụ được sử dụng miễn phí mà cả tổ chức và người dùng của chúng được thưởng cho việc sử dụng chúng.
 
-## 2.7. Cities and governance
+## 2.7. Thành phố và quản trị
 
-In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
+Trong WoM, các Hành động sẽ được tạo ra dần dần bên trong các thành phố ảo. Chỉ có thành phố đầu tiên sẽ tồn tại từ đầu. Những thành phố khác sẽ được xây dựng dần dần, một sau một. Trong toàn bộ WoM, sẽ chỉ có 7 thành phố, mỗi thành phố bao gồm một số lượng cố định các Loại Giấy tờ tài sản.
 
-A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
+Một thành phố sẽ được xem là hoàn thành khi tất cả các Loại Giấy tờ tài sản của nó đã được sản xuất. Sau đó, việc sản xuất các Loại Giấy tờ tài sản của mỗi thành phố mới sẽ bắt đầu $2^n$ tháng sau khi Loại Giấy tờ tài sản cuối cùng của thành phố $n-1$ được sản xuất.
 
-| **City name** | **Deeds**   | **Available**        | **Common** | **Uncommon** | **Rare**  | **Legendary** |
-| ------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
-| 1: Tanit      | 100         | T0                   | 50         | 30           | 13        | 7             |
-| 2: Reshef     | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
-| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
-| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
+| **Tên thành phố** | **Các loại giấy tờ tài sản** | **Có sẵn**          | **Phổ biến** | **Không phổ biến** | **Hiếm**  | **Huyền thoại** |
+| ----------------- | ---------------------------- | ------------------- | ------------ | ------------------ | --------- | --------------- |
+| 1: Tanit          | 100                          | T0                  | 50           | 30                 | 13        | 7               |
+| 2: Reshef         | 1 000                        | Tanit + 4 tháng     | 600          | 300                | 94        | 6               |
+| 3: Ashtarte       | 10 000                       | Reshef + 8 tháng    | 6 000        | 3 000              | 995       | 5               |
+| 4: Melqart        | 100 000                      | Ashtarte + 16 tháng | 60 000       | 30 000             | 9 996     | 4               |
+| 5: Eshmun         | 1 000 000                    | Melqart + 32 tháng  | 600 000      | 300 000            | 99 997    | 3               |
+| 6: Kushor         | 10 000 000                   | Eshmum + 64 tháng   | 6 000 000    | 3 000 000          | 999 998   | 2               |
+| 7: Hammon         | 100 000 000                  | Kushor + 128 tháng  | 60 000 000   | 30 000 000         | 9 999 999 | 1               |
 
-A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
+Một thành phố là cách để các Loại Giấy tờ tài sản kết hợp với nhau và tạo ra một cộng đồng. Và kết quả là, có một danh tính nhất định liên quan đến cộng đồng đó. Đó cũng là một cách để cung cấp giá trị bổ sung cho người dùng của nó - giá trị vượt xa khả năng của một Loại Giấy tờ tài sản hoặc giá trị được tạo ra thông qua sự hợp tác giữa các Loại Giấy tờ tài sản.
 
-Each city has its own govenance and operates its own DAO where the city’s Deeds’ owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
+Mỗi thành phố có chính quyền riêng và điều hành DAO riêng, nơi chủ sở hữu các Loại Giấy tờ tài sản của thành phố có thể bầu cử hội đồng thành phố của mình, bỏ phiếu và thiết lập các quy tắc hoạt động của riêng mình, thêm các dịch vụ mới và hình thành thành phố của họ theo cách mà họ muốn và để tăng sức hấp dẫn của thành phố và giá trị của các Loại Giấy tờ tài sản kèm theo.
 
-For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add Meeds powered food services, vacations services, etc...
+Ví dụ, họ có thể thêm một phiên bản kỹ thuật số của thành phố của họ, những thứ tương ứng vật lý liên quan đến thành phố của họ (phòng họp trong các không gian cộng tác vật lý chẳng hạn), thêm dịch vụ ăn uống được cung cấp bởi Meeds, dịch vụ nghỉ dưỡng, vv...
 
-By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
+Theo mặc định (trừ khi thành phố bỏ phiếu khác), thu nhập từ việc cho thuê Giấy tờ tài sản sẽ bị "đánh thuế" bởi thành phố (5%) và Hiệp hội (3%) để khuyến khích sử dụng hiệu quả.
 
-Ownsership transactions (Deed’s sales) will also be taxed 6% :
+Các giao dịch chuyển nhượng tài sản (bán Giấy tờ tài sản) cũng sẽ được đánh thuế 6% :
 
-- 2.5% for the City,
-- 2.5% for the Association,
-- 1% for the original wallet that redeemed the Deed.
+- có thể dịch sang tiếng Việt là "2.5% cho thành phố
+- có thể dịch sang tiếng Việt là "2.5% cho Hiệp hội
+- có thể dịch sang tiếng Việt là "1% cho ví gốc đã đổi Giấy tờ tài sản.
