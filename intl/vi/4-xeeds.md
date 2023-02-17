@@ -44,19 +44,19 @@ Gười nắm giữ/nhà cho các Deed có thể tìm kiếm các kỹ năng li�
 
 ## 4.5. Dựa trên thông tin được xác minh và chi tiết về lịch sử làm việc
 
-Today, details on compensation and bonuses are obscure in many workplaces. Therefore, it is difficult for a person to compare his conditions to that of another and get a sense of a fair and unbiased treatment. Employees experience a lot of frustrations with the above.
+Hôm nay, thông tin chi tiết về bồi thường và thưởng thêm không rõ ràng ở nhiều nơi làm việc. Do đó, rất khó cho một người so sánh điều kiện của mình với người khác và có được cảm giác về một sự đối xử công bằng và không thiên vị. Nhân viên trải qua rất nhiều sự thất vọng với những điều trên.
 
-The WoM introduces an objective way to recognize achievements and reward them.
+WoM giới thiệu một cách khách quan để công nhận thành tích và thưởng cho chúng.
 
-Engagement recognition and reward mechanism is transparent and applies fairly to all users, following the same explicit rules, decided in advance and aligned with the Deed’s goals.
+Cơ chế nhận diện và thưởng thức quyền tham gia là minh bạch và áp dụng công bằng đối với tất cả người dùng, tuân thủ cùng các quy tắc rõ ràng, được quyết định trước và phù hợp với mục tiêu của Loại Giấy tờ tài sản.
 
-Wallets are individual and blockchain based – when the user receives a reward or earns a badge, it cannot be taken back or erased.
+Wallets là cá nhân và dựa trên blockchain - khi người dùng nhận được phần thưởng hoặc kiếm được huy hiệu, nó không thể bị lấy lại hoặc xóa bỏ.
 
-## 4.6. Access to Web 3.0, cryptoeconomy and DEFI services
+## 4.6. Truy cập đến Web 3.0, kinh tế mật mã và các dịch vụ DEFI
 
 Người dùng sẽ có thể chọn Deed nào cung cấp điều kiện thù lao hấp dẫn hơn, thuộc thành phố hấp dẫn hơn, vv.
 
-Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
+Thực sự, bất kỳ quyền tham gia công việc nào cũng có thể được mã hóa thành token. Trên thực tế, thế giới đang ngày càng trở nên số hóa hơn với các xu hướng như 5G, iot, thiết bị đeo và nhiều hơn nữa. Do đó, tiềm năng là có thể bắt giữ và phân tích được nhiều tín hiệu hơn để tạo mã hóa sự tham gia của các nghề không kỹ thuật số. Thử thách cung cấp một cách sẵn sàng để mã hóa bằng cách đại diện cho những thành tựu trong thế giới vật lý.
 
 Any user can get Meeds and use a Meeds wallet to get access to new age services without any special training.
 
