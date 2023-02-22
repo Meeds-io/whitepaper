@@ -1,41 +1,41 @@
 
 
-## Abstract
+## บทคัดย่อ
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
+ตลาดแรงงานปัจจุบันขาดประสิทธิภาพเนื่องจากค่าธรรมเนียมการทำธุรกรรมสูง[^1][^2][^3] และการขัดแย้งที่เกิดบ่อยครั้งระหว่างนายจ้างและลูกจ้าง
 
-The Work Metaverse (the WoM) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
+เวิร์กเมทาเวิร์ส (the WoM) เสนอแนวคิดใหม่ที่จะลดต้นทุนการทำธุรกิจและสร้างใหม่ความสัมพันธ์การจ้างงานโดยเชื่อมต่อระหว่างบริษัทแบบดั้งเดิมและ DAOs
 
-The WoM does that by introducing digital identities for both employer and employee and offering an innovative engagement reward system that would align their interests.
+WoM ทำงานนั้นโดยการนำเสนอเอกลักษณ์ดิจิทัลสำหรับผู้ว่าจ้างและลูกจ้างและให้ระบบรางวัลการมีส่วนร่วมที่น่าสนใจซึ่งจะสอดคล้องกับความสนใจของพวกเขา
 
-## Introduction
+## การแนะนำ
 
-The work market today is broken. It fails to satisfy both employees and employers.
+ตลาดงานวันนี้เสียหายลง ไม่สามารถทำให้พึงพอใจได้ทั้งผู้รับและผู้จ้าง
 
-On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
+ในด้านของพนักงาน มันยากที่จะหางานที่เหมาะสม ตลาดงานฝั่งผู้รับงานช่วยเหลือบางประเภทของบุคคลเท่านั้น ทำให้ทักษะที่ยอดเยี่ยมถูกทิ้งไว้ นี่เป็นเพราะการมีอคติของมนุษย์ - ทั้งเรื่องสีผิว อย่างต่อเนื่อง เพศ ความพิการ บุคคลที่เป็นคนขี้อาย และอื่นๆ ตลาดงานยังขาดความโปร่งใสในการตำแหน่งงานและเงื่อนไขการจ้างงาน
 
-Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
+เมื่อได้รับการจ้างงานแล้ว เสรีภาพส่วนตัวของพนักงานถูกละเมิดในการแลกกับค่าตอบแทน พนักงานมีส่วนร่วมน้อยในการกำหนดเวลาทำงาน สถานที่ทำงาน เนื้อหาการทำงาน หรือวิธีการทำงานของพวกเขา และการชดเชยของพวกเขาไม่เชื่อมโยงกับความคิดหมายหรือค่าความสำคัญจริง กฎการชดเชยขาดความโปร่งใสและเป็นที่รับรู้ว่าไม่ยุติธรรม นอกจากนี้การชดเชยและการก้าวหน้าในการเลื่อนขั้นอาชีพเชิงเงินตราขึ้นอยู่กับปัจจัยมนุษย์ - ความซื่อสัตย์และวัตถุประสงค์ที่ดีของผู้จัดการทันทีของพนักงาน
 
-Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
+ฝ่ายจ้างในอีกฝ่ายหนึ่ง ประสบความยากลำบากในการหาคน才และการจ้างความสามารถที่เหมาะสมและตรงตามเวลาสำหรับงาน ไม่มีวิธีที่เป็นตัวชี้วัดที่เป็น客꺼ณที่สุดในการรับรู้ทักษะของผู้สมัครหรือหาคนนอกกลุ่มผู้สมัครงานแบบดั้งเดิมของผู้จ้าง
 
-Employers also deal with the lack of loyalty from their employees and a high turnover, both of which, increase hiring and on-boarding costs.
+นายจ้างต้องเผชิญกับการขาดความซื่อสัตย์จากพนักงานและการมีอัตราการหมุนเวียนงานสูง ซึ่งทั้งคู่เพิ่มค่าในการจ้างงานและการอบรมใหม่
 
-Moreover, employers also face low engagement in their existing employees, leading to low creativity, productivity and innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
+นอกจากนี้ นายจ้างยังเผชิญหน้ากับการมีพนักงานที่มีความไร้ความรู้สึกต่องาน เมื่อเทียบกับสิ่งอื่น ทำให้มีความคิดสร้างสรรค์ ผลิตภัณฑ์ และนวัตกรรมต่ำลง ส่วนที่สองนี้ก็ทำให้เสียหายได้มากขึ้นในเศรษฐกิจปัจจุบันที่ต้องการงานที่มีความสามารถและความคิดสร้างสรรค์มากขึ้น
 
-All of the above boil down to high transaction costs and the exacerbated agent-principal problem[^4] :
+ทั้งหมดเหล่านี้ย่อยลงเป็นค่าธรรมเนียมการทำธุรกรรมสูงและปัญหาตัวแทน-หลักประกันที่รุนแรงขึ้น [^4]
 
-- With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element.
-- As to the agent-principal problem, it has been compounded by the increasing revenue and wealth gap between employees and shareholders and the rigidity of the employer-employee relationship.
+- ด้วยอินเทอร์เน็ตตลาดงานจึงเคลื่อนไหวเข้าสู่ความเป็นเอกชนกว่าเดิม และโปร่งใสขึ้นด้วยการโพสต์งานในเว็บไซต์งาน ไซต์อาชีพ และอื่นๆ แต่ค่าใช้จ่ายในการทำธุรกรรมยังสูงเกินไปในกรณีที่ไม่มีองค์ประกอบที่เป็นวัตถุประสงค์
+- เกี่ยวกับปัญหาตัวแทน-หลักการบริหาร เรื่องนี้ถูกสร้างขึ้นโดยความแตกต่างของรายได้และความรวยระหว่างพนักงานกับผู้ถือหุ้นที่เพิ่มขึ้นและความเข้มงวดของความสัมพันธ์ระหว่างนายจ้างและลูกจ้าง
 
-The WoM aims at solving both through a new decentralized work paradigm.
+WoM เป้าหมายที่จะแก้ไขทั้งสองด้วยรูปแบบการทำงานแบบได้รับมอบหมายที่แตกต่างกันใหม่
 
-Following R. Coase’s works[^5], most economists link the concept of enterprise with the necessity to mitigate transaction costs. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs[^6] started this process focusing on lowering the cost of transactions for capital sourcing and governance. The WoM aims at pushing this logic further by lowering the cost of work transactions. It proposes a decentralized world where jobs and skills matching could be done objectively, quickly and globally.
+ตามงานของ R. Coase[^5] ส่วนใหญ่นักเศรษฐศาสตร์เชื่อมโยงแนวคิดขององค์กรกับความจำเป็นในการลดต้นทุนการทำธุรกรรม อินเทอร์เน็ตและเร็ว ๆ นี้บล็อกเชนและเว็บ 3 เปิดโอกาสที่น่าตื่นเต้นในการลดค่าธรรมเนียมการทำธุรกรรมทุกที่ การปฏิวัติเศรษฐกิจและโดยเฉพาะการปฏิวัติองค์กรใหม่ DAO ครั้งแรกเริ่มกระบวนการนี้โดยให้ความสำคัญกับการลดต้นทุนของการทำธุรกรรมสำหรับการเรียกเงินทุนและการปกครอง (governance) โครงการ WoM มีเป้าหมายที่จะขับเคลื่อนตรรกะนี้ไปอีกขั้นโดยลดต้นทุนของธุรกรรมงาน โครงการนี้มีแนวคิดของโลกที่กระจายและที่งานและทักษะสามารถจับคู่ได้อย่างเที่ยงตรง รวดเร็ว และทั่วโลก
 
-The first DAOs flatten the hierarchies and open ownership. The WoM pursues this logic by reinventing rather than suppressing the employer/employee relationship. It introduces a transparent, objective and decentralized reward paradigm, that would sustainably align the employer and the employee interests.
+DAOs แรกๆ มีลักษณะที่กำลังจะทำลายการเป็นชั้นเข้ารหัสและเปิดเผยเจ้าของธุรกิจ โครงการ WoM กำลังมุ่งหวังที่จะนำตรรกะนี้ไปอีกขั้นโดยการเปลี่ยนแปลงความสัมพันธ์ระหว่างนายจ้างและลูกจ้างในทางที่ถูกต้อง มันนำเสนอแบบแผนรางวัลโปร Transparant, Objective และ Decentralized ที่จะช่วยให้นายจ้างและลูกจ้างสามารถทำงานร่วมกันได้อย่างยั่งยืน
 
-Finally, the Work Metaverse bridges the gap between corporations and the DAOs. On the other hand, it proposes sustainable ways to operate and create value for DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. Ultimately, the WoM could be among the first mainstream applications to democratize the use of the blockchain for every company and every employee – including non-digital ones.
+Work Metaverse ช่วยเชื่อมสะพานระหว่างบริษัทและ DAOs On the other hand, it proposes sustainable ways to operate and create value for DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. โดยสุดท้าย WoM อาจเป็นแอปพลิเคชันเมนสตรีมแรกที่ทำให้บล็อกเชนเป็นไปได้สำหรับบริษัทและพนักงานทุกคนรวมถึงผู้ไม่ได้ใช้เทคโนโลยีดิจิทัลด้วย
 
-As with any decentralized venture, the WoM proposal gains in value exponentially as more people use it. For that reason, founders took great care to encourage long term interest and avoid monopolizing the WoM benefits, whether short term or long term. It is an open paradigm, still to be built, and open to active creative participation from everyone.
+เช่นเดียวกับธุรกิจ Decentralized ใดๆ แนวโน้มของโครงการ WoM จะเพิ่มขึ้นอย่างเร็วเมื่อมีผู้ใช้งานมากขึ้น และ "เพื่อเหตุนี้ ผู้ก่อตั้งได้ใส่ใจในการส่งเสริมความสนใจในระยะยาวและหลีกเลี่ยงการสร้างการผลิตภัณฑ์ WoM ให้เกิดการผูกขาดสินค้าทั้งระยะสั้นและระยะยาว" มันเป็นแบบแผนที่เปิดกว้าง ยังไม่ได้สร้างขึ้น และเปิดรับการมีส่วนร่วมในการสร้างจากทุกคน
 
 
 [^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)
