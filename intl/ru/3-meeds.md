@@ -17,9 +17,9 @@ Minted Meeds выделяются для поощрения участия тр�
 
 - Пользователи (пользователи и держатели/арендаторы сделок) получают Meeds через вознаграждения за участие (модель mintium).
 - Строители (члены ассоциации и сообщества) получают средства через фонды ассоциации на строительство, эксплуатацию и улучшение WoM.
-- Investors mint Meeds through renting and buying of liquidity pools and staking Meeds.
+- Инвесторы майнят Миды посредством аренды и покупки пулов ликвидности и ставки Мидов.
 
-At the beginning, the builders get 30% of the allocation. The 70% are shared between the users and the investors. This allocation proportion will be reviewed on a regular basis, through the Meeds association DAO vote.
+В начале строители получают 30% ассигнований. The 70% are shared between the users and the investors. This allocation proportion will be reviewed on a regular basis, through the Meeds association DAO vote.
 
 ## 3.3. Users – minting through engagement
 
