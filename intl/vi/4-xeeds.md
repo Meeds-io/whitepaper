@@ -1,6 +1,6 @@
-# 4. Xeeds - Work Metaverse Individuals / users
+# 4. Thẻ số này có thể được cung cấp thông qua đối tác Visa và sử dụng một dòng tín dụng trong Usdc, bảo đảm bởi Meeds được stake
 
-## 4.1. Decentralized and self-sovereign models
+## 4.1. Thẻ này cũng có thể được sử dụng bởi các tổ chức để tài trợ cho ví của nhân viên, nhằm quản lý các khoản phúc lợi nhân viên như nhà hàng, phương tiện giao thông và bất kỳ loại chi phí nào
 
 WoM công nhận quyền riêng tư là một quyền cơ bản của con người và cho phép người dùng sở hữu dữ liệu của mình.
 
@@ -58,7 +58,7 @@ Người dùng sẽ có thể chọn Deed nào cung cấp điều kiện thù la
 
 Thực sự, bất kỳ quyền tham gia công việc nào cũng có thể được mã hóa thành token. Trên thực tế, thế giới đang ngày càng trở nên số hóa hơn với các xu hướng như 5G, iot, thiết bị đeo và nhiều hơn nữa. Do đó, tiềm năng là có thể bắt giữ và phân tích được nhiều tín hiệu hơn để tạo mã hóa sự tham gia của các nghề không kỹ thuật số. Thử thách cung cấp một cách sẵn sàng để mã hóa bằng cách đại diện cho những thành tựu trong thế giới vật lý.
 
-Any user can get Meeds and use a Meeds wallet to get access to new age services without any special training.
+Bất kỳ người dùng nào đều có thể nhận được Meeds và sử dụng ví Meeds để truy cập các dịch vụ thời đại mới mà không cần đào tạo đặc biệt.
 
-[^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
-[^8]: Verifiable Credentials Data Model
+[^7]: A.Preukschatt, R. Drummond" Chủ thể tự chủ."
+[^8]: Mô hình dữ liệu Xác thực được xác minh
