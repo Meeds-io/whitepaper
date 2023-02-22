@@ -44,57 +44,57 @@ To begin with, the following free services provided by the Meeds association can
 - **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
 - **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
 - **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
-- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
-- **Analytics** – to analyze and follow engagement within the Deed.
-- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
+- **Store** – Isang tindahan kung saan ang mga Meeds ay maaaring palitan laban sa mga pribilehiyo na ibinibigay ng may-ari o nagpaparenta ng Deed o ng Meeds ecosystem.
+- **Analytics** – Upang suriin at sundan ang pakikisangkot sa loob ng Gawaing-Panlahat.
+- **Connectors**, Nakakabit sa reward engine - makakakuha ng engagement points ang mga user sa pamamagitan ng mga aksyon sa ibang software - halimbawa sa paglalagay ng code sa GitHub.
 
-Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
+Ang ilan sa mga nabanggit na kasangkapan at serbisyo ay nakadisenyo na, habang ang iba naman ay hindi pa. Ang pangunahing layunin ay magbigay ng lahat ng serbisyo sa pamamaraang hindi sentralisado, na gagawin namin nang dahan-dahan habang nagbabago ang teknolohiya sa likod nito.
 
-New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
+Ang mga bagong serbisyo ay maaaring ikabit sa reward engine sa pamamagitan ng mga API. Ang mga halimbawa ay walang katapusan at maaaring maglaman ng kahit anong software o serbisyo:
 
-- CRM software – salespeople would get engagement points for working on opportunities.
-- Accounting software – accountants would get engagement points for keeping books.
-- Clocking terminal – factory worker can get points for factory work time.
-- Etc.
+- Ang CRM software – bibigyan ng mga puntos sa pakikipag-ugnayan ang mga salespeople kapag nagtrabaho sa mga oportunidad.
+- Software sa accounting - makakakuha ng mga puntos ng pakikisangkot ang mga accountant sa pagpapanatili ng mga libro.
+- Terminal ng pag-rekord ng oras - ang manggagawa sa pabrika ay makakakuha ng puntos para sa oras ng pagtatrabaho sa pabrika.
+- Wika pa.
 
-Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
+Bukod pa rito, ang pakikilahok na nabuo sa pamamagitan ng connector ay nakikiisa sa pandaigdigang markang pangangasiwa ng organisasyon na nagiging bahagi ng distribusyon ng pagmimintis ng Meeds, na inilarawan sa ibaba. Upang magawa iyon, kinakailangan na maipasok sa listahan ng mga pinapayagang konektor ng Meeds Association. Ang asosasyon ay nagrerepaso ng konektor, pumapayag sa kanyang algorithm at nag-aakma ng pagmamay-ari laban sa Meeds. Ito ay naging bahagi ng libreng serbisyo na ibinibigay ng asociasyon at kasama sa global engagement index. Maaaring gamitin ng anumang ibang Deed ang parehong connector at reward algorithm para sa kanilang mga developer.
 
-The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
+Ang may hawak o nagrerenta ng Deed ay maaring magdagdag ng sarili nitong mga benepisyo sa kanyang tindahan, kumonekta sa online na mga alok ng benepisyo atbp. Muli, ang mga posibilidad ay walang katapusan:
 
-- Training courses
-- Gym memberships
-- Vacation packages
-- Lunch with a leader in the organization
-- Physical office space
-- Etc.
+- Mga kurso sa pagsasanay
+- Mga membership sa gym
+- Mga pakete ng bakasyon
+- Tanghalian kasama ang pinuno sa organisasyon
+- Espasyong pisikal ng opisina
+- Wika pa.
 
-The store functions through the use of Meeds so that Meeds are partially returned to the Deed.
+Ang tindahan ay gumagana sa pamamagitan ng paggamit ng Meeds upang bahagyang ibalik sa Deed ang Meeds.
 
-## 2.5. Rewards – Meeds and other tokens
+## 2.5. Mga gantimpala - Mga pangangailangan at iba pang mga tanda ng pagkilala
 
-The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs. Indeed, each Deed can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
+Ang WoM ay magtatokenize ng kaguluhan ng mga user sa pamamagitan ng paglalaro ng digital na mga tool sa trabaho, at pagbibigay ng mga puntos at Meeds ayon sa kaguluhan sa trabaho. Ang mga serbisyo na nakakabit sa engine ng kaginhawahan at gantimpala ay nagbibigay ng puntos sa bawat gumagamit, ayon sa antas ng kanilang pakikisangkot at naaayon sa mga programa ng pakikisangkot ng bawat Gawain. Sa katunayan, bawat Gawain ay maaaring ayusin ang dami ng puntos na ibibigay para sa bawat uri ng aktibidad. Kaya, ang paglalagay ng code sa GitHub ay maaaring nagkakahalaga ng 10 puntos para sa isang tindahan ng IT, habang maaaring magbigay lamang ng 5 puntos para sa mga pag-push sa GitHub ang isang digital na ahensiya ngunit mag-aalok ng 10 puntos para sa mga retweet.
 
-Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Deed is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
+Sa bawat panahon, ang nagbibigay ng gantimpala na makina ay nagpapalit ng engagement points sa Meeds batay sa mga badyet at iba pang mga patakaran sa pamamahagi at sa huli ay nagbibigay ng mga gantimpala sa mga user sa kanilang mga wallet. Hindi kinakailangan ang Deed upang maghatid ng Meeds at maaaring gamitin ang sistema ng pakikipag-ugnayan upang mag-enable ng ibang uri ng programa ng kompensasyon. Gayunpaman, ang pamamahagi ng Meeds ay magpapabuti sa kapasidad nito sa pagmimintis.
 
-Moreover, the Deed does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
+Bukod dito, hindi kinakailangan ng Deed na mag-akquire ng Meeds upang ipamahagi at mapagana ang mga programa nito sa pakikisangkot, dahil makakakuha ito ng Meeds mula sa "mintium" model, na ipinaliliwanag sa ibaba.
 
-In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
+Bukod kay Meeds, posible rin na mag-distribute ng ibang tokens (halimbawa, ang sariling mga tokens ng DAO) batay sa parehong mekanismo ng engagement. Sa ganitong kaso, ang pamamahagi ay magiging sakop ng 5% na bayad sa transaksyon (sa DAO token) para sa Meeds Association.
 
-## 2.6. The “mintium” model – tokenize work engagement
+## 2.6. Ang modelo ng "mintium" - pagbabahagi ng trabaho sa pag-engage
 
-By engaging their users in the WoM, Deeds get compensated through an innovative mintium model.
+Sa pamamagitan ng pakikipag-ugnayan sa kanilang mga gumagamit sa WoM, nakakakuha ng kumpensasyon ang mga Deeds sa pamamagitan ng isang imbensyong mintium modelo.
 
-Engagement points, gained by the Deeds’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Deeds. Even though the Deed can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
+Ang mga punto ng pakikilahok, na nakamit ng mga gumagamit ng Deeds, ay nakikilahok sa pandaigdigang index ng pakikilahok, na kinakalkula ng Meeds Association. Ang index ay gumagamit ng parehong prinsipyo para sa lahat ng mga Deeds. Kahit na maaaring baguhin ng Deed ang alokasyon ng mga puntos upang magpromote ng isang aksyon kaysa sa isa pa, hindi ito isasaalang-alang sa pagkalkula ng global na indeks.
 
-Each week, a certain amount of Meeds is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Deeds. Some Deeds get an additional boost depending on their type. The Deeds that claim their Meeds over the week, receive them. The unclaimed Meeds are added to the following week’s global distribution amount.
+Bawat linggo, mayroong tiyak na halaga ng Meeds na inilaan para sa global engagement minting ng WoM. Ito ay kinokompyuta sa linggong basis, pro-rata, sa mga nakikibahagi sa mga Gawain. May ilang gawain na nakakatanggap ng karagdagang tulong depende sa kanilang uri. Ang mga gawain na nag-aangkin ng kanilang bunga sa loob ng isang linggo, ay tatanggap ng mga ito. Ang hindi na-claim na Meeds ay idinadagdag sa kabuuang halaga ng pamamahagi sa susunod na linggo.
 
-The engagement score _S_  of a Deed is a function of the engagement, the number of engaged users and the distribution :
+Ang engagement score _S_  Ang tagumpay ng isang gawain ay depende sa pakikipag-ugnayan, bilang ng mga gumagamit na nakilahok at ang pagpapamahagi nito :
 
 $$S = (E_d / E_w) * D_r * D_s * M$$
 
-Where :
+Sa'n:
 
-- $A$ = _Activity_ - total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
+- $A$ = _Aktibidad_ - Kabuuang bilang ng mga aksyon na naipon ng mga gumagamit sa Deed sa loob ng isang linggo. (Sa bawat antas ng Gawain, bawat aksyon ay ginagawang mga puntos ng pakikilahok, kung saan may mga aksyon na mas mabigat kaysa sa iba. At the index level, all actions are linearized).
 - $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
 - $E_d$ = _Engagement rate of the deed_ - actions per user ($A/U$)
 - $E_w$ = _Average engagement rate_ of all active Deeds in the WoM.
