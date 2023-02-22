@@ -67,43 +67,43 @@ Các điểm được tính sử dụng công thức dưới đây:
 
  ở đâu:
 
-- $xMeeds$ : xMeeds balance  with no decimals
-- $T$ : Time elapsed in milliseconds
+- $xMeeds$ : Cân bằng Xmeeds không có số thập phân
+- $T$ : Thời gian trôi qua tính bằng mili giây
 
-The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably. For example, the formula gives the following rates :
+Công thức tránh thiên vị những người nắm giữ lớn để phân phối Deeds một cách hiệu quả và công bằng hơn. Ví dụ, công thức cung cấp các tỷ lệ sau đây:
 
-| **Holder Size** | **Holdings**   | **Accrue Rate** |
-| --------------- | -------------- | --------------- |
-| Small           | 1 000 xMeeds   | 28 pts/day      |
-| Medium          | 10 000 xMeeds  | 164 pts/day     |
-| Large           | 100 000 xMeeds | 321 pts/day     |
+| **Kích thước của giá đỡ** | **Cổ phần**    | **Cổ phần**  |
+| ------------------------- | -------------- | ------------ |
+| Nhỏ                       | 1 000 xMeeds   | 28 pts/ngày  |
+| Trung bình                | 10 000 xMeeds  | 164 pts/ngày |
+| Lớn                       | 100 000 xMeeds | 321 pts/ngày |
 
 
-which leads to the following holding time for each class of holder :
+điều này dẫn đến thời gian giữ của mỗi loại chủ sở hữu như sau:
 
-| **Card Type**  | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
-| -------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| Phổ biến       | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| Không phổ biến | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| Hiếm           | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| Huyền thoại    | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| **Loại thẻ**   | **Chi phí**  | **Chủ sở hữu lớn** | **Người giữ giữa** | **Người nông dân chủ yếu có quy mô nhỏ** |
+| -------------- | ------------ | ------------------ | ------------------ | ---------------------------------------- |
+| Phổ biến       | 8 000 điểm   | 25 ngày            | 49 ngày            | 9 tháng                                  |
+| Không phổ biến | 32 000 điểm  | 100 ngày           | 6 tháng            | 3 năm                                    |
+| Hiếm           | 50 000 điểm  | 156 ngày           | 10 tháng           | 5 năm                                    |
+| Huyền thoại    | 100 000 điểm | 311 ngày           | 20 tháng           | 10 năm                                   |
 
-## 3.6. Meeds DAO governance
+## 3.6. Quản trị DAO của Meeds
 
-Meeds token holders need to stake tokens in order to vote on the Meeds DAO decisions such as managing the minting budget or electing DAO board members (annual mandate).
+Người nắm giữ token Meeds cần gạch đặt token để bỏ phiếu cho các quyết định của Meeds DAO như quản lý ngân sách sản xuất hoặc bầu cử thành viên Hội đồng quản trị DAO (nhiệm kỳ hàng năm).
 
-## 3.7. Decentralized finance (DeFi) user services
+## 3.7. Các dịch vụ người dùng tài chính phi tập trung (DeFi)
 
-The Work Metaverse will introduce the blockchain world to many people who do not use it today.
+Thế giới làm việc Metaverse sẽ giới thiệu thế giới blockchain đến với nhiều người không sử dụng nó hiện nay.
 
-Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
+Thật vậy, bất kỳ công việc nào (có hoặc không có liên quan đến công nghệ số) đều có thể trở thành trò chơi và bất kỳ tương tác nào cũng có thể được thưởng bằng Meeds. Meeds được cung cấp cho người dùng thông qua một ví dễ sử dụng dựa trên blockchain, giúp "trừu tượng hóa" bất kỳ phức tạp nào của thế giới tiền điện tử đối với người dùng trung bình.
 
-Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
+Ngoài ví và cửa hàng mua phúc lợi bằng Meeds, chúng tôi có kế hoạch giới thiệu cho mỗi người dùng một số sản phẩm cuối cùng được cung cấp bởi các giao thức Tài chính Phi tập trung, chẳng hạn như:
 
-- The ability to stake Meeds tokens and get yields (generate revenues)
-- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
-- A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. This card could also be used by organizations to fund employee wallets in order to manage employee benefits such as restaurants, transportation and any type of expenses.
+- Khả năng đặt cược token Meeds và có lợi nhuận (tạo doanh thu)
+- Khả năng sử dụng token Meeds làm tài sản thế chấp để vay tiền đồng ổn định như USDC (tận dụng trước một [Hồ chứa phụ kiện.](https://app.rari.capital/fuse)au đó đăng ký mã thông báo Meeds để.[AAVE](https://aave.com/).
+- Một thẻ số có thể được thêm và sử dụng thông qua Apple Pay, Google Pay hoặc bất kỳ máy ATM nào. Thẻ số này có thể được cung cấp thông qua đối tác VISA và sử dụng một dòng tín dụng trong USDC, bảo đảm bởi Meeds được stake. Thẻ này cũng có thể được sử dụng bởi các tổ chức để tài trợ cho ví của nhân viên, nhằm quản lý các khoản phúc lợi nhân viên như nhà hàng, phương tiện giao thông và bất kỳ loại chi phí nào.
 
-So not only many new users will discover the blockchain world, they will also discover a bankless world.
+Một thẻ số có thể được thêm và sử dụng thông qua Apple Pay, Google Pay hoặc bất kỳ máy Atm nào.
 
  
