@@ -1,41 +1,41 @@
 
 
-## Abstract
+## Περίληψη
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
+Η σημερινή αγορά εργασίας στερείται αποτελεσματικότητας λόγω του υψηλού κόστους συναλλαγών[^1][^2][^3] και των συχνών συγκρούσεων συμφερόντων μεταξύ εργοδότη και εργαζομένου.
 
-The Work Metaverse (the WoM) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
+Το Work Metaverse (WoM) προτείνει ένα νέο παράδειγμα που θα μειώσει το κόστος συναλλαγών και θα επανεφεύρει τη σχέση εργασίας, γεφυρώνοντας το χάσμα μεταξύ των παραδοσιακών εταιρειών και των DAOs.
 
-The WoM does that by introducing digital identities for both employer and employee and offering an innovative engagement reward system that would align their interests.
+Το WoM το επιτυγχάνει αυτό εισάγοντας ψηφιακές ταυτότητες τόσο για τον εργοδότη όσο και για τον εργαζόμενο και προσφέροντας ένα καινοτόμο σύστημα ανταμοιβής της δέσμευσης που θα ευθυγραμμίζει τα συμφέροντά τους.
 
-## Introduction
+## Εισαγωγή
 
-The work market today is broken. It fails to satisfy both employees and employers.
+Η αγορά εργασίας σήμερα είναι διαλυμένη. Αποτυγχάνει να ικανοποιήσει τόσο τους εργαζόμενους όσο και τους εργοδότες.
 
-On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
+Από την πλευρά των εργαζομένων, είναι δύσκολο να βρεθούν οι σωστές θέσεις εργασίας. Η αγορά εργασίας ευνοεί ορισμένους τύπους ατόμων, αφήνοντας πίσω μεγάλα σύνολα δεξιοτήτων. Αυτό προέρχεται από ένα σύνολο ανθρώπινων προκαταλήψεων - με βάση τη φυλή, το φύλο, την αναπηρία, την εσωστρέφεια κ. λπ. Η αγορά εργασίας στερείται επίσης διαφάνειας όσον αφορά τις διαθέσιμες θέσεις και τις συνθήκες απασχόλησης.
 
-Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
+Μόλις προσληφθούν, οι προσωπικές ελευθερίες των εργαζομένων παραβιάζονται με αντάλλαγμα την αποζημίωση. Οι εργαζόμενοι έχουν ελάχιστο λόγο για τις ώρες εργασίας τους, το χώρο εργασίας, το περιεχόμενο της εργασίας ή τις μεθόδους εργασίας. Και η αποζημίωσή τους σπάνια συνδέεται με τις πραγματικές επιπτώσεις ή την αξία τους. Οι κανόνες αποζημίωσης στερούνται διαφάνειας και, ως εκ τούτου, θεωρούνται άδικοι. Επιπλέον, η αποζημίωση και η εξέλιξη της σταδιοδρομίας εξαρτώνται επίσης από τον ανθρώπινο παράγοντα - την καλή πίστη και την αντικειμενικότητα του άμεσου διευθυντή του εργαζομένου.
 
-Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
+Οι εργοδότες, από την άλλη πλευρά, αντιμετωπίζουν δυσκολίες στην εξεύρεση ταλέντων και στην πρόσληψη των κατάλληλων δεξιοτήτων και του κατάλληλου ατόμου που ταιριάζει στη σωστή στιγμή για τη θέση εργασίας. Δεν υπάρχει αντικειμενικός τρόπος να διαπιστωθούν οι δεξιότητες του υποψήφιου μισθωτού ή να βρεθούν άτομα εκτός της παραδοσιακής δεξαμενής προσλήψεων του εργοδότη.
 
-Employers also deal with the lack of loyalty from their employees and a high turnover, both of which, increase hiring and on-boarding costs.
+Οι εργοδότες αντιμετωπίζουν επίσης την έλλειψη αφοσίωσης από τους υπαλλήλους τους και τον υψηλό κύκλο εργασιών, τα οποία αυξάνουν το κόστος πρόσληψης και επιβίβασης.
 
-Moreover, employers also face low engagement in their existing employees, leading to low creativity, productivity and innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
+Επιπλέον, οι εργοδότες αντιμετωπίζουν επίσης χαμηλή δέσμευση των υφιστάμενων εργαζομένων τους, γεγονός που οδηγεί σε χαμηλή δημιουργικότητα, παραγωγικότητα και καινοτομία. Το τελευταίο προκαλεί ακόμη μεγαλύτερη ζημιά στη σημερινή οικονομία που απαιτεί πιο εξειδικευμένη δημιουργική εργασία.
 
-All of the above boil down to high transaction costs and the exacerbated agent-principal problem[^4] :
+Όλα τα παραπάνω καταλήγουν στο υψηλό κόστος συναλλαγών και στο επιδεινούμενο πρόβλημα πράκτορα-πρωταγωνιστή[^4] :
 
-- With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element.
-- As to the agent-principal problem, it has been compounded by the increasing revenue and wealth gap between employees and shareholders and the rigidity of the employer-employee relationship.
+- Με το Διαδίκτυο, οι αγορές εργασίας εξελίχθηκαν προς την κατεύθυνση της μεγαλύτερης ενότητας και διαφάνειας χάρη στις ιστοσελίδες δημοσίευσης θέσεων εργασίας, τις ιστοσελίδες καριέρας κ. λπ. Αλλά το κόστος συναλλαγών εξακολουθεί να είναι πολύ υψηλό ελλείψει του στοιχείου της αντικειμενικότητας.
+- Όσον αφορά το πρόβλημα πράκτορα-πρωταγωνιστή, αυτό έχει επιδεινωθεί από το αυξανόμενο χάσμα εσόδων και πλούτου μεταξύ εργαζομένων και μετόχων και την ακαμψία της σχέσης εργοδότη-εργαζομένου.
 
-The WoM aims at solving both through a new decentralized work paradigm.
+Το WoM στοχεύει στην επίλυση και των δύο μέσω ενός νέου αποκεντρωμένου προτύπου εργασίας.
 
-Following R. Coase’s works[^5], most economists link the concept of enterprise with the necessity to mitigate transaction costs. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs[^6] started this process focusing on lowering the cost of transactions for capital sourcing and governance. The WoM aims at pushing this logic further by lowering the cost of work transactions. It proposes a decentralized world where jobs and skills matching could be done objectively, quickly and globally.
+Ακολουθώντας τα έργα του R. Coase[^5], οι περισσότεροι οικονομολόγοι συνδέουν την έννοια της επιχείρησης με την ανάγκη μετριασμού του κόστους συναλλαγών. Το διαδίκτυο και πιο πρόσφατα το blockchain και το web3 ανοίγουν συναρπαστικές δυνατότητες για τη μείωση του κόστους συναλλαγών παντού, την επανεφεύρεση της οικονομίας και ειδικότερα την επανεφεύρεση της επιχείρησης. Οι πρώτες DAOs[^6] ξεκίνησαν αυτή τη διαδικασία εστιάζοντας στη μείωση του κόστους των συναλλαγών για την εξεύρεση κεφαλαίων και τη διακυβέρνηση. Το WoM στοχεύει στην περαιτέρω προώθηση αυτής της λογικής μειώνοντας το κόστος των συναλλαγών εργασίας. Προτείνει έναν αποκεντρωμένο κόσμο όπου η αντιστοίχιση θέσεων εργασίας και δεξιοτήτων θα μπορούσε να γίνει αντικειμενικά, γρήγορα και σε παγκόσμιο επίπεδο.
 
-The first DAOs flatten the hierarchies and open ownership. The WoM pursues this logic by reinventing rather than suppressing the employer/employee relationship. It introduces a transparent, objective and decentralized reward paradigm, that would sustainably align the employer and the employee interests.
+Οι πρώτες DAOs ισοπεδώνουν τις ιεραρχίες και ανοίγουν την ιδιοκτησία. Το WoM επιδιώκει αυτή τη λογική επανεφευρίσκοντας και όχι καταστέλλοντας τη σχέση εργοδότη/εργαζόμενου. Εισάγει ένα διαφανές, αντικειμενικό και αποκεντρωμένο πρότυπο ανταμοιβής, το οποίο θα ευθυγραμμίζει βιώσιμα τα συμφέροντα του εργοδότη και των εργαζομένων.
 
-Finally, the Work Metaverse bridges the gap between corporations and the DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. On the other hand, it proposes sustainable ways to operate and create value for DAOs. Ultimately, the WoM could be among the first mainstream applications to democratize the use of the blockchain for every company and every employee – including non-digital ones.
+Τέλος, το Work Metaverse γεφυρώνει το χάσμα μεταξύ των εταιρειών και των DAOs. Από τη μία πλευρά, εισάγει τις παραδοσιακές εταιρείες στον αποκεντρωμένο κόσμο μέσω ενός εύκολα εφαρμόσιμου παραδείγματος επιβράβευσης της δέσμευσης, το οποίο συμπληρώνει τα συστήματα αποζημίωσής τους. Από την άλλη πλευρά, προτείνει βιώσιμους τρόπους λειτουργίας και δημιουργίας αξίας για τις ΔΑΟ. Τελικά, το WoM θα μπορούσε να είναι μία από τις πρώτες mainstream εφαρμογές που θα εκδημοκρατίσουν τη χρήση της αλυσίδας μπλοκ για κάθε εταιρεία και κάθε εργαζόμενο - συμπεριλαμβανομένων των μη ψηφιακών.
 
-As with any decentralized venture, the WoM proposal gains in value exponentially as more people use it. For that reason, founders took great care to encourage long term interest and avoid monopolizing the WoM benefits, whether short term or long term. It is an open paradigm, still to be built, and open to active creative participation from everyone.
+Όπως συμβαίνει με κάθε αποκεντρωμένο εγχείρημα, η πρόταση WoM αποκτά εκθετική αξία όσο περισσότεροι άνθρωποι τη χρησιμοποιούν. Για το λόγο αυτό, οι ιδρυτές φρόντισαν να ενθαρρύνουν το μακροπρόθεσμο ενδιαφέρον και να αποφύγουν τη μονοπώληση των πλεονεκτημάτων του WoM, είτε βραχυπρόθεσμα είτε μακροπρόθεσμα. Πρόκειται για ένα ανοιχτό παράδειγμα, το οποίο δεν έχει ακόμη οικοδομηθεί και είναι ανοιχτό στην ενεργό δημιουργική συμμετοχή όλων.
 
 
 [^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)
