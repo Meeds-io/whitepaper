@@ -81,12 +81,12 @@ The formula avoids favoring large holders in order to distribute Deeds more effi
 
 which leads to the following holding time for each class of holder :
 
-| **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| Common        | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| Uncommon      | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| Rare          | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| Legendary     | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| **Card Type**   | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
+| --------------- | ----------- | ---------------- | ----------------- | ---------------- |
+| Karaniwan       | 8 000 pts   | 25 days          | 49 days           | 9 months         |
+| Hindi karaniwan | 32 000 pts  | 100 days         | 6 months          | 3 years          |
+| Biyaya          | 50 000 pts  | 156 days         | 10 months         | 5 years          |
+| Alamat          | 100 000 pts | 311 days         | 20 months         | 10 years         |
 
 ## 3.6. Meeds DAO governance
 
