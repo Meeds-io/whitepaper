@@ -8,39 +8,39 @@ It will be populated by users, acting through their digital identities **Xeeds**
 
 Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the metaverse, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
 
-The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
+The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. WoM ยังช่วยให้การกระจายโทเค็นอื่นๆ และเข้าร่วมในระบบคริปโตโดยรวมได้
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
+เนื่องจากภาพมีค่าพันคำ ดังนั้นนี่คือแผนภาพที่อธิบายการไหลของ WoM และ Meeds
 
-![WoM and Meeds flows](en/img/wom-flows.png)
+![การไหลของ WoM และ Meeds](en/img/wom-flows.png)
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
+การรักษาโลกและการอยู่รอดในระยะยาวจะได้รับการรับประทานผ่านภาษีที่แบ่งกันระหว่างสมาคม Meeds และเมือง
 
-## 5.2. What’s in it for early adopters
+## 5.2. ประโยชน์ที่ได้รับสำหรับผู้นำการใช้งานเร็ว
 
-Obviously, early adopters would get considerable advantages over the late comers.
+อย่างชัดเจนว่าผู้นำการใช้งานเร็วจะได้รับประโยชน์สูงกว่าผู้มาช้า
 
-In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
+โดยเฉพาะอย่างยิ่ง WoM จะให้รางวัลการลงทุนในระยะยาวในส่วนเอกสิทธิ์ - นั่นคือการแลก Deeds เจ้าของ Deed ต้นฉบับจะได้รับค่าชดเชยผ่านการทำธุรกรรม (การใช้งานแบบใช้งาน), ผ่านรายได้จากการเช่าและได้รับ 1% เป็นเวลานานตลอดชีวิตเมื่อมีการขาย Deed (ทุกครั้งที่มีการเปลี่ยนเจ้าของ ผู้แลก Deed เดิมจะได้รับค่าธรรมเนียมในการทำธุรกรรม)
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the metaverse.
+โดยการเชื่อมั่นในโครงการ การเข้าร่วมในสระน้ำเงินสด การเปิดตัว Meeds การแลก Deeds... นักลงทุนในช่วงแรกทุกขนาดจะได้รับโทเค็นเพิ่มเติม พวกเขายังจะได้รับสิทธิ์ในการลงคะแนนเลือกตั้งในช่วงต้นๆและช่วยกำหนดรูปแบบเมตาเวิร์ส
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
+องค์กรที่ได้รับการสร้างและใช้ Deeds เพื่อเชื่อมโยงและรางวัลพนักงานของพวกเขาจะได้รับค่าตอบแทนในรูปแบบ Meeds ที่รับการผลิต เล่นเทียบเท่ากับเท่าไหร่เท่านั้นที่พวกเขาจะได้รับ ผู้นำการรับใช้ก่อนจะเกี่ยวข้องกับเมืองประวัติศาสตร์คนแรกและจะระบุตัวเองว่าเป็นผู้สร้างภายหลัง
 
-The diagram below represents an example of the Meeds investment strategy for capital holders :
+แผนภูมิด้านล่างแสดงตัวอย่างของกลยุทธ์การลงทุน Meeds สำหรับเจ้าของทุน
 
-![Meeds investment strategy for capital holders](en/img/invest-capital.png)
+![กลยุทธ์การลงทุน Meeds สำหรับเจ้าของทุน](en/img/invest-capital.png)
 
-Organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
+องค์กรสามารถเข้าร่วมบ่มเพลิงเงินสดได้แน่นอน แต่ยังสามารถเข้าร่วมกลุ่มผู้สร้างและได้รับการตอบแทนเพิ่มเติมได้ที่นั่น
 
-The diagram below represents an example of the Meeds investment strategy for work holders :
+แผนภูมิด้านล่างแสดงตัวอย่างของกลยุทธ์การลงทุน Meeds สำหรับเจ้าของทำงาน :
 
-![Meeds investment strategy for work holders](en/img/invest-work.png)
+![กลยุทธ์การลงทุน Meeds สำหรับเจ้าของทำงาน](en/img/invest-work.png)
 
-## 5.3. The launch
+## 5.3. เปิดตัว
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+วันเปิดตัวอย่างเป็นทางการถูกตั้งเป็นวันที่ **1 พฤษภาคม 2022** - วันแรงงานนานาชาติที่ถูกเฉลิมฉลองในหลายประเทศ
 
-At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
+ในขณะนั้น Meed token มีอยู่แล้ว สามารถเข้าถึงและเข้าร่วม liquidity pools บนเครือข่าย Polygon และ Ethereum ได้
 
 Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
 
