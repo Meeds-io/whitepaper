@@ -1,42 +1,42 @@
 
-# 2. Deeds NFT - Work Metaverse Organizations
+# 2. Deeds NFT - Trabaho sa mga Organisasyon ng Metaverse
 
-## 2.1. NFT – Deeds defined
+## 2.1. NFT - Mga Gawaing Naka-define
 
-A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+Ang non-fungible token (NFT) ay isang natatanging token na kumakatawan sa isang kalakal. Sa WoM, isang Deed ay ginagamit bilang pamagat ng pagmamay-ari. Ang bawat Deed ay nagbibigay ng karapatan sa may-ari nito na mag-access sa ilang mga serbisyo - halimbawa, pag-access sa isang digital na opisina, na pinapagana ng Meeds software at ang karapatan na mag-mint ng Meeds.
 
-The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM.
+Ang WoM ay nag-aabang ng lahat ng uri ng mga organisasyon - mga DAO, tradisyunal na mga korporasyon, mga asosasyon, mga grupo ng mga isipan, mga kasosyo, mga kompanya ng teatro, mga grupo ng mga proyekto, mga paaralan, atbp. Ang Deed ay kumakatawan sa kanilang digital na pagkakaroon sa WoM.
 
-## 2.2. Deeds supply
+## 2.2. Mga Gawain ay nagbibigay ng suplay
 
-The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of Meeds rewarding (Minting Power). The term ‘user’ here and hereafter designates any type of employee, worker, freelancer, volunteer etc.
+Sa huli, ang WoM ay magbibigay ng limitadong bilang ng mga Gawain. Bawat Gawain ay mayroong itinakdang maximum na bilang ng mga user at nag-aalok ng kapasidad sa pagbibigay ng Meeds rewarding (Minting Power). Ang terminong 'user' dito at sa hinaharap ay tumutukoy sa anumang uri ng kawani, manggagawa, freelancer, boluntaryo, atbp.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
+Mayroong apat na uri ng Gawain, bawat isa ay nagbibigay ng iba't ibang kakayahan sa bilang ng mga user, karapatan sa pagboto sa isang lungsod (tingnan ang 2.7) o Meeds minting power, ang pinakamalakas na uri ay ang pinakamahalaga:
 
-| **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
-| ------------- | ------------- | ----------------- | ------------ | ---------------------- |
-| Common        | 100           | 1                 | ~ 90%        | 1                      |
-| Uncommon      | 1000          | 1.1               | ~ 9%         | 10                     |
-| Rare          | 10 000        | 1.3               | ~ 1%         | 100                    |
-| Legendary     | unlimited     | 2                 | < 0.1 %      | 1000                   |
+| **Uri ng Gawain** | **Maximum na bilang ng mga user** | **Minting power** | **Kakauntian** | **Mga karapatang bumoto sa lungsod** |
+| ----------------- | --------------------------------- | ----------------- | -------------- | ------------------------------------ |
+| Karaniwan         | 100                               | 1                 | ~ 90%          | 1                                    |
+| Hindi karaniwan   | 1000                              | 1.1               | ~ 9%           | 10                                   |
+| Biyaya            | 10 000                            | 1.3               | ~ 1%           | 100                                  |
+| Alamat            | walang hanggan                    | 2                 | < 0.1 %        | 1000                                 |
 
-## 2.3. Deeds ownership
+## 2.3. Pagmamay-ari ng mga titulo
 
-A Deed gives its owner the right to USE it, RENT it, or SELL it.
+Ang Titulo ay nagbibigay ng karapatan sa may-ari na GAMITIN ito, UPAHAN ito, o IPAGBILI ito.
 
-- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
-- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
-- SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
+- GAMIT - Ang may-ari ng Titulo ay maaaring direktang gumamit ng Titulo para sa kanilang organisasyon, nagbibigay ng serbisyo sa mga gumagamit nito.
+- UPANG KUMITA NG PASIBONG KITA - Ang mga may-ari ng Deed ay maaari rin itong iparenta sa ibang organisasyon upang kumita ng pasibong kita.
+- IBENTA - Ang isang Deed ay maaaring ibenta sa pangalawang merkado tulad ng [OpenSea](https://opensea.io).
 
-Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
+Bilang aktibong may-ari o nangungupahan ng Deed, binibigyan ng mga Meeds ang organisasyon sa pamamagitan ng isang inobatibong "mintium" modelo na ipinaliliwanag sa ibaba (bahagi 2.6).
 
-## 2.4. Deeds services, engagement/rewards engine
+## 2.4. Mga serbisyo ng Deed, engine ng paglahok/pagkilala
 
-In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
+Sa isang dumaraming kompetitibong merkado, upang mahikayat at mapanatili ang mga talento at mapagkukunan, kailangan ng mga organisasyon na magbigay ng insentibo sa kanilang mga gumagamit sa labas ng simpleng kumpensasyon. Ang WoM ay nagbibigay ng isang inobatibong balangkas upang gawin ito sa pamamagitan ng paggawang token sa pakikibahagi sa trabaho.
 
-Each Deed’s holder or renter can provide tools and services to its users, who earn engagement points that can be fine-tuned to the Deed’s priorities. Periodically, points are converted into Meeds (and - for DAOs - potentially another token), based on the Deed’s set budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
+Ang bawat may-ari o nangungupahan ng Deed ay maaaring magbigay ng mga tool at serbisyo sa kanilang mga gumagamit, na kumikita ng mga punto sa pakikibahagi na maaring ayusin sa mga prayoridad ng Deed. Paminsan-minsan, ang mga punto ay ginagawang Meeds (at - para sa DAOs - maaaring ibang token), base sa nakatakda ng badyet ng Deed. Sa ganitong paraan, ang pakikilahok ng mga gumagamit sa mga gawain na mahalaga sa organisasyon ay pinaparangalan.
 
-To begin with, the following free services provided by the Meeds association can be used to reward engagement:
+Una, ang mga sumusunod na libreng serbisyo na ibinibigay ng Meeds association ay maaaring gamitin upang bigyang-parangalan ang pakikilahok:
 
 - **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the Deed’s priorities via customizable engagement programs.
 - **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
@@ -128,15 +128,15 @@ In the WoM, Deeds will be generated gradually inside virtual cities. Only the fi
 
 A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
 
-| **City name** | **Deeds**   | **Available**        | **Common** | **Uncommon** | **Rare**  | **Legendary** |
-| ------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
-| 1: Tanit      | 100         | T0                   | 50         | 30           | 13        | 7             |
-| 2: Reshef     | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
-| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
-| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
+| **City name** | **Deeds**   | **Available**        | **Karaniwan** | **Hindi karaniwan** | **Biyaya** | **Alamat** |
+| ------------- | ----------- | -------------------- | ------------- | ------------------- | ---------- | ---------- |
+| 1: Tanit      | 100         | T0                   | 50            | 30                  | 13         | 7          |
+| 2: Reshef     | 1 000       | Tanit + 4 months     | 600           | 300                 | 94         | 6          |
+| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000         | 3 000               | 995        | 5          |
+| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000        | 30 000              | 9 996      | 4          |
+| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000       | 300 000             | 99 997     | 3          |
+| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000     | 3 000 000           | 999 998    | 2          |
+| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000    | 30 000 000          | 9 999 999  | 1          |
 
 A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
 
