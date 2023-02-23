@@ -81,29 +81,29 @@ The formula avoids favoring large holders in order to distribute Deeds more effi
 
 which leads to the following holding time for each class of holder :
 
-| **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| Uobičajen     | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| Neuobičajeno  | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| Rijetko       | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| Legendarno    | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| **Card Type** | **Cost**       | **Large Holder** | **Medium Holder** | **Small Holder** |
+| ------------- | -------------- | ---------------- | ----------------- | ---------------- |
+| Uobičajen     | 8 000 pts      | 25 days          | 49 days           | 9 months         |
+| Neuobičajeno  | 32 000 pts     | 100 dana         | 6 mjeseci         | 3 godine         |
+| Rijetko       | 50 000 bodova  | 156 dana         | 10 mjeseci        | 5 godine         |
+| Legendarno    | 100 000 bodova | 311 dana         | 20 mjeseci        | 10 godine        |
 
-## 3.6. Meeds DAO governance
+## 3.6. Vladanje Meeds DAO
 
-Meeds token holders need to stake tokens in order to vote on the Meeds DAO decisions such as managing the minting budget or electing DAO board members (annual mandate).
+Nositelji Meeds tokena trebaju uložiti tokene kako bi glasovali o odlukama Meeds DAO kao što je upravljanje proračunom za kovanje ili izbor članova odbora DAO (godišnji mandat).
 
-## 3.7. Decentralized finance (DeFi) user services
+## 3.7. Korisničke usluge decentraliziranih financija (DeFi)
 
-The Work Metaverse will introduce the blockchain world to many people who do not use it today.
+Work Metaverse predstavit će svijet blockchaina mnogim ljudima koji ga danas ne koriste.
 
-Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
+Doista, bilo koji rad (bilo digitalni ili ne) može se igrificirati, a svaki angažman - nagraditi Meedsom. Meedovi su dostupni korisnicima putem novčanika koji je jednostavan za korištenje i temelji se na blockchainu, a koji prosječnom korisniku "apstrahira" svaku složenost kripto svijeta.
 
-Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
+Osim novčanika i trgovine u kojoj mogu kupiti pogodnosti za Meeds, planiramo upoznati svakog korisnika s nekoliko proizvoda za krajnje korisnike koji se pokreću protokolima decentraliziranog financiranja, kao što su:
 
-- The ability to stake Meeds tokens and get yields (generate revenues)
-- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
-- A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. This card could also be used by organizations to fund employee wallets in order to manage employee benefits such as restaurants, transportation and any type of expenses.
+- Mogućnost ulaganja Meeds tokena i dobivanja prinosa (generiranje prihoda)
+- Mogućnost korištenja Meeds tokena kao kolaterala za posuđivanje stabilnih novčića kao što je USDC (iskorištavanjem prvo [Fuse pool](https://app.rari.capital/fuse) zatim registracije Meeds tokena na [AAVE](https://aave.com/).
+- Digitalna kartica koja se može dodati i koristiti putem Apple Paya, Google Paya ili bilo kojeg bankomata. Potonje se može osigurati kroz partnerstvo s VISA-om i iskoristit će kreditnu liniju u USDC-u, koju osigurava uloženi Meeds. Ovu karticu također mogu koristiti organizacije za financiranje novčanika zaposlenika kako bi upravljale beneficijama zaposlenika kao što su restorani, prijevoz i bilo koje vrste troškova.
 
-So not only many new users will discover the blockchain world, they will also discover a bankless world.
+Dakle, ne samo da će mnogi novi korisnici otkriti svijet blockchaina, već će otkriti i svijet bez banaka.
 
  
