@@ -38,11 +38,11 @@ Svaki nositelj ili iznajmljivač Deed-a može pružiti alate i usluge svojim kor
 
 Za početak, za nagrađivanje angažmana mogu se koristiti sljedeće besplatne usluge udruge Meeds:
 
-- **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the Deed’s priorities via customizable engagement programs.
-- **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
-- **Customizable engagement programs** - organizations can create their own engagement programs matching their business goals and priorities. Programs are associated to automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatics or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
-- **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
-- **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
+- **Gamification engine** – automatske radnje unutar WoM-a imaju težinu u bodovima, koje se mogu fino prilagoditi prioritetima Deeda putem prilagodljivih programa angažmana.
+- **Izazovi** – prilagodljivi izazovi mogu se postaviti tako da predstavljaju postignuća. Challenges unaprijed postavlja jedna osoba, a druga ih može ispuniti i objaviti kao takve. Challenges imaju težinu u bodovima, unutar prilagodljivih programa angažmana.
+- **Customizable engagement programs** - organizacije mogu kreirati vlastite programe angažmana koji odgovaraju njihovim poslovnim ciljevima i prioritetima. Programi su povezani s automatskim radnjama unutar sustava i ručno postavljenim izazovima. Svaki program ima određeni proračun Meeds. Periodički bodovi koje svaki korisnik zaradi automatskim ili najavljenim radnjama u svakom programu angažmana pretvaraju se u Meedove, na temelju proračuna tog programa.
+- **Kudos** - Kudos korisnici mogu dodjeljivati ​​jedni drugima, kao zahvalu i znak priznanja. Budući da su kudos-ovi dostupni za distribuciju ograničeni (unaprijed postavljeno periodično ograničenje, na primjer 3 tjedno), oni su rijetki i vrijedni. Kao i akcije, Kudos nosi bodove. Na ovaj način zaposlenici su osnaženi da nagrađuju svoje kolege.
+- Alati **Suradnje**, uključeni u sustav nagrađivanja – radni prostori, asinkrona komunikacija, alat za upravljanje zadacima i bilješke – omogućuju ljudima da rade zajedno na projektima.
 - **Wallet** – korisnici dobivaju sigurni novčanik Ethereum tehnologije za pohranu svojih Meedova. Alternativno, za napredne korisnike, može se koristiti Metamask novčanik.
 - **Store** – trgovina u kojoj se Meeds može zamijeniti za povlastice koje pruža vlasnik ili unajmljivač ugovora ili ekosustav Meeds.
 - **Analytics** – za analizu i praćenje angažmana unutar Djela.
@@ -94,49 +94,49 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Gdje :
 
-- $A$ = _Activity_ - total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
-- $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
-- $E_d$ = _Engagement rate of the deed_ - actions per user ($A/U$)
-- $E_w$ = _Average engagement rate_ of all active Deeds in the WoM.
-- $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
-- $D_s$ =  _Distribution spread_ - if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
-- $M$ = _Minting Power_ of the Deed as defined in 2.3
+- $A$ = _Aktivnost_ - ukupan broj radnji koje su korisnici akumulirali unutar Djela tijekom tjedna. (Na svakoj razini Deed-a, svaka se radnja pretvara u bodove angažmana, pri čemu neke radnje imaju veću težinu od drugih. Na razini indeksa, sve akcije su linearizirane).
+- $U$ = _Engaged users_ - korisnici koji su pridonijeli bodovima tijekom tjedna, barem jednom radnjom.
+- $E_d$ = _Engagement rate of the deed_ - akcije po korisniku ($A/U$)
+- $E_w$ = _Average engagement rate_ svih aktivnih Deeds u WoM-u.
+- $D_r$ = _Distribution rate_ - ako je Deed primio iskovane Meedove za prethodno razdoblje, % Meedova koji je distribuiran svojim korisnicima. % može biti iznad 100 ako distribucija kasni u vremenu.
+- $D_s$ = _Distribution spread_ - ako je Deed primio iskovane Meedove za prethodno razdoblje, % korisnika koji su primili Meedove u ukupnom skupu korisnika.
+- $M$ = _Minting Power_ Deed-a kako je definirano u 2.3
 
 
-The global engagement index used to distribute minted Meeds among the Deeds is the sum of all Deeds’ engagement scores for the week.
+Globalni indeks angažmana koji se koristi za raspodjelu iskovanih Meeds-ova među Deeds-ovima zbroj je svih rezultata angažmana Deeds-a za tjedan.
 
 
-The formula above is simple and designed to favor deeds :
+Gornja formula je jednostavna i osmišljena da favorizira Deeds:
 
-- with lots of engaged users (engagement)
-- who share the whole of the minting income (distribution rate) with their users fairly (distribution spread).
+- s puno angažiranih korisnika (angažman)
+- koji cijeli prihod od kovanja (stopa raspodjele) pravedno dijele sa svojim korisnicima (raspodjela).
 
-Additionnally boosters are in place for :
+Dodatni pojačivači su postavljeni za:
 
-- organizations with the highest engagement, regardless of their size (engagement rate in relation to the WoM)
-- scarcer deeds
+- organizacije s najvećim angažmanom, bez obzira na njihovu veličinu (stopa angažmana u odnosu na WoM)
+- scarrer deeds
 
-> The Meeds association reserves the right to change the formula if required – if some specific use cases arise for instance. The association can also blacklist any Deed that hijacks the formula to its unique benefit.
+> Udruga Meeds pridržava pravo promjene formule ako je potrebno – ako se pojave neki specifični slučajevi uporabe, na primjer. Udruga također može staviti na crnu listu bilo koji Deed koji otima formulu u svoju jedinstvenu korist.
 
-As the Deeds are rewarded with Meeds and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the Deeds and their users are aligned in the same virtuous revenue sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
+Budući da su Deedovi nagrađeni s Meedsom i potaknuti da ih redistribuiraju kao nagrade svojim korisnicima u odnosu na njihov angažman – interesi i Deedova i njihovih korisnika usklađeni su u istom ciklusu dijeljenja prihoda. Stoga WoM nudi novi model rada koji preoblikuje odnos poslodavac/zaposlenik kao partnerstvo.
 
-The “mintium” model is the first of a kind - it goes further than the traditional freemium one, as not only the services are free to use but both the organizations and their users are rewarded for using them.
+Model "mintium" prvi je takve vrste - ide dalje od tradicionalnog freemium modela, jer ne samo da su usluge besplatne za korištenje, već su i organizacije i njihovi korisnici nagrađeni za njihovu upotrebu.
 
-## 2.7. Cities and governance
+## 2.7. Gradovi i upravljanje
 
-In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
+U WoM-u, Deeds će se stvarati postupno unutar virtualnih gradova. Samo će prvi grad postojati od početka. Ostali će se graditi postupno, jedan za drugim. U cijelom WoM-u ikada će biti samo 7 gradova, a svaki će uključivati ​​fiksni broj Deeds svake vrste.
 
-A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
+Grad će se smatrati dovršenim nakon što su iskovana sva njegova Deeds. Zatim će kovanje svakog novog grada započeti $2^n$ mjeseci nakon što je kovan posljednji Deed $n-1$ grada.
 
-| **City name** | **Deeds**   | **Available**        | **Uobičajen** | **Neuobičajeno** | **Rijetko** | **Legendarno** |
-| ------------- | ----------- | -------------------- | ------------- | ---------------- | ----------- | -------------- |
-| 1: Tanit      | 100         | T0                   | 50            | 30               | 13          | 7              |
-| 2: Reshef     | 1 000       | Tanit + 4 months     | 600           | 300              | 94          | 6              |
-| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000         | 3 000            | 995         | 5              |
-| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000        | 30 000           | 9 996       | 4              |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000       | 300 000          | 99 997      | 3              |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000     | 3 000 000        | 999 998     | 2              |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000    | 30 000 000       | 9 999 999   | 1              |
+| **Ime grada** | **Deeds**   | **Dostupno**          | **Uobičajen** | **Neuobičajeno** | **Rijetko** | **Legendarno** |
+| ------------- | ----------- | --------------------- | ------------- | ---------------- | ----------- | -------------- |
+| 1: Tanit      | 100         | T0                    | 50            | 30               | 13          | 7              |
+| 2: Reshef     | 1 000       | Tanit + 4 mjeseca     | 600           | 300              | 94          | 6              |
+| 3: Ashtarte   | 10 000      | Reshef + 8 mjeseca    | 6 000         | 3 000            | 995         | 5              |
+| 4: Melqart    | 100 000     | Ashtarte + 16 mjeseca | 60 000        | 30 000           | 9 996       | 4              |
+| 5: Eshmun     | 1 000 000   | Melqart + 32 months   | 600 000       | 300 000          | 99 997      | 3              |
+| 6: Kushor     | 10 000 000  | Eshmum + 64 months    | 6 000 000     | 3 000 000        | 999 998     | 2              |
+| 7: Hammon     | 100 000 000 | Kushor + 128 months   | 60 000 000    | 30 000 000       | 9 999 999   | 1              |
 
 A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
 
