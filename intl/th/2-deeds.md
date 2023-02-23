@@ -95,59 +95,59 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 ที่ :
 
 - $A$ = _Activity_ - จำนวนการกระทำรวมที่ผู้ใช้สะสมได้ภายใน Deed ตลอดสัปดาห์ (ในระดับของ Deed แต่ละระดับ การกระทำแต่ละรายการจะถูกแปลงเป็นคะแนนการเข้าร่วมโดยมีการกำหนดน้ำหนักให้กับการกระทำบางอย่าง) ในระดับดัชนี การกระทำทั้งหมดจะถูกเปลี่ยนเป็นเส้นตรงโดยทั่วไป)
-- $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
-- $E_d$ = _Engagement rate of the deed_ - actions per user ($A/U$)
-- $E_w$ = _Average engagement rate_ of all active Deeds in the WoM.
-- $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
-- $D_s$ =  _Distribution spread_ - if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
-- $M$ = _Minting Power_ of the Deed as defined in 2.3
+- $U$ = _ผู้ใช้ที่มีส่วนร่วมโดยการทำกิจกรรมอย่างน้อยหนึ่งครั้งภายในสัปดาห์_
+- $E_d$ = _อัตราการมีส่วนร่วมของกิจกรรม_ - จำนวนการกระทำต่อผู้ใช้ ($A/U$)
+- $E_w$ = _อัตราการมีส่วนร่วมเฉลี่ย_ ของกิจกรรมที่ใช้งานอยู่ใน WoM
+- $D_r$ = _อัตราการกระจาย_ - หากกิจกรรมได้รับการเมือง Meeds ในช่วงเวลาก่อนหน้านี้ จะคิดเป็นเปอร์เซ็นต์ของ Meeds ที่กระจายให้กับผู้ใช้ของกิจกรรมนั้นๆ เปอร์เซ็นต์สามารถเกิน 100 หากการกระจายได้เลื่อนเวลาไป
+- $D_s$ = _การกระจายของกิจกรรม_ - หากกิจกรรมได้รับการเมือง Meeds ในช่วงเวลาก่อนหน้านี้ จะคิดเป็นเปอร์เซ็นต์ของผู้ใช้ที่ได้รับ Meeds ในรวมผู้ใช้ทั้งหมด
+- $M$ = _กำลังการเมือง_ ของกิจกรรมตามที่กำหนดไว้ใน 2.3
 
 
-The global engagement index used to distribute minted Meeds among the Deeds is the sum of all Deeds’ engagement scores for the week.
+ดัชนีการมีส่วนร่วมทั่วโลกที่ใช้ในการกระจาย Meeds ที่เมืองขึ้นสำหรับกิจกรรมคือผลรวมของคะแนนการมีส่วนร่วมของกิจกรรมทั้งหมดในสัปดาห์
 
 
-The formula above is simple and designed to favor deeds :
+สูตรข้างต้นเป็นสูตรที่เรียบง่ายและออกแบบมาเพื่อส่วนใหญ่ :
 
-- with lots of engaged users (engagement)
-- who share the whole of the minting income (distribution rate) with their users fairly (distribution spread).
+- โดยผู้ใช้ที่มีผู้ใช้ที่มีส่วนร่วมมาก (การ)
+- ใครที่แบ่งปันรายได้จากการเก็บเงินดังกล่าว (อัตราการกระจาย) กับผู้ใช้ของพวกเขาอย่างเป็นธรรม (การกระจายโดยเท่าเทียม)
 
-Additionnally boosters are in place for :
+นอกจากนี้ยังมีการเพิ่มประสิทธิภาพให้กับผู้ช่วยด้วย:
 
-- organizations with the highest engagement, regardless of their size (engagement rate in relation to the WoM)
-- scarcer deeds
+- องค์กรที่มีอัตราการส่งเสริมการติดต่อสื่อสารสูงที่สุดไม่ว่าจะเป็นขนาดใหญ่หรือเล็ก (อัตราการส่งเสริมการติดต่อสื่อสารสูงในเชิงสัมพันธ์กับ WoM)
+- การกระทำที่น้อยขึ้น
 
-> The Meeds association reserves the right to change the formula if required – if some specific use cases arise for instance. The association can also blacklist any Deed that hijacks the formula to its unique benefit.
+> สมาคม Meeds สงวนสิทธิ์ในการเปลี่ยนสูตรหากจำเป็น – หากเกิดกรณีใช้งานที่เฉพาะเจาะจง เช่น สมาคมสามารถเพิกถอนสิทธิ์การใช้สูตรของ Deed ใดๆที่เหลือเชื่อว่ามีประโยชน์ต่อตนเอง
 
-As the Deeds are rewarded with Meeds and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the Deeds and their users are aligned in the same virtuous revenue sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
+เนื่องจาก Deed จะได้รับการรางวัลด้วยเหรียญ Meeds และถูกสร้างสรรค์ให้มีการกระจายให้กับผู้ใช้ของพวกเขาเป็นรางวัลในการส่งเสริมการติดต่อสื่อสาร – ดังนั้นความสนใจของทั้ง Deed และผู้ใช้ของพวกเขาจะถูกจัดให้สอดคล้องกันในรอบการแบ่งปันรายได้ที่ดี ดังนั้น WoM มีรูปแบบการทำงานใหม่ซึ่งทำให้เกิดการเปลี่ยนแปลงในความสัมพันธ์ระหว่างนายจ้างและพนักงานให้กลายเป็นพันธมิตร
 
-The “mintium” model is the first of a kind - it goes further than the traditional freemium one, as not only the services are free to use but both the organizations and their users are rewarded for using them.
+โมเดล "mintium" เป็นโมเดลแรกของประเภทนี้ - มันไปไกลกว่าโมเดลฟรีเมียมทั่วไปเนื่องจากไม่เพียงแค่บริการฟรีที่สามารถใช้ได้แต่ทั้งองค์กรและผู้ใช้ของพวกเขาจะได้รับการรา
 
-## 2.7. Cities and governance
+## 2.7. เมืองและการปกครอง
 
-In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
+ในโลก WoM จะมีการสร้าง Deeds ขึ้นเรื่อยๆ ภายในเมืองเสมือนจริง เมืองแรกที่จะมีอยู่ตั้งแต่เริ่มต้น เมืองอื่นๆ จะถูกสร้างขึ้นเรื่อยๆ ตามลำดับ ในโลก WoM ทั้งหมดจะมีเพียง 7 เมืองเท่านั้น แต่ละเมืองจะมี Deeds ของแต่ละประเภทจำนวนคงที่
 
-A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
+เมืองจะถูกพิจารณาว่าสมบูรณ์เมื่อ Deeds ทั้งหมดของมันถูกพิมพ์ จากนั้นการพิมพ์ Deeds ของเมืองใหม่จะเริ่มต้น $2^n$ เดือนหลังจาก Deed ล่าสุดของเมือง $n-1$ ถูกพิมพ์
 
-| **City name** | **Deeds**   | **Available**        | **ทั่วไป** | **ไม่ธรรมดา** | **หายาก** | **ตำนาน** |
-| ------------- | ----------- | -------------------- | ---------- | ------------- | --------- | --------- |
-| 1: Tanit      | 100         | T0                   | 50         | 30            | 13        | 7         |
-| 2: Reshef     | 1 000       | Tanit + 4 months     | 600        | 300           | 94        | 6         |
-| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000      | 3 000         | 995       | 5         |
-| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000     | 30 000        | 9 996     | 4         |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000       | 99 997    | 3         |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000     | 999 998   | 2         |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000    | 9 999 999 | 1         |
+| **ชื่อเมือง** | **กระทำดี** | **มีจำหน่าย**       | **ทั่วไป** | **ไม่ธรรมดา** | **หายาก** | **ตำนาน** |
+| ------------- | ----------- | ------------------- | ---------- | ------------- | --------- | --------- |
+| 1: Tanit      | 100         | T0                  | 50         | 30            | 13        | 7         |
+| 2: Reshef     | 1 000       | Tanit + 4 เดือน     | 600        | 300           | 94        | 6         |
+| 3: Ashtarte   | 10 000      | Reshef + 8 เดือน    | 6 000      | 3 000         | 995       | 5         |
+| 4: Melqart    | 100 000     | Ashtarte + 16 เดือน | 60 000     | 30 000        | 9 996     | 4         |
+| 5: Eshmun     | 1 000 000   | Melqart + 32 เดือน  | 600 000    | 300 000       | 99 997    | 3         |
+| 6: Kushor     | 10 000 000  | Eshmum + 64 เดือน   | 6 000 000  | 3 000 000     | 999 998   | 2         |
+| 7: Hammon     | 100 000 000 | Kushor + 128 เดือน  | 60 000 000 | 30 000 000    | 9 999 999 | 1         |
 
-A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
+เมืองเป็นทางที่กระทำดีมาชุมนุมกันและสร้างชุมชน และเป็นผลเนื่องมาจากการได้รับเอกลักษณ์บางอย่างที่เกี่ยวข้องกับชุมชนนั้น นอกจากนี้เป็นวิธีที่จะให้ค่าความสำคัญเพิ่มเติมให้กับผู้ใช้งาน - ค่าความสำคัญที่จะเกินกว่าความสามารถของกระทำดีเดียวหรือค่าความสำคัญที่สร้างขึ้นผ่านความร่วมมือระหว่างกระทำดี
 
-Each city has its own govenance and operates its own DAO where the city’s Deeds’ owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
+แต่ละเมืองมีการปกครองของตัวเองและดำเนิน DAO ของตัวเองโดยเจ้าของกระทำดีของเมืองสามารถเลือกสมัครสมาชิกสภาเมืองของตนเอง โหวตและกำหนดกฎการทำงานของตนเอง ให้บริการใหม่ ๆ และรูปร่างเมืองของตนเองในทางที่ต้องการ เพื่อเพิ่มความน่าสนใจของเมืองและค่าความสำคัญของกระทำดีที่เกี่ยวข้อง
 
-For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add Meeds powered food services, vacations services, etc...
+ตัวอย่างเช่นพวกเขาสามารถเพิ่มการแสดงผลดิจิทัลของเมืองของพวกเขา พาร์ทเนอร์ทางกายภาพที่เกี่ยวข้องกับเมืองของพวกเขา (ห้องประชุมในช่องทำงานร่วมกันทางกายภาพเช่นนั้น) เพิ่มบริการอาหารที่มีพลังงาน Meeds บริการวันหยุดพักผ่อน ฯลฯ...
 
-By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
+โดยค่าเริ่มต้น (เว้นแต่เมืองจะลงคะแนนอย่างอื่น) รายได้จากการเช่าดีดจะถูก “หักภาษี” โดยเมือง (5%) และสมาคม (3%) เพื่อส่งเสริมการใช้ประโยชน์อย่างมีประสิทธิภาพ
 
-Ownsership transactions (Deed’s sales) will also be taxed 6% :
+การทำธุรกรรมเกี่ยวกับการเป็นเจ้าของ (การขายดีด) จะถูกหักภาษีเพิ่มเติม 6%:
 
-- 2.5% for the City,
-- 2.5% for the Association,
-- 1% for the original wallet that redeemed the Deed.
+- 2.5% สำหรับเมือง
+- 2.5% สำหรับสมาคม
+- 1% สำหรับกระเป๋าเงินต้นฉบับที่แลกคืนมา
