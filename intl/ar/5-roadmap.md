@@ -12,7 +12,7 @@
 
 نظرًا لأن الصورة تساوي ألف كلمة ، فإليك رسم تخطيطي يصف تدفقات WoM و ميدس
 
-![WoM and Meeds flows](en/img/wom-flows.png)
+![تدفقات WoM و Meeds](en/img/wom-flows.png)
 
 تم ضمان الصيانة العالمية والاستدامة على المدى الطويل من خلال الضرائب المشتركة بين جمعية Meeds والمدن.
 
@@ -24,41 +24,41 @@
 
 من خلال الإيمان بالمشروع ، والمشاركة في مجمعات السيولة ، ورهان Meed ، واستردادها مقابل السندات... سيصنع المستثمرون الأوائل من جميع الأحجام عملات إضافية. سيحصلون أيضًا على حقوق التصويت المبكرة ويساعدون في تشكيل المتافيرس.
 
-المنظمات التي تحصل على سندات ولكن بشكل خاص تستخدم Deeds لإشراك موظفيها ومكافأتهم ستحصل على تعويض في شكل Meeds. The fairer they will play, the more they will get. سيتم ربط المتبنين الأوائل بالمدن التاريخية الأولى وسيتم تحديدهم على أنهم البناة لاحقًا. لا مفتاح XPath: / p [11] الملف: 5-roadmap.md
+ستحصل المنظمات التي تحصل على سندات ، ولكن بشكل خاص باستخدامها ، لإشراك موظفيها ومكافأتهم على تعويضات في رموز Meeds. كلما لعبوا أكثر عدلاً ، كلما حصلوا على المزيد. سيتم ربط المتبنين الأوائل بالمدن التاريخية الأولى وسيتم تحديدهم على أنهم البناة لاحقًا.
 
-The diagram below represents an example of the Meeds investment strategy for capital holders :
+يمثل الرسم البياني أدناه مثالاً على استراتيجية استثمار Meeds لأصحاب رأس المال:
 
-![Meeds investment strategy for capital holders](en/img/invest-capital.png)
+![استراتيجية استثمار Meeds لأصحاب رؤوس الأموال](en/img/invest-capital.png)
 
-Organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
+يمكن للمنظمات بالطبع المشاركة في تجمعات السيولة ، ولكن أيضًا الانضمام إلى مجتمع البناة والحصول على مكافآت مشاركة إضافية هناك.
 
-The diagram below represents an example of the Meeds investment strategy for work holders :
+يمثل الرسم البياني أدناه مثالاً لاستراتيجية استثمار Meeds لأصحاب العمل:
 
-![Meeds investment strategy for work holders](en/img/invest-work.png)
+![استراتيجية استثمار Meeds لأصحاب العمل](en/img/invest-work.png)
 
 ## 5.3. الإطلاق
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+تم تحديد تاريخ الإطلاق الرسمي ليكون ** 1 مايو 2022 ** - يوم العمال العالمي ، الذي يتم الاحتفال به في العديد من البلدان.
 
-At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
+في ذلك الوقت ، كان رمز Meed موجودًا بالفعل. من الممكن الحصول عليها ومجمعات السيولة مفتوحة للمشاركة على شبكات Polygon و Ethereum.
 
-Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
+يستخدم ثلاثة من أعضاء جمعية Meeds النظام داخليًا لإشراك المستخدمين ومكافأتهم وتحسين برنامج Meeds.
 
-The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
+و تطبيق المستثمر متاح على إيثيريوم Mainnet. عند الإطلاق ، تتضمن عملية الرهان ومكافآت السيولة وتراكم النقاط واسترداد الصكوك Deeds.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
+تم إنشاء مجتمع البناة وتشغيله على برنامج Meeds ، وهو مفتوح لأي شخص يرغب في الانضمام والاختبار والمشاركة. من الممكن تسجيل الدخول باستخدام Metamask.
 
-This paper was published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
+تم نشر هذه الورقة في يوم الإطلاق. بعد الإطلاق ، سيتم إسقاط الرمز المميز عبر الهواء للعديد من الأشخاص عبر مجتمع التشفير.
 
-## 5.4. مجتمع البناة
+## 5.4. جماعة البناة
 
-We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the Work Metaverse. The association would reward builders engagement with Meeds, from its marketing budget.
+نحن نطلق مجتمع البناة على برنامج Meeds وعلى Discord. يرحب المجتمع بأي شخص يريد المشاركة في بناء Work Metaverse. تخطط الجمعية أيضًا لمشاركة بعض Meeds من أجل الحصول على (استرداد) صك لمجتمع البناة.
 
-The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
+تخطط الجمعية أيضًا لمشاركة بعض Meeds من أجل الحصول على (استرداد) صك لمجتمع البناة. سيقوم المجتمع بعد ذلك بسك Meeds من خلال المشاركة ، من خلال نموذج Mintium ، وتوزيعها على المستخدمين المشاركين.
 
 ## 5.5. خارطة الطريق والمعالم
 
-Our roadmap would follow the priority order below:
+ستتبع خارطة الطريق الخاصة بنا ترتيب الأولوية أدناه:
 
 - مؤشر المشاركة وسكها من خلال المشاركة
 - تفعيل خاصية تأجير السندات
@@ -66,21 +66,21 @@ Our roadmap would follow the priority order below:
 - تحسين الشارات وتطوير بيانات الاعتماد
 - خدمات DeFi - في المحفظة، بطاقة الائتمان الشراكة
 
-We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
+نحن نعتمد على أوائل المتبنين من DAOs والشركات الماهرة بالتكنولوجيا خلال مرحلة البناء. يجب أن يكون لدينا أيضًا بعض المتبنين الأوائل من الشركات التقليدية التي تكتسب قيمة فورية من metaverse من خلال توفير برامج المشاركة ذات الصلة لموظفيها ، بالإضافة إلى خطط التعويض التقليدية الحالية الخاصة بهم.
 
-Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature metaverse, having spread to many organizations and many users globally.
+يمتد سك النقود على فترة 20 سنة. بحلول ذلك الوقت ، نطمح إلى أن نكون قد حققنا بناء metaverse ناضجًا ، بعد أن انتشر إلى العديد من المؤسسات والعديد من المستخدمين على مستوى العالم.
 
-## 5.6. What you can do right now
+## 5.6. ماذا يمكنك ان تفعل الان
 
-What can you do right now to participate?
+ماذا يمكنك ان تفعل الان للمشاركة؟
 
-- Spread this paper to those who would be interested
-- Visit our website [meeds.io](https://www.meeds.io/)
-- Check out the [Investor app](https://meeds.io/investors)
-- Contribute to the existing liquidity pools here :
+- انشر هذه الورقة لأولئك الذين قد يكونون مهتمين
+- قم بزيارة موقعنا على الويب [ meeds.io ](https://www.meeds.io/)
+- تحقق من [ تطبيق المستثمر ](https://meeds.io/investors)
+- ساهم في مجمعات السيولة الموجودة هنا:
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
-- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
+- انضم إلى مجتمع [ Discord ](https://discord.com/invite/hAuADSq3) لتبقى على اطلاع
+- انضم إلى مجتمع [ Builders ](https://meeds.io/builders) الخاص بنا لاختبار برنامج Meeds ، والمشاركة وكسب بعض مكافآت Meeds المشاركة
 
-**\*\*\* The Work Metaverse - let’s build this crazy future world together. \*\*\***
+**\ * \ * \ * The Work Metaverse - فلنقم ببناء عالم المستقبل المجنون هذا معًا. \*\*\***
