@@ -1,36 +1,36 @@
-# 4. Xeeds - Work Metaverse Individuals / users
+# 4. Xeeds - Work Metaverse บุคคล / ผู้ใช้งาน
 
-## 4.1. Decentralized and self-sovereign models
+## 4.1. แบบจำลองที่ไม่มีการกำหนดและที่รวมเอาการกำหนดเอง
 
-The WoM recognizes privacy as a fundamental human right and empowers users to own their data.
+WoM รับรู้ความเป็นส่วนตัวเป็นสิทธิมนุษยชนที่สำคัญและทำให้ผู้ใช้เป็นเจ้าของข้อมูลของตนเอง
 
-Our approach is based on decentralized and self-sovereign identity principles, allowing users to be in control at any time of what information they want to publicize, share with a restricted group, or keep private.
+การเข้าถึงของเราจะขึ้นอยู่กับหลักการเอกภาพที่ไม่มีการกำหนดและการรับรองตนเอง ช่วยให้ผู้ใช้ควบคุมได้เมื่อใดก็ได้ว่าข้อมูลใดที่พวกเขาต้องการเผยแพร่ แบ่งปันกับกลุ่มที่มีจำกัด หรือเก็บเป็นความลับ
 
-User's activity and engagement in the WoM is always linked to a Deed. A Xeed is the virtual persona of a user in a Deed. Xeed does not require any KYC, it is self-declaring, but we could conceivably imagine third-party firms providing this service.
+กิจกรรมและความมั่นใจของผู้ใช้ใน WoM เชื่อมโยงเสมอกับ Deed Xeed คือตัวบุคคลเสมือนจริงของผู้ใช้ใน Deed Xeed ไม่ต้องการ KYC ใดๆ แต่เราสามารถจินตนาการได้ว่าบริษัทบุคคลที่สามอาจให้บริการนี้
 
-## 4.2. Badges and credentials
+## 4.2. ป้ายชื่อและประวัติความเชี่ยวชาญ
 
-Badges and Credentials are given to users as a part of their participation in a Deed. The holder may download them as W3C Verifiable Credentials[^7][^8] (aka VCs) and store them in his wallet. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
+ป้ายชื่อและประวัติความเชี่ยวชาญจะถูกมอบให้ผู้ใช้เป็นส่วนหนึ่งของการเข้าร่วมกิจกรรม เจ้าของสิทธิ์สามารถดาวน์โหลดเป็น W3C Verifiable Credentials[^7][^8] (ที่เรียกว่า VCs) และเก็บไว้ในกระเป๋าเงินของเขา VCs เหล่านี้เป็นการรับรองความรู้ / ความชำนาญจากองค์กรที่ออก
 
-In today’s world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they count on their managers to give them a recommendation. The latter supposes certain goodwill on the part of the manager but is not necessarily treated as proof by the future employer.
+ในโลกปัจจุบัน มันยากที่จะพิสูจน์ทักษะล่วงหน้า เมื่อผู้คนโฆษณาตัวเองบนเครือข่าย เขาพึ่งพาผู้จัดการให้คำแนะนำ การนี้เหมาะสมกับความเป็นมิตรบางอย่างจากผู้จัดการ แต่ไม่จำเป็นต้องได้รับการจัดการเป็นพิสูจน์โดยผู้雇จ้างในอนาคต
 
-The Work Metaverse provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
+Work Metaverse ให้วิธีการที่โปร่งใสและไม่สามารถแก้ไขได้มากกว่าเพื่อนร่วมงานเพื่อสัมผัสทักษะของพวกเขา
 
-Badges are used to represent accomplishments made within a Deed. After completing a set of objectives or challenges, users will be awarded points. Badges can be unlocked by accumulating certain amounts of points in specific categories.
+ป้ายชื่อใช้เพื่อแสดงความสำเร็จภายในกิจกรรม เมื่อทำภารกิจหรือเป้าหมายที่กำหนดไว้เสร็จสิ้น ผู้ใช้จะได้รับแต้ม ตราบาปสามารถปลดล็อกโดยการสะสมจำนวนแต้มที่เฉพาะเจาะจงในหมวดหมู่ที่กำหนด
 
-When badges are downloaded by the user, it is possible to include the number of points and his rank in the Deed for this specific accomplishment.
+เมื่อผู้ใช้ดาวน์โหลดตราบาป สามารถรวมจำนวนแต้มและอันดับของเขาในเอกสารสำหรับการบรรลุความสำเร็จนี้ได้
 
-Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the Deed. These are signed by the Deed and can be accompanied by a signature by a peer user.
+ประวัติส่วนตัวยืดหยุ่นกว่าตราบาป มันอาจเป็นการแนะนำจากเพื่อนร่วมงาน ระบุประสบการณ์หลายปี การสำเร็จการฝึกอบรมหรือการสอบ หรือการมีส่วนร่วมในการกระทำ พวกเขาถูกลงนามโดย Deed และสามารถมาพร้อมกับลายเซ็นของผู้ใช้ร่วมงาน
 
-## 4.3. Digital work identity
+## 4.3. ตัวตนดิจิทัลในการทำงาน
 
-All of the above contributes to forming proven digital skillset that can be kept and used by the user when changing jobs or freelancing. It would be more trustworthy than traditional solutions as it relies on not just one individual but a full community to prove it.
+ทุกอย่างที่ได้กล่าวมาก่อให้เกิดการสร้างฝีมือดิจิทัลที่ได้รับการยืนยันได้ซึ่งสามารถเก็บไว้และใช้ได้โดยผู้ใช้เมื่อเปลี่ยนงานหรือเป็นฟรีแลนซ์ มันจะเป็นไปได้มากกว่าวิธีที่เชื่อถือได้ในแบบดั้งเดิมเนื่องจากไม่ได้พึ่งพาบุคคลเดียวเพียงอย่างเดียวแต่เป็นชุมชนทั้งหมดเพื่อพิสูจน์
 
-Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Deed to another, from one city to another, anywhere through the WoM.
+เหมือนกับกระเป๋าเงิน Meeds ผู้ใช้จะเก็บ Xeed, ตราบาปและประวัติส่วนตัวที่เก
 
-The user will be able to share his Xeed, Badges, and Credentials with other Deeds to highlight his experience, as well as with recruiters or any other services that he deems interesting.
+ผู้ใช้จะสามารถแบ่งปัน Xeed, Badges, และ Credentials ของเขากับ Deeds อื่นเพื่อเน้นประสบการณ์ของเขาได้ รวมถึงกับนักวิจัยหรือบริการอื่น ๆ ที่เขาพิจารณาว่าน่าสนใจ
 
-A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations.
+ผู้ใช้สามารถมีเอกลักษณ์ดิจิตอลหนึ่งหรือหลายรูปแบบใน WoM ได้ He could later present them in a unified way using verified presentations.
 
 Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... In a manner of trustworthy LinkedIn 3.0.
 
