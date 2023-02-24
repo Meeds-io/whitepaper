@@ -38,11 +38,11 @@ Diagrammet nedenfor representerer et eksempel på Meeds investeringsstrategi for
 
 ## 5.3. Lanseringen
 
-Den offisielle lanseringsdatoen er angitt som **1. Mai 2022** – Den internasjonale arbeidsdagen, feiret i mange land.
+Den offisielle lanseringsdatoen er satt til **1. mai 2022** – den internasjonale arbeiderdagen, feiret i mange land.
 
-På det tidspunktet eksisterer Meed-token allerede. Det er mulig å anskaffe det, og likviditetspooler er åpne for deltakelse på Polygon- og Ethereum-nettverk.
+På den tiden eksisterer Meed-tokenet allerede. Det er mulig å skaffe det og likviditetspooler er åpne for deltakelse, på Polygon- og Ethereum-nettverk.
 
-Tre Meeds-foreningsmedlemmer bruker systemet internt for å engasjere og belønne brukerne sine og forbedre Meeds-programvaren.
+Tre medlemmer av Meeds-foreningen bruker systemet internt for å engasjere og belønne brukerne sine og forbedre Meeds-programvaren.
 
 Investor-appen er tilgjengelig på Ethereum Mainnet. Ved lansering inkluderer den staking, likviditetsbelønninger, poengakkumulering og innløsning av Deeds.
 
@@ -60,15 +60,15 @@ Foreningen planlegger også å satse noen Meeds for å skaffe (innløse) et Deed
 
 Vårt veikart vil følge den prioriterte rekkefølgen nedenfor:
 
-- Engasjementsindeks og mynting gjennom engasjement
-- Muliggjøre utleie av Deeds
-- Xeed opprettelse
+- Engasjementsindeks og preging gjennom engasjement
+- Aktiver utleie av skjøter
+- Xeed-oppretting
 - Forbedring av merker og utvikling av legitimasjon
 - DeFi-tjenester - i lommeboken, kredittkortpartnerskap
 
-Vi regner med tidlige brukere fra DAO-er og teknologikyndige selskaper i byggefasen. Vi bør også ha noen tidlige brukere fra tradisjonelle selskaper som får umiddelbar verdi fra metaverse ved å tilby relevante engasjementsprogrammer til sine ansatte, på toppen av deres nåværende tradisjonelle kompensasjonsplaner.
+Vi regner med tidlige brukere fra DAO-ene og teknologikyndige selskaper under byggefasen. Vi bør også ha noen tidlige brukere fra tradisjonelle selskaper som får umiddelbar verdi fra metaverse ved å tilby relevante engasjementsprogrammer til sine ansatte, i tillegg til deres nåværende tradisjonelle kompensasjonsplaner.
 
-Meeds-mynting strekker seg over en periode på 20 år. Innen den tid håper vi å ha oppnådd å bygge et modent metaverse som har spredt seg til mange organisasjoner og mange brukere globalt.
+Meeds preging strekker seg over en 20 års periode. Innen den tiden håper vi å ha oppnådd å bygge et modent metavers, etter å ha spredt seg til mange organisasjoner og mange brukere globalt.
 
 ## 5.6. Hva du kan gjøre akkurat nå
 
