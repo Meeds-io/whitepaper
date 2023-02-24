@@ -38,12 +38,12 @@ Ang bawat may-ari o nangungupahan ng Deed ay maaaring magbigay ng mga tool at se
 
 Una, ang mga sumusunod na libreng serbisyo na ibinibigay ng Meeds association ay maaaring gamitin upang bigyang-parangalan ang pakikilahok:
 
-- **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the Deed’s priorities via customizable engagement programs.
-- **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
-- **Customizable engagement programs** - organizations can create their own engagement programs matching their business goals and priorities. Programs are associated to automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatics or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
-- **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
-- **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
-- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
+- **Mekanismo ng Gamipikasyon** – Ang mga automatic actions sa loob ng WoM ay may bigat sa mga puntos, na maaaring i-customize sa mga programa ng pakikilahok upang masunod ang mga prayoridad ng Deed.
+- **Mga Hamon** – Ang mga challenge na maaaring i-customize ay maaaring itakda upang kumatawan sa mga tagumpay. Ang mga hamon ay itinakda ng isang tao at maaaring matupad at ipahayag bilang ganoon ng iba. Ang mga hamon ay may bigat ng mga puntos, sa loob ng mga programang pinapasadya para sa pakikipag-ugnayan.
+- **Mga programa ng pakikipag-ugnayan na maaaring ayusin ayon sa gusto** - Ang mga organisasyon ay maaaring lumikha ng kanilang sariling mga programa ng pakikilahok na tumutugma sa kanilang mga layunin sa negosyo at prayoridad. Ang mga programa ay kaugnay ng mga awtomatikong aksyon sa loob ng sistema at mga hamon na manually na itinatakda. Bawat programa ay may itinakdang badyet para sa Meeds. Ang mga puntos na nakuha ng bawat user sa pamamagitan ng mga automatic o ipinaalam na mga aksyon sa bawat programa ng pakikilahok ay paminsan-minsan na ginagawang Meeds, batay sa badyet ng programa na iyon.
+- **Puri** - Ang mga kudos ay maaring ipagkaloob ng mga gumagamit sa isa't isa, bilang pasasalamat at tanda ng pagkilala. Dahil sa limitadong bilang ng mga kudos na pwedeng ipamahagi (halimbawa, tatlo kada linggo), kaya't sila ay bihirang mayroon at mahalaga. Tulad ng mga aksyon, nagbibigay ng puntos ang pagpaparangal. Sa ganitong paraan, pinapahintulutan ang mga empleyado na magbigay ng gantimpala sa kanilang mga kasamahan.
+- **Kolaborasyon** Ang mga kasangkapan, na nakakabit sa nagbibigay-kasiyahan na makina - mga espasyo ng trabaho, hindi-singkronong komunikasyon, isang kasangkapan sa pamamahala ng mga gawain at mga tala - ay nagpapahintulot sa mga tao na magtrabaho nang magkasama sa mga proyekto.
+- **Sapot ng pitaka** – Ang mga gumagamit ay binibigyan ng isang ligtas na Ethereum technology wallet upang mag-imbak ng kanilang Meeds. Sa alternatibo naman, maaaring gamitin ng mga advanced na gumagamit ang Metamask wallet.
 - **Store** – Isang tindahan kung saan ang mga Meeds ay maaaring palitan laban sa mga pribilehiyo na ibinibigay ng may-ari o nagpaparenta ng Deed o ng Meeds ecosystem.
 - **Analytics** – Upang suriin at sundan ang pakikisangkot sa loob ng Gawaing-Panlahat.
 - **Connectors**, Nakakabit sa reward engine - makakakuha ng engagement points ang mga user sa pamamagitan ng mga aksyon sa ibang software - halimbawa sa paglalagay ng code sa GitHub.
@@ -94,8 +94,8 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Sa'n:
 
-- $A$ = _Aktibidad_ - Kabuuang bilang ng mga aksyon na naipon ng mga gumagamit sa Deed sa loob ng isang linggo. (Sa bawat antas ng Gawain, bawat aksyon ay ginagawang mga puntos ng pakikilahok, kung saan may mga aksyon na mas mabigat kaysa sa iba. At the index level, all actions are linearized).
-- $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
+- $A$ = _Aktibidad_ - Kabuuang bilang ng mga aksyon na naipon ng mga gumagamit sa Deed sa loob ng isang linggo. (Sa bawat antas ng Gawain, bawat aksyon ay ginagawang mga puntos ng pakikilahok, kung saan may mga aksyon na mas mabigat kaysa sa iba. Sa antas ng index, lahat ng aksyon ay linearized).
+- $U$ = _Aktibong mga gumagamit_ - Mga gumagamit na nakatulong sa mga puntos sa loob ng linggo, sa pamamagitan ng hindi bababa sa isang aksyon.
 - $E_d$ = _Engagement rate of the deed_ - actions per user ($A/U$)
 - $E_w$ = _Average engagement rate_ of all active Deeds in the WoM.
 - $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
