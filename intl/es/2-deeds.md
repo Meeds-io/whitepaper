@@ -39,11 +39,11 @@ Cada titular o arrendatario de Deed puede proporcionar herramientas y servicios 
 Para empezar, se pueden utilizar los siguientes servicios gratuitos que ofrece la asociación Meeds para recompensar el compromiso:
 
 - **Motor de gamificación** - las acciones automáticas dentro del WoM tienen un peso en puntos, que puede ser ajustado a las prioridades de la Escritura a través de programas de compromiso personalizables.
-- **Desafíos** - se pueden establecer desafíos personalizables para representar logros. Los retos son preestablecidos por una persona y pueden ser completados y anunciados como tales por otra. Los retos tienen un peso en puntos, dentro de programas de compromiso personalizables.
-- **Programas de compromiso personalizables**: las organizaciones pueden crear sus propios programas de compromiso en función de sus objetivos y prioridades empresariales. Los programas están asociados a acciones automáticas dentro del sistema y a retos establecidos manualmente. Cada programa tiene un presupuesto Meeds definido. Periódicamente, los puntos obtenidos por cada usuario mediante acciones automáticas o anunciadas en cada programa de compromiso se convierten en Meeds, en función del presupuesto de ese programa.
-- **Kudos** - los usuarios pueden concederse kudos entre sí, como agradecimiento y muestra de reconocimiento. Como los kudos disponibles para distribuir son limitados (un límite periódico preestablecido, 3 por semana, por ejemplo), son raros y valiosos. Acciones de like, los kudos conllevan puntos. De este modo, los empleados pueden recompensar a sus compañeros.
+- **Desafíos** - se pueden establecer desafíos personalizables para representar logros. Una persona pone los retos y otra los puede anunciar y/o llevarlos a cabo. Los retos se traducen en puntos dentro de programas de implicación personalizables.
+- **Programas de compromiso personalizables**: las organizaciones pueden crear sus propios programas de compromiso en función de sus objetivos y prioridades empresariales. Los programas se asocian a acciones automáticas dentro del sistema y a retos propuestos de forma manual. Cada programa tiene un presupuesto Meeds definido. Periódicamente, los puntos obtenidos por cada usuario mediante acciones automáticas o anunciadas en cada programa de compromiso se convierten en Meeds, en función del presupuesto de ese programa.
+- **Kudos** - los usuarios pueden concederse kudos entre sí, como agradecimiento y muestra de reconocimiento. Los kudos son poco comunes y valiosos, puesto que muchos no están disponibles para distribuirse (tienen un límite peiódico preestablecido, como 3 semanas). Al igual que las acciones, los kudos dan puntos. De esta forma, se fomenta que los empleados premien a sus compañeros.
 - **Herramientas de colaboración**, integradas en el motor de recompensas -espacios de trabajo, comunicación asíncrona, una herramienta de gestión de tareas y notas- permiten a las personas trabajar juntas en proyectos.
-- **Monedero**: los usuarios disponen de un monedero seguro con tecnología Ethereum para almacenar sus Meeds. Alternativamente, para usuarios avanzados, se puede utilizar un monedero Metamask.
+- **Monedero**: los usuarios disponen de un monedero seguro con tecnología Ethereum para almacenar sus Meeds. Como alternativa, los usuarios más experimentados pueden usar una cartera Metamask.
 - **Tienda** - una tienda donde se pueden canjear Meeds por ventajas proporcionadas por el titular o arrendatario de la Escritura o por el ecosistema Meeds.
 - **Analytics** - para analizar y seguir el compromiso dentro de la Escritura.
 - **Conectores**, conectados al motor de recompensas: los usuarios obtienen puntos de compromiso a través de acciones en otro software, por ejemplo, por enviar código a GitHub.
@@ -57,9 +57,9 @@ Se pueden conectar nuevos servicios al motor de recompensas a través de API. Lo
 - Terminal de fichaje - el trabajador de la fábrica puede obtener puntos por el tiempo de trabajo en la fábrica.
 - Etc.
 
-Además, el compromiso producido a través del conector participa en la puntuación global de compromiso de la organización, que es un factor de la distribución de acuñación de Meeds, descrita a continuación. Para ello, el conector debe figurar en la lista blanca de la Asociación Meeds. La asociación revisa el conector, aprueba su algoritmo y adquiere su propiedad frente a Meeds. A continuación, pasa a formar parte de los servicios gratuitos que presta la asociación y se incluye en el índice de compromiso global. Cualquier otra Deed puede utilizar el mismo conector y el mismo algoritmo de recompensa para sus desarrolladores.
+Además, el compromiso producido a través del conector participa en la puntuación global de compromiso de la organización, que es un factor de la distribución de acuñación de Meeds, descrita a continuación. Para ello, el conector debe figurar en la lista blanca de la Asociación Meeds. La asociación revisa el conector, aprueba su algoritmo y adquiere su propiedad frente a Meeds. A continuación, pasa a formar parte de los servicios gratuitos que presta la asociación y se incluye en el índice de compromiso global. Cualquier otra Escritura puede utilizar el mismo conector y el mismo algoritmo de recompensa para sus desarrolladores.
 
-El titular o arrendatario del Deed puede enriquecer su tienda con sus propias ventajas, conectarse a una oferta de ventajas en línea, etc. Una vez más, las posibilidades son infinitas:
+El titular o arrendatario de la Escritura puede enriquecer su tienda con sus propias ventajas, conectarse a una oferta de ventajas en línea, etc. Una vez más, las posibilidades son infinitas:
 
 - Cursos de formación
 - Afiliación a gimnasios
@@ -68,7 +68,7 @@ El titular o arrendatario del Deed puede enriquecer su tienda con sus propias ve
 - Espacio físico de oficina
 - Etc.
 
-La tienda funciona mediante el uso de Meeds, de modo que los Meeds se devuelven parcialmente a el Deed.
+La tienda funciona mediante el uso de Meeds, de modo que los Meeds se devuelven parcialmente a la Escritura.
 
 ## 2.5. Recompensas - Meeds y otras fichas
 
@@ -76,7 +76,7 @@ El WoM tokenizará el compromiso de los usuarios, gamificando las herramientas d
 
 Periódicamente, el motor de recompensas convierte los puntos de participación en Meeds según los presupuestos y otras normas de distribución y, en última instancia, recompensa a los usuarios a través de sus monederos. El Deed no está obligado a distribuir Meeds y puede utilizar el sistema de compromiso para habilitar otra forma de programa de compensación. Sin embargo, la distribución de Meeds mejorará su capacidad de acuñación.
 
-Además, el Deed no necesita forzosamente adquirir Meeds para distribuirlos y alimentar sus programas de compromiso, ya que obtendrá Meeds del modelo "mintium", descrito a continuación.
+Además, la Escritura no necesita forzosamente adquirir Meeds para distribuirlos y alimentar sus programas de compromiso, ya que obtendrá Meeds del modelo "mintium", descrito a continuación.
 
 Además de Meeds, será también posible distribuir otros tokens basados en el mismo mecanismo de compromiso (por ejemplo, los tokens de la DAO). En ese caso, la distribución estará sujeta a una comisión de transacción de 5% (en token DAO) para la Asociación Meeds.
 
@@ -114,7 +114,7 @@ La fórmula anterior es sencilla y está diseñada para favorecer los hechos :
 Además, se han instalado impulsores para :
 
 - organizaciones con mayor compromiso, independientemente de su tamaño (índice de compromiso en relación con la WoM)
-- Deeds más escaso
+- deeds más escaso
 
 > La asociación Meeds se reserva el derecho a modificar la fórmula en caso necesario, por ejemplo, si surgen algunos casos de uso específicos. La asociación también puede poner en la lista negra cualquier Deed que desvíe la fórmula en su propio beneficio.
 

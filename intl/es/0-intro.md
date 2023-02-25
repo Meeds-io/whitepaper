@@ -4,7 +4,7 @@
 
 El mercado del trabajo actual carece de eficiencia debido a los elevados costes de transacción[^1][^2][^3] y a los frecuentes conflictos de intereses entre el empresario y el trabajador.
 
-El Work Metaverse (el WoM) propone un nuevo paradigma que reduciría los costes de transacción y reinventaría la relación laboral, tendiendo un puente entre las corporaciones tradicionales y las DAO.
+El Metaverso del Trabajo (el WoM) propone un nuevo paradigma que reduciría los costes de transacción y reinventaría la relación laboral, tendiendo un puente entre las corporaciones tradicionales y las DAO.
 
 El WoM lo hace introduciendo identidades digitales tanto para el empleador como para el empleado y ofreciendo un innovador sistema de recompensa por compromiso que alinearía sus intereses.
 
@@ -29,11 +29,11 @@ Todo lo anterior se reduce a los elevados costes de transacción y al exacerbado
 
 La WoM pretende resolver ambos problemas mediante un nuevo paradigma de trabajo descentralizado.
 
-Siguiendo los trabajos de R. Coase[^5], la mayoría de los economistas vinculan el concepto de empresa con la necesidad de mitigar los costes de transacción. Internet y, más recientemente, blockchain y web3 abren posibilidades apasionantes para reducir los costes de transacción en todas partes, reinventar la economía y, en particular, reinventar la empresa. Las primeras DAO[^6] iniciaron este proceso centrándose en reducir el coste de las transacciones para la obtención de capital y la gobernanza. El WoM pretende llevar más lejos esta lógica reduciendo el coste de las transacciones laborales. Propone un mundo descentralizado en el que la adecuación entre empleos y competencias pueda hacerse de forma objetiva, rápida y global.
+Coase[^5], la mayoría de economistas relacionan el concepto de empresa con la necesidad de mitigar los costes transaccionales. Internet y, más recientemente, blockchain y web3 abren posibilidades apasionantes para reducir los costes de transacción en todas partes, reinventar la economía y, en particular, reinventar la empresa. Las primeras DAO[^6] iniciaron este proceso centrándose en reducir el coste de las transacciones para la obtención de capital y la gobernanza. El objetivo de WoM es ir más allá y rebajar el coste de las transacciones laborales. Propone un mundo descentralizado donde la correspondencia de trabajos con habilidades puedan establecerse de forma objetiva, rápida y global.
 
 Las primeras DAO aplanan las jerarquías y abren la propiedad. El Wom persigue esta lógica reinventando, en lugar de borrar la relación empleador/empleado. Introduce un paradigma de recompensa transparente, objetivo y descentralizado, que alinearía de forma sostenible los intereses del empresario y del empleado.
 
-Por último, el Work Metaverse tiende un puente entre las empresas y las DAO. Por un lado, introduce a las empresas tradicionales en el mundo descentralizado a través de un paradigma de recompensa del compromiso fácil de aplicar, complementando sus sistemas de compensación. Por otro lado, propone formas sostenibles de operar y crear valor para las DAO. En última instancia, la WoM podría ser una de las primeras aplicaciones de uso generalizado que democratice el uso de la cadena de bloques para todas las empresas y todos los empleados, incluidos los no digitales.
+Al final, el Work Metaverse reduce la brecha entre las corporaciones y las DAO. Por un lado, introduce a las empresas tradicionales en el mundo descentralizado a través de un paradigma de recompensa del compromiso fácil de aplicar, complementando sus sistemas de compensación. Por otro lado, propone formas sostenibles de operar y crear valor para las DAO. En última instancia, la WoM podría ser una de las primeras aplicaciones de uso generalizado que democratice el uso de la cadena de bloques para todas las empresas y todos los empleados, incluidos los no digitales.
 
 Como en cualquier empresa descentralizada, la propuesta de WoM gana valor exponencialmente a medida que más gente lo utiliza. Por este motivo, los fundadores tuvieron mucho cuidado en fomentar el interés a largo plazo y evitar el acaparamiento de los beneficios del WoM, ya fuera a corto o a largo plazo. Es un paradigma abierto, aún por construir, y abierto a la participación creativa activa de todos.
 

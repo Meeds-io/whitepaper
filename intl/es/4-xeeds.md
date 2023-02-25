@@ -1,64 +1,64 @@
-# 4. Xeeds - Work Metaverse Individuos/usuarios
+# 4. Xeeds - Trabajo Metaverse Individuos/usuarios
 
 ## 4.1. Modelos descentralizados y auto-soberanos
 
-El WoM reconoce la privacidad como un derecho humano fundamental y permite a los usuarios ser propietarios de sus datos.
+La WoM reconoce la privacidad como un derecho humano fundamental y permite a los usuarios poseer sus datos.
 
-Nuestro planteamiento se basa en principios de identidad descentralizada y autosuficiente, lo que permite a los usuarios controlar en todo momento qué información desean hacer pública, compartir con un grupo restringido o mantener en privado.
+Nuestro enfoque se basa en principios de identidad descentralizada y auto-soberana, permitiendo a los usuarios estar en control en cualquier momento de qué información desean publicar, compartir con un grupo restringido o mantener privada.
 
-La actividad y el compromiso del usuario en el WoM siempre están vinculados a un Deed. Una Xeed es la persona virtual de un usuario en un Deed. Xeed no requiere ningún CSC, es autodeclarable, pero podríamos imaginarnos a terceras empresas prestando este servicio.
+La actividad y el compromiso del usuario en la WoM siempre están vinculados a un Deed. Un Xeed es la personalidad virtual de un usuario en un Acto. Un Xeed no requiere KYC, es autodeclarado, pero podríamos concebir empresas terceras que proporcionen este servicio.
 
 ## 4.2. Insignias y credenciales
 
-Las Insignias y Credenciales se otorgan a los usuarios como parte de su participación en un Deed. El titular puede descargarlas como Credenciales Verificables W3C[^7][^8] (también conocidas como CV) y guardarlas en su cartera. Esos VCs son una prueba de conocimientos técnicos certificados por la organización que los expide.
+Los Distintivos y Credenciales son otorgados a los usuarios como parte de su participación en un Acto. El titular puede descargarlas como Credenciales Verificables del W3C[^7][^8] (también conocidas como CV) y guardarlas en su cartera. Esos CV son una prueba de conocimientos técnicos certificados por la organización que lo emite.
 
-En el mundo actual, es difícil demostrar una habilidad de antemano. Cuando las personas se anuncian en las redes, cuentan con que sus gerentes para darles una recomendación. Esta última supone cierta buena voluntad por parte del gestor, pero no es necesariamente tratada como prueba por el futuro empresario.
+En el mundo actual, es difícil demostrar una habilidad de antemano. Cuando las personas se anuncian en las redes, cuentan con que sus gerentes para darles una recomendación. Esta última supone cierta buena voluntad por parte del gestor, pero no es necesariamente tratada como prueba por el futuro empleador.
 
 El Work Metaverse proporciona un medio más transparente e inmutable para que las personas adquieran y demuestren sus capacidades.
 
-Las insignias se utilizan para representar los logros alcanzados en un Deed. Después de completar un conjunto de objetivos o desafíos, los usuarios serán premiados con puntos. Las insignias pueden desbloquearse acumulando determinadas cantidades de puntos en categorías específicas.
+Las insignias se utilizan para representar logros realizados dentro de un Acto. Después de completar un conjunto de objetivos o desafíos, los usuarios serán premiados con puntos. Los Distintivos se pueden desbloquear acumulando ciertas cantidades de puntos en categorías específicas.
 
-Cuando las insignias son descargadas por el usuario, es posible incluir el número de puntos y su rango en el Deed para este logro específico.
+Cuando las insignias son descargadas por el usuario, es posible incluir el número de puntos y su rango en la Escritura para este logro específico.
 
-Las Credenciales son más flexibles que las Insignias; pueden ser una recomendación de un colega, indicar años de experiencia, una formación o examen completado, o el compromiso con el Deed. Éstos están firmados por el Deed y pueden ir acompañados de la firma de un usuario homólogo.
+Las Credenciales son más flexibles que los Distintivos; pueden ser una recomendación de un igual, indicar años de experiencia, una formación o finalización de un examen, o compromiso en el Acto. Estos son firmados por el Acto y pueden ir acompañados de una firma de un usuario de un compañero.
 
-## 4.3. Identidad digital en el trabajo
+## 4.3. Identidad de trabajo digital
 
-Todo lo anterior contribuye a formar un conjunto de competencias digitales probadas que el usuario puede conservar y utilizar cuando cambie de trabajo o trabaje como autónomo. Sería más fiable que las soluciones tradicionales, ya que no se basa en un solo individuo, sino en toda una comunidad para demostrarlo.
+Todo lo anterior contribuye a formar un conjunto de habilidades digitales comprobado que puede ser conservado y utilizado por el usuario al cambiar de trabajo o trabajar como autónomo. Sería más confiable que las soluciones tradicionales, ya que se basa no solo en un individuo sino en una comunidad completa para demostrarlo.
 
-Al igual que su cartera de Meeds, el usuario conservará sus Xeed, Insignias y Credenciales adjuntas en su cartera de identidad cuando se mueva de una Deed a otra, de una ciudad a otra, en cualquier lugar a través del WoM.
+Al igual que su billetera Meeds, el usuario retendrá su Xeed, Distintivos y Credenciales adjuntos a ella en su billetera de identidad al moverse de un Acto a otro, de una ciudad a otra, en cualquier lugar a través del WoM.
 
-El usuario podrá compartir su Xeed, Insignias y Credenciales con otros Deeds para destacar su experiencia, así como con reclutadores o cualquier otro servicio que considere interesante.
+El usuario podrá compartir su Xeed, Distintivos y Credenciales con otros Actos para destacar su experiencia, así como con reclutadores u otros servicios que considere interesantes.
 
-Un usuario puede tener una o varias identidades digitales en el WoM. Más tarde podría presentarlos de forma unificada mediante presentaciones verificadas.
+Un usuario puede tener una o varias identidades digitales en el WoM. Posteriormente podría presentarlos de forma unificada utilizando presentaciones verificadas.
 
-Al contrario que en la web 2, el usuario es el pleno propietario de sus identidades descentralizadas. Este último puede mostrar (y demostrar) los Deeds en las que participó, sus habilidades demostradas, sus habilidades reivindicadas, otros Xeeds (personas) con los que trabajó, su representación digital de sí mismo... A la manera de confianza de LinkedIn 3.0.
+Al contrario que en la web 2, el usuario es el pleno propietario de sus identidades descentralizadas. Los últimos pueden mostrar (y demostrar) los Actos en los que participó, sus habilidades comprobadas, sus habilidades afirmadas, otros Xeeds (personas) con quienes trabajó, su representación digital de sí mismo... En una especie de confianza LinkedIn 3.0.
 
-El usuario podrá seleccionar si desea revelar algo o no, qué información proporcionar y qué identidades utilizar para cada puesto. El contenido (habilidad demostrada, Deeds anteriores, etc.) es a prueba de manipulaciones, por lo que no podría modificarse. Cualquier identidad tendría que desarrollarse con el tiempo.
+El usuario podrá elegir si revelar algo, qué información proporcionar y qué identidades utilizar para cada posición. El contenido (probada habilidad, escrituras anteriores, etc.) es una prueba de manipulación y por lo tanto no puede ser modificado. Cualquier identidad tendría que desarrollarse con el tiempo.
 
 ## 4.4. Mercado de trabajo justo
 
-Dentro de este paradigma, el mercado de trabajo del futuro permite a los usuarios moverse libremente y asignar/vender su compromiso entre los Deeds, como hacen en el mundo físico al cambiar de empleador. Sin embargo, en el WoM su compromiso sería tangible, medido y recompensado de forma justa. Al moverse entre sistemas que siguen una lógica similar, comprenderán mejor las reglas del juego y juzgarán con justicia a los empleadores: la hierba no siempre es más verde en otros lugares. Los usuarios podrán elegir qué Deed ofrece mejores condiciones de recompensa por compromiso, pertenece a una ciudad más atractiva, etc.
+Dentro de este paradigma, el mercado laboral del futuro permite a los usuarios moverse libremente y asignar/vender su compromiso entre los Actos, al igual que lo hacen en el mundo físico cambiando de empleador. Sin embargo, en el WoM su compromiso sería tangible, medido y recompensado de manera justa. Al moverse entre sistemas que siguen una lógica similar, entenderán mejor las reglas del juego y juzgarán a los empleadores de manera justa, ya que el césped no siempre es más verde en otro lugar. Los usuarios podrán elegir en qué Acto se ofrecen mejores condiciones de recompensa de compromiso, pertenece a una ciudad más atractiva, etc.
 
-Por su parte, los titulares/arrendatarios de Deeds pueden buscar competencias pertinentes utilizando la red WoM de identidades laborales digitales (que los usuarios decidieron revelar). Podrán buscar competencias de forma más eficaz, basándose en información verificada y detallada sobre el historial laboral, las competencias laborales y el nivel de compromiso del usuario.
+Por su parte, los titulares/inquilinos de los Actos pueden buscar habilidades relevantes utilizando la red de identidades digitales de trabajo del WoM (que los usuarios decidieron revelar). Podrán obtener habilidades de manera más efectiva, basadas en información verificada y detallada sobre el historial laboral, las habilidades laborales y el nivel de compromiso del usuario.
 
 ## 4.5. Reconocimiento tangible y transparente
 
-Hoy en día, los detalles sobre compensaciones y primas son oscuros en muchos lugares de trabajo. Por lo tanto, es difícil para una persona comparar sus condiciones con las de otra y tener la sensación de un trato justo e imparcial. Los empleados experimentan muchas frustraciones con lo anterior.
+En la actualidad, los detalles sobre compensación y bonificaciones son oscuros en muchos lugares de trabajo. Por lo tanto, es difícil para una persona comparar sus condiciones con las de otra y tener una idea de un tratamiento justo e imparcial. Los empleados experimentan muchas frustraciones con lo anterior.
 
-El WoM introduce una forma objetiva de reconocer los logros y recompensarlos.
+El WoM introduce una manera objetiva de reconocer logros y recompensarlos.
 
-El mecanismo de reconocimiento y recompensa del compromiso es transparente y se aplica equitativamente a todos los usuarios, siguiendo las mismas reglas explícitas, decididas de antemano y alineadas con los objetivos del Deed.
+El mecanismo de reconocimiento y recompensa del compromiso es transparente y se aplica de manera justa a todos los usuarios, siguiendo las mismas reglas explícitas, decididas de antemano y alineadas con los objetivos del Acto.
 
-Los monederos son individuales y se basan en blockchain - cuando el usuario recibe una recompensa o gana una insignia, no se puede retirar ni borrar.
+Las billeteras son individuales y basadas en blockchain, cuando el usuario recibe una recompensa o gana un distintivo, no puede ser devuelta o borrada.
 
 ## 4.6. Acceso a la Web 3.0, criptoeconomía y servicios DEFI
 
-Como ya se ha comentado, el Work Metaverse abre el mundo de las criptomonedas y los servicios web descentralizados básicamente a todo el mundo - una población muy amplia de usuarios, incluso posiblemente no relacionados con el ámbito digital.
+Como se discutió anteriormente, el Work Metaverse abre el mundo de la criptomoneda y los servicios web descentralizados a prácticamente todos, una población muy grande de usuarios, incluso posiblemente no relacionados con el campo digital.
 
-De hecho, cualquier compromiso laboral puede ser potencialmente tokenizado. De hecho, el mundo es cada vez más digital con tendencias como 5G, iot, wearables, etc. En consecuencia, podrían captarse y analizarse cada vez más señales para tokenizar el compromiso de las profesiones no digitales. Los retos ofrecen una forma fácil de simbolizar los logros en el mundo físico.
+De hecho, cualquier compromiso laboral puede ser potencialmente tokenizado. De hecho, el mundo se está volviendo cada vez más digital con tendencias como 5G, IoT, dispositivos portátiles y similares. Como consecuencia, se podrían capturar y analizar potencialmente más señales para identificar el compromiso de profesiones no digitales. Los retos ofrecen una forma fácil de simbolizar los logros en el mundo físico.
 
 Cualquier usuario puede obtener Meeds y utilizar un monedero Meeds para acceder a los servicios de la nueva era sin ninguna formación especial.
 
-[^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
+[^7]: A.Preukschatt, R. Drummond "Auto-Soberano"
 [^8]: Modelo de datos de credenciales verificables
