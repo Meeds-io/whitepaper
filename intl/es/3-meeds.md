@@ -1,6 +1,6 @@
-# 3. Meeds token - la moneda del Metaverso del trabajo
+# 3. Meeds token - la moneda del Work Metaverse
 
-El Metaverso del Trabajo se nutre de su moneda: el token Meeds (MEED). Los Meeds se utilizan para recompensar a los usuarios (a través de programas de compromiso), comprar en tiendas, obtener Deeds, rentabilizar inversiones, etc.
+El Work Metaverse se nutre de su moneda: el token Meeds (MEED). Los Meeds se utilizan para recompensar a los usuarios (a través de programas de compromiso), comprar en tiendas, obtener Deeds, rentabilizar inversiones, etc.
 
 ## 3.1. Tokenomics
 
@@ -35,18 +35,18 @@ Los miembros de la asociación pueden prestar servicios a la asociación sobre l
 
 Sin ser miembro, cualquier Deed puede participar en la creación de un nuevo conector y ser recompensado por ello, primero a través de la adquisición del conector por parte de la asociación Meeds y luego mediante la acuñación a través de este conector.
 
-La asociación opera una comunidad de constructores que da la bienvenida a los entusiastas de WoM, que desean contribuir a la creación de WoM. La asociación patrocinará la comunidad con su presupuesto, compensando el compromiso de los miembros de la comunidad.
+La asociación gestiona una comunidad de Constructores que acoge a entusiastas del WoM, que desean contribuir a su creación. La asociación patrocinará a la comunidad con cargo a su presupuesto, compensando el compromiso de los miembros de la comunidad.
 
-Por lo tanto, la comunidad funcionará como un ejemplo de un Título, ofreciendo un conjunto estándar de servicios proporcionados por la asociación. La asociación apuesta Meeds con el fin de redimir un Deed para la comunidad. La comunidad también participará en la acuñación mediante compromiso, al igual que cualquier otro Título.
+Así, la comunidad funcionará como un ejemplo de Deed, ofreciendo un conjunto estándar de servicios prestados por la asociación. La asociación estaca Meeds con el fin de redimir un Deed para la comunidad. A continuación, la comunidad también participará en la acuñación del compromiso como cualquier otro Deed.
 
-Después de que finalice el periodo de acuñación, la asociación se mantendrá mediante:
+Una vez finalizado el periodo de acuñación, la asociación se mantendrá mediante :
 
-- imponiendo un impuesto sobre los ingresos pasivos (3% sobre el alquiler de los Títulos)
-- imponiendo un impuesto sobre los ingresos de venta (2.5% sobre las ventas de Títulos)
-- percibiendo tarifas de transacción por el uso de las tiendas de ventajas
-- actuando como proveedor de liquidez
-- percibiendo tarifas de transacción cuando un Título distribuye tokens no Meeds a través de los servicios WoM.
-- mediante la operación de los Títulos que la asociación acuñó con el tiempo.
+- gravar las rentas pasivas (3% sobre el alquiler de Deeds)
+- gravar los ingresos por ventas (2,5% sobre las ventas de Deeds)
+- percibir gastos de transacción por el uso de las tiendas de ventajas
+- actuar como proveedor de fondos de liquidez
+- percibir tasas de transacción cuando un Deed distribuye fichas no Meeds a través de los servicios WoM.
+- operando los Deeds que la asociación acuñó a lo largo del tiempo.
 
 
 ## 3.5. Inversores
@@ -94,7 +94,7 @@ Los titulares de tokens de Meeds necesitan apostar tokens para votar en las deci
 
 ## 3.7. Servicios de la financiación descentralizada para usuarios (DeFi)
 
-El Metaverso del Trabajo introducirá el mundo del blockchain a muchas personas que hoy no lo utilizan.
+El Work Metaverse introducirá el mundo del blockchain a muchas personas que hoy no lo utilizan.
 
 De hecho, cualquier trabajo (digital o no) puede gamificarse y cualquier compromiso puede recompensarse con Meeds. Los meeds se ponen a disposición de los usuarios a través de un monedero fácil de usar, basado en blockchain, que "abstrae" cualquier complejidad del mundo criptográfico para un usuario medio.
 
