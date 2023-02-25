@@ -10,7 +10,7 @@ Aktivitas dan keterlibatan pengguna di WoM selalu terkait dengan suatu Tindakan.
 
 ## 4.2. Lencana dan kredensial
 
-Badge dan Sertifikat diberikan kepada pengguna sebagai bagian dari partisipasi mereka dalam Deed. Pemegang dapat mengunduh mereka sebagai W3C Sertifikat Terverifikasi.[^7][^8] (aka VCs) dan menyimpannya di dompetnya. VC hose adalah bukti dari pengetahuan / keahlian yang dicertifikasi oleh organisasi yang mengeluarkannya.
+Badge dan Sertifikat diberikan kepada pengguna sebagai bagian dari partisipasi mereka dalam Deed. Pemegang dapat mengunduh mereka sebagai W3C Sertifikat Terverifikasi.<sup id="fnref:7"><a href="#fn:7" class="footnote-ref"></a></sup>[^8] (aka VCs) dan menyimpannya di dompetnya. VC hose adalah bukti dari pengetahuan / keahlian yang dicertifikasi oleh organisasi yang mengeluarkannya.
 
 Di dunia saat ini, sulit untuk membuktikan kemampuan sebelumnya. Ketika orang mempromosikan diri mereka pada jaringan, mereka mengharapkan manajer mereka memberikan rekomendasi bagi mereka. Yang terakhir menganggap adanya kebaikan hati dari manajer tetapi tidak necessarily dianggap sebagai bukti oleh pemberi kerja masa depan.
 
