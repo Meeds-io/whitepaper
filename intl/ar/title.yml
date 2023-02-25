@@ -17,3 +17,4 @@ first-chapter: 2
 classoption: oneside
 mainfont: "Simplified Arabic"
 sansfont: "Simplified Arabic"
+CJKmainfont: "Heiti TC"
