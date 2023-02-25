@@ -1,109 +1,109 @@
-# 3. Meeds token – the Work Metaverse currency
+# 3. ワークス・メタバースの通貨「ミーズトークン
 
-The Work Metaverse is powered by its currency – the Meeds (MEED) token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
+Work Metaverseは、その通貨であるMeeds（MEED）トークンによって運営されています。 Meedsは、ユーザーへの報酬（エンゲージメントプログラム）、店舗での購入、Deedsの取得、投資に対する金銭的リターンの獲得などに使用されます。
 
-## 3.1. Tokenomics
+## 3.1. トークノミクス
 
-The Meeds **maximum supply is limited to 100 million tokens**, minted progressively. **Meeds are minted at the rate of 10 MEED per minute**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).
+Meeds **の最大供給量は1億トークン**に制限されており、順次鋳造されます。 **Meedsは1分間に10MEEDの割合で鋳造される**。 したがって、完全な鋳造期間は20年近くになります（1年に約10*60<0>24*365=5M$のMeedsが鋳造されるため）。</p>
 
-5 Million Meeds (5% of total supply) have been pre-minted to date. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services.
+現在までに 500 万枚 (総供給量の 5%) の Meeds が事前に発行されています。 そのうちの 450 万件は、4 年間にわたる線形権利確定のボールト契約でロックされています。 この前払金は、主にソフトウェアIPの取得、トークン エミッションの弁護士費用およびホスティングサービスの費用に充当されました。
 
-The rest is part of the __Meeds DAO funds__ and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
-
-
-## 3.2. Minting allocation
-
-Minted Meeds are allocated to encourage involvement of the three categories of stakeholders - the users, the builders and the investors:
-
-- The users (users and Deeds holders/renters) get Meeds through engagement rewards (mintium model).
-- Builders (members of the association and community) get Meeds through the association funds to build, operate and improve the WoM.
-- Investors mint Meeds through renting and buying of liquidity pools and staking Meeds.
-
-At the beginning, the builders get 30% of the allocation. The 70% are shared between the users and the investors. This allocation proportion will be reviewed on a regular basis, through the Meeds association DAO vote.
-
-## 3.3. Users – minting through engagement
-
-Part of the continuously minted Meeds is allocated to the engagement minting channel. The distribution is done weekly. At any given week end, the engagement index is calculated and Deeds can claim their rewards the following week and get their Meeds. Unclaimed Meeds stay in the fund and are added to the next week’s distribution. The model is described in detail in the previous chapter (part 2.6).
-
-## 3.4. Builders – Meeds association DAO and community of builders
-
-The WoM and the Meeds token are operated by the non-profit Meeds Association DAO, introduced above. A multisig contract called the _Meeds DAO Funds_ is used to manage the association's operating expenses.
-
-During the minting period, **30% of the minted Meeds are allocated to the Meeds association**.
-
-Association members can provide services to the association on the basis of a signed services convention establishing the man-day rate. Services are paid monthly in Meeds, based on the market price. Exemples of services include – enriching the Meeds software, developing the WoM app, developing new connectors, operating the cloud service, providing financial and legal services etc.
-
-Without being a member, any Deed can participate in the creation of a new connector and be rewarded for doing so – first through the Meeds association acquiring the connector and then by minting through this connector.
-
-The association operates a Builders community that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
-
-Thus, the community will function as an example of a Deed, offering a standard set of services provided by the association. The association stakes Meeds in order to redeem a Deed for the community. The community will then also participate in the engagement minting like any other Deed.
-
-After the minting period is over, the association will be sustained by :
-
-- taxing passive income (3% on Deeds renting)
-- taxing selling income (2.5% on Deeds sales)
-- perceiving transaction fees over the use of the perks stores
-- acting as a liquidity pool provider
-- perceiving transaction fees when a Deed distributes non Meeds tokens via WoM services.
-- by operating the Deeds that the association minted over time.
+残りは __Meeds DAO 資金__の一部であり、サービスの支払いや、エアドロップや紹介キャンペーンなどのローンチ インセンティブに使用されます。
 
 
-## 3.5. Investors
+## 3.2. 造幣局の割り当て
 
-Investors help creating the WoM by providing liquidity and by staking Meeds and thus stabilizing its price level during the construction period. Both are encouraged through minting.
+Minted Meeds は、ユーザー、ビルダー、投資家の 3 つのカテゴリの利害関係者の関与を促進するために割り当てられます。
 
-**Liquidity providers** Currency liquidity management is key to the success of the project and several DeFi strategies will be used to optimize capital efficiency. We will start with incentives for staking MeedS/ETH LP pool tokens and will progressively introduce bonds to move towards a protocol owned liquidity. The latter would contribute to the association’s long term sustainability - as mentioned above, transaction fees will fund the association operating expenses such as cloud hosting.
+- ユーザー (ユーザーおよび Deeds 所有者/賃借人) は、エンゲージメント報酬 (mintium モデル) を通じて Meeds を取得します。
+- ビルダー (協会およびコミュニティのメンバー) は、WoM を構築、運用、および改善するために、協会の資金を通じて Meeds を取得します。
+- 投資家は、流動性プールのレンタルと購入、および Meeds のステーキングを通じて Meeds を作成します。
 
-Every member also has the right to directly purchase a large amount of Meeds at a discount. The amount wired to the association account is converted to ETH and added along with the equivalent value of Meeds to the Liquidity Pool.
+最初に、ビルダーは割り当ての 30% を取得します。 その70％をユーザーと出資者が分担しています。 この割り当て比率は、Meeds 協会の DAO 投票を通じて定期的に見直されます。
 
-**Staking / long-term investment** To encourage long term investment, staked Meeds are rewarded. When Meeds are staked, the staker gets some xMeeds tokens. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings. In practice, minted Meeds are effectively added to the holdings of the xMeeds smart contract and distributed to the xMeeds holder when they unstake.
+## 3.3. ユーザー - エンゲージメントによるミンティング
 
-By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. Each staked Meeds (xMeeds) grants its owner a number of points per day. The longer the vested period the higher the number of points obtained per xMeeds. Each Deed is then redeemed in exchange for a number of points.
+継続的に発行される Meeds の一部は、エンゲージメントの発行チャネルに割り当てられます。 配信は毎週行っています。 任意の週末にエンゲージメント インデックスが計算され、Deeds は次の週に報酬を受け取り、Meeds を受け取ることができます。 請求されていない Meeds は基金に残り、翌週の配布に追加されます。 このモデルについては、前の章 (パート 2.6) で詳しく説明しています。
 
-Points are calculated using the formula below :
+## 3.4. ビルダー – Meeds Association DAO およびビルダーのコミュニティ
+
+WoM と Meeds トークンは、上記で紹介した非営利の Meeds Association DAO によって運営されています。 _Meeds DAO Funds_ と呼ばれるマルチシグ契約は、協会の運営費を管理するために使用されます。
+
+鋳造期間中、**鋳造された Meeds の 30% が関連するニーズに割り当てられます**。
+
+協会のメンバーは、人日レートを確立する署名済みのサービス規約に基づいて、協会にサービスを提供できます。 サービスは、市場価格に基づいて Meeds で毎月支払われます。 サービスの例としては、Meeds ソフトウェアの充実、WoM アプリの開発、新しいコネクタの開発、クラウド サービスの運用、金融および法律サービスの提供などがあります。
+
+メンバーでなくても、Deed は新しいコネクタの作成に参加でき、そのために報酬を得ることができます。最初に Meeds 協会がコネクタを取得し、次にこのコネクタを介して作成します。
+
+この協会は、WoM の作成に貢献したい WoM 愛好家を歓迎する Builders コミュニティを運営しています。 協会は予算からコミュニティを後援し、コミュニティ メンバーの関与を補償します。
+
+したがって、コミュニティは Deed の一例として機能し、協会が提供する標準的なサービス セットを提供します。 協会は、コミュニティのために証書を償還するために Meeds を賭けます。 コミュニティは、他の Deed と同様にエンゲージメント ミントにも参加します。
+
+鋳造期間が終了した後、関連付けは以下によって維持されます。
+
+- 受動的所得への課税 (Deeds 賃貸料の 3%)
+- 売却所得への課税 (Deeds の売上の 2.5%)
+- 特典ストアの使用に対する取引手数料の認識
+- 流動性プールプロバイダーとしての役割
+- deed が WoM サービスを介して Meeds 以外のトークンを配布すると、取引手数料が発生します。
+- 協会が時間をかけて作成した証書を操作することによって。
+
+
+## 3.5. 投資家
+
+投資家は、流動性を提供し、Meeds をステーキングすることで WoM の作成を支援し、建設期間中の価格レベルを安定させます。 どちらもミントを通じて奨励されています。
+
+**流動性プロバイダー** 通貨の流動性管理はプロジェクトの成功の鍵であり、資本効率を最適化するためにいくつかの DeFi 戦略が使用されます。 MeedS/ETH LP プール トークンをステーキングするためのインセンティブから始め、徐々に債券を導入して、プロトコル所有の流動性に移行します。 後者は、協会の長期的な持続可能性に貢献します。前述のように、取引手数料は、クラウド ホスティングなどの協会の運営費に充てられます。
+
+Every member also has the right to directly purchase a large amount of Meeds at a discount. 協会口座に送金された金額は ETH に変換され、Meeds の同等の価値とともに流動性プールに追加されます。
+
+**ステーキング / 長期投資** 長期投資を奨励するために、ステーキングされた Meeds には報酬が与えられます。 Meedsがステークされると、ステーカーはいくつかのxMeedトークンを取得します。 新たに作成された Meeds は、保有する xMeeds に比例してステーカーに分配されます。 実際には、造幣されたミードは事実上xMeedsスマートコントラクトの保有量に追加され、アンステーク時にxMeeds保有者に配布されます。
+
+Meeds をステーキングすることで、投資家は Deeds を償還することもでき (その後、エンゲージメントを通じてミンティングに参加することもでき)、トークンの需要が増加します。 ステーキングされた Meeds (xMeeds) ごとに、所有者に 1 日あたりのポイント数が付与されます。 権利確定期間が長いほど、xMeeds あたりの獲得ポイント数が高くなります。 その後、各 Deed は多数のポイントと交換されます。
+
+ポイントは以下の式を使用して計算されます。
 
  $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
 
- where :
+ 場所：
 
-- $xMeeds$ : xMeeds balance  with no decimals
-- $T$ : Time elapsed in milliseconds
+- $xMeeds$ : 小数点なしの xMeeds 残高
+- $T$ : 経過時間 (ミリ秒)
 
-The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably. For example, the formula gives the following rates :
+この方式では、証書をより効率的かつ公平に分配するために、大口保有者を優先することを避けています。 たとえば、式は次のレートを示します。
 
-| **Holder Size** | **Holdings**   | **Accrue Rate** |
-| --------------- | -------------- | --------------- |
-| Small           | 1 000 xMeeds   | 28 pts/day      |
-| Medium          | 10 000 xMeeds  | 164 pts/day     |
-| Large           | 100 000 xMeeds | 321 pts/day     |
+| **ホルダーサイズ** | **保有資産**       | **発生率**   |
+| ----------- | -------------- | --------- |
+| 小さい         | 1 000 xMeeds   | 28ポイント/日  |
+| ミディアム       | 10 000 xMeeds  | 164ポイント/日 |
+| 大型          | 100 000 xMeeds | 321ポイント/日 |
 
 
-which leads to the following holding time for each class of holder :
+となり、各保有者クラスの保有時間は以下のようになります。
 
-| **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| Common        | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| Uncommon      | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| Rare          | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| Legendary     | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| **カードタイプ** | **金額**     | **シェア ホルダー** | **中型ホルダー** | **シェア ホルダー** |
+| ---------- | ---------- | ------------ | ---------- | ------------ |
+| 共通         | 8000ポイント   | 25 日         | 49 日       | 9ヶ月          |
+| 一般的でありません  | 32000ポイント  | 100 日        | 6ヶ月        | 3年           |
+| レア         | 50000ポイント  | 156 日        | 10ヶ月       | 5年           |
+| レジェンダリー    | 100000ポイント | 311 日        | 20ヶ月       | 10年          |
 
-## 3.6. Meeds DAO governance
+## 3.6. Meeds DAO ガバナンス
 
-Meeds token holders need to stake tokens in order to vote on the Meeds DAO decisions such as managing the minting budget or electing DAO board members (annual mandate).
+Meeds トークン保有者は、採掘予算の管理や DAO 理事会メンバーの選出 (年間委任) など、Meeds DAO の決定に投票するために、トークンをステークする必要があります。
 
-## 3.7. Decentralized finance (DeFi) user services
+## 3.7. 分散型金融 (DeFi) ユーザー サービス
 
-The Work Metaverse will introduce the blockchain world to many people who do not use it today.
+Work Metaverse は、ブロックチェーンの世界を、今日それを使用していない多くの人々に紹介します。
 
-Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
+実際、あらゆる作品 (デジタルであろうとなかろうと) をゲーム化し、あらゆるエンゲージメントを Meeds で報いることができます。 Meeds は、暗号世界の複雑さを平均的なユーザーに「抽象化」する、使いやすいブロックチェーン ベースのウォレットを通じてユーザーが利用できるようになります。
 
-Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
+Meeds の特典を購入できるウォレットとストアを超えて、次のような分散型金融プロトコルによって強化されたいくつかのエンドユーザー製品をすべてのユーザーに紹介する予定です。
 
-- The ability to stake Meeds tokens and get yields (generate revenues)
-- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
-- A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. This card could also be used by organizations to fund employee wallets in order to manage employee benefits such as restaurants, transportation and any type of expenses.
+- Meedsトークンを賭けて、利回りを得る（収益を上げる）ことができること。
+- Meedsトークンを担保にUSDCなどの安定したコインを借りることができること（まず[Fuse pool](https://app.rari.capital/fuse)を活用し、その後[AAVE](https://aave.com/)にMeedsトークンを登録する）。
+- Apple Pay、Google Pay、または任意の ATM で追加して使用できるデジタル カード。 後者はVISAとの提携により提供され、ステークされたMeedを担保にしたUSDCでのクレジットラインを活用することが可能です。 このカードは、レストランや交通費など、従業員の福利厚生を管理するために、従業員の財布に充当することも可能です。
 
-So not only many new users will discover the blockchain world, they will also discover a bankless world.
+ですから、多くの新しいユーザーがブロックチェーンの世界を発見するだけでなく、バンクレスの世界も発見することになります。
 
  

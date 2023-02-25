@@ -1,14 +1,14 @@
 
-# 1. Who we are – the Meeds Association
+# 1. Ai chúng ta là - Hiệp hội Meeds
 
-The Meeds association is a non-profit organization originally launched by several Open Source Software (OSS) communities around the common vision of a free digital world – a decentralized world that would not be controlled by a handful of centralized mega-corporations.
+Tổ chức Liên minh Meeds là một tổ chức không lợi nhuận được khởi động ban đầu bởi một số cộng đồng Phần mềm Mã nguồn mở (OSS) xung quanh một tầm nhìn chung của một thế giới số miễn phí - một thế giới phi tập trung mà sẽ không bị kiểm soát bởi một vài tập đoàn trung tâm khổng lồ.
 
-The Meeds association is incorporated in Geneva, as a non-profit association under the Swiss law.
+Tổ chức Meeds được thành lập tại Geneva như một tổ chức không lợi dưới luật Thụy Sĩ.
 
-The association regulates the issuance of the Meeds currency, an ERC20 token, recognized as a utility token.
+Hiệp hội điều chỉnh việc phát hành tiền tệ Meeds, một token ERC20, được công nhận là một loại token tiện ích.
 
-To build the WoM and Meeds, the association leverages the Ethereum platform and its ecosystem, making it accessible in a friendly and cost-effective way to all users.
+Để xây dựng WoM và Meeds, hội đồng sử dụng nền tảng Ethereum và hệ sinh thái của nó, làm cho nó truy cập được theo một cách thân thiện và chi phí hiệu quả cho tất cả người dùng.
 
-The association is structured as a Decentralized Autonomous Organization (DAO) where the governance token holders vote on all important organizational changes such as electing the board every year.
+Hiệp hội được cấu trúc như một Tổ chức Tự chủ Liên kết (DAO) trong đó các chủ token quản trị bầu cử về tất cả các thay đổi quan trọng của tổ chức như bầu cử Ban mỗi năm.
 
-Besides Meeds token management, the association holds the Intellectual Property (IP) of the Meeds software [github.com/meeds-io](https://github.com/meeds-io), available under the LGPL license and distributed for free. The latter includes an Ethereum wallet app that users can use to store and transact their Meeds (see section 2.4 for more details). The Meeds Association also runs a multi-tenant cloud hosting service leveraging that software.
+Ngoài quản lý token Meeds, Hiệp hội cũng giữ sở hữu tài sản trí tuệ (IP) của phần mềm Meeds [github.com/meeds-io](https://github.com/meeds-io), được cấp phép dưới LGPL và phân phối miễn phí. Cái sau bao gồm một ứng dụng ví Ethereum mà người dùng có thể sử dụng để lưu trữ và thực hiện giao dịch Meeds (xem phần 2.4 để biết thêm chi tiết). Hiệp hội Meeds cũng chạy một dịch vụ hosting đám mây đa chủ để tận dụng phần mềm đó.

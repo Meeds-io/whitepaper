@@ -1,10 +1,10 @@
 # 3. Meeds token – the Work Metaverse currency
 
-The Work Metaverse is powered by its currency – the Meeds (MEED) token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
+The Work Metaverse is powered by its currency – the Meeds (MEED) token. Ang mga Meeds ay ginagamit upang magbigay ng gantimpala sa mga gumagamit (sa pamamagitan ng mga programa ng engagement), bumili sa mga tindahan, makakuha ng mga Deeds, makakuha ng financial returns sa mga investments atbp.
 
 ## 3.1. Tokenomics
 
-The Meeds **maximum supply is limited to 100 million tokens**, minted progressively. **Meeds are minted at the rate of 10 MEED per minute**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).
+Ang Meeds **Ang maximum na supply ay limitado sa 100 milyong tokens**, mga barya na ginawa nang paunti-unti. **Ang mga Meed ay pinapalya sa rate na 10 MEED kada minuto**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).
 
 5 Million Meeds (5% of total supply) have been pre-minted to date. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services.
 
@@ -81,12 +81,12 @@ The formula avoids favoring large holders in order to distribute Deeds more effi
 
 which leads to the following holding time for each class of holder :
 
-| **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| Common        | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| Uncommon      | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| Rare          | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| Legendary     | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| **Card Type**   | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
+| --------------- | ----------- | ---------------- | ----------------- | ---------------- |
+| Karaniwan       | 8 000 pts   | 25 days          | 49 days           | 9 months         |
+| Hindi karaniwan | 32 000 pts  | 100 days         | 6 months          | 3 years          |
+| Biyaya          | 50 000 pts  | 156 days         | 10 months         | 5 years          |
+| Alamat          | 100 000 pts | 311 days         | 20 months         | 10 years         |
 
 ## 3.6. Meeds DAO governance
 

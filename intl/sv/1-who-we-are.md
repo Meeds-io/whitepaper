@@ -1,14 +1,14 @@
 
-# 1. Who we are – the Meeds Association
+# 1. Vilka vi är - Meeds Association
 
-The Meeds association is a non-profit organization originally launched by several Open Source Software (OSS) communities around the common vision of a free digital world – a decentralized world that would not be controlled by a handful of centralized mega-corporations.
+Meeds Association är en icke-vinstdrivande organisation som ursprungligen startades av flera OSS-grupper (Open Source Software) med en gemensam vision om en fri digital värld - en decentraliserad värld som inte skulle kontrolleras av en handfull centraliserade megaföretag.
 
-The Meeds association is incorporated in Geneva, as a non-profit association under the Swiss law.
+Föreningen Meeds är registrerad i Genève som en ideell förening enligt schweizisk lag.
 
-The association regulates the issuance of the Meeds currency, an ERC20 token, recognized as a utility token.
+Föreningen reglerar utgivningen av Meeds-valutan, en ERC20-token som erkänns som en utility token.
 
-To build the WoM and Meeds, the association leverages the Ethereum platform and its ecosystem, making it accessible in a friendly and cost-effective way to all users.
+För att bygga upp WoM och Meeds utnyttjar föreningen Ethereum-plattformen och dess ekosystem, vilket gör den tillgänglig på ett vänligt och kostnadseffektivt sätt för alla användare.
 
-The association is structured as a Decentralized Autonomous Organization (DAO) where the governance token holders vote on all important organizational changes such as electing the board every year.
+Föreningen är strukturerad som en decentraliserad autonom organisation (DAO) där innehavarna av styrningstoken röstar om alla viktiga organisatoriska förändringar, t.ex. att välja styrelse varje år.
 
-Besides Meeds token management, the association holds the Intellectual Property (IP) of the Meeds software [github.com/meeds-io](https://github.com/meeds-io), available under the LGPL license and distributed for free. The latter includes an Ethereum wallet app that users can use to store and transact their Meeds (see section 2.4 for more details). The Meeds Association also runs a multi-tenant cloud hosting service leveraging that software.
+The Association is structured as a Decentralised Autonomous Organisation (DAO) where the holders of the governance tokens vote on all important organisational changes, such as electing the Board of Directors each year. Den sistnämnda inkluderar en Ethereum-plånboksapp som användarna kan använda för att lagra och genomföra sina Meeds (se avsnitt 2.4 för mer information). Föreningen Meeds driver också en molnhostingtjänst med flera hyresgäster som utnyttjar denna programvara.

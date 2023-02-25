@@ -1,41 +1,41 @@
 
 
-## Abstract
+## Rezumat
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
+Piața muncii de astăzi este lipsită de eficiență din cauza costurilor ridicate de tranzacționare<sup id="fnref:1"></sup></a></sup>[^2][^3] și a conflictelor frecvente de interese dintre angajator și angajat.
 
-The Work Metaverse (the WoM) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
+Work Metaverse (WoM) propune o nouă paradigmă care ar reduce costurile de tranzacție și ar reinventa relația de muncă, făcând legătura între corporațiile tradiționale și DAO.
 
-The WoM does that by introducing digital identities for both employer and employee and offering an innovative engagement reward system that would align their interests.
+WoM face acest lucru prin introducerea unor identități digitale atât pentru angajator, cât și pentru angajat și prin oferirea unui sistem inovator de recompensare a angajamentului care ar alinia interesele acestora.
 
-## Introduction
+## Introducere
 
-The work market today is broken. It fails to satisfy both employees and employers.
+În prezent, piața muncii este distrusă. Ea nu reușește să satisfacă nici angajații, nici angajatorii.
 
-On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
+Din partea angajaților, este dificil să găsească locurile de muncă potrivite. Piața forței de muncă favorizează anumite tipuri de persoane, lăsând în urmă seturi de competențe deosebite. Acest lucru provine dintr-un set de prejudecăți umane - bazate pe rasă, pe gen, pe handicap, pe introvertire etc. De asemenea, piața muncii este lipsită de transparență în ceea ce privește posturile disponibile și condițiile de angajare.
 
-Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
+Odată angajați, libertățile personale ale angajaților sunt încălcate în schimbul unei compensații. Angajații au puțin de spus în ceea ce privește orele de lucru, locul de muncă, conținutul muncii sau metodele de lucru. Iar remunerarea lor este rareori legată de implicarea sau valoarea lor reală. Regulile de compensare sunt lipsite de transparență și, prin urmare, sunt percepute ca fiind inechitabile. N plus, remunerarea și evoluția în carieră depind și de factorul uman - buna credință și obiectivitatea managerului imediat al angajatului.
 
-Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
+Pe de altă parte, angajatorii întâmpină dificultăți în ceea ce privește găsirea de talente și angajarea competențelor potrivite și a persoanelor potrivite la momentul potrivit pentru postul respectiv. Nu există nicio modalitate obiectivă de a verifica competențele potențialului angajat sau de a căuta persoane în afara bazinului tradițional de angajare al angajatorului.
 
-Employers also deal with the lack of loyalty from their employees and a high turnover, both of which, increase hiring and on-boarding costs.
+Angajatorii se confruntă, de asemenea, cu lipsa de loialitate din partea angajaților și cu o fluctuație ridicată a personalului, ambele factori care cresc costurile de angajare și de integrare.
 
-Moreover, employers also face low engagement in their existing employees, leading to low creativity, productivity and innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
+În plus, angajatorii se confruntă și cu un grad scăzut de implicare a angajaților lor existenți, ceea ce duce la un nivel scăzut de creativitate, productivitate și inovare. Aceasta din urmă provoacă cu atât mai multe daune în economia actuală, care necesită o muncă creativă mai calificată.
 
-All of the above boil down to high transaction costs and the exacerbated agent-principal problem[^4] :
+Toate cele de mai sus se reduc la costurile de tranzacție ridicate și la problema agentului-principal exacerbată[^4]:
 
-- With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element.
-- As to the agent-principal problem, it has been compounded by the increasing revenue and wealth gap between employees and shareholders and the rigidity of the employer-employee relationship.
+- Odată cu internetul, piețele muncii au evoluat spre mai multă unitate și transparență datorită site-urilor de anunțuri de angajare, site-urilor de carieră etc. Dar costurile tranzacțiilor sunt încă prea mari în absența elementului de obiectivitate.
+- În ceea ce privește problema agentului-principal, aceasta a fost agravată de creșterea diferențelor de venituri și de bogăție între angajați și acționari și de rigiditatea relației angajator-angajat.
 
-The WoM aims at solving both through a new decentralized work paradigm.
+WoM își propune să le rezolve pe ambele printr-o nouă paradigmă de muncă descentralizată.
 
-Following R. Coase’s works[^5], most economists link the concept of enterprise with the necessity to mitigate transaction costs. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs[^6] started this process focusing on lowering the cost of transactions for capital sourcing and governance. The WoM aims at pushing this logic further by lowering the cost of work transactions. It proposes a decentralized world where jobs and skills matching could be done objectively, quickly and globally.
+Urmând R.Coase[^5], majoritatea economiștilor leagă conceptul de întreprindere de necesitatea de a atenua costurile de tranzacție. Internetul și, mai recent, blockchain și web3 deschid posibilități interesante de reducere a costurilor de tranzacționare peste tot, de reinventare a economiei și, în special, de reinventare a întreprinderii. Primele DAO-uri[^6] a început acest proces concentrându-se pe reducerea costului tranzacțiilor pentru obținerea de capital și guvernanță. WoM urmărește să împingă mai departe această logică prin reducerea costului tranzacțiilor de lucru. Acesta propune o lume descentralizată în care corelarea locurilor de muncă și a competențelor ar putea fi realizată în mod obiectiv, rapid și global.
 
-The first DAOs flatten the hierarchies and open ownership. The WoM pursues this logic by reinventing rather than suppressing the employer/employee relationship. It introduces a transparent, objective and decentralized reward paradigm, that would sustainably align the employer and the employee interests.
+Primele DAO-uri aplatizează ierarhiile și deschid proprietatea. WoM urmărește această logică prin reinventarea, mai degrabă decât prin suprimarea relației angajator/angajat. Ea introduce o paradigmă de recompensare transparentă, obiectivă și descentralizată, care ar alinia în mod durabil interesele angajatorului și ale angajatului.
 
-Finally, the Work Metaverse bridges the gap between corporations and the DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. On the other hand, it proposes sustainable ways to operate and create value for DAOs. Ultimately, the WoM could be among the first mainstream applications to democratize the use of the blockchain for every company and every employee – including non-digital ones.
+În cele din urmă, Work Metaverse face legătura între corporații și DAOs. Pe de o parte, introduce corporațiile tradiționale în lumea descentralizată printr-o paradigmă de recompensare a angajamentului ușor de aplicat, care completează sistemele lor de compensare. Pe de altă parte, propune modalități durabile de funcționare și de creare de valoare pentru DAO-uri. În cele din urmă, WoM ar putea fi printre primele aplicații mainstream care să democratizeze utilizarea blockchain pentru fiecare companie și fiecare angajat - inclusiv pentru cei nedigitali.
 
-As with any decentralized venture, the WoM proposal gains in value exponentially as more people use it. For that reason, founders took great care to encourage long term interest and avoid monopolizing the WoM benefits, whether short term or long term. It is an open paradigm, still to be built, and open to active creative participation from everyone.
+La fel ca în cazul oricărei întreprinderi descentralizate, propunerea WoM capătă o valoare exponențială pe măsură ce mai mulți oameni o folosesc. Din acest motiv, fondatorii au avut mare grijă să încurajeze interesul pe termen lung și să evite monopolizarea beneficiilor WoM, fie pe termen scurt, fie pe termen lung. Este o paradigmă deschisă, care încă nu a fost construită și care este deschisă la o participare creativă activă din partea tuturor.
 
 
 [^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)

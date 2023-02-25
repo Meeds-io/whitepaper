@@ -1,64 +1,64 @@
-# 4. Xeeds - Work Metaverse Individuals / users
+# 4. Xeeds - İş Metaverse Bireyler / kullanıcılar
 
-## 4.1. Decentralized and self-sovereign models
+## 4.1. Merkezi olmayan ve kendi kendine egemen modeller
 
-The WoM recognizes privacy as a fundamental human right and empowers users to own their data.
+WoM, gizliliği temel bir insan hakkı olarak kabul eder ve kullanıcıları verilerine sahip çıkmaları için güçlendirir.
 
-Our approach is based on decentralized and self-sovereign identity principles, allowing users to be in control at any time of what information they want to publicize, share with a restricted group, or keep private.
+Yaklaşımımız, merkezi olmayan ve kendi kendine egemen kimlik ilkelerine dayanmaktadır ve kullanıcıların hangi bilgileri kamuya açıklamak, kısıtlı bir grupla paylaşmak veya gizli tutmak istediklerini istedikleri zaman kontrol etmelerine olanak tanır.
 
-User's activity and engagement in the WoM is always linked to a Deed. A Xeed is the virtual persona of a user in a Deed. Xeed does not require any KYC, it is self-declaring, but we could conceivably imagine third-party firms providing this service.
+Kullanıcının WoM'daki etkinliği ve katılımı her zaman bir Deed ile bağlantılıdır. Bir Xeed, bir Deed'deki bir kullanıcının sanal kişiliğidir. Xeed herhangi bir KYC gerektirmez, kendi kendini beyan eder, ancak üçüncü taraf firmaların bu hizmeti sağladığını düşünebiliriz.
 
-## 4.2. Badges and credentials
+## 4.2. Rozetler ve kimlik bilgileri
 
-Badges and Credentials are given to users as a part of their participation in a Deed. The holder may download them as W3C Verifiable Credentials[^7][^8] (aka VCs) and store them in his wallet. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
+Rozetler ve Kimlik Bilgileri kullanıcılara Deed'e katılımlarının bir parçası olarak verilir. Sahibi bunları W3C Doğrulanabilir Kimlik Bilgileri[^7][^8] (diğer adıyla VC'ler) olarak indirebilir ve cüzdanında saklayabilir. Bu Mesleki Yeterlilik Belgeleri, belgeyi veren kuruluş tarafından onaylanmış bilgi/beceri kanıtıdır.
 
-In today’s world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they count on their managers to give them a recommendation. The latter supposes certain goodwill on the part of the manager but is not necessarily treated as proof by the future employer.
+Günümüz dünyasında bir beceriyi önceden kanıtlamak zordur. İnsanlar kendilerini ağlarda tanıttıklarında, yöneticilerinin onlara tavsiye vereceğine güvenirler. İkincisi, yöneticinin belirli bir iyi niyete sahip olduğunu varsayar, ancak gelecekteki işveren tarafından mutlaka kanıt olarak değerlendirilmez.
 
-The Work Metaverse provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
+Work Metaverse, insanların yeteneklerini kazanmaları ve göstermeleri için daha şeffaf ve değişmez bir araç sağlar.
 
-Badges are used to represent accomplishments made within a Deed. After completing a set of objectives or challenges, users will be awarded points. Badges can be unlocked by accumulating certain amounts of points in specific categories.
+Rozetler bir Deed içinde elde edilen başarıları temsil etmek için kullanılır. Bir dizi hedefi veya görevi tamamladıktan sonra kullanıcılara puan verilecektir. Rozetler, belirli kategorilerde belirli miktarlarda puan biriktirilerek açılabilir.
 
-When badges are downloaded by the user, it is possible to include the number of points and his rank in the Deed for this specific accomplishment.
+Rozetler kullanıcı tarafından indirildiğinde, bu özel başarı için Deed'deki puan sayısını ve sıralamasını dahil etmek mümkündür.
 
-Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the Deed. These are signed by the Deed and can be accompanied by a signature by a peer user.
+Kimlik bilgileri Rozetlere göre daha esnektir; bir akranın tavsiyesi, yılların uzmanlığını gösteren bir belge, bir eğitim veya sınavın tamamlanması veya Deed'e katılım olabilir. Bunlar Deed tarafından imzalanır ve bir eş kullanıcı tarafından imzalanabilir.
 
-## 4.3. Digital work identity
+## 4.3. Dijital çalışma kimliği
 
-All of the above contributes to forming proven digital skillset that can be kept and used by the user when changing jobs or freelancing. It would be more trustworthy than traditional solutions as it relies on not just one individual but a full community to prove it.
+Yukarıdakilerin tümü, iş değiştirirken veya serbest çalışırken kullanıcı tarafından saklanabilecek ve kullanılabilecek kanıtlanmış dijital beceri setinin oluşturulmasına katkıda bulunur. Geleneksel çözümlerden daha güvenilir olacaktır, çünkü bunu kanıtlamak için sadece bir bireye değil, tüm bir topluluğa dayanmaktadır.
 
-Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Deed to another, from one city to another, anywhere through the WoM.
+Tıpkı Meeds cüzdanında olduğu gibi, kullanıcı bir Deed'den diğerine, bir şehirden diğerine, WoM'un herhangi bir yerine taşınırken Xeed'ini, Rozetlerini ve ona bağlı Kimlik Bilgilerini kimlik cüzdanında tutacaktır.
 
-The user will be able to share his Xeed, Badges, and Credentials with other Deeds to highlight his experience, as well as with recruiters or any other services that he deems interesting.
+Kullanıcı, deneyimini vurgulamak için Xeed'ini, Rozetlerini ve Kimlik Bilgilerini diğer Deed'lerle, işe alım uzmanlarıyla veya ilginç bulduğu diğer hizmetlerle paylaşabilecektir.
 
-A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations.
+Bir kullanıcı WoM'da bir veya birden fazla dijital kimliğe sahip olabilir. Daha sonra bunları doğrulanmış sunumlar kullanarak birleşik bir şekilde sunabilir.
 
-Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... In a manner of trustworthy LinkedIn 3.0.
+Web 2'nin aksine, kullanıcı merkezi olmayan kimliklerinin tam sahibidir. İkincisi, katıldığı İşleri, kanıtlanmış becerilerini, iddia edilen becerilerini, birlikte çalıştığı diğer Xeed'leri (insanları), kendisinin dijital temsilini gösterebilir (ve kanıtlayabilir)... Güvenilir bir şekilde LinkedIn 3.0.
 
-The user will be able to select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Deeds, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time.
+Kullanıcı, herhangi bir şeyi ifşa edip etmeyeceğini, hangi bilgileri sağlayacağını ve her pozisyon için hangi kimliklerin kullanılacağını seçebilecektir. İçerik (kanıtlanmış beceri, önceki Deeds, vb.) kurcalamaya karşı korumalıdır ve bu nedenle değiştirilemez. Herhangi bir kimliğin zaman içinde geliştirilmesi gerekecektir.
 
-## 4.4. Fair work marketplace
+## 4.4. Adil iş piyasası
 
-Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Deeds – as they do in the physical world by changing employers. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to choose which Deed provides better engagement reward conditions, belongs to a more attractive city, etc.
+Bu paradigma çerçevesinde geleceğin iş pazarı, kullanıcıların serbestçe hareket etmelerine ve işverenlerini değiştirerek fiziksel dünyada yaptıkları gibi Deed'ler arasında katılımlarını tahsis etmelerine / satmalarına olanak tanır. Ancak WoM'da katılımları somut olacak, ölçülecek ve adil bir şekilde ödüllendirilecektir. Benzer bir mantık izleyen sistemler arasında hareket ederek, oyunun kurallarını daha iyi anlayacak ve işverenleri adil bir şekilde değerlendireceklerdir - çim her zaman başka bir yerde daha yeşil değildir. Kullanıcılar hangi Deed'in daha iyi katılım ödülü koşulları sağladığını, daha çekici bir şehre ait olduğunu vb. seçebilecekler.
 
-On their end, the Deeds’ holders/renters can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
+Deeds sahipleri/kiracıları kendi taraflarında, WoM dijital iş kimlikleri ağını (kullanıcıların ifşa etmeye karar verdikleri) kullanarak ilgili becerileri arayabilirler. Kullanıcının iş geçmişi, iş becerileri ve katılım düzeyi hakkında doğrulanmış ve ayrıntılı bilgilere dayanarak becerileri daha etkili bir şekilde tedarik edebileceklerdir.
 
-## 4.5. Tangible and transparent recognition
+## 4.5. Somut ve şeffaf tanınma
 
-Today, details on compensation and bonuses are obscure in many workplaces. Therefore, it is difficult for a person to compare his conditions to that of another and get a sense of a fair and unbiased treatment. Employees experience a lot of frustrations with the above.
+Bugün birçok işyerinde tazminat ve ikramiyelerle ilgili ayrıntılar belirsizdir. Bu nedenle, bir kişinin kendi koşullarını bir başkasınınkiyle karşılaştırması ve adil ve tarafsız bir muamele hissi edinmesi zordur. Çalışanlar yukarıdakilerle ilgili pek çok hayal kırıklığı yaşamaktadır.
 
-The WoM introduces an objective way to recognize achievements and reward them.
+WoM, başarıların tanınması ve ödüllendirilmesi için objektif bir yol sunmaktadır.
 
-Engagement recognition and reward mechanism is transparent and applies fairly to all users, following the same explicit rules, decided in advance and aligned with the Deed’s goals.
+Katılım tanıma ve ödüllendirme mekanizması şeffaftır ve tüm kullanıcılara adil bir şekilde uygulanır, aynı açık kuralları izler, önceden kararlaştırılır ve Deed'in hedefleriyle uyumludur.
 
-Wallets are individual and blockchain based – when the user receives a reward or earns a badge, it cannot be taken back or erased.
+Cüzdanlar bireysel ve blok zinciri tabanlıdır - kullanıcı bir ödül aldığında veya bir rozet kazandığında, geri alınamaz veya silinemez.
 
-## 4.6. Access to Web 3.0, cryptoeconomy and DEFI services
+## 4.6. Web 3.0, kriptoekonomi ve DEFI hizmetlerine erişim
 
-As discussed above, the Work Metaverse opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
+Yukarıda tartışıldığı gibi, Work Metaverse kripto para ve merkezi olmayan web hizmetleri dünyasını temelde herkese açıyor - dijital alanla ilgisi olmayan çok geniş bir kullanıcı kitlesi.
 
-Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
+Aslında, her türlü iş ilişkisi potansiyel olarak tokenize edilebilir. Aslında dünya 5G, iot, giyilebilir cihazlar ve benzeri trendlerle giderek dijitalleşiyor. Sonuç olarak, potansiyel olarak daha fazla sinyal yakalanabilir ve dijital olmayan mesleklerin katılımını belirtmek için analiz edilebilir. Meydan okumalar, fiziksel dünyadaki başarıları temsil ederek bunu simgelemek için hazır bir yol sağlar.
 
-Any user can get Meeds and use a Meeds wallet to get access to new age services without any special training.
+Herhangi bir kullanıcı Meeds alabilir ve herhangi bir özel eğitim almadan yeni çağ hizmetlerine erişmek için bir Meeds cüzdanı kullanabilir.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
-[^8]: Verifiable Credentials Data Model
+[^8]: Doğrulanabilir Kimlik Bilgileri Veri Modeli

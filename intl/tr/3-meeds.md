@@ -1,109 +1,109 @@
-# 3. Meeds token – the Work Metaverse currency
+# 3. Meeds token - Work Metaverse para birimi
 
-The Work Metaverse is powered by its currency – the Meeds (MEED) token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
+Work Metaverse, para birimi olan Meeds (MEED) token tarafından desteklenmektedir. Meed'ler kullanıcıları ödüllendirmek (etkileşim programları aracılığıyla), mağazalardan satın almak, Deed almak, yatırımlardan finansal getiri elde etmek vb. için kullanılır.
 
 ## 3.1. Tokenomics
 
-The Meeds **maximum supply is limited to 100 million tokens**, minted progressively. **Meeds are minted at the rate of 10 MEED per minute**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).
+Meeds **maksimum arzı, kademeli olarak basılan 100 milyon token** ile sınırlıdır. **Meedler dakikada 10 MEED oranında basılır**. Bu nedenle, tam basım ufku 20 yıla yakındır (yılda yaklaşık 10$*60*24*365 = 5M$ Meed basıldığı için).
 
-5 Million Meeds (5% of total supply) have been pre-minted to date. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services.
+Bugüne kadar 5 Milyon Meed (toplam arzın %5'i) önceden basılmıştır. Bunun 4,5 milyonu, 4 yıl boyunca doğrusal bir vesting ile bir kasa sözleşmesine kilitlendi. Önceden basılan tutar esas olarak yazılım IP'sini satın almak, token emisyonunun yasal ücretleri ve barındırma hizmetleri için ödeme yapmak için kullanıldı.
 
-The rest is part of the __Meeds DAO funds__ and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
-
-
-## 3.2. Minting allocation
-
-Minted Meeds are allocated to encourage involvement of the three categories of stakeholders - the users, the builders and the investors:
-
-- The users (users and Deeds holders/renters) get Meeds through engagement rewards (mintium model).
-- Builders (members of the association and community) get Meeds through the association funds to build, operate and improve the WoM.
-- Investors mint Meeds through renting and buying of liquidity pools and staking Meeds.
-
-At the beginning, the builders get 30% of the allocation. The 70% are shared between the users and the investors. This allocation proportion will be reviewed on a regular basis, through the Meeds association DAO vote.
-
-## 3.3. Users – minting through engagement
-
-Part of the continuously minted Meeds is allocated to the engagement minting channel. The distribution is done weekly. At any given week end, the engagement index is calculated and Deeds can claim their rewards the following week and get their Meeds. Unclaimed Meeds stay in the fund and are added to the next week’s distribution. The model is described in detail in the previous chapter (part 2.6).
-
-## 3.4. Builders – Meeds association DAO and community of builders
-
-The WoM and the Meeds token are operated by the non-profit Meeds Association DAO, introduced above. A multisig contract called the _Meeds DAO Funds_ is used to manage the association's operating expenses.
-
-During the minting period, **30% of the minted Meeds are allocated to the Meeds association**.
-
-Association members can provide services to the association on the basis of a signed services convention establishing the man-day rate. Services are paid monthly in Meeds, based on the market price. Exemples of services include – enriching the Meeds software, developing the WoM app, developing new connectors, operating the cloud service, providing financial and legal services etc.
-
-Without being a member, any Deed can participate in the creation of a new connector and be rewarded for doing so – first through the Meeds association acquiring the connector and then by minting through this connector.
-
-The association operates a Builders community that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
-
-Thus, the community will function as an example of a Deed, offering a standard set of services provided by the association. The association stakes Meeds in order to redeem a Deed for the community. The community will then also participate in the engagement minting like any other Deed.
-
-After the minting period is over, the association will be sustained by :
-
-- taxing passive income (3% on Deeds renting)
-- taxing selling income (2.5% on Deeds sales)
-- perceiving transaction fees over the use of the perks stores
-- acting as a liquidity pool provider
-- perceiving transaction fees when a Deed distributes non Meeds tokens via WoM services.
-- by operating the Deeds that the association minted over time.
+Geri kalanı __Meeds DAO fonlarının__ bir parçasıdır ve hizmetler için ödeme yapmanın yanı sıra airdrop ve yönlendirme kampanyaları gibi bazı lansman teşvikleri için kullanılacaktır.
 
 
-## 3.5. Investors
+## 3.2. Darphane tahsisi
 
-Investors help creating the WoM by providing liquidity and by staking Meeds and thus stabilizing its price level during the construction period. Both are encouraged through minting.
+Minted Meeds, üç paydaş kategorisinin - kullanıcılar, inşaatçılar ve yatırımcılar - katılımını teşvik etmek için tahsis edilmiştir:
 
-**Liquidity providers** Currency liquidity management is key to the success of the project and several DeFi strategies will be used to optimize capital efficiency. We will start with incentives for staking MeedS/ETH LP pool tokens and will progressively introduce bonds to move towards a protocol owned liquidity. The latter would contribute to the association’s long term sustainability - as mentioned above, transaction fees will fund the association operating expenses such as cloud hosting.
+- Kullanıcılar (kullanıcılar ve Deeds sahipleri/kiracıları) etkileşim ödülleri (mintium modeli) aracılığıyla Meeds alırlar.
+- İnşaatçılar (dernek ve topluluk üyeleri) WoM'u inşa etmek, işletmek ve geliştirmek için dernek fonları aracılığıyla Meeds alırlar.
+- Yatırımcılar, likidite havuzlarının kiralanması ve satın alınması ve Meed'lerin stake edilmesi yoluyla Meed'leri basarlar.
 
-Every member also has the right to directly purchase a large amount of Meeds at a discount. The amount wired to the association account is converted to ETH and added along with the equivalent value of Meeds to the Liquidity Pool.
+Başlangıçta, inşaatçılar tahsisatın %30'unu alırlar. 70'i kullanıcılar ve yatırımcılar arasında paylaşılmaktadır. Bu tahsis oranı, Meeds derneği DAO oylaması yoluyla düzenli olarak gözden geçirilecektir.
 
-**Staking / long-term investment** To encourage long term investment, staked Meeds are rewarded. When Meeds are staked, the staker gets some xMeeds tokens. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings. In practice, minted Meeds are effectively added to the holdings of the xMeeds smart contract and distributed to the xMeeds holder when they unstake.
+## 3.3. Kullanıcılar - etkileşim yoluyla para kazanma
 
-By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. Each staked Meeds (xMeeds) grants its owner a number of points per day. The longer the vested period the higher the number of points obtained per xMeeds. Each Deed is then redeemed in exchange for a number of points.
+Sürekli basılan Meedlerin bir kısmı nişan basım kanalına tahsis edilir. Dağıtım haftalık olarak yapılmaktadır. Herhangi bir hafta sonunda, katılım endeksi hesaplanır ve Deed'ler bir sonraki hafta ödüllerini talep edebilir ve Meed'lerini alabilirler. Talep edilmeyen Meedler fonda kalır ve bir sonraki haftanın dağıtımına eklenir. Model bir önceki bölümde (bölüm 2.6) ayrıntılı olarak açıklanmıştır.
 
-Points are calculated using the formula below :
+## 3.4. İnşaatçılar - Meeds derneği DAO ve inşaatçılar topluluğu
+
+WoM ve Meeds tokenı, yukarıda tanıtılan kar amacı gütmeyen Meeds Association DAO tarafından işletilmektedir. Birliğin işletme giderlerini yönetmek için _Meeds DAO Funds_ adı verilen bir multisig sözleşmesi kullanılır.
+
+Darphane döneminde, basılan Meedlerin **%30'u Meeds derneğine tahsis edilir**.
+
+Birlik üyeleri, adam-gün ücretini belirleyen imzalanmış bir hizmet sözleşmesi temelinde birliğe hizmet sağlayabilir. Hizmetler, piyasa fiyatına göre Meeds cinsinden aylık olarak ödenir. Hizmet örnekleri arasında Meeds yazılımının zenginleştirilmesi, WoM uygulamasının geliştirilmesi, yeni konektörlerin geliştirilmesi, bulut hizmetinin işletilmesi, finansal ve yasal hizmetlerin sağlanması vb. yer almaktadır.
+
+Üye olmaksızın, herhangi bir Deed yeni bir konektörün oluşturulmasına katılabilir ve bunu yaptığı için ödüllendirilebilir - önce Meeds derneğinin konektörü edinmesi ve ardından bu konektör aracılığıyla para basılması yoluyla.
+
+Dernek, WoM'un yaratılmasına katkıda bulunmak isteyen WoM meraklılarını ağırlayan bir İnşaatçılar topluluğu işletmektedir. Dernek, topluluk üyelerinin katılımını karşılayarak kendi bütçesinden topluluğa sponsor olacaktır.
+
+Böylece topluluk, dernek tarafından sağlanan standart bir dizi hizmet sunan bir Deed örneği olarak işlev görecektir. Dernek, topluluk için bir Deed'i kurtarmak amacıyla Meeds'i kazığa bağlar. Topluluk daha sonra diğer Deed'ler gibi nişan basımına da katılacaktır.
+
+Darphane dönemi sona erdikten sonra, dernek tarafından sürdürülecektir:
+
+- pasif gelirin vergilendirilmesi (Deed kiralamalarında %3)
+- satış gelirlerinin vergilendirilmesi (Deeds satışları üzerinden %2,5)
+- avantaj mağazalarının kullanımı üzerinden işlem ücreti algılanması
+- likidite havuzu sağlayıcısı olarak hareket etmek
+- bir Deed, WoM hizmetleri aracılığıyla Meeds olmayan tokenleri dağıttığında işlem ücretlerinin algılanması.
+- derneğin zaman içinde bastığı Deed'leri işleterek.
+
+
+## 3.5. Yatırımcılar
+
+Yatırımcılar, likidite sağlayarak ve Meed'leri stake ederek WoM'un oluşturulmasına yardımcı olur ve böylece inşaat süresi boyunca fiyat seviyesini sabitler. Her ikisi de darphane aracılığıyla teşvik edilmektedir.
+
+**Likidite sağlayıcıları** Döviz likiditesi yönetimi projenin başarısı için kilit öneme sahiptir ve sermaye verimliliğini optimize etmek için çeşitli DeFi stratejileri kullanılacaktır. MeedS/ETH LP havuz jetonlarını stake etmeye yönelik teşviklerle başlayacağız ve protokole ait bir likiditeye doğru ilerlemek için aşamalı olarak tahviller sunacağız. İkincisi, birliğin uzun vadeli sürdürülebilirliğine katkıda bulunacaktır - yukarıda belirtildiği gibi, işlem ücretleri bulut barındırma gibi birlik işletme giderlerini finanse edecektir.
+
+Her üye ayrıca indirimli olarak büyük miktarda Meeds'i doğrudan satın alma hakkına sahiptir. Dernek hesabına havale edilen tutar ETH'ye dönüştürülür ve eşdeğer Meeds değeri ile birlikte Likidite Havuzuna eklenir.
+
+**Staking / uzun vadeli yatırım** Uzun vadeli yatırımı teşvik etmek için, stake edilmiş Meed'ler ödüllendirilir. Meedler stake edildiğinde, stake eden kişi birkaç xMeeds jetonu alır. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings.
+
+Yatırımcılar Meed'leri stake ederek Deed'leri de kullanabilir (ve daha sonra katılım yoluyla para basımına katılabilir), böylece token talebini artırabilir. Kazıklanan her Meeds (xMeeds) sahibine günde bir puan kazandırır. Hak kazanma süresi ne kadar uzun olursa xMeeds başına elde edilen puan sayısı da o kadar yüksek olur. Her Deed daha sonra bir dizi puan karşılığında kullanılır.
+
+Puanlar aşağıdaki formül kullanılarak hesaplanır:
 
  $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
 
- where :
+ nerede :
 
-- $xMeeds$ : xMeeds balance  with no decimals
-- $T$ : Time elapsed in milliseconds
+- $xMeeds$ : xMeeds ondalıksız bakiye
+- $T$ : Milisaniye cinsinden geçen süre
 
-The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably. For example, the formula gives the following rates :
+Formül, Deeds'i daha verimli ve daha adil bir şekilde dağıtmak için büyük sahipleri kayırmaktan kaçınmaktadır. Örneğin, formül aşağıdaki oranları verir:
 
-| **Holder Size** | **Holdings**   | **Accrue Rate** |
-| --------------- | -------------- | --------------- |
-| Small           | 1 000 xMeeds   | 28 pts/day      |
-| Medium          | 10 000 xMeeds  | 164 pts/day     |
-| Large           | 100 000 xMeeds | 321 pts/day     |
+| **Tutucu Boyutu** | **Holdingler** | **Tahakkuk Oranı** |
+| ----------------- | -------------- | ------------------ |
+| Küçük             | 1 000 xMeeds   | 28 puan/gün        |
+| Orta              | 10 000 xMeeds  | 164 puan/gün       |
+| Büyük             | 100 000 xMeeds | 321 puan/gün       |
 
 
-which leads to the following holding time for each class of holder :
+bu da her bir hamil sınıfı için aşağıdaki elde tutma süresine yol açar:
 
-| **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| Common        | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| Uncommon      | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| Rare          | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| Legendary     | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| **Kart Tipi**  | **Maliyet**  | **Büyük Tutucu** | **Orta Boy Tutucu** | **Küçük Tutucu** |
+| -------------- | ------------ | ---------------- | ------------------- | ---------------- |
+| Ortak          | 8 000 puan   | 25 gün           | 49 gün              | 9 ay             |
+| Yaygın olmayan | 32 000 puan  | 100 gün          | 6 ay                | 3 yıl            |
+| Nadir          | 50 000 puan  | 156 gün          | 10 ay               | 5 yıl            |
+| Efsanevi       | 100 000 puan | 311 gün          | 20 ay               | 10 yıl           |
 
-## 3.6. Meeds DAO governance
+## 3.6. Meeds DAO yönetişimi
 
-Meeds token holders need to stake tokens in order to vote on the Meeds DAO decisions such as managing the minting budget or electing DAO board members (annual mandate).
+Meeds token sahiplerinin, darphane bütçesini yönetmek veya DAO yönetim kurulu üyelerini seçmek (yıllık yetki) gibi Meeds DAO kararlarını oylamak için token yatırmaları gerekir.
 
-## 3.7. Decentralized finance (DeFi) user services
+## 3.7. Merkezi olmayan finans (DeFi) kullanıcı hizmetleri
 
-The Work Metaverse will introduce the blockchain world to many people who do not use it today.
+Work Metaverse, blok zinciri dünyasını bugün kullanmayan birçok kişiye tanıtacaktır.
 
-Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
+Aslında, herhangi bir çalışma (dijital olsun ya da olmasın) oyunlaştırılabilir ve herhangi bir katılım - Meeds ile ödüllendirilebilir. Meed'ler, kripto dünyasının tüm karmaşıklığını ortalama bir kullanıcı için "soyutlayan", kullanımı kolay, blok zinciri tabanlı bir cüzdan aracılığıyla kullanıcılara sunulmaktadır.
 
-Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
+Cüzdan ve Meeds için avantajlar satın alabilecekleri bir mağazanın ötesinde, her kullanıcıyı Merkezi Olmayan Finans protokolleri tarafından desteklenen çeşitli son kullanıcı ürünleriyle tanıştırmayı planlıyoruz:
 
-- The ability to stake Meeds tokens and get yields (generate revenues)
-- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
-- A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. This card could also be used by organizations to fund employee wallets in order to manage employee benefits such as restaurants, transportation and any type of expenses.
+- Meeds tokenlerini stake etme ve getiri elde etme (gelir elde etme) yeteneği
+- USDC gibi istikrarlı coinleri ödünç almak için Meeds tokenlerini teminat olarak kullanma yeteneği (önce bir [Fuse havuzundan](https://app.rari.capital/fuse) yararlanma, ardından Meeds tokenini [AAVE](https://aave.com/)'e kaydetme.
+- Apple Pay, Google pay veya herhangi bir ATM aracılığıyla eklenebilen ve kullanılabilen dijital bir kart. İkincisi, VISA ile ortaklık yoluyla sağlanabilir ve USDC'de stake edilmiş Meeds ile güvence altına alınan bir kredi hattından yararlanacaktır. Bu kart aynı zamanda kuruluşlar tarafından restoran, ulaşım ve her türlü harcama gibi çalışan avantajlarını yönetmek amacıyla çalışan cüzdanlarını finanse etmek için de kullanılabilir.
 
-So not only many new users will discover the blockchain world, they will also discover a bankless world.
+Böylece sadece birçok yeni kullanıcı blok zinciri dünyasını keşfetmekle kalmayacak, aynı zamanda bankasız bir dünyayı da keşfedecekler.
 
  

@@ -24,18 +24,18 @@ Por otra parte, los empleadores también se enfrentan a un bajo nivel de comprom
 
 Todo lo anterior se reduce a los elevados costes de transacción y al exacerbado problema agente-principal[^4] :
 
-- Con Internet, los mercados laborales ganaron mayor unidad y transparencia gracias a los sitios web de búsqueda de empleo. Aun así, los costes transaccionales siguen siendo demasiado altos al carecer de un elemento de objetividad.
-- El problema del agente-principal es una mezcla que comprende tanto la distancia creciente de beneficios y patrimonio entre empleados y accionistas, y la rigidez de la relación empleado-empleador.
+- Con Internet, los mercados de trabajo evolucionaron hacia una mayor unidad y transparencia gracias a los sitios de ofertas de empleo, sitios de carreras profesionales, etc. Pero los costes de transacción siguen siendo demasiado elevados en ausencia de un elemento de objetividad.
+- En cuanto al problema del agente-principal, se ha visto agravado por la creciente diferencia de ingresos y riqueza entre empleados y accionistas y la rigidez de la relación empleador-empleado.
 
-El WoM tiene por meta resolver esta distancia y rigidez por medio de un nuevo paradigma de trabajo descentralizado.
+La WoM pretende resolver ambos problemas mediante un nuevo paradigma de trabajo descentralizado.
 
 Coase[^5], la mayoría de economistas relacionan el concepto de empresa con la necesidad de mitigar los costes transaccionales. Internet y, más recientemente, blockchain y web3 abren posibilidades apasionantes para reducir los costes de transacción en todas partes, reinventar la economía y, en particular, reinventar la empresa. Las primeras DAO[^6] iniciaron este proceso centrándose en reducir el coste de las transacciones para la obtención de capital y la gobernanza. El objetivo de WoM es ir más allá y rebajar el coste de las transacciones laborales. Propone un mundo descentralizado donde la correspondencia de trabajos con habilidades puedan establecerse de forma objetiva, rápida y global.
 
-Las primeras DAO horizontalizan las jerarquías y liberalizan la propiedad. El WoM pretende seguir esta directriz no suprimiendo la relación empleador-empleado, sino reinventándola. Presenta un paradigma de recompensas transparente, objetivo y descentralizado que alinearía con creces los intereses de empleados y empleadores.
+Las primeras DAO aplanan las jerarquías y abren la propiedad. El Wom persigue esta lógica reinventando, en lugar de borrar la relación empleador/empleado. Introduce un paradigma de recompensa transparente, objetivo y descentralizado, que alinearía de forma sostenible los intereses del empresario y del empleado.
 
 Al final, el Work Metaverse reduce la brecha entre las corporaciones y las DAO. Por un lado, introduce a las empresas tradicionales en el mundo descentralizado a través de un paradigma de recompensa del compromiso fácil de aplicar, complementando sus sistemas de compensación. Por otro lado, propone formas sostenibles de operar y crear valor para las DAO. En última instancia, la WoM podría ser una de las primeras aplicaciones de uso generalizado que democratice el uso de la cadena de bloques para todas las empresas y todos los empleados, incluidos los no digitales.
 
-Como en cualquier empresa descentralizada, la propuesta de WoM gana valor exponencialmente a medida que más gente lo utiliza. Es por ello que sus fundadores se han esforzado mucho en fomentar el interés a largo plazo y evitar monopolizar los beneficios de WoM a largo o corto plazo. Es un paradigma por construir que se abre a la participación activa y creativa para todo el mundo.
+Como en cualquier empresa descentralizada, la propuesta de WoM gana valor exponencialmente a medida que más gente lo utiliza. Por este motivo, los fundadores tuvieron mucho cuidado en fomentar el interés a largo plazo y evitar el acaparamiento de los beneficios del WoM, ya fuera a corto o a largo plazo. Es un paradigma abierto, aún por construir, y abierto a la participación creativa activa de todos.
 
 
 [^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)

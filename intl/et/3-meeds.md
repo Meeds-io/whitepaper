@@ -1,35 +1,35 @@
-# 3. Meeds token – the Work Metaverse currency
+# 3. Meeds token - Work Metaverse valuuta
 
-The Work Metaverse is powered by its currency – the Meeds (MEED) token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
+Work Metaverse'i jõuallikaks on selle valuuta - Meeds (MEED) žetoon. Meediume kasutatakse kasutajate premeerimiseks (kaasamisprogrammide kaudu), kauplustes ostmiseks, Deeds'i saamiseks, investeeringute rahalise tulu saamiseks jne.
 
 ## 3.1. Tokenomics
 
-The Meeds **maximum supply is limited to 100 million tokens**, minted progressively. **Meeds are minted at the rate of 10 MEED per minute**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).
+Meeds **maksimaalne pakkumine on piiratud 100 miljoni žetooniga**, mida vermitakse järk-järgult. **Meedid vermitakse kiirusega 10 MEED minutis**. Seega on kogu mündi vermimisaeg peaaegu 20 aastat (kuna aastas vermitakse umbes 10*60*24*365 = 5M$ Meedit).
 
-5 Million Meeds (5% of total supply) have been pre-minted to date. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services.
+Praeguseks on eeltrükitud 5 miljonit meedikut (5% koguvarustusest). Sellest 4,5 miljonit on lukustatud võlvlepinguga, mille lineaarne üleandmine toimub 4 aasta jooksul. Eelnevalt makstud summat kasutati peamiselt tarkvara intellektuaalomandi omandamiseks, sümboolse emissiooni juriidiliste tasude ja hostinguteenuste eest tasumiseks.
 
-The rest is part of the __Meeds DAO funds__ and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
+Ülejäänud osa on osa __Meeds DAO vahenditest__ ja seda kasutatakse teenuste eest tasumiseks, samuti mõnedeks käivitamisstiimuliteks, nagu näiteks õhulennukid ja soovituskampaaniad.
 
 
-## 3.2. Minting allocation
+## 3.2. Rahapaja eraldamine
 
-Minted Meeds are allocated to encourage involvement of the three categories of stakeholders - the users, the builders and the investors:
+Minted Meeds on eraldatud selleks, et julgustada kolme sidusrühma - kasutajate, ehitajate ja investorite - kaasamist:
 
-- The users (users and Deeds holders/renters) get Meeds through engagement rewards (mintium model).
-- Builders (members of the association and community) get Meeds through the association funds to build, operate and improve the WoM.
-- Investors mint Meeds through renting and buying of liquidity pools and staking Meeds.
+- Kasutajad (kasutajad ja Deeds'i omanikud/rentnikud) saavad Meeds'i osaluse preemiate kaudu (mintium-mudel).
+- Ehitajad (ühingu ja kogukonna liikmed) saavad ühingu fondide kaudu Meedsi, et ehitada, käitada ja parandada WoMi.
+- Investorid vermivad Meedid likviidsuspuulide rentimise ja ostmise ning Meedide panustamise kaudu.
 
-At the beginning, the builders get 30% of the allocation. The 70% are shared between the users and the investors. This allocation proportion will be reviewed on a regular basis, through the Meeds association DAO vote.
+Alguses saavad ehitajad 30% eraldisest. 70% jagatakse kasutajate ja investorite vahel. See jaotusprotsent vaadatakse korrapäraselt läbi Meedsi ühingu DAO hääletuse kaudu.
 
-## 3.3. Users – minting through engagement
+## 3.3. Kasutajad - vermimine läbi kaasamise
 
-Part of the continuously minted Meeds is allocated to the engagement minting channel. The distribution is done weekly. At any given week end, the engagement index is calculated and Deeds can claim their rewards the following week and get their Meeds. Unclaimed Meeds stay in the fund and are added to the next week’s distribution. The model is described in detail in the previous chapter (part 2.6).
+Osa pidevalt vermitud meediatest eraldatakse kihlveokanalile. Jaotus toimub kord nädalas. Iga nädala lõpus arvutatakse kihlveoindeks ja Deedid saavad järgmisel nädalal oma preemiaid nõuda ja saada oma Meedid. Tagasisaamata meediumid jäävad fondi ja lisatakse järgmise nädala jaotusele. Mudelit on üksikasjalikult kirjeldatud eelmises peatükis (osa 2.6).
 
-## 3.4. Builders – Meeds association DAO and community of builders
+## 3.4. Ehitajad - Meedsi ühing DAO ja ehitajate kogukond
 
-The WoM and the Meeds token are operated by the non-profit Meeds Association DAO, introduced above. A multisig contract called the _Meeds DAO Funds_ is used to manage the association's operating expenses.
+WoMi ja Meeds tokenit haldab eespool tutvustatud mittetulundusühing Meeds Association DAO. Ühingu tegevuskulude haldamiseks kasutatakse multisigilepingut _Meeds DAO Funds_, mida nimetatakse <0>Meeds DAO Funds</0>.
 
-During the minting period, **30% of the minted Meeds are allocated to the Meeds association**.
+Rahapaja ajal eraldatakse **30% vermitud meedikutest meedikute ühingule**.
 
 Association members can provide services to the association on the basis of a signed services convention establishing the man-day rate. Services are paid monthly in Meeds, based on the market price. Exemples of services include – enriching the Meeds software, developing the WoM app, developing new connectors, operating the cloud service, providing financial and legal services etc.
 
@@ -83,10 +83,10 @@ which leads to the following holding time for each class of holder :
 
 | **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
 | ------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| Common        | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| Uncommon      | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| Rare          | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| Legendary     | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| Ühine         | 8 000 pts   | 25 days          | 49 days           | 9 months         |
+| Ebatavaline   | 32 000 pts  | 100 days         | 6 months          | 3 years          |
+| Haruldased    | 50 000 pts  | 156 days         | 10 months         | 5 years          |
+| Legendaarne   | 100 000 pts | 311 days         | 20 months         | 10 years         |
 
 ## 3.6. Meeds DAO governance
 

@@ -1,86 +1,86 @@
-# 5. The Work Metaverse for ALL – vision summary and milestones
+# 5. The Work Metaverse for ALL - סיכום חזון ואבני דרך
 
-## 5.1. Ultimate goal - decentralized web for everyone
+## 5.1. המטרה הסופית - אינטרנט מבוזר לכולם
 
-In the end, the WoM is a decentralized web world for everyone – every person and every organization.
+בסופו של דבר, ה-WoM הוא עולם אינטרנט מבוזר לכולם - לכל אדם ולכל ארגון.
 
-It will be populated by users, acting through their digital identities **Xeeds** and accessing the world through their metamasks, for crypto-savvies, or login/password for the newbies. People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
+הוא יאוכלס על ידי משתמשים, שיפעלו באמצעות הזהויות הדיגיטליות שלהם **Xeeds** וייגשו לעולם דרך המטא-מסכות שלהם, לידע קריפטו, או כניסה/סיסמה למתחילים. אנשים היו מקצים את המעורבות שלהם ומקבלים תגמול בצורה הוגנת, שקופה ומבוזרת. הם יקבלו גישה לעולם המבוזר ולעולם הקריפטו של המחר בצורה קלה ומוכרת - הם יקבלו כלים פשוטים להשתמש באסימונים שלהם בחייהם או להשקיע אותם למען עתידם.
 
-Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the metaverse, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
+ארגונים - **מעשים** יוכלו למצוא כישרונות, לדפדף דרך WoM, עבור הכישורים הנכונים המוכחים. הם יקבלו תגמול על השתתפותם ב-metaverse, על ידי הטבעת אסימונים באמצעות מעורבות המשתמשים שלהם (מודל מינטיום). אבל יותר מכל, הם יפיקו תועלת ממעורבות ונאמנות גבוהה יותר מהמשתמשים שלהם.
 
-The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
+ל-WoM יהיה מטבע משלו **Meeds** - שיהיה שם כדי לבזבז בחנויות, להמיר למטבע אחר, להשקיע תמורת החזר על ההשקעה, לשכור או לקנות וכו'. ה-WoM יקל גם על הפצת אסימונים אחרים וישתתף במערכת האקולוגית הכוללת של הקריפטו.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
+מכיוון שתמונה שווה אלף מילים, הנה תרשים שמתאר את זרימות WoM ומידס
 
-![WoM and Meeds flows](en/img/wom-flows.png)
+![WoM ו-Meeds זורמות](en/img/wom-flows.png)
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
+התחזוקה והקיימות העולמית בטווח הארוך מובטחות באמצעות מסים המשותפים בין עמותת Meeds והערים.
 
-## 5.2. What’s in it for early adopters
+## 5.2. מה יש בו עבור מאמצים מוקדמים
 
-Obviously, early adopters would get considerable advantages over the late comers.
+ברור שמאמצים מוקדמים יקבלו יתרונות ניכרים על פני המאחרים.
 
-In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
+בפרט, ה-WoM מתגמל השקעה לטווח ארוך בפסוק - כלומר פדיון הנכס (Deeds). הבעלים המקורי של ה-Deed מקבל פיצוי באמצעות טביעת אירוסין (שימוש פעיל), באמצעות הכנסה פסיבית (השכרה) ומקבל 1% לכל החיים על כל עסקת מכירה של ה-Deed (בכל שינוי בעלות, הפואל המקורי מקבל עמלה על עִסקָה).
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the metaverse.
+על ידי אמונה בפרויקט, השתתפות במאגר הנזילות, החזקה במידס, פדיון נגד Deeds... משקיעים מוקדמים בכל הגדלים יטביעו אסימונים נוספים. הם גם יקבלו את זכויות ההצבעה המוקדמות ביותר ויעזרו לעצב את המטא-ברס.
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
+ארגונים שרוכשים אך במיוחד משתמשים ב-Deeds כדי לעסוק ולתגמל את העובדים שלהם יקבלו פיצוי ב-Meeds שנטבעו. ככל שהם ישחקו יותר הוגנים, כך הם יקבלו יותר. המאמצים המוקדמים יותר ישויכו לערים ההיסטוריות הראשונות ויזוהו כבונים בהמשך.
 
-The diagram below represents an example of the Meeds investment strategy for capital holders :
+התרשים שלהלן מייצג דוגמה לאסטרטגיית ההשקעה של Meeds עבור מחזיקי הון:
 
-![Meeds investment strategy for capital holders](en/img/invest-capital.png)
+![אסטרטגיית השקעות Meeds לבעלי הון](en/img/invest-capital.png)
 
-Organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
+ארגונים יכולים כמובן להשתתף במאגרי נזילות, אך גם להצטרף לקהילת הבונים ולקבל שם תגמולי מעורבות נוספים.
 
-The diagram below represents an example of the Meeds investment strategy for work holders :
+התרשים שלהלן מייצג דוגמה לאסטרטגיית ההשקעה של Meeds עבור מחזיקי עבודה:
 
-![Meeds investment strategy for work holders](en/img/invest-work.png)
+![אסטרטגיית השקעות Meeds לבעלי עבודה](en/img/invest-work.png)
 
-## 5.3. The launch
+## 5.3. השיגור
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+תאריך ההשקה הרשמי נקבע ל**1 במאי 2022** - יום העובדים הבינלאומי, שנחגג במדינות רבות.
 
-At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
+באותו זמן, אסימון ה-Meed כבר קיים. אפשר לרכוש אותו ומאגרי נזילות פתוחים להשתתפות, ברשתות Polygon ו-Ethereum.
 
-Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
+שלושה חברי עמותת Meeds משתמשים במערכת באופן פנימי כדי לערב ולתגמל את המשתמשים שלהם ולשפר את תוכנת Meeds.
 
-The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
+אפליקציית המשקיעים זמינה ב-Ethereum Mainnet. בהשקה, הוא כולל הימור, תגמולי נזילות, צבירת נקודות ומימוש Deeds.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
+קהילת ה-Builders פועלת על תוכנת Meeds, פתוחה לכל מי שירצה להצטרף, לבדוק ולהשתתף. אפשר להתחבר עם Metamask.
 
-This paper was published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
+מאמר זה פורסם ביום ההשקה. לאחר ההשקה, האסימון יונח באוויר לאנשים רבים ברחבי קהילת הקריפטו.
 
-## 5.4. The builders community
+## 5.4. קהילת הבונים
 
-We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the Work Metaverse. The association would reward builders engagement with Meeds, from its marketing budget.
+אנו משיקים את קהילת הבונים בתוכנת Meeds ובדיסקורד. הקהילה מקדמת בברכה כל מי שרוצה לקחת חלק בבניית ה-Work Metaverse. האגודה תתגמל את המעורבות של בונים ב-Meeds, מתקציב השיווק שלה.
 
-The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
+העמותה מתכננת גם להרים כמה Meeds על מנת לרכוש (לפדות) Deed עבור קהילת הבונים. לאחר מכן, הקהילה תטביע Meeds על ידי מעורבות, באמצעות מודל המינטיום, ותפיץ אותם למשתמשים מעורבים.
 
-## 5.5. Roadmap and milestones
+## 5.5. מפת דרכים ואבני דרך
 
-Our roadmap would follow the priority order below:
+מפת הדרכים שלנו תפעל לפי סדר העדיפות שלהלן:
 
 - Engagement index and minting through engagement
-- Enable Deeds renting
-- Xeed creation
-- Badges improvement and credentials development
-- DeFi services – in the wallet, credit cards partnership
+- אפשר השכרה של Deeds
+- יצירת Xeed
+- שיפור תגים ופיתוח אישורים
+- שירותי DeFi – בארנק, שותפות כרטיסי אשראי
 
-We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
+אנו סומכים על המאמצים המוקדמים מה-DAOs וחברות בעלות ידע טכנולוגי בשלב הבנייה. צריכים להיות לנו גם כמה מאמצים מוקדמים מחברות מסורתיות שמרוויחות ערך מיידי מה-metaverse על ידי מתן תוכניות מעורבות רלוונטיות לאנשיהן, בנוסף לתוכניות התגמול המסורתיות הנוכחיות שלהן.
 
-Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature metaverse, having spread to many organizations and many users globally.
+טביעת Meeds משתרעת על פני תקופה של 20 שנה. עד אז, אנו שואפים להשיג בניית מטא-ורסה בוגרת, לאחר שהתפשטה לארגונים רבים ולמשתמשים רבים ברחבי העולם.
 
-## 5.6. What you can do right now
+## 5.6. מה אתה יכול לעשות עכשיו
 
-What can you do right now to participate?
+מה אתה יכול לעשות עכשיו כדי להשתתף?
 
-- Spread this paper to those who would be interested
-- Visit our website [meeds.io](https://www.meeds.io/)
-- Check out the [Investor app](https://meeds.io/investors)
-- Contribute to the existing liquidity pools here :
+- הפיצו מאמר זה למי שיתעניין
+- בקר באתר האינטרנט שלנו [meeds.io](https://www.meeds.io/)
+- בדוק את [אפליקציית המשקיעים](https://meeds.io/investors)
+- תרמו למאגרי הנזילות הקיימים כאן:
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
-- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
+- הצטרף לקהילת [Discord](https://discord.com/invite/hAuADSq3) שלנו כדי להישאר מעודכן
+- הצטרפו לקהילת ה[בונים](https://meeds.io/builders) שלנו כדי לבדוק את תוכנת Meeds, לעסוק ולהרוויח כמה תגמולי מעורבות של Meeds
 
-**\*\*\* The Work Metaverse - let’s build this crazy future world together. \*\*\***
+**\*\*\* The Work Metaverse - בואו נבנה יחד את העולם העתידי המטורף הזה. \*\*\***

@@ -1,14 +1,14 @@
 
-# 1. Who we are – the Meeds Association
+# 1. 우리는 누구인가 – Meeds Association
 
-The Meeds association is a non-profit organization originally launched by several Open Source Software (OSS) communities around the common vision of a free digital world – a decentralized world that would not be controlled by a handful of centralized mega-corporations.
+Meeds 협회는 소수의 중앙 집중식 거대 기업에 의해 통제되지 않는 분산된 세계인 무료 디지털 세계라는 공통 비전을 중심으로 여러 오픈 소스 소프트웨어(OSS) 커뮤니티가 시작한 비영리 조직입니다.
 
-The Meeds association is incorporated in Geneva, as a non-profit association under the Swiss law.
+Meeds 협회는 스위스 법에 따라 비영리 협회로 Geneva에 설립되었습니다.
 
-The association regulates the issuance of the Meeds currency, an ERC20 token, recognized as a utility token.
+협회는 유틸리티 토큰으로 인정받는 ERC20 토큰인 미즈 화폐의 발행을 규제합니다.
 
-To build the WoM and Meeds, the association leverages the Ethereum platform and its ecosystem, making it accessible in a friendly and cost-effective way to all users.
+WoM 및 Meeds를 구축하기 위해 협회는 이더리움 플랫폼과 생태계를 활용하여 모든 사용자에게 친숙하고 비용 효율적인 방식으로 액세스할 수 있도록 합니다.
 
-The association is structured as a Decentralized Autonomous Organization (DAO) where the governance token holders vote on all important organizational changes such as electing the board every year.
+협회는 거버넌스 토큰 보유자가 매년 이사회 선출과 같은 모든 중요한 조직 변경에 투표하는 Decentralized Autonomous Organization(DAO)로 구성됩니다.
 
-Besides Meeds token management, the association holds the Intellectual Property (IP) of the Meeds software [github.com/meeds-io](https://github.com/meeds-io), available under the LGPL license and distributed for free. The latter includes an Ethereum wallet app that users can use to store and transact their Meeds (see section 2.4 for more details). The Meeds Association also runs a multi-tenant cloud hosting service leveraging that software.
+Meeds 토큰 관리 외에도 협회는 LGPL 라이선스에 따라 사용 가능하고 무료로 배포되는 Meeds 소프트웨어 [github.com/meeds-io](https://github.com/meeds-io)의 지적 재산(IP)을 보유하고 있습니다. 후자는 사용자가 Meeds를 저장하고 거래하는 데 사용할 수 있는 이더리움 지갑 앱을 포함합니다(자세한 내용은 섹션 2.4 참조). Meeds Association은 또한 해당 소프트웨어를 활용하는 다중 테넌트 클라우드 호스팅 서비스를 실행합니다.

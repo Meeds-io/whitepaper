@@ -1,109 +1,109 @@
-# 3. Meeds token – the Work Metaverse currency
+# 3. Jetonul Meeds - moneda Metaversului de lucru
 
-The Work Metaverse is powered by its currency – the Meeds (MEED) token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
+Metaverse este alimentat de moneda sa – jetonul Meeds (MEED). Meeds sunt folosite pentru a recompensa utilizatorii (prin programe de implicare), pentru a cumpăra în magazine, pentru a obține Deeds, pentru a obține randamente financiare din investiții etc.
 
 ## 3.1. Tokenomics
 
-The Meeds **maximum supply is limited to 100 million tokens**, minted progressively. **Meeds are minted at the rate of 10 MEED per minute**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).
+Sursa maximă **de Meeds este limitată la 100 de milioane de jetoane**, bătută progresiv. **Carnele sunt bătute la o rată de 10 MEED pe minut**. Prin urmare, orizontul complet de batere a monedei este de aproape 20 de ani (în condițiile în care se bat aproximativ $10*60*24*365 = 5 milioane de dolari pe an).
 
-5 Million Meeds (5% of total supply) have been pre-minted to date. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services.
+Până în prezent, au fost preminate 5 milioane de Meed (5% din oferta totală). Dintre acestea, 4,5 milioane au fost blocate într-un contract de tip "boltă", cu o perioadă de achiziție liniară de 4 ani. Suma preminată a fost folosită în principal pentru a achiziționa proprietatea intelectuală a software-ului, pentru a plăti onorariile juridice ale emitentului de jetoane și pentru servicii de găzduire.
 
-The rest is part of the __Meeds DAO funds__ and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
-
-
-## 3.2. Minting allocation
-
-Minted Meeds are allocated to encourage involvement of the three categories of stakeholders - the users, the builders and the investors:
-
-- The users (users and Deeds holders/renters) get Meeds through engagement rewards (mintium model).
-- Builders (members of the association and community) get Meeds through the association funds to build, operate and improve the WoM.
-- Investors mint Meeds through renting and buying of liquidity pools and staking Meeds.
-
-At the beginning, the builders get 30% of the allocation. The 70% are shared between the users and the investors. This allocation proportion will be reviewed on a regular basis, through the Meeds association DAO vote.
-
-## 3.3. Users – minting through engagement
-
-Part of the continuously minted Meeds is allocated to the engagement minting channel. The distribution is done weekly. At any given week end, the engagement index is calculated and Deeds can claim their rewards the following week and get their Meeds. Unclaimed Meeds stay in the fund and are added to the next week’s distribution. The model is described in detail in the previous chapter (part 2.6).
-
-## 3.4. Builders – Meeds association DAO and community of builders
-
-The WoM and the Meeds token are operated by the non-profit Meeds Association DAO, introduced above. A multisig contract called the _Meeds DAO Funds_ is used to manage the association's operating expenses.
-
-During the minting period, **30% of the minted Meeds are allocated to the Meeds association**.
-
-Association members can provide services to the association on the basis of a signed services convention establishing the man-day rate. Services are paid monthly in Meeds, based on the market price. Exemples of services include – enriching the Meeds software, developing the WoM app, developing new connectors, operating the cloud service, providing financial and legal services etc.
-
-Without being a member, any Deed can participate in the creation of a new connector and be rewarded for doing so – first through the Meeds association acquiring the connector and then by minting through this connector.
-
-The association operates a Builders community that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
-
-Thus, the community will function as an example of a Deed, offering a standard set of services provided by the association. The association stakes Meeds in order to redeem a Deed for the community. The community will then also participate in the engagement minting like any other Deed.
-
-After the minting period is over, the association will be sustained by :
-
-- taxing passive income (3% on Deeds renting)
-- taxing selling income (2.5% on Deeds sales)
-- perceiving transaction fees over the use of the perks stores
-- acting as a liquidity pool provider
-- perceiving transaction fees when a Deed distributes non Meeds tokens via WoM services.
-- by operating the Deeds that the association minted over time.
+Restul face parte din __fondurile DAO pentru Meeds__ și vor fi utilizate pentru a plăti servicii, precum și unele stimulente de lansare cum ar fi airdrops și campanii de trimitere.
 
 
-## 3.5. Investors
+## 3.2. Alocarea monetăriei
 
-Investors help creating the WoM by providing liquidity and by staking Meeds and thus stabilizing its price level during the construction period. Both are encouraged through minting.
+Mehedurile de Meeds sunt alocate pentru a încuraja implicarea celor trei categorii de părți interesate - utilizatorii, constructorii și investitorii:
 
-**Liquidity providers** Currency liquidity management is key to the success of the project and several DeFi strategies will be used to optimize capital efficiency. We will start with incentives for staking MeedS/ETH LP pool tokens and will progressively introduce bonds to move towards a protocol owned liquidity. The latter would contribute to the association’s long term sustainability - as mentioned above, transaction fees will fund the association operating expenses such as cloud hosting.
+- Utilizatorii (utilizatorii și deținătorii/chiriașii de Deeds) primesc Meeds prin recompense de implicare (modelul mintium).
+- Constructorii (membri ai asociației și ai comunității) obțin Meeds prin intermediul fondurilor asociației pentru a construi, opera și îmbunătăți WoM.
+- Investitorii bat monedă pe Meeds prin închirierea și cumpărarea de pool-uri de lichidități și prin miza Meeds.
 
-Every member also has the right to directly purchase a large amount of Meeds at a discount. The amount wired to the association account is converted to ETH and added along with the equivalent value of Meeds to the Liquidity Pool.
+La început, constructorii primesc 30% din alocare. Cele 70% sunt împărțite între utilizatori și investitori. Această proporție de alocare va fi revizuită în mod regulat, prin votul DAO al asociației Meeds.
 
-**Staking / long-term investment** To encourage long term investment, staked Meeds are rewarded. When Meeds are staked, the staker gets some xMeeds tokens. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings. In practice, minted Meeds are effectively added to the holdings of the xMeeds smart contract and distributed to the xMeeds holder when they unstake.
+## 3.3. Utilizatori - minting prin angajament
 
-By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. Each staked Meeds (xMeeds) grants its owner a number of points per day. The longer the vested period the higher the number of points obtained per xMeeds. Each Deed is then redeemed in exchange for a number of points.
+Romanian O parte din Meed-urile bătute în mod continuu este alocată canalului de monetărie de angajament. Distribuția se face săptămânal. La orice sfârșit de săptămână, se calculează indicele de angajament, iar Deeds își pot revendica recompensele în săptămâna următoare și își pot primi Meeds. Meed-urile nerevendicate rămân în fond și sunt adăugate la distribuția din săptămâna următoare. Modelul este descris în detaliu în capitolul anterior (partea 2.6).
 
-Points are calculated using the formula below :
+## 3.4. Constructorii - Asociația Meeds DAO și comunitatea de constructori
+
+WoM și token-ul Meeds sunt operate de DAO-ul non-profit Meeds Association, prezentat mai sus. Un contract multisig numit _Meeds DAO Funds_ este utilizat pentru a gestiona cheltuielile de funcționare ale asociației.
+
+În timpul perioadei de batere a monedei, **30% din Meeds bătute sunt alocate asociației Meeds**.
+
+Membrii asociației pot furniza servicii asociației pe baza unei convenții de servicii semnate, care stabilește tariful pe zi-om. Serviciile sunt plătite lunar în Meeds, pe baza prețului pieței. Exemple de servicii includ - îmbogățirea software-ului Meeds, dezvoltarea aplicației WoM, dezvoltarea de noi conectori, operarea serviciului cloud, furnizarea de servicii financiare și juridice etc.
+
+Fără a fi membru, orice Deed poate participa la crearea unui nou conector și poate fi recompensat pentru acest lucru - mai întâi prin intermediul asociației Meeds care achiziționează conectorul și apoi prin baterea de monedă prin intermediul acestui conector.
+
+Asociația administrează o comunitate de constructori care îi primește pe entuziaștii WoM, care doresc să contribuie la crearea WoM. Asociația va sponsoriza comunitatea din bugetul său, compensând implicarea membrilor comunității.
+
+Astfel, comunitatea va funcționa ca un exemplu de Deed, oferind un set standard de servicii furnizate de asociație. Asociația pune în joc Meeds pentru a răscumpăra un Deed pentru comunitate. Comunitatea va participa apoi, de asemenea, la baterea de angajamente ca orice alt Deed.
+
+După încheierea perioadei de batere a monedei, asociația va fi susținută de :
+
+- impozitarea veniturilor pasive (3% la închirierea de Deeds)
+- impozitarea venitului din vânzare (2,5% la vânzarea de Deeds)
+- perceperea de comisioane de tranzacție asupra utilizării magazinelor de avantaje
+- acționând ca un furnizor de lichidități
+- perceperea de comisioane de tranzacție atunci când un Deed distribuie jetoane altele decât Meeds prin intermediul serviciilor WoM.
+- prin operarea Deeds pe care asociația le-a bătut în timp.
+
+
+## 3.5. Investitori
+
+Investitorii contribuie la crearea WoM prin furnizarea de lichidități și prin miza Meeds, stabilizând astfel nivelul de preț al acestuia în timpul perioadei de construcție. Ambele sunt încurajate prin batere de monedă.
+
+**Furnizorii de lichidități** Gestionarea lichidităților valutare este esențială pentru succesul proiectului și mai multe strategii DeFi vor fi utilizate pentru a optimiza eficiența capitalului. Vom începe cu stimulente pentru miza pe jetoane MeedS/ETH LP pool tokens și vom introduce progresiv obligațiuni pentru a ne îndrepta către o lichiditate deținută de protocol. Aceasta din urmă va contribui la sustenabilitatea pe termen lung a asociației - așa cum am menționat mai sus, taxele de tranzacție vor finanța cheltuielile de funcționare a asociației, cum ar fi găzduirea în cloud.
+
+Fiecare membru are, de asemenea, dreptul de a achiziționa direct o cantitate mare de Meeds la un preț redus. Suma virată în contul asociației este convertită în ETH și adăugată, împreună cu valoarea echivalentă de Meeds, la fondul de lichidități.
+
+**Aprovizionare / investiție pe termen lung** Pentru a încuraja investițiile pe termen lung, Meed-urile cu miză sunt recompensate. Atunci când Meeds este mizat, cel care mizează primește niște jetoane xMeeds. Meeds nou-nouțe sunt distribuite celor care au pariat proporțional cu deținerile lor de xMeeds. În practică, Meeds bătute se adaugă efectiv la stocurile contractului inteligent xMeeds și sunt distribuite deținătorului de xMeeds atunci când acesta se deblochează.
+
+Prin miza Meeds, investitorii pot, de asemenea, să răscumpere Deeds (și apoi să participe la batere prin angajament), crescând astfel cererea de token-uri. Fiecare Meeds mizat (xMeeds) acordă proprietarului său un număr de puncte pe zi. Cu cât perioada de dobândire este mai lungă, cu atât mai mare este numărul de puncte obținute pe xMeeds. Fiecare Deed este apoi răscumpărat în schimbul unui număr de puncte.
+
+Punctele se calculează cu ajutorul formulei de mai jos :
 
  $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
 
- where :
+ unde :
 
-- $xMeeds$ : xMeeds balance  with no decimals
-- $T$ : Time elapsed in milliseconds
+- $xMeeds$ : echilibru xMeeds fără zecimale
+- $T$ : Timp scurs în milisecunde
 
-The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably. For example, the formula gives the following rates :
+Formula evită favorizarea marilor deținători pentru a distribui Deeds mai eficient și mai echitabil. De exemplu, formula dă următoarele rate :
 
-| **Holder Size** | **Holdings**   | **Accrue Rate** |
-| --------------- | -------------- | --------------- |
-| Small           | 1 000 xMeeds   | 28 pts/day      |
-| Medium          | 10 000 xMeeds  | 164 pts/day     |
-| Large           | 100 000 xMeeds | 321 pts/day     |
+| **Deținător Mărimea** | **Deținere**   | **Rata de acumulare** |
+| --------------------- | -------------- | --------------------- |
+| Mic                   | 1 000 xMeeds   | 28 pct/zi             |
+| Mediu                 | 10 000 xMeeds  | 164 pct/zi            |
+| Mare                  | 100 000 xMeeds | 321 pct/zi            |
 
 
-which leads to the following holding time for each class of holder :
+ceea ce conduce la următoarea durată de deținere pentru fiecare clasă de deținători :
 
-| **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| Common        | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| Uncommon      | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| Rare          | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| Legendary     | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| **Tipul cardului** | **Cost**          | **Deţinător Mare** | **Deținător Mediu** | **Deținător Mic** |
+| ------------------ | ----------------- | ------------------ | ------------------- | ----------------- |
+| Comun              | 8000 de puncte    | 25 de zile         | 49 de zile          | 9 luni            |
+| Uncommon           | 32000 de puncte   | 100 de zile        | 6 luni              | 3 ani             |
+| Rare               | 50 000 de puncte  | 156 de zile        | 10 luni             | 5 ani             |
+| Legendar           | 100 000 de puncte | 311 de zile        | 20 luni             | 10 ani            |
 
-## 3.6. Meeds DAO governance
+## 3.6. Guvernanța Meeds DAO
 
-Meeds token holders need to stake tokens in order to vote on the Meeds DAO decisions such as managing the minting budget or electing DAO board members (annual mandate).
+Deținătorii de jetoane Meeds trebuie să pună în joc jetoane pentru a vota deciziile DAO Meeds, cum ar fi gestionarea bugetului de monetărie sau alegerea membrilor consiliului de administrație al DAO (mandat anual).
 
-## 3.7. Decentralized finance (DeFi) user services
+## 3.7. Servicii de finanțare descentralizată (DeFi) pentru utilizatori
 
-The Work Metaverse will introduce the blockchain world to many people who do not use it today.
+Work Metaverse va prezenta lumea blockchain multor persoane care nu o folosesc în prezent.
 
-Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
+Într-adevăr, orice muncă (fie ea digitală sau nu) poate fi gamificată și orice angajament - recompensat cu Meeds. Meeds sunt puse la dispoziția utilizatorilor prin intermediul unui portofel ușor de utilizat, bazat pe blockchain, care "abstractizează" orice complexitate a lumii criptografice pentru un utilizator obișnuit.
 
-Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
+Dincolo de portofel și de un magazin în care aceștia pot achiziționa avantaje pentru Meeds, plănuim să prezentăm fiecărui utilizator mai multe produse pentru utilizatorii finali alimentate de protocoalele Decentralized Finance, cum ar fi:
 
-- The ability to stake Meeds tokens and get yields (generate revenues)
-- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
-- A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. This card could also be used by organizations to fund employee wallets in order to manage employee benefits such as restaurants, transportation and any type of expenses.
+- Posibilitatea de a miza jetoane Meeds și de a obține randamente (a genera venituri)
+- Capacitatea de a utiliza token-urile Meeds ca garanție pentru a împrumuta monede stabile, cum ar fi USDC (utilizând mai întâi un[ Fond comun Fuse](https://app.rari.capital/fuse), apoi înregistrând token-ul Meeds în [AAVE](https://aave.com/).
+- Un card digital care poate fi adăugat și utilizat prin Apple Pay, Google pay sau prin orice bancomat. Acesta din urmă poate fi furnizat printr-un parteneriat cu VISA și va avea ca efect de levier o linie de credit în USDC, garantată de Meeds mizați. Acest card ar putea fi folosit și de organizații pentru a finanța portofelele angajaților, pentru a gestiona beneficiile angajaților, cum ar fi restaurantele, transportul și orice tip de cheltuieli.
 
-So not only many new users will discover the blockchain world, they will also discover a bankless world.
+Astfel, nu numai că mulți utilizatori noi vor descoperi lumea blockchain, dar vor descoperi și o lume fără bănci.
 
  

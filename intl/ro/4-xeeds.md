@@ -1,64 +1,64 @@
-# 4. Xeeds - Work Metaverse Individuals / users
+# 4. Xeeds - Work Metaverse Persoane fizice / utilizatori
 
-## 4.1. Decentralized and self-sovereign models
+## 4.1. Modele descentralizate și autosuverane
 
-The WoM recognizes privacy as a fundamental human right and empowers users to own their data.
+WoM recunoaște confidențialitatea ca fiind un drept fundamental al omului și împuternicește utilizatorii să fie proprietarii datelor lor.
 
-Our approach is based on decentralized and self-sovereign identity principles, allowing users to be in control at any time of what information they want to publicize, share with a restricted group, or keep private.
+Abordarea noastră se bazează pe principii de identitate descentralizată și auto-suverană, permițând utilizatorilor să dețină în orice moment controlul asupra informațiilor pe care doresc să le facă publice, să le împărtășească unui grup restrâns sau să le păstreze private.
 
-User's activity and engagement in the WoM is always linked to a Deed. A Xeed is the virtual persona of a user in a Deed. Xeed does not require any KYC, it is self-declaring, but we could conceivably imagine third-party firms providing this service.
+Activitatea și implicarea utilizatorului în WoM este întotdeauna legată de un Deed. Un Xeed este persoana virtuală a unui utilizator într-un Deed. Xeed nu necesită nici un KYC, este o declarație proprie, dar am putea concepe ca firme terțe să furnizeze acest serviciu.
 
-## 4.2. Badges and credentials
+## 4.2. Ecusoane și acreditări
 
-Badges and Credentials are given to users as a part of their participation in a Deed. The holder may download them as W3C Verifiable Credentials[^7][^8] (aka VCs) and store them in his wallet. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
+Insignele și acreditările sunt acordate utilizatorilor ca parte a participării lor la o Deed. Titularul le poate descărca ca W3C Verifiable Credentials[^7][^8] (alias VC) și le poate stoca în portofelul său. Aceste VC sunt dovada cunoștințelor/cunoștințelor certificate de organizația care le emite.
 
-In today’s world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they count on their managers to give them a recommendation. The latter supposes certain goodwill on the part of the manager but is not necessarily treated as proof by the future employer.
+În lumea de astăzi, este greu să dovedești în prealabil o competență. Atunci când oamenii își fac reclamă pe rețele, ei se bazează pe managerii lor pentru a le oferi o recomandare. Aceasta din urmă presupune o anumită bunăvoință din partea managerului, dar nu este neapărat tratată ca o dovadă de către viitorul angajator.
 
-The Work Metaverse provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
+Metaverse muncii oferă un mijloc mai transparent și mai imuabil pentru ca oamenii să dobândească și să își demonstreze abilitățile.
 
-Badges are used to represent accomplishments made within a Deed. After completing a set of objectives or challenges, users will be awarded points. Badges can be unlocked by accumulating certain amounts of points in specific categories.
+Insignele sunt folosite pentru a reprezenta realizările făcute în cadrul unui Deed. După finalizarea unui set de obiective sau provocări, utilizatorii vor primi puncte. Insignele pot fi deblocate prin acumularea anumitor cantități de puncte în anumite categorii.
 
-When badges are downloaded by the user, it is possible to include the number of points and his rank in the Deed for this specific accomplishment.
+Atunci când insignele sunt descărcate de către utilizator, este posibil să se includă numărul de puncte și rangul său în Deed pentru această realizare specifică.
 
-Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the Deed. These are signed by the Deed and can be accompanied by a signature by a peer user.
+Legitimațiile sunt mai flexibile decât insignele; acestea pot fi o recomandare din partea unui coleg, care indică ani de expertiză, o formare sau un examen finalizat, sau un angajament în Deed. Acestea sunt semnate de către Deed și pot fi însoțite de o semnătură a unui coleg utilizator.
 
-## 4.3. Digital work identity
+## 4.3. Identitatea digitală a muncii
 
-All of the above contributes to forming proven digital skillset that can be kept and used by the user when changing jobs or freelancing. It would be more trustworthy than traditional solutions as it relies on not just one individual but a full community to prove it.
+Toate cele de mai sus contribuie la formarea unui set de competențe digitale dovedite, care pot fi păstrate și utilizate de către utilizator atunci când își schimbă locul de muncă sau lucrează ca liber profesionist. Ar fi mai demn de încredere decât soluțiile tradiționale, deoarece se bazează nu doar pe o singură persoană, ci pe o întreagă comunitate pentru a o dovedi.
 
-Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Deed to another, from one city to another, anywhere through the WoM.
+La fel ca și portofelul său Meeds, utilizatorul își va păstra Xeed-ul, insignele și acreditările atașate în portofelul său de identitate atunci când se mută de la un Deed la altul, de la un oraș la altul, oriunde prin WoM.
 
-The user will be able to share his Xeed, Badges, and Credentials with other Deeds to highlight his experience, as well as with recruiters or any other services that he deems interesting.
+Utilizatorul își va putea împărtăși Xeed-ul, insignele și acreditările cu alte Deeds pentru a-și evidenția experiența, precum și cu recrutorii sau cu orice alte servicii pe care le consideră interesante.
 
-A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations.
+Un utilizator poate avea una sau mai multe identități digitale în WoM.  El le-ar putea prezenta ulterior într-un mod unificat, folosind prezentări verificate.
 
-Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... In a manner of trustworthy LinkedIn 3.0.
+Spre deosebire de web 2, utilizatorul este pe deplin proprietar al identităților sale descentralizate. Acesta din urmă poate prezenta (și dovedi) Deeds la care a participat, competențele sale dovedite, competențele sale revendicate, alte Xeeds (persoane) cu care a lucrat, reprezentarea sa digitală... Într-o manieră de încredere LinkedIn 3.0.
 
-The user will be able to select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Deeds, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time.
+Utilizatorul va putea alege dacă să dezvăluie sau nu ceva, ce informații să furnizeze și ce identități să folosească pentru fiecare poziție. Conținutul (abilități dovedite, Deeds anterioare etc.) este inviolabil și, prin urmare, nu va putea fi modificat. Orice identitate ar trebui să fie dezvoltată în timp.
 
-## 4.4. Fair work marketplace
+## 4.4. Piața muncii echitabile
 
-Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Deeds – as they do in the physical world by changing employers. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to choose which Deed provides better engagement reward conditions, belongs to a more attractive city, etc.
+În cadrul acestei paradigme, viitoarea piață a muncii permite utilizatorilor să se deplaseze liber și să își aloce/vândă angajamentul între Deeds - așa cum fac în lumea fizică, schimbând angajatorii. Cu toate acestea, în cadrul WoM, angajamentul lor ar fi tangibil, măsurat și recompensat în mod echitabil. Prin trecerea de la un sistem la altul care urmează o logică similară, utilizatorii vor înțelege mai bine regulile jocului și vor judeca corect angajatorii - iarba nu este întotdeauna mai verde în altă parte. Utilizatorii vor putea alege ce Deed oferă condiții mai bune de recompensare a angajamentului, aparține unui oraș mai atractiv etc.
 
-On their end, the Deeds’ holders/renters can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
+La rândul lor, deținătorii/chiriașii Deeds pot căuta competențe relevante folosind rețeaua WoM de identități digitale de muncă (pe care utilizatorii au decis să le dezvăluie). Aceștia vor putea căuta competențe mai eficient, pe baza unor informații verificate și detaliate privind istoricul de muncă, competențele profesionale și nivelul de angajare al utilizatorului.
 
-## 4.5. Tangible and transparent recognition
+## 4.5. Recunoaștere tangibilă și transparentă
 
-Today, details on compensation and bonuses are obscure in many workplaces. Therefore, it is difficult for a person to compare his conditions to that of another and get a sense of a fair and unbiased treatment. Employees experience a lot of frustrations with the above.
+În prezent, detaliile privind compensațiile și bonusurile sunt obscure în multe locuri de muncă. Prin urmare, este dificil pentru o persoană să compare condițiile sale cu cele ale altei persoane și să aibă sentimentul unui tratament corect și imparțial. Angajații resimt o mulțime de frustrări din cauza celor de mai sus.
 
-The WoM introduces an objective way to recognize achievements and reward them.
+WoM introduce o modalitate obiectivă de a recunoaște realizările și de a le recompensa.
 
-Engagement recognition and reward mechanism is transparent and applies fairly to all users, following the same explicit rules, decided in advance and aligned with the Deed’s goals.
+Mecanismul de recunoaștere a angajamentului și de recompensare este transparent și se aplică în mod echitabil tuturor utilizatorilor, urmând aceleași reguli explicite, decise în prealabil și aliniate la obiectivele din Deed.
 
-Wallets are individual and blockchain based – when the user receives a reward or earns a badge, it cannot be taken back or erased.
+Portofelele sunt individuale și se bazează pe blockchain - atunci când utilizatorul primește o recompensă sau câștigă o insignă, aceasta nu poate fi luată înapoi sau ștearsă.
 
-## 4.6. Access to Web 3.0, cryptoeconomy and DEFI services
+## 4.6. Accesul la serviciile Web 3.0, criptoeconomie și DEFI
 
-As discussed above, the Work Metaverse opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
+După cum s-a discutat mai sus, Work Metaverse deschide lumea criptomonedelor și a serviciilor web descentralizate practic tuturor - o populație foarte mare de utilizatori, chiar și posibil fără legătură cu domeniul digital.
 
-Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
+Într-adevăr, orice angajament de muncă poate fi potențial tokenizat. De fapt, lumea devine din ce în ce mai digitală, cu tendințe precum 5G, iot, wearables și așa mai departe. În consecință, tot mai multe semnale ar putea fi captate și analizate pentru a simboliza angajamentul profesiilor non-digitale. Provocările oferă o modalitate gata de a fi utilizată pentru a simboliza acest lucru prin reprezentarea realizărilor în lumea fizică.
 
-Any user can get Meeds and use a Meeds wallet to get access to new age services without any special training.
+Orice utilizator poate obține Meeds și poate utiliza un portofel Meeds pentru a avea acces la servicii new age fără o pregătire specială.
 
-[^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
-[^8]: Verifiable Credentials Data Model
+[^7]: A.Preukschatt, R. Drummond "Identitate Auto-Suverană"
+[^8]: Modelul de date al Acreditărilor Verificabile

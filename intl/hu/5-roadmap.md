@@ -1,86 +1,86 @@
-# 5. The Work Metaverse for ALL – vision summary and milestones
+# 5. Az összes számára a Munka Metaverse - látókör összefoglalása és mérföldkövek
 
-## 5.1. Ultimate goal - decentralized web for everyone
+## 5.1. Végső cél - decentralizált web mindenkinek
 
-In the end, the WoM is a decentralized web world for everyone – every person and every organization.
+Végül a WoM mindenki számára egy decentralizált web világ - minden ember és minden szervezet számára.
 
-It will be populated by users, acting through their digital identities **Xeeds** and accessing the world through their metamasks, for crypto-savvies, or login/password for the newbies. People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
+A végcél a mindenki számára decentralizált webvilág - minden személy és minden szervezet számára. Azt a felhasználók fogják lakni, akik a digitális identitásaikon keresztül, a metamaskokon keresztül férnek hozzá a világhoz a kriptó-ösztönzöttek számára, vagy a bejelentkezési/jelszóval a új emberek számára. A részvétel allokálása és a tisztességes, átlátható és decentralizált módon történő jutalmazás a cél. Az emberek képesek lesznek jelenlétüket elosztani és megfelelően jutalmazni, a jól látható, decentralizált és tisztességes módon. Hozzáférnek a decentralizált világhoz és a holnap kriptovilágához egyszerű és ismerős módon - egyszerű eszközöket kapnak, hogy használhassák tokenjeiket az életükben vagy befektessék őket a jövőjükre.
 
-Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the metaverse, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
+A szervezetek - Deed-ek - képesek lesznek tehetségeket keresni a WoM-en keresztül a megfelelő bizonyított készségekért. Az ő részvételükért a metaverzumban jutalmazásban részesülnek a felhasználóik részvételének (mintium modell) által megjelenített tokenek által. De legfontosabb, hogy az alkalmazottak növekvő részvételét és hűségét élvezhetik.
 
-The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
+A WoM saját valutával rendelkezik**Meeds** – amelyet üzletekben lehet elkölteni, más valutára lehet váltani, befektetni a megtérülésért, bérelni vagy megvásárolni stb. A WoM más tokenek elosztását is segíteni fogja, és részt vesz az általános kriptoegyensúlyban.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
+Mint ahogy a kép többet mond ezer szónál, itt van egy diagram, amely leírja a WoM és a Meeds áramlását
 
-![WoM and Meeds flows](en/img/wom-flows.png)
+![WoM és Meed áramlatok](en/img/wom-flows.png)
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
+A világ fenntartása és fenntarthatósága a hosszú távon a Meeds egyesület és a Városok közötti adók által biztosított.
 
-## 5.2. What’s in it for early adopters
+## 5.2. Mi van benne az előrehaladók számára
 
-Obviously, early adopters would get considerable advantages over the late comers.
+Az előnyök előnyökkel járnak, nyilvánvalóan az első felhasználók nagy előnyökkel rendelkeznek a késői érkezőkkel szemben.
 
-In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
+A WoM jutalmazza a verse hosszú távú befektetését - az ingatlan (Deed) visszaváltását. A Deed eredeti tulajdonosa aktív használatból származó jutalék (engagement minting) által, a passzív jövedelem (bérlés) által kap kompenzációt, és élethosszig 1% jutalékot kap bármely Deed eladási tranzakcióján (tulajdonosi változás esetén az eredeti kicserélő jutalékot kap a tranzakción).
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the metaverse.
+Azok a korai befektetők, akik hisznek a projektben, részt vesznek a likviditási medencékben, Meed-et rögzítenek, visszaváltják őket Deed-ek ellen..., kisebb vagy nagyobb méretű korai befektetők további tokeneket képesek megműteni. Az ő szavazati joguk is előbbre lesz, és segítenek alakítani a metaverszt.
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
+A Deed-eket megszerző, de különösen azokat használó szervezetek a munkatársaik bevonásának és jutalmazásának Meed-ekre váltásával jutalmazásban részesülnek. Annál igazságosabban játszanak, annál többet kapnak. Az korábbi örökösök az első történelmi városokhoz lesznek kapcsolódva, és később építőként azonosítva lesznek.
 
-The diagram below represents an example of the Meeds investment strategy for capital holders :
+Az alábbi diagram egy példa a Meeds befektetési stratégiájára a tőkehordozók számára:
 
-![Meeds investment strategy for capital holders](en/img/invest-capital.png)
+![Meeds befektetési stratégiája tőkehordozók számára](en/img/invest-capital.png)
 
-Organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
+Az szervezetek természetesen részt vehetnek likviditási medencékben, de csatlakozhatnak az építők közösségéhez is, és ott további részvételi jutalmakat is kaphatnak.
 
-The diagram below represents an example of the Meeds investment strategy for work holders :
+Az alábbi diagram egy példa a Meeds befektetési stratégiájára a munka megtartói számára:
 
-![Meeds investment strategy for work holders](en/img/invest-work.png)
+![Meeds befektetési stratégiája a munka megtartói számára](en/img/invest-work.png)
 
-## 5.3. The launch
+## 5.3. A start
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+Az hivatalos indulás dátuma **2022. május 1-jének** van beállítva - a Nemzetközi Dolgozók Napja, sok országban ünnepelt.
 
-At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
+Ekkor a Meed token már létezik. Lehetséges megszerezni és a likviditási medencék nyitva állnak a részvételre, a Polygon és Ethereum hálózatokon.
 
-Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
+A három Meeds Egyesület tagja belsőleg használja a rendszert, hogy bevonja és jutalmazza felhasználóikat, és javítsa a Meeds szoftverét.
 
-The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
+Az Investor alkalmazás elérhető az Ethereum Mainnet-en. Indításkor tartalmazza a rögzítést, likviditási jutalmakat, pontgyűjtést és Deed-ek visszaváltását.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
+A Építők közössége működik a Meeds szoftverrel, nyitva bárki számára, aki csatlakozni, tesztelni és részt venni szeretne. Lehetséges bejelentkezni Metamask-al.
 
-This paper was published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
+Ez a papír a bevezető napon jelent meg. A bevezetés után a token sok embernek lesz leeresztve a kripto közösségben.
 
-## 5.4. The builders community
+## 5.4. Az építők közössége
 
-We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the Work Metaverse. The association would reward builders engagement with Meeds, from its marketing budget.
+A Meeds szoftver és a Discorden indítjuk el a építők közösségét. A közösség szívesen fogad bárkit, aki részt szeretne venni a Munka Metaverse építésében. Az egyesület jutalmazná a Meeds építőinek részvételét a marketing költségvetésből.
 
-The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
+Az egyesület tervei szerint néhány Meed-et is befektetnek annak érdekében, hogy megszerezzék (visszavásárolják) egy Deed-et az építők közösségének. A közösség akkor fog Meed-eket kibocsátani a részvétel által, a Mintium modell segítségével, és az érintett felhasználóknak fogja őket elosztani.
 
-## 5.5. Roadmap and milestones
+## 5.5. Útterv és mérföldkövek
 
-Our roadmap would follow the priority order below:
+Az útterveink a következő prioritásrend szerint követnék:
 
-- Engagement index and minting through engagement
-- Enable Deeds renting
-- Xeed creation
-- Badges improvement and credentials development
-- DeFi services – in the wallet, credit cards partnership
+- Engagement index és az engagement általi bélyegzés
+- Engedélyezze a bérleti cselekményeket
+- Xeed létrehozás
+- Jelvények javítása és minősítési fejlesztés
+- DeFi szolgáltatások – a pénztárcában, hitelkártyák partnersé
 
-We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
+Számítunk az előfutárokra az DAO-k és a technológiailag jártas cégek köréből a építési szakasz alatt. Azt is elvárnánk, hogy a hagyományos vállalatok közül is legyenek korai ügyfelek, akik azonnal hasznot húznak a metaverzumból, amikor releváns részvételi programokat biztosítanak munkatársaik számára, a meglévő hagyományos juttatási tervek mellett.
 
-Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature metaverse, having spread to many organizations and many users globally.
+A Meeds zárakat 20 éves időtartamra tervezték. Ekkor reméljük, hogy sikerült építeni egy érett metaverzumot, amely széles körben elterjedt számos szervezetnél és felhasználónál a világban.
 
-## 5.6. What you can do right now
+## 5.6. Amit most tehetsz
 
-What can you do right now to participate?
+Mit tehetsz most, hogy részt vegyél?
 
-- Spread this paper to those who would be interested
-- Visit our website [meeds.io](https://www.meeds.io/)
-- Check out the [Investor app](https://meeds.io/investors)
-- Contribute to the existing liquidity pools here :
+- Terjessze ezt a papírt az érdeklődőknek
+- Látogass el honlapunkra [meeds.io](https://www.meeds.io/)
+- Nézd meg az [Investor app](https://meeds.io/investors)
+- Járuljon hozzá a meglévő likviditási medencékhez itt:
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
-- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
+- Csatlakozz a [Discord](https://discord.com/invite/hAuADSq3) közösségünkhöz, hogy naprakész legyél
+- Csatlakozz a [Builders](https://meeds.io/builders) közösségünkhöz, hogy tesztelhesd a Meeds szoftvert, bekapcsolódj és nyerj néhány Meeds részvételi jutalmat
 
-**\*\*\* The Work Metaverse - let’s build this crazy future world together. \*\*\***
+**\*\*\* A Munka Metaverse - építsük együtt ezt a őrült jövő világát. \*\*\***
