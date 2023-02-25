@@ -1,6 +1,6 @@
 ---
 title: Meeds DAO - Το Metaverse της εργασίας
-date: June 1rd, 2022 ‐ Version 1.0.2
+date: 1 Ιουνίου 2022 ‐ Έκδοση 1.0.2
 toc-title: Πίνακας περιεχομένων
 language: el
 toc-own-page: true
@@ -15,5 +15,6 @@ book: true
 listings-no-page-break: true
 first-chapter: 2
 classoption: oneside
-
-...
+mainfont: "Source Sans Pro"
+sansfont: "Source Sans Pro"
+CJKmainfont: "Heiti TC"

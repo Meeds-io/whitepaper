@@ -15,5 +15,6 @@ book: true
 listings-no-page-break: true
 first-chapter: 2
 classoption: oneside
+mainfont: "Source Sans Pro"
+sansfont: "Source Sans Pro"
 CJKmainfont: "Heiti TC"
-...

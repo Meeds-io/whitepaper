@@ -21,7 +21,7 @@ Meeds **最大供應量限制為 1 億個代幣**，逐步鑄造。 **Meeds 以�
 
 一開始，建設者獲得 30% 的分配。 70% 由用戶和投資者共享。 這個分配比例將通過 Meeds 協會 DAO 投票定期審查。
 
-## 3.3. 3.3. Users – minting through engagement
+## 3.3. Users – minting through engagement
 
 部分連續鑄造的 Meeds 被分配到 engagement 鑄造通道。 分配每週進行一次。 在任何給定的周末，都會計算參與度指數，並且 Deeds 可以在下一周領取獎勵並獲得他們的 Meeds。 無人認領的 Meeds 留在基金中，並被添加到下週的分配中。 該模型在前一章（第 2.6 部分）中有詳細描述。
 
