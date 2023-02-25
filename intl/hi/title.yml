@@ -17,3 +17,4 @@ first-chapter: 2
 classoption: oneside
 mainfont: "Hind"
 sansfont: "Hind"
+CJKmainfont: "Heiti TC"
