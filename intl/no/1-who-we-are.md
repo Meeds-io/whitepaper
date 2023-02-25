@@ -5,7 +5,7 @@ Meeds er en ideell organisasjon som opprinnelig ble lansert av flere Open Source
 
 Meeds-foreningen er registrert i Genève,  som en ideell forening i henhold til sveitsisk lov.
 
-The labour market favours certain types of individuals, leaving great skills behind.
+Foreningen regulerer utstedelsen av Meeds-valutaen, et ERC20-token, anerkjent som et nyttetoken.
 
 For å bygge WoM og Meeds utnytter foreningen Ethereum-plattformen og dens økosystem,  noe som gjør den tilgjengelig på en vennlig og kostnadseffektiv måte for alle brukere.
 
