@@ -1,64 +1,64 @@
-# 4. Xeeds - Work Metaverse Individuals / users
+# 4. Xeeds - Work Metaverse 개인/사용자
 
-## 4.1. Decentralized and self-sovereign models
+## 4.1. 탈중앙화 및 자주적 모델
 
-The WoM recognizes privacy as a fundamental human right and empowers users to own their data.
+WoM은 개인 정보를 기본적인 인권으로 인식하고 사용자가 자신의 데이터를 소유할 수 있는 권한을 부여합니다.
 
-Our approach is based on decentralized and self-sovereign identity principles, allowing users to be in control at any time of what information they want to publicize, share with a restricted group, or keep private.
+우리의 접근 방식은 분산형 및 자주적 신원 원칙을 기반으로 하므로 사용자가 공개하고 싶은 정보, 제한된 그룹과 공유하거나 비공개로 유지하려는 정보를 언제든지 제어할 수 있습니다.
 
-User's activity and engagement in the WoM is always linked to a Deed. A Xeed is the virtual persona of a user in a Deed. Xeed does not require any KYC, it is self-declaring, but we could conceivably imagine third-party firms providing this service.
+WoM에서 사용자의 활동과 참여는 항상 Deed와 연결됩니다. Xeed는 Deed에서 사용자의 가상 인물입니다. Xeed는 Deed에서 사용자의 가상 인물입니다.
 
-## 4.2. Badges and credentials
+## 4.2. 배지 및 자격 증명
 
-Badges and Credentials are given to users as a part of their participation in a Deed. The holder may download them as W3C Verifiable Credentials[^7][^8] (aka VCs) and store them in his wallet. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
+배지 및 자격 증명은 Deed 참여의 일부로 사용자에게 제공됩니다. 소유자는 이를 W3C 검증 가능한 자격 증명[^7][^8](VC라고도 함)으로 다운로드하여 지갑에 저장할 수 있습니다. 해당 VC는 발급 기관에서 인증한 지식/노하우 증명입니다.
 
-In today’s world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they count on their managers to give them a recommendation. The latter supposes certain goodwill on the part of the manager but is not necessarily treated as proof by the future employer.
+오늘날의 세상에서 기술을 미리 증명하기는 어렵습니다. 사람들은 네트워크에서 자신을 광고할 때 관리자가 추천해 줄 것을 기대합니다. 후자는 관리자 측에서 특정 선의를 가정하지만 미래 고용주가 반드시 증거로 취급하지는 않습니다.
 
-The Work Metaverse provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
+Work Metaverse는 사람들이 자신의 능력을 습득하고 발휘할 수 있는 보다 투명하고 불변의 수단을 제공합니다.
 
-Badges are used to represent accomplishments made within a Deed. After completing a set of objectives or challenges, users will be awarded points. Badges can be unlocked by accumulating certain amounts of points in specific categories.
+배지는 Deed 내에서 이루어진 성과를 나타내는 데 사용됩니다. 일련의 목표 또는 도전 과제를 완료하면 사용자에게 포인트가 부여됩니다. 배지는 특정 범주에서 일정량의 포인트를 축적하여 잠금 해제할 수 있습니다.
 
-When badges are downloaded by the user, it is possible to include the number of points and his rank in the Deed for this specific accomplishment.
+사용자가 배지를 다운로드할 때 이 특정 성과에 대한 Deed에 점수와 순위를 포함할 수 있습니다.
 
-Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the Deed. These are signed by the Deed and can be accompanied by a signature by a peer user.
+자격 증명은 배지보다 유연합니다. 수년간의 전문 지식, 교육 또는 시험 완료 또는 Deed 참여를 나타내는 동료의 추천일 수 있습니다. 이들은 Deed에 의해 서명되며 동료 사용자의 서명이 수반될 수 있습니다.
 
-## 4.3. Digital work identity
+## 4.3. 디지털 워크 아이덴티티
 
-All of the above contributes to forming proven digital skillset that can be kept and used by the user when changing jobs or freelancing. It would be more trustworthy than traditional solutions as it relies on not just one individual but a full community to prove it.
+위의 모든 것은 사용자가 이직하거나 프리랜서로 일할 때 유지하고 사용할 수 있는 검증된 디지털 기술을 형성하는 데 기여합니다. 이를 증명하기 위해 한 개인이 아니라 전체 커뮤니티에 의존하기 때문에 기존 솔루션보다 더 신뢰할 수 있습니다.
 
-Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Deed to another, from one city to another, anywhere through the WoM.
+Meeds 지갑과 마찬가지로 사용자는 WoM을 통해 한 Deed에서 다른 도시로, 한 도시에서 다른 도시로 이동할 때 ID 지갑에 부착된 Xeed, 배지 및 자격 증명을 유지합니다.
 
-The user will be able to share his Xeed, Badges, and Credentials with other Deeds to highlight his experience, as well as with recruiters or any other services that he deems interesting.
+사용자는 자신의 경험을 강조하기 위해 자신의 Xeed, 배지 및 자격 증명을 다른 증서와 공유할 수 있을 뿐만 아니라 채용 담당자 또는 자신이 흥미롭다고 생각하는 기타 서비스와도 공유할 수 있습니다.
 
-A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations.
+사용자는 WoM에서 하나 또는 여러 개의 디지털 ID를 가질 수 있습니다. 그는 나중에 검증된 프레젠테이션을 사용하여 통합된 방식으로 프레젠테이션을 할 수 있었습니다.
 
-Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... In a manner of trustworthy LinkedIn 3.0.
+웹 2와 달리 사용자는 분산된 ID를 완전히 소유합니다. 후자는 그가 참여한 Deeds, 그의 입증된 기술, 그의 주장된 기술, 그가 함께 일한 다른 Xeeds(사람), 자신의 디지털 표현을 보여줄(그리고 증명할) 수 있습니다. 신뢰할 수 있는 LinkedIn 3.0 방식으로.
 
-The user will be able to select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Deeds, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time.
+사용자는 공개 여부, 제공할 정보, 각 직책에 사용할 ID를 선택할 수 있습니다. 콘텐츠(검증된 기술, 이전 Deeds 등)는 변조 방지이므로 수정할 수 없습니다. 모든 정체성은 시간이 지남에 따라 개발되어야 합니다.
 
-## 4.4. Fair work marketplace
+## 4.4. 공정 노동 시장
 
-Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Deeds – as they do in the physical world by changing employers. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to choose which Deed provides better engagement reward conditions, belongs to a more attractive city, etc.
+이 패러다임 내에서 미래의 작업 시장은 사용자가 고용주를 변경하여 물리적 세계에서 하는 것처럼 자유롭게 이동하고 증서 간에 참여를 할당/판매할 수 있도록 합니다. 그러나 WoM에서 그들의 참여는 공정한 방식으로 유형화되고 측정되며 보상될 것입니다. 유사한 논리를 따르는 시스템 사이를 이동함으로써 그들은 게임의 규칙을 더 잘 이해하고 고용주를 공정하게 판단할 것입니다. 잔디가 항상 다른 곳에서 더 푸르른 것은 아닙니다. 사용자는 어떤 Deed가 더 나은 참여 보상 조건을 제공하는지, 더 매력적인 도시에 속하는지 등을 선택할 수 있습니다.
 
-On their end, the Deeds’ holders/renters can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
+결국 Deeds 보유자/임차인은 디지털 작업 ID의 WoM 네트워크(사용자가 공개하기로 결정한)를 사용하여 관련 기술을 검색할 수 있습니다. 그들은 작업 이력, 작업 기술 및 사용자의 참여 수준에 대한 검증되고 자세한 정보를 기반으로 보다 효과적으로 기술을 소싱할 수 있습니다.
 
-## 4.5. Tangible and transparent recognition
+## 4.5. 유형적이고 투명한 인식
 
-Today, details on compensation and bonuses are obscure in many workplaces. Therefore, it is difficult for a person to compare his conditions to that of another and get a sense of a fair and unbiased treatment. Employees experience a lot of frustrations with the above.
+오늘날 많은 직장에서 보상 및 상여금에 대한 세부 사항이 모호합니다. 따라서 자신의 상태를 다른 사람의 상태와 비교하여 공정하고 편견 없는 대우를 받는다는 느낌을 받기가 어렵습니다. 직원들은 위의 내용에 대해 많은 좌절감을 느낍니다.
 
-The WoM introduces an objective way to recognize achievements and reward them.
+WoM은 성과를 인정하고 보상하는 객관적인 방법을 도입합니다.
 
-Engagement recognition and reward mechanism is transparent and applies fairly to all users, following the same explicit rules, decided in advance and aligned with the Deed’s goals.
+참여 인식 및 보상 메커니즘은 투명하며 동일한 명시적 규칙에 따라 모든 사용자에게 공정하게 적용되며 사전에 결정되고 Deed의 목표와 일치합니다.
 
-Wallets are individual and blockchain based – when the user receives a reward or earns a badge, it cannot be taken back or erased.
+지갑은 개인 및 블록체인 기반입니다. 사용자가 보상을 받거나 배지를 획득하면 이를 회수하거나 삭제할 수 없습니다.
 
-## 4.6. Access to Web 3.0, cryptoeconomy and DEFI services
+## 4.6. 웹 3.0, 암호화 경제 및 DEFI 서비스에 대한 액세스
 
-As discussed above, the Work Metaverse opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
+위에서 논의한 바와 같이 Work Metaverse는 디지털 분야와 관련이 없을 수도 있는 매우 많은 사용자 인구를 포함하여 기본적으로 모든 사람에게 암호화폐 및 분산형 웹 서비스의 세계를 열어줍니다.
 
-Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
+실제로 모든 작업 참여는 잠재적으로 토큰화될 수 있습니다. 실제로 세상은 5G, IoT, 웨어러블 등과 같은 트렌드로 점점 더 디지털화되고 있습니다. 결과적으로 잠재적으로 점점 더 많은 신호를 캡처하고 분석하여 비디지털 직업의 참여를 토큰화할 수 있습니다. 챌린지는 물리적 세계에서 성과를 나타내어 이를 토큰화할 준비가 된 방법을 제공합니다.
 
-Any user can get Meeds and use a Meeds wallet to get access to new age services without any special training.
+모든 사용자는 Meeds를 얻을 수 있으며 Meeds 지갑을 사용하여 특별한 교육 없이도 새로운 연령 서비스에 액세스할 수 있습니다.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Verifiable Credentials Data Model

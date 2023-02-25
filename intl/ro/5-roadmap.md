@@ -1,86 +1,86 @@
-# 5. The Work Metaverse for ALL – vision summary and milestones
+# 5. Metaversul muncii pentru TOȚI - rezumat al viziunii și etape importante
 
-## 5.1. Ultimate goal - decentralized web for everyone
+## 5.1. Scopul final - web descentralizat pentru toată lumea
 
-In the end, the WoM is a decentralized web world for everyone – every person and every organization.
+În cele din urmă, WoM este o lume web descentralizată pentru toată lumea - fiecare persoană și fiecare organizație.
 
-It will be populated by users, acting through their digital identities **Xeeds** and accessing the world through their metamasks, for crypto-savvies, or login/password for the newbies. People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
+Acesta va fi populat de utilizatori, acționând prin intermediul identităților lor digitale **Xeeds** și accesarea lumii prin intermediul metamascurilor lor, pentru cripto-avizați, sau prin login/parolă pentru începători. Oamenii și-ar aloca angajamentul și ar fi recompensați într-un mod echitabil, transparent și descentralizat. Aceștia ar avea acces la lumea descentralizată și la lumea criptografică de mâine într-un mod simplu și familiar - ar primi instrumente simple pentru a-și folosi jetoanele în viața lor sau pentru a le investi în viitor.
 
-Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the metaverse, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
+Organizații - **Deeds** ar fi în măsură să găsească talente, navigând prin WoM, pentru a găsi competențele dovedite potrivite. Aceștia ar fi recompensați pentru participarea lor la metavers, prin baterea de jetoane prin implicarea utilizatorilor (modelul mintium). Dar, mai presus de toate, ar beneficia de un angajament și o loialitate mai mare din partea utilizatorilor lor.
 
-The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
+WoM ar avea propria monedă **Meeds** – care ar putea fi cheltuite în magazine, convertite în altă monedă, investite pentru a obține un randament al investiției, închiriate sau cumpărate etc. De asemenea, WoM va facilita distribuția altor token-uri și va participa la ecosistemul criptografic general.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
+Cum o imagine face cât o mie de cuvinte, iată o diagramă care descrie fluxurile WoM și Meeds
 
-![WoM and Meeds flows](en/img/wom-flows.png)
+![Fluxurile WoM și Meeds](en/img/wom-flows.png)
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
+Întreținerea lumii și sustenabilitatea pe termen lung sunt asigurate prin taxe împărțite între asociația Meeds și orașe.
 
-## 5.2. What’s in it for early adopters
+## 5.2. Care sunt avantajele pentru cei care adoptă timpuriu
 
-Obviously, early adopters would get considerable advantages over the late comers.
+În mod evident, cei care adoptă timpuriu acest sistem vor avea avantaje considerabile față de cei care vin mai târziu.
 
-In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
+În special, WoM recompensează investițiile pe termen lung în versuri - adică răscumpărarea proprietății (Deeds). Proprietarul inițial al Deed-ului este compensat prin baterea de angajamente (utilizare activă), prin venituri pasive (închiriere) și primește pe toată durata vieții 1% la orice tranzacție de vânzare a Deed-ului (la fiecare schimbare de proprietate, răscumpărătorul inițial primește un comision pentru tranzacție).
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the metaverse.
+Crezând în proiect, participând la bazinele de lichidități, mizând Meeds, răscumpărându-i pe Deeds... investitorii timpurii de toate mărimile vor bate jetoane suplimentare. De asemenea, aceștia ar obține cele mai timpurii drepturi de vot și ar contribui la modelarea Metaverse.
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
+Organizațiile care achiziționează, dar mai ales cele care folosesc Deeds pentru a-și angaja și recompensa angajații ar fi compensate în Meeds bătute. Cu cât vor juca mai corect, cu atât vor primi mai mult. Cei care au adoptat mai devreme aceste drepturi vor fi asociați cu primele orașe istorice și vor fi identificați mai târziu ca fiind constructorii.
 
-The diagram below represents an example of the Meeds investment strategy for capital holders :
+Diagrama de mai jos reprezintă un exemplu de strategie de investiții Meeds pentru deținătorii de capital :
 
-![Meeds investment strategy for capital holders](en/img/invest-capital.png)
+![Strategia de investiții Meeds pentru deținătorii de capital](en/img/invest-capital.png)
 
-Organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
+Organizațiile pot, desigur, să participe la bazinele de lichidități, dar și să se alăture comunității de constructori și să obțină acolo recompense suplimentare de implicare.
 
-The diagram below represents an example of the Meeds investment strategy for work holders :
+Diagrama de mai jos reprezintă un exemplu de strategie de investiții Meeds pentru deținătorii de muncă :
 
-![Meeds investment strategy for work holders](en/img/invest-work.png)
+![Strategia de investiții Meeds pentru deținătorii de muncă](en/img/invest-work.png)
 
-## 5.3. The launch
+## 5.3. Lansarea
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+Data oficială de lansare este stabilită pentru **1 mai 2022** - Ziua Internațională a Muncitorilor, sărbătorită în multe țări.
 
-At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
+În acel moment, simbolul Meed există deja. Este posibilă achiziționarea acestuia, iar pool-urile de lichiditate sunt deschise pentru participare, în rețelele Polygon și Ethereum.
 
-Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
+Trei membri ai asociației Meeds folosesc sistemul pe plan intern pentru a-și angaja și recompensa utilizatorii și pentru a îmbunătăți software-ul Meeds.
 
-The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
+Aplicația pentru investitori este disponibilă pe Ethereum Mainnet. La lansare, aceasta include miză, recompense de lichiditate, acumularea de puncte și răscumpărarea de Deeds.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
+Comunitatea Constructorilor este în funcțiune pe software-ul Meeds, deschisă tuturor celor care doresc să se alăture, să testeze și să participe. Este posibil să vă conectați cu Metamask.
 
-This paper was published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
+Acest document a fost publicat în ziua lansării. În urma lansării, tokenul va fi distribuit pe calea aerului către multe persoane din comunitatea criptografică.
 
-## 5.4. The builders community
+## 5.4. Comunitatea constructorilor
 
-We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the Work Metaverse. The association would reward builders engagement with Meeds, from its marketing budget.
+Lansăm comunitatea de constructori pe software-ul Meeds și pe Discord. Comunitatea îi primește pe toți cei care doresc să ia parte la construirea Metaversului de lucru. Asociația va recompensa implicarea constructorilor în Meeds, din bugetul său de marketing.
 
-The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
+Asociația intenționează, de asemenea, să pună în joc unele Meeds pentru a dobândi (răscumpăra) un Deed pentru comunitatea de constructori. Comunitatea va monetări apoi Meeds în funcție de angajament, prin modelul mintium, și le va distribui utilizatorilor angajați.
 
-## 5.5. Roadmap and milestones
+## 5.5. Foaie de parcurs și etape importante
 
-Our roadmap would follow the priority order below:
+Foaia noastră de parcurs ar urma ordinea de prioritate de mai jos:
 
-- Engagement index and minting through engagement
-- Enable Deeds renting
-- Xeed creation
-- Badges improvement and credentials development
-- DeFi services – in the wallet, credit cards partnership
+- Indicele de angajare și de batere a monedei prin angajare
+- Activarea închirierii de Deed
+- Crearea de Xeed
+- Îmbunătățirea insignelor și dezvoltarea acreditărilor
+- Servicii DeFi - în portofel, parteneriat cu cardurile de credit
 
-We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
+Ne bazăm pe cei care adoptă timpuriu DAO și pe companiile cu experiență tehnologică în etapa de construcție. Ar trebui să avem, de asemenea, câțiva early adopters din partea companiilor tradiționale care obțin o valoare imediată din metavers prin oferirea de programe relevante de angajare pentru oamenii lor, pe lângă planurile lor actuale de compensare tradiționale.
 
-Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature metaverse, having spread to many organizations and many users globally.
+Monetăria Meeds se întinde pe o perioadă de 20 de ani. Până atunci, aspirăm să reușim să construim un metavers matur, care să se fi răspândit în multe organizații și la mulți utilizatori la nivel global.
 
-## 5.6. What you can do right now
+## 5.6. Ce puteți face chiar acum
 
-What can you do right now to participate?
+Ce puteți face chiar acum pentru a participa?
 
-- Spread this paper to those who would be interested
-- Visit our website [meeds.io](https://www.meeds.io/)
-- Check out the [Investor app](https://meeds.io/investors)
-- Contribute to the existing liquidity pools here :
+- Răspândiți acest document celor care ar fi interesați
+- Vizitați site-ul nostru [meeds.io](https://www.meeds.io/)
+- Verifică aplicația [Investitor](https://meeds.io/investors)
+- Contribuiți la fondurile de lichidități existente aici :
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
-- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
+- Alătură-te comunității noastre [Discord](https://discord.com/invite/hAuADSq3) pentru a fi păstrată în buclă
+- Alătură-te comunității noastre [Constructor](https://meeds.io/builders) pentru a testa software-ul Meeds, antrenează și câștigă recompense de recrutare pentru Meeds
 
-**\*\*\* The Work Metaverse - let’s build this crazy future world together. \*\*\***
+**\*\*\*\* Metaversul muncii - haideți să construim împreună această lume viitoare nebună. \*\*\***

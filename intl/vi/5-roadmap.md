@@ -1,86 +1,86 @@
-# 5. The Work Metaverse for ALL – vision summary and milestones
+# 5. Thế giới công việc ảo cho TẤT CẢ - Tóm tắt tầm nhìn và cột mốc quan trọng
 
-## 5.1. Ultimate goal - decentralized web for everyone
+## 5.1. Mục tiêu cuối cùng - web phi tập trung cho mọi người
 
-In the end, the WoM is a decentralized web world for everyone – every person and every organization.
+Cuối cùng, WoM là một thế giới web phi tập trung cho mọi người - mỗi người và mỗi tổ chức.
 
-It will be populated by users, acting through their digital identities **Xeeds** and accessing the world through their metamasks, for crypto-savvies, or login/password for the newbies. People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
+Nó sẽ được cư dân sử dụng thông qua danh tính kỹ thuật số của họ, **Xeeds**, và truy cập thế giới thông qua Metamask cho những người biết về tiền mã hóa hoặc đăng nhập / mật khẩu cho người mới. Mọi người sẽ phân bổ sự tham gia của họ và được thưởng một cách công bằng, minh bạch và phi tập trung. Họ sẽ được truy cập vào thế giới phi tập trung và thế giới tiền điện tử của tương lai một cách dễ dàng và quen thuộc - họ sẽ có các công cụ đơn giản để sử dụng mã thông báo của mình trong cuộc sống hoặc đầu tư cho tương lai của mình.
 
-Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the metaverse, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
+Các tổ chức - **Deeds** sẽ có thể tìm kiếm tài năng, duyệt qua WoM, để tìm kiếm kỹ năng được chứng minh đúng. Họ sẽ được thưởng cho sự tham gia của họ trong thế giới ảo, bằng cách tạo ra mã thông báo thông qua sự tham gia của người dùng của họ (mô hình mintium). Nhưng hơn hết, họ sẽ được hưởng lợi từ sự tương tác và lòng trung thành cao hơn từ người dùng của họ.
 
-The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
+WoM sẽ có đồng tiền riêng của nó **Meeds** - được sử dụng để mua sắm tại các cửa hàng, đổi sang đồng tiền khác, đầu tư để có lợi nhuận, thuê hoặc mua vv. WoM cũng sẽ thuận tiện cho việc phân phối các mã thông báo khác và tham gia vào hệ sinh thái tiền điện tử tổng thể.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
+Vì một bức tranh có thể nói nhiều hơn ngàn lời, đây là một biểu đồ mô tả luồng WoM và Meeds
 
-![WoM and Meeds flows](en/img/wom-flows.png)
+![Luồng WoM và Meeds](en/img/wom-flows.png)
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
+Việc bảo trì và bền vững của thế giới trong thời gian dài được đảm bảo thông qua việc chia sẻ thuế giữa Hiệp hội Meeds và các Thành phố.
 
-## 5.2. What’s in it for early adopters
+## 5.2. Lợi ích của những người sớm tham gia là gì"; "Rõ ràng, những người sớm tham gia sẽ được những lợi thế đáng kể hơn so với những người đến sau
 
-Obviously, early adopters would get considerable advantages over the late comers.
+Rõ ràng, những người sớm tiếp nhận sẽ nhận được những lợi ích đáng kể hơn so với những người đến sau.
 
-In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
+Đặc biệt, WoM thưởng cho những người đầu tư dài hạn vào thế giới ảo - đó là việc đổi lại tài sản (Điều lệ). Chủ sở hữu Điều lệ gốc sẽ được bồi thường thông qua việc đào tạo cam kết (sử dụng tích cực), thông qua thu nhập ch passive (cho thuê) và nhận được 1% suốt đời trên bất kỳ giao dịch bán Điều lệ nào (mỗi lần thay đổi sở hữu, người đổi Điều lệ gốc sẽ nhận được khoản phí trên giao dịch).
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the metaverse.
+Bằng cách tin vào dự án, tham gia vào các hồ chứa thanh khoản, đặt cược Meeds, đổi chúng lại Điều lệ... những nhà đầu tư sớm mọi kích thước sẽ đào thêm các mã thông báo. Họ cũng sẽ có quyền bỏ phiếu sớm nhất và giúp định hình thế giới ảo.
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
+Các tổ chức mua và đặc biệt là sử dụng Deeds để thu hút và thưởng cho nhân viên của họ sẽ được bồi thường bằng Meeds mới được sản xuất. Càng công bằng họ chơi, họ sẽ nhận được nhiều hơn. Những người đầu tiên sẽ được liên kết với các thành phố lịch sử đầu tiên và được xác định là những người xây dựng sau này.
 
-The diagram below represents an example of the Meeds investment strategy for capital holders :
+Sơ đồ dưới đây mô tả một ví dụ về chiến lược đầu tư Meeds cho những người nắm giữ vốn :
 
-![Meeds investment strategy for capital holders](en/img/invest-capital.png)
+![Chiến lược đầu tư Meeds cho những người nắm giữ vốn](en/img/invest-capital.png)
 
-Organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
+Các tổ chức có thể tham gia vào các vùng lưu thông, nhưng cũng có thể tham gia vào cộng đồng các nhà xây dựng và nhận được phần thưởng tương tác bổ sung.
 
-The diagram below represents an example of the Meeds investment strategy for work holders :
+Sơ đồ dưới đây mô tả một ví dụ về chiến lược đầu tư Meeds cho những người nắm giữ công việc :
 
-![Meeds investment strategy for work holders](en/img/invest-work.png)
+![Chiến lược đầu tư Meeds cho những người nắm giữ công việc](en/img/invest-work.png)
 
-## 5.3. The launch
+## 5.3. Các nhà tổ chức ra mắt
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+Ngày ra mắt chính thức được đặt vào ngày **1 tháng 5 năm 2022** - Ngày Quốc tế Lao động, được kỷ niệm ở nhiều quốc gia.
 
-At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
+Tại thời điểm đó, token Meed đã tồn tại. Bạn có thể mua nó và các hồ chứa thanh khoản đang mở để tham gia, trên các mạng Polygon và Ethereum.
 
-Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
+Ba thành viên của Hiệp hội Meeds sử dụng hệ thống nội bộ để tương tác và thưởng người dùng của họ và cải tiến phần mềm Meeds.
 
-The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
+Ứng dụng Nhà đầu tư có sẵn trên Ethereum Mainnet. Khi ra mắt, nó bao gồm staking, phần thưởng thanh khoản, tích lũy điểm và đổi Deeds.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
+Cộng đồng Builders đã chạy trên phần mềm Meeds, mở cho bất kỳ ai muốn tham gia, kiểm tra và tham gia. Có thể đăng nhập với Metamask để tham gia.
 
-This paper was published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
+Bài báo này được xuất bản vào ngày ra mắt. Sau khi ra mắt, token sẽ được phân phát miễn phí cho nhiều người trong cộng đồng crypto.
 
-## 5.4. The builders community
+## 5.4. Cộng đồng xây dựng
 
-We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the Work Metaverse. The association would reward builders engagement with Meeds, from its marketing budget.
+Chúng tôi đang ra mắt cộng đồng xây dựng trên phần mềm Meeds và trên Discord. Chúng tôi đang ra mắt cộng đồng xây dựng trên phần mềm Meeds và trên Discord. Hiệp hội sẽ đền bù cho những người tham gia xây dựng với Meeds từ ngân sách marketing của mình.
 
-The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
+Hiệp hội cũng có kế hoạch đặt cược một số Meeds để mua (thu lại) một Deed cho cộng đồng xây dựng. Sau đó, cộng đồng sẽ tạo ra Meeds bằng cách tham gia, thông qua mô hình mintium, và phân phối chúng cho người dùng tham gia.
 
-## 5.5. Roadmap and milestones
+## 5.5. Kế hoạch và các mốc quan trọng
 
-Our roadmap would follow the priority order below:
+Kế hoạch của chúng tôi sẽ tuân theo thứ tự ưu tiên dưới đây:
 
-- Engagement index and minting through engagement
-- Enable Deeds renting
-- Xeed creation
-- Badges improvement and credentials development
-- DeFi services – in the wallet, credit cards partnership
+- Chỉ số tương tác và tạo ra Xeed thông qua tương tác
+- Kích hoạt cho thuê hành động
+- Sáng tạo Xeed
+- Cải tiến huy hiệu và phát triển chứng chỉ
+- Dịch vụ DeFi - trong ví tiền, đối tác thẻ tín dụng
 
-We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
+Chúng tôi đang đếm trên các người sớm nhận thức từ các tổ chức DAO và các công ty có kiến thức về công nghệ trong giai đoạn xây dựng. Húng ta cũng nên có một số người sớm nhận thức từ các công ty truyền thống nhận giá trị ngay lập tức từ thế giới ảo bằng cách cung cấp các chương trình tương tác phù hợp cho nhân viên của họ, trên cơ sở kế hoạch bồi thường truyền thống hiện tại của họ.
 
-Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature metaverse, having spread to many organizations and many users globally.
+"Việc đóng tiền Meeds kéo dài trong vòng 20 năm. Đến thời điểm đó, chúng tôi hy vọng đã xây dựng được một thế giới ảo trưởng thành, đã lan rộng đến nhiều tổ chức và người dùng trên toàn cầu.
 
-## 5.6. What you can do right now
+## 5.6. Những gì bạn có thể làm ngay bây giờ
 
-What can you do right now to participate?
+Bạn có thể làm gì để tham gia ngay bây giờ?
 
-- Spread this paper to those who would be interested
-- Visit our website [meeds.io](https://www.meeds.io/)
-- Check out the [Investor app](https://meeds.io/investors)
-- Contribute to the existing liquidity pools here :
+- Chia sẻ bài báo này với những ai quan tâm
+- Ghé thăm trang web của chúng tôi [meeds.io](https://www.meeds.io/)
+- Hãy kiểm tra ứng dụng [Nhà đầu tư](https://meeds.io/investors)
+- Đóng góp vào các khoảng thanh khoản hiện có ở đây:
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
-- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
+- Hãy tham gia cộng đồng [Discord](https://discord.com/invite/hAuADSq3) của chúng tôi để được cập nhật tin tức
+- Hãy tham gia cộng đồng [Builders](https://meeds.io/builders) của chúng tôi để thử nghiệm phần mềm Meeds, tương tác và kiếm được một số phần thưởng tương tác Meeds
 
-**\*\*\* The Work Metaverse - let’s build this crazy future world together. \*\*\***
+**Thế giới công việc Metaverse - hãy cùng xây dựng thế giới tương lai điên rồ này. \*\*\***

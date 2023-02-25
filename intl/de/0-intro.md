@@ -12,7 +12,7 @@ Die WoM tut dies, indem sie sowohl für Arbeitgeber als auch für Arbeitnehmer d
 
 Der Arbeitsmarkt ist heute kaputt. Er stellt sowohl Arbeitnehmer als auch Arbeitgeber nicht zufrieden.
 
-Auf der Arbeitnehmerseite ist es schwierig, die richtigen Jobs zu finden. Der Arbeitsmarkt bevorzugt bestimmte Arten von Personen und lässt Personen mit großartigen Fähigkeiten ausser Acht. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. Dem Arbeitsmarkt mangelt es zudem an Transparenz hinsichtlich der verfügbaren Stellen und Anstellungsbedingungen.
+Auf der Arbeitnehmerseite ist es schwierig, die richtigen Jobs zu finden. Der Arbeitsmarkt bevorzugt bestimmte Arten von Personen und lässt Personen mit großartigen Fähigkeiten ausser Acht. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. Dem Arbeitsmarkt mangelt es zudem an Transparenz hinsichtlich der verfügbaren Stellen und Anstellungsbedingungen. Dem Arbeitsmarkt mangelt es zudem an Transparenz hinsichtlich der verfügbaren Stellen und Anstellungsbedingungen.
 
 Nach der Anstellung werden persönliche Freiheiten des Mitarbeiters, im Austausch gegen eine Entschädigung, verletzt. Employees have little say in their work hours, workplace, work content or work methods. Und ihre Entschädigung ist selten mit dem reellen Einsatz, dem reellen Wert der Handlung des Mitarbeiters verbunden. Vergütungsregeln sind nicht transparent und werden daher als ungerecht empfunden. Darüber hinaus hängen die Vergütung und der Karrierefortschritt auch vom menschlichen Faktor ab – dem guten Glauben und der Objektivität des unmittelbaren Vorgesetzten.
 
@@ -33,7 +33,7 @@ In Anlehnung an die Arbeiten von R. Coase[^5] verbinden die meisten Ökonomen da
 
 Die ersten DAOs verflachen die Hierarchien und öffnen das offene Eigentum. Das WoM verfolgt diese Logik, indem es das Arbeitgeber-Arbeitnehmer-Verhältnis neu erfindet, anstatt es zu verdrängen. Es führt ein transparentes, objektives und dezentralisiertes Vergütungsparadigma ein, das Arbeitgeber- und Arbeitnehmerinteressen nachhaltig in Einklang bringt.
 
-Schließlich überbrückt das Arbeitsmetavers (WoM) die Lücke zwischen Unternehmen und den DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. Auf der anderen Seite schlägt es nachhaltige Arbeits- und Wertschöpfungsmodelle für DAOs vor. Ultimately, the WoM could be among the first mainstream applications to democratize the use of the blockchain for every company and every employee – including non-digital ones.
+Schließlich überbrückt das Arbeitsmetavers (WoM) die Lücke zwischen Unternehmen und den DAOs. Auf der anderen Seite schlägt es nachhaltige Arbeits- und Wertschöpfungsmodelle für DAOs vor. Auf der anderen Seite schlägt es nachhaltige Arbeits- und Wertschöpfungsmodelle für DAOs vor. Ultimately, the WoM could be among the first mainstream applications to democratize the use of the blockchain for every company and every employee – including non-digital ones.
 
 Wie bei jedem dezentralisierten Unternehmen gewinnt der WoM-Vorschlag exponentiell an Wert, umso mehr Menschen ihn nutzen. Aus diesem Grund achteten die Gründer sehr darauf, langfristiges Interesse zu fördern und vermeiden die kurz- oder langfristige Monopolisierung von WoM-Vorteilen. Es ist ein offenes Paradigma, das noch aufgebaut werden muss und offen ist für die aktive kreative Teilnahme aller.
 

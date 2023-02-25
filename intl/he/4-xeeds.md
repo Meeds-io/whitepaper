@@ -1,64 +1,64 @@
-# 4. Xeeds - Work Metaverse Individuals / users
+# 4. Xeeds - Work Metaverse יחידים / משתמשים
 
-## 4.1. Decentralized and self-sovereign models
+## 4.1. מודלים מבוזרים וריבונים עצמיים
 
-The WoM recognizes privacy as a fundamental human right and empowers users to own their data.
+ה-WoM מכירה בפרטיות כזכות אדם בסיסית ומאפשרת למשתמשים להחזיק בנתונים שלהם.
 
-Our approach is based on decentralized and self-sovereign identity principles, allowing users to be in control at any time of what information they want to publicize, share with a restricted group, or keep private.
+הגישה שלנו מבוססת על עקרונות זהות מבוזרים וריבוניים, המאפשרים למשתמשים לשלוט בכל עת באיזה מידע הם רוצים לפרסם, לשתף עם קבוצה מוגבלת או לשמור על פרטיות.
 
-User's activity and engagement in the WoM is always linked to a Deed. A Xeed is the virtual persona of a user in a Deed. Xeed does not require any KYC, it is self-declaring, but we could conceivably imagine third-party firms providing this service.
+הפעילות והמעורבות של המשתמש ב-WoM תמיד מקושרות ל-Deed. Xeed הוא הפרסונה הווירטואלית של משתמש ב-Deed. Xeed אינו דורש שום KYC, הוא מצהיר על עצמו, אך אנו יכולים לדמיין חברות צד שלישי המספקות שירות זה.
 
-## 4.2. Badges and credentials
+## 4.2. תגים ותעודות
 
-Badges and Credentials are given to users as a part of their participation in a Deed. The holder may download them as W3C Verifiable Credentials[^7][^8] (aka VCs) and store them in his wallet. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
+תגים ואישורים ניתנים למשתמשים כחלק מהשתתפותם ב-Deed. המחזיק רשאי להוריד אותם כאישורים ניתנים לאימות של W3C[^7][^8] (aka VCs) ולאחסן אותם בארנקו. VCs אלה הם הוכחה לידע/ידע שאושר על ידי הארגון המנפיק אותם.
 
-In today’s world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they count on their managers to give them a recommendation. The latter supposes certain goodwill on the part of the manager but is not necessarily treated as proof by the future employer.
+בעולם של היום, קשה להוכיח מיומנות מראש. כשאנשים מפרסמים את עצמם ברשתות, הם סומכים על המנהלים שלהם שיתנו להם המלצה. זה האחרון מניח מוניטין מסוים מצד המנהל, אך אינו בהכרח מטופל כהוכחה על ידי המעסיק העתידי.
 
-The Work Metaverse provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
+ה-Work Metaverse מספק אמצעי שקוף ובלתי ניתן לשינוי עבור אנשים לרכוש ולהפגין את היכולות שלהם.
 
-Badges are used to represent accomplishments made within a Deed. After completing a set of objectives or challenges, users will be awarded points. Badges can be unlocked by accumulating certain amounts of points in specific categories.
+תגים משמשים לייצג הישגים שנעשו בתוך Deed. לאחר השלמת קבוצת יעדים או אתגרים, המשתמשים יקבלו נקודות. ניתן לפתוח תגים על ידי צבירת כמויות מסוימות של נקודות בקטגוריות ספציפיות.
 
-When badges are downloaded by the user, it is possible to include the number of points and his rank in the Deed for this specific accomplishment.
+כאשר משתמשים מורידים תגים, אפשר לכלול את מספר הנקודות ואת הדירוג שלו ב-Deed עבור ההישג הספציפי הזה.
 
-Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the Deed. These are signed by the Deed and can be accompanied by a signature by a peer user.
+אישורים גמישים יותר מאשר תגים; הם יכולים להיות המלצה מעמית, המעידה על שנים של מומחיות, הכשרה או השלמת בחינות, או מעורבות ב-Deed. אלה חתומים על ידי Deed ויכולים להיות מלווים בחתימה של משתמש עמית.
 
-## 4.3. Digital work identity
+## 4.3. זהות עבודה דיגיטלית
 
-All of the above contributes to forming proven digital skillset that can be kept and used by the user when changing jobs or freelancing. It would be more trustworthy than traditional solutions as it relies on not just one individual but a full community to prove it.
+כל האמור לעיל תורם ליצירת מיומנויות דיגיטליות מוכחות שניתן לשמור ולהשתמש בהן בעת החלפת עבודה או פרילנסר. זה יהיה אמין יותר מפתרונות מסורתיים מכיוון שהוא מסתמך לא רק על אדם אחד אלא על קהילה מלאה כדי להוכיח זאת.
 
-Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Deed to another, from one city to another, anywhere through the WoM.
+בדיוק כמו ארנק ה-Meeds שלו, המשתמש ישמור את ה-Xeed, התגים והאישורים שלו בארנק הזהות שלו כאשר הוא עובר מ-Deed אחד לאחר, מעיר אחת לאחרת, בכל מקום דרך WoM.
 
-The user will be able to share his Xeed, Badges, and Credentials with other Deeds to highlight his experience, as well as with recruiters or any other services that he deems interesting.
+המשתמש יוכל לחלוק את ה-Xeed, התגים והאישורים שלו עם Deeds אחרים כדי להדגיש את הניסיון שלו, כמו גם עם מגייסים או כל שירות אחר שנראה לו מעניין.
 
-A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations.
+למשתמש יכול להיות זהות דיגיטלית אחת או כמה ב-WoM. מאוחר יותר הוא יכול היה להציג אותם בצורה מאוחדת באמצעות מצגות מאומתות.
 
-Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... In a manner of trustworthy LinkedIn 3.0.
+בניגוד ל-web 2, המשתמש נמצא בבעלות מלאה על הזהויות המבוזרות שלו. האחרון יכול להראות (ולהוכיח) את ה-Deeds שבהם השתתף, כישוריו המוכחים, כישוריו הנטענים, Xeeds (אנשים) אחרים שאיתם עבד, הייצוג הדיגיטלי שלו את עצמו... בצורה של LinkedIn 3.0 מהימן.
 
-The user will be able to select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Deeds, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time.
+המשתמש יוכל לבחור אם לחשוף או לא לחשוף משהו, איזה מידע לספק, ובאיזה זהויות להשתמש עבור כל תפקיד. התוכן (מיומנות מוכחת, Deeds קודמים וכו') הוא הוכחה לפגיעה ולכן לא ניתן היה לשנותו. כל זהות תצטרך להתפתח לאורך זמן.
 
-## 4.4. Fair work marketplace
+## 4.4. שוק עבודה הוגן
 
-Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Deeds – as they do in the physical world by changing employers. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to choose which Deed provides better engagement reward conditions, belongs to a more attractive city, etc.
+במסגרת פרדיגמה זו, שוק העבודה העתידי מאפשר למשתמשים לנוע בחופשיות ולהקצות/למכור את המעורבות שלהם בין Deeds - כפי שהם עושים בעולם הפיזי על ידי החלפת מעסיקים. עם זאת, ב-WoM ההתקשרות שלהם תהיה מוחשית, מדודה ומתוגמלת בצורה הוגנת. על ידי מעבר בין מערכות שעוקבות אחר היגיון דומה, הן יבינו טוב יותר את כללי המשחק וישפטו את המעסיקים בצורה הוגנת - הדשא לא תמיד ירוק יותר במקומות אחרים. המשתמשים יוכלו לבחור איזה Deed מספק תנאי תגמול טובים יותר למעורבות, שייך לעיר אטרקטיבית יותר וכו'.
 
-On their end, the Deeds’ holders/renters can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
+בסופו של דבר, המחזיקים/שוכרים של ה-Deeds יכולים לחפש מיומנויות רלוונטיות באמצעות רשת WoM של זהויות עבודה דיגיטליות (שהמשתמשים החליטו לחשוף). הם יוכלו למצוא מיומנויות בצורה יעילה יותר, בהתבסס על מידע מאומת ומפורט על היסטוריית העבודה, כישורי העבודה ורמת המעורבות של המשתמש.
 
-## 4.5. Tangible and transparent recognition
+## 4.5. הכרה מוחשית ושקופה
 
-Today, details on compensation and bonuses are obscure in many workplaces. Therefore, it is difficult for a person to compare his conditions to that of another and get a sense of a fair and unbiased treatment. Employees experience a lot of frustrations with the above.
+כיום, פרטים על פיצויים ובונוסים סתומים במקומות עבודה רבים. לכן, קשה לאדם להשוות את תנאיו לזה של אחר ולקבל תחושה של יחס הוגן וחסר פניות. עובדים חווים תסכולים רבים עם האמור לעיל.
 
-The WoM introduces an objective way to recognize achievements and reward them.
+ה-WoM מציג דרך אובייקטיבית להכיר בהישגים ולתגמל אותם.
 
-Engagement recognition and reward mechanism is transparent and applies fairly to all users, following the same explicit rules, decided in advance and aligned with the Deed’s goals.
+מנגנון ההכרה והתגמול במעורבות הוא שקוף וחל באופן הוגן על כל המשתמשים, בהתאם לאותם כללים מפורשים, שהוחלט מראש ובהתאם למטרות ה-Deed.
 
-Wallets are individual and blockchain based – when the user receives a reward or earns a badge, it cannot be taken back or erased.
+הארנקים הם בודדים ומבוססים בלוקצ'יין - כאשר המשתמש מקבל פרס או זוכה בתג, לא ניתן לקחת אותו בחזרה או למחוק אותו.
 
-## 4.6. Access to Web 3.0, cryptoeconomy and DEFI services
+## 4.6. גישה לשירותי Web 3.0, קריפטו-כלכלה ושירותי DEFI
 
-As discussed above, the Work Metaverse opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
+כפי שצוין לעיל, ה-Work Metaverse פותח את עולם המטבעות הקריפטוגרפיים ושירותי האינטרנט המבוזרים לכולם - אוכלוסייה גדולה מאוד של משתמשים, אפילו אולי לא קשורה לתחום הדיגיטלי.
 
-Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
+אכן, כל מעורבות בעבודה יכולה להיות סמלית. למעשה העולם הופך ליותר ויותר דיגיטלי עם טרנדים כמו 5G, iot, ציוד לביש וכדומה. כתוצאה מכך, יותר ויותר אותות פוטנציאליים יכולים להילכד ולנתח כדי לסמל את המעורבות של מקצועות לא דיגיטליים. אתגרים מספקים דרך מוכנה ללכת לאסימן על ידי ייצוג הישגים בעולם הפיזי.
 
-Any user can get Meeds and use a Meeds wallet to get access to new age services without any special training.
+כל משתמש יכול לקבל Meeds ולהשתמש בארנק Meeds כדי לקבל גישה לשירותי העידן החדש ללא הכשרה מיוחדת.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Verifiable Credentials Data Model

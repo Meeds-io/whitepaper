@@ -1,41 +1,41 @@
 
 
-## Abstract
+## Abstrakt
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
+Tänapäeva tööturul puudub tõhusus, sest tehingukulud[^1][^2][^3] on suured ning tööandja ja töötaja vahel on sageli huvide konfliktid.
 
-The Work Metaverse (the WoM) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
+Work Metaverse (WoM) pakub välja uue paradigma, mis vähendaks tehingukulusid ja leiutaks uuesti töösuhte, ületades lõhe traditsiooniliste ettevõtete ja DAOde vahel.
 
-The WoM does that by introducing digital identities for both employer and employee and offering an innovative engagement reward system that would align their interests.
+WoM teeb seda, võttes kasutusele nii tööandja kui ka töötaja digitaalse identiteedi ning pakkudes uuenduslikku tasustamissüsteemi, mis viiks nende huvid kooskõlla.
 
-## Introduction
+## Sissejuhatus
 
-The work market today is broken. It fails to satisfy both employees and employers.
+Tänane tööturg on katki. See ei rahulda nii töötajaid kui ka tööandjaid.
 
-On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
+Töötajate poolel on raske leida õigeid töökohti. Tööturg soosib teatavat tüüpi inimesi, jättes maha suurepärased oskused. See tuleneb inimlikest eelarvamustest - rassilistest, soolistest, puuetest, introvertidest jne. Samuti puudub tööturul läbipaistvus olemasolevate ametikohtade ja töötingimuste osas.
 
-Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
+Kui töötaja on tööle võetud, rikutakse tema isiklikke vabadusi hüvitise eest. Töötajatel on vähe sõnaõigust oma tööaja, töökoha, töö sisu või töömeetodite suhtes. Ja nende hüvitis on harva seotud nende tegeliku mõju või väärtusega. Hüvitamiseeskirjad ei ole läbipaistvad ja seetõttu peetakse neid ebaõiglaseks. Lisaks sellele sõltuvad hüvitised ja karjääriredelid ka inimfaktorist - töötaja vahetu juhi heast usust ja objektiivsusest.
 
-Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
+Tööandjad seevastu kogevad raskusi talentide leidmisel ja õigete oskuste ja õigel ajal tööks sobivate inimeste palkamisel. Puudub objektiivne võimalus teha kindlaks potentsiaalse töötaja oskused või leida inimesi väljastpoolt tööandja traditsioonilist värbamiskollektiivi.
 
-Employers also deal with the lack of loyalty from their employees and a high turnover, both of which, increase hiring and on-boarding costs.
+Tööandjad puutuvad kokku ka töötajate lojaalsuse puudumise ja suure voolavusega, mis mõlemad suurendavad töölevõtmise ja töölevõtmise kulusid.
 
-Moreover, employers also face low engagement in their existing employees, leading to low creativity, productivity and innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
+Lisaks sellele seisavad tööandjad silmitsi ka oma olemasolevate töötajate vähese pühendumusega, mis toob kaasa vähese loovuse, tootlikkuse ja innovatsiooni. Viimane tekitab veelgi suuremat kahju tänapäeva majanduses, mis nõuab oskuslikumat loometööd.
 
-All of the above boil down to high transaction costs and the exacerbated agent-principal problem[^4] :
+Kõik ülaltoodu taandub kõrgetele tehingukuludele ja süvenevale agendi-printsipaal-probleemile[^4] :
 
-- With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element.
-- As to the agent-principal problem, it has been compounded by the increasing revenue and wealth gap between employees and shareholders and the rigidity of the employer-employee relationship.
+- Tänu internetile on tööturud muutunud ühtsemaks ja läbipaistvamaks tänu töökuulutuste veebilehtedele, karjäärisaitidele jne. Kuid tehingukulud on objektiivsuse elemendi puudumisel ikka veel liiga suured.
+- Mis puutub agendi-printsiibi probleemi, siis seda on süvendanud töötajate ja aktsionäride vaheliste tulude ja jõukuse erinevuste suurenemine ning tööandja ja töötaja vahelise suhte jäikus.
 
-The WoM aims at solving both through a new decentralized work paradigm.
+WoMi eesmärk on lahendada mõlemad probleemid uue detsentraliseeritud tööparadigma abil.
 
-Following R. Coase’s works[^5], most economists link the concept of enterprise with the necessity to mitigate transaction costs. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs[^6] started this process focusing on lowering the cost of transactions for capital sourcing and governance. The WoM aims at pushing this logic further by lowering the cost of work transactions. It proposes a decentralized world where jobs and skills matching could be done objectively, quickly and globally.
+Järgides R. Coase'i töid[^5], seob enamik majandusteadlasi ettevõtluse mõiste vajadusega vähendada tehingukulusid. Internet ja viimasel ajal ka plokiahelad ja web3 avavad põnevaid võimalusi tehingukulude vähendamiseks kõikjal, majanduse ja eelkõige ettevõtete ümberkujundamiseks. Esimesed DAOd[^6] alustasid seda protsessi, keskendudes kapitali hankimise ja juhtimise tehingukulude vähendamisele. WoMi eesmärk on seda loogikat veelgi edasi arendada, vähendades töötehingute maksumust. See pakub välja detsentraliseeritud maailma, kus töökohtade ja oskuste sobitamine võiks toimuda objektiivselt, kiiresti ja ülemaailmselt.
 
-The first DAOs flatten the hierarchies and open ownership. The WoM pursues this logic by reinventing rather than suppressing the employer/employee relationship. It introduces a transparent, objective and decentralized reward paradigm, that would sustainably align the employer and the employee interests.
+Esimesed DAOd ühtlustavad hierarhiaid ja avavad omandiõiguse. WoM järgib seda loogikat, leiutades tööandja ja töötaja vahelise suhte uuesti, mitte surudes seda maha. Sellega võetakse kasutusele läbipaistev, objektiivne ja detsentraliseeritud tasustamisparadigma, mis viiks tööandja ja töötajate huvid jätkusuutlikult kooskõlla.
 
-Finally, the Work Metaverse bridges the gap between corporations and the DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. On the other hand, it proposes sustainable ways to operate and create value for DAOs. Ultimately, the WoM could be among the first mainstream applications to democratize the use of the blockchain for every company and every employee – including non-digital ones.
+Lõpuks, Work Metaverse katab lõhe korporatsioonide ja DAOde vahel. Ühest küljest toob see traditsioonilised korporatsioonid detsentraliseeritud maailma läbi hõlpsasti rakendatava kaasamise tasustamise paradigma, mis täiendab nende tasustamissüsteeme. Teisest küljest pakub see välja jätkusuutlikud viisid DAOde tegutsemiseks ja väärtuse loomiseks. Lõppkokkuvõttes võib WoM olla üks esimesi peavoolurakendusi, mis demokratiseerib plokiahela kasutamise iga ettevõtte ja iga töötaja jaoks - ka mitte-digitaalsete töötajate jaoks.
 
-As with any decentralized venture, the WoM proposal gains in value exponentially as more people use it. For that reason, founders took great care to encourage long term interest and avoid monopolizing the WoM benefits, whether short term or long term. It is an open paradigm, still to be built, and open to active creative participation from everyone.
+Nagu iga detsentraliseeritud ettevõtmise puhul, kasvab WoMi ettepaneku väärtus eksponentsiaalselt, mida rohkem inimesi seda kasutab. Seetõttu hoolitsesid asutajad väga selle eest, et soodustada pikaajalist huvi ja vältida WoMi eeliste monopoliseerimist, olgu need siis lühiajalised või pikaajalised. See on avatud paradigma, mida alles ehitatakse ja mis on avatud kõigi aktiivsele loomingulisele osalemisele.
 
 
 [^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)

@@ -1,153 +1,153 @@
 
-# 2. Deeds NFT - Work Metaverse Organizations
+# 2. Deeds NFT - काम का विश्व संगठनों
 
-## 2.1. NFT – Deeds defined
+## 2.1. NFT - धारणाओं से परिभाषित
 
-A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+एक गैर-फंगेबल टोकन (NFT) अद्वितीय टोकन है जो किसी समय को प्रतिनिधित्व करता है। WoM में, कर्म को स्वामित्व के शीर्षक के रूप में उपयोग किया जाता है। प्रत्येक Deed उसके मालिक को कई सेवाओं को पहुँचने के अधिकार प्रदान करता है - उदाहरण के लिए, एक डिजिटल ऑफिस से पहुँच, Meeds सॉफ्टवेयर द्वारा संचालित और Meeds स्थापित करने के अधिकार को।
 
-The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM.
+WoM सभी प्रकार की संगठनों को स्वागत करता है - DAOs, पारंपरिक कॉरपोरेशन, संघ, सोचकर्ता समूह, साझेदारी, थिएटर कंपनियों, परियोजना समूह, स्कूल आदि। दस्तावेज़ उनके WoM में उनकी डिजिटल अस्तित्व को प्रतिनिधित्व करता है।
 
-## 2.2. Deeds supply
+## 2.2. काम की आपूर्ति
 
-The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of Meeds rewarding (Minting Power). The term ‘user’ here and hereafter designates any type of employee, worker, freelancer, volunteer etc.
+WoM अंत से सीमित मात्रा में Deeds प्रदान करेगा। प्रत्येक काम में पहले से निर्धारित अधिकतम सदस्यों की संख्या शामिल होती है और एक क्षमता के साथ सम्मानित करने की पेशकश की प्रस्ताव करती है (मिंटिंग पावर)। यहाँ और इसके बाद के समय में 'उपयोगकर्ता' शब्द किसी भी प्रकार के कर्मचारी, कामकाजी, स्वतंत्रकारी, स्वयंसेवक आदि को परिभाषित करता है.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
+काम के साथ काम के साथ चार प्रकार के कार्यक्रम हैं, जो संख्या के हिसाब से किसी को कई उपयोगकर्ताओं, शहर में मतदान अधिकार (2.7 देखें) या Meeds मिंटिंग शक्ति को प्रदान करते हैं, सबसे कम सामान्य सबसे शक्तिशाली होते हैं:
 
-| **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
-| ------------- | ------------- | ----------------- | ------------ | ---------------------- |
-| Common        | 100           | 1                 | ~ 90%        | 1                      |
-| Uncommon      | 1000          | 1.1               | ~ 9%         | 10                     |
-| Rare          | 10 000        | 1.3               | ~ 1%         | 100                    |
-| Legendary     | unlimited     | 2                 | < 0.1 %      | 1000                   |
+| **कार्य प्रकार** | **अधिकतम उपयोगकर्ता** | **सम्पन्न शक्ति** | **कमता** | **शहर के मतदान के अधिकार** |
+| ---------------- | --------------------- | ----------------- | -------- | -------------------------- |
+| सामान्य          | 100                   | 1                 | ~ 90%    | 1                          |
+| असामान्य         | 1000                  | 1.1               | ~ 9%     | 10                         |
+| दुर्लभ           | 10 000                | 1.3               | ~ 1%     | 100                        |
+| किस्मती          | असीमित                | 2                 | < 0.1 %  | 1000                       |
 
-## 2.3. Deeds ownership
+## 2.3. काम की स्वामित्व
 
-A Deed gives its owner the right to USE it, RENT it, or SELL it.
+एक कर्म उसके मालिक को इसका उपयोग करने, इसे किराये पर देने या इसे बेचने के अधिकार देता है
 
-- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
-- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
-- SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
+- उपयोग - संपत्ति के मालिकों को संपत्ति को सीधे अपनी संगठन के लिए उपयोग करने की अनुमति होती है, जो उपयोगकर्ताओं को सेवाएं प्रदान करती हैं.
+- किराया - डीड के स्वामियों को सुसंगत आय प्राप्त करने के लिए अन्य संगठन को डीड को किराये पर दे सकते हैं.
+- बिक्री - एक कर्म को [ OpenSea ](https://opensea.io) जैसी सेकेंडरी मार्केट पर बेचा जा सकता है.
 
-Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
+कोई एकीकृत धारक या किरायेदार के रूप में एक नकल को रखने के कारण, संगठन को "मिन्टियम" मॉडल के माध्यम से मिड के साथ इनाम मिलते हैं (भाग 2.6 में विवरित).
 
-## 2.4. Deeds services, engagement/rewards engine
+## 2.4. काम सेवाएं, सम्बद्धता / पुरस्कार इंजन
 
-In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
+एक बढ़ते हुए प्रतिस्पर्धी के काम के बाजार में, किसी संगठन को काम करने वालों को आकर्षित करने और उन्हें रखने के लिए, समय के साथ संगठन को उनके उपयोगकर्ताओं को सामान्य कम्पेन्सेशन के बावजूद सुविधा प्रदान करने की आवश्यकता होती है. WoM उसको करने के लिए एक अभिनव ढांचे को प्रदान करता है कि काम को टोकनाइज़ करके.
 
-Each Deed’s holder or renter can provide tools and services to its users, who earn engagement points that can be fine-tuned to the Deed’s priorities. Periodically, points are converted into Meeds (and - for DAOs - potentially another token), based on the Deed’s set budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
+प्रत्येक कार्य धारक या किरायेदार अपने उपयोगकर्ताओं को उपकरण और सेवाएं प्रदान कर सकता है, जो परिणाम अंक कमाते हैं जो कार्य की प्राथमिकताओं के अनुसार सुसंगत किए जा सकते हैं. समय समय पर, बिंदु मीड्स (और - DAOs के लिए - संभवतः अन्य टोकन) को बदल दिए जाते हैं, किसी काम के सेट बजट के आधार पर. इस तरह, उपयोगकर्ताओं की संस्था के लिए मजबूत क्रियाओं में सम्मिलित को पुरस्कृत किया जाता है.
 
-To begin with, the following free services provided by the Meeds association can be used to reward engagement:
+शुरू में, मीड्स संस्था द्वारा प्रदान की गई निम्न नि: शुल्क सेवाएं सम्बन्धित संबोधन को पुरस्कृत करने के लिए उपयोग की जा सकती हैं:
 
-- **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the Deed’s priorities via customizable engagement programs.
-- **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
-- **Customizable engagement programs** - organizations can create their own engagement programs matching their business goals and priorities. Programs are associated to automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatics or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
-- **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
-- **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
-- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
-- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
-- **Analytics** – to analyze and follow engagement within the Deed.
-- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
+- **Gamification इंजन** - WoM के भीतर स्वचालित कार्रवाइयाँ अंकों में महत्वपूर्ण होती हैं, जिन्हें अनुकूलन योग्य सहभागिता कार्यक्रमों के माध्यम से डीड की प्राथमिकताओं के अनुरूप ठीक किया जा सकता है।
+- **चुनौतियाँ** - उन्हें उपलब्ध करने के लिए उनको अनुकूलित कर सकते हैं जो उपलब्ध होते हैं कि उन्हें उपलब्ध करने के लिए सफलताओं के रूप में प्रतिनिधित्व कर सकते हैं. चुनौतियों को किसी एक व्यक्ति द्वारा स्थापित किया जाता है और किसी अन्य व्यक्ति द्वारा पूर्ण किया और इसकी घोषणा की जा सकती है. चुनश्चक्कर को अपने समायोजन के कार्यक्रम के भीतर अंकों के रुप में बढ़ोतरी करते हैं.
+- ** कस्टमाइजबल इंगेजमेंट कार्यक्रम ** - संगठनों को अपने बिजनेस गोल्ड और प्राथमिकताओं के मेल से अपने स्वयं की इंगेजमेंट कार्यक्रम बनाने की संभवता है. कार्यक्रमों को प्रणाली के अंतर्निहित क्रियाओं से संबंधित किया जाता है और मैनुअल रूप से सेट की गई चुनौतियों को. प्रत्येक प्रोग्राम के पास एक सेट बजट है. प्रतिक्रमण कार्यक्रम में प्रत्येक उपयोगकर्ता द्वारा स्वचालित या घोषित क्रियाओं के माध्यम से प्राप्त अंक समय समय पर काम के बजट के आधार पर Meeds के रूप में रूपांतरित किये जाते हैं.
+- ** कुदोस ** - उपयोगकर्ताओं के बीच कुदोस को सौंपा जा सकता है, धन्यवाद के रूप में और पहचान के रूप में. जैसा कि वितरित करने के लिए उपलब्ध कुडोस सीमित हैं (एक पूर्व निर्धारित आवधिक सीमा, उदाहरण के लिए प्रति सप्ताह 3), वे दुर्लभ और मूल्यवान हैं। क्रियाओं की तरह, कुडोस अंक ले जाते हैं। इस तरह कर्मचारियों को अपने सहयोगियों को पुरस्कृत करने का अधिकार है।
+- **सहयोग** टूल, पुरस्कृत इंजन में प्लग किए गए - कार्यक्षेत्र, अतुल्यकालिक संचार, एक कार्य प्रबंधन टूल और नोट्स - लोगों को परियोजनाओं पर एक साथ काम करने में सक्षम बनाते हैं।
+- **वॉलेट** - उपयोगकर्ताओं को उनके मीड्स को स्टोर करने के लिए एक सुरक्षित एथेरियम टेक्नोलॉजी वॉलेट प्रदान किया जाता Meeds। वैकल्पिक रूप से, उन्नत उपयोगकर्ताओं के लिए, मेटामास्क वॉलेट का उपयोग किया जा सकता है।
+- **स्टोर** - एक स्टोर Meeds डीड धारक या किराएदार या मीड्स पारिस्थितिकी तंत्र द्वारा प्रदान किए गए अनुलाभों के खिलाफ मीड्स का आदान-प्रदान किया जा सकता है।
+- **एनालिटिक्स** - डीड के भीतर जुड़ाव का विश्लेषण और पालन करने के लिए।
+- **कनेक्टर्स**, रिवार्ड इंजन में प्लग इन - उपयोगकर्ताओं को दूसरे सॉफ़्टवेयर में क्रियाओं के माध्यम से जुड़ाव अंक मिलते हैं - उदाहरण के लिए GitHub में कोड जमा करने के Github।
 
-Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
+ऊपर बताए गए कुछ टूल और सेवाएं पहले से ही विकेंद्रीकृत हैं, अन्य नहीं हैं। अंतिम लक्ष्य विकेंद्रीकृत तरीके से सभी सेवाएं प्रदान करना है, जिसे हम धीरे-धीरे करेंगे क्योंकि अंतर्निहित तकनीक विकसित होगी।
 
-New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
+एपीआई के माध्यम से नई सेवाओं को इनाम इंजन में जोड़ा जा सकता APIs। उदाहरण अनगिनत हैं और इनमें वस्तुतः कोई भी सॉफ्टवेयर या सेवा शामिल हो सकती है:
 
-- CRM software – salespeople would get engagement points for working on opportunities.
-- Accounting software – accountants would get engagement points for keeping books.
-- Clocking terminal – factory worker can get points for factory work time.
-- Etc.
+- CRM सॉफ्टवेयर – विक्रेताओं को मौजूदा मौकों पर काम करने पर सम्पर्क अंक मिलेंगे।
+- एकाउंटिंग सॉफ्टवेयर – एकाउंटेंट्स को किताबों को रखने पर सम्पर्क अंक मिलेंगे।
+- क्लॉकिंग टर्मिनल – फैक्ट्री मजदूर फैक्ट्री काम के समय पर अंक प्राप्त कर सकते हैं।
+- इत्यादि।
 
-Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
+इसके अलावा, कनेक्टर द्वारा उत्पन्न सम्पर्क काम, संगठन की वैश्विक सम्पर्क स्कोर में भाग लेते हैं, जो Meeds मिंटिंग वितरण के एक कारक है, नीचे वर्णित किया गया है। इसके लिए, कनेक्टर को Meeds Association द्वारा व्हाइटलिस्ट होना चाहिए। संघ ने कनेक्टर की समीक्षा की है, उसकी एल्गोरिदम को स्वीकृत करता है और Meeds के खिलाफ उसकी मालिकी को अधिग्रहण करता है। तब यह संघ द्वारा प्रदान की गई मुफ्त सेवाओं का हिस्सा बन जाता है और वैश्विक परिवर्तन अनुक्रमाण में शामिल होता है। उसी कनेक्टर और उसी पुरस्कार एल्गोरिट्थम का उपयोग अन्य कुछ डीड कर सकते हैं।
 
-The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
+डीड के धारक या किरायेदार अपनी खुशियों के साथ अपनी स्टोर को पूर्णता दे सकते हैं, ऑनलाइन पेर्क्स ऑफर को कनेक्ट कर सकते हैं। वहाँ फिर संभवतये बेस्ट नहीं हैं।
 
-- Training courses
-- Gym memberships
-- Vacation packages
-- Lunch with a leader in the organization
-- Physical office space
-- Etc.
+- प्रशिक्षण कोर्सेज
+- जिम सदस्यताएं
+- छुट्टी पैकेजें
+- संगठन के नेता के साथ दोपहर की खाने की पैकेज
+- फिजिकल ऑफिस स्पेस
+- इत्यादि।
 
-The store functions through the use of Meeds so that Meeds are partially returned to the Deed.
+स्टोर मीड्स का उपयोग करके काम करता है ताकि मीड्स देड के पार्टियल रिटर्न हो जाएं।
 
-## 2.5. Rewards – Meeds and other tokens
+## 2.5. इनाम - Meeds और अन्य टोकन्स
 
-The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs. Indeed, each Deed can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
+WoM डिजिटल वर्क टूल्स को गेमिफाई करके और वर्क एंगेजमेंट के संबंध में पॉइंट्स और Meeds को एट्रिब्यूट करके यूजर्स एंगेजमेंट को टोकन देगा। इंगेज्मेंट और इनाम इंजीन से जुड़े सेवाओं को उपकरणों के साथ जैमातीज़ किया जाता है, और काम के संबंध में अनुकूलन के तौर पर बिंदुओं और मीडस को माना जाता है। दरअसल, प्रत्येक Deed प्रत्येक प्रकार की गतिविधि के लिए दिए गए अंकों की मात्रा को ठीक कर सकता है। इसलिए, IT शॉप में GitHub में कुछ कोड पुश करना 10 अंकों के लाभदायक हो सकता है, जबकि डिजिटल एजेंसी के लिए GitHub पुश करने पर 5 अंक वर्णन करने के लिए होंगे, लेकिन ट्वीट्स के लिए 10 अंक देने के लिए पेश करेंगे।
 
-Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Deed is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
+ध्यान देने वाले इंजन केवल ध्यान बिंदुओं को बजट और अन्य वितरण नियमों के अनुसार Meeds में बदलते हैं और अंत में उपयोगकर्ताओं को उनके वॉलेट के माध्यम से पुरस्कार देते हैं। Meeds को वितरित करने के लिए Deed की आवश्यकता नहीं है और किसी अन्य प्रकार के मुआवजे कार्यक्रम को सक्षम करने के लिए सगाई प्रणाली का उपयोग कर सकते हैं। हालांकि, Meeds के वितरण से इसकी खनन क्षमता में सुधार होगा।
 
-Moreover, the Deed does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
+इसलिए, डीड को मीड्स वितरित करने के लिए प्राप्त करने की जरूरत नहीं होती है, क्योंकि वे "मिंटियम" मॉडेल से मीड्स प्राप्त करेंगे, जो नीचे वर्णित है।
 
-In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
+इसके अलावा, उसी अनुभव मेंशन के आधार पर अन्य टोकन (उदाहरण के लिए DAO के अपने टोकन) वितरित करने की भी संभवति है। वहाँ, 5% लेन-देन शुल्क (डीएओ टोकन में) मीड्स एसोसिएशन के लिए होगा।
 
-## 2.6. The “mintium” model – tokenize work engagement
+## 2.6. मिंटियम" मॉडल - कार्य सम्बन्धी तक्ता
 
-By engaging their users in the WoM, Deeds get compensated through an innovative mintium model.
+उपयोगकर्ताओं को WoM में सम्बन्धित करके, Deeds एक अभिनव मिंटियम मॉडल के माध्यम से तत्वपूर्ण होते हैं"
 
-Engagement points, gained by the Deeds’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Deeds. Even though the Deed can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
+Deeds उपयोगकर्ताओं द्वारा प्राप्त सम्बन्धी बिंदु, Meeds संगठन द्वारा गणना किए गए वैश्विक सम्बन्धी सूची में हिस्सा लेते हैं। सूची सभी Deeds के लिए उसी नियम का उपयोग करती है। हालांकि Deed को एक क्रिया को दुसरे पर प्रोत्साहित करने के लिए अंकों के वितरण को बदलने की अनुमति हो सकती है, लेकिन वे परिवर्तन वैश्विक सूची गणना में लिया नहीं जाएंगे।
 
-Each week, a certain amount of Meeds is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Deeds. Some Deeds get an additional boost depending on their type. The Deeds that claim their Meeds over the week, receive them. The unclaimed Meeds are added to the following week’s global distribution amount.
+प्रत्येक सप्ताह में, WoM के वैश्विक सम्बन्धी मिंटिंग के लिए कुछ Meeds अनुदान की जाती है। यह सप्ताहवारी हिस्सेदारी के अनुयायी में हिस्सेदारी वर्तमान किया जाता है। कुछ Deeds उनके प्रकार के आधार पर अतिरिक्त तेजी प्राप्त करते हैं। सप्ताह के दौरान उनके अधिकार को लेने के लिए काम जो कहते हैं उन्हें प्राप्त करें. अनक्षम किए गए अधिकार अगले सप्ताह के वैश्विक वितरण की राशि में जोड़े जाते हैं.
 
-The engagement score _S_  of a Deed is a function of the engagement, the number of engaged users and the distribution :
+कर्म की संबंधित स्कोर _S_ संबंधित संबंध, संबंधित उपयोगकर्ताओं की संख्या और वितरण का फ़ंक्शन होता है:
 
 $$S = (E_d / E_w) * D_r * D_s * M$$
 
-Where :
+कहाँ:
 
-- $A$ = _Activity_ - total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
-- $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
-- $E_d$ = _Engagement rate of the deed_ - actions per user ($A/U$)
-- $E_w$ = _Average engagement rate_ of all active Deeds in the WoM.
-- $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
-- $D_s$ =  _Distribution spread_ - if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
-- $M$ = _Minting Power_ of the Deed as defined in 2.3
-
-
-The global engagement index used to distribute minted Meeds among the Deeds is the sum of all Deeds’ engagement scores for the week.
+- $A$ = _ गतिविधि _ - सप्ताह के दौरान उपयोगकर्ताओं द्वारा कुल क्रियाओं की संख्या को संग्रहित किया. (प्रत्येक कार्य स्तर पर, प्रत्येक कार्य पर्यवेक्षण बिंदुओं में परिवर्तित किया जाता है, कुछ कार्यों को अधिक रुझान देते हैं. सूचक स्तर पर, सभी क्रियाएं सरलीकृत होती हैं).
+- $U$ = _ सम्बद्ध उपयोगकर्ता _ - सप्ताह के दौरान कम से कम एक क्रिया द्वारा अंकों में योगदान करने वाले उपयोगकर्ता.
+- $E_d$ = _ काम की संवेदनशीलता दर_ - प्रति उपयोगकर्ता के क्रिये ($A/U$)
+- $E_w$ = सभी सक्रिय कामों के WoM _ में औसत सम्बन्ध दर _
+- $D_r$ = _वितरण दर_ -अगर कोई काम पिछले काल के लिए मिंटेड मीड्स प्राप्त किया था, तो उसके उपयोगकर्ताओं को बांटे गए मीड्स की प्रतिशत. उस % यदि वितरण समय में विलंबित होता है, तो 100 से ऊपर हो सकता है.
+- $D_s$ =  _वितरण विस्तार_ - यदि एक कार्य पिछले अवधि के लिए मिंटेड मीड्स प्राप्त किए, तो उपयोगकर्ताओं का % जो मीड्स प्राप्त किए हैं, कुल उपयोगकर्ता की समूह में.
+- $M$ = _ कामकाज की शक्ति _ 2.3 में परिभाषित के रूप में
 
 
-The formula above is simple and designed to favor deeds :
+नवीनतम मीड को सभी डीड्स के बीच वितरित करने के लिए उपयोग किया जाने वाला वैश्विक सम्मति सूचकांक हर सप्ताह के समय सभी डीड्स की समय सम्मति की योग है.
 
-- with lots of engaged users (engagement)
-- who share the whole of the minting income (distribution rate) with their users fairly (distribution spread).
 
-Additionnally boosters are in place for :
+ऊपर का सूत्र सरल है और काम को समर्थित बनाने के लिए डिजाइन किया गया है:
 
-- organizations with the highest engagement, regardless of their size (engagement rate in relation to the WoM)
-- scarcer deeds
+- कई समर्थित उपयोगकर्ताओं के साथ (समर्थन)
+- जो उनके उपयोगकर्ताओं के साथ समानता से संपूर्ण मिंटिंग आय (वितरण दर) साझा करते हैं (वितरण बिस्तरण).
 
-> The Meeds association reserves the right to change the formula if required – if some specific use cases arise for instance. The association can also blacklist any Deed that hijacks the formula to its unique benefit.
+इसके अलावा, बूस्टर निम्न के लिए स्थापित हैं:
 
-As the Deeds are rewarded with Meeds and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the Deeds and their users are aligned in the same virtuous revenue sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
+- सबसे ऊंची सम्बन्धितता के साथ संगठन, उनके आकार (सम्बन्धितता दर WoM से सम्बंधित) के बिना.
+- कम कामों
 
-The “mintium” model is the first of a kind - it goes further than the traditional freemium one, as not only the services are free to use but both the organizations and their users are rewarded for using them.
+> मीड्स संघ को कुछ विशिष्ट उपयोग केसों के उदाहरण के लिए आवश्यक होने पर सूत्र को बदलने का अधिकार सुरक्षित रखता है. संघ को भी कोई भी काम को काले सूची में डालने का अधिकार हो सकता है जो कि फार्मूला को अपने अद्वितीय लाभ के लिए हिजाक करता है.
 
-## 2.7. Cities and governance
+काम के काम के साथ पुरस्कार दिए जाते हैं और उन्हें उपयोगकर्ताओं के साथ उनके संबंध के अनुसार पुनर्वितरण के रूप में पुरस्कार दिये जाते हैं - काम के काम और उनके उपयोगकर्ताओं के रूप में सुखद राजस्व शेयरिंग चक्र में समान दिशा में होते हैं. इसलिए, WoM एक नया काम का मॉडल प्रदान करता है, जिससे नौकरी के संबंध को साझेदारी के रूप में पुनर्निर्माण किया जाता है.
 
-In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
+"मिंटियम" मॉडल पहले से ही की तरह का है - यह पारंपरिक फ्रीमियम से अधिक जाता है, क्योंकि सेवाएं उपयोग करने के लिए नहीं ही फ्री हैं, बल्कि संगठनों और उनके उपयोगकर्ताओं को उन्हें उपयोग करने के लिए पुरस्कार भी मिलते हैं.
 
-A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
+## 2.7. शहर और शासन
 
-| **City name** | **Deeds**   | **Available**        | **Common** | **Uncommon** | **Rare**  | **Legendary** |
-| ------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
-| 1: Tanit      | 100         | T0                   | 50         | 30           | 13        | 7             |
-| 2: Reshef     | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
-| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
-| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
+WoM में, Deeds व्यवस्थित शहरों के अंदर धीमी धीमी उत्पन्न होंगे। सिर्फ प्रथम शहर प्रारंभ से ही मौजूद होगा। अन्य कुछ धीमी धीमी, एक बाद एक, निर्मित होंगे। WoM के पूर्ण में, हमेशा केवल 7 शहरों के होने की होगी, जो प्रत्येक प्रकार की नियमित संख्या वाली Deeds को शामिल करते हैं।
 
-A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
+एक शहर पूर्ण होगा, जब उसकी सभी Deeds मिंट की जाएंगी। फिर, नये शहर की मिंटिंग $n-1$ शहर के अंतिम Deed की मिंटिंग के $2^n$ महीने बाद शुरू होगी।
 
-Each city has its own govenance and operates its own DAO where the city’s Deeds’ owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
+| **शहर का नाम** | **काम**     | **उपलब्ध**           | **सामान्य** | **असामान्य** | **दुर्लभ** | **किस्मती** |
+| -------------- | ----------- | -------------------- | ----------- | ------------ | ---------- | ----------- |
+| 1: Tanit       | 100         | को                   | 50          | 30           | 13         | 7           |
+| 2: Reshef      | 1 000       | Tanit + 4 महीने      | 600         | 300          | 94         | 6           |
+| 3: Ashtarte    | 10 000      | Reshef + 8 महीने     | 6 000       | 3 000        | 995        | 5           |
+| 4: Melqart     | 100 000     | अश्तार्ते + 16 महीने | 60 000      | 30 000       | 9 996      | 4           |
+| 5: Eshmun      | 1 000 000   | मेल्कार्त + 32 महीने | 600 000     | 300 000      | 99 997     | 3           |
+| 6: Kushor      | 10 000 000  | एश्मुम + 64 महीने    | 6 000 000   | 3 000 000    | 999 998    | 2           |
+| 7: Hammon      | 100 000 000 | कुशोर + 128 महीने    | 60 000 000  | 30 000 000   | 9 999 999  | 1           |
 
-For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add Meeds powered food services, vacations services, etc...
+एक शहर देवताओं के एक समुदाय बनाने के लिए एक तरीका है। और इसके परिणामस्वरूप, वह समुदाय के साथ जुड़ी एक विशिष्ट पहचान हासिल करें। यह उपयोगकर्ताओं को अतिरिक्त मूल्य प्रदान करने का एक तरीका भी है - जो एक डीड की क्षमताओं या डीड्स के बीच सहयोग से बनाई गई मूल्य से परे होगा।
 
-By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
+प्रत्येक शहर का अपना ही शासन होता है और उसके अपने ओर एक DAO चलाता है, जहां शहर के डीड्स के मालिक अपने शहर परिषद को चुनने, वोट देने और अपने ओपरेटिंग नियमों को स्थापित करने, नई सेवाएं जोड़ने और अपने शहर को वे चाहते हैं तरीके से बनाने में हिस्सा ले सकते हैं। इससे शहर की आकर्षणिकता और उसके साथ जुड़ी डीड्स की मूल्य को बढ़ाया जाएगा।
 
-Ownsership transactions (Deed’s sales) will also be taxed 6% :
+उदाहरण के लिए, वे अपने शहर के डिजिटल प्रतिनिधित्व, अपने शहर के साथ जुड़ी तकनीकी पुनर्प्रतिनिधियों (उदाहरण के लिए फिजिकल को-वर्किंग स्पेस में मीटिंग रूम) को जोड़ सकते हैं, Meeds पावर्ड फूड सेवाएं, वैकेशन सेवाएं जैसी जोड़ सकते हैं।
 
-- 2.5% for the City,
-- 2.5% for the Association,
-- 1% for the original wallet that redeemed the Deed.
+डिफॉल्ट रूप से (यदि शहर वोट नहीं करती है), डीड्स को किराये पर पैसेवर्स इनकम शहर (5%) और एसोसिएशन (3%) द्वारा “टैक्स” किये जाएंगे उत्पादकतम उपयोग के प्रोत्साहन के लिए।
+
+मालिकता के लेनदेन (Deed’s sales) को 6% का कर भी लगाया जाएगा
+
+- शहर के लिए 2.5%
+- सम्मेलन के लिए 2.5%
+- परमाणु वॉलेट के लिए जो परमाणु विवरण पुरस्कृत किया, 1%

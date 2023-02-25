@@ -1,64 +1,64 @@
-# 4. Xeeds - Work Metaverse Individuals / users
+# 4. Xeeds - Work Metaverse Individuals / användare
 
-## 4.1. Decentralized and self-sovereign models
+## 4.1. Decentraliserade och självstyrande modeller
 
-The WoM recognizes privacy as a fundamental human right and empowers users to own their data.
+I WoM erkänns integritet som en grundläggande mänsklig rättighet och ger användarna möjlighet att äga sina uppgifter.
 
-Our approach is based on decentralized and self-sovereign identity principles, allowing users to be in control at any time of what information they want to publicize, share with a restricted group, or keep private.
+Vårt tillvägagångssätt bygger på decentraliserade och självständiga identitetsprinciper som gör det möjligt för användarna att när som helst bestämma vilken information de vill offentliggöra, dela med en begränsad grupp eller hålla privat.
 
-User's activity and engagement in the WoM is always linked to a Deed. A Xeed is the virtual persona of a user in a Deed. Xeed does not require any KYC, it is self-declaring, but we could conceivably imagine third-party firms providing this service.
+Användarens aktivitet och engagemang i WoM är alltid kopplat till en handling. En Xeed är en virtuell personlighet för en användare i en Deed. Xeed kräver ingen KYC, utan är självdeklarerande, men vi skulle kunna tänka oss att tredjepartsföretag tillhandahåller denna tjänst.
 
-## 4.2. Badges and credentials
+## 4.2. Märken och referenser
 
-Badges and Credentials are given to users as a part of their participation in a Deed. The holder may download them as W3C Verifiable Credentials[^7][^8] (aka VCs) and store them in his wallet. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
+Användarna får märken och referenser som en del av deras deltagande i en handling. Innehavaren kan ladda ner dem som W3C Verifiable Credentials[^7][^8] (VCs) och förvara dem i sin plånbok. Dessa VC:s är bevis på kunskap/kunskap som certifierats av den organisation som utfärdat dem.
 
-In today’s world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they count on their managers to give them a recommendation. The latter supposes certain goodwill on the part of the manager but is not necessarily treated as proof by the future employer.
+I dagens värld är det svårt att på förhand bevisa sina färdigheter. När människor annonserar sig själva på nätverk räknar de med att deras chefer ska rekommendera dem. Det sistnämnda förutsätter en viss goodwill från chefens sida men betraktas inte nödvändigtvis som ett bevis av den framtida arbetsgivaren.
 
-The Work Metaverse provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
+Work Metaverse erbjuder ett mer transparent och oföränderligt sätt för människor att förvärva och visa sina förmågor.
 
-Badges are used to represent accomplishments made within a Deed. After completing a set of objectives or challenges, users will be awarded points. Badges can be unlocked by accumulating certain amounts of points in specific categories.
+Märken används för att representera prestationer som utförts inom en Deed. Efter att ha slutfört en uppsättning mål eller utmaningar får användarna poäng. Du kan låsa upp märken genom att samla in ett visst antal poäng i specifika kategorier.
 
-When badges are downloaded by the user, it is possible to include the number of points and his rank in the Deed for this specific accomplishment.
+När användaren laddar ner märken är det möjligt att inkludera antalet poäng och hans rang i Deed för denna specifika prestation.
 
-Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the Deed. These are signed by the Deed and can be accompanied by a signature by a peer user.
+Referenser är mer flexibla än märken; de kan vara en rekommendation från en kollega som visar på flera års expertis, en avslutad utbildning eller ett avslutat prov eller ett engagemang i Deed. De undertecknas av Deed och kan åtföljas av en signatur från en peer-användare.
 
-## 4.3. Digital work identity
+## 4.3. Digital arbetsidentitet
 
-All of the above contributes to forming proven digital skillset that can be kept and used by the user when changing jobs or freelancing. It would be more trustworthy than traditional solutions as it relies on not just one individual but a full community to prove it.
+Allt detta bidrar till att skapa en beprövad digital kompetens som användaren kan behålla och använda när han eller hon byter jobb eller frilansar. Det skulle vara mer trovärdigt än traditionella lösningar eftersom det inte bara är en enskild person utan ett helt samhälle som kan bevisa det.
 
-Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Deed to another, from one city to another, anywhere through the WoM.
+Precis som sin Meeds-plånbok kommer användaren att behålla sin Xeed, sina märken och referenser som är kopplade till den i sin identitets-plånbok när han eller hon flyttar från en Deed till en annan, från en stad till en annan, var som helst i WoM.
 
-The user will be able to share his Xeed, Badges, and Credentials with other Deeds to highlight his experience, as well as with recruiters or any other services that he deems interesting.
+Användaren kommer att kunna dela sina Xeed, Badges och Credentials med andra Deeds för att framhäva sin erfarenhet, liksom med rekryterare eller andra tjänster som han eller hon anser vara intressanta
 
-A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations.
+En användare kan ha en eller flera digitala identiteter i WoM. Han kan senare presentera dem på ett enhetligt sätt med hjälp av verifierade presentationer.
 
-Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... In a manner of trustworthy LinkedIn 3.0.
+I motsats till webb 2 har användaren full äganderätt till sina decentraliserade identiteter. Den senare kan visa (och bevisa) vilka Deeds han deltog i, hans bevisade färdigheter, hans påstådda färdigheter, andra Xeeds (människor) som han arbetade med, hans digitala representation av sig själv... På ett sätt som är trovärdigt LinkedIn 3.0.
 
-The user will be able to select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Deeds, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time.
+Användaren kommer att kunna välja om något ska avslöjas eller inte, vilken information som ska lämnas och vilka identiteter som ska användas för varje position. Innehållet (bevisad skicklighet, tidigare handlingar osv.) är manipuleringssäkert och kan därför inte ändras. Varje identitet måste utvecklas med tiden.
 
-## 4.4. Fair work marketplace
+## 4.4. Marknadsplats för rättvist arbete
 
-Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Deeds – as they do in the physical world by changing employers. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to choose which Deed provides better engagement reward conditions, belongs to a more attractive city, etc.
+Inom ramen för detta paradigm gör den framtida arbetsmarknaden det möjligt för användarna att röra sig fritt och fördela/sälja sitt engagemang bland Deeds - på samma sätt som de gör i den fysiska världen genom att byta arbetsgivare. Men i WoM skulle deras engagemang vara påtagligt, mätbart och belönas på ett rättvist sätt. Genom att röra sig mellan system som följer en liknande logik förstår de bättre spelreglerna och bedömer arbetsgivarna rättvist - gräset är inte alltid grönare någon annanstans. Användarna kommer att kunna välja vilka Deed ger bättre engagemang belöningsvillkor, tillhör en mer attraktiv stad, etc.
 
-On their end, the Deeds’ holders/renters can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
+I sin tur kan innehavarna/uthyrarna av handlingarna söka efter relevanta färdigheter med hjälp av WoM-nätverket av digitala arbetsidentiteter (som användarna har beslutat att avslöja). In turn, the holders/owners of the documents can search for relevant skills using the WoM network of digital work identities (which the users have decided to reveal).
 
-## 4.5. Tangible and transparent recognition
+## 4.5. Konkret och öppet erkännande
 
-Today, details on compensation and bonuses are obscure in many workplaces. Therefore, it is difficult for a person to compare his conditions to that of another and get a sense of a fair and unbiased treatment. Employees experience a lot of frustrations with the above.
+I dag är detaljerna om ersättningar och bonusar otydliga på många arbetsplatser. Därför är det svårt för en person att jämföra sina villkor med en annan persons och få en känsla av en rättvis och opartisk behandling. Medarbetarna upplever många frustrationer i samband med ovanstående.
 
-The WoM introduces an objective way to recognize achievements and reward them.
+Med WoM införs ett objektivt sätt att erkänna prestationer och belöna dem.
 
-Engagement recognition and reward mechanism is transparent and applies fairly to all users, following the same explicit rules, decided in advance and aligned with the Deed’s goals.
+Mekanismen för erkännande och belöning av engagemang är öppen och tillämpas rättvist på alla användare, enligt samma uttryckliga regler som beslutats i förväg och som är i linje med handlingens mål.
 
-Wallets are individual and blockchain based – when the user receives a reward or earns a badge, it cannot be taken back or erased.
+Plånböcker är individuella och blockkedjebaserade - när användaren får en belöning eller ett märke kan den inte tas tillbaka eller raderas.
 
-## 4.6. Access to Web 3.0, cryptoeconomy and DEFI services
+## 4.6. Wallets are individual and blockchain-based - once the user receives a reward or badge, it cannot be taken back or deleted.
 
-As discussed above, the Work Metaverse opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
+Som vi diskuterat ovan öppnar Work Metaverse världen av kryptovalutor och decentraliserade webbtjänster för i princip alla - en mycket stor population av användare, som kanske till och med inte har någon koppling till det digitala området.
 
-Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
+Alla arbetsuppdrag kan potentiellt bli tokeniserade. Faktum är att världen blir alltmer digital med trender som 5G, iot, wearables och så vidare. Följaktligen kan fler och fler signaler samlas in och analyseras för att symbolisera engagemanget hos icke-digitala yrken. Utmaningar är ett färdigt sätt att symbolisera det genom att representera prestationer i den fysiska världen.
 
-Any user can get Meeds and use a Meeds wallet to get access to new age services without any special training.
+Alla användare kan skaffa Meeds och använda en Meeds-plånbok för att få tillgång till nya tjänster utan någon särskild utbildning.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Verifiable Credentials Data Model

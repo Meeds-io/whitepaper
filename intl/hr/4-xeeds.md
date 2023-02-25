@@ -1,16 +1,16 @@
-# 4. Xeeds - Work Metaverse Individuals / users
+# 4. Xeeds - Work Metaverse Pojedinci / korisnici
 
-## 4.1. Decentralized and self-sovereign models
+## 4.1. Decentralizirani i samosuvereni modeli
 
-The WoM recognizes privacy as a fundamental human right and empowers users to own their data.
+WoM priznaje privatnost kao temeljno ljudsko pravo i omogućuje korisnicima da posjeduju svoje podatke.
 
-Our approach is based on decentralized and self-sovereign identity principles, allowing users to be in control at any time of what information they want to publicize, share with a restricted group, or keep private.
+Naš pristup temelji se na načelima decentraliziranog i samosuverenog identiteta, omogućujući korisnicima da u bilo kojem trenutku imaju kontrolu nad informacijama koje žele objaviti, podijeliti s ograničenom grupom ili zadržati privatnima.
 
-User's activity and engagement in the WoM is always linked to a Deed. A Xeed is the virtual persona of a user in a Deed. Xeed does not require any KYC, it is self-declaring, but we could conceivably imagine third-party firms providing this service.
+Korisnikova aktivnost i angažman u WoM-u uvijek je povezan s Delom. Xeed je virtualna osoba korisnika u Deedu. Xeed ne zahtijeva nikakav KYC, deklarira se sam, ali možemo zamisliti da tu uslugu pružaju tvrtke treće strane.
 
-## 4.2. Badges and credentials
+## 4.2. Značke i vjerodajnice
 
-Badges and Credentials are given to users as a part of their participation in a Deed. The holder may download them as W3C Verifiable Credentials[^7][^8] (aka VCs) and store them in his wallet. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
+Bedževi i vjerodajnice daju se korisnicima kao dio njihovog sudjelovanja u Deed-u. Nositelj ih može preuzeti kao W3C vjerodajnice koje se mogu provjeriti[^7][^8] (aka VCs) i pohraniti ih u svoj novčanik. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
 
 In today’s world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they count on their managers to give them a recommendation. The latter supposes certain goodwill on the part of the manager but is not necessarily treated as proof by the future employer.
 

@@ -1,41 +1,41 @@
 
 
-## Abstract
+## Abstrak
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
+Pasar tenaga kerja saat ini tidak efisien, karena biayanya tinggi[^1][^2][^3] dan sering terjadi konflik kepentingan antara pekerja dan pemberi kerja.
 
-The Work Metaverse (the WoM) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
+Work Metaverse (WoM) membawa paradigma baru yang bisa menekan biaya transaksi dan menemukan ulang relasi dunia kerja, menjembatani kesenjangan antara perusahaan tradisional dengan DAO.
 
-The WoM does that by introducing digital identities for both employer and employee and offering an innovative engagement reward system that would align their interests.
+WoM memperkenalkan identitas digital, baik untuk pekerja dan pemberi kerja, serta menawarkan sistem pengupahan yang inovatif yang bisa mengkomodasi kepentingan kedua pihak.
 
-## Introduction
+## Pengantar
 
-The work market today is broken. It fails to satisfy both employees and employers.
+Pasar tenaga kerja sekarang sudah rusak. Pasar ini sudah gagal memenuhi kebutuhan pekerja dan pemberi kerja.
 
-On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
+Dari pihak pencari kerja, sulit untuk mendapatkan pekerjaan yang layak. Pasar tenaga kerja menyukai orang dengan tipe tertentu, tapi mengabaikan orang yang memiliki kemampuan. Hal ini muncul dari bias manusia - berdasar rasial, jender, cacat tubuh, intovert dll. Pasar kerja juga minim transparansi dalam masalah ketersediaan posisi kerja dan kondisi pekerjaan.
 
-Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
+Setelah mendapat kerja, kebebasan peronal pekerja dirampas dan diganti dengan upah. Pekerja sulit mengeluhkan masalah jam kerja, tempat kerja, isi pekerjaan, atau cara kerjanya. Dan upah mereka jarang dihitung berdasar pada imbas nyata atau nilai yang mereka hasilkan. Peraturan tentang upah juga kurang transparan dan, maka, dinilai tidak adil. Selain itu, kompensasi dan jenjang karir juga tergantung pada faktor manusia -obyektivitas dan sikap baik dari manager.
 
-Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
+Di sisi lain, pemberi kerja sulit mendapatkan talenta dan orang dengan kemampuan yang terpat, dan di waktu yang tepat untuk mengisi lowongan kerja. Dalam model perekrutan kerja tradisional, pemberi kerja tidak mendapatkan cara yang obyektif untuk memastikan kemampuan calon karyawan.
 
-Employers also deal with the lack of loyalty from their employees and a high turnover, both of which, increase hiring and on-boarding costs.
+Pemberi kerja juga susah mendapatkan loyalitas dari karyawan dan perpindahan karyawan yang tinggi. Kedua hal ini menaikkan biaya perekrutan dan penempatan karyawan baru.
 
-Moreover, employers also face low engagement in their existing employees, leading to low creativity, productivity and innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
+Selain itu, karyawan yang tidak pindah, juga tidak bergairah, yang membuat mereka rendah dalam kreativitas, produktivitas, dan inovasi. Ujung dampak dari masalah ini adalah kerusakan ekonomi, padahal ekonomi butuh tenaga yang mahir dan kreatif.
 
-All of the above boil down to high transaction costs and the exacerbated agent-principal problem[^4] :
+Semua masalah di atas menyebabkan tingginya biaya dan memperparah masalah agen-prinsipal[^4] :
 
-- With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element.
-- As to the agent-principal problem, it has been compounded by the increasing revenue and wealth gap between employees and shareholders and the rigidity of the employer-employee relationship.
+- Dengan internet, pasar tenaga kerja memang tumbuh makin menyatu dan terbuka karena adanya situs lowongan kerja, karir dll. Tapi biaya transaksi masih tetap tinggi dan kurang obyektif.
+- Sedangkan masalah agen-prinsipan, makin diperparah dengan naiknya pendapatan dan lebarnya jurang kekayaan antara karyawan dan pemegang saham, serta renggangnya hubungan karyawan dan pengusaha.
 
-The WoM aims at solving both through a new decentralized work paradigm.
+WoM ingin memecahkan dua masalah di atas dengan paradigma baru desentralisasi dunia kerja.
 
-Following R. Coase’s works[^5], most economists link the concept of enterprise with the necessity to mitigate transaction costs. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs[^6] started this process focusing on lowering the cost of transactions for capital sourcing and governance. The WoM aims at pushing this logic further by lowering the cost of work transactions. It proposes a decentralized world where jobs and skills matching could be done objectively, quickly and globally.
+Merujuk pemikiran R. Coase [^5], banyak ekonom mengkaitkan konsep perusahan dengan kebutuhan menekan biaya. Internet dan kini blockchain serta web3 membuka kemungkinan yang mengagumkan dalam mengurangi biaya transaksi di mana saja, menemukan ulang ekonomi, dan menemukan ulang apa itu perusahaan. DAO [^6] pada awalnya fokus pada menekan biaya transaksi dalam sumber modal dan tata kelola. WoM bertujuan mendorong pendapat ini lebih jauh dengan menekan biaya transaksi dalam pasar tenaga kerja. Usulannya adalah mendesentralisasikan dunia pasar kerja, di mana pekerjaan dan kemampuan bisa sesuai dengan cepat, obyektif, dan secara gobal.
 
-The first DAOs flatten the hierarchies and open ownership. The WoM pursues this logic by reinventing rather than suppressing the employer/employee relationship. It introduces a transparent, objective and decentralized reward paradigm, that would sustainably align the employer and the employee interests.
+DAO pada awalnya meratakan hirarki dan membuat kepemilikan perusahan jadi terbuka. WoM mendekati model ini dengan cara menemukan ulang model hubungan karyawan-pengusaha dari pada memaksa hubungan keduanya. Model ii mengenalkan tranpsparansi, obyektif, dan paradigma gaji terdesentralisasi, yang akan berkelanjutan sesuai dengan kepentingan pekerja dan pengusaha.
 
-Finally, the Work Metaverse bridges the gap between corporations and the DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. On the other hand, it proposes sustainable ways to operate and create value for DAOs. Ultimately, the WoM could be among the first mainstream applications to democratize the use of the blockchain for every company and every employee – including non-digital ones.
+Akhirnya, Work Metaverse menjembatani jurang antara perusahaan dengan DAO. Di sisi lain, WoM mengenalkan perusahaan tradisonl ke dalam duna terdesentralisasi dengan paradigma penggajian baru yang mudah, serta melengkapi sistem penggajian mereka. Selain itu, ini juga menyodorkan cara yang berkelanjutan dalam mengoperasikan dan menciptakan nilai bagi DAO. Pada akhirnya, WoM bisa menjadi aplikasi utama dan pertama dalam mendemokratisasikan penggunaan blockchain bagi setiap perusahaan dan karyawan -termasuk bagi mereka yang bukan perusahaan atau karyawan digital.
 
-As with any decentralized venture, the WoM proposal gains in value exponentially as more people use it. For that reason, founders took great care to encourage long term interest and avoid monopolizing the WoM benefits, whether short term or long term. It is an open paradigm, still to be built, and open to active creative participation from everyone.
+Seperti layanknya proyek desentralisasi, proposal WoM akan mendapatkan nilainya secara eksponensial seiring banyaknya orang yang menggunakannya. Untuk itulah, pendiri WoM sangat hati-hati mendorong minat jangka panjang dan menghindari monopoli keuntungan WoM, baik secara jangka pendek maupun jangka panjang. Ini paradigma terbuka, masih dibangun, dan terbuka untuk partisipasi aktif dan kreatif dari setiap orang.
 
 
 [^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)

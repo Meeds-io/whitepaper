@@ -1,86 +1,86 @@
-# 5. The Work Metaverse for ALL – vision summary and milestones
+# 5. O Work Metaverse para Todos - resumo e visão e marcos
 
-## 5.1. Ultimate goal - decentralized web for everyone
+## 5.1. Objetivo final - web descentralizada acessível a todos
 
-In the end, the WoM is a decentralized web world for everyone – every person and every organization.
+No final, a WoM é um mundo da web descentralizado para todos - cada pessoa e cada organização.
 
-It will be populated by users, acting through their digital identities **Xeeds** and accessing the world through their metamasks, for crypto-savvies, or login/password for the newbies. People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
+Ele será habitado por usuários, atuando através de suas identidades digitais **Xeeds** e acessando o mundo através de suas metamascs, para os conhecedores de criptomoedas, ou login/senha para os iniciantes. As pessoas alocariam seu envolvimento e seriam recompensadas de maneira justa, transparente e descentralizada. Elas teriam acesso ao mundo descentralizado e ao mundo das criptomoedas do futuro de uma forma fácil e familiar - elas teriam ferramentas simples para usar seus tokens em suas vidas ou investi-los para o futuro.
 
-Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the metaverse, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
+Organizações - **Deeds** poderiam encontrar talentos, navegando pelo WoM, com as habilidades comprovadas certas. Eles seriam recompensadas por sua participação na metaversa, criando tokens através do envolvimento de seus usuários (modelo mintium). Mas acima de tudo, eles se beneficontariam com um maior envolvimento e lealdade de seus usuários.
 
-The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
+A WoM teria sua própria moeda **Meeds** - que estaria disponível para gastar em lojas, converter em outra moeda, investir em retorno de investimento, alugar ou comprar, etc. A WoM também facilitaria a distribuição de outros tokens e participaria do ecossistema criptográfico como um todo.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
+Como uma imagem vale mais do que mil palavras, aqui está um diagrama que descreve os fluxos de WoM e Meeds
 
-![WoM and Meeds flows](en/img/wom-flows.png)
+![Fluxos de Work Metaverse e Meeds](en/img/wom-flows.png)
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
+A manutenção e a sustentabilidade do mundo a longo prazo são garantidas através de impostos compartilhados entre a associação Meeds e as Cidades.
 
-## 5.2. What’s in it for early adopters
+## 5.2. O que há para os primeiros adopteiros
 
-Obviously, early adopters would get considerable advantages over the late comers.
+Obviamente, os primeiros adopteiros teriam vantagens consideráveis sobre os tardios.
 
-In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
+Em particular, a WoM recompensa o investimento de longo prazo no universo - ou seja, a resgate da propriedade (Deeds). O proprietário original da Deed é compensado através da criação de envolvimento (uso ativo), através de renda passiva (aluguel) e recebe 1% por toda a vida em qualquer transação de venda da Deed (em cada mudança de propriedade, o resgatador original recebe uma taxa na transação).
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the metaverse.
+Ao acreditar no projeto, participar das piscinas de liquidez, fazer staking em Meeds, resgatá-los contra Deeds... investidores iniciais de todos os tamanhos poderão criar tokens adicionais. Eles também terão os direitos de voto mais cedo e ajudarão a moldar o metaverse.
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
+Organizações que adquirem, mas especialmente que usam Deeds para envolver e recompensar seus funcionários serão compensadas com Meeds criados. Quanto mais justamente eles jogarem, mais eles receberão. Os primeiros adopteiros estariam associados às primeiras cidades históricas e seriam identificados como os construtores mais tarde.
 
-The diagram below represents an example of the Meeds investment strategy for capital holders :
+O diagrama abaixo representa um exemplo da estratégia de investimento Meeds para os detentores de capital:
 
-![Meeds investment strategy for capital holders](en/img/invest-capital.png)
+![Meeds estratégia de investimento para os detentores de capital](en/img/invest-capital.png)
 
-Organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
+As organizações claro, podem participar de piscinas de liquidez, mas também se juntar à comunidade de construtores e obter recompensas adicionais de envolvimento lá.
 
-The diagram below represents an example of the Meeds investment strategy for work holders :
+O diagrama abaixo representa um exemplo da estratégia de investimento Meeds para os detentores de trabalho:
 
-![Meeds investment strategy for work holders](en/img/invest-work.png)
+![Meeds estratégia de investimento para os trabalhadores](en/img/invest-work.png)
 
-## 5.3. The launch
+## 5.3. O início
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+A data oficial de lançamento está definida para **1º de maio de 2022** - o Dia Internacional dos Trabalhadores, comemorado em muitos países.
 
-At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
+Nesse momento, o token Meed já existe. É possível adquiri-lo e as piscinas de liquidez estão abertas para participação, nas redes Polygon e Ethereum.
 
-Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
+Três membros da associação Meeds usam o sistema internamente para envolver e recompensar seus usuários e melhorar o software Meeds.
 
-The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
+O aplicativo para investidores está disponível na Mainnet Ethereum. No lançamento, inclui staking, recompensas de liquidez, acúmulo de pontos e resgate de Deeds.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
+A comunidade de construtores está funcionando no software Meeds, aberta a qualquer pessoa que queira se juntar, testar e participar. É possível fazer login com o Metamask.
 
-This paper was published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
+Este papel foi publicado no dia de lançamento. Após o lançamento, o token será distribuído por meio de "air-drop" para muitas pessoas na comunidade criptográfica.
 
-## 5.4. The builders community
+## 5.4. A comunidade de construtores
 
-We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the Work Metaverse. The association would reward builders engagement with Meeds, from its marketing budget.
+Estamos lançando a comunidade de construtores no software Meeds e no Discord. A comunidade acolhe qualquer pessoa que queira participar da construção do Metaverse do Trabalho. A associação recompensaria o engajamento dos construtores com o Meeds, a partir de seu orçamento de marketing.
 
-The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
+A associação também planeja stakear alguns Meeds para adquirir (resgatar) uma Escritura para a comunidade de construtores. A comunidade então criará Meeds por meio de engajamento, através do modelo Mintium, e os distribuirá para usuários engajados.
 
-## 5.5. Roadmap and milestones
+## 5.5. Roadmap e marcos importantes
 
-Our roadmap would follow the priority order below:
+Nossa roadmap seguirá a ordem de prioridade abaixo:
 
-- Engagement index and minting through engagement
-- Enable Deeds renting
-- Xeed creation
-- Badges improvement and credentials development
-- DeFi services – in the wallet, credit cards partnership
+- Índice de engajamento e criação por meio de engajamento
+- Habilitar aluguel de Escrituras
+- Criação de Xeeds
+- Melhoria de emblemas e desenvolvimento de credenciais
+- Serviços DeFi - em parceria com cartões de crédito e na carteira
 
-We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
+Estamos contando com os primeiros adotantes das DAOs e empresas de alta tecnologia durante a fase de construção. Também devemos ter alguns primeiros adotantes de empresas tradicionais que obtêm valor imediato do metaverse ao fornecer programas de engajamento relevantes para suas pessoas, além de seus planos de compensação tradicionais atuais.
 
-Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature metaverse, having spread to many organizations and many users globally.
+A criação de Meeds cobre um período de 20 anos. Nesse momento, aspiramos ter construído um metaverse maduro, tendo se espalhado para muitas organizações e muitos usuários globalmente.
 
-## 5.6. What you can do right now
+## 5.6. O que você pode fazer agora mesmo
 
-What can you do right now to participate?
+Como participar agora mesmo?
 
-- Spread this paper to those who would be interested
-- Visit our website [meeds.io](https://www.meeds.io/)
-- Check out the [Investor app](https://meeds.io/investors)
-- Contribute to the existing liquidity pools here :
-  - [Cometh Swap](https://swap.cometh.io/)
-  - [Sushi Swap](https://sushi.com)
-- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
+- Divulgue este papel para aqueles que possam estar interessados
+- Visite nosso site [meeds.io](https://www.meeds.io/)
+- Confira o [Investor app](https://meeds.io/investors)
+- Contribuir para os pools de liquidez existentes :
+  - [Troca de Dente](https://swap.cometh.io/)
+  - [Sushi de troca](https://sushi.com)
+- Junte-se à nossa comunidade [Disco](https://discord.com/invite/hAuADSq3) para ser mantido no circuito
+- Participe da nossa comunidade de [Builders](https://meeds.io/builders) para testar o software Meeds, engaje e ganhe algumas recompensas de engajamento
 
-**\*\*\* The Work Metaverse - let’s build this crazy future world together. \*\*\***
+**\*\*\* O Work Metaverse - vamos construir juntos este mundo louco do futuro. \*\*\***

@@ -1,153 +1,153 @@
 
-# 2. Deeds NFT - Work Metaverse Organizations
+# 2. Deeds NFT - 仕事 メタバースオーガニゼーション
 
-## 2.1. NFT – Deeds defined
+## 2.1. NFT - ディードの定義
 
-A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
+非代替トークン (NFT) は、商品を表す一意のトークンです。 WoM では、Deed が所有権のタイトルとして使用されます。 各 Deed は、その所有者に複数のサービスにアクセスする権利を与えます。たとえば、Meeds ソフトウェアを搭載したデジタル オフィスへのアクセスと、Meeds を作成する権利です。
 
-The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM.
+WoM は、DAO、伝統的な企業、協会、シンクタンク、パートナーシップ、劇団、プロジェクト グループ、学校など、あらゆる種類の組織を歓迎します。 Deed は、WoM における彼らのデジタルな存在を表しています。
 
-## 2.2. Deeds supply
+## 2.2. Deeds供給
 
-The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of Meeds rewarding (Minting Power). The term ‘user’ here and hereafter designates any type of employee, worker, freelancer, volunteer etc.
+WoM は、最終的に限られた量の Deeds を提供します。 各 Deed には事前に定義された最大数のユーザーが含まれており、Meeds の報酬 (Minting Power) の容量を提供します。 ここおよび以降の「ユーザー」という用語は、あらゆる種類の従業員、労働者、フリーランサー、ボランティアなどを指します。
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
+Deeds には 4 つのタイプがあり、それぞれがユーザー数、都市での投票権 (2.7 を参照)、または Meeds 鋳造力の点で異なる機能を提供します。最も希少なものが最も強力です。
 
-| **Deed Type** | **Max users** | **Minting power** | **Scarcity** | **City voting rights** |
-| ------------- | ------------- | ----------------- | ------------ | ---------------------- |
-| Common        | 100           | 1                 | ~ 90%        | 1                      |
-| Uncommon      | 1000          | 1.1               | ~ 9%         | 10                     |
-| Rare          | 10 000        | 1.3               | ~ 1%         | 100                    |
-| Legendary     | unlimited     | 2                 | < 0.1 %      | 1000                   |
+| **Deed タイプ** | **最大ユーザ数** | **採掘力** | **希少性** | **投票権限はありません** |
+| ------------ | ---------- | ------- | ------- | -------------- |
+| 共通           | 100        | 1       | ~ 90%   | 1              |
+| 一般的でありません    | 1000       | 1.1     | ~ 9%    | 10             |
+| レア           | 10 000     | 1.3     | ~ 1%    | 100            |
+| レジェンダリー      | 無制限        | 2       | < 0.1 % | 1000           |
 
-## 2.3. Deeds ownership
+## 2.3. Deedsの所有権
 
-A Deed gives its owner the right to USE it, RENT it, or SELL it.
+Deed は、その所有者にそれを使用、賃貸、または販売する権利を与えます。
 
-- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
-- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
-- SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
+- USE – Deed の所有者は、組織のために直接 Deed を使用して、そのユーザーにサービスを提供できます。
+- RENT - Deed の所有者は、受動的収入を得るために、Deed を別の組織に賃貸することもできます。
+- 売却 - [OpenSea](https://opensea.io) などの二次市場で Deed を売却できます。
 
-Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
+Deed のアクティブな保有者または賃借人である組織は、以下に説明する革新的な「mintium」モデル (パート 2.6) を通じて Meeds で報われます。
 
-## 2.4. Deeds services, engagement/rewards engine
+## 2.4. Deeds サービス、エンゲージメント/報酬エンジン
 
-In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
+ますます競争が激化する市場では、人材を引き付けて保持し、彼らのインプットを最大化するために、組織は単純な報酬を超えてユーザーにインセンティブを与える必要があります。 WoM は、ワーク エンゲージメントをトークン化することで、それを行うための革新的なフレームワークを提供します。
 
-Each Deed’s holder or renter can provide tools and services to its users, who earn engagement points that can be fine-tuned to the Deed’s priorities. Periodically, points are converted into Meeds (and - for DAOs - potentially another token), based on the Deed’s set budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
+各 Deed の所有者または賃借人は、そのユーザーにツールとサービスを提供できます。ユーザーは、Deed の優先順位に合わせて微調整できるエンゲージメント ポイントを獲得できます。 定期的に、ポイントは Deed の設定予算に基づいて Meeds (および - DAO の場合は別のトークン) に変換されます。 このようにして、組織にとって重要な活動へのユーザーの関与が報われます。
 
-To begin with, the following free services provided by the Meeds association can be used to reward engagement:
+まず、Meeds 協会が提供する次の無料サービスを使用して、エンゲージメントに報いることができます。
 
-- **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the Deed’s priorities via customizable engagement programs.
-- **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
-- **Customizable engagement programs** - organizations can create their own engagement programs matching their business goals and priorities. Programs are associated to automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatics or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
-- **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
-- **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
-- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
-- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
-- **Analytics** – to analyze and follow engagement within the Deed.
-- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
+- **ゲーミフィケーション エンジン** – WoM 内の自動アクションにはポイント単位の重みがあり、カスタマイズ可能なエンゲージメント プログラムを通じて Deed の優先順位に合わせて微調整できます。
+- **チャレンジ** – 実績を表すカスタマイズ可能なチャレンジを設定できます。 課題はある人が事前に設定し、別の人がそれを記入して発表することができます。 チャレンジは、カスタマイズ可能なエンゲージメントプログラムの中で、ポイントとして重み付けされます。
+- **カスタマイズ可能なエンゲージメントプログラム** - 組織は、ビジネスの目標や優先順位に合わせた独自のエンゲージメントプログラムを作成することができます。 プログラムは、システム内の自動アクションや手動で設定した課題に関連付けられています。 各プログラムにはMeedsの予算が設定されています。 各エンゲージメントプログラムの自動的または告知されたアクションによって各ユーザーが獲得したポイントは、そのプログラムの予算に応じて定期的にMeedに変換されます。
+- **Kudos** - 感謝の気持ちと認識のしるしとして、ユーザーがお互いに称賛を与えることができます。 配布できる Kudos は限定されているため (たとえば、週 3 回など、定期的な制限があらかじめ設定されています)、希少で価値があります。 アクションと同様に、Kudos にはポイントがあります。 こうすることで、従業員は同僚に報酬を与えることができるようになります。
+- ワークスペース、非同期通信、タスク管理ツール、メモなどの報酬エンジンにプラグインされた**コラボレーション** ツールにより、人々はプロジェクトで共同作業を行うことができます。
+- **ウォレット** – ユーザーには、ミードを保管するための安全なイーサリアム技術のウォレットが提供されます。 または、上級ユーザーの場合は、Metamask ウォレットを使用できます。
+- **ストア** – ディードの所有者または賃借人、またはミーズ エコシステムが提供する特典とミーズを交換できるストア。
+- **分析** – 証書内のエンゲージメントを分析して追跡する。
+- **コネクタ**、報酬エンジンにプラグイン - ユーザーは別のソフトウェアでのアクションを介してエンゲージメント ポイントを取得します。たとえば、GitHub でコードをコミットします。
 
-Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
+前述のツールとサービスには、すでに分散化されているものもあれば、そうでないものもあります。 最終的な目標は、すべてのサービスを分散化された方法で提供することです。これは、基盤となるテクノロジーの進化に合わせて徐々に行っていきます。
 
-New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
+新しいサービスは、API を介して報酬エンジンにプラグインできます。 例は無数にあり、ほぼすべてのソフトウェアまたはサービスを含めることができます。
 
-- CRM software – salespeople would get engagement points for working on opportunities.
-- Accounting software – accountants would get engagement points for keeping books.
-- Clocking terminal – factory worker can get points for factory work time.
-- Etc.
+- CRM ソフトウェア – 営業担当者は、商談に取り組むことでエンゲージメント ポイントを獲得します。
+- 会計ソフト - 会計士は帳簿をつけることでエンゲージメントポイントを得ることができる。
+- 時計端末 - 工場の作業員は、工場の作業時間に応じてポイントを得ることができます。
+- など。
 
-Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
+さらに、コネクタを介して生成されたエンゲージメントは、組織のグローバル エンゲージメント スコアに参加します。 そのためには、コネクタが Meeds Association によってホワイトリストに登録される必要があります。 協会はコネクタを審査し、そのアルゴリズムを承認し、Meedsに対してその所有権を取得します。 そして、協会が提供する無料サービスの一部となり、グローバル・エンゲージメント・インデックスに含まれるようになります。 他のどの Deed も、その開発者に対して同じコネクタと同じ報酬アルゴリズムを使用できます。
 
-The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
+Deed の所有者または賃借人は、独自の特典で店舗を充実させたり、オンラインの特典オファーに接続したりできます。 そこにもまた、無限の可能性があるのです。
 
-- Training courses
-- Gym memberships
-- Vacation packages
-- Lunch with a leader in the organization
-- Physical office space
-- Etc.
+- トレーニングコース
+- スポーツジム会員
+- バケーションパッケージ
+- 組織内のリーダーとの昼食会
+- 物理的なオフィススペース
+- など。
 
-The store functions through the use of Meeds so that Meeds are partially returned to the Deed.
+ストアはニーズを使用して機能し、ニーズが部分的に Deed に返されます。
 
-## 2.5. Rewards – Meeds and other tokens
+## 2.5. 報酬 – Meeds およびその他のトークン
 
-The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs. Indeed, each Deed can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
+WoM は、デジタル作業ツールをゲーミフィケーションし、作業エンゲージメントに関連してポイントと Meeds を割り当てることにより、ユーザー エンゲージメントをトークン化します。 エンゲージメントおよび報酬エンジンに接続されたサービスは、エンゲージメント レベルに応じて、各 Deed のエンゲージメント プログラムに沿って、各ユーザーにポイントを付与します。 実際、各 Deed は、活動の種類ごとに与えられるポイントの量を微調整できます。 したがって、GitHub でコードをプッシュすることは、IT ショップにとって 10 ポイントの価値があるかもしれませんが、デジタル エージェンシーは、GitHub プッシュに対して 5 ポイントしか割り当てないかもしれませんが、リツイートに対しては 10 ポイントを提供します。
 
-Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Deed is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
+報酬エンジンは定期的に、予算やその他の配布ルールに従ってエンゲージメント ポイントを Meeds に変換し、最終的にユーザーのウォレットを介して報酬を与えます。 Deed は Meeds を配布する必要はなく、エンゲージメント システムを使用して他の形式の補償プログラムを有効にすることができます。 ただし、Meeds を配布すると、その鋳造能力が向上します。
 
-Moreover, the Deed does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
+さらに、Deed は、後述の「mintium」モデルから Meeds を取得するため、Meeds を配布してエンゲージメント プログラムを促進するために、必ずしも Meeds を取得する必要はありません。
 
-In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
+Meeds に加えて、同じエンゲージメント メカニズムに基づいて、他のトークン (たとえば、DAO 独自のトークン) を配布することも可能になります。 その場合、ミーズ・アソシエーションの取引手数料5％（DAOトークン換算）が分配の対象となります。
 
-## 2.6. The “mintium” model – tokenize work engagement
+## 2.6. ミンティアム」モデル - ワーク・エンゲージメントの形骸化
 
-By engaging their users in the WoM, Deeds get compensated through an innovative mintium model.
+ディードは、ユーザーをWoMに参加させることで、革新的なミニアムモデルによって報酬を得ることができます。
 
-Engagement points, gained by the Deeds’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Deeds. Even though the Deed can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
+Deeds のユーザーが獲得したエンゲージメント ポイントは、Meeds Association によって計算されたグローバル エンゲージメント インデックスに参加します。 インデックスは、すべてのDeedsに同じ原則を使用しています。 Deed はポイントの割り当てを変更して、あるアクションを別のアクションよりも促進することができますが、それらの変更はグローバル インデックスの計算では考慮されません。
 
-Each week, a certain amount of Meeds is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Deeds. Some Deeds get an additional boost depending on their type. The Deeds that claim their Meeds over the week, receive them. The unclaimed Meeds are added to the following week’s global distribution amount.
+毎週、一定量の Meeds が WoM のグローバル エンゲージメント ミントに割り当てられます。 参加したDeedsの中で、毎週日割りで計算されます。 Deedの種類によっては、さらにブーストがかかるものもあります。 1 週間にわたって Meeds を要求する Deeds は、Meeds を受け取ります。 未配布のMeedは、翌週のグローバル配信量に加算されます。
 
-The engagement score _S_  of a Deed is a function of the engagement, the number of engaged users and the distribution :
+Deedのエンゲージメントスコア_S_は、エンゲージメント、エンゲージしたユーザーの数、分布:
 
 $$S = (E_d / E_w) * D_r * D_s * M$$
 
-Where :
+場所：
 
-- $A$ = _Activity_ - total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
-- $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
-- $E_d$ = _Engagement rate of the deed_ - actions per user ($A/U$)
-- $E_w$ = _Average engagement rate_ of all active Deeds in the WoM.
-- $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
-- $D_s$ =  _Distribution spread_ - if a Deed received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
-- $M$ = _Minting Power_ of the Deed as defined in 2.3
-
-
-The global engagement index used to distribute minted Meeds among the Deeds is the sum of all Deeds’ engagement scores for the week.
+- $A$ = _アクティビティ_ - 1 週間に Deed 内でユーザーが蓄積したアクションの総数。 (各証書のレベルでは、各アクションがエンゲージメント ポイントに変換されます。一部のアクションは他のアクションよりも重要です。 インデックスレベルでは、すべてのアクションがリニアライズされます）。
+- U$ = _関与したユーザー_ - この1週間に少なくとも1つのアクションによってポイントに貢献したユーザー。
+- $E_d$ = _Deed のエンゲージメント率_ - ユーザーあたりのアクション ($A/U$)
+- $E_w$ = WoM 内のすべてのアクティブな Deeds の_平均エンゲージメント率_。
+- $D_r$ = _配布率_ - 証書が前の期間に発行された Meeds を受け取った場合、ユーザーに配布された Meeds の割合。 配布が遅れた場合、% は 100 を超える可能性があります。
+- $D_s$ = _配布スプレッド_ - Deed が前の期間に鋳造された Meeds を受け取った場合、ユーザーの合計プールで Meeds を受け取ったユーザーの割合。
+- $M$ = 2.3 で定義されている証書の _Minting Power_
 
 
-The formula above is simple and designed to favor deeds :
+Meedの配布に使用されるグローバルエンゲージメントインデックスは、その週のすべてのDeedのエンゲージメントスコアを合計したものです。
 
-- with lots of engaged users (engagement)
-- who share the whole of the minting income (distribution rate) with their users fairly (distribution spread).
 
-Additionnally boosters are in place for :
+上記の式は単純で、Deeds を優先するように設計されています。
 
-- organizations with the highest engagement, regardless of their size (engagement rate in relation to the WoM)
-- scarcer deeds
+- 多くのエンゲージメントを持つユーザー（エンゲージメント）と
+- を、鋳造収入の全額（分配率）をユーザーと公平に分け合う（分配スプレッド）。
 
-> The Meeds association reserves the right to change the formula if required – if some specific use cases arise for instance. The association can also blacklist any Deed that hijacks the formula to its unique benefit.
+追加ブースターは以下のとおりです:
 
-As the Deeds are rewarded with Meeds and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the Deeds and their users are aligned in the same virtuous revenue sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
+- 規模に関係なくエンゲージメントが最も高い組織（WoMに対するエンゲージメント率）
+- よりどりみどり
 
-The “mintium” model is the first of a kind - it goes further than the traditional freemium one, as not only the services are free to use but both the organizations and their users are rewarded for using them.
+> Meeds 協会は、必要に応じて式を変更する権利を留保します。たとえば、特定の使用事例が発生した場合です。 協会は、式を乗っ取って独自の利益を得る Deed をブラックリストに載せることもできます。
 
-## 2.7. Cities and governance
+Deeds には Meeds が与えられ、エンゲージメントに対するユーザーへの報酬として Meeds を再配布するインセンティブが与えられているため、Deeds とそのユーザーの両方の利益は、同じ好循環の収益分配サイクルで調整されます。 このように、WoMは雇用者と被雇用者の関係をパートナーシップとして再構築する、新しいワークモデルを提供します。
 
-In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
+「mintium」モデルはこれまでにないもので、サービスが無料で使用できるだけでなく、組織とそのユーザーの両方がそれらを使用することで報酬を受けるため、従来のフリーミアム モデルよりもさらに進んでいます。
 
-A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
+## 2.7. 都市とガバナンス
 
-| **City name** | **Deeds**   | **Available**        | **Common** | **Uncommon** | **Rare**  | **Legendary** |
-| ------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
-| 1: Tanit      | 100         | T0                   | 50         | 30           | 13        | 7             |
-| 2: Reshef     | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
-| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
-| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
+WoM では、Deeds は仮想都市内で徐々に生成されます。 最初から存在するのは最初の都市だけです。 その他は、順次作っていく予定です。 WoM 全体では、各タイプの固定数の Deeds を含む都市は 7 つしかありません。
 
-A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
+すべての Deeds が作成されると、都市は完成したと見なされます。 その後、新しい各都市の鋳造は、$n-1$ 都市の最後の Deed が鋳造されてから $2^n$ か月後に開始されます。
 
-Each city has its own govenance and operates its own DAO where the city’s Deeds’ owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
+| **都市名**     | **Deeds**   | **利用可能**        | **共通**     | **一般的でありません** | **レア**    | **レジェンダリー** |
+| ----------- | ----------- | --------------- | ---------- | ------------- | --------- | ----------- |
+| 1: Tanit    | 100         | T0              | 50         | 30            | 13        | 7           |
+| 2: Reshef   | 1 000       | Tanit + 4 か月    | 600        | 300           | 94        | 6           |
+| 3: Ashtarte | 10 000      | Reshef + 4 か月   | 6 000      | 3 000         | 995       | 5           |
+| 4: Melqart  | 100 000     | Ashtarte + 4 か月 | 60 000     | 30 000        | 9 996     | 4           |
+| 5: Eshmun   | 1 000 000   | Melqart + 4 か月  | 600 000    | 300 000       | 99 997    | 3           |
+| 6: Kushor   | 10 000 000  | Eshmum + 4 か月   | 6 000 000  | 3 000 000     | 999 998   | 2           |
+| 7: Hammon   | 100 000 000 | Kushor + 4 か月   | 60 000 000 | 30 000 000    | 9 999 999 | 1           |
 
-For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add Meeds powered food services, vacations services, etc...
+都市は、Deeds が集まってコミュニティを作成する方法です。 その結果、そのコミュニティに関連付けられた特定のアイデンティティを取得します。 それはまた、ユーザーに付加価値を提供する方法でもあります。つまり、1 つの Deed の能力を超える価値や、Deeds 間の協力によって生み出される価値です。
 
-By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
+各都市には独自のガバナンスがあり、独自の DAO を運営しており、都市の証書の所有者が市議会を選出し、投票して独自の運営規則を確立し、新しいサービスを追加し、希望する方法で都市を形成し、 都市の魅力とそれに付随する証書の価値。
 
-Ownsership transactions (Deed’s sales) will also be taxed 6% :
+たとえば、都市のデジタル表現、都市に関連付けられた物理的なカウンターパート (物理的なコワーキング スペースの会議室など) を追加したり、Meeds を利用したフード サービスや休暇サービスなどを追加したりできます。
 
-- 2.5% for the City,
-- 2.5% for the Association,
-- 1% for the original wallet that redeemed the Deed.
+デフォルトでは (市が反対票を投じない限り)、Deeds の貸し出しによる受動的収入は、市 (5%) と協会 (3%) によって「課税」され、生産的な使用が促進されます。
+
+所有権取引 (Deed 販売) も 6% 課税されます。
+
+- 市は2.5％。
+- 協会に対して2.5％。
+- Deed を引き換えた元のウォレットの 1%。

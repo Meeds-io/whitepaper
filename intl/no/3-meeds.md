@@ -1,109 +1,109 @@
-# 3. Meeds token – the Work Metaverse currency
+# 3. Meeds token – Work Metaverse valuta
 
-The Work Metaverse is powered by its currency – the Meeds (MEED) token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
+Work Metaverse drives av sin egen valuta - Meeds (MEED) token. Meeds brukes til å belønne brukere (gjennom engasjementsprogrammer), kjøpe i butikker, få Deeds, få økonomisk avkastning på investeringer osv.
 
-## 3.1. Tokenomics
+## 3.1. Tokenomikk
 
-The Meeds **maximum supply is limited to 100 million tokens**, minted progressively. **Meeds are minted at the rate of 10 MEED per minute**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).
+Meeds **maksimalt leveranse er begrenset til 100 millioner tokens**, myntet progressivitet. **Meeds er minet med 10 MEED per minutt**. Derfor er hele mynted nær 20 år (ettersom rundt $10*60*24*365 = 5M$ Meeds preges per år).
 
-5 Million Meeds (5% of total supply) have been pre-minted to date. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services.
+5 millioner Meeds (5 % av den totale forsyningen) er hittil preget på forhånd. Herav har 4,5 millioner blitt låst i en hvelvkontrakt med en lineær opptjening over 4 år. Det forhåndsutstedte beløpet ble hovedsakelig brukt til å anskaffe programvare-IP, betale for tokenutstedelsens juridiske avgifter og hosting-tjenester.
 
-The rest is part of the __Meeds DAO funds__ and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
-
-
-## 3.2. Minting allocation
-
-Minted Meeds are allocated to encourage involvement of the three categories of stakeholders - the users, the builders and the investors:
-
-- The users (users and Deeds holders/renters) get Meeds through engagement rewards (mintium model).
-- Builders (members of the association and community) get Meeds through the association funds to build, operate and improve the WoM.
-- Investors mint Meeds through renting and buying of liquidity pools and staking Meeds.
-
-At the beginning, the builders get 30% of the allocation. The 70% are shared between the users and the investors. This allocation proportion will be reviewed on a regular basis, through the Meeds association DAO vote.
-
-## 3.3. Users – minting through engagement
-
-Part of the continuously minted Meeds is allocated to the engagement minting channel. The distribution is done weekly. At any given week end, the engagement index is calculated and Deeds can claim their rewards the following week and get their Meeds. Unclaimed Meeds stay in the fund and are added to the next week’s distribution. The model is described in detail in the previous chapter (part 2.6).
-
-## 3.4. Builders – Meeds association DAO and community of builders
-
-The WoM and the Meeds token are operated by the non-profit Meeds Association DAO, introduced above. A multisig contract called the _Meeds DAO Funds_ is used to manage the association's operating expenses.
-
-During the minting period, **30% of the minted Meeds are allocated to the Meeds association**.
-
-Association members can provide services to the association on the basis of a signed services convention establishing the man-day rate. Services are paid monthly in Meeds, based on the market price. Exemples of services include – enriching the Meeds software, developing the WoM app, developing new connectors, operating the cloud service, providing financial and legal services etc.
-
-Without being a member, any Deed can participate in the creation of a new connector and be rewarded for doing so – first through the Meeds association acquiring the connector and then by minting through this connector.
-
-The association operates a Builders community that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
-
-Thus, the community will function as an example of a Deed, offering a standard set of services provided by the association. The association stakes Meeds in order to redeem a Deed for the community. The community will then also participate in the engagement minting like any other Deed.
-
-After the minting period is over, the association will be sustained by :
-
-- taxing passive income (3% on Deeds renting)
-- taxing selling income (2.5% on Deeds sales)
-- perceiving transaction fees over the use of the perks stores
-- acting as a liquidity pool provider
-- perceiving transaction fees when a Deed distributes non Meeds tokens via WoM services.
-- by operating the Deeds that the association minted over time.
+Resten er en del av __Meeds DAO funds__ og vil bli brukt til å betale for tjenester, samt en del lansering av insentiver som for eksempel flyreiser og henvisningskampanjer.
 
 
-## 3.5. Investors
+## 3.2. Tildeling av mynter
 
-Investors help creating the WoM by providing liquidity and by staking Meeds and thus stabilizing its price level during the construction period. Both are encouraged through minting.
+Myntede Meeds tildeles for å oppmuntre til involvering av de tre kategoriene av interessenter - brukerne, utbyggerne og investorene:
 
-**Liquidity providers** Currency liquidity management is key to the success of the project and several DeFi strategies will be used to optimize capital efficiency. We will start with incentives for staking MeedS/ETH LP pool tokens and will progressively introduce bonds to move towards a protocol owned liquidity. The latter would contribute to the association’s long term sustainability - as mentioned above, transaction fees will fund the association operating expenses such as cloud hosting.
+- Brukerne (brukere og Deeds-innehavere/leietakere) får Meeds gjennom belønning for engasjement (mintium-modellen).
+- Utbyggere (medlemmer av foreningen og lokalsamfunnet) får Meeds gjennom foreningens midler til å bygge, drive og forbedre WoM.
+- Investorer mint Meeds gjennom leie og kjøp av likviditetspooler og staking Meeds.
 
-Every member also has the right to directly purchase a large amount of Meeds at a discount. The amount wired to the association account is converted to ETH and added along with the equivalent value of Meeds to the Liquidity Pool.
+I begynnelsen får utbyggerne 30 % av tildelingen. De 70 % deles mellom brukerne og investorene. Denne tildelingsandelen vil bli gjennomgått regelmessig gjennom Meeds-foreningens DAO-avstemning.
 
-**Staking / long-term investment** To encourage long term investment, staked Meeds are rewarded. When Meeds are staked, the staker gets some xMeeds tokens. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings. In practice, minted Meeds are effectively added to the holdings of the xMeeds smart contract and distributed to the xMeeds holder when they unstake.
+## 3.3. Brukere - preging gjennom engasjement
 
-By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. Each staked Meeds (xMeeds) grants its owner a number of points per day. The longer the vested period the higher the number of points obtained per xMeeds. Each Deed is then redeemed in exchange for a number of points.
+En del av de kontinuerlig pregede Meeds er allokert til engasjementspregingskanalen. Fordelingen skjer ukentlig. Ed en gitt ukeslutt beregnes engasjementsindeksen, og Deeds kan kreve sine belønninger den påfølgende uken og få sine Meeds. Uavhentede Meeds forblir i fondet og legges til neste ukes utdeling. Modellen er beskrevet i detalj i forrige kapittel (del 2.6).
 
-Points are calculated using the formula below :
+## 3.4. Byggherrer - Meeds-foreningen DAO og fellesskapet av byggherrer
+
+WoM og Meeds-token drives av den ideelle organisasjonen Meeds Association DAO, introdusert ovenfor. En multisig kontrakt kalt _Meeds DAO Funds_ brukes til å administrere assosiasjonens driftskostnader.
+
+I mynteperioden, **30% av de gruvedrtede midlene er allokert til Meeds forening**.
+
+Foreningens medlemmer kan levere tjenester til foreningen på grunnlag av en signert tjenesteavtale som fastsetter dagsverksprisen. Tjenestene betales månedlig i Meeds, basert på markedspris. Eksempler på tjenester inkluderer - berikelse av Meeds-programvaren, utvikling av WoM-appen, utvikling av nye koblinger, drift av skytjenesten, levering av finansielle og juridiske tjenester osv.
+
+Uten å være medlem kan enhver Deed delta i opprettelsen av en ny konnektor og bli belønnet for å gjøre det - først ved at Meeds-foreningen kjøper konnektoren og deretter ved å prege gjennom denne konnektoren.
+
+Foreningen driver et byggersamfunn som tar imot WoM-entusiaster som ønsker å bidra til opprettelsen av WoM. Foreningen vil sponse fellesskapet fra sitt budsjett og kompensere for engasjementet til medlemmene i fellesskapet.
+
+Dermed vil fellesskapet fungere som et eksempel på en Deed, og tilby et standardsett med tjenester som tilbys av foreningen. Foreningen setter inn Meeds for å innløse en Deed for lokalsamfunnet. Samfunnet vil da også delta i engasjementspregingen som enhver annen Deed.
+
+Etter at pregingsperioden er over, vil foreningen opprettholdes av :
+
+- beskatning av passiv inntekt (3 % på utleie av Deeds)
+- beskatning av salgsinntekter (2,5 % på salg av Deeds)
+- oppfatte transaksjonsgebyrer over bruken av frynsegoder butikker
+- fungerer som en leverandør av likviditetspool
+- oppfatte transaksjonsgebyrer når en Deed distribuerer ikke Meeds-tokens via WoM-tjenester.
+- ved å drifte Deeds som foreningen har preget over tid.
+
+
+## 3.5. Investorer
+
+Investorer bidrar til å skape WoM ved å skaffe likviditet og ved å sette inn Meeds og dermed stabilisere prisnivået i byggeperioden. Begge deler oppmuntres gjennom preging.
+
+**Likviditetsleverandører** Valutalikviditetsstyring er nøkkelen til prosjektets suksess, og flere DeFi-strategier vil bli brukt for å optimalisere kapitaleffektiviteten. Vi vil starte med insentiver for å sette inn MeedS / ETH LP-pool-tokens og vil gradvis introdusere obligasjoner for å bevege oss mot en protokoll-eid likviditet. Sistnevnte vil bidra til foreningens langsiktige bærekraft - som nevnt ovenfor vil transaksjonsgebyrer finansiere foreningens driftskostnader som skyhosting.
+
+Hvert medlem har også rett til å kjøpe en stor mengde Meeds direkte med rabatt. Beløpet som overføres til foreningskontoen konverteres til ETH og legges sammen med den tilsvarende verdien av Meeds til likviditetspoolen.
+
+**Staking / langsiktig investering** For å oppmuntre til langsiktig investering belønnes stakede Meeds. Når Meeds satses, får satseren noen xMeeds-tokens. Nyutstedte Meeds distribueres til stakeholdere proporsjonalt med deres xMeeds-beholdning. I praksis blir myntede Meeds effektivt lagt til beholdningen av xMeeds-smartkontrakten og distribuert til xMeeds-innehaveren når de unstake.
+
+Ved å sette inn Meeds kan investorer også innløse Deeds (og deretter delta i preging gjennom engasjement), og dermed øke token-etterspørselen. Hver innsatte Meeds (xMeeds) gir eieren et antall poeng per dag. Jo lengre opptjeningsperiode, jo høyere antall poeng oppnås per xMeeds. Hver Deed innløses deretter i bytte mot et antall poeng.
+
+Poengene beregnes ved hjelp av formelen nedenfor:
 
  $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
 
- where :
+ hvor:
 
-- $xMeeds$ : xMeeds balance  with no decimals
-- $T$ : Time elapsed in milliseconds
+- $xMeeds$ : xMeeds balanse uten desimaler
+- $T$ : Tid gått i millisekunder
 
-The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably. For example, the formula gives the following rates :
+Formelen unngår å favorisere store innehavere for å distribuere Deeds mer effektivt og mer rettferdig. For eksempel gir formelen følgende satser :
 
-| **Holder Size** | **Holdings**   | **Accrue Rate** |
-| --------------- | -------------- | --------------- |
-| Small           | 1 000 xMeeds   | 28 pts/day      |
-| Medium          | 10 000 xMeeds  | 164 pts/day     |
-| Large           | 100 000 xMeeds | 321 pts/day     |
+| **Bruker Størrelse** | **Beholdning** | **Opptjeningssats** |
+| -------------------- | -------------- | ------------------- |
+| Liten                | 1 000 xMeeds   | 28 stk/dag          |
+| Middels              | 10 000 xMeeds  | 164 stk/dag         |
+| Stor                 | 100 000 xMeeds | 321 stk/dag         |
 
 
-which leads to the following holding time for each class of holder :
+som fører til følgende holdetid for hver innehaverklasse :
 
-| **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| Common        | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| Uncommon      | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| Rare          | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| Legendary     | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| **Korttype** | **Kostnad**   | **Stor Innehaver** | **Middels Innehaver** | **Liten Innehaver** |
+| ------------ | ------------- | ------------------ | --------------------- | ------------------- |
+| Vanlig       | 8 000 poeng   | 25 dager           | 49 dager              | 9 måneder           |
+| Uvanlig      | 32 000 poeng  | 100 dager          | 6 måneder             | 3 år                |
+| Sjelden      | 50 000 poeng  | 156 dager          | 10 måneder            | 5 år                |
+| Legendarisk  | 100 000 poeng | 311 dager          | 20 måneder            | 10 år               |
 
-## 3.6. Meeds DAO governance
+## 3.6. Styring av Meeds DAO
 
-Meeds token holders need to stake tokens in order to vote on the Meeds DAO decisions such as managing the minting budget or electing DAO board members (annual mandate).
+Innehavere av Meeds-tokens må sette inn tokens for å kunne stemme over Meeds DAO-beslutninger som å forvalte myntebudsjettet eller velge styremedlemmer i DAO (årlig mandat).
 
-## 3.7. Decentralized finance (DeFi) user services
+## 3.7. Brukertjenester for desentralisert finans (DeFi)
 
-The Work Metaverse will introduce the blockchain world to many people who do not use it today.
+Work Metaverse vil introdusere blokkjedeverdenen for mange mennesker som ikke bruker den i dag.
 
-Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
+Faktisk kan ethvert arbeid (enten det er digitalt eller ikke) gjøres spillbart og ethvert engasjement belønnes med Meeds. Meeds gjøres tilgjengelig for brukerne gjennom en brukervennlig, blokkjedebasert lommebok som "abstraherer" kompleksiteten i kryptoverdenen for en gjennomsnittlig bruker.
 
-Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
+Utover lommeboken og en butikk der de kan kjøpe fordeler for Meeds, planlegger vi å introdusere alle brukere for flere sluttbrukerprodukter drevet av de desentraliserte finansprotokollene, for eksempel:
 
-- The ability to stake Meeds tokens and get yields (generate revenues)
-- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
-- A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. This card could also be used by organizations to fund employee wallets in order to manage employee benefits such as restaurants, transportation and any type of expenses.
+- Muligheten til å satse Meeds-tokens og få avkastning (generere inntekter)
+- Muligheten til å bruke Meeds-tokens som sikkerhet for å låne stabile mynter som USDC (utnytte først en [Fuse pool](https://app.rari.capital/fuse) og deretter registrere Meeds-token til [AAVE](https://aave.com/).
+- Et digitalt kort som kan legges til og brukes via Apple Pay, Google Pay eller en hvilken som helst minibank. Sistnevnte kan gis gjennom et partnerskap med VISA og vil utnytte en kredittlinje i USDC, sikret med Meeds. Dette kortet kan også brukes av organisasjoner til å finansiere ansattes lommebøker for å administrere personalgoder som restauranter, transport og alle typer utgifter.
 
-So not only many new users will discover the blockchain world, they will also discover a bankless world.
+Så ikke bare vil mange nye brukere oppdage blockchain-verdenen, de vil også oppdage en bankløs verden .
 
  

@@ -1,47 +1,113 @@
 
 
-## Abstract
+## Sažetak
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
+Današnjem tržištu rada nedostaje učinkovitosti zbog visokih transakcijskih troškova[^1][^2]<sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</5 ></sup> te čestim sukobima interesa između poslodavca i zaposlenika.</p> 
 
-The Work Metaverse (the WoM) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
+<p spaces-before="0">
+  Work Metaverse (Wome) predlaže novu paradigmu koja bi smanjila transakcijske troškove i ponovno osmislila radni odnos, premošćujući jaz između tradicionalnih korporacija i DAO-ova.
+</p>
 
-The WoM does that by introducing digital identities for both employer and employee and offering an innovative engagement reward system that would align their interests.
+<p spaces-before="0">
+  Work Metaverse (Wome) predstavlja novu paradigmu koja bi smanjila transakcijske troškove i ponovno osmislila radni odnos, premošćujući jaz između tradicionalnih korporacija i Dao-ova.
+</p>
 
-## Introduction
+<h2 spaces-before="0">
+  Introdukcija
+</h2>
 
-The work market today is broken. It fails to satisfy both employees and employers.
+<p spaces-before="0">
+  Tržište rada danas je slomljeno. Ne uspijeva zadovoljiti ni zaposlenike ni poslodavce.
+</p>
 
-On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
+<p spaces-before="0">
+  Što se tiče zaposlenika, teško je pronaći pravi posao. Tržište rada daje prednost određenim vrstama pojedinaca, ostavljajući iza sebe veliki skup vještina. To dolazi iz niza ljudskih predrasuda – rasnih, spolnih, hendikepiranih, introvertnih itd. Tržištu rada također nedostaje transparentnosti u pogledu raspoloživih radnih mjesta i uvjeta zapošljavanja.
+</p>
 
-Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
+<p spaces-before="0">
+  Nakon zaposlenja, osobne slobode zaposlenika su povrijeđene u zamjenu za naknadu. Zaposlenici imaju malo utjecaja na svoje radno vrijeme, radno mjesto, sadržaj rada ili metode rada. A njihova je naknada rijetko povezana s njihovom stvarnom implikacijom ili vrijednošću. Pravilima o naknadama nedostaje transparentnost i stoga se doživljavaju kao nepravedna. Štoviše, naknada i napredak u karijeri ovise i o ljudskom faktoru – dobroj vjeri i objektivnosti neposrednog rukovoditelja zaposlenika.
+</p>
 
-Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
+<p spaces-before="0">
+  Poslodavci, s druge strane, imaju poteškoća u pronalaženju talenata i zapošljavanju pravih vještina i osoba koje odgovaraju u pravo vrijeme za posao. Ne postoji objektivan način za utvrđivanje vještina potencijalnog zaposlenika ili pronalaženje ljudi izvan poslodavceve tradicionalne skupine za zapošljavanje.
+</p>
 
-Employers also deal with the lack of loyalty from their employees and a high turnover, both of which, increase hiring and on-boarding costs.
+<p spaces-before="0">
+  Poslodavci se također suočavaju s nedostatkom lojalnosti svojih zaposlenika i velikom fluktuacijom, što oboje povećava troškove zapošljavanja i stažiranja.
+</p>
 
-Moreover, employers also face low engagement in their existing employees, leading to low creativity, productivity and innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
+<p spaces-before="0">
+  Štoviše, poslodavci se također suočavaju s niskim angažmanom svojih postojećih zaposlenika, što dovodi do niske kreativnosti, produktivnosti i inovativnosti. Potonje nanosi još veću štetu u današnjoj ekonomiji koja zahtijeva vještiji kreativni rad.
+</p>
 
-All of the above boil down to high transaction costs and the exacerbated agent-principal problem[^4] :
+<p spaces-before="0">
+  Sve gore navedeno svodi se na visoke transakcijske troškove i pogoršani problem agent-principal<fnref target="4" /> :
+</p>
 
-- With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element.
-- As to the agent-principal problem, it has been compounded by the increasing revenue and wealth gap between employees and shareholders and the rigidity of the employer-employee relationship.
+<ul>
+  <li>
+    S internetom su tržišta rada evoluirala prema većem jedinstvu i transparentnosti zahvaljujući stranicama za oglašavanje poslova, stranicama za karijeru itd. No transakcijski su troškovi još uvijek previsoki u nedostatku elementa objektivnosti.
+  </li>
+  <li>
+    Što se tiče problema agent-principal, on je složen sve većim jazom u prihodima i bogatstvu između zaposlenika i dioničara te rigidnošću odnosa poslodavac-zaposlenik.
+  </li>
+</ul>
 
-The WoM aims at solving both through a new decentralized work paradigm.
+<p spaces-before="0">
+  WoM ima za cilj riješiti oboje kroz novu decentraliziranu radnu paradigmu.
+</p>
 
-Following R. Coase’s works[^5], most economists link the concept of enterprise with the necessity to mitigate transaction costs. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs[^6] started this process focusing on lowering the cost of transactions for capital sourcing and governance. The WoM aims at pushing this logic further by lowering the cost of work transactions. It proposes a decentralized world where jobs and skills matching could be done objectively, quickly and globally.
+<p spaces-before="0">
+  Slijedeći radove R. Coasea<fnref target="5" />, većina ekonomista povezuje koncept poduzeća s nužnošću smanjenja transakcijskih troškova. Internet i odnedavno blockchain i web3 otvaraju uzbudljive mogućnosti za smanjenje transakcijskih troškova posvuda, ponovno osmišljavanje gospodarstva, a posebno ponovno izmišljanje poduzeća. Prvi DAO-ovi<fnref target="6" /> započeli su ovaj proces fokusirajući se na smanjenje troškova transakcija za izvor kapitala i upravljanje. WoM ima za cilj dalje pomicanje ove logike snižavanjem troškova radnih transakcija. Predlaže decentralizirani svijet u kojem se usklađivanje poslova i vještina može učiniti objektivno, brzo i globalno.
+</p>
 
-The first DAOs flatten the hierarchies and open ownership. The WoM pursues this logic by reinventing rather than suppressing the employer/employee relationship. It introduces a transparent, objective and decentralized reward paradigm, that would sustainably align the employer and the employee interests.
+<p spaces-before="0">
+  Prvi DAO izravnavaju hijerarhije i otvaraju vlasništvo. WoM slijedi ovu logiku reinventirajući umjesto potiskujući odnos poslodavac/zaposlenik. Uvodi transparentnu, objektivnu i decentraliziranu paradigmu nagrađivanja, koja bi održivo uskladila interese poslodavca i zaposlenika.
+</p>
 
-Finally, the Work Metaverse bridges the gap between corporations and the DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. On the other hand, it proposes sustainable ways to operate and create value for DAOs. Ultimately, the WoM could be among the first mainstream applications to democratize the use of the blockchain for every company and every employee – including non-digital ones.
+<p spaces-before="0">
+  Konačno, Work Metaverse premošćuje jaz između korporacija i DAO-ova. S jedne strane, uvodi tradicionalne korporacije u decentralizirani svijet kroz paradigmu nagrađivanja angažmana koju je lako primijeniti, nadopunjavajući njihove sustave naknada. S druge strane, predlaže održive načine rada i stvaranja vrijednosti za DAO-ove. U konačnici, WoM bi mogao biti među prvim mainstream aplikacijama koje demokratiziraju korištenje blockchaina za svaku tvrtku i svakog zaposlenika – uključujući i one koji nisu digitalni.
+</p>
 
-As with any decentralized venture, the WoM proposal gains in value exponentially as more people use it. For that reason, founders took great care to encourage long term interest and avoid monopolizing the WoM benefits, whether short term or long term. It is an open paradigm, still to be built, and open to active creative participation from everyone.
+<p spaces-before="0">
+  Kao i kod svakog decentraliziranog pothvata, WoM prijedlog eksponencijalno dobiva na vrijednosti što ga više ljudi koristi. Iz tog razloga, osnivači su jako pazili da potaknu dugoročni interes i izbjegnu monopoliziranje prednosti WoM-a, bilo kratkoročnih ili dugoročnih. To je otvorena paradigma koju tek treba izgraditi i otvorena za aktivno kreativno sudjelovanje svih.
+</p>
 
-
-[^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)
-[^2]: Jan Drahokoupil, Agnieszka Piasna - [“Work in the Platform Economy: Beyond Lower Transaction Costs”](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
-[^3]: Seth C. Oranburg, Liya Palagashvili - [“Transaction Cost Economics, Labor Law and the Gig Economy”](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship)
-[^4]: Michael C. Jensen, William H. Meckling - [“Theory of the Firm : Managerial Behavior, Agency Costs and Ownership Structure”](https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf)
-[^5]: R. Coase - [“The nature of the firm”](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
-[^6]: Aaron Wright - [“The Rise of Decentralized Autonomous Organizations : Opportunities and Challenges”](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)
+<footnotes>
+  <fn name="1" spaces-before="0">
+    <p spaces-before="0">
+      Suzanne Young - <a href="https://www.academia.edu/24703426/Transaction_Cost_Economics">“Transaction Cost Economics”</a>
+    </p>
+  </fn>
+  
+  <fn name="2" spaces-before="0">
+    <p spaces-before="0">
+      Jan Drahokoupil, Agnieszka Piasna - <a href="https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html">“Work in the Platform Economy: Beyond Lower Transaction Costs”</a>
+    </p>
+  </fn>
+  
+  <fn name="3" spaces-before="0">
+    <p spaces-before="0">
+      Seth C. Oranburg, Liya Palagashvili - <a href="https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship">“Transaction Cost Economics, Labor Law and the Gig Economy”</a>
+    </p>
+  </fn>
+  
+  <fn name="4" spaces-before="0">
+    <p spaces-before="0">
+      Michael C. Jensen, William H. Meckling - <a href="https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf">“Theory of the Firm : Managerial Behavior, Agency Costs and Ownership Structure”</a>
+    </p>
+  </fn>
+  
+  <fn name="5" spaces-before="0">
+    <p spaces-before="0">
+      R. Coase - <a href="http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf">“The nature of the firm”</a>
+    </p>
+  </fn>
+  
+  <fn name="6" spaces-before="0">
+    <p spaces-before="0">
+      Aaron Wright - <a href="https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1">“The Rise of Decentralized Autonomous Organizations : Opportunities and Challenges”</a>
+    </p>
+  </fn>
+</footnotes>
 

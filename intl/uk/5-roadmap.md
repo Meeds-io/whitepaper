@@ -1,86 +1,86 @@
-# 5. The Work Metaverse for ALL – vision summary and milestones
+# 5. Меtaverse Work для ВСІХ - підсумок бачення та основні етапи
 
-## 5.1. Ultimate goal - decentralized web for everyone
+## 5.1. Кінцева мета - децентралізований веб для всіх
 
-In the end, the WoM is a decentralized web world for everyone – every person and every organization.
+Зрештою, WoM - це децентралізований веб-світ для всіх - кожної людини і кожної організації.
 
-It will be populated by users, acting through their digital identities **Xeeds** and accessing the world through their metamasks, for crypto-savvies, or login/password for the newbies. People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
+Його населятимуть користувачі, які діятимуть через свої цифрові ідентифікатори **Xeeds** і отримуватимуть доступ до світу через метамаски для крипто-ентузіастів або логін/пароль для новачків. Люди розподілятимуть свою участь і отримуватимуть винагороду у справедливий, прозорий і децентралізований спосіб. Вони отримають доступ до децентралізованого світу і криптосвіту завтрашнього дня простим і звичним способом - вони отримають прості інструменти, щоб використовувати свої токени в житті або інвестувати їх в майбутнє.
 
-Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the metaverse, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
+Організації - **Deeds** зможуть знаходити таланти, переглядаючи WoM, за потрібними перевіреними навичками. Вони отримають винагороду за свою участь у метапросторі, карбуючи токени завдяки залученню користувачів (модель mintium). Але найбільше вони виграють від більшої залученості та лояльності своїх користувачів.
 
-The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
+WoM матиме власну валюту **Meeds** - яку можна буде витрачати в магазинах, конвертувати в іншу валюту, інвестувати для отримання прибутку, орендувати чи купувати тощо. WoM також сприятиме розповсюдженню інших токенів і братиме участь у загальній крипто-екосистемі.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
+Оскільки краще один раз побачити, ніж сто разів почути, ось діаграма, яка описує потоки WoM і Meeds
 
-![WoM and Meeds flows](en/img/wom-flows.png)
+![Потоки WoM та Meeds](en/img/wom-flows.png)
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
+Підтримка та сталий розвиток світу в довгостроковій перспективі забезпечується за рахунок податків, які розподіляються між асоціацією Meeds та містами.
 
-## 5.2. What’s in it for early adopters
+## 5.2. Що це дає раннім користувачам
 
-Obviously, early adopters would get considerable advantages over the late comers.
+Очевидно, що ті, хто прийшов раніше, отримають значні переваги над тими, хто прийшов пізніше.
 
-In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
+Зокрема, WoM винагороджує довгострокові інвестиції у вірші, тобто викуп майна ( Deeds). Первісний власник Deed отримує компенсацію через карбування (активне використання), через пасивний дохід (оренда) та довічний 1% від будь-якої операції з продажу Deed (при кожній зміні власника первісний викупитель отримує комісію за транзакцію).
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the metaverse.
+Вірячи в проект, беручи участь в пулах ліквідності, інвестуючи в Meeds, викуповуючи їх в обмін на Deeds... ранні інвестори всіх розмірів будуть карбувати додаткові токени. Вони також отримають право голосу і допоможуть сформувати метамережу.
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
+Організації, які придбають, а особливо використовують Deeds для залучення і винагороди своїх співробітників, отримають компенсацію у випущених Meeds. Чим чесніше вони гратимуть, тим більше отримають. Ті, хто першими почали використовувати Міди, будуть асоціюватися з першими історичними містами, а згодом будуть ідентифіковані як будівничі.
 
-The diagram below represents an example of the Meeds investment strategy for capital holders :
+На діаграмі нижче наведено приклад інвестиційної стратегії Meeds для власників капіталу:
 
-![Meeds investment strategy for capital holders](en/img/invest-capital.png)
+![Інвестиційна стратегія Meeds для власників капіталу](en/img/invest-capital.png)
 
-Organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
+Звичайно, організації можуть брати участь у пулах ліквідності, але також приєднатися до спільноти будівельників і отримати додаткові винагороди за участь у ній.
 
-The diagram below represents an example of the Meeds investment strategy for work holders :
+На діаграмі нижче наведено приклад інвестиційної стратегії Meeds для власників робочих місць:
 
-![Meeds investment strategy for work holders](en/img/invest-work.png)
+![Інвестиційна стратегія Meeds для власників робочої сили](en/img/invest-work.png)
 
-## 5.3. The launch
+## 5.3. Запуск
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+Офіційна дата запуску призначена на **1 травня 2022 року** - Міжнародний день солідарності трудящих, який відзначається в багатьох країнах.
 
-At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
+На той час токен Meed вже існував. Його можна придбати, а пули ліквідності відкриті для участі в мережах Polygon та Ethereum.
 
-Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
+Три члени асоціації Meeds використовують систему для внутрішнього використання, щоб залучати та винагороджувати своїх користувачів і вдосконалювати програмне забезпечення Meeds.
 
-The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
+Додаток Investor доступний у мережі Ethereum Mainnet. На старті він включає в себе стейкінг, винагороду за ліквідність, накопичення балів і викуп Deeds.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
+Спільнота Builders працює на програмному забезпеченні Meeds, відкрита для всіх, хто хоче приєднатися, протестувати і взяти участь. Вхід можливий за допомогою Metamask.
 
-This paper was published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
+Ця стаття була опублікована в день запуску. Після запуску токен буде переданий багатьом людям з крипто-спільноти.
 
-## 5.4. The builders community
+## 5.4. Спільнота будівельників
 
-We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the Work Metaverse. The association would reward builders engagement with Meeds, from its marketing budget.
+Ми запускаємо спільноту будівельників на програмному забезпеченні Meeds і на Discord. Спільнота вітає всіх, хто хоче взяти участь у створенні Metaverse Work. Асоціація винагороджуватиме білдерів за участь у роботі з Meeds зі свого маркетингового бюджету.
 
-The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
+Асоціація також планує закласти частину Meeds, щоб придбати (викупити) Deed для спільноти будівельників. Потім спільнота буде карбувати Meeds за допомогою моделі мінтіуму і розповсюджувати їх серед залучених користувачів.
 
-## 5.5. Roadmap and milestones
+## 5.5. Дорожня карта та основні етапи
 
-Our roadmap would follow the priority order below:
+Наша дорожня карта буде побудована в наступному порядку пріоритетів:
 
-- Engagement index and minting through engagement
-- Enable Deeds renting
-- Xeed creation
-- Badges improvement and credentials development
-- DeFi services – in the wallet, credit cards partnership
+- Індекс залученості та карбування через залученість
+- Увімкнути оренду Deeds
+- Створення Xeed
+- Покращення бейджів та розробка облікових даних
+- DeFi-сервіси - в гаманці, партнерство з кредитними картками
 
-We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
+Ми розраховуємо на ранніх прихильників з DAOs та технологічно підкованих компаній на етапі побудови. У нас також повинні бути перші послідовники з традиційних компаній, які отримують негайну вигоду від метамережі, пропонуючи своїм співробітникам відповідні програми залучення, на додаток до своїх поточних традиційних компенсаційних планів.
 
-Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature metaverse, having spread to many organizations and many users globally.
+Майнінг Meeds охоплює 20-річний період. До того часу ми прагнемо досягти створення зрілого метапростору, який пошириться на багато організацій і багатьох користувачів по всьому світу.
 
-## 5.6. What you can do right now
+## 5.6. Що ви можете зробити прямо зараз
 
-What can you do right now to participate?
+Що ви можете зробити прямо зараз, щоб взяти участь?
 
-- Spread this paper to those who would be interested
-- Visit our website [meeds.io](https://www.meeds.io/)
-- Check out the [Investor app](https://meeds.io/investors)
-- Contribute to the existing liquidity pools here :
+- Поширюйте цю статтю серед тих, кому вона може бути цікавою
+- Відвідайте наш сайт [meeds.io](https://www.meeds.io/)
+- Перевірте додаток [Investor app](https://meeds.io/investors)
+- Зробити внесок в існуючі пули ліквідності тут :
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
-- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
+- Приєднуйтесь до нашої спільноти [Discord](https://discord.com/invite/hAuADSq3) щоб бути в курсі подій
+- Приєднуйтесь до нашої спільноти [Builders](https://meeds.io/builders) щоб протестувати програмне забезпечення Meeds, взаємодіяти та отримувати винагороди від Meeds
 
-**\*\*\* The Work Metaverse - let’s build this crazy future world together. \*\*\***
+**\*\*\* The Work Metaverse - давайте побудуємо цей божевільний світ майбутнього разом. \*\*\***
