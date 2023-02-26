@@ -37,9 +37,11 @@ Til slutt bygger Work Metaverse bro over gapet mellom selskaper og DAO-ene. På 
 
 Som med alle desentraliserte satsinger øker WoM-forslaget eksponentielt i verdi etter hvert som flere bruker det. Av den grunn passet grunnleggerne på å oppmuntre langsiktig interesse og unngå å monopolisere WoM-fordelene, enten det er kortsiktig eller langsiktig. Det er et åpent paradigme som fortsatt skal bygges, og åpent for aktiv kreativ deltakelse fra alle.
 
+
 [^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)
 [^2]: Jan Drahokoupil, Agnieszka Piasna - [“Work in the Platform Economy: Beyond Lower Transaction Costs”](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
 [^3]: Seth C. Oranburg, Liya Palagashvili - [“Transaction Cost Economics, Labor Law and the Gig Economy”](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship)
 [^4]: Michael C. Jensen, William H. Meckling - [“Theory of the Firm : Managerial Behavior, Agency Costs and Ownership Structure”](https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf)
 [^5]: R. Coase - [“The nature of the firm”](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
 [^6]: Aaron Wright - [“The Rise of Decentralized Autonomous Organizations : Opportunities and Challenges”](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)
+
