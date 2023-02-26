@@ -1,38 +1,38 @@
-# 5. The Work Metaverse for ALL – vision summary and milestones
+# 5. Metaversiooni töö kõigile - visiooni kokkuvõte ja vahe-eesmärgid
 
-## 5.1. Ultimate goal - decentralized web for everyone
+## 5.1. Ülim eesmärk - detsentraliseeritud veeb kõigile
 
-In the end, the WoM is a decentralized web world for everyone – every person and every organization.
+Lõppkokkuvõttes on WoM detsentraliseeritud veebimaailm kõigile - igale inimesele ja igale organisatsioonile.
 
-It will be populated by users, acting through their digital identities **Xeeds** and accessing the world through their metamasks, for crypto-savvies, or login/password for the newbies. People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
+Seda hakkavad täitma kasutajad, kes tegutsevad oma digitaalsete identiteetide **Xeeds** kaudu ja pääsevad maailma oma metamaski kaudu, krüpto-savvies, või login/password jaoks uustulnukatele. Inimesed jagaksid oma panust ja saaksid tasu õiglaselt, läbipaistvalt ja detsentraliseeritult. Nad saaksid juurdepääsu detsentraliseeritud maailmale ja homsele krüptomaailmale lihtsal ja tuttavlikul viisil - nad saaksid lihtsad vahendid, et kasutada oma žetooni oma elus või investeerida neid oma tulevikuks.
 
-Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the metaverse, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
+Organisatsioonid - **Deeds** oleks võimeline hankima talente, sirvides WoMi, õigete tõestatud oskuste järele. Nad saaksid tasu oma osalemise eest metaversioonis, teenides oma kasutajate kaasamise kaudu žetoneid (mintium-mudel). Kuid eelkõige saaksid nad kasu kasutajate suuremast kaasatusest ja lojaalsusest.
 
-The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
+WoMil oleks oma valuuta **Meedid** - seda saaks kulutada kauplustes, konverteerida teise valuutasse, investeerida tulu saamiseks, rentida või osta jne. WoM hõlbustaks ka teiste žetoonide levitamist ja osaleks üldises krüptoökosüsteemis.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
+Kuna pilt ütleb rohkem kui tuhat sõna, on siin diagramm, mis kirjeldab WoMi ja Meedsi voogusid
 
 ![WoM and Meeds flows](en/img/wom-flows.png)
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
+Maailma säilitamine ja jätkusuutlikkus pikas perspektiivis on tagatud maksude kaudu, mida jagavad Meedsi ühing ja linnad.
 
-## 5.2. What’s in it for early adopters
+## 5.2. Mis on varajaste kasutuselevõtjate jaoks
 
-Obviously, early adopters would get considerable advantages over the late comers.
+On selge, et varajased kasutuselevõtjad saavad märkimisväärseid eeliseid hilisemate tulijate ees.
 
-In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
+Eelkõige premeerib WoM pikaajalist investeerimist värssi - see tähendab vara lunastamist (Deeds). Deed'i algne omanik saab kompensatsiooni kaasamise kaudu (aktiivne kasutamine), passiivse tulu kaudu (rentimine) ja saab eluaegselt 1% Deed'i igast müügitehingust (iga omanikuvahetuse korral saab algne lunastaja tehingu eest tasu).
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the metaverse.
+Uskudes projekti, osaledes likviidsusbasseinides, panustades Meedid, lunastades neid Deedide vastu... igas suuruses varajased investorid vermiksid täiendavaid märke. Nad saaksid ka kõige varem hääleõiguse ja aitaksid metaversiooni kujundada.
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
+Organisatsioonid, kes omandavad, kuid eelkõige kasutavad Deeds'i oma töötajate kaasamiseks ja premeerimiseks, saavad kompensatsiooni vermitud Meeds'idega. Mida õiglasemalt nad mängivad, seda rohkem nad saavad. Varasemad kasutuselevõtjad on seotud esimeste ajalooliste linnadega ja neid peetakse hiljem ehitajateks.
 
-The diagram below represents an example of the Meeds investment strategy for capital holders :
+Alljärgnev diagramm on näide Meedsi investeerimisstrateegiast kapitaliomanike jaoks:
 
 ![Meeds investment strategy for capital holders](en/img/invest-capital.png)
 
-Organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
+Organisatsioonid saavad muidugi osaleda likviidsusbasseinides, kuid võivad ka liituda ehitajate kogukonnaga ja saada sealt lisapalka.
 
-The diagram below represents an example of the Meeds investment strategy for work holders :
+Alljärgnev diagramm on näide Meedsi investeerimisstrateegiast töövõtjate jaoks:
 
 ![Meeds investment strategy for work holders](en/img/invest-work.png)
 
