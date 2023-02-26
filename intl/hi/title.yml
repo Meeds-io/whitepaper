@@ -15,6 +15,6 @@ book: true
 listings-no-page-break: true
 first-chapter: 2
 classoption: oneside
-mainfont: "Hind"
-sansfont: "Hind"
+mainfont: "Noto Sans Devanagari"
+sansfont: "Noto Sans Devanagari"
 CJKmainfont: "Heiti TC"
