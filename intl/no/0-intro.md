@@ -2,7 +2,7 @@
 
 ## Sammendrag
 
-Dagens arbeidsmarked mangler effektivitet på grunn av høye transaksjonskostnader[^1][^2][^3] og hyppige interessekonflikter mellom arbeidsgiver og arbeidstaker.
+Dagens arbeidsmarked mangler effektivitet på grunn av høye transaksjonskostnader[^1][^2]<sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</5 ></sup> og hyppige interessekonflikter mellom arbeidsgiver og arbeidstaker.</p> 
 
 Work Metaverse (Women) foreslår et nytt paradigme som vil redusere transaksjonskostnadene og gjenoppfinne arbeidsforholdet, og bygge bro mellom tradisjonelle selskaper og DAOer.
 
