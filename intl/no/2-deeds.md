@@ -96,7 +96,7 @@ Hvor:
 
 - $A$ = _Aktivitet_ - totalt antall handlinger akkumulert av brukere i skjøtet i løpet av uken. (På hvert gjerningsnivå blir hver handling konvertert til engasjementspoeng, noen handlinger veier mer enn andre. På indeksnivå er alle handlinger linearisert).
 - $U$ = _Engasjerte brukere_ – brukere som bidro til poeng i løpet av uken, ved minst én handling.
-- $E_d$ = _Engasjement for handlingen_ - handlinger per bruker ($A/U$)
+- E_d$ = _Engasjement for handlingen_ - handlinger per bruker ($A/U$)
 - $E_w$ = _Gjennomsnittlig engasjementsgrad_ for alle aktive Deeds i WoM.
 - $D_r$ = _Distribusjonsrate_ - hvis en Deed mottok myntede Meeds for den foregående perioden, prosentandelen av Meeds som ble distribuert til brukerne. Prosentandelen kan være over 100 hvis distribusjonen er forsinket i tid.
 - $D_s$ =  _Distribusjonsspredning_ - hvis en Deed mottok utstedte Meeds for den foregående perioden, % av brukerne som mottok Meeds i den totale brukergruppen.
