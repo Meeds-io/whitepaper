@@ -86,17 +86,17 @@ Ved å engasjere brukerne i WoM får Deeds kompensasjon gjennom en innovativ min
 
 Engasjementspoeng, oppnådd av Deeds' brukere, inngår i den globale engasjementsindeksen, beregnet av Meeds Association. Indeksen bruker samme prinsipp for alle Deeds.  Selv om Deed kan endre poengtildelingen for å fremme en handling fremfor en annen,  vil disse endringene ikke bli tatt med i beregningen av den globale indeksen.
 
-Hver uke tildeles en viss mengde Meeds til den globale engasjementspregingen av WoM. Det beregnes ukentlig, pro-rata, blant deltakende Deeds. Noen Deeds får et ekstra løft avhengig av deres type.  De Deeds som gjør krav på sine Meeds i løpet av uken, mottar dem. Meeds som ikke hentes ut, legges til neste ukes globale distribusjonsbeløp.
+Hver uke tildeles en viss mengde Meeds til den globale engasjementspregingen av WoM. Det beregnes ukentlig, pro-rata, blant deltakende Deeds. Noen Deeds får et ekstra løft avhengig av deres type.  De gjerninger som krever sine Meeds i løpet av uken, mottar dem. De uavhentede Meeds legges til den påfølgende ukens globale distribusjonsbeløp.
 
-Engasjementspoengsummen_S_ en Deed er en funksjon av engasjementet, antall engasjerte brukere og distribusjonen:
+Engasjementspoengsummen _S_ til et skjøte er en funksjon av engasjementet, antall engasjerte brukere og distribusjonen:
 
 $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Hvor:
 
-- $A$ = _Aktivitet_ - totalt antall handlinger akkumulert av brukere innenfor Deed i løpet av uken. (På hvert Deed-nivå konverteres hver handling til engasjementspoeng, og noen handlinger vektes mer enn andre. På indeksnivå er alle handlinger linearisert).
-- $U$ = _Engasjerte brukere_ - brukere som bidro til poeng i løpet av uken, med minst én handling.
-- $E_d$= _Engasjementsgrad for Deed_ - handlinger per bruker ($A/U$)
+- $A$ = _Aktivitet_ - totalt antall handlinger akkumulert av brukere i skjøtet i løpet av uken. (På hvert gjerningsnivå blir hver handling konvertert til engasjementspoeng, noen handlinger veier mer enn andre. På indeksnivå er alle handlinger linearisert).
+- $U$ = _Engasjerte brukere_ – brukere som bidro til poeng i løpet av uken, ved minst én handling.
+- $E_d$ = _Engasjement for handlingen_ - handlinger per bruker ($A/U$)
 - $E_w$ = _Gjennomsnittlig engasjementsgrad_ for alle aktive Deeds i WoM.
 - $D_r$ = _Distribusjonsrate_ - hvis en Deed mottok myntede Meeds for den foregående perioden, prosentandelen av Meeds som ble distribuert til brukerne. Prosentandelen kan være over 100 hvis distribusjonen er forsinket i tid.
 - $D_s$ =  _Distribusjonsspredning_ - hvis en Deed mottok utstedte Meeds for den foregående perioden, % av brukerne som mottok Meeds i den totale brukergruppen.
@@ -106,15 +106,15 @@ Hvor:
 Den globale engasjementsindeksen som brukes til å fordele myntede Meeds blant Deeds, er summen av alle Deeds' engasjementspoeng for uken.
 
 
-Formelen ovenfor er enkel og utformet for å favorisere deeds :
+Formelen ovenfor er enkel og designet for å favorisere gjerninger:
 
 - med mange engasjerte brukere (engasjement)
-- som deler hele myntinntekten (distribusjonsrate) med brukerne sine på en rettferdig måte (distribusjonsspredning).
+- som deler hele pregeinntekten (fordelingsgrad) med brukerne rettferdig (fordelingsspredning).
 
 I tillegg er boostere på plass for :
 
-- organisasjoner med det høyeste engasjementet, uavhengig av størrelse (engasjementsgrad i forhold til WoM)
-- sjeldnere deeds
+- organisasjoner med høyest engasjement, uavhengig av størrelse (engasjementrate i forhold til WoM)
+- knappere gjerninger
 
 > Meeds-foreningen forbeholder seg retten til å endre formelen om nødvendig – hvis det for eksempel skulle oppstå noen spesifikke brukstilfeller. Foreningen kan også svarteliste enhver Deed som kaprer formelen til sin unike fordel.
 
@@ -124,9 +124,9 @@ Ettersom Deeds belønnes med Meeds og incentiveres til å omfordele dem som bel�
 
 ## 2.7. Byer og styring
 
-I WoM vil Deeds bli generert gradvis inne i virtuelle byer. Bare den første byen vil eksistere fra starten. De andre vil bli bygget gradvis, den ene etter den andre. I hele WoM vil det alltid bare være 7 byer, hver med et fast antall Deeds av hver type.
+I WoM vil Deeds bli generert gradvis inne i virtuelle byer. Bare den første byen vil eksistere fra starten. De andre skal bygges gradvis, etter hverandre. I hele WoM vil det noensinne bare være 7 byer, hver med et fast antall skjøter av hver type.
 
-En by vil bli ansett som komplett når alle dens Deeds er preget. Deretter vil pregingen av hver nye by starte $2^n$ måneder etter at det siste Deed til byen $n-1$ ble preget.
+En by regnes som komplett når alle dens skjøter er utstedt. Deretter vil pregingen av hver ny by starte $2^n$ måneder etter at det siste skjøtet til $n-1$ byen ble preget.
 
 | **By navn** | **Deeds**   | **Tilgjengelig**      | **Vanlig** | **Uvanlig** | **Sjelden** | **Legendarisk** |
 | ----------- | ----------- | --------------------- | ---------- | ----------- | ----------- | --------------- |

@@ -131,12 +131,12 @@ Eine Stadt gilt als vollständig, wenn alle ihre Urkunden ausgestellt wurden. Da
 | **Stadt Name** | **Deeds**   | **Verfügbar**        | **Gewöhnlich** | **Ungewöhnlich** | **Selten** | **Legendär** |
 | -------------- | ----------- | -------------------- | -------------- | ---------------- | ---------- | ------------ |
 | 1: Tanit       | 100         | T0                   | 50             | 30               | 13         | 7            |
-| 2: Reshef      | 1 000       | Tanit + 4 months     | 600            | 300              | 94         | 6            |
-| 3: Ashtarte    | 10 000      | Reshef + 8 months    | 6 000          | 3 000            | 995        | 5            |
-| 4: Melqart     | 100 000     | Ashtarte + 16 months | 60 000         | 30 000           | 9 996      | 4            |
-| 5: Eshmun      | 1 000 000   | Melqart + 32 months  | 600 000        | 300 000          | 99 997     | 3            |
-| 6: Kushor      | 10 000 000  | Eshmum + 64 months   | 6 000 000      | 3 000 000        | 999 998    | 2            |
-| 7: Hammon      | 100 000 000 | Kushor + 128 months  | 60 000 000     | 30 000 000       | 9 999 999  | 1            |
+| 2: Reshef      | 1 000       | Tanit + 4 Monate     | 600            | 300              | 94         | 6            |
+| 3: Ashtarte    | 10 000      | Reshef + 8 Monate    | 6 000          | 3 000            | 995        | 5            |
+| 4: Melqart     | 100 000     | Ashtarte + 16 Monate | 60 000         | 30 000           | 9 996      | 4            |
+| 5: Eshmun      | 1 000 000   | Melqart + 32 Monate  | 600 000        | 300 000          | 99 997     | 3            |
+| 6: Kushor      | 10 000 000  | Eshmum + 64 Monate   | 6 000 000      | 3 000 000        | 999 998    | 2            |
+| 7: Hammon      | 100 000 000 | Kushor + 128 Monate  | 60 000 000     | 30 000 000       | 9 999 999  | 1            |
 
 Eine Stadt ist eine Möglichkeit für die Taten, zusammenzukommen und eine Gemeinschaft zu bilden. Und als Folge davon erwerben sie eine bestimmte Identität, die mit dieser Gemeinschaft verbunden ist. Es ist auch eine Möglichkeit, zusätzlichen Wert für seine Benutzer zu bieten - Wert, der über die Fähigkeiten eines Meeds hinausgehen oder durch die Zusammenarbeit zwischen den Meeds geschaffen werden würde.
 

@@ -1,6 +1,6 @@
 ---
-title: 'ميدس داو: ميتافرس العمل'
-date: الأول من يونيو 2022 - الإصدار 1.0.2
+title: 'ميدس داو: ميتافرس العمل (Meeds DAO: The Work Metaverse)'
+date: 1 يونيو، 2022 - النسخة 1.0.2
 toc-title: جدول المحتويات
 language: ar
 toc-own-page: true
@@ -17,4 +17,4 @@ first-chapter: 2
 classoption: oneside
 mainfont: "Simplified Arabic"
 sansfont: "Simplified Arabic"
-...
+CJKmainfont: "Heiti TC"

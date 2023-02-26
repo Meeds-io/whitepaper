@@ -1,6 +1,6 @@
 ---
 title: Meeds DAO - Le Work Metaverse
-date: 1er juin 2022 ‐ Version 1.0.1-fr
+date: 1er juin 2022 ‐ Version 1.0.2
 toc-title: Table des matières
 language: fr
 toc-own-page: true
@@ -15,3 +15,6 @@ book: true
 listings-no-page-break: true
 first-chapter: 2
 classoption: oneside
+mainfont: "Source Sans Pro"
+sansfont: "Source Sans Pro"
+CJKmainfont: "Heiti TC"

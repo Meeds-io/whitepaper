@@ -21,11 +21,11 @@ Dagens arbeidsmarked mangler effektivitet på grunn av høye transaksjonskostnad
 </p>
 
 <p spaces-before="0">
-  På arbeidstakersiden er det vanskelig  å finne de rette jobbene. Arbeidsmarkedet favoriserer visse typer individer, og etterlater seg store kompetansesett. This comes from a set of human biases - race-based, gender-based, disability-based, introvert-based, ovs. Arbeidsmarkedet mangler også åpenhet om ledige stillinger og ansettelsesforhold.
+  På arbeidstakersiden er det vanskelig  å finne de rette jobbene. Arbeidsmarkedet favoriserer visse typer individer, og etterlater store ferdigheter bak seg. This comes from a set of human biases - race-based, gender-based, disability-based, introvert-based, ovs. Arbeidsmarkedet mangler også åpenhet om ledige stillinger og ansettelsesforhold.
 </p>
 
 <p spaces-before="0">
-  Når arbeidstakeren er ansatt, krenkes vedkommendes personlige frihet i bytte mot kompensasjon. Arbeidstakerne har lite å si når det gjelder arbeidstid, arbeidssted, arbeidsinnhold eller arbeidsmetoder. Og deres kompensasjon er sjelden knyttet til deres reelle implikasjon eller verdi. Erstatningsreglene mangler åpenhet og blir derfor oppfattet som urettferdige. Dessuten er kompensasjon og karrierefremgang også avhengig av den menneskelige faktoren – den ansattes nærmeste leders gode tro og objektivitet.
+  Når arbeidstakeren er ansatt, krenkes vedkommendes personlige frihet i bytte mot kompensasjon. De ansatte har lite å si når det gjelder arbeidstid, arbeidssted, arbeidsinnhold eller arbeidsmetoder. Og deres kompensasjon er sjelden knyttet til deres reelle implikasjon eller verdi. Erstatningsreglene mangler åpenhet og blir derfor oppfattet som urettferdige. Dessuten er kompensasjon og karrierefremgang også avhengig av den menneskelige faktoren – den ansattes nærmeste leders gode tro og objektivitet.
 </p>
 
 <p spaces-before="0">
@@ -58,19 +58,19 @@ Dagens arbeidsmarked mangler effektivitet på grunn av høye transaksjonskostnad
 </p>
 
 <p spaces-before="0">
-  Etter R. Coases arbeider<fnref target="5" /> kobler de fleste økonomer begrepet foretak med nødvendigheten av å redusere transaksjonskostnader. Internett og mer nylig blockchain og web3 åpner spennende muligheter for å senke transaksjonskostnader overalt, gjenoppfinne økonomi og spesielt gjenoppfinne bedriften. De første DAO-ene<fnref target="6" /> startet denne prosessen med fokus på å redusere kostnadene ved transaksjoner for kapitalinnhenting og styring. WoM tar sikte på å videreføre denne logikken ved å senke kostnadene ved arbeidstransaksjoner. Den foreslår en desentralisert verden der jobb- og kompetansematching kan gjøres objektivt, raskt og globalt.
+  Etter R. Coases arbeider<fnref target="5" /> kobler de fleste økonomer begrepet foretak med nødvendigheten av å redusere transaksjonskostnader. Internett og mer nylig blockchain og web3 åpner spennende muligheter for å senke transaksjonskostnader overalt, gjenoppfinne økonomi og spesielt gjenoppfinne bedriften. De første DAO-ene<fnref target="6" /> startet denne prosessen med fokus på å redusere kostnadene ved transaksjoner for kapitalinnhenting og styring. WoM tar sikte på å presse denne logikken videre ved å senke kostnadene for arbeidstransaksjoner. Den foreslår en desentralisert verden der jobb- og kompetansematching kan gjøres objektivt, raskt og globalt.
 </p>
 
 <p spaces-before="0">
-  De første DAO-ene flater ut hierarkiene og åpner for eierskap. WoM følger denne logikken ved å gjenoppfinne forholdet mellom arbeidsgiver og arbeidstaker i stedet for å undertrykke det. Det innfører et gjennomsiktig, objektivt og desentralisert belønningsparadigme som på en bærekraftig måte vil samordne arbeidsgiverens og arbeidstakerens interesser.
+  De første DAOene flater ut hierarkiene og åpner for eierskap. WoM forfølger denne logikken ved å gjenoppfinne snarere enn å undertrykke forholdet mellom arbeidsgiver og arbeidstaker. Den introduserer et gjennomsiktig, objektivt og desentralisert belønningsparadigme, som på en bærekraftig måte vil samordne arbeidsgiverens og de ansattes interesser.
 </p>
 
 <p spaces-before="0">
-  Til slutt bygger Work Metaverse bro over kløften mellom selskaper og DAO-er. På den ene siden introduserer det tradisjonelle selskaper i den desentraliserte verden gjennom et lett anvendelig belønningsparadigme som utfyller deres kompensasjonssystemer. På den andre siden foreslår den bærekraftige måter å drive og skape verdi for DAO-er på. Til syvende og sist kan WoM være blant de første vanlige applikasjonene som demokratiserer bruken av blokkjeden for alle selskaper og alle ansatte - også ikke-digitale.
+  Til slutt bygger Work Metaverse bro over gapet mellom selskaper og DAO-ene. På den ene siden introduserer det tradisjonelle selskaper i den desentraliserte verden gjennom et lett anvendelig paradigme som belønner engasjement, og som utfyller deres kompensasjonssystemer. På den annen side foreslår den bærekraftige måter å drive og skape verdier for DAOer. Til syvende og sist kan WoM være blant de første mainstream-applikasjonene for å demokratisere bruken av blokkjeden for hvert selskap og hver ansatt – inkludert ikke-digitale.
 </p>
 
 <p spaces-before="0">
-  Som med alle desentraliserte prosjekter øker WoM-forslaget eksponentielt i verdi etter hvert som flere bruker det. Av den grunn var grunnleggerne nøye med å oppmuntre til langsiktig interesse og unngå monopolisering av WoM-fordelene, både på kort og lang sikt. Det er et åpent paradigme som ennå ikke er ferdig utviklet, og som er åpent for aktiv og kreativ deltakelse fra alle.
+  Som med alle desentraliserte satsinger øker WoM-forslaget eksponentielt i verdi etter hvert som flere bruker det. Av den grunn passet grunnleggerne på å oppmuntre langsiktig interesse og unngå å monopolisere WoM-fordelene, enten det er kortsiktig eller langsiktig. Det er et åpent paradigme som fortsatt skal bygges, og åpent for aktiv kreativ deltakelse fra alle.
 </p>
 
 <footnotes>
