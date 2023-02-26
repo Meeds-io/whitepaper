@@ -1,64 +1,64 @@
-# 4. Xeeds - Work Metaverse Individuals / users
+# 4. Xeeds - Работа Metaverse Личности / пользователи
 
-## 4.1. Decentralized and self-sovereign models
+## 4.1. Децентрализованные и суверенные модели
 
-The WoM recognizes privacy as a fundamental human right and empowers users to own their data.
+WoM признает конфиденциальность как одно из основных прав человека и дает пользователям возможность владеть своими данными.
 
-Our approach is based on decentralized and self-sovereign identity principles, allowing users to be in control at any time of what information they want to publicize, share with a restricted group, or keep private.
+Наш подход основан на принципах децентрализованной и суверенной идентификации, что позволяет пользователям в любое время контролировать, какую информацию они хотят обнародовать, поделиться с ограниченной группой или сохранить в тайне.
 
-User's activity and engagement in the WoM is always linked to a Deed. A Xeed is the virtual persona of a user in a Deed. Xeed does not require any KYC, it is self-declaring, but we could conceivably imagine third-party firms providing this service.
+Активность и участие пользователя в WoM всегда связаны с Подвигом. Xeed - это виртуальная личность пользователя в Deed. Xeed не требует никакого KYC, он сам себя декларирует, но мы можем представить, что сторонние фирмы предоставляют такую услугу.
 
-## 4.2. Badges and credentials
+## 4.2. Бейджи и верительные грамоты
 
-Badges and Credentials are given to users as a part of their participation in a Deed. The holder may download them as W3C Verifiable Credentials[^7][^8] (aka VCs) and store them in his wallet. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
+Значки и мандаты выдаются пользователям как часть их участия в Deed. Владелец может загрузить их как W3C Verifiable Credentials[^7][^8] (aka VCs) и хранить их в своем бумажнике. Эти сертификаты являются подтверждением знаний/ноу-хау, сертифицированных организацией, выдавшей их.
 
-In today’s world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they count on their managers to give them a recommendation. The latter supposes certain goodwill on the part of the manager but is not necessarily treated as proof by the future employer.
+В современном мире трудно заранее доказать свою квалификацию. Когда люди рекламируют себя в сетях, они рассчитывают на то, что их менеджеры дадут им рекомендацию. Последнее предполагает определенную добрую волю со стороны менеджера, но не обязательно рассматривается будущим работодателем как доказательство.
 
-The Work Metaverse provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
+Work Metaverse предоставляет людям более прозрачные и неизменные средства для приобретения и демонстрации своих способностей.
 
-Badges are used to represent accomplishments made within a Deed. After completing a set of objectives or challenges, users will be awarded points. Badges can be unlocked by accumulating certain amounts of points in specific categories.
+Значки используются для обозначения достижений, сделанных в рамках Deed. После выполнения ряда целей или задач пользователям начисляются очки. Значки можно получить, набрав определенное количество баллов в конкретных категориях.
 
-When badges are downloaded by the user, it is possible to include the number of points and his rank in the Deed for this specific accomplishment.
+Когда пользователь загружает значки, можно указать количество очков и его ранг в Deed за это конкретное достижение.
 
-Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the Deed. These are signed by the Deed and can be accompanied by a signature by a peer user.
+Удостоверения более гибкие, чем значки; это может быть рекомендация от сверстника, указывающая на годы опыта, прохождение тренинга или экзамена, или участие в Deed. Они подписываются Deed и могут сопровождаться подписью равноправного пользователя.
 
-## 4.3. Digital work identity
+## 4.3. Цифровая рабочая идентичность
 
-All of the above contributes to forming proven digital skillset that can be kept and used by the user when changing jobs or freelancing. It would be more trustworthy than traditional solutions as it relies on not just one individual but a full community to prove it.
+Все вышеперечисленное способствует формированию проверенного цифрового набора навыков, который может быть сохранен и использован пользователем при смене работы или фрилансе. Он будет более надежным, чем традиционные решения, поскольку в его доказательстве опирается не один человек, а целое сообщество.
 
-Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Deed to another, from one city to another, anywhere through the WoM.
+Как и кошелек Meeds, пользователь сохранит свой Xeed, значки и мандаты, прикрепленные к нему, в своем идентификационном кошельке при перемещении из одного Deed в другой, из одного города в другой, в любом месте WoM.
 
-The user will be able to share his Xeed, Badges, and Credentials with other Deeds to highlight his experience, as well as with recruiters or any other services that he deems interesting.
+Пользователь сможет поделиться своими Xeed, значками и учетными данными с другими Deeds, чтобы подчеркнуть свой опыт, а также с рекрутерами или любыми другими службами, которые он посчитает интересными.
 
-A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations.
+Пользователь может иметь одну или несколько цифровых идентификаций в WoM. Позже он сможет представить их в едином виде с помощью проверенных презентаций.
 
-Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... In a manner of trustworthy LinkedIn 3.0.
+В отличие от web 2, пользователь полностью владеет своими децентрализованными идентификационными данными. Последний может показать (и доказать) Deeds, в которых он участвовал, его доказанные навыки, его заявленные навыки, другие Xeeds (люди), с которыми он работал, его цифровое представление себя... В порядке доверия LinkedIn 3.0.
 
-The user will be able to select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Deeds, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time.
+Пользователь сможет выбрать, раскрывать или нет что-либо, какую информацию предоставлять и какие личности использовать для каждой позиции. Содержимое (подтвержденные навыки, предыдущие дела и т. д.) защищено от взлома и поэтому не может быть изменено. Любая идентичность должна быть разработана с течением времени.
 
-## 4.4. Fair work marketplace
+## 4.4. Рынок справедливой работы
 
-Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Deeds – as they do in the physical world by changing employers. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to choose which Deed provides better engagement reward conditions, belongs to a more attractive city, etc.
+В рамках этой парадигмы рынок труда будущего позволяет пользователям свободно перемещаться и распределять/продавать свое участие среди Deeds - как они это делают в физическом мире, меняя работодателей. Однако в WoM их участие будет осязаемым, измеряемым и справедливо вознаграждаемым. Перемещаясь между системами, которые следуют схожей логике, они лучше поймут правила игры и будут справедливо оценивать работодателей - трава не всегда зеленее в другом месте. Пользователи смогут выбирать, какой Deed обеспечивает лучшие условия вознаграждения за участие, принадлежит к более привлекательному городу и т.д.
 
-On their end, the Deeds’ holders/renters can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
+Со своей стороны, владельцы/арендаторы Deed могут искать соответствующие навыки, используя сеть цифровых трудовых идентификаторов WoM (которые пользователи решили раскрыть). Они смогут более эффективно искать специалистов, основываясь на проверенной и подробной информации об истории работы, трудовых навыках и уровне вовлеченности пользователя.
 
-## 4.5. Tangible and transparent recognition
+## 4.5. Ощутимое и прозрачное признание
 
-Today, details on compensation and bonuses are obscure in many workplaces. Therefore, it is difficult for a person to compare his conditions to that of another and get a sense of a fair and unbiased treatment. Employees experience a lot of frustrations with the above.
+Сегодня на многих рабочих местах подробности о компенсациях и бонусах замалчиваются. Поэтому человеку трудно сравнить свои условия с условиями другого и получить ощущение справедливого и непредвзятого отношения. Сотрудники испытывают много разочарований по этому поводу.
 
-The WoM introduces an objective way to recognize achievements and reward them.
+WoM вводит объективный способ признания достижений и их вознаграждения.
 
-Engagement recognition and reward mechanism is transparent and applies fairly to all users, following the same explicit rules, decided in advance and aligned with the Deed’s goals.
+Механизм признания и поощрения участия прозрачен и справедливо применяется ко всем пользователям, следуя одним и тем же четким правилам, определенным заранее и согласованным с целями Deed.
 
-Wallets are individual and blockchain based – when the user receives a reward or earns a badge, it cannot be taken back or erased.
+Кошельки индивидуальны и основаны на блокчейне - когда пользователь получает вознаграждение или зарабатывает значок, его нельзя забрать или стереть.
 
-## 4.6. Access to Web 3.0, cryptoeconomy and DEFI services
+## 4.6. Доступ к сервисам Web 3.0, криптоэкономики и DEFI
 
-As discussed above, the Work Metaverse opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
+Как говорилось выше, Work Metaverse открывает мир криптовалют и децентрализованных веб-сервисов практически для всех - очень большой популяции пользователей, даже, возможно, не связанных с цифровой сферой.
 
-Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
+Действительно, любое рабочее взаимодействие потенциально может быть токенизировано. На самом деле мир становится все более цифровым благодаря таким тенденциям, как 5G, iot, носимые устройства и так далее. Как следствие, потенциально все больше и больше сигналов могут быть захвачены и проанализированы, чтобы обозначить вовлеченность нецифровых профессий. Вызовы предоставляют готовый способ токенизации, представляя достижения в физическом мире.
 
-Any user can get Meeds and use a Meeds wallet to get access to new age services without any special training.
+Любой пользователь может получить Meeds и использовать кошелек Meeds для получения доступа к услугам нового времени без какой-либо специальной подготовки.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
-[^8]: Verifiable Credentials Data Model
+[^8]: Модель данных проверяемых учетных данных
