@@ -66,7 +66,7 @@ Deeds innehaver eller renter har mulighet til å formidle sine egne fordeler og 
 - Gavekort til ferier
 - Lunsj med en leder i organisasjonen
 - Fysisk kontorplass
-- Osv.
+- etc.
 
 Butikken fungerer gjennom bruk av Meeds slik at Meeds delvis returneres til Deed.
 
