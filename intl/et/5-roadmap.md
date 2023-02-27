@@ -12,7 +12,7 @@ WoMil oleks oma valuuta **Meedid** - seda saaks kulutada kauplustes, konverteeri
 
 Kuna pilt ütleb rohkem kui tuhat sõna, on siin diagramm, mis kirjeldab WoMi ja Meedsi voogusid
 
-![WoM and Meeds flows](en/img/wom-flows.png)
+![WoM ja Meeds voolud](en/img/wom-flows.png)
 
 Maailma säilitamine ja jätkusuutlikkus pikas perspektiivis on tagatud maksude kaudu, mida jagavad Meedsi ühing ja linnad.
 
@@ -28,59 +28,59 @@ Organisatsioonid, kes omandavad, kuid eelkõige kasutavad Deeds'i oma töötajat
 
 Alljärgnev diagramm on näide Meedsi investeerimisstrateegiast kapitaliomanike jaoks:
 
-![Meeds investment strategy for capital holders](en/img/invest-capital.png)
+![Meedsi investeerimisstrateegia kapitaliomanikele](en/img/invest-capital.png)
 
 Organisatsioonid saavad muidugi osaleda likviidsusbasseinides, kuid võivad ka liituda ehitajate kogukonnaga ja saada sealt lisapalka.
 
 Alljärgnev diagramm on näide Meedsi investeerimisstrateegiast töövõtjate jaoks:
 
-![Meeds investment strategy for work holders](en/img/invest-work.png)
+![Meedsi investeerimisstrateegia töövõtjate jaoks](en/img/invest-work.png)
 
-## 5.3. The launch
+## 5.3. Käivitamine
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+Ametlikuks käivitamiskuupäevaks on määratud **1. mai 2022** - rahvusvaheline töötajate päev, mida tähistatakse paljudes riikides.
 
-At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
+Sel ajal on Meed-märk juba olemas. Seda on võimalik omandada ja likviidsusbasseinid on osalemiseks avatud, Polygoni ja Ethereumi võrkudes.
 
-Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
+Kolm Meedsi ühingu liiget kasutavad süsteemi ettevõttesiseselt, et kaasata ja premeerida oma kasutajaid ning parandada Meedsi tarkvara.
 
-The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
+Investori rakendus on saadaval Ethereum Mainnetis. Käivitamisel sisaldab see panustamist, likviidsuspreemiaid, punktide kogumist ja Deeds'i lunastamist.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
+Ehitajate kogukond on käivitunud ja töötab Meedsi tarkvaras, mis on avatud kõigile, kes soovivad liituda, testida ja osaleda. Metamaskiga on võimalik sisse logida.
 
-This paper was published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
+See dokument avaldati käivitamispäeval. Pärast käivitamist antakse žetoon paljudele inimestele üle kogu krüptokogukonna.
 
-## 5.4. The builders community
+## 5.4. Ehitajate kogukond
 
-We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the Work Metaverse. The association would reward builders engagement with Meeds, from its marketing budget.
+Me käivitame ehitajate kogukonna Meedsi tarkvaras ja Discordis. Kogukond tervitab kõiki, kes soovivad osaleda Work Metaversiooni ülesehitamises. Liit premeeriks ehitajate kaasamist Meedsiga oma turunduseelarvest.
 
-The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
+Ühing plaanib ka panustada mõned Meedid, et omandada (lunastada) ehitajate kogukonna jaoks Deed. Seejärel vermib kogukond mintium-mudeli abil Meeds'i ja jagab neid aktiivsetele kasutajatele.
 
-## 5.5. Roadmap and milestones
+## 5.5. Tegevuskava ja vahe-eesmärgid
 
-Our roadmap would follow the priority order below:
+Meie tegevuskava järgib allpool esitatud prioriteetsuse järjekorda:
 
-- Engagement index and minting through engagement
-- Enable Deeds renting
-- Xeed creation
-- Badges improvement and credentials development
-- DeFi services – in the wallet, credit cards partnership
+- Osalusindeks ja rahapaigutus läbi osaluse
+- Deeds rentimise lubamine
+- Xeedi loomine
+- Märgiste täiustamine ja volikirjade arendamine
+- DeFi teenused - rahakotis, krediitkaartide partnerlus
 
-We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
+Me loodame DAOde ja tehnoloogiaga kursis olevate ettevõtete varajastele kasutuselevõtjatele ehitusetapis. Meil peaks olema ka mõned traditsiooniliste ettevõtete varajased kasutuselevõtjad, kes saavad metaversioonist koheselt kasu, pakkudes oma töötajatele asjakohaseid kaasamisprogramme lisaks oma praegustele traditsioonilistele tasustamisplaanidele.
 
-Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature metaverse, having spread to many organizations and many users globally.
+Meedsi rahapaja hõlmab 20 aasta pikkust ajavahemikku. Selleks ajaks tahame saavutada küpset metaversumit, mis on levinud paljudele organisatsioonidele ja paljudele kasutajatele kogu maailmas.
 
-## 5.6. What you can do right now
+## 5.6. Mida saate teha kohe praegu
 
-What can you do right now to participate?
+Mida saate kohe praegu teha, et osaleda?
 
-- Spread this paper to those who would be interested
-- Visit our website [meeds.io](https://www.meeds.io/)
-- Check out the [Investor app](https://meeds.io/investors)
-- Contribute to the existing liquidity pools here :
+- Levitage seda paberit neile, keda see huvitab
+- Külastage meie veebilehte [meeds.io](https://www.meeds.io/)
+- Tutvu [Investori rakendusega](https://meeds.io/investors)
+- Panustage olemasolevatesse likviidsusfondidesse siin :
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
-- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
+- Liitu meie [Discord](https://discord.com/invite/hAuADSq3) kogukonnaga, et olla kursis
+- Liitu meie [Builders](https://meeds.io/builders) kogukonnaga, et testida Meedsi tarkvara, osaleda ja teenida Meedsi kaasamispreemiaid
 
-**\*\*\* The Work Metaverse - let’s build this crazy future world together. \*\*\***
+**\*\*\* The Work Metaverse - ehitame koos seda hullumeelset tulevikumaailma. \*\*\***

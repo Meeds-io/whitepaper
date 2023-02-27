@@ -1,64 +1,64 @@
-# 4. Xeeds - Work Metaverse Individuals / users
+# 4. Xeeds - Töö Metaversioon Üksikisikud / kasutajad
 
-## 4.1. Decentralized and self-sovereign models
+## 4.1. Detsentraliseeritud ja isemajanduslikud mudelid
 
-The WoM recognizes privacy as a fundamental human right and empowers users to own their data.
+WoM tunnistab eraelu puutumatust kui põhilist inimõigust ja annab kasutajatele õiguse omada oma andmeid.
 
-Our approach is based on decentralized and self-sovereign identity principles, allowing users to be in control at any time of what information they want to publicize, share with a restricted group, or keep private.
+Meie lähenemisviis põhineb detsentraliseeritud ja isesuveräänse identiteedi põhimõtetel, mis võimaldab kasutajatel igal ajal kontrollida, millist teavet nad soovivad avalikustada, jagada piiratud rühmaga või hoida privaatsena.
 
-User's activity and engagement in the WoM is always linked to a Deed. A Xeed is the virtual persona of a user in a Deed. Xeed does not require any KYC, it is self-declaring, but we could conceivably imagine third-party firms providing this service.
+Kasutaja tegevus ja osalemine WoMis on alati seotud Deediga. Xeed on kasutaja virtuaalne isiksus Deedis. Xeed ei nõua mingit KYC-i, see on iseenesest teatav, kuid me võiksime ette kujutada, et seda teenust pakuvad kolmandatest isikutest ettevõtted.
 
-## 4.2. Badges and credentials
+## 4.2. Märgid ja volitused
 
-Badges and Credentials are given to users as a part of their participation in a Deed. The holder may download them as W3C Verifiable Credentials[^7][^8] (aka VCs) and store them in his wallet. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
+Märgid ja volikirjad antakse kasutajatele osana nende osalemisest Deedis. Omanik võib need alla laadida W3C Verifiable Credentials[^7][^8] (ehk VC-d) ja hoida neid oma rahakotis. Need VCd on tõendiks teadmistest/teadmistest, mis on sertifitseeritud seda väljastava organisatsiooni poolt.
 
-In today’s world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they count on their managers to give them a recommendation. The latter supposes certain goodwill on the part of the manager but is not necessarily treated as proof by the future employer.
+Tänapäeva maailmas on raske eelnevalt oskusi tõestada. Kui inimesed reklaamivad end võrgustikes, loodavad nad, et nende juhid annavad neile soovitusi. Viimane eeldab juhi teatud head tahet, kuid tulevane tööandja ei pea seda tingimata tõendama.
 
-The Work Metaverse provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
+Work Metaverse pakub inimestele läbipaistvamaid ja muutumatuid vahendeid oma võimete omandamiseks ja demonstreerimiseks.
 
-Badges are used to represent accomplishments made within a Deed. After completing a set of objectives or challenges, users will be awarded points. Badges can be unlocked by accumulating certain amounts of points in specific categories.
+Märke kasutatakse Deedi raames tehtud saavutuste tähistamiseks. Pärast eesmärkide või väljakutsete täitmist saavad kasutajad punkte. Märke saab avada, kogudes teatud hulga punkte konkreetsetes kategooriates.
 
-When badges are downloaded by the user, it is possible to include the number of points and his rank in the Deed for this specific accomplishment.
+Kui kasutaja laeb alla märke, on võimalik lisada selle konkreetse saavutusega seotud punktide arv ja tema auaste Deedis.
 
-Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the Deed. These are signed by the Deed and can be accompanied by a signature by a peer user.
+Tunnistused on paindlikumad kui märgid; need võivad olla kolleegide soovitus, mis näitab aastatepikkust kogemust, koolituse või eksami läbimist või osalemist Deedis. Need allkirjastab Deed ja nendega võib kaasneda teise kasutaja allkiri.
 
-## 4.3. Digital work identity
+## 4.3. Digitaalne tööidentiteet
 
-All of the above contributes to forming proven digital skillset that can be kept and used by the user when changing jobs or freelancing. It would be more trustworthy than traditional solutions as it relies on not just one individual but a full community to prove it.
+Kõik eespool nimetatu aitab kaasa tõestatud digitaalsete oskuste kujundamisele, mida kasutaja saab säilitada ja kasutada, kui ta vahetab töökohta või töötab vabakutselisena. See oleks usaldusväärsem kui traditsioonilised lahendused, sest see ei tugine mitte ainult ühele inimesele, vaid kogu kogukonnale.
 
-Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Deed to another, from one city to another, anywhere through the WoM.
+Nii nagu tema Meeds rahakott, säilitab kasutaja oma Xeed, märgid ja volitused, mis on seotud tema identiteedi rahakotis, kui ta liigub ühest Deedist teise, ühest linnast teise, ükskõik kuhu läbi WoMi.
 
-The user will be able to share his Xeed, Badges, and Credentials with other Deeds to highlight his experience, as well as with recruiters or any other services that he deems interesting.
+Kasutajal on võimalik jagada oma Xeed, märgid ja volitused teiste Deedidega, et rõhutada oma kogemusi, samuti värbajate või muude teenustega, mida ta peab huvitavaks.
 
-A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations.
+Kasutajal võib WoMis olla üks või mitu digitaalset identiteeti. Hiljem võis ta neid ühtselt esitada, kasutades kontrollitud esitlusi.
 
-Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... In a manner of trustworthy LinkedIn 3.0.
+Erinevalt veebist 2 on kasutaja oma detsentraliseeritud identiteetide täielik omanik. Viimane võib näidata (ja tõestada) Deedid, milles ta osales, tema tõestatud oskused, tema väidetavad oskused, teised Xeedid (inimesed), kellega ta töötas, tema digitaalne kujutis endast... Usaldusväärsel viisil LinkedIn 3.0.
 
-The user will be able to select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Deeds, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time.
+Kasutajal on võimalik valida, kas midagi avaldada või mitte, millist teavet esitada ja milliseid identiteete iga positsiooni puhul kasutada. Sisu (tõestatud oskused, varasemad teod jne) on võltsimiskindel ja seega ei saa seda muuta. Igasugune identiteet tuleks välja töötada aja jooksul.
 
-## 4.4. Fair work marketplace
+## 4.4. Õiglase töö turg
 
-Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Deeds – as they do in the physical world by changing employers. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to choose which Deed provides better engagement reward conditions, belongs to a more attractive city, etc.
+Selle paradigma raames võimaldab tuleviku tööturg kasutajatel vabalt liikuda ja jagada/müüa oma kohustusi Deede vahel - nagu nad teevad seda ka füüsilises maailmas, vahetades tööandjat. WoMis oleks nende osalemine aga käegakatsutav, mõõdetav ja õiglaselt premeeritav. Liikudes sarnast loogikat järgivate süsteemide vahel, saavad nad paremini aru mängureeglitest ja hindavad tööandjaid õiglaselt - mujal ei ole rohi alati rohelisem. Kasutajad saavad valida, milline Deed pakub paremaid kaasamise tasu tingimusi, kuulub atraktiivsemasse linna jne.
 
-On their end, the Deeds’ holders/renters can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
+Deeds'i omanikud/rentnikud saavad omalt poolt otsida asjakohaseid oskusi, kasutades WoMi digitaalsete tööidentiteetide võrgustikku (mille kasutajad otsustasid avalikustada). Nad saavad tõhusamalt hankida oskusi, tuginedes kontrollitud ja üksikasjalikule teabele kasutaja tööajaloo, tööoskuste ja pühendumuse taseme kohta.
 
-## 4.5. Tangible and transparent recognition
+## 4.5. Käegakatsutav ja läbipaistev tunnustus
 
-Today, details on compensation and bonuses are obscure in many workplaces. Therefore, it is difficult for a person to compare his conditions to that of another and get a sense of a fair and unbiased treatment. Employees experience a lot of frustrations with the above.
+Tänapäeval on hüvitiste ja preemiate üksikasjad paljudel töökohtadel ebaselged. Seetõttu on inimesel raske võrrelda oma tingimusi teise inimesega ja saada ettekujutust õiglasest ja erapooletust kohtlemisest. Töötajad kogevad ülaltooduga seoses palju pettumusi.
 
-The WoM introduces an objective way to recognize achievements and reward them.
+WoM kehtestab objektiivse viisi saavutuste tunnustamiseks ja premeerimiseks.
 
-Engagement recognition and reward mechanism is transparent and applies fairly to all users, following the same explicit rules, decided in advance and aligned with the Deed’s goals.
+Osalemise tunnustamise ja premeerimise mehhanism on läbipaistev ja kehtib õiglaselt kõigi kasutajate suhtes, järgides samu selgesõnalisi reegleid, mis on eelnevalt otsustatud ja kooskõlas Deed-i eesmärkidega.
 
-Wallets are individual and blockchain based – when the user receives a reward or earns a badge, it cannot be taken back or erased.
+Rahakotid on individuaalsed ja plokiahelapõhised - kui kasutaja saab tasu või teenib märgi, ei saa seda tagasi võtta ega kustutada.
 
-## 4.6. Access to Web 3.0, cryptoeconomy and DEFI services
+## 4.6. Juurdepääs Web 3.0, krüptomajanduse ja DEFI teenustele
 
-As discussed above, the Work Metaverse opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
+Nagu eespool mainitud, avab Work Metaverse krüptoraha ja detsentraliseeritud veebiteenuste maailma põhimõtteliselt kõigile - väga suurele kasutajaskonnale, kes võib-olla isegi ei ole digitaalvaldkonnaga seotud.
 
-Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
+Tõepoolest, mis tahes tööülesandeid võib potentsiaalselt sümboliseerida. Tegelikult on maailm muutumas üha enam digitaalseks selliste suundumustega nagu 5G, iot, kantavad seadmed ja nii edasi. Selle tulemusena saaks potentsiaalselt üha rohkem ja rohkem signaale koguda ja analüüsida mitte-digitaalsete elukutsete kaasamise tähistamiseks. Väljakutsed pakuvad valmis viisi selle sümboliseerimiseks, kujutades saavutusi füüsilises maailmas.
 
-Any user can get Meeds and use a Meeds wallet to get access to new age services without any special training.
+Iga kasutaja võib saada Meedsi ja kasutada Meedsi rahakotti, et saada juurdepääs uue ajastu teenustele ilma spetsiaalse väljaõppeta.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
-[^8]: Verifiable Credentials Data Model
+[^8]: Kontrollitavate volituste andmemudel

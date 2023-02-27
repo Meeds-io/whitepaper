@@ -1,14 +1,14 @@
 
-# 1. Who we are – the Meeds Association
+# 1. ما کی هستیم - انجمن Meeds
 
-The Meeds association is a non-profit organization originally launched by several Open Source Software (OSS) communities around the common vision of a free digital world – a decentralized world that would not be controlled by a handful of centralized mega-corporations.
+انجمن MEEDS یک سازمان غیرانتفاعی است که در ابتدا توسط چندین جوامع نرم افزار منبع باز (OSS) در اطراف چشم انداز مشترک یک دنیای دیجیتال آزاد راه اندازی شده است-دنیای غیر متمرکز که توسط تعداد معدودی از شرکت های متمرکز کنترل نمی شود.
 
-The Meeds association is incorporated in Geneva, as a non-profit association under the Swiss law.
+انجمن Meeds به عنوان یک انجمن غیرانتفاعی طبق قانون سوئیس در ژنو گنجانیده شده است.
 
-The association regulates the issuance of the Meeds currency, an ERC20 token, recognized as a utility token.
+این انجمن صدور ارز MEEDS ، یک نشانه ERC20 را تنظیم می کند که به عنوان یک ابزار ابزار شناخته می شود.
 
-To build the WoM and Meeds, the association leverages the Ethereum platform and its ecosystem, making it accessible in a friendly and cost-effective way to all users.
+برای ساختن Wom و Meeds ، این انجمن از پلت فرم Ethereum و اکوسیستم آن استفاده می کند و آن را به روشی دوستانه و مقرون به صرفه برای همه کاربران در دسترس قرار می دهد.
 
-The association is structured as a Decentralized Autonomous Organization (DAO) where the governance token holders vote on all important organizational changes such as electing the board every year.
+این انجمن به عنوان یک سازمان خودمختار غیرمتمرکز (DAO) ساخته شده است که دارندگان نشانه حاکمیت به کلیه تغییرات مهم سازمانی مانند انتخاب هیئت مدیره هر ساله رای می دهند.
 
-Besides Meeds token management, the association holds the Intellectual Property (IP) of the Meeds software [github.com/meeds-io](https://github.com/meeds-io), available under the LGPL license and distributed for free. The latter includes an Ethereum wallet app that users can use to store and transact their Meeds (see section 2.4 for more details). The Meeds Association also runs a multi-tenant cloud hosting service leveraging that software.
+علاوه بر مدیریت Meeds Token ، انجمن دارای مالکیت معنوی (IP) نرم افزار Meeds [ github.com/meeds-io ](https://github.com/meeds-io) است که تحت مجوز LGPL موجود است و به صورت رایگان توزیع می شود. دومی شامل یک برنامه کیف پول Ethereum است که کاربران می توانند از آنها برای ذخیره و معامله کردن میمد های خود استفاده کنند (برای اطلاعات بیشتر به بخش 2.4 مراجعه کنید). انجمن Meeds همچنین یک سرویس میزبانی ابر چند مستاجر را با استفاده از آن نرم افزار اجرا می کند.

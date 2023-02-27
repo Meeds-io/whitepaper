@@ -31,79 +31,79 @@ WoMi ja Meeds tokenit haldab eespool tutvustatud mittetulundusühing Meeds Assoc
 
 Rahapaja ajal eraldatakse **30% vermitud meedikutest meedikute ühingule**.
 
-Association members can provide services to the association on the basis of a signed services convention establishing the man-day rate. Services are paid monthly in Meeds, based on the market price. Exemples of services include – enriching the Meeds software, developing the WoM app, developing new connectors, operating the cloud service, providing financial and legal services etc.
+Assotsiatsiooni liikmed võivad pakkuda assotsiatsioonile teenuseid allkirjastatud teenuste lepingu alusel, millega kehtestatakse inimpäevade määr. Teenuste eest makstakse igakuiselt Meediates, lähtudes turuhinnast. Teenuste näideteks on näiteks Meedsi tarkvara rikastamine, WoMi rakenduse arendamine, uute ühenduspunktide arendamine, pilveteenuse haldamine, finants- ja õigusteenuste osutamine jne.
 
-Without being a member, any Deed can participate in the creation of a new connector and be rewarded for doing so – first through the Meeds association acquiring the connector and then by minting through this connector.
+Ilma liikmeks olemiseta võib iga Deed osaleda uue konnektori loomisel ja saada selle eest tasu - kõigepealt selle konnektori omandava Meediühingu kaudu ja seejärel selle konnektori kaudu vermimise kaudu.
 
-The association operates a Builders community that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
+Ühing tegutseb ehitajate kogukonnaga, mis tervitab WoMi entusiaste, kes soovivad anda oma panuse WoMi loomisse. Ühing sponsoreerib kogukonda oma eelarvest, hüvitades kogukonnaliikmete kaasamise.
 
-Thus, the community will function as an example of a Deed, offering a standard set of services provided by the association. The association stakes Meeds in order to redeem a Deed for the community. The community will then also participate in the engagement minting like any other Deed.
+Seega hakkab kogukond toimima nagu näiteks Deed, mis pakub ühingu poolt pakutavaid standardseid teenuseid. Ühing panustab Meedid, et lunastada kogukonna jaoks Deed. Kogukond osaleb siis samuti kihlveo vermimises nagu iga teine Deed.
 
-After the minting period is over, the association will be sustained by :
+Pärast rahapaigutusperioodi lõppu säilitab ühing :
 
-- taxing passive income (3% on Deeds renting)
-- taxing selling income (2.5% on Deeds sales)
-- perceiving transaction fees over the use of the perks stores
-- acting as a liquidity pool provider
-- perceiving transaction fees when a Deed distributes non Meeds tokens via WoM services.
-- by operating the Deeds that the association minted over time.
+- passiivse sissetuleku maksustamine (3% Deedsi üürileandmisest)
+- müügitulu maksustamine (2,5% Deedi müügist)
+- tehingutasude tajumine soodustuste kaupluste kasutamise üle
+- tegutsemine likviidsusparkide pakkujana
+- tehingutasude tajumine, kui Deed jagab WoMi teenuste kaudu muid kui Meedsi märke.
+- tegutsedes Deeds, mida ühing aja jooksul loonud on.
 
 
-## 3.5. Investors
+## 3.5. Investorid
 
-Investors help creating the WoM by providing liquidity and by staking Meeds and thus stabilizing its price level during the construction period. Both are encouraged through minting.
+Investorid aitavad luua WoMi, pakkudes likviidsust ja panustades Meedile ja stabiliseerides seega selle hinnataset ehitusperioodi jooksul. Mõlemat soodustatakse vermimise kaudu.
 
-**Liquidity providers** Currency liquidity management is key to the success of the project and several DeFi strategies will be used to optimize capital efficiency. We will start with incentives for staking MeedS/ETH LP pool tokens and will progressively introduce bonds to move towards a protocol owned liquidity. The latter would contribute to the association’s long term sustainability - as mentioned above, transaction fees will fund the association operating expenses such as cloud hosting.
+**Liikviidsuse pakkujad** Valuutalikviidsuse juhtimine on projekti edu võtmeks ja kapitali tõhususe optimeerimiseks kasutatakse mitmeid DeFi strateegiaid. Alustame stiimulitega MeedS/ETH LP-poolsete žetoonide panustamiseks ja võtame järk-järgult kasutusele võlakirjad, et liikuda protokollile kuuluva likviidsuse suunas. Viimane aitaks kaasa ühingu pikaajalisele jätkusuutlikkusele - nagu eespool mainitud, rahastatakse tehingutasudega ühingu tegevuskulusid, näiteks pilvemajutuse kulusid.
 
-Every member also has the right to directly purchase a large amount of Meeds at a discount. The amount wired to the association account is converted to ETH and added along with the equivalent value of Meeds to the Liquidity Pool.
+Igal liikmel on ka õigus osta otse suures koguses Meeds'i soodushinnaga. Ühingukontole ülekantud summa konverteeritakse ETH-deks ja lisatakse koos samaväärse väärtusega Meedsiga likviidsusparki.
 
-**Staking / long-term investment** To encourage long term investment, staked Meeds are rewarded. When Meeds are staked, the staker gets some xMeeds tokens. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings. In practice, minted Meeds are effectively added to the holdings of the xMeeds smart contract and distributed to the xMeeds holder when they unstake.
+**Pidamine / pikaajaline investeering** Pikaajalise investeerimise soodustamiseks premeeritakse panustatud meediume. Kui Meedid on panustatud, saab panustaja mõned xMeeds-märgid. Värskelt vermitud Meedid jaotatakse stäkkerite vahel proportsionaalselt nende xMeedide osakaaluga. Praktikas lisatakse vermitud Meedid tegelikult xMeeds'i aruka lepingu varudesse ja jaotatakse xMeeds'i omanikule, kui ta vabastab oma osaluse.
 
-By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. Each staked Meeds (xMeeds) grants its owner a number of points per day. The longer the vested period the higher the number of points obtained per xMeeds. Each Deed is then redeemed in exchange for a number of points.
+Panustades Meedid, saavad investorid ka Deedid lunastada (ja seejärel osaleda mündi vermimises kaasamise kaudu), suurendades seeläbi tokeni nõudlust. Iga panustatud Meeds (xMeeds) annab oma omanikule teatud arvu punkte päevas. Mida pikem on kehtivusaeg, seda rohkem punkte saadakse ühe xMeedi kohta. Iga Deed lunastatakse seejärel teatud arvu punktide vastu.
 
-Points are calculated using the formula below :
+Punktid arvutatakse alljärgneva valemiga :
 
  $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
 
- where :
+ kus :
 
-- $xMeeds$ : xMeeds balance  with no decimals
-- $T$ : Time elapsed in milliseconds
+- $xMeeds$ : xMeeds saldo ilma kümnendkohtadeta
+- $T$ : kulunud aeg millisekundites
 
-The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably. For example, the formula gives the following rates :
+Valemiga välditakse suurte omanike eelistamist, et jaotada Deedid tõhusamalt ja õiglasemalt. Näiteks annab valem järgmised määrad :
 
-| **Holder Size** | **Holdings**   | **Accrue Rate** |
-| --------------- | -------------- | --------------- |
-| Small           | 1 000 xMeeds   | 28 pts/day      |
-| Medium          | 10 000 xMeeds  | 164 pts/day     |
-| Large           | 100 000 xMeeds | 321 pts/day     |
+| **Hoidja suurus** | **Omanikud**   | **Kogunemise määr** |
+| ----------------- | -------------- | ------------------- |
+| Väike             | 1 000 xMeeds   | 28 punkti päevas    |
+| Keskmine          | 10 000 xMeeds  | 164 punkti päevas   |
+| Suur              | 100 000 xMeeds | 321 punkti päevas   |
 
 
-which leads to the following holding time for each class of holder :
+mis viib iga valdajaklassi puhul järgmisele ooteajale :
 
-| **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| Ühine         | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| Ebatavaline   | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| Haruldased    | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| Legendaarne   | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| **Kaardi tüüp** | **Kulud**      | **Suur hoidja** | **Keskmine hoidja** | **Väike hoidja** |
+| --------------- | -------------- | --------------- | ------------------- | ---------------- |
+| Ühine           | 8 000 punkti   | 25 päeva        | 49 päeva            | 9 kuud           |
+| Ebatavaline     | 32 000 punkti  | 100 päeva       | 6 kuud              | 3 aastat         |
+| Haruldased      | 50 000 punkti  | 156 päeva       | 10 kuud             | 5 aastat         |
+| Legendaarne     | 100 000 punkti | 311 päeva       | 20 kuud             | 10 aastat        |
 
-## 3.6. Meeds DAO governance
+## 3.6. Meeds DAO juhtimine
 
-Meeds token holders need to stake tokens in order to vote on the Meeds DAO decisions such as managing the minting budget or electing DAO board members (annual mandate).
+Meedsi žetoonide omanikud peavad panustama žetoonid, et hääletada Meedsi DAO otsuste üle, näiteks rahapaja eelarve haldamise või DAO juhatuse liikmete valimise üle (iga-aastane mandaat).
 
-## 3.7. Decentralized finance (DeFi) user services
+## 3.7. Detsentraliseeritud finantsteenuste (DeFi) kasutajateenused
 
-The Work Metaverse will introduce the blockchain world to many people who do not use it today.
+Work Metaverse tutvustab plokiahela maailma paljudele inimestele, kes seda täna ei kasuta.
 
-Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
+Tõepoolest, mis tahes tööd (olgu see siis digitaalne või mitte) saab mänguliselt muuta ja mis tahes osalust premeerida Meedsiga. Meedid tehakse kasutajatele kättesaadavaks lihtsasti kasutatava, plokiahelapõhise rahakoti kaudu, mis "abstraheerib" krüptomaailma mis tahes keerukuse keskmise kasutaja jaoks.
 
-Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
+Lisaks rahakotile ja kauplusele, kus nad saavad osta Meedide soodustusi, plaanime tutvustada igale kasutajale mitmeid lõppkasutaja tooteid, mis põhinevad detsentraliseeritud finantsprotokollidel, näiteks:
 
-- The ability to stake Meeds tokens and get yields (generate revenues)
-- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
-- A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. This card could also be used by organizations to fund employee wallets in order to manage employee benefits such as restaurants, transportation and any type of expenses.
+- Võimalus panustada Meedsi märgid ja saada tulu (teenida tulu)
+- Võimalus kasutada Meeds-tokeneid tagatisena, et laenata stabiilseid münte nagu USDC (võimendades esmalt [Fuse pool](https://app.rari.capital/fuse) ja seejärel registreerides Meeds-tokeneid [AAVE](https://aave.com/).
+- Digitaalne kaart, mida saab lisada ja kasutada Apple Pay, Google Pay või mis tahes sularahaautomaadi kaudu. Viimast saab pakkuda VISAga sõlmitud partnerluse kaudu ning see võimaldab kasutada USDC krediidiliini, mis on tagatud panustatud meediatega. Seda kaarti võivad organisatsioonid kasutada ka töötajate rahakoti rahastamiseks, et hallata töötajate soodustusi, nagu restoranid, transport ja mis tahes liiki kulud.
 
-So not only many new users will discover the blockchain world, they will also discover a bankless world.
+Seega avastavad paljud uued kasutajad mitte ainult plokiahela maailma, vaid ka pangavaba maailma.
 
  
