@@ -1,0 +1,32 @@
+name: Sync Crowdin with Whitepaper repo
+on:
+  schedule:
+    - cron:  '0 18 * * *' # Everyday at 06 PM UTC
+  workflow_dispatch:
+  workflow_call:
+env:
+  CROWDIN_SYNC_BRANCH: 'l10n_main'
+  BASE_BRANCH: 'main'
+
+jobs:
+  synchronize-with-crowdin:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v3
+      with:
+        ref: ${{ env.BASE_BRANCH }}
+        fetch-depth: 0
+    - name: Mark workspace as safe folder
+      run: git config --global --add safe.directory /github/workspace
+    - name: Synchronize crowdin with the project
+      uses: crowdin/github-action@1.5.2
+      with:
+        upload_translations: false
+        download_translations: true
+        localization_branch_name: ${{ env.CROWDIN_SYNC_BRANCH }}
+        create_pull_request: false
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
+        CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
