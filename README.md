@@ -1,5 +1,6 @@
 This repository contains the source and translations for the [Work Metaverse Whitepaper](https://mirror.xyz/meedsdao.eth/EDh9QfsuuIDNS0yKcQDtGdXc25vfkpnnKpc3RYUTJgc).
 
+[![Crowdin](https://badges.crowdin.net/meeds-whitepaper/localized.svg)](https://crowdin.com/project/meeds-whitepaper)
 
 ## :trophy: Contribute ##
 
