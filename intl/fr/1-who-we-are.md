@@ -1,5 +1,5 @@
 
-# 1. Qui sommes-nous ? L’association Meeds
+# 1. L'association Meeds
 
 L'association Meeds est une organisation à but non lucratif lancée à l'origine par plusieurs communautés de logiciels libres (OSS) autour de la vision commune d'un monde numérique libre – un monde décentralisé qui ne serait pas contrôlé par une poignée de méga-entreprises centralisées.
 
