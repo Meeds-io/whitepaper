@@ -1,8 +1,8 @@
 ---
 title: Meeds DAO - 工作元宇宙
 date: 2022 年 6 月 1 日 - 版本 1.0.2
-toc-title: 目录
-language: zh
+toc-title: 目錄
+language: zo
 toc-own-page: true
 titlepage: true
 titlepage-text-color: "000000" ## black
@@ -17,4 +17,4 @@ first-chapter: 2
 classoption: oneside
 mainfont: "Source Sans Pro"
 sansfont: "Source Sans Pro"
-CJKmainfont: "Noto Sans SC"
+CJKmainfont: "Noto Sans TC"
