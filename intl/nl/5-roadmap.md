@@ -8,7 +8,7 @@ Het zal bevolkt worden door gebruikers, die handelen via hun digitale identiteit
 
 Organisaties - **Deeds** zouden talenten kunnen bronnen en door de WoM bladeren voor de juiste bewezen vaardigheden. Zij zouden beloond worden voor hun deelname aan de metaverse, door tokens te slaan via de betrokkenheid van hun gebruikers (mintium-model). Maar bovenal zouden ze profiteren van een hogere betrokkenheid en loyaliteit van hun gebruikers.
 
-De WoM zou zijn eigen munt **Meeds** hebben - die zou er zijn om uit te geven in winkels, om te zetten in een andere munt, te investeren voor een rendement, te huren of te kopen enz. De WoM zou ook de distributie van andere tokens faciliteren en deelnemen aan het algemene crypto-ecosysteem.
+De WoM zou zijn eigen munt **Meeds** hebben - die zou er zijn om uit te geven in winkels, om te zetten in een andere munt, te investeren voor een rendement, te huren of te kopen enz. De WoM zou ook andere tokens distributie vergemakkelijken en deelnemen aan het totale crypto ecosysteem.
 
 Omdat een beeld meer zegt dan duizend woorden, is hier een diagram dat de stromen van de WoM en Meeds beschrijft
 
@@ -40,7 +40,7 @@ Onderstaand diagram geeft een voorbeeld van de Meeds-investeringsstrategie voor 
 
 De officiële lanceringsdatum is vastgesteld **Mei 1,2022** - de Internationale Dag van de Arbeider, die in veel landen wordt gevierd.
 
-Op dat moment bestaat het Meed token al. Het is mogelijk om het te verwerven en liquiditeitspools zijn open voor deelname, op Polygon en Ethereum netwerken.
+Op dat moment bestaat de gemiddelde token al. Het is mogelijk om het te verwerven en liquiditeitspools zijn open voor deelname, op Polygon en Ethereum netwerken.
 
 Drie leden van de Meeds-vereniging gebruiken het systeem intern om hun gebruikers te betrekken en te belonen en de Meeds-software te verbeteren.
 

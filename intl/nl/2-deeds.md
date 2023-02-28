@@ -5,7 +5,7 @@
 
 Een niet-vervalsbaar token (NFT) is een uniek token dat een goed vertegenwoordigt. In de WoM wordt een Deed gebruikt als eigendomstitel. Elke Deed geeft zijn eigenaar recht op toegang tot verschillende diensten - bijvoorbeeld een toegang tot een digitaal kantoor, aangedreven door de Meeds-software en het recht om Meeds te slaan.
 
-De WoM verwelkomt alle soorten organisaties - DAO's, traditionele bedrijven, verenigingen, denktanks, partnerschappen, theatergezelschappen, projectgroepen, scholen enz. De akte vertegenwoordigt hun digitale bestaan in de WoM.
+De WoM verwelkomt alle soorten organisaties - DAO's, traditionele bedrijven, verenigingen, denktanks, partnerschappen, theatergezelschappen, projectgroepen, scholen enz. De Deed vertegenwoordigt hun digitaal bestaan in het WoM.
 
 ## 2.2. Deeds leveringspunt
 
@@ -63,7 +63,7 @@ De houder of huurder van de Deed kan zijn winkel verrijken met zijn eigen perks,
 
 - Training Cursussen
 - Lidmaatschap van een gymclub
-- Vakantie cadeaubonnen
+- Vakantie pakketten
 - Lunch met een leider in de organisatie
 - Fysieke kantoorruimte
 - Enz.
@@ -128,7 +128,7 @@ In de WoM zullen Deeds geleidelijk gegenereerd worden binnen virtuele steden. Al
 
 Een stad wordt als compleet beschouwd, zodra alle Deeds zijn geslagen. Dan zal het slaan van elke nieuwe stad beginnen met $2^n$ maanden nadat de laatste Deed van de $n-1$ stad is geslagen.
 
-| **Stadsnaam** | **Deeds**   | **Beschikbaar**       | **Algemeen** | **Ongewoon** | **Zeldzaam** | **Legendarisch** |
+| **Stadsnaam** | **Doden**   | **Beschikbaar**       | **Algemeen** | **Ongewoon** | **Zeldzaam** | **Legendarisch** |
 | ------------- | ----------- | --------------------- | ------------ | ------------ | ------------ | ---------------- |
 | 1: Tanit      | 100         | T0                    | 50           | 30           | 13           | 7                |
 | 2: Reshef     | 1 000       | Tanit + 4 maanden     | 600          | 300          | 94           | 6                |
