@@ -10,7 +10,7 @@ api_token_env: CROWDIN_PERSONAL_TOKEN
   {
     "source": "/en/*.md",
     "dest": "/whitepaper/%original_file_name%",
-    "translation": "/intl/%two_letters_code%/%original_file_name%
+    "translation": "/intl/%two_letters_code%/%original_file_name%"
   },
   {
     "source": "/en/title.yml",
