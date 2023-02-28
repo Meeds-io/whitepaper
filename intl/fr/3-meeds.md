@@ -46,7 +46,7 @@ Une fois la période d’émission terminée, l’association sera soutenue par 
 - les frais de transactions d'achat dans les boutiques
 - ses revenus en tant que fournisseur de liquidité
 - des commissions quand un Deed distribue des jetons autres que des Meeds via les services du WoM.
-- les revenus degagés en opérant les Deeds qu'elle possède
+- les revenus degagés en opérant les Deeds qu'elle possède.
 
 
 ## 3.5. Investisseurs
@@ -72,7 +72,7 @@ Les points sont calculés en utilisant la formule ci-dessous :
 
 La formule évite de privilégier les grands détenteurs afin de distribuer les Deeds plus efficacement et plus équitablement. Par exemple, la formule donne les rythmes suivants :
 
-| **Taille Porteur** | **Avoirs**     | **Rythme d'accumulation** |
+| **Taille Porteur** | **Actifs**     | **Rythme d'accumulation** |
 | ------------------ | -------------- | ------------------------- |
 | Petit              | 1 000 xMeeds   | 28 pts/jour               |
 | Moyen              | 10 000 xMeeds  | 164 pts/jour              |

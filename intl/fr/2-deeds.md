@@ -39,7 +39,7 @@ Chaque titulaire ou locataire peut fournir des outils et des services à ses uti
 Pour commencer, les services suivants sont fournis gratuitement par l'association Meeds et peuvent être utilisés immédiatement pour récompenser l'engagement :
 
 - **Moteur de Gamification** – Toute action utilisateur est automatiquement détectée au sein du WoM et équivaut à un nombre de points. Ceci peut être ajusté selon les priorités du Deed via des programmes d’engagement personnalisables.
-- **Challenges** – Des défis personnalisables peuvent être mis en place pour représenter des accomplissements Les challenges sont prédéfinis par une personne et peuvent être relevés et déclarés comme réussis par une autre. Les challenges ont aussi une valeur en points qui émargent à des programmes d’engagement personnalisables.
+- **Challenges** – Des défis personnalisables peuvent être mis en place pour représenter des accomplissements. Les challenges sont prédéfinis par une personne et peuvent être relevés et déclarés comme réussis par une autre. Les challenges ont aussi une valeur en points qui émargent à des programmes d’engagement personnalisables.
 - **Programmes d'engagement personnalisables** - Les organisations peuvent créer leurs propres programmes d'engagement correspondant à leurs objectifs et leurs priorités. Les programmes regroupent des actions automatiques et des challenges déclarés manuellement. Chacun d'eux a un budget défini en Meeds. Les points gagnés périodiquement par chaque utilisateur dans chaque programme d'engagement sont convertis en Meeds, selon le budget de ce programme.
 - **Kudos** - Les kudos peuvent être attribués par les utilisateurs les uns aux autres, comme un remerciement et un signe de reconnaissance. Étant donné que la distribution de kudos est limitée (3 par semaine par exemple), ils sont rares et précieux. Comme les autres actions, les kudos rapportent des points. De cette façon, les employés sont encouragés à récompenser leurs collègues et reconnaitre leurs contributions.
 - **Collaboration** Des outils de collaboration – espaces de travail, flux social, tâches et notes – permettent aux personnes de travailler ensemble sur des projets.
@@ -113,7 +113,7 @@ La formule ci-dessus est simple et elle est conçue pour privilégier les deeds 
 
 En outre, des bonus existent pour :
 
-- les deeds avec un fort taux d’engagement, peu importe leur taille (taux d’engagement du WoM)
+- les organisations les plus engagées, quelle que soit leur taille (taux d'engagement par rapport au WoM)
 - les deeds les plus rares
 
 > L’association se réserve le droit de changer la formule si besoin – si de nouveaux cas d’usage spécifiques sont identifiés par exemple. L’association peut également exclure tout Deed qui détournerait la formule pour son propre bénéfice.
