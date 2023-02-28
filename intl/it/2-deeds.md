@@ -59,7 +59,7 @@ Nuovi servizi possono essere inseriti nel motore di ricompensa attraverso le API
 
 Inoltre, l'impegno prodotto tramite il connettore partecipa al punteggio di impegno globale dell'organizzazione, che è un fattore della distribuzione del conio di Meeds, descritto di seguito. A tal fine, il connettore deve essere inserito nella whitelist dell'Associazione Meeds. L'associazione esamina il connettore, ne approva l'algoritmo e ne acquisisce la proprietà contro Meeds. Diventa quindi parte dei servizi gratuiti forniti dall'associazione e viene inserito nell'indice di coinvolgimento globale. Qualsiasi altro Atto può utilizzare lo stesso connettore e lo stesso algoritmo di ricompensa per i suoi sviluppatori.
 
-Il titolare o l'affittuario dell'Atto può arricchire il proprio negozio con i propri vantaggi, collegarsi a un'offerta di vantaggi online, ecc. Anche in questo caso le possibilità sono infinite:
+Il titolare o l'affittuario dell'Atto può arricchire il proprio negozio con i propri vantaggi, collegarsi a un'offerta di vantaggi online, ecc. Ancora una volta le possibilità sono infinite:
 
 - Corsi di formazione
 - Iscrizioni in palestra
@@ -114,7 +114,7 @@ La formula sopra è semplice e progettata per favorire le azioni:
 Inoltre, sono presenti booster per:
 
 - organizzazioni con il più alto coinvolgimento, indipendentemente dalle loro dimensioni (tasso di coinvolgimento in relazione alla WoM)
-- atti più rari
+- atti di scarcerazione
 
 > L'Associazione Meeds si riserva il diritto di modificare la formula se necessario - ad esempio in caso di casi d'uso specifici. L'associazione può anche inserire in lista nera qualsiasi azione che sfrutta la formula a proprio vantaggio unico.
 

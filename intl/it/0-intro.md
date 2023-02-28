@@ -12,7 +12,7 @@ Il WoM lo fa introducendo identità digitali sia per il datore di lavoro che per
 
 Il mercato del lavoro attuale è rotto. Non soddisfa sia i dipendenti che i datori di lavoro.
 
-Per quanto riguarda i dipendenti, è difficile trovare il lavoro giusto. Il mercato del lavoro favorisce alcune tipologie d'individui, lasciando indietro le grandi competenze. Questo deriva da una serie di pregiudizi umani - su base razziale, di genere, di handicap, d'introversione, ecc. Il mercato del lavoro manca anche di trasparenza per quanto riguarda le posizioni disponibili e le condizioni d'impiego.
+Per quanto riguarda i dipendenti, è difficile trovare il lavoro giusto. Il mercato del lavoro favorisce alcune tipologie d'individui, lasciando indietro le grandi competenze. Questo deriva da una serie di pregiudizi umani - basata sulla razza, sul genere, basata su handicap, introvert basato eccetera. Questo deriva da una serie di pregiudizi umani - su base razziale, di genere, di handicap, d'introversione, ecc. Il mercato del lavoro manca anche di trasparenza per quanto riguarda le posizioni disponibili e le condizioni d'impiego.
 
 Una volta assunti, le libertà personali dei dipendenti vengono violate in cambio di un compenso. I dipendenti hanno poca voce in capitolo per quanto riguarda l'orario, il luogo di lavoro, i contenuti e i metodi di lavoro. E il loro compenso è raramente legato alle loro reali implicazioni o al loro valore. Le regole di compensazione mancano di trasparenza e, quindi, sono percepite come ingiuste. Inoltre, la retribuzione e l'avanzamento di carriera dipendono anche dal fattore umano: la buona fede e l'obiettività del manager immediato del dipendente.
 
@@ -24,7 +24,7 @@ Inoltre, i datori di lavoro si trovano di fronte a uno scarso impegno dei loro d
 
 Tutto ciò si traduce in elevati costi di transazione e nell'esasperazione del problema agente - principale[^4] :
 
-- Con Internet, i mercati del lavoro si sono evoluti verso una maggiore unità e trasparenza grazie ai siti di annunci di lavoro, ai siti di carriera, ecc. Ma i costi delle transazioni sono ancora troppo elevati in assenza di un elemento di obiettività.
+- Con Internet, i mercati del lavoro si sono evoluti verso una maggiore unità e trasparenza grazie ai siti di annunci di lavoro, ai siti di carriera, ecc. Ma i costi delle transazioni sono ancora troppo elevati in assenza di elementi di obiettività.
 - Per quanto riguarda il problema dell'agente principale, esso è stato aggravato dal crescente divario di reddito e ricchezza tra dipendenti e azionisti e dalla rigidità del rapporto tra datore di lavoro e dipendente.
 
 Il WoM mira a risolvere entrambi i problemi attraverso un nuovo paradigma di lavoro decentralizzato.
