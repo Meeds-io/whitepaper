@@ -10,32 +10,32 @@ WoM to dělá tím, že zavádí digitální identity pro zaměstnavatele i zam�
 
 ## Úvod
 
-Dnešní trh práce je rozbitý. Neuspokojuje jak zaměstnance, tak zaměstnavatele.
+Dnešní pracovní trh je narušen. Nedokáže uspokojit zaměstnance i zaměstnavatele.
 
-Na straně zaměstnanců je těžké najít tu správnou práci. Trh práce zvýhodňuje určité typy jednotlivců a zanechává velké dovednosti. To pochází ze skupiny lidí předsudky – rasové, genderové, handicapové, introvertní atd. Trh práce rovněž postrádá transparentnost, pokud jde o dostupné pozice a podmínky zaměstnání.
+Na straně zaměstnanců je obtížné najít správná pracovní místa. Trh práce upřednostňuje určité typy jednotlivců, čímž zanechává velké dovednosti. Vychází ze souboru lidských předpojatostí – rasové základny, založené na pohlaví, založené na znevýhodnění, introvertní bázi atd. Trh práce také postrádá transparentnost, pokud jde o dostupné pozice a pracovní podmínky.
 
-Jakmile je zaměstnanec zaměstnán, jsou porušovány jeho osobní svobody výměnou za náhradu. Zaměstnanci mají malý vliv na svou pracovní dobu, pracoviště, pracovní náplň resp pracovní metody. A jejich kompenzace je zřídka spojena s jejich skutečným dopadem nebo hodnotou. Pravidla kompenzací postrádají transparentnost, a proto jsou vnímána jako nespravedlivá. Odměňování a kariérní postup navíc závisí také na lidském faktoru – dobré víře a objektivitě přímého nadřízeného zaměstnance.
+Jakmile je zaměstnanec zaměstnán, jsou osobní svobody zaměstnance protiprávně porušovány výměnou za odškodnění. Zaměstnanci mají v pracovní době jen málo slov, na pracovišti, na pracovišti, na pracovišti, obsahu práce nebo na pracovních metodách. A jejich náhrada je zřídkakdy spojena s jejich reálným dopadem či hodnotou. Pravidla kompenzací postrádají transparentnost, a proto jsou vnímána jako nespravedlivá. Odměny a kariérní pokrok jsou navíc závislé také na lidském faktoru – na dobré víře a objektivitě zaměstnance bezprostředního manažera.
 
-Zaměstnavatelé se na druhou stranu potýkají s obtížemi při získávání talentů a při najímání správných dovedností a vhodných pro danou práci ve správný čas. Neexistuje žádný objektivní způsob, jak zjistit dovednosti potenciálního zaměstnance nebo získat lidi mimo tradiční zaměstnavatele pronájem bazénu.
+Zaměstnavatelé na druhé straně zažívají obtíže při získávání talentů a najímání správných dovedností a správné způsobilosti pro práci ve správný čas. Neexistuje žádný objektivní způsob, jak zjistit dovednosti nebo zdroje potenciálního najímání osob mimo tradiční skupinu zaměstnavatelů.
 
 Zaměstnavatelé se také potýkají s nedostatečnou loajalitou svých zaměstnanců a vysokou fluktuací, což obojí zvyšuje náklady na nábor a nástup.
 
-Zaměstnavatelé navíc čelí nízkému zapojení svých stávajících zaměstnanců, což vede k nízké kreativitě, produktivitě a inovacím. To druhé způsobuje o to větší škody v dnešní ekonomice vyžadující kvalifikovanější tvůrčí práci.
+Zaměstnavatelé navíc čelí slabému zapojení do svých stávajících zaměstnanců, což vede k nízké tvořivosti, produktivitě a inovacím. To druhé způsobuje o to větší škody v dnešní ekonomice vyžadující kvalifikovanější tvůrčí práci.
 
 Vše výše uvedené se scvrkává na vysoké transakční náklady a zhoršený agent-principal problém[^4] :
 
-- S internetem se trhy práce vyvíjely směrem k větší jednotě a transparentnosti díky stránkám s nabídkou práce, kariérním stránkám atd. Transakční náklady jsou však při absenci prvku objektivity stále příliš vysoké.
+- Na internetu se trhy práce vyvíjely směrem k větší jednotnosti a transparentnosti díky stránkám pro vysílání pracovních míst, kariérním stránkám atd. Při absenci prvku objektivity jsou však transakční náklady stále příliš vysoké.
 - Pokud jde o problém agent-principal, byl umocněn rostoucí propastí v příjmech a bohatství mezi zaměstnanci a akcionáři a rigiditou vztahu zaměstnavatel-zaměstnanec.
 
 Cílem WoM je vyřešit obojí prostřednictvím nového paradigmatu decentralizované práce.
 
-Po dílech R. Coase[^5]Většina ekonomů spojuje koncept podnikání s nutností zmírňovat transakční náklady. Internet a v poslední době blockchain a web3 otevírají vzrušující možnosti snižování transakčních nákladů kdekoli a znovuobjevují ekonomiku a zejména znovuobjevení podniku. První DAOs[^6]začal tento proces zaměření o snižování nákladů na transakce pro získávání kapitálu a řízení. Cílem WoM je posunout tuto logiku dále snížením nákladů na pracovní transakce. Navrhuje decentralizovaný svět, kde by bylo možné objektivně, rychle a globálně provádět sladění pracovních míst a dovedností.
+Po práci R. Coase’s[^5]spojuje většina ekonomů pojem podniku s nutností snížit transakční náklady. Internet a v poslední době blockchain a web3 otevírají vzrušující možnosti snížení transakčních nákladů všude, nově se objevující ekonomika, a zejména nové vynalézaví podnik. První DAOs[^6] zahájil tento proces se zaměřením na snížení nákladů na transakce týkající se získávání kapitálu a jeho řízení. Cílem WoM je dále tlačit tuto logiku snížením nákladů na pracovní transakce. Navrhuje decentralizovaný svět, kde by se pracovní místa a dovednosti mohly realizovat objektivně, rychle a globálně.
 
-První DAO zplošťují hierarchie a otevírají vlastnictví. WoM sleduje tuto logiku tím, že znovuobjevuje, spíše než potlačuje vztah zaměstnavatel/zaměstnanec. Zavádí transparentní, objektivní a decentralizované paradigma odměňování, které by udržitelně sladilo zájmy zaměstnavatele a zaměstnance.
+První DAO: zarovnala hierarchie a otevřené vlastnictví. WoM tuto logiku prosazuje tím, že spíše než potlačuje vztah zaměstnavatele/zaměstnance. Zavádí transparentní, objektivní a decentralizovaný systém odměn, který by trvale sladil zájmy zaměstnavatele a zaměstnanců.
 
-A konečně, Práce Metaverse překlenuje propast mezi korporacemi a DAO. Na jedné straně uvádí tradiční korporace do decentralizovaného světa prostřednictvím snadno použitelného paradigmatu odměňování angažovanosti, které doplňuje jejich odměňování systémy. Na druhou stranu navrhuje udržitelné způsoby fungování a vytváření hodnoty pro DAO. Nakonec by WoM mohla být mezi prvními mainstreamovými aplikacemi, které demokratizují používání blockchainu pro každou společnost a každého zaměstnance – včetně nedigitálních aplikací.
+Konečně pracovní Metaverse překlenuje propast mezi korporacemi a DAO. Na jedné straně zavádí do decentralizovaného světa tradiční korporace, a to prostřednictvím snadného uplatnění odměňovacího paradigmatu, který doplňuje jejich systémy kompenzací. Na druhé straně navrhuje udržitelné způsoby provozu a vytváření hodnoty pro DAO. Nakonec WoM by mohl patřit mezi první aplikace hlavního proudu, která by demokratizovala používání blockchainu pro každou společnost a každého zaměstnance – včetně těch nedigitálních.
 
-Jako u každého decentralizovaného podniku i návrh WoM exponenciálně nabývá na hodnotě, jak jej používá více lidí. Z tohoto důvodu zakladatelé věnovali velkou pozornost podpoře dlouhodobého zájmu a zabránili monopolizaci výhod WoM, ať už krátkodobých nebo dlouhodobých. Je to otevřené paradigma, které je stále třeba budovat, a otevřené pro aktivní tvůrčí účast všech.
+Stejně jako v případě každého decentralizovaného podniku i návrh WoM exponenciálně zvyšuje hodnotu, neboť jej využívá více lidí. Zakladatelé se proto velmi starali o to, aby podpořili dlouhodobý zájem a vyhnuli se monopolizaci WoM výhod, ať už krátkodobých, či dlouhodobých. Je to otevřené paradigma, které je ještě třeba vybudovat a otevřít aktivní tvůrčí zapojení všech.
 
 
 [^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)
