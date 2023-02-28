@@ -3,6 +3,8 @@ name: Crowdin Action
 on:
   push:
     branches: [ main ]
+    
+  workflow_dispatch:
 
 jobs:
   crowdin:
@@ -21,7 +23,7 @@ jobs:
       - name: Matrix
         uses: crowdin/github-action@v1
         with:
-          upload_sources: false
+          upload_sources: true
           upload_translations: false
           download_translations: true
           commit_message: New Crowdin translations - ${{ matrix.lc }}
