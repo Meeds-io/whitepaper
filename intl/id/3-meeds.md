@@ -75,7 +75,7 @@ Rumus tersebut untuk menghindari keuntungan bagi pemilik besar agar distribusi M
 | **Ukuran Pemilik** | **Jumlah**     | **Tingkat Pertambahan** |
 | ------------------ | -------------- | ----------------------- |
 | Kecil              | 1 000 xMeeds   | 28 poin/hari            |
-| Medium             | 10 000 xMeeds  | 164 poin/hari           |
+| Sedang             | 10 000 xMeeds  | 164 poin/hari           |
 | Besar              | 100 000 xMeeds | 321 poin/hari           |
 
 
@@ -83,9 +83,9 @@ yang mengarah masa kepemilikan untuk setiap kelompok kepemilikan :
 
 | **Tipe Kartu** | **Biaya**    | **Pemilik Besar** | **Pemilik Medium** | **Pemilik Kecil** |
 | -------------- | ------------ | ----------------- | ------------------ | ----------------- |
-| Common         | 8 000 poin   | 25 hari           | 49 hari            | 9 bulan           |
-| Uncommon       | 32 000 poin  | 100 hari          | 6 bulan            | 3 tahun           |
-| Rare           | 50 000 poin  | 156 hari          | 10 bulan           | 5 tahun           |
+| Umum           | 8 000 poin   | 25 hari           | 49 hari            | 9 bulan           |
+| Tidak Umum     | 32 000 poin  | 100 hari          | 6 bulan            | 3 tahun           |
+| Langka         | 50 000 poin  | 156 hari          | 10 bulan           | 5 tahun           |
 | Lengendary     | 100 000 poin | 311 hari          | 20 bulan           | 10 tahun          |
 
 ## 3.6. Tata Kelola DAO Meed
