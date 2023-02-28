@@ -1,5 +1,5 @@
 
-# 1. Hvem vi er- Meeds Association
+# 1. Hvem vi er – Meeds Association
 
 Meeds er en ideell organisasjon som opprinnelig ble lansert av flere Open Source Software (OSS)-fellesskap rundt den felles visjonen om en fri digital verden -  en desentralisert verden som ikke ville bli kontrollert av en håndfull sentraliserte megaselskaper.
 
@@ -11,4 +11,4 @@ For å bygge WoM og Meeds utnytter foreningen Ethereum-plattformen og dens økos
 
 Foreningen er strukturert som en Desentralisert Autonom Organisasjon (DAO) der innehaverne av styringstokener stemmer over alle viktige organisatoriske endringer,  for eksempel valg av styre hvert år.
 
-I tillegg til tokenadministrasjon holder foreningen Intellectual Property (IP) of the Meeds software [github. om/meeds-io](https://github.com/meeds-io)tilgjengelig under LGPL lisensen og distribuert gratis. Sistnevnte inkluderer en Ethereum-lommebok-app som brukerne kan bruke til å lagre og gjennomføre transaksjoner med Meeds  (se avsnitt 2.4 for mer informasjon). Meeds Association driver også en skyvertjeneste med flere  leietakere som utnytter denne programvaren.
+I tillegg til tokenadministrasjon holder foreningen Intellectual Property (IP) of the Meeds software [github. om/meeds-io](https://github.com/meeds-io)tilgjengelig under LGPL lisensen og distribuert gratis. Sistnevnte har en Ethereum lommebok-app som brukere kan bruke til å lagre og transformere deres Meeds (se avsnitt 2.4 for mer informasjon). Meeds Association driver også en multi-tenant sky hostingstjeneste som tilbyr denne programvaren.

@@ -1,50 +1,50 @@
-# 4. Xeeds - Work Metaverse Enkeltpersoner/brukere
+# 4. Xeeds - Work Metaverse Individuer / brukere
 
-## 4.1. Desentraliserte og selvstendige modeller
+## 4.1. Desentraliserte og selvstatlige modeller
 
 WoM anerkjenner personvern som en grunnleggende menneskerettighet og gir brukerne mulighet til å eie dataene sine.
 
 Vår tilnærming er basert på desentraliserte og selvsuverene identitetsprinsipper, slik at brukerne når som helst kan ha kontroll over hvilken informasjon de ønsker å offentliggjøre, dele med en begrenset gruppe eller holde privat.
 
-Brukerens aktivitet og engasjement i WoM er alltid knyttet til en Deed. En Xeed er den virtuelle personaen til en bruker i en Deed. Xeed krever ingen KYC, det er selvdeklarerende, men vi kan tenke oss at tredjepartsfirmaer kan tilby denne tjenesten.
+Brukerens aktivitet og engasjement i WoM er alltid knyttet til en Deed. En Xeed er den virtuelle personen som bruker i en avdeling. Xeed krever ingen KYC, det er egenerklæring, men vi kan tenke oss å tenke oss tredjepartsfirmaer som leverer denne tjenesten.
 
-## 4.2. Merker og legitimasjon
+## 4.2. Emblemer og legitimasjon
 
-Merker og legitimasjon gis til brukere som en del av deres deltakelse i en Deed.  Innehaveren kan laste dem ned som W3C Verifiserbar legitimasjon[^7][^8](aka VCs) og lagre dem i lommeboken hans. Disse VC bevis på kunnskap/kunnskap som er sertifisert av organisasjonen som utsteder dem.
+Badges og påloggingsinformasjon gis til brukere som en del av deres deltakelse i et tilbud. Innehaveren kan laste dem ned som W3C Verifiserbare opplysninger[^7][^8] (aka VCer) og lagre dem i hans lommebok. Disse VC-ene er bevis på kunnskap/kunnskap som er sertifisert av organisasjonen som gir den.
 
-I dagens verden er det vanskelig å bevise en ferdighet på forhånd. Når folk annonserer seg selv på nettverk, regner de med at lederne deres vil gi dem en anbefaling. Sistnevnte forutsetter en viss velvilje fra lederens side, men blir ikke nødvendigvis behandlet som bevis av den fremtidige arbeidsgiveren.
+I dagens verden er det vanskelig å bevise en dyktighet på forhånd. Når folk reklamerer seg på nettverk, teller de på sine ledere for å gi dem en anbefaling. Det sistnevnte hevder goodwill fra lederens side, men behandles ikke nødvendigvis som bevis fra fremtidig arbeidsgiver.
 
 Work Metaverse gir en mer åpen og uforanderlig måte for folk å tilegne seg og demonstrere sine evner på.
 
-Merkene brukes til å representere prestasjoner i en Deed. Etter å ha fullført et sett med mål eller utfordringer, får brukerne tildelt poeng. Merkene kan låses opp ved å samle et visst antall poeng i bestemte kategorier.
+Merker brukes til å representere fullverdige oppgaver som er gjort innen en avdeling. Etter at du har fullført et sett med mål eller utfordringer, vil brukerne bli tildelt poeng. Merker kan låses opp ved å akkumulere visse mengder punkter i spesifikke kategorier.
 
 Når brukeren laster ned merker, er det mulig å inkludere antall poeng og rangering i Deed for denne spesifikke prestasjonen.
 
-Referanser er mer fleksible enn merker; de kan være en anbefaling fra en fagfelle, som viser til mange års ekspertise, fullført opplæring eller eksamen, eller engasjement i Deed. Disse signeres av Deed og kan ledsages av en signatur fra en fagfellebruker.
+Leger er mer fleksible enn Merkelapper; De kan være en tilråding fra en fagkyndighet der ekspertise, opplæring eller eksamen er fullført eller er engasjert i forranget. Disse er signert av den avdekkede og kan ledsages av en underskrift fra en kildebruker.
 
 ## 4.3. Digital arbeidsidentitet
 
-Alt det ovennevnte bidrar til å skape dokumenterte digitale ferdigheter som brukeren kan beholde og bruke når han eller hun skifter jobb eller frilanser. Det vil være mer pålitelig enn tradisjonelle løsninger, ettersom det ikke bare er én person, men et helt fellesskap som kan bevise det.
+Alt ovenfor bidrar til å danne et velfungerende digitalt kompetansesett som kan bevares og brukes av brukeren ved bytte av arbeid eller frilansing. Det ville være mer tillitsfullt enn tradisjonelle løsninger, for det er avhengig av ikke bare ett individ, men et fullt samfunn som beviser det.
 
 Akkurat som med Meeds-lommeboken, vil brukeren beholde Xeed, merker og legitimasjon knyttet til den i identitetslommeboken når han flytter fra en Deed til en annen, fra en by til en annen, hvor som helst gjennom WoM.
 
 Brukeren vil kunne dele sin Xeed, Merker og legitimasjon med andre Deeds for å fremheve sin erfaring, så vel som med rekrutterere eller andre tjenester som han anser som interessante.
 
-En bruker kan ha én eller flere digitale identiteter i WoM.  Han kan senere presentere dem på en enhetlig måte ved hjelp av verifiserte presentasjoner.
+En bruker kan ha én eller flere digitale identiteter i WoM. Han kunne senere presentere dem på en enhetlig måte ved hjelp av verifiserte presentasjoner.
 
-I motsetning til web 2 har brukeren fullt eierskap til sine desentraliserte identiteter. Deeds han deltok i, hans dokumenterte ferdigheter, hans påståtte ferdigheter, andre Xeeds (personer) som han jobbet med, hans digitale representasjon av seg selv... På en måte som en pålitelig LinkedIn 3.0.
+I motsetning til web 2 er brukeren i fullt eierskap til sine desentraliserte identitet. Sistnevnte kan vise (og prove) Deeds han deltok i, sine påviste ferdigheter, sin anerkjente kompetanse, andre Xeeds (mennesker) han samarbeidet med, sin digitale representasjon av seg selv... In a manner of trustworthy LinkedIn 3.0.
 
-Brukeren vil kunne velge om noe skal avsløres eller ikke, hvilken informasjon som skal oppgis, og hvilke identiteter som skal brukes for hver stilling. Innholdet (dokumenterte ferdigheter, tidligere Deed osv.) er manipuleringssikkert og kan derfor ikke endres. Enhver identitet vil måtte utvikles over tid. Enhver identitet må utvikles over tid.
+Brukeren vil kunne velge om han skal vise noe eller ikke, hvilken informasjon brukeren skal gi, og hvilken identitet som skal brukes for hver posisjon. Innholdet (bevist ferdighet, tidligere dekeds, osv.) er godkjent og kunne ikke endres. Enhver identitet må utvikles over tid.
 
-## 4.4. Rettferdig arbeidsmarked
+## 4.4. Markedsplass for rettferdig arbeid
 
-Innenfor dette paradigmet gir fremtidens arbeidsmarked brukerne mulighet til å bevege seg fritt og fordele/selge sitt engasjement blant Deeds - slik de gjør i den fysiske verden ved å bytte arbeidsgivere. WoM vil imidlertid engasjementet deres være håndgripelig, målt og belønnet på en rettferdig måte. Ved å bevege seg mellom systemer som følger en lignende logikk, vil de bedre forstå spillereglene og bedømme arbeidsgivere rettferdig - gresset er ikke alltid grønnere andre steder. Brukerne vil kunne velge hvilken Deed som gir bedre vilkår for å belønne engasjement, tilhører en mer attraktiv by osv.
+Innenfor dette paradigmet tillater brukerne å bevege seg fritt og tildele/selge sitt engasjement blant Deeds – som de gjør i den fysiske verden ved å endre arbeidsgiver. Men i WoM vil deres engasjement bli materiell, målt og belønnet på en rettferdig måte. Ved å flytte mellom systemene som følger lignende logikk, De vil forstå bedre spillereglene og dømme arbeidsgiverne på en god måte – gress er ikke alltid grønnere. Brukerne kan velge hvilke Deed som gir belønningsbetingelser for bedre engasjement, som tilhører en mer attraktiv by osv.
 
-Innehaverne/leietakerne av Deeds kan på sin side søke etter relevante ferdigheter ved hjelp av WoM-nettverket av digitale arbeidsidentiteter (som brukerne har valgt å oppgi). De vil være i stand til å finne ferdigheter mer effektivt, basert på verifisert og detaljert informasjon om arbeidshistorikk, arbeidsferdigheter og brukerens engasjementsnivå.
+På sin slutt kan avdelingens innehavere/utleiere søke etter relevante ferdigheter ved hjelp av WoM-nettverket for digital arbeidsidentitet (at brukerne bestemte seg for å avsløre dem). De vil kunne gi kompetanse mer effektivt. basert på verifiserte og detaljert informasjon om arbeidshistorie, arbeidsevne og engasjementsnivå for brukeren.
 
-## 4.5. Håndgripelig og gjennomsiktig anerkjennelse
+## 4.5. Spesifikk og gjennomsiktig gjenkjenning
 
-I dag er detaljer om kompensasjon og bonuser uklare på mange arbeidsplasser. Derfor er det vanskelig for en person å sammenligne sine vilkår med andres og få en følelse av en rettferdig og upartisk behandling. Ansatte opplever mye frustrasjon over det ovennevnte.
+I dag er omtale av kompensasjon og bonuser blant annet på mange arbeidsplasser. Derfor er det vanskelig for en person å sammenligne betingelsene sine med forholdene på et annet, og få følelse av å være rettferdig og upartisk behandling. Ansatte opplever mye frustrasjoner til det som er nevnt ovenfor.
 
 WoM introduserer en objektiv måte å anerkjenne prestasjoner og belønne dem på.
 
@@ -56,9 +56,9 @@ Lommebøker er individuelle og blokkjedebaserte - når brukeren mottar en beløn
 
 Som diskutert ovenfor, åpner Work Metaverse en verden av kryptovaluta og desentraliserte nettjenester for i utgangspunktet alle - en veldig stor populasjon av brukere, til og med muligens uten tilknytning til det digitale feltet.
 
-Faktisk kan ethvert arbeidsengasjement potensielt tokeniseres. Faktisk blir verden stadig mer digital med trender som 5G, iot, wearables og så videre. Som en konsekvens kan potensielt flere og flere signaler fanges opp og analyseres for å tokenisere engasjementet til ikke-digitale yrker. Utfordringer gir en klar måte å tokenisere det på ved å representere prestasjoner i den fysiske verden.
+Ja, alle aktiviteter kan potensielt medvirkes. Faktisk blir verden stadig mer digitalt med trender som 5G, iot, kabler og så videre. Som en konsekvens av dette kunne flere og flere signaler fanges opp og analyseres for å synliggjøre ikke-digitale yrkers engasjement. Utfordringer gjør at de er klare til å gjøre det lettere ved å representere prestasjoner i den fysiske verden.
 
 Alle brukere kan skaffe seg Meeds og bruke en Meeds-lommebok for å få tilgang til nye tjenester uten spesiell opplæring.
 
-[^7]: A.Preukschatt, R. Drummond "Selv-suveren identitet"
+[^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Datamodell Verifiserbar Legitimasjon
