@@ -15,9 +15,9 @@ Ada empat jenis Deed, yang tiap jenisnya memberikan kemampuan yang berbeda untuk
 
 | **Tipe Deed** | **Maksimal Pengguna** | **Kemampuan Mencetak** | **Kelangkaan** | **Hak suara kota** |
 | ------------- | --------------------- | ---------------------- | -------------- | ------------------ |
-| Common        | 100                   | 1                      | ~ 90%          | 1                  |
-| Uncommon      | 1000                  | 1.1                    | ~ 9%           | 10                 |
-| Rare          | 10 000                | 1.3                    | ~ 1%           | 100                |
+| Umum          | 100                   | 1                      | ~ 90%          | 1                  |
+| Tidak Umum    | 1000                  | 1.1                    | ~ 9%           | 10                 |
+| Langka        | 10 000                | 1.3                    | ~ 1%           | 100                |
 | Lengendary    | tak terbatas          | 2                      | < 0.1 %        | 1000               |
 
 ## 2.3. Kepemilikan Deed
@@ -128,15 +128,15 @@ Dalam WoM, Deed akan dicetak secara berkala dalam kota virtual. Hanya kota perta
 
 Sebuah kota dianggap sudah lengkap, saat semua Deed sudah dicetak. Lalu, pencetakan tiap kota baru, akan dimulai pada $2^n$ bulan setelah Deed terakhir dari $n-1$ kota yang sudah dicetak.
 
-| **Nama Kota** | **Deed**    | **Ketersediaan**    | **Common** | **Uncommon** | **Rare**  | **Lengendary** |
-| ------------- | ----------- | ------------------- | ---------- | ------------ | --------- | -------------- |
-| 1: Tanit      | 100         | T0                  | 50         | 30           | 13        | 7              |
-| 2: Reshef     | 1 000       | Tanit + 4 bulan     | 600        | 300          | 94        | 6              |
-| 3: Ashtarte   | 10 000      | Reshef + 8 bulan    | 6 000      | 3 000        | 995       | 5              |
-| 4: Melqart    | 100 000     | Ashtarte + 16 bulan | 60 000     | 30 000       | 9 996     | 4              |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 bulan  | 600 000    | 300 000      | 99 997    | 3              |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 bulan   | 6 000 000  | 3 000 000    | 999 998   | 2              |
-| 7: Hammon     | 100 000 000 | Kushor + 128 bulan  | 60 000 000 | 30 000 000   | 9 999 999 | 1              |
+| **Nama Kota** | **Deed**    | **Ketersediaan**    | **Umum**   | **Tidak Umum** | **Langka** | **Lengendary** |
+| ------------- | ----------- | ------------------- | ---------- | -------------- | ---------- | -------------- |
+| 1: Tanit      | 100         | T0                  | 50         | 30             | 13         | 7              |
+| 2: Reshef     | 1 000       | Tanit + 4 bulan     | 600        | 300            | 94         | 6              |
+| 3: Ashtarte   | 10 000      | Reshef + 8 bulan    | 6 000      | 3 000          | 995        | 5              |
+| 4: Melqart    | 100 000     | Ashtarte + 16 bulan | 60 000     | 30 000         | 9 996      | 4              |
+| 5: Eshmun     | 1 000 000   | Melqart + 32 bulan  | 600 000    | 300 000        | 99 997     | 3              |
+| 6: Kushor     | 10 000 000  | Eshmum + 64 bulan   | 6 000 000  | 3 000 000      | 999 998    | 2              |
+| 7: Hammon     | 100 000 000 | Kushor + 128 bulan  | 60 000 000 | 30 000 000     | 9 999 999  | 1              |
 
 Sebuah kota adalah cara bagi Deed untuk bersatu dan membangun komunitas. Maka, konsekuensinya mengakuisisi identitas yang jelas, terkait dengan komunitas tersebut. Hal ini juga cara menyediakan nilai tambah bagi pengguna - nilai yang akan melampaui kapasitas satu Deed atau nilai dari gabungan beberapa Deed.
 
