@@ -74,19 +74,19 @@ A fórmula evita favorecer os grandes detentores a fim de distribuir os Deeds de
 
 | **Tamanho do titular** | **Segurando**  | **Taxa de operação** |
 | ---------------------- | -------------- | -------------------- |
-| Pequena                | 1 000 xMeeds   | 28 pontos/dia        |
+| Pequeno                | 1 000 xMeeds   | 28 pontos/dia        |
 | Média                  | 10 000 xMeeds  | 164 pontos/dia       |
-| Largo                  | 100 000 xMeeds | 321 pontos/dia       |
+| Grande                 | 100 000 xMeeds | 321 pontos/dia       |
 
 
 o que leva ao seguinte tempo de retenção para cada classe de titulares :
 
-| **Tipo de cartão** | **Preço**      | **Grande Titular** | **Titular Médio** | **Pequeno Titular** |
-| ------------------ | -------------- | ------------------ | ----------------- | ------------------- |
-| Ordinárias         | 8 000 pontos   | 25 dias            | 49 dias           | 9 meses             |
-| Inusitado          | 32000 pontos   | 100 dias           | 6 meses           | 3 anos              |
-| Raros              | 50 000 pontos  | 156 dias           | 10 meses          | 5 anos              |
-| Legenda            | 100 000 pontos | 311 dias           | 20 meses          | 10 anos             |
+| **Tipo de cartão** | **Preço**      | **Grande Titular** | **Titular Médio** | **Pequeno Guardião** |
+| ------------------ | -------------- | ------------------ | ----------------- | -------------------- |
+| Ordinárias         | 8 000 pontos   | 25 dias            | 49 dias           | 9 meses              |
+| Inusitado          | 32000 pontos   | 100 dias           | 6 meses           | 3 anos               |
+| Raro               | 50 000 pontos  | 156 dias           | 10 meses          | 5 anos               |
+| Legenda            | 100 000 pontos | 311 dias           | 20 meses          | 10 anos              |
 
 ## 3.6. Governança da Meeds DAO
 
