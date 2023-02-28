@@ -14,7 +14,7 @@ jobs:
       max-parallel: 1 # Should be 1 to avoid parallel builds
       matrix:
         ##lc: [ar, cs, de, el, es-ES, et, fa, fil, fr, he, hi, hr, id, it, ja, ko, lt, nl, no, pl, pt-PT, ro, ru, sk, sl, sv-SE, th, tr, uk, vi, zh-CN, zh-TW] # Target languages https://developer.crowdin.com/language-codes/
-        lc: [ar, cs, zh-CN, nl, fr, ja, el, id, it, pl, es-ES, zh-TW, de, kr, no, pt-BR] # Target languages https://developer.crowdin.com/language-codes/
+        lc: [ar, cs, zh-CN, nl, fr, ja, el, id, it, pl, es-ES, zh-TW, de, kr, no, pt-BR, tr] # Target languages https://developer.crowdin.com/language-codes/
     steps:
       - name: Checkout
         uses: actions/checkout@v3
