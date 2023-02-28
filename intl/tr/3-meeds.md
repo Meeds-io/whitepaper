@@ -2,7 +2,7 @@
 
 Work Metaverse, para birimi olan Meeds (MEED) token tarafından desteklenmektedir. Meed'ler kullanıcıları ödüllendirmek (etkileşim programları aracılığıyla), mağazalardan satın almak, Deed almak, yatırımlardan finansal getiri elde etmek vb. için kullanılır.
 
-## 3.1. Tokenomics
+## 3.1. Token Ekonomisi
 
 Meeds **maksimum arzı, kademeli olarak basılan 100 milyon token** ile sınırlıdır. **Meedler dakikada 10 MEED oranında basılır**. Bu nedenle, tam basım ufku 20 yıla yakındır (yılda yaklaşık 10$*60*24*365 = 5M$ Meed basıldığı için).
 
@@ -57,7 +57,7 @@ Yatırımcılar, likidite sağlayarak ve Meed'leri stake ederek WoM'un oluşturu
 
 Her üye ayrıca indirimli olarak büyük miktarda Meeds'i doğrudan satın alma hakkına sahiptir. Dernek hesabına havale edilen tutar ETH'ye dönüştürülür ve eşdeğer Meeds değeri ile birlikte Likidite Havuzuna eklenir.
 
-**Staking / uzun vadeli yatırım** Uzun vadeli yatırımı teşvik etmek için, stake edilmiş Meed'ler ödüllendirilir. Meedler stake edildiğinde, stake eden kişi birkaç xMeeds jetonu alır. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings.
+**Staking / uzun vadeli yatırım** Uzun vadeli yatırımı teşvik etmek için, stake edilmiş Meed'ler ödüllendirilir. Meedler stake edildiğinde, stake eden kişi birkaç xMeeds jetonu alır. Yeni basılan Meed'ler stake sahiplerine xMeeds varlıklarıyla orantılı olarak dağıtılır. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings.
 
 Yatırımcılar Meed'leri stake ederek Deed'leri de kullanabilir (ve daha sonra katılım yoluyla para basımına katılabilir), böylece token talebini artırabilir. Kazıklanan her Meeds (xMeeds) sahibine günde bir puan kazandırır. Hak kazanma süresi ne kadar uzun olursa xMeeds başına elde edilen puan sayısı da o kadar yüksek olur. Her Deed daha sonra bir dizi puan karşılığında kullanılır.
 
