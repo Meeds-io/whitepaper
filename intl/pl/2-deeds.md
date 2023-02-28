@@ -1,26 +1,26 @@
 
 # 2. Deed NFT - Organizacje Praca Metaverse
 
-## 2.1. NFT – Deed zdefiniowane
+## 2.2. NFT – Czyny zdefiniowane
 
 Niewymienny token (NFT) to unikalny token reprezentujący towar. W WoM, Deed jest używany jako tytuł własności. Każdy Deed daje jego właścicielowi prawo dostępu do kilku usług – na przykład dostęp do cyfrowego biura obsługiwanego przez oprogramowanie Meeds oraz prawo do bicia Meeds.
 
 WoM zaprasza wszelkiego rodzaju organizacje – DAO, tradycyjne korporacje, stowarzyszenia, think tanki, spółki partnerskie, teatry, grupy projektowe, szkoły itp. Deed reprezentuje ich cyfrową egzystencję w WoM.
 
-## 2.2. Dostarczenie Deeds
+## 2.3. Dostarczenie Deeds
 
 WoM ostatecznie dostarczy ograniczoną ilość Deeds. Każdy Deed zawiera predefiniowaną maksymalną liczbę użytkowników i oferuje zdolność nagradzania Meeds (Minting Power). Termin „użytkownik” tutaj i dalej oznacza dowolny typ pracownika, pracownika, freelancera, wolontariusza itp.
 
 Istnieją cztery rodzaje Deed, z których każdy zapewnia różne możliwości pod względem liczby użytkowników, prawa głosu w mieście (patrz 2.7) lub siły mint Meeds, przy czym najrzadszy jest najpotężniejszy:
 
-| **Typ Deed** | **Maksymalna liczba użytkowników** | **Moc bicia** | **Niedostatek** | **Prawo do głosowania w mieście** |
-| ------------ | ---------------------------------- | ------------- | --------------- | --------------------------------- |
-| Powszechny   | 100                                | 1             | ~ 90%           | 1                                 |
-| Niezwykły    | 1000                               | 1.1           | ~ 9%            | 10                                |
-| Rzadki       | 10 000                             | 1.3           | ~ 1%            | 100                               |
-| Legendarny   | nieograniczony                     | 2             | < 0.1 %         | 1000                              |
+| **Typ Deed** | **Maksymalna liczba użytkowników** | **Moc bicia** | **Szuma** | **Prawo do głosowania w mieście** |
+| ------------ | ---------------------------------- | ------------- | --------- | --------------------------------- |
+| Powszechny   | 100                                | 1             | ~ 90%     | 1                                 |
+| Niezwykły    | 1000                               | 1.1           | ~ 9%      | 10                                |
+| Rzadki       | 10 000                             | 1.3           | ~ 1%      | 100                               |
+| Legendarny   | nieograniczony                     | 2             | < 0.1 %   | 1000                              |
 
-## 2.3. Deeds własności
+## 2.4. Deeds własności
 
 Deed daje właścicielowi prawo do UŻYWANIA, WYPOŻYCZANIA lub SPRZEDAŻY.
 
@@ -30,7 +30,7 @@ Deed daje właścicielowi prawo do UŻYWANIA, WYPOŻYCZANIA lub SPRZEDAŻY.
 
 Będąc aktywnym posiadaczem lub najemcą Deed, organizacja jest nagradzana Meeds, poprzez innowacyjny model „mintium” opisany poniżej (część 2.6).
 
-## 2.4. Usługi Deeds, silnik zaangażowania/nagród
+## 2.5. Usługi Deeds, silnik zaangażowania/nagród
 
 Na coraz bardziej konkurencyjnym rynku, aby przyciągnąć i zatrzymać talenty oraz zmaksymalizować ich wkład, organizacje muszą motywować swoich użytkowników poza zwykłym wynagrodzeniem. WoM zapewnia innowacyjne ramy, aby to zrobić, tokenizując zaangażowanie w pracę.
 
@@ -70,7 +70,7 @@ Posiadacz lub najemca Deed może wzbogacić swój sklep o własne bonusy, połą
 
 Sklep działa poprzez wykorzystanie Meeds, dzięki czemu Meeds są częściowo zwracane do Deed.
 
-## 2.5. Nagrody – Meeds i inne żetony
+## 2.6. Nagrody – Meeds i inne żetony
 
 WoM będzie tokenizować zaangażowanie użytkowników poprzez grywalizację cyfrowych narzędzi pracy oraz przypisywanie punktów i potrzeb związanych z zaangażowaniem w pracę. Usługi podłączone do atrybutów silnika zaangażowania i nagród dla każdego użytkownika, zgodnie z jego poziomem zaangażowania i zgodnie z programami zaangażowania każdego Deed. Rzeczywiście, każdy Deed może doprecyzować ilość punktów przyznanych za każdy rodzaj działalności. W związku z tym, wypchnięcie jakiegoś kodu w GitHub może być warte 10 punktów dla sklepu IT, podczas gdy agencja cyfrowa może przypisać tylko 5 punktów za popchnięcia GitHub, ale zaoferuje 10 punktów za retweety.
 
@@ -128,15 +128,15 @@ W WoM Akty będą generowane stopniowo w wirtualnych miastach. Od początku będ
 
 Miasto zostanie uznane za kompletne, gdy wszystkie jego Deeds zostaną wybite. Następnie bicie każdego nowego miasta rozpocznie się w ciągu 2^n$ miesięcy po wybiciu ostatniego czynu w mieście o wartości $n-1$.
 
-| **Nazwa miasta** | **Deeds**   | **Do dyspozycji**      | **Powszechny**         | **Niezwykły** | **Rzadki** | **Legendarny** |
-| ---------------- | ----------- | ---------------------- | ---------------------- | ------------- | ---------- | -------------- |
-| 1: Tanit         | 100         | T0                     | 50                     | 30            | 13         | 7              |
-| 2: Reshef        | 1 000       | Tanit + 4 miesiące     | 600                    | 300           | 94         | 6              |
-| 3: Ashtarte      | 10 000      | Reshef + 8 miesięcy    | Ashtarte + 16 miesięcy | 3 000         | 995        | 5              |
-| 4: Melqart       | 100 000     | Ashtarte + 16 miesięcy | 60 000                 | 30 000        | 9 996      | 4              |
-| 5: Eshmun        | 1 000 000   | Melqart + 32 miesiące  | 600 000                | 300 000       | 99 997     | 3              |
-| 6: Kushor        | 10 000 000  | Eszmum + 64 miesiące   | 6 000 000              | 60 000 000    | 999 998    | 2              |
-| 7: Hammon        | 100 000 000 | Kuszor + 128 miesięcy  | 60 000 000             | 30 000 000    | 9 999 999  | 1              |
+| **Nazwa miasta** | **Akty**    | **Powszechny**         | **Powszechny** | **Niezwykły** | **Rzadki** | **Legendarny** |
+| ---------------- | ----------- | ---------------------- | -------------- | ------------- | ---------- | -------------- |
+| 1: Tanit         | 100         | T0                     | 50             | 30            | 13         | 7              |
+| 2: Reshef        | 1 000       | Tanit + 4 miesiące     | 600            | 300           | 94         | 6              |
+| 3: Ashtarte      | 10 000      | Reshef + 8 miesięcy    | 6 000          | 3 000         | 995        | 5              |
+| 4: Melqart       | 100 000     | Ashtarte + 16 miesięcy | 60 000         | 30 000        | 9 996      | 4              |
+| 5: Eshmun        | 1 000 000   | Melqart + 32 miesiące  | 600 000        | 300 000       | 99 997     | 3              |
+| 6: Kushor        | 10 000 000  | Eszmum + 64 miesiące   | 6 000 000      | 3 000 000     | 999 998    | 2              |
+| 7: Hammon        | 100 000 000 | Kuszor + 128 miesięcy  | 60 000 000     | 30 000 000    | 9 999 999  | 1              |
 
 Miasto to sposób, w jaki Deeds łączą się i tworzą społeczność. A w konsekwencji nabyć pewnej tożsamości, związanej z tą społecznością. Jest to również sposób na zapewnienie użytkownikom dodatkowej wartości – wartości, która wykraczałaby poza możliwości jednego aktu lub wartość wytworzoną dzięki współpracy Deeds.
 
