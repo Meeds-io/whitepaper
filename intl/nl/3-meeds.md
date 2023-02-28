@@ -72,11 +72,11 @@ Punten worden berekend met de onderstaande formule:
 
 De formule vermijdt het bevoordelen van grote houders om de Deeds efficiënter en billijker te verdelen. De formule geeft bijvoorbeeld de volgende percentages :
 
-| **Houder Grootte** | **Houderschap** | **Opbouwpercentage** |
-| ------------------ | --------------- | -------------------- |
-| Klein              | 1 000 xMeeds    | 28 punten/dag        |
-| Middelgroot        | 10 000 xMeeds   | 164 punten/dag       |
-| Groot              | 100 000 xMeeds  | 321 punten/dag       |
+| **Houder Grootte** | **Vasthouden** | **Opbouwpercentage** |
+| ------------------ | -------------- | -------------------- |
+| Klein              | 1 000 xMeeds   | 28 punten/dag        |
+| Middelgroot        | 10 000 xMeeds  | 164 punten/dag       |
+| Groot              | 100 000 xMeeds | 321 punten/dag       |
 
 
 wat leidt tot de volgende houderstijd voor elke houderklasse :

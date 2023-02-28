@@ -1,6 +1,6 @@
 
 
-## Abstract
+## Samenvatting
 
 De huidige arbeidsmarkt is niet efficiënt genoeg vanwege de hoge transactiekosten[^1][^2][^3] en frequente belangenconflicten tussen de werkgever en de werknemer.
 
@@ -12,7 +12,7 @@ De WoM doet dat door digitale identiteiten voor zowel werkgever als werknemer in
 
 De huidige arbeidsmarkt is kapot. Zowel werknemers als werkgevers zijn niet tevreden.
 
-Aan werknemerszijde is het moeilijk de juiste banen te vinden. De arbeidsmarkt bevoordeelt bepaalde soorten mensen en laat grote vaardigheden achterwege. Dit komt door een reeks menselijke vooroordelen - op basis van ras, geslacht, handicap, introvertheid enz. De arbeidsmarkt is ook niet transparant wat betreft de beschikbare banen en de arbeidsvoorwaarden.
+Aan werknemerszijde is het moeilijk de juiste banen te vinden. De arbeidsmarkt bevoordeelt bepaalde soorten mensen en laat grote vaardigheden achterwege. Dit komt van een aantal menselijke vooroordelen - ras, geslacht, op handicaps gebaseerd, op introvert gebaseerde gebaseerde handicaps, enzovoort. De arbeidsmarkt is ook niet transparant wat betreft de beschikbare banen en de arbeidsvoorwaarden.
 
 Eenmaal in dienst worden de persoonlijke vrijheden van werknemers geschonden in ruil voor compensatie. Werknemers hebben weinig inspraak in hun werktijden, werkplek, werkinhoud of werkmethoden. En hun beloning is zelden gekoppeld aan hun werkelijke inzet of waarde. Beloningsregels zijn niet transparant en worden daarom als oneerlijk ervaren. Bovendien zijn compensatie en loopbaanontwikkeling ook afhankelijk van de menselijke factor - de goede trouw en objectiviteit van de werknemer en zijn directe manager.
 
