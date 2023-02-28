@@ -31,7 +31,7 @@ WoM i token Meeds są obsługiwane przez organizację non-profit Meeds DAO, opis
 
 W okresie bicia, **330% wybitych Meeds jest przydzielanych stowarzyszeniu Meeds.**.
 
-Członkowie stowarzyszenia mogą świadczyć usługi na rzecz stowarzyszenia na podstawie podpisanej umowy o świadczeniu usług ustalającej stawkę osobodni. Usługi są opłacane co miesiąc w Meeds na podstawie ceny rynkowej. Exemples of services include – enriching the Meeds software, developing the WoM app, developing new connectors, operating the cloud service, providing financial and legal services etc.
+Członkowie stowarzyszenia mogą świadczyć usługi na rzecz stowarzyszenia na podstawie podpisanej umowy o świadczeniu usług ustalającej stawkę osobodni. Usługi są opłacane co miesiąc w Meeds na podstawie ceny rynkowej. Do przykładów usług należą: wzbogacenie oprogramowania Meeds, rozwój aplikacji WoM, rozwój nowych połączeń, korzystanie z usług w chmurze, świadczenie usług finansowych i prawnych itp.
 
 Nie będąc członkiem, każdy Deed może uczestniczyć w tworzeniu nowego łącznika i być za to wynagradzany – najpierw poprzez stowarzyszenie Meeds, które nabywa łącznik, a następnie poprzez wybijanie przez to łącznik.
 

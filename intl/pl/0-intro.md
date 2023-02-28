@@ -1,6 +1,6 @@
 
 
-## Abstrakcyjnie
+## Abstrakcyjny
 
 Dzisiejszy rynek pracy jest mało wydajny ze względu na wysokie koszty transakcyjne[^1][^2][^3]oraz częste konflikty interesów między pracodawcą a pracownikiem.
 

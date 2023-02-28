@@ -24,7 +24,7 @@ W szczególności WoM nagradza długoterminową inwestycję odwrotną – chodzi
 
 Wierząc w projekt, udział w puli płynności, stawianie meedów, wykupywanie ich w stosunku do Deeds... wczesni inwestorzy o wszystkich rozmiarach odważyliby dodatkowe tokeny. Uzyskaliby oni również najwcześniejsze prawa głosu i pomogliby kształtować metaverse.
 
-Organizacje nabywające, ale przede wszystkim wykorzystujące Deeds do angażowania i nagradzania swoich pracowników, otrzymywałyby wynagrodzenie w wybitych Meedach. Im uczciwiej zagrają, tym więcej dostaną.  Wcześniejsi adoptujący byliby związani z pierwszymi miastami historycznymi i zostaną następnie zidentyfikowani jako budownicy.
+Organizacje nabywające, ale przede wszystkim wykorzystujące Deeds do angażowania i nagradzania swoich pracowników, otrzymywałyby wynagrodzenie w wybitych Meedach. Im uczciwiej zagrają, tym więcej dostaną. Wcześniejsi adoptujący byliby związani z pierwszymi miastami historycznymi i zostaną następnie zidentyfikowani jako budownicy.
 
 Poniższy wykres przedstawia przykład strategii inwestycyjnej Meeds dla posiadaczy kapitału:
 
