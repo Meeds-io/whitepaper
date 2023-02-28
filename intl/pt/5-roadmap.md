@@ -78,7 +78,7 @@ Como participar agora mesmo?
 - Visite nosso site [meeds.io](https://www.meeds.io/)
 - Confira o [Investor app](https://meeds.io/investors)
 - Contribuir para os pools de liquidez existentes :
-  - [Troca de Dente](https://swap.cometh.io/)
+  - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi de troca](https://sushi.com)
 - Junte-se à nossa comunidade [Disco](https://discord.com/invite/hAuADSq3) para ser mantido no circuito
 - Participe da nossa comunidade de [Builders](https://meeds.io/builders) para testar o software Meeds, engaje e ganhe algumas recompensas de engajamento

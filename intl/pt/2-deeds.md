@@ -17,7 +17,7 @@ Existem quatro tipos de Deeds, cada um fornecendo diferentes capacidades em term
 | --------------------- | ---------------- | ------------------------ | -------------- | ------------------------------ |
 | Ordinárias            | 100              | 1                        | ~ 90%          | 1                              |
 | Inusitado             | 1000             | 1.1                      | ~ 9%           | 10                             |
-| Raros                 | 10 000           | 1.3                      | ~ 1%           | 100                            |
+| Raro                  | 10 000           | 1.3                      | ~ 1%           | 100                            |
 | Legenda               | ilimitada        | 2                        | < 0.1 %        | 1000                           |
 
 ## 2.3. Propriedade das escrituras
@@ -57,9 +57,9 @@ Novos serviços podem ser conectados ao motor de recompensas através de APIs. E
 - Terminal de ponto - trabalhador de fábrica pode ganhar pontos pelo tempo de trabalho na fábrica.
 - Et cetera.
 
-Além disso, o engajamento produzido através do conector participa da pontuação global de engajamento da organização, que é um fator da distribuição de moeda Meeds, descrita abaixo. Está correto. A tradução para o português brasileiro está correta. A associação revisa o conector, aprova seu algoritmo e adquire sua propriedade contra Meeds. Em seguida, ele se torna parte dos serviços gratuitos fornecidos pela associação e é incluído no índice global de engajamento. Qualquer outra Deed pode usar o mesmo conector e o mesmo algoritmo de recompensa para seus desenvolvedores.
+Além disso, o engajamento produzido através do conector participa da pontuação global de engajamento da organização, que é um fator da distribuição de moeda Meeds, descrita abaixo. Para fazer isso, o conector precisa ser whitelisted pela Associação de Medidas. A associação revisa o conector, aprova seu algoritmo e adquire sua propriedade contra Meeds. Em seguida, ele se torna parte dos serviços gratuitos fornecidos pela associação e é incluído no índice global de engajamento. Qualquer outra Deed pode usar o mesmo conector e o mesmo algoritmo de recompensa para seus desenvolvedores.
 
-O titular ou locatário da Deed pode enriquecer sua loja com suas próprias vantagens, conectar-se a uma oferta de vantagens online, etc. Novamente, as possibilidades são infinitas:
+O titular ou locatário da Deed pode enriquecer sua loja com suas próprias vantagens, conectar-se a uma oferta de vantagens online, etc. Mais uma vez, as possibilidades são infinitas:
 
 - Cursos de capacitação
 - Afiliação ao ginásio
@@ -128,7 +128,7 @@ No WoM, as Atas serão geradas gradualmente dentro de cidades virtuais. Só a pr
 
 Uma cidade será considerada completa quando todas as suas Atas tiverem sido cunhadas. Em seguida, a cunhagem de cada nova cidade começará $2^n$ meses após a última Ata da cidade $n-1$ ter sido cunhada.
 
-| **Nome da Cidade** | **Ações**   | **Disponível em**   | **Ordinárias** | **Inusitado** | **Raros** | **Legenda** |
+| **Nome da Cidade** | **Ações**   | **Disponível em**   | **Ordinárias** | **Inusitado** | **Raro**  | **Legenda** |
 | ------------------ | ----------- | ------------------- | -------------- | ------------- | --------- | ----------- |
 | 1: Tanit           | 100         | T0                  | 50             | 30            | 13        | 7           |
 | 2: Reshef          | 1 000       | Tanit + 4 meses     | 600            | 300           | 94        | 6           |
