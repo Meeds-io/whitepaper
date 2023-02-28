@@ -72,11 +72,11 @@ Los puntos se calculan mediante la siguiente fórmula :
 
 La fórmula evita favorecer a los grandes tenedores para distribuir los Deeds de forma más eficiente y equitativa. Por ejemplo, la fórmula da los siguientes índices :
 
-| **Tamaño del Titular** | **Holdings**   | **Tasa de Acumulación** |
-| ---------------------- | -------------- | ----------------------- |
-| Pequeño                | 1 000 xMeeds   | 28 puntos/día           |
-| Medio                  | 10 000 xMeeds  | 164 puntos/día          |
-| Large                  | 100 000 xMeeds | 321 puntos/día          |
+| **Tamaño del Titular** | **Propiedades** | **Tasa de Acumulado** |
+| ---------------------- | --------------- | --------------------- |
+| Pequeño                | 1 000 xMeeds    | 28 puntos/día         |
+| Medio                  | 10 000 xMeeds   | 164 puntos/día        |
+| Grande                 | 100 000 xMeeds  | 321 puntos/día        |
 
 
 lo que conduce al siguiente tiempo de retención para cada clase de titular :
@@ -86,7 +86,7 @@ lo que conduce al siguiente tiempo de retención para cada clase de titular :
 | Común             | 8 000 puntos   | 25 días          | 49 días           | 9 meses             |
 | Poco común        | 32 000 puntos  | 100 días         | 6 meses           | 3 años              |
 | Raro              | 50 000 puntos  | 156 días         | 10 meses          | 5 años              |
-| Lengendario       | 100 000 puntos | 311 días         | 20 meses          | 10 años             |
+| Legendario        | 100 000 puntos | 311 días         | 20 meses          | 10 años             |
 
 ## 3.6. Gobernanza de Meeds DAO
 

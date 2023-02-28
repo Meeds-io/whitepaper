@@ -52,7 +52,7 @@ Este documento se publicó el día del lanzamiento. Tras el lanzamiento, el toke
 
 ## 5.4. La comunidad de builders
 
-Estamos lanzando la comunidad de constructores en el software Meeds y en Discord. La comunidad da la bienvenida a todo aquel que quiera participar en la construcción del Work Metaverse La asociación recompensaría el compromiso de los constructores con Meeds, con cargo a su presupuesto de marketing.
+Estamos lanzando la comunidad de constructores en el software Meeds y en Discord. La comunidad da la bienvenida a todo aquel que quiera participar en la construcción del Work Metaverse La asociación recompensaría el compromiso de los constructores con Meeds, con cargo a su presupuesto de marketing. La asociación recompensaría el compromiso de los constructores con Meeds, de su presupuesto de marketing.
 
 La asociación planea también estacar algunos Meeds con el fin de adquirir (redimir) un Deeda para la comunidad de constructores. A continuación, la comunidad acuñará Meeds por compromiso, mediante el modelo mintium, y los distribuirá entre los usuarios comprometidos.
 
