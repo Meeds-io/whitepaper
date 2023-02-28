@@ -2,7 +2,7 @@
 
 ## Sažetak
 
-Današnjem tržištu rada nedostaje učinkovitosti zbog visokih transakcijskih troškova[^1][^2]<sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</5 ></sup> te čestim sukobima interesa između poslodavca i zaposlenika.</p> 
+Današnjem tržištu rada nedostaje učinkovitosti zbog visokih transakcijskih troškova\[^1\]\[^2\]<sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</5></sup> te čestim sukobima interesa između poslodavca i zaposlenika.</p> 
 
 <p spaces-before="0">
   Work Metaverse (Wome) predlaže novu paradigmu koja bi smanjila transakcijske troškove i ponovno osmislila radni odnos, premošćujući jaz između tradicionalnih korporacija i DAO-ova.
@@ -37,7 +37,7 @@ Današnjem tržištu rada nedostaje učinkovitosti zbog visokih transakcijskih t
 </p>
 
 <p spaces-before="0">
-  Štoviše, poslodavci se također suočavaju s niskim angažmanom svojih postojećih zaposlenika, što dovodi do niske kreativnosti, produktivnosti i inovativnosti. Potonje nanosi još veću štetu u današnjoj ekonomiji koja zahtijeva vještiji kreativni rad.
+  Štoviše, poslodavci se također suočavaju s niskim angažmanom svojih postojećih zaposlenika, što dovodi do niske kreativnosti, produktivnosti i inovativnosti. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
 </p>
 
 <p spaces-before="0">

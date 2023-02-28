@@ -65,28 +65,28 @@ Points are calculated using the formula below :
 
  $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
 
- where :
+ gdje :
 
 - $xMeeds$ : xMeeds balance  with no decimals
 - $T$ : Time elapsed in milliseconds
 
 The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably. For example, the formula gives the following rates :
 
-| **Holder Size** | **Holdings**   | **Accrue Rate** |
+| **Holder Size** | **Imovina**    | **Accrue Rate** |
 | --------------- | -------------- | --------------- |
-| Small           | 1 000 xMeeds   | 28 pts/day      |
-| Medium          | 10 000 xMeeds  | 164 pts/day     |
-| Large           | 100 000 xMeeds | 321 pts/day     |
+| Maleno          | 1 000 xMeeds   | 28 pts/day      |
+| Srednje         | 10 000 xMeeds  | 164 pts/day     |
+| Veliki          | 100 000 xMeeds | 321 pts/day     |
 
 
 which leads to the following holding time for each class of holder :
 
-| **Card Type** | **Cost**       | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ------------- | -------------- | ---------------- | ----------------- | ---------------- |
-| Uobičajen     | 8 000 pts      | 25 days          | 49 days           | 9 months         |
-| Neuobičajeno  | 32 000 pts     | 100 dana         | 6 mjeseci         | 3 godine         |
-| Rijetko       | 50 000 bodova  | 156 dana         | 10 mjeseci        | 5 godine         |
-| Legendarno    | 100 000 bodova | 311 dana         | 20 mjeseci        | 10 godine        |
+| **Vrsta kartice** | **Cijena**     | **Large Holder** | **Medium Holder** | **Small Holder** |
+| ----------------- | -------------- | ---------------- | ----------------- | ---------------- |
+| Uobičajen         | 8 000 bodova   | 25 dana          | 49 dana           | 9 mjeseci        |
+| Neuobičajeno      | 32 000 bodova  | 100 dana         | 6 mjeseci         | 3 godine         |
+| Rijetko           | 50 000 bodova  | 156 dana         | 10 mjeseci        | 5 godine         |
+| Legendarno        | 100 000 bodova | 311 dana         | 20 mjeseci        | 10 godine        |
 
 ## 3.6. Vladanje Meeds DAO
 
