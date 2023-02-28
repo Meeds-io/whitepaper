@@ -11,4 +11,4 @@ K vybudování WoM a Meeds využívá sdružení platformu Ethereum a její ekos
 
 Sdružení je strukturováno jako decentralizovaná autonomní organizace (DAO), kde držitelé tokenů řízení každý rok hlasují o všech důležitých organizačních změnách, jako je volba představenstva.
 
-Kromě správy tokenů Meeds je sdružení držitelem duševního vlastnictví (IP) softwaru Meeds [github.com/meeds-io](https://github.com/meeds-io), dostupný pod licencí LGPL a distribuovaný zdarma. Ten zahrnuje aplikaci peněženky Ethereum, kterou mohou uživatelé používat k ukládání a transakcím se svými Meedy (další podrobnosti viz část 2.4). Asociace Meeds také provozuje cloudovou hostingovou službu pro více nájemců využívající tento software.
+Vedle řízení Meeds token je sdružení součástí Intellectual Property (IP) softwaru Meeds [github. om/meeds-io](https://github.com/meeds-io), dostupný pod licencí LGPL a distribuovaný zdarma. Tato aplikace obsahuje peněženku Ethereum, kterou mohou uživatelé používat k ukládání a provádění svých Meeds (další podrobnosti viz oddíl 2.4). Asociace Meeds také provozuje mnohonásobný cloudový hosting, který tento software využívá.
