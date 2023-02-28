@@ -32,7 +32,7 @@ Pengguna akan dapat membagikan Xeed, Badge, dan Sertifikasinya dengan Deeds lain
 
 Seorang pengguna dapat memiliki satu atau beberapa identitas digital dalam WoM. Dia bisa nantinya menyajikan mereka dengan cara terpadu menggunakan presentasi yang terverifikasi.
 
-Berlawanan dengan web 2, pengguna memiliki kepemilikan penuh atas identitas terdesentralisasinya. Yang terakhir dapat menunjukkan (dan membuktikan) tindakan yang ia ikuti, keahlian yang terbukti, keahlian yang diklaim, Xeeds (orang) lain yang bekerja dengannya, representasi digital dirinya... Dengan cara yang dapat dipercaya LinkedIn 3.0.
+Berlawanan dengan web 2, pengguna memiliki kepemilikan penuh atas identitas terdesentralisasinya. Yang terakhir dapat menunjukkan (dan membuktikan) tindakan yang ia ikuti, keahlian yang terbukti, keahlian yang diklaim, Xeeds (orang) lain yang bekerja dengannya, representasi digital dirinya... In a manner of trustworthy LinkedIn 3.0.
 
 Pengguna akan dapat memilih apakah akan mengungkapkan sesuatu atau tidak, informasi apa yang akan diberikan, dan identitas apa yang akan digunakan untuk setiap posisi. Isi (keahlian terbukti, tindakan sebelumnya, dll.) tidak bisa diubah dan sudah terjamin keamanannya. Setiap identitas harus dikembangkan dalam waktu yang panjang.
 
@@ -60,5 +60,5 @@ Benar-benar, setiap keterlibatan pekerjaan dapat potensial tertokenisasi. Faktan
 
 Setiap pengguna dapat mendapatkan Meeds dan menggunakan dompet Meeds untuk mendapatkan akses ke layanan zaman baru tanpa pelatihan khusus.
 
-[^7]: A.Preukschatt, R. Drummond Identitas Otonomi Pribadi
-[^8]: Model Data Sertifikat Terverifikasi
+[^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
+[^8]: Verifiable Credentials Data Model
