@@ -39,7 +39,7 @@ Her Deed sahibi veya kiracısı, Deed'in önceliklerine göre ince ayarlanabilen
 Başlangıç olarak, Meeds derneği tarafından sağlanan aşağıdaki ücretsiz hizmetler katılımı ödüllendirmek için kullanılabilir:
 
 - **Oyunlaştırma motoru** - WoM içindeki otomatik eylemlerin puan cinsinden bir ağırlığı vardır ve özelleştirilebilir angajman programları aracılığıyla Deed'in önceliklerine göre ince ayar yapılabilir.
-- **Zorluklar** - başarıları temsil etmek için özelleştirilebilir zorluklar ayarlanabilir. Challenges are preset by one person and can be full-filled and announced as such by another. Zorluklar, özelleştirilebilir katılım programları dahilinde puan olarak bir ağırlık taşır.
+- **Zorluklar** - başarıları temsil etmek için özelleştirilebilir zorluklar ayarlanabilir. Meydan okumalar bir kişi tarafından önceden belirlenir ve bir başkası tarafından doldurulabilir ve bu şekilde ilan edilebilir. Zorluklar, özelleştirilebilir katılım programları dahilinde puan olarak bir ağırlık taşır.
 - **Özelleştirilebilir katılım programları** - kuruluşlar iş hedeflerine ve önceliklerine uygun kendi katılım programlarını oluşturabilirler. Programlar, sistem içindeki otomatik eylemlerle ve manuel olarak ayarlanan zorluklarla ilişkilendirilir. Her programın belirli bir Meeds bütçesi vardır. Her bir katılım programında otomatik veya duyurulan eylemler yoluyla her bir kullanıcı tarafından kazanılan puanlar, o programın bütçesine göre periyodik olarak Meed'lere dönüştürülür.
 - **Kudos** - kudos, teşekkür ve takdir göstergesi olarak kullanıcılar tarafından birbirlerine verilebilir. Dağıtılabilecek kudos sınırlı olduğundan (önceden belirlenmiş bir periyodik limit, örneğin haftada 3), nadir ve değerlidirler. Eylemler gibi, övgüler de puan taşır. Bu şekilde çalışanlar, iş arkadaşlarını ödüllendirme konusunda yetkilendirilmiş olurlar.
 - Ödüllendirme motoruna takılan **İşbirliği** araçları - çalışma alanları, eşzamansız iletişim, bir görev yönetim aracı ve notlar - insanların projeler üzerinde birlikte çalışmasını sağlar.
@@ -54,8 +54,8 @@ API'ler aracılığıyla ödül motoruna yeni hizmetler eklenebilir. Örnekler s
 
 - CRM yazılımı - satış elemanları fırsatlar üzerinde çalıştıkları için etkileşim puanları alırlar.
 - Muhasebe yazılımı - muhasebeciler defter tutmak için nişan puanları alacaklardır.
-- Clocking terminal – factory worker can get points for factory work time.
-- Vb.
+- Saatli terminal – fabrika işçisi fabrika çalışma süresi için puan alabilir.
+- Vesaire.
 
 Ayrıca, bağlayıcı aracılığıyla üretilen bağlılık, kuruluşun küresel bağlılık puanına katılır ve bu da Meeds basım dağılımının bir faktörüdür. aşağıda. Bunu yapabilmek için konektörün Meeds Association tarafından beyaz listeye alınması gerekir. Dernek konektörü inceler, algoritmasını onaylar ve Meeds'e karşı mülkiyetini alır. Daha sonra dernek tarafından sağlanan ücretsiz hizmetlerin bir parçası haline gelir ve küresel katılım endeksine dahil edilir. Başka herhangi bir Deed, geliştiricileri için aynı bağlayıcıyı ve aynı ödül algoritmasını kullanabilir.
 
@@ -66,7 +66,7 @@ Deed sahibi veya kiracısı, mağazasını kendi avantajlarıyla zenginleştireb
 - Tatil paketleri
 - Organizasyondaki bir liderle öğle yemeği
 - Fiziksel ofis alanı
-- Vb.
+- Vesaire.
 
 Mağaza Meed'lerin kullanımıyla çalışır, böylece Meed'ler kısmen Deed'e iade edilir.
 
