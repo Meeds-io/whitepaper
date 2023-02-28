@@ -12,7 +12,7 @@ O WoM faz isso introduzindo identidades digitais tanto para o empregador quanto 
 
 O mercado de trabalho hoje está quebrado. Ela não satisfaz tanto os funcionários quanto os empregadores.
 
-Do lado do empregado, é difícil encontrar os empregos certos. Do lado do empregado, é difícil encontrar os empregos certos. Isto vem de um conjunto de preconceitos humanos - baseados em raça, gênero, deficiência, introvertido, etc. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
+Do lado do empregado, é difícil encontrar os empregos certos. O mercado de trabalho favorece certos tipos de indivíduos, deixando atrás de si grandes competências. Isto vem de um conjunto de preconceitos humanos - baseados em raça, gênero, deficiência, introvertido, etc. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions. O mercado de trabalho também carece de transparência no que se refere às posições e condições de emprego disponíveis.
 
 Uma vez empregado, as liberdades pessoais do funcionário são violadas em troca de uma compensação. Os funcionários têm pouco a dizer em seu horário, local, conteúdo ou métodos de trabalho. E sua compensação raramente está ligada à sua real implicação ou valor. As regras de compensação carecem de transparência e, portanto, são percebidas como injustas. Além disso, a remuneração e o progresso na carreira também dependem do fator humano - a boa fé e a objetividade do gerente imediato do funcionário.
 
