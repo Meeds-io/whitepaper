@@ -61,4 +61,4 @@ Aslında, her türlü iş ilişkisi potansiyel olarak tokenize edilebilir. Aslı
 Herhangi bir kullanıcı Meeds alabilir ve herhangi bir özel eğitim almadan yeni çağ hizmetlerine erişmek için bir Meeds cüzdanı kullanabilir.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
-[^8]: Doğrulanabilir Kimlik Bilgileri Veri Modeli
+[^8]: Verifiable Credentials Data Model

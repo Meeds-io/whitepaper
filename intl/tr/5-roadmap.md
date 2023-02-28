@@ -76,7 +76,7 @@ Katılmak için şu anda ne yapabilirsiniz?
 
 - Bu makaleyi ilgilenenlere dağıtın
 - Web sitemizi ziyaret edin [meeds.io](https://www.meeds.io/)
-- [Yatırımcı uygulamasına göz atın](https://meeds.io/investors)
+- https://meeds.io/investors
 - Buradaki mevcut likidite havuzlarına katkıda bulunun:
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
