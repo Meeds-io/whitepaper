@@ -16,7 +16,7 @@ V današnjem svetu je težko vnaprej dokazati svoje znanje. Ko se ljudje oglašu
 
 Metaverse za delo zagotavlja bolj pregledno in nespremenljivo sredstvo, s katerim lahko ljudje pridobivajo in dokazujejo svoje sposobnosti.
 
-Značke se uporabljajo za predstavitev dosežkov, doseženih v okviru Deed. Ko uporabniki izpolnijo niz ciljev ali izzivov, prejmejo točke.  Značke je mogoče odkleniti z zbiranjem določenega števila točk v določenih kategorijah.
+Značke se uporabljajo za predstavitev dosežkov, doseženih v okviru Deed. Ko uporabniki izpolnijo niz ciljev ali izzivov, prejmejo točke. Značke je mogoče odkleniti z zbiranjem določenega števila točk v določenih kategorijah.
 
 Ko uporabnik prenese značke, je mogoče vključiti število točk in njegovo uvrstitev v Deed za ta poseben dosežek.
 
@@ -32,7 +32,7 @@ Uporabnik bo lahko delil svoj Xeed, značke in pooblastila z drugimi Deeds, da b
 
 Uporabnik ima lahko v WoM eno ali več digitalnih identitet. Pozneje jih lahko predstavi na enoten način z uporabo preverjenih predstavitev.
 
-V nasprotju s web 2 je uporabnik v celoti lastnik svojih decentraliziranih identitet.  Slednje lahko prikažejo (in dokažejo) Deeds, pri katerih je sodeloval, njegova dokazana znanja, njegova deklarirana znanja, druge Xeede (ljudi), s katerimi je sodeloval, njegovo digitalno predstavitev samega sebe... Na način zaupanja vrednega LinkedIna 3.0.
+V nasprotju s web 2 je uporabnik v celoti lastnik svojih decentraliziranih identitet. Slednje lahko prikažejo (in dokažejo) Deeds, pri katerih je sodeloval, njegova dokazana znanja, njegova deklarirana znanja, druge Xeede (ljudi), s katerimi je sodeloval, njegovo digitalno predstavitev samega sebe... Na način zaupanja vrednega LinkedIna 3.0.
 
 Uporabnik bo lahko izbral, ali bo kaj razkril ali ne, katere informacije bo navedel in katere identitete bo uporabil za posamezno delovno mesto. Vsebina (dokazane spretnosti, prejšnja Deeds itd.) je odporna na prirejanje, zato je ni bilo mogoče spremeniti. Vsako identiteto bi bilo treba razviti sčasoma.
 
@@ -40,7 +40,7 @@ Uporabnik bo lahko izbral, ali bo kaj razkril ali ne, katere informacije bo nave
 
 V okviru te paradigme trg dela prihodnosti uporabnikom omogoča, da se prosto gibljejo in dodeljujejo/prodajajo svoje sodelovanje med Deeds - tako kot to počnejo v fizičnem svetu z menjavo delodajalcev. Vendar pa bi bilo na WoM njihovo sodelovanje oprijemljivo, izmerjeno in pošteno nagrajeno. Z gibanjem med sistemi, ki sledijo podobni logiki, bodo bolje razumeli pravila igre in delodajalce ocenjevali pošteno - trava drugje ni vedno bolj zelena. Uporabniki bodo lahko izbrali, kateri Deed zagotavlja boljše pogoje za nagrajevanje zavzetosti, pripada privlačnejšemu mestu itd.
 
-Na njihovi strani lahko imetniki/najemniki Deedov iščejo ustrezna znanja z uporabo omrežja WoM digitalnih delovnih identitet (ki so se jih uporabniki odločili razkriti) Na podlagi preverjenih in podrobnih informacij o delovni zgodovini, delovnih spretnostih in stopnji zavzetosti uporabnika bodo lahko učinkoviteje iskali spretnosti.
+Na njihovi strani lahko imetniki/najemniki Deedov iščejo ustrezna znanja z uporabo omrežja WoM digitalnih delovnih identitet (ki so se jih uporabniki odločili razkriti). Na podlagi preverjenih in podrobnih informacij o delovni zgodovini, delovnih spretnostih in stopnji zavzetosti uporabnika bodo lahko učinkoviteje iskali spretnosti.
 
 ## 4.5. Otipljivo in pregledno priznanje
 
@@ -60,5 +60,5 @@ Pravzaprav je mogoče vsakršno delovno angažiranost potencialno tokenizirati. 
 
 Vsak uporabnik lahko dobi Meeds in uporabi denarnico Meeds za dostop do novodobnih storitev brez posebnega usposabljanja.
 
-[^7]: A.Preukschatt, R. Drummond "Samostojna identiteta"
+[^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Podatkovni model preverljivih pooblastil
