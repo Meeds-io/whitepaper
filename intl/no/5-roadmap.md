@@ -1,4 +1,4 @@
-# 5. Arbeidsmetavers for ALLE – visjonsoppsummering og milepæler
+# 5. Work Metaverse for ALLE - sammendrag av visjonen og milepæler
 
 ## 5.1. Ultimat mål – desentralisert steg for alle
 
@@ -68,7 +68,7 @@ Vårt veikart vil følge den prioriterte rekkefølgen nedenfor:
 
 Vi regner tidlig med vedtektene fra DAOs og tech-savvy selskaper i byggefasen. Vi burde også ha en tidlig innføring i tradisjonelle selskaper som får umiddelbar verdi fra metaverse ved å gi relevante program til sine mennesker, i tillegg til sine gjeldende tradisjonelle kompensasjonsplaner.
 
-Meeds minting spans a 20 year period. På den tiden foretrekker vi å bygge et moden metaverse, ha spredt seg til mange organisasjoner og mange brukere verden over.
+Meeds preging strekker seg over en 20 års periode. På den tiden foretrekker vi å bygge et moden metaverse, ha spredt seg til mange organisasjoner og mange brukere verden over.
 
 ## 5.6. Hva du kan gjøre akkurat nå
 

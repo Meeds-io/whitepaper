@@ -32,7 +32,7 @@ Brukeren vil kunne dele sin Xeed, Merker og legitimasjon med andre Deeds for å 
 
 En bruker kan ha én eller flere digitale identiteter i WoM. Han kunne senere presentere dem på en enhetlig måte ved hjelp av verifiserte presentasjoner.
 
-I motsetning til web 2 er brukeren i fullt eierskap til sine desentraliserte identitet. Sistnevnte kan vise (og prove) Deeds han deltok i, sine påviste ferdigheter, sin anerkjente kompetanse, andre Xeeds (mennesker) han samarbeidet med, sin digitale representasjon av seg selv... In a manner of trustworthy LinkedIn 3.0.
+I motsetning til web 2 er brukeren i fullt eierskap til sine desentraliserte identitet. Sistnevnte kan vise (og prove) Deeds han deltok i, sine påviste ferdigheter, sin anerkjente kompetanse, andre Xeeds (mennesker) han samarbeidet med, sin digitale representasjon av seg selv... På en måte som en pålitelig LinkedIn 3.0.
 
 Brukeren vil kunne velge om han skal vise noe eller ikke, hvilken informasjon brukeren skal gi, og hvilken identitet som skal brukes for hver posisjon. Innholdet (bevist ferdighet, tidligere dekeds, osv.) er godkjent og kunne ikke endres. Enhver identitet må utvikles over tid.
 
