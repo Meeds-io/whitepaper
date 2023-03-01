@@ -2,7 +2,7 @@
 
 ## 초록
 
-오늘날의 작업 시장은 높은 거래 비용 때문에 효율성이 떨어집니다.[^1][^2]<sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</5 ></sup> 그리고 고용주와 고용인 간의 빈번한 이해 충돌.</p> 
+오늘날의 작업 시장은 높은 거래 비용 때문에 효율성이 떨어집니다.\[^1\]\[^2\]<sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</5></sup> 그리고 고용주와 고용인 간의 빈번한 이해 충돌.</p> 
 
 <p spaces-before="0">
   Work Metaverse(the WoM)는 거래 비용을 낮추고 고용 관계를 재창조하여 전통적인 기업과 DAO 간의 격차를 해소하는 새로운 패러다임을 제안합니다.
