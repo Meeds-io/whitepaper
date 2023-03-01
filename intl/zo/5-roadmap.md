@@ -1,6 +1,6 @@
-# 5. 所有人的工作元宇宙——愿景摘要和里程碑
+# 5. 所有人的工作元宇宙——願景總結和里程碑
 
-## 5.1. 最終目標 - 每個人的去中心化網絡
+## 5.1. 最终目标--为每个人提供去中心化的网络
 
 最後，WoM 是一個適合所有人的去中心化網絡世界——每個人和每個組織。
 
@@ -78,7 +78,7 @@ Meeds 鑄造跨越 20 年。 到那時，我們渴望實現構建一個成熟的
 - 訪問我們的網站 [meeds.io](https://www.meeds.io/)
 - 查看[Investor 應用](https://meeds.io/investors)
 - 為現有的流動資金池做出貢獻：
-  - [交換](https://swap.cometh.io/)
+  - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
 - 加入我們的 [Discord](https://discord.com/invite/hAuADSq3) 社區，了解最新消息
 - 加入我們的 [Builders](https://meeds.io/builders) 社區來測試 Meeds 軟件，參與並獲得一些 Meeds 參與獎勵
