@@ -37,7 +37,7 @@ Današnjem tržištu rada nedostaje učinkovitosti zbog visokih transakcijskih t
 </p>
 
 <p spaces-before="0">
-  Štoviše, poslodavci se također suočavaju s niskim angažmanom svojih postojećih zaposlenika, što dovodi do niske kreativnosti, produktivnosti i inovativnosti. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
+  Štoviše, poslodavci se također suočavaju s niskim angažmanom svojih postojećih zaposlenika, što dovodi do niske kreativnosti, produktivnosti i inovativnosti. Potonje nanosi još veću štetu u današnjoj ekonomiji koja zahtijeva vještiji kreativni rad.
 </p>
 
 <p spaces-before="0">
