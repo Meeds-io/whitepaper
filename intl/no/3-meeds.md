@@ -1,17 +1,17 @@
 # 3. Meeds token – Work Metaverse valuta
 
-Arbeidene Metaverse drives av sin valuta – the Meeds (MEED) token. Midler brukes til å belønne brukere (gjennom program for engasjement), kjøp i butikker, få Deeds, få økonomisk avkastning på investeringer osv.
+Work Metaverse drives av sin egen valuta - Meeds (MEED) token. Meeds brukes til å belønne brukere (gjennom engasjementsprogrammer), kjøpe i butikker, få Deeds, få økonomisk avkastning på investeringer osv.
 
 ## 3.1. Tokenomikk
 
-Møtene **maksimalt leveranse er begrenset til 100 millioner tokens**, muligens progressivitet. **Meeds er minet med 10 MEED per minutt**. Derfor er den fulle uttakshorisonten nær 20 år (som omkring $10*60*24*365 = 5M$ Meeds er minket per år).
+Meeds **maksimalt leveranse er begrenset til 100 millioner tokens**, myntet progressivitet. **Meeds er minet med 10 MEED per minutt**. Derfor er hele mynted nær 20 år (ettersom rundt $10*60*24*365 = 5M$ Meeds preges per år).
 
-5 millioner Meeds (5 % av total forsyning) er hittil i dag. Herav er 4,5M låst i en hvelvskontrakt med lineær avhendelse over 4 år. Det forhåndsminterte beløpet ble hovedsakelig brukt til å anskaffe programvare IP, lønn for token utslipps juridiske avgifter og verts-tjenester.
+5 millioner Meeds (5 % av den totale forsyningen) er hittil preget på forhånd. Herav har 4,5 millioner blitt låst i en hvelvkontrakt med en lineær opptjening over 4 år. Det forhåndsutstedte beløpet ble hovedsakelig brukt til å anskaffe programvare-IP, betale for tokenutstedelsens juridiske avgifter og hosting-tjenester.
 
 Resten er en del av __Meeds DAO funds__ og vil bli brukt til å betale for tjenester, samt en del lansering av insentiver som for eksempel flyreiser og henvisningskampanjer.
 
 
-## 3.2. Minting allocation
+## 3.2. Tildeling av mynter
 
 Myntede Meeds tildeles for å oppmuntre til involvering av de tre kategoriene av interessenter - brukerne, utbyggerne og investorene:
 
@@ -19,15 +19,15 @@ Myntede Meeds tildeles for å oppmuntre til involvering av de tre kategoriene av
 - Utbyggere (medlemmer av foreningen og lokalsamfunnet) får Meeds gjennom foreningens midler til å bygge, drive og forbedre WoM.
 - Investorer mint Meeds gjennom leie og kjøp av likviditetspooler og staking Meeds.
 
-I begynnelsen får byggerne 30 % av tildelingen. 70 prosent deles mellom brukerne og investorene. Denne tildelingsandelen vil bli vurdert regelmessig, gjennom Avdeling for DAO for øvrig.
+I begynnelsen får utbyggerne 30 % av tildelingen. De 70 % deles mellom brukerne og investorene. Denne tildelingsandelen vil bli gjennomgått regelmessig gjennom Meeds-foreningens DAO-avstemning.
 
-## 3.3. Brukerne – graving med engasjement
+## 3.3. Brukere - preging gjennom engasjement
 
-Deler av det kontinuerlege minerte Meeds er allokert til den engasjerende kanalen. Fordelingen gjøres ukentlig. Notifikasjonsindeksen kalkuleres når som helst, og Deeds kan kreve belønninger den neste uken og få meedien deres. Uavklarte Meeds forblir i fondet og legges til neste ukes fordeling. Modellen er nærmere beskrevet i forrige kapittel (del 2.6).
+En del av de kontinuerlig pregede Meeds er allokert til engasjementspregingskanalen. Fordelingen skjer ukentlig. Ed en gitt ukeslutt beregnes engasjementsindeksen, og Deeds kan kreve sine belønninger den påfølgende uken og få sine Meeds. Uavhentede Meeds forblir i fondet og legges til neste ukes utdeling. Modellen er beskrevet i detalj i forrige kapittel (del 2.6).
 
-## 3.4. Byggere – Meeds association DAO and community of builders
+## 3.4. Byggherrer - Meeds-foreningen DAO og fellesskapet av byggherrer
 
-WoM og Meeds token drives av non-profit Meeds Association DAO, innført ovenfor. En multisig kontrakt kalt _Meeds DAO Funds_ brukes til å administrere assosiasjonens driftskostnader.
+WoM og Meeds-token drives av den ideelle organisasjonen Meeds Association DAO, introdusert ovenfor. En multisig kontrakt kalt _Meeds DAO Funds_ brukes til å administrere assosiasjonens driftskostnader.
 
 I mynteperioden, **30% av de gruvedrtede midlene er allokert til Meeds forening**.
 
@@ -35,9 +35,9 @@ Foreningen kan yte tjenester til foreningen med utgangspunkt i en avtale om en a
 
 Uten å være medlem kan enhver Deed delta i opprettelsen av en ny konnektor og bli belønnet for å gjøre det - først ved at Meeds-foreningen kjøper konnektoren og deretter ved å prege gjennom denne konnektoren.
 
-The association operates a Builders community that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. Sammenhengen vil sponsere fellesskapet ut av sitt budsjett, kompensere for fellesskapets medlemmer.
+Foreningen driver et byggersamfunn som tar imot WoM-entusiaster som ønsker å bidra til opprettelsen av WoM. Foreningen vil sponse fellesskapet fra sitt budsjett og kompensere for engasjementet til medlemmene i fellesskapet.
 
-Dermed vil fellesskapet fungere som et eksempel på en avdeling som skal tilby et standardsett av tjenester som foreningen gjør. Assosiasjonen spiller for å løse inn en «Deed» for samfunnet. Da vil samfunnet også delta i den engasjerende forestillingen som enhver annen avdeling.
+Dermed vil fellesskapet fungere som et eksempel på en Deed, og tilby et standardsett med tjenester som tilbys av foreningen. Foreningen setter inn Meeds for å innløse en Deed for lokalsamfunnet. Samfunnet vil da også delta i engasjementspregingen som enhver annen Deed.
 
 Etter at pregingsperioden er over, vil foreningen opprettholdes av :
 
@@ -49,7 +49,7 @@ Etter at pregingsperioden er over, vil foreningen opprettholdes av :
 - ved å drifte Deeds som foreningen har preget over tid.
 
 
-## 3.5. Investors
+## 3.5. Investorer
 
 Investorer bidrar til å skape WoM ved å tilføre likviditet og ved å investere i større grad stabiliserer prisnivået i byggeperioden. Begge oppfordres gjennom gruvedrift.
 
@@ -88,7 +88,7 @@ som fører til følgende holdetid for hver innehaverklasse :
 | Sjelden      | 50 000 poeng  | 156 dager          | 10 måneder            | 5 år                |
 | Legendarisk  | 100 000 poeng | 311 dager          | 20 måneder            | 10 år               |
 
-## 3.6. Meeds DAO governance
+## 3.6. Styring av Meeds DAO
 
 Innehavere av Meeds-tokens må sette inn tokens for å kunne stemme over Meeds DAO-beslutninger som å forvalte myntebudsjettet eller velge styremedlemmer i DAO (årlig mandat).
 

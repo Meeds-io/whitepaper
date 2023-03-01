@@ -37,7 +37,7 @@ Dagens arbeidsmarked mangler effektivitet på grunn av høye transaksjonskostnad
 </p>
 
 <p spaces-before="0">
-  I tillegg har arbeidsgivere også et lavt engasjement i sine nåværende ansatte, noe som gir lav kreativitet, produktivitet og innovasjon. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
+  I tillegg har arbeidsgivere også et lavt engasjement i sine nåværende ansatte, noe som gir lav kreativitet, produktivitet og innovasjon. Sistnevnte påfører desto mer skade i dagens økonomi som krever mer dyktig kreativt arbeid.
 </p>
 
 <p spaces-before="0">
