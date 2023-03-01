@@ -98,7 +98,7 @@ Kde:
 - $U$ = _Zapojení používatelia_ - používatelia, ktorí počas týždňa prispeli k bodom aspoň jednou akciou.
 - $U$ = _Zapojení používatelia_ - používatelia, ktorí počas týždňa prispeli aspoň jednou akciou k bodom
 - $E_w$ = _Priemerná miera zapojenia_ všetkých aktívnych Deedow vo WoM.
-- $E_w$ = _Priemerná miera zapojenia_ všetkých aktívnych činov vo WoM. Toto % môže byť vyššie ako 100, ak sa distribúcia oneskorí v čase.
+- $D_r$ = _Miera distribúcie_ – ak Listina prijala vyrazené Meedy za predchádzajúce obdobie, % Meedov, ktoré boli distribuované svojim používateľom. Toto % môže byť vyššie ako 100, ak sa distribúcia oneskorí v čase.
 - $D_s$ = _Rozpätie distribúcie_ - ak listina dostala za predchádzajúce obdobie vyrazené Meedy, % používateľov, ktorí dostali Meedy, z celkového počtu používateľov.
 - $M$ = _Mincovacie právo_ právneho Deedu podľa definície v bode 2.3
 
