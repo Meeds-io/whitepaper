@@ -98,7 +98,7 @@ Gdje :
 - $U$ = _Engaged users_ - korisnici koji su pridonijeli bodovima tijekom tjedna, barem jednom radnjom.
 - $E_d$ = _Engagement rate of the deed_ - akcije po korisniku ($A/U$)
 - $E_w$ = _Average engagement rate_ svih aktivnih Deeds u WoM-u.
-- $D_r$ = _Distribution rate_ - ako je Deed primio iskovane Meedove za prethodno razdoblje, % Meedova koji je distribuiran svojim korisnicima. % može biti iznad 100 ako distribucija kasni u vremenu.
+- $D_r$ = _Distribution spread_ - ako je Deed primio iskovane Meedove za prethodno razdoblje, % korisnika koji su primili Meedove u ukupnom skupu korisnika. % može biti iznad 100 ako distribucija kasni u vremenu.
 - $D_s$ = _Distribution spread_ - ako je Deed primio iskovane Meedove za prethodno razdoblje, % korisnika koji su primili Meedove u ukupnom skupu korisnika.
 - $M$ = _Minting Power_ Deed-a kako je definirano u 2.3
 
@@ -134,9 +134,9 @@ Grad će se smatrati dovršenim nakon što su iskovana sva njegova Deeds. Zatim 
 | 2: Reshef     | 1 000       | Tanit + 4 mjeseca     | 600           | 300              | 94          | 6              |
 | 3: Ashtarte   | 10 000      | Reshef + 8 mjeseca    | 6 000         | 3 000            | 995         | 5              |
 | 4: Melqart    | 100 000     | Ashtarte + 16 mjeseca | 60 000        | 30 000           | 9 996       | 4              |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months   | 600 000       | 300 000          | 99 997      | 3              |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months    | 6 000 000     | 3 000 000        | 999 998     | 2              |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months   | 60 000 000    | 30 000 000       | 9 999 999   | 1              |
+| 5: Eshmun     | 1 000 000   | Melqart + 32 mjeseca  | 600 000       | 300 000          | 99 997      | 3              |
+| 6: Kushor     | 10 000 000  | Eshmum + 64 mjeseca   | 6 000 000     | 3 000 000        | 999 998     | 2              |
+| 7: Hammon     | 100 000 000 | Kushor + 128 mjeseca  | 60 000 000    | 30 000 000       | 9 999 999   | 1              |
 
 A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
 
