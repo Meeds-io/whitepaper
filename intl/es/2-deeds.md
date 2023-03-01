@@ -17,7 +17,7 @@ Existen cuatro tipos de Deeds, cada una de las cuales proporciona capacidades di
 | ---------------- | ----------------- | ----------------- | ------------- | --------------------------------- |
 | Común            | 100               | 1                 | ~ 90%         | 1                                 |
 | Poco común       | 1000              | 1.1               | ~ 9%          | 10                                |
-| Rare             | 10 000            | 1.3               | ~ 1%          | 100                               |
+| Raro             | 10 000            | 1.3               | ~ 1%          | 100                               |
 | Legendario       | Ilimitado         | 2                 | < 0.1 %       | 1000                              |
 
 ## 2.3. Titularidad de Deeds
