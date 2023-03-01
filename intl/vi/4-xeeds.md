@@ -60,5 +60,5 @@ Thực sự, bất kỳ quyền tham gia công việc nào cũng có thể đư�
 
 Bất kỳ người dùng nào đều có thể nhận được Meeds và sử dụng ví Meeds để truy cập các dịch vụ thời đại mới mà không cần đào tạo đặc biệt.
 
-[^7]: A.Preukschatt, R. Drummond" Chủ thể tự chủ."
+[^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Mô hình dữ liệu Xác thực được xác minh

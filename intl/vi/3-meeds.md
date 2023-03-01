@@ -2,11 +2,11 @@
 
 Có thể dịch sang tiếng Việt là "Thế giới ảo Work Metaverse được hỗ trợ bởi đồng tiền Meeds (MEED) của nó. Có thể dịch sang tiếng Việt là "Meeds được sử dụng để thưởng cho người dùng (qua các chương trình tương tác), mua hàng tại cửa hàng, mua Giấy tờ tài sản, đầu tư để có lợi nhuận tài chính v. v.
 
-## 3.1. Kinh tế đồng token
+## 3.1. Tokenomics
 
 Có thể dịch sang tiếng Việt là "Tổng cung của Meeds **bị giới hạn tối đa là 100 triệu đồng token**, được sản xuất theo tiến độ. có thể dịch sang tiếng Việt là "**Meeds được sản xuất với tốc độ 10 MEED mỗi phút**. Vì thế, giới hạn đặt mệnh giá đầy đủ gần 20 năm (khi khoảng $10*60*24*365 = 5M$ Meeds được đặt mệnh mỗi năm).
 
-Vì thế, giới hạn đặt mệnh giá đầy đủ gần 20 năm (khi khoảng $10<0>60</0>24*365 = 5M$ Meeds được đặt mệnh mỗi năm). Trong đó, 4,5 triệu đơn vị đã được khóa trong hợp đồng két sắt với một chu kỳ vận dụng tuyến tính trong vòng 4 năm. Số tiền được in trước chủ yếu được sử dụng để mua bản quyền phần mềm, thanh toán chi phí pháp lý cho việc phát hành token.
+Cho đến nay, 5 triệu Meed (5% tổng nguồn cung) đã được đúc sẵn. Trong đó, 4,5 triệu đơn vị đã được khóa trong hợp đồng két sắt với một chu kỳ vận dụng tuyến tính trong vòng 4 năm. Số tiền được in trước chủ yếu được sử dụng để mua bản quyền phần mềm, thanh toán chi phí pháp lý cho việc phát hành token.
 
 Phần còn lại là một phần của __Quỹ Meeds DAO__ và sẽ được sử dụng để trả cho các dịch vụ cũng như một số khuyến mãi khởi đầu như airdrops và chiến dịch giới thiệu.
 
@@ -31,7 +31,7 @@ WoM và token Meeds được hoạt động bởi Hiệp hội Meeds DAO không 
 
 Trong thời gian đồng kim, **30% của Meeds được đồng kim được gán cho Hiệp hội Meeds**.
 
-Các thành viên Hiệp hội có thể cung cấp dịch vụ cho Hiệp hội dựa trên một thỏa thuận dịch vụ đã ký xác định tỷ lệ ngày làm việc. Dịch sang tiếng Việt: Dịch vụ được trả hàng tháng trong Meeds, dựa trên giá thị trường. Ví dụ các dịch vụ bao gồm - phục vụ phần mềm Meeds, phát triển ứng dụng WoM, phát triển các kết nối mới, hoạt động dịch vụ điện toán đám mây, cung cấp dịch vụ tài chính và pháp lý v.v.
+Các thành viên Hiệp hội có thể cung cấp dịch vụ cho Hiệp hội dựa trên một thỏa thuận dịch vụ đã ký xác định tỷ lệ ngày làm việc. Dịch sang tiếng Việt: Dịch vụ được trả hàng tháng trong Meeds, dựa trên giá thị trường. Ví dụ các dịch vụ bao gồm - phục vụ phần mềm Meeds, phát triển ứng dụng WoM, phát triển các kết nối mới, hoạt động dịch vụ điện toán đám mây, cung cấp dịch vụ tài chính và pháp lý v. v.
 
 Không cần là một thành viên, bất kỳ Hợp đồng nào cũng có thể tham gia tạo một kết nối mới và được phần thưởng cho việc làm như vậy - trước qua Hiệp hội Meeds mua lại kết nối và sau đó bằng cách xuất dẫn thông qua kết nối này.
 
