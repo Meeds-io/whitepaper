@@ -19,7 +19,7 @@ jobs:
   crowdin:
     name: Synchronize with Crowdin
     runs-on: ubuntu-latest
-    permissions: read-all|write-all
+    permissions: write-all
     env:
       GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
       #GITHUB_TOKEN: ${{ secrets.GH_TOKEN_CROWDIN }}
