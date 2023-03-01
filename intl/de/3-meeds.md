@@ -72,11 +72,11 @@ Punkte werden mit folgender Formel berechnet:
 
 Die Formel vermeidet es, große Inhaber zu bevorzugen, um Urkunden effizienter und gerechter zu verteilen. Zum Beispiel gibt die Formel folgende Raten:
 
-| **Haltergröße** | **Bestände**   | **Ansammelrate** |
-| --------------- | -------------- | ---------------- |
-| Klein           | 1 000 xMeeds   | 28 Punkte/Tag    |
-| Mittel          | 10 000 xMeeds  | 164 Punkte/Tag   |
-| Groß            | 100 000 xMeeds | 321 Punkte/Tag   |
+| **Haltergröße** | **Bestände**   | **Anhäufungsrate** |
+| --------------- | -------------- | ------------------ |
+| Klein           | 1 000 xMeeds   | 28 Punkte/Tag      |
+| Mittel          | 10 000 xMeeds  | 164 Punkte/Tag     |
+| Groß            | 100 000 xMeeds | 321 Punkte/Tag     |
 
 
 was zu der folgenden Haltedauer für jede Klasse von Inhabern führt:
@@ -92,7 +92,7 @@ was zu der folgenden Haltedauer für jede Klasse von Inhabern führt:
 
 Die Inhaber von Meeds-Token müssen Token einsetzen, um über Entscheidungen der Meeds-DAO wie die Verwaltung des Münzbudgets oder die Wahl der DAO-Vorstandsmitglieder (jährliches Mandat) abstimmen zu können.
 
-## 3.7. Dezentrale Finanzdienstleistungen (DeFi) für Nutzer
+## 3.7. 3.7. Dezentrale Finanzdienstleistungen (DeFi) für Nutzer
 
 Die Work Metaverse wird die Blockchain-Welt vielen Menschen näherbringen, die sie heute nicht nutzen.
 

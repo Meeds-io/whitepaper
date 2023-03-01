@@ -1,15 +1,15 @@
 
-# 2. اعمال NFT - سازمانهای متاور کار کنید
+# 2. Deeds NFT - Work Metaverse Organizations
 
-## 2.1. NFT - اعمال تعریف شده
+## 2.1. NFT – Deeds defined
 
-یک نشانه غیر قارچ (NFT) یک نشانه منحصر به فرد است که نشان دهنده خوب است. در Wom ، از یک عمل به عنوان عنوان مالکیت استفاده می شود. هر عمل به صاحب خود حق دسترسی به چندین سرویس را می دهد - به عنوان مثال ، دسترسی به یک دفتر دیجیتال ، با استفاده از نرم افزار Meeds و حق نعناع Meeds.
+A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
 
-WOM از انواع سازمان ها استقبال می کند - DAOS ، شرکت های سنتی ، انجمن ها ، اندیشکدها ، مشارکتها ، شرکت های تئاتر ، گروه های پروژه ، مدارس و غیره. عمل نشان دهنده وجود دیجیتالی آنها در Wom است.
+The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM.
 
-## 2.2. عمل
+## 2.2. Deeds supply
 
-Wom در نهایت مقدار محدودی از اعمال را تأمین می کند. هر عمل شامل حداکثر تعداد از کاربران از پیش تعریف شده است و ظرفیت پاداش Meeds (قدرت مینینگ) را ارائه می دهد. اصطلاح "کاربر" در اینجا و از این پس هر نوع کارمند ، کارگر ، آزادکار ، داوطلب و غیره را تعیین می کند.
+The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of Meeds rewarding (Minting Power). The term ‘user’ here and hereafter designates any type of employee, worker, freelancer, volunteer etc.
 
 There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
 

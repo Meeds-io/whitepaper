@@ -1,5 +1,5 @@
 
-# 1. Kto sme - združenie Meeds
+# 1. Who we are – the Meeds Association
 
 Združenie Meeds je nezisková organizácia, ktorú pôvodne založilo niekoľko komunít otvoreného softvéru (OSS) na základe spoločnej vízie slobodného digitálneho sveta - decentralizovaného sveta, ktorý by nebol pod kontrolou hŕstky centralizovaných megakorporácií.
 
@@ -11,4 +11,4 @@ Na budovanie WoM a Meeds združenie využíva platformu Ethereum a jej ekosysté
 
 Združenie je štruktúrované ako decentralizovaná autonómna organizácia (Decentralized Autonomous Organization - DAO), v ktorej držitelia administratívnych tokenov hlasujú o všetkých významných organizačných zmenách, ako je napríklad každoročná voľba predstavenstva.
 
-Okrem správy tokenov Meeds vlastní združenie aj duševné vlastníctvo (IP) softvéru Meeds [github.com/meeds-io](https://github.com/meeds-io),je k dispozícii pod licenciou LGPL a šíri sa zadarmo. Tá obsahuje aplikáciu Ethereum wallet, ktorú môžu používatelia používať na ukladanie a transakcie so svojimi Meeds (viac informácií nájdete v časti 2.4). Združenie Meeds prevádzkuje aj cloudovú hostingovú službu pre viacerých užívateľov, ktorá využíva tento softvér.
+Besides Meeds token management, the association holds the Intellectual Property (IP) of the Meeds software [github.com/meeds-io](https://github.com/meeds-io), available under the LGPL license and distributed for free. The latter includes an Ethereum wallet app that users can use to store and transact their Meeds (see section 2.4 for more details). The Meeds Association also runs a multi-tenant cloud hosting service leveraging that software.

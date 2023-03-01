@@ -1,14 +1,14 @@
-# 5. Darbo Metaverslas VISIEMS - vizijos santrauka ir pagrindiniai etapai
+# 5. The Work Metaverse for ALL – vision summary and milestones
 
-## 5.1. Galutinis tikslas - decentralizuotas žiniatinklis visiems
+## 5.1. Ultimate goal - decentralized web for everyone
 
 Galiausiai WoM tai decentralizuotas žiniatinklio pasaulis kiekvienam - kiekvienam asmeniui ir kiekvienai organizacijai.
 
-Joje gyvens naudotojai, veikiantys per savo skaitmenines tapatybes **Xeeds** ir patekti į pasaulį per savo metamaskas, skirtas kriptografininkams, arba prisijungimo vardą ir slaptažodį naujokams. Žmonės sąžiningai, skaidriai ir decentralizuotai paskirstytų savo įsipareigojimus ir gautų atlygį. Jie gautų prieigą prie decentralizuoto pasaulio ir rytdienos kriptovaliutų pasaulio paprastu ir pažįstamu būdu - jie gautų paprastus įrankius, kaip savo žetonus naudoti gyvenime arba investuoti juos į savo ateitį.
+It will be populated by users, acting through their digital identities **Xeeds** and accessing the world through their metamasks, for crypto-savvies, or login/password for the newbies. People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
 
-Organizacijos -**Deeds** galėtų ieškoti talentų, naršydami WoM ir ieškodami tinkamų patikrintų įgūdžių. Už dalyvavimą metaversle jie gautų atlygį, o už naudotojų įsitraukimą gautų žetonų (mintium modelis). Tačiau labiausiai jie gautų naudos iš didesnio vartotojų įsitraukimo ir lojalumo.
+Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the metaverse, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
 
-WoM turėtų savo valiutą **Meeds** - kurias būtų galima išleisti parduotuvėse, konvertuoti į kitą valiutą, investuoti, kad gautumėte investicijų grąžą, išsinuomoti ar nusipirkti ir t. t. WoM taip pat palengvintų kitų žetonų platinimą ir dalyvautų bendroje kriptovaliutų ekosistemoje.
+The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
 
 Kadangi paveikslėlis vertas tūkstančio žodžių, pateikiame schemą, kurioje aprašyti WoM ir Meedso srautai
 
@@ -16,15 +16,15 @@ Kadangi paveikslėlis vertas tūkstančio žodžių, pateikiame schemą, kurioje
 
 Pasaulio išlaikymas ir tvarumas ilgalaikėje perspektyvoje užtikrinamas mokesčiais, kuriais dalijasi Meeds asociacija ir Miestai.
 
-## 5.2. Kas skirta ankstyviesiems įsivaikintojams
+## 5.2. What’s in it for early adopters
 
 Akivaizdu, kad ankstyvieji diegėjai gaus daug pranašumų prieš vėlyvuosius.
 
-Visų pirma WoM atlygina už ilgalaikes investicijas į stichiją, t. y. už turto išpirkimą (Deeds). Pirminis Deedų savininkas gauna kompensaciją per užsiangažavimą (aktyvų naudojimą), per pasyvias pajamas (nuomą) ir visą gyvenimą gauna 1 % nuo bet kokio Deedų pardavimo sandorio (kiekvieną kartą keičiantis savininkui, pirminis išpirkėjas gauna mokestį už sandorį).
+In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
 
-Tikėdami projektu, dalyvaudami likvidumo fonduose, statydami Meedus, išpirkdami juos už Deedow... ankstyvieji įvairaus dydžio investuotojai nukaldintų papildomų žetonų. Jie taip pat gautų anksčiausias balsavimo teises ir padėtų formuoti metaverse.
+By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the metaverse.
 
-Organizacijoms, įsigyjančioms, bet ypač naudojančioms Deeds, kad įtrauktų ir apdovanotų savo darbuotojus, būtų kompensuojama iškaltais Meeds. Kuo sąžiningiau jos žais, tuo daugiau gaus. Anksčiau pradėjusieji taikyti sistemą būtų siejami su pirmaisiais istoriniais miestais, o vėliau jie būtų identifikuojami kaip statytojai.
+Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
 
 Toliau pateiktoje schemoje pavaizduotas Meeds investavimo strategijos pavyzdys kapitalo turėtojams :
 
@@ -50,13 +50,13 @@ The Builders community is up and running on Meeds software, open to anyone who w
 
 This paper was published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
 
-## 5.4. Statybininkų bendruomenė
+## 5.4. The builders community
 
-Pradedame kurti "Meeds" programinės įrangos ir "Discord" statybininkų bendruomenę. Bendruomenė kviečia visus, kurie nori dalyvauti kuriant Darbo metaverslą. Asociacija iš savo rinkodaros biudžeto atlygintų statytojams už dalyvavimą Meeds veikloje.
+We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the Work Metaverse. The association would reward builders engagement with Meeds, from its marketing budget.
 
-Asociacija taip pat planuoja statyti kai kuriuos Meedus, kad būtų galima įsigyti (išpirkti) Statybininkų bendruomenės Deeds. Tuomet bendruomenė pagal įsitraukimą, naudodama mintiumo modelį, kaldins Meedus ir platins juos įsitraukusiems naudotojams.
+The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
 
-## 5.5. Veiklos planas ir pagrindiniai etapai
+## 5.5. Roadmap and milestones
 
 Mūsų veiksmų planas būtų sudarytas toliau nurodyta prioritetine tvarka:
 
@@ -66,9 +66,9 @@ Mūsų veiksmų planas būtų sudarytas toliau nurodyta prioritetine tvarka:
 - Ženkliukų tobulinimas ir įgaliojimų kūrimas
 - DeFi paslaugos - piniginėje, partnerystė su kredito kortelėmis
 
-Statybos etape tikimės ankstyvųjų DAO ir technologijas išmanančių įmonių įsisavintojų. Taip pat turėtume sulaukti ankstyvųjų vartotojų iš tradicinių įmonių, kurios iš karto gaus naudos iš metaverslo, teikdamos savo darbuotojams atitinkamas įsitraukimo programas, papildančias dabartinius tradicinius atlyginimų planus.
+We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
 
-Meedso monetų kalyba trunka 20 metų. Iki to laiko mes norime sukurti brandžią metaverslą, apimančią daugybę organizacijų ir naudotojų visame pasaulyje.
+Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature metaverse, having spread to many organizations and many users globally.
 
 ## 5.6. What you can do right now
 

@@ -1,5 +1,5 @@
 
-# 1. Kas mes esame - Meeds Asociacija
+# 1. Who we are – the Meeds Association
 
 Meeds asociacija yra pelno nesiekianti organizacija, kurią iš pradžių įkūrė kelios atvirojo kodo programinės įrangos (OSS) bendruomenės, siekiančios bendros laisvo skaitmeninio pasaulio vizijos - decentralizuoto pasaulio, kurio nekontroliuotų saujelė centralizuotų milžiniškų korporacijų.
 
@@ -11,4 +11,4 @@ Siekdama sukurti WoM ir Meeds, asociacija naudoja Ethereum platformą ir jos eko
 
 Asociacijos struktūra yra decentralizuota autonominė organizacija Decentralized Autonomous Organization (DAO) kurioje valdymo žetonų turėtojai balsuoja dėl visų svarbių organizacinių pokyčių, pavyzdžiui, kasmet renka valdybą.
 
-Be Meeds žetonų valdymo, asociacijai priklauso "Meeds" programinės įrangos [github.com/meeds-io](https://github.com/meeds-io) intelektinė nuosavybė (IP), prieinama pagal LGPL licenciją ir platinama nemokamai. Pastaroji apima Ethereum piniginės programą, kurią naudotojai gali naudoti savo Meeds žetonams saugoti ir sandoriams atlikti (daugiau informacijos žr. 2.4 skirsnyje). Meeds Asociacija taip pat teikia daugialypės nuomos debesijos prieglobos paslaugą, naudodamasi šia programine įranga.
+Besides Meeds token management, the association holds the Intellectual Property (IP) of the Meeds software [github.com/meeds-io](https://github.com/meeds-io), available under the LGPL license and distributed for free. The latter includes an Ethereum wallet app that users can use to store and transact their Meeds (see section 2.4 for more details). The Meeds Association also runs a multi-tenant cloud hosting service leveraging that software.

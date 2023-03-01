@@ -2,7 +2,7 @@
 
 ## Abstract
 
-بازار کار امروز به دلیل هزینه های بالای معامله ، کارآیی دارد [^1] [^2] <sup id="fnref:3"> <a href="#fn:3" class="footnote-ref"> 3 </5 > </sup> و تضاد مکرر منافع بین کارفرما و کارمند.</p> 
+بازار کار امروز به دلیل هزینه های بالای معامله ، کارآیی دارد \[^1\] \[^2\] <sup id="fnref:3"> <a href="#fn:3" class="footnote-ref"> 3 </5> </sup> و تضاد مکرر منافع بین کارفرما و کارمند.</p> 
 
 <p spaces-before="0">
   کار متاور (WOM) الگوی جدیدی را پیشنهاد می کند که هزینه های معامله را کاهش داده و روابط اشتغال را دوباره اختراع می کند و باعث ایجاد شکاف بین شرکت های سنتی و DAO ها می شود.
@@ -17,19 +17,19 @@
 </h2>
 
 <p spaces-before="0">
-  بازار کار امروز خراب است. این امر نتواند هم کارمندان و هم کارفرمایان را برآورده کند.
+  The work market today is broken. It fails to satisfy both employees and employers.
 </p>
 
 <p spaces-before="0">
-  از طرف کارمند ، یافتن مشاغل مناسب دشوار است. بازار کار از انواع خاصی از افراد استفاده می کند و مجموعه مهارت های خوبی را پشت سر می گذارد. این از مجموعه ای از تعصبات انسانی ناشی می شود - مبتنی بر نژادی ، جنسیت مبتنی بر معلولیت ، مبتنی بر معلولیت ، مبتنی بر درونگرا و غیره. بازار کار همچنین فاقد شفافیت در مورد موقعیت های موجود و شرایط اشتغال است.
+  On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
 </p>
 
 <p spaces-before="0">
-  پس از کار ، آزادی های شخصی کارمندان در ازای جبران خسارت نقض می شود. کارمندان در ساعات کار ، محل کار ، محتوای کار یا روشهای کاری خود حرفی برای گفتن ندارند. و جبران خسارت آنها به ندرت با پیامدهای یا ارزش واقعی آنها مرتبط است. قوانین جبران خسارت فاقد شفافیت است و از این رو ، ناعادلانه تلقی می شوند. علاوه بر این ، جبران خسارت و پیشرفت شغلی نیز به عامل انسانی وابسته است - حسن نیت و عینیت مدیر فوری کارمند.
+  Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
 </p>
 
 <p spaces-before="0">
-  از طرف دیگر ، کارفرمایان در تهیه استعداد و استخدام مهارت های مناسب و مناسب بودن مناسب در زمان مناسب برای کار ، مشکلات را تجربه می کنند. هیچ راه عینی برای تعیین مهارت های احتمالی استخدام یا افراد منبع در خارج از استخر استخدام سنتی کارفرمایان وجود ندارد.
+  Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
 </p>
 
 <p spaces-before="0">
@@ -37,7 +37,7 @@
 </p>
 
 <p spaces-before="0">
-  علاوه بر این ، کارفرمایان همچنین در کارمندان موجود خود با مشارکت کم روبرو هستند و منجر به خلاقیت ، بهره وری و نوآوری کم می شود. دومی در اقتصاد امروز که نیاز به کار خلاقانه تری دارد ، آسیب بیشتری در اقتصاد امروز وارد می کند.
+  Moreover, employers also face low engagement in their existing employees, leading to low creativity, productivity and innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
 </p>
 
 <p spaces-before="0">
@@ -46,7 +46,7 @@
 
 <ul>
   <li>
-    با اینترنت ، بازارهای شغلی به لطف وحدت و شفافیت بیشتر به لطف سایت های ارسال شغل ، سایت های شغلی و غیره تحول پیدا کردند. اما در صورت عدم وجود عنصر عینیت ، هزینه های معاملات هنوز هم بسیار زیاد است.
+    With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element.
   </li>
   <li>
     در مورد مشکل اصلی عامل ، این امر با افزایش درآمد و شکاف ثروت بین کارمندان و سهامداران و استحکام روابط کارفرمایان و کارمندان پیچیده شده است.
@@ -58,19 +58,19 @@
 </p>
 
 <p spaces-before="0">
-  به دنبال آثار R. Coase <fnref target="5" /> ، بیشتر اقتصاددانان مفهوم شرکت را با ضرورت کاهش هزینه های معامله پیوند می دهند. اینترنت و اخیراً blockchain و Web3 امکانات هیجان انگیز را در کاهش هزینه های معامله در همه جا ، اختراع اقتصاد و به ویژه اختراع مجدد شرکت باز می کنند. اولین DAOS <fnref target="6" /> این روند را با تمرکز بر کاهش هزینه معاملات برای منابع سرمایه و مدیریت آغاز کرد. Wom قصد دارد با پایین آمدن هزینه معاملات کار ، این منطق را بیشتر کند. این دنیای غیرمتمرکز را پیشنهاد می کند که در آن مشاغل و مهارت ها می توانند به صورت عینی ، سریع و جهانی انجام شوند.
+  Following R. Coase’s works<fnref target="5" />, most economists link the concept of enterprise with the necessity to mitigate transaction costs. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs<fnref target="6" /> started this process focusing on lowering the cost of transactions for capital sourcing and governance. The WoM aims at pushing this logic further by lowering the cost of work transactions. It proposes a decentralized world where jobs and skills matching could be done objectively, quickly and globally.
 </p>
 
 <p spaces-before="0">
-  اولین Daos سلسله مراتب و مالکیت آزاد را صاف کرد. Wom این منطق را با اختراع مجدد روابط کارفرما/کارمندان دنبال می کند. این یک الگوی پاداش شفاف ، عینی و غیرمتمرکز را معرفی می کند ، که به طور پایدار کارفرما و منافع کارمندان را تراز می کند.
+  The first DAOs flatten the hierarchies and open ownership. The WoM pursues this logic by reinventing rather than suppressing the employer/employee relationship. It introduces a transparent, objective and decentralized reward paradigm, that would sustainably align the employer and the employee interests.
 </p>
 
 <p spaces-before="0">
-  سرانجام ، کار متاور شکاف بین شرکتها و داوس را به وجود می آورد. از یک طرف ، شرکت های سنتی را از طریق یک پارادایم با پاداش با پاداش آسان ، به دنیای غیر متمرکز معرفی می کند و سیستم های جبران خسارت آنها را تکمیل می کند. از طرف دیگر ، روشهای پایدار برای کار و ایجاد ارزش برای DAOS پیشنهاد می کند. در نهایت ، Wom می تواند جزو اولین برنامه های اصلی برای دموکراتیک کردن استفاده از blockchain برای هر شرکت و هر کارمند-از جمله افراد غیر دیجیتال باشد.
+  Finally, the Work Metaverse bridges the gap between corporations and the DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. On the other hand, it proposes sustainable ways to operate and create value for DAOs. Ultimately, the WoM could be among the first mainstream applications to democratize the use of the blockchain for every company and every employee – including non-digital ones.
 </p>
 
 <p spaces-before="0">
-  مانند هر سرمایه گذاری غیرمتمرکز ، پیشنهاد Wom از آنجا که تعداد بیشتری از افراد از آن استفاده می کنند ، از نظر ارزش به دست می آید. به همین دلیل ، بنیانگذاران برای تشویق علاقه بلند مدت و جلوگیری از انحصار مزایای Wom ، چه کوتاه مدت و چه در دراز مدت ، مراقبت زیادی کردند. این یک الگوی باز است که هنوز هم ساخته می شود و برای مشارکت خلاق فعال از همه باز است.
+  As with any decentralized venture, the WoM proposal gains in value exponentially as more people use it. For that reason, founders took great care to encourage long term interest and avoid monopolizing the WoM benefits, whether short term or long term. It is an open paradigm, still to be built, and open to active creative participation from everyone.
 </p>
 
 <footnotes>

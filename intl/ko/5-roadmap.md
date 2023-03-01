@@ -18,7 +18,7 @@ WoM은 자체 통화 **Meeds**를 갖게 됩니다. 즉, 매장에서 지출하�
 
 ## 5.2. 얼리 어답터를 위한 기능
 
-분명히 얼리 어답터는 후발자보다 상당한 이점을 얻을 것입니다.
+Obviously, early adopters would get considerable advantages over the late comers.
 
 특히 WoM은 구절에 대한 장기 투자, 즉 재산의 구속(Deeds)에 대해 보상합니다. Deed의 원래 소유자는 수동적 소득(임대)을 통해 약혼 주조(활성 사용)를 통해 보상을 받고 Deed의 모든 판매 거래에 대해 평생 1%를 얻습니다(소유권이 변경될 때마다 원래 구속자는 거래).
 
@@ -60,7 +60,7 @@ Builders 커뮤니티는 Meeds 소프트웨어에서 실행 중이며 참여, �
 
 우리의 로드맵은 아래의 우선 순위를 따릅니다.
 
-- 참여 지수 및 참여를 통한 채굴
+- Engagement index and minting through engagement
 - Deeds 대여 활성화
 - Xeed creation
 - 배지 개선 및 자격 증명 개발

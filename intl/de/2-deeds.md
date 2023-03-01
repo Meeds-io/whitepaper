@@ -13,12 +13,12 @@ Das WoM wird letztendlich eine begrenzte Menge an Deeds liefern. Jede Deed umfas
 
 Es gibt vier Arten von Urkunden, die jeweils unterschiedliche Möglichkeiten in Bezug auf die Anzahl der Benutzer, die Stimmrechte in einer Stadt (siehe 2.7) oder die Prägekraft von Meeds bieten, wobei die seltenste die mächtigste ist:
 
-| **Deed typ** | **Maximale Benutzer** | **Münzmacht** | **Knappheit** | **Stimmrecht der Stadt** |
-| ------------ | --------------------- | ------------- | ------------- | ------------------------ |
-| Gewöhnlich   | 100                   | 1             | ~ 90%         | 1                        |
-| Ungewöhnlich | 1000                  | 1.1           | ~ 9%          | 10                       |
-| Selten       | 10 000                | 1.3           | ~ 1%          | 100                      |
-| Legendär     | unbegrenzt            | 2             | < 0.1 %       | 1000                     |
+| **Deed typ** | **Maximale Benutzer** | **Münzleistung** | **Knappheit** | **Stimmrecht der Stadt** |
+| ------------ | --------------------- | ---------------- | ------------- | ------------------------ |
+| Gewöhnlich   | 100                   | 1                | ~ 90%         | 1                        |
+| Ungewöhnlich | 1000                  | 1.1              | ~ 9%          | 10                       |
+| Selten       | 10 000                | 1.3              | ~ 1%          | 100                      |
+| Legendär     | unbegrenzt            | 2                | < 0.1 %       | 1000                     |
 
 ## 2.3. Deeds Eigentum
 
@@ -55,18 +55,18 @@ Neue Dienste können über APIs in die Belohnungsmaschine integriert werden. Bei
 - CRM-Software – Vertriebsmitarbeiter würden Engagement-Punkte für die Arbeit an Opportunities erhalten.
 - Buchhaltungssoftware – Buchhalter würden Engagementpunkte für das Führen von Büchern erhalten.
 - Stempelterminal – Fabrikarbeiter können Punkte für Fabrikarbeitszeit bekommen.
-- Etc.
+- Ed.
 
 Darüber hinaus nimmt das über den Konnektor erzeugte Engagement am globalen Engagement-Score der Organisation teil, der ein Faktor der beschriebenen Prägeverteilung von Meeds ist unter. Dazu muss der Connector von der Meeds Association auf die Whitelist gesetzt werden. Die Association überprüft den Konnektor, genehmigt seinen Algorithmus und erwirbt sein Eigentum gegen Meeds. Es wird dann Teil der kostenlosen Dienstleistungen des Vereins und wird in den globalen Engagement-Index aufgenommen. Jede andere Deed kann denselben Konnektor und denselben Belohnungsalgorithmus für ihre Entwickler verwenden.
 
-Der Inhaber oder Mieter des Deed kann sein Geschäft mit eigenen Vergünstigungen bereichern, sich mit einem Online-Vergünstigungsangebot verbinden usw. Auch hier sind die Möglichkeiten endlos: Auch hier sind die Möglichkeiten endlos:
+Der Inhaber oder Mieter des Deed kann sein Geschäft mit eigenen Vergünstigungen bereichern, sich mit einem Online-Vergünstigungsangebot verbinden usw. Auch hier sind die Möglichkeiten endlos: Auch hier sind die Möglichkeiten endlos: Auch hier sind die Möglichkeiten endlos:
 
 - Trainingskurse
 - Mitgliedschaften im Fitnessstudio
 - Pauschalreisen
 - Mittagessen mit einem Leiter der Organisation
 - Physische Büroräume
-- Etc.
+- Ed.
 
 Das Geschäft funktioniert durch die Verwendung von Meeds, sodass Meeds teilweise an Deed zurückgegeben werden.
 
@@ -114,7 +114,7 @@ Die obige Formel ist einfach und darauf ausgelegt, Taten zu begünstigen:
 Zusätzlich sind Booster vorhanden für:
 
 - Organisationen mit dem höchsten Engagement, unabhängig von ihrer Größe (Engagement-Rate in Relation zum WoM)
-- seltenere deeds
+- knappe Taten
 
 > Die Meeds Association behält sich das Recht vor, die Formel bei Bedarf zu ändern – zum Beispiel, wenn bestimmte Anwendungsfälle auftreten. Die Vereinigung kann auch jede Urkunde auf die schwarze Liste setzen, die die Formel zu ihrem einzigartigen Vorteil entführt.
 
@@ -128,15 +128,15 @@ Im WoM werden Urkunden nach und nach in virtuellen Städten generiert. Nur die e
 
 Eine Stadt gilt als vollständig, wenn alle ihre Urkunden ausgestellt wurden. Dann beginnt die Prägung jeder neuen Stadt $2^n$ Monate nachdem die letzte Urkunde der $n-1$ Stadt geprägt wurde.
 
-| **Stadt Name** | **Deeds**   | **Verfügbar**        | **Gewöhnlich** | **Ungewöhnlich** | **Selten** | **Legendär** |
-| -------------- | ----------- | -------------------- | -------------- | ---------------- | ---------- | ------------ |
-| 1: Tanit       | 100         | T0                   | 50             | 30               | 13         | 7            |
-| 2: Reshef      | 1 000       | Tanit + 4 Monate     | 600            | 300              | 94         | 6            |
-| 3: Ashtarte    | 10 000      | Reshef + 8 Monate    | 6 000          | 3 000            | 995        | 5            |
-| 4: Melqart     | 100 000     | Ashtarte + 16 Monate | 60 000         | 30 000           | 9 996      | 4            |
-| 5: Eshmun      | 1 000 000   | Melqart + 32 Monate  | 600 000        | 300 000          | 99 997     | 3            |
-| 6: Kushor      | 10 000 000  | Eshmum + 64 Monate   | 6 000 000      | 3 000 000        | 999 998    | 2            |
-| 7: Hammon      | 100 000 000 | Kushor + 128 Monate  | 60 000 000     | 30 000 000       | 9 999 999  | 1            |
+| **Stadt Name** | **Urkunden** | **Verfügbar**        | **Gewöhnlich** | **Ungewöhnlich** | **seltenere deeds** | **Legendär** |
+| -------------- | ------------ | -------------------- | -------------- | ---------------- | ------------------- | ------------ |
+| 1: Tanit       | 100          | T0                   | 50             | 30               | 13                  | 7            |
+| 2: Reshef      | 1 000        | Tanit + 4 Monate     | 600            | 300              | 94                  | 6            |
+| 3: Ashtarte    | 10 000       | Reshef + 8 Monate    | 6 000          | 3 000            | 995                 | 5            |
+| 4: Melqart     | 100 000      | Ashtarte + 16 Monate | 60 000         | 30 000           | 9 996               | 4            |
+| 5: Eshmun      | 1 000 000    | Melqart + 32 Monate  | 600 000        | 300 000          | 99 997              | 3            |
+| 6: Kushor      | 10 000 000   | Eshmum + 64 Monate   | 6 000 000      | 3 000 000        | 999 998             | 2            |
+| 7: Hammon      | 100 000 000  | Kushor + 128 Monate  | 60 000 000     | 30 000 000       | 9 999 999           | 1            |
 
 Eine Stadt ist eine Möglichkeit für die Taten, zusammenzukommen und eine Gemeinschaft zu bilden. Und als Folge davon erwerben sie eine bestimmte Identität, die mit dieser Gemeinschaft verbunden ist. Es ist auch eine Möglichkeit, zusätzlichen Wert für seine Benutzer zu bieten - Wert, der über die Fähigkeiten eines Meeds hinausgehen oder durch die Zusammenarbeit zwischen den Meeds geschaffen werden würde.
 

@@ -79,7 +79,7 @@ Was können Sie jetzt tun, um sich zu beteiligen?
 - Sehen Sie sich die [Investor-App](https://meeds.io/investors) an
 - Tragen Sie hier zu den bestehenden Liquiditätspools bei:
   - [Cometh Swap](https://swap.cometh.io/)
-  - [Cometh Swap](https://sushi.com)
+  - [Sushi Swap](https://sushi.com)
 - Treten Sie unserer [Discord](https://discord.com/invite/hAuADSq3)-Community bei, um auf dem Laufenden zu bleiben
 - Treten Sie unserer [Builders](https://meeds.io/builders)-Community bei, um die Meeds Software zu testen, sich zu engagieren und einige Meeds Prämien zu verdienen
 

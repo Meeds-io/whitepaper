@@ -10,32 +10,32 @@ WoM to omogoča z uvedbo digitalnih identitet za delodajalca in zaposlenega ter 
 
 ## Uvod
 
-Današnji trg dela je pokvarjen. Ne zadovoljuje niti delavcev niti delodajalcev.
+The work market today is broken. It fails to satisfy both employees and employers.
 
-Na strani zaposlenih je težko najti pravo delovno mesto. Trg dela daje prednost določenim vrstam posameznikov, pri čemer se odličen nabor spretnosti pušča v ozadju. To izhaja iz vrste človeških predsodkov - na podlagi rase, spola, hendikepa, introvertiranosti itd. Trg dela je tudi premalo pregleden glede razpoložljivih delovnih mest in pogojev zaposlitve.
+On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
 
-Po zaposlitvi se v zameno za nadomestilo poseže v osebne svoboščine zaposlenih. Zaposleni imajo malo vpliva na svoj delovni čas, delovno mesto, vsebino dela ali delovne metode. Njihovo nadomestilo pa je le redko povezano z njihovim dejanskim pomenom ali vrednostjo. Pravila o nadomestilih niso pregledna in se zato dojemajo kot nepravična. Poleg tega sta nadomestilo in poklicno napredovanje odvisna tudi od človeškega dejavnika - dobronamernosti in objektivnosti neposrednega vodje zaposlenega.
+Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
 
-Po drugi strani pa imajo delodajalci težave pri iskanju talentov in zaposlovanju pravih znanj in spretnosti ob pravem času za pravo delovno mesto. Ni objektivnega načina za ugotavljanje sposobnosti potencialnega zaposlenega ali iskanje ljudi zunaj tradicionalnega nabora delodajalcev.
+Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
 
 Delodajalci se soočajo tudi s pomanjkanjem lojalnosti zaposlenih in veliko fluktuacijo, kar oboje povečuje stroške zaposlovanja in zaposlovanja.
 
-Poleg tega se delodajalci soočajo tudi z nizko zavzetostjo obstoječih zaposlenih, kar vodi v nizko ustvarjalnost, produktivnost in inovativnost. Slednje povzroča še večjo škodo v današnjem gospodarstvu, ki zahteva bolj kvalificirano ustvarjalno delo.
+Moreover, employers also face low engagement in their existing employees, leading to low creativity, productivity and innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
 
 Vse zgoraj navedeno je posledica visokih transakcijskih stroškov in zaostrenega problema zastopnika in glavnega zavezanca[^4] :
 
-- S pomočjo interneta so se trgi dela razvili v smeri večje enotnosti in preglednosti zaradi spletnih strani z objavami delovnih mest, kariernih spletnih strani itd. Vendar so stroški transakcij še vedno previsoki, saj ni elementa objektivnosti.
+- With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element.
 - Kar zadeva problem agenta in glavnega izvajalca, se je ta še povečal zaradi vse večje razlike v prihodkih in bogastvu med zaposlenimi in delničarji ter togosti odnosa med delodajalcem in zaposlenim.
 
 Cilj projekta WoM je rešiti oba problema z novo decentralizirano paradigmo dela.
 
-Po delih R. Coasea[^5], večina ekonomistov povezuje koncept podjetja s potrebo po zmanjšanju transakcijskih stroškov. Internet ter v zadnjem času veriženje blokov in splet3 odpirajo vznemirljive možnosti za zniževanje stroškov transakcij povsod po svetu, ponovno izumljanje gospodarstva in zlasti ponovno izumljanje podjetij. Prvi DAOs[^6] je ta proces začel z zmanjševanjem stroškov transakcij pri pridobivanju in upravljanju kapitala. Cilj WoM je to logiko še bolj razširiti z znižanjem stroškov delovnih transakcij. Predlaga decentraliziran svet, v katerem bi bilo mogoče objektivno, hitro in globalno usklajevati delovna mesta in spretnosti.
+Following R. Coase’s works[^5], most economists link the concept of enterprise with the necessity to mitigate transaction costs. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs[^6] started this process focusing on lowering the cost of transactions for capital sourcing and governance. The WoM aims at pushing this logic further by lowering the cost of work transactions. It proposes a decentralized world where jobs and skills matching could be done objectively, quickly and globally.
 
-Prve organizacije DAO izravnajo hierarhije in odprejo lastništvo. WoM sledi tej logiki tako, da na novo izumlja in ne ukinja razmerja med delodajalcem in delavcem. Uvaja pregledno, objektivno in decentralizirano paradigmo nagrajevanja, ki bi trajnostno uskladila interese delodajalca in zaposlenega.
+The first DAOs flatten the hierarchies and open ownership. The WoM pursues this logic by reinventing rather than suppressing the employer/employee relationship. It introduces a transparent, objective and decentralized reward paradigm, that would sustainably align the employer and the employee interests.
 
-Nazadnje, Metaverse Za Delo zapolnjuje vrzel med korporacijami in organizacijami DAOs. Po eni strani uvaja tradicionalne korporacije v decentralizirani svet z enostavno uporabno paradigmo nagrajevanja za sodelovanje, ki dopolnjuje njihove sisteme nagrajevanja. Po drugi strani pa predlaga trajnostne načine delovanja in ustvarjanja vrednosti za organizacije DAOs. Navsezadnje bi lahko bil WoM med prvimi glavnimi aplikacijami za demokratizacijo uporabe veriženja blokov za vsako podjetje in vsakega zaposlenega - tudi za tiste, ki niso digitalni.
+Finally, the Work Metaverse bridges the gap between corporations and the DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. On the other hand, it proposes sustainable ways to operate and create value for DAOs. Ultimately, the WoM could be among the first mainstream applications to democratize the use of the blockchain for every company and every employee – including non-digital ones.
 
-Tako kot pri vsakem decentraliziranem podvigu tudi predlog WoM pridobiva na vrednosti eksponentno, ko ga uporablja več ljudi. Zato so ustanovitelji zelo skrbeli za spodbujanje dolgoročnega interesa in preprečevanje monopolizacije koristi WoM, ne glede na to, ali gre za kratkoročne ali dolgoročne koristi. Gre za odprto paradigmo, ki jo je treba še zgraditi in je odprta za aktivno ustvarjalno sodelovanje vseh.
+As with any decentralized venture, the WoM proposal gains in value exponentially as more people use it. For that reason, founders took great care to encourage long term interest and avoid monopolizing the WoM benefits, whether short term or long term. It is an open paradigm, still to be built, and open to active creative participation from everyone.
 
 
 [^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)

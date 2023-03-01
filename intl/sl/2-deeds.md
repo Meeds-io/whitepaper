@@ -1,15 +1,15 @@
 
-# 2. Deeds NFT - Organizacije Metaverse Dela
+# 2. Deeds NFT - Work Metaverse Organizations
 
-## 2.1. NFT - Opredeljene Deeds
+## 2.1. NFT – Deeds defined
 
-Nezamenljivi žeton (NFT) je edinstven žeton, ki predstavlja blago. V WoM se Deed uporablja kot lastniški naslov. Vsaky Deed daje lastniku pravico do dostopa do več storitev - na primer dostop do digitalne pisarne, ki jo poganja programska oprema Meeds, in pravico do kovnice Meeds.
+A non fungible token (NFT) is a unique token that represents a good. In the WoM, a Deed is used as a title of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a digital office, powered by the Meeds software and the right to mint Meeds.
 
-WoM pozdravlja vse vrste organizacij - DAO, tradicionalne korporacije, združenja, možganske truste, partnerstva, gledališke skupine, projektne skupine, šole itd. Deed predstavlja njihov digitalni obstoj v WoM.
+The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital existence in the WoM.
 
-## 2.2. Zagotavljanje Deeds
+## 2.2. Deeds supply
 
-WoM bo na koncu zagotovil omejeno število Deedy. Vsaka Deed vključuje vnaprej določeno največje število uporabnikov in ponuja zmogljivost nagrajevanja Meeds (Minting Power). Izraz "uporabnik" tukaj in v nadaljevanju označuje katero koli vrsto zaposlenega, delavca, samostojnega podjetnika, prostovoljca itd.
+The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of Meeds rewarding (Minting Power). The term ‘user’ here and hereafter designates any type of employee, worker, freelancer, volunteer etc.
 
 Obstajajo štiri vrste Deedy, od katerih vsaka zagotavlja različne možnosti glede števila uporabnikov, glasovalne pravice v mestu (glejte 2.7) ali moči izdaje Meeds, pri čemer je najredkejša listina najmočnejša :
 
@@ -20,7 +20,7 @@ Obstajajo štiri vrste Deedy, od katerih vsaka zagotavlja različne možnosti gl
 | Redko          | 10 000              | 1.3              | ~ 1%            | 100                          |
 | Legendarni     | neomejeno           | 2                | < 0.1 %         | 1000                         |
 
-## 2.3. Lastništvo Deeds
+## 2.3. Deeds ownership
 
 Deed o lastništvu daje lastniku pravico, da jo UPORABLJA, ODDAJA v NAJEM ali proda.
 
@@ -30,36 +30,36 @@ Deed o lastništvu daje lastniku pravico, da jo UPORABLJA, ODDAJA v NAJEM ali pr
 
 Kot aktivni imetnik ali najemnik Deed je organizacija nagrajena s Meeds pomočjo inovativnega modela "mintium", ki je opisan spodaj (del 2.6).
 
-## 2.4. Storitve Deeds, motor za angažiranje/nagrade
+## 2.4. Deeds services, engagement/rewards engine
 
-Na vse bolj konkurenčnem trgu morajo organizacije, da bi pritegnile in zadržale talente ter čim bolj povečale njihov prispevek, svoje uporabnike spodbujati bolj, kot je preprosto nadomestilo. WoM zagotavlja inovativen okvir za to z žetoniranjem delovne zavzetosti.
+In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
 
-Vsak imetnik ali najemnik Deeda lahko zagotavlja orodja in storitve svojim uporabnikom, ki si prislužijo točke zavzetosti, ki jih je mogoče natančno prilagoditi prednostnim nalogam Deed. Točke se občasno pretvorijo v žetone Meed (in - za DAO - potencialno v drug žeton), in sicer na podlagi proračuna, ki ga določi Deed. Na ta način se nagrajuje vključenost uporabnikov v dejavnosti, ki so pomembne za organizacijo.
+Each Deed’s holder or renter can provide tools and services to its users, who earn engagement points that can be fine-tuned to the Deed’s priorities. Periodically, points are converted into Meeds (and - for DAOs - potentially another token), based on the Deed’s set budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
 
 Za začetek lahko za nagrajevanje angažiranosti uporabite naslednje brezplačne storitve, ki jih zagotavlja združenje Meeds:
 
 - **Gamifikacijski motor** – samodejna dejanja v okviru WoM imajo težo v točkah, ki jo je mogoče prilagoditi prednostnim nalogam Deed s prilagodljivimi programi sodelovanja.
-- **Izzivi** - nastavite lahko prilagodljive izzive, ki predstavljajo dosežke. Izzive vnaprej določi ena oseba, druga pa jih lahko izpolni in objavi kot take. . Izzivi imajo težo v točkah v okviru prilagodljivih programov sodelovanja.
-- **Prilagodljivi programi sodelovanja** - organizacije lahko ustvarijo lastne programe vključevanja, ki ustrezajo njihovim poslovnim ciljem in prednostnim nalogam. Programi so povezani s samodejnimi dejanji v sistemu in ročno nastavljenimi izzivi. Vsak program ima določen proračun Meeds. Točke, ki jih vsak uporabnik pridobi s samodejnimi ali napovedanimi dejanji v posameznem programu sodelovanja, se periodično pretvorijo v sredstva Meeds na podlagi proračuna tega programa.
-- **Kudos** -kudos lahko uporabniki podeljujejo drug drugemu kot zahvalo in priznanje. Ker je število priznanj, ki so na voljo za razdeljevanje, omejeno (vnaprej določena periodična omejitev, na primer 3 na teden), so redka in dragocena. Tako kot, kudos pohvale prinašajo točke. Tako imajo zaposleni možnost nagrajevati svoje sodelavce.
+- **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
+- **Customizable engagement programs** - organizations can create their own engagement programs matching their business goals and priorities. Programs are associated to automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatics or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
+- **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
 - **Sodelovanje** orodja, ki so vključena v mehanizem za nagrajevanje - delovni prostori, asinhrona komunikacija, orodje za upravljanje nalog in opombe - omogočajo ljudem, da skupaj delajo na projektih.
-- **Denarnica** – uporabniki imajo na voljo varno denarnico s tehnologijo Ethereum, v kateri hranijo svoja sredstva Meeds. Za napredne uporabnike lahko uporabite tudi denarnico Metamask.
+- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
 - **Trgovina** – trgovina, v kateri je mogoče zamenjati denar Meeds za ugodnosti, ki jih zagotavlja imetnik ali najemnik listine ali ekosistem Meeds.
 - **Analitika** – analizirati in spremljati sodelovanje v okviru Deed.
 - **Priključki**, vključena v mehanizem nagrajevanja - uporabniki dobijo točke za sodelovanje prek dejanj v drugi programski opremi - na primer za oddajo kode v GitHubu.
 
-Nekatera od navedenih orodij in storitev so že decentralizirana, druga pa ne. Končni cilj je zagotoviti vse storitve na decentraliziran način, kar bomo dosegli postopoma z razvojem osnovne tehnologije.
+Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
 
-Nove storitve je mogoče v nagradni mehanizem vključiti prek vmesnikov APIs. Primerov je nešteto in lahko vključujejo praktično katero koli programsko opremo ali storitev:
+New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
 
 - Programska oprema CRM - prodajalci bi za delo na priložnostih prejeli točke sodelovanja.
 - Računovodska programska oprema - računovodje bi dobili točke za sodelovanje za vodenje knjig.
 - Terminal za merjenje časa - delavec v tovarni lahko dobi točke za delovni čas v tovarni.
 - Itd.
 
-Poleg tega vključenost, ki se ustvarja prek povezovalnika, sodeluje v globalni oceni vključenosti organizacije, ki je dejavnik porazdelitve Meedsovega kovanja, opisane v nadaljevanju. Za to mora biti priključek uvrščen na beli seznam združenja Meeds. Združenje pregleda priključek, odobri njegov algoritem in pridobi njegovo lastništvo v primerjavi z družbo Meeds. Nato postane del brezplačnih storitev, ki jih zagotavlja združenje, in je vključen v globalni indeks vključenosti. Vsak drug Deed lahko za svoje razvijalce uporablja isti priključek in enak algoritem nagrajevanja.
+Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Deed can use the same connector and the same reward algorithm for its developers.
 
-Imetnik ali najemnik listine lahko svojo trgovino obogati z lastnimi ugodnostmi, se poveže s spletno ponudbo ugodnosti itd. Tudi tu so možnosti neskončne:
+The Deed’s holder or renter can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
 
 - Tečaji usposabljanja
 - Članstvo v telovadnici
@@ -70,23 +70,23 @@ Imetnik ali najemnik listine lahko svojo trgovino obogati z lastnimi ugodnostmi,
 
 Trgovina deluje na podlagi uporabe sredstev Meeds, tako da se sredstva Meeds deloma vrnejo v Deed.
 
-## 2.5. Nagrade - Meeds in drugi žetoni
+## 2.5. Rewards – Meeds and other tokens
 
-WoM bo z igranjem digitalnih delovnih orodij ter dodeljevanjem točk in sredstev v povezavi z delovnim angažmajem uporabnikom omogočil, da bodo sodelovali z Meeds. Storitve, vključene v mehanizem za sodelovanje in nagrajevanje, vsakemu uporabniku pripišejo točke glede na njegovo stopnjo sodelovanja in v skladu s programi sodelovanja posameznega Deeda. Vsak Deed lahko namreč natančno prilagodi količino točk, ki se dodelijo za posamezno vrsto dejavnosti. Tako je lahko potiskanje kode v GitHubu vredno 10 točk za IT-oddelek, medtem ko lahko digitalna agencija za potiskanje v GitHubu pripiše le 5 točk, za retweetanje pa bi ponudila 10 točk.
+The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Deed’s engagement programs. Indeed, each Deed can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
 
-Sistem za nagrajevanje občasno pretvori točke sodelovanja v Meeds v skladu s proračuni in drugimi pravili razdeljevanja ter na koncu nagradi uporabnike prek njihovih denarnic. Deed ni treba razdeljevati Meedsov in lahko uporabi sistem za sodelovanje, da omogoči kakšno drugo obliko programa nagrajevanja. Vendar pa bo razdeljevanje žetonov Meeds izboljšalo njegovo zmogljivost kovnice.
+Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Deed is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
 
 Poleg tega ni nujno, da bo družba Deed pridobila sredstva Meeds, da bi jih lahko distribuirala in spodbujala svoje programe angažiranja, saj bo sredstva Meeds pridobila iz modela "mintium", ki je opisan v nadaljevanju.
 
-Poleg žetonov Meeds bo mogoče na podlagi istega mehanizma vključevanja distribuirati tudi druge žetone (na primer lastne žetone DAO). V tem primeru bo za distribucijo veljala 5-odstotna transakcijska provizija (v žetonu DAO) za združenje Meeds.
+In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
 
-## 2.6. Model "mintium" - ponotranjenje delovne zavzetosti
+## 2.6. The “mintium” model – tokenize work engagement
 
 Z vključevanjem uporabnikov v WoM družba Deeds dobi nadomestilo prek inovativnega modela mintium.
 
-Točke zavzetosti, ki jih pridobijo uporabniki Deeds, sodelujejo v globalnem indeksu zavzetosti, ki ga izračuna združenje Meeds. Indeks uporablja enako načelo za vse Deeds. Čeprav lahko Deed spremeni dodelitev točk in tako spodbuja eno dejanje v primerjavi z drugim, se te spremembe pri izračunu globalnega indeksa ne upoštevajo.
+Engagement points, gained by the Deeds’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Deeds. Even though the Deed can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
 
-Vsak teden je določena količina Meedov dodeljena za globalno izklicanje angažmaja WoM. Ta se tedensko sorazmerno izračuna med sodelujočimi dejanji. Nekateri Deedy dobijo dodatno povečanje, odvisno od njihove vrste. Deedy, ki v tem tednu zaprosijo za svoje Meede, jih prejmejo. Nezahtevani Meedy se dodajo k znesku globalne razdelitve v naslednjem tednu.
+Each week, a certain amount of Meeds is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Deeds. Some Deeds get an additional boost depending on their type. The Deeds that claim their Meeds over the week, receive them. The unclaimed Meeds are added to the following week’s global distribution amount.
 
 Ocena vključenosti _S_  Deed je funkcija vključenosti, števila vključenih uporabnikov in porazdelitve :
 
@@ -94,11 +94,11 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Kje :
 
-- $A$ = _Dejavnost_ - skupno število dejanj, ki so jih uporabniki zbrali v okviru akta v enem tednu. (Na ravni vsakega Deed se vsako dejanje pretvori v točke sodelovanja, pri čemer imajo nekatera dejanja večjo težo kot druga. Na ravni indeksa so vsa dejanja linearizirana).
+- $A$ = _Activity_ - total number of actions accumulated by users within the Deed over the week. (At each Deed’s level, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
 - $U$ = _Angažirani uporabniki_ - uporabniki, ki so med tednom prispevali k točkam z vsaj enim dejanjem.
 - $E_d$ = _Stopnja vključenosti dejanja_ - akcije na uporabnika ($A/U$)
 - $E_w$ = _Povprečna stopnja vključenosti_ vseh aktivnih Deedsj v WoM.
-- $D_r$ = _Distribucijska stopnja_ - če je Deed v preteklem obdobju prejel izkopan Meeds, je % Meeda, ki je bil razdeljen njegovim uporabnikom. Delež je lahko višji od 100 %, če distribucija zamuja.
+- $D_r$ = _Distribution rate_ - if a Deed received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
 - $D_s$ = _Razpon distribucije_ - če je dejanje v preteklem obdobju prejelo izklicane Meedy, je to % uporabnikov, ki so prejeli Meedy, v skupnem številu uporabnikov.
 - $M$ = _Moč menjave_ Deed, kot je opredeljena v točki 2.3
 
@@ -116,17 +116,17 @@ Poleg tega so na voljo ojačevalci za :
 - organizacije z največjo vključenostjo, ne glede na njihovo velikost (stopnja vključenosti glede na WoM)
 - redkejša deedy
 
-> Združenje Meeds si pridržuje pravico, da po potrebi spremeni formulo - če se na primer pojavijo nekateri posebni primeri uporabe. Združenje lahko tudi uvrsti na črno listo vse Deed, ki si prisvojijo formulo v svojo edinstveno korist.
+> The Meeds association reserves the right to change the formula if required – if some specific use cases arise for instance. The association can also blacklist any Deed that hijacks the formula to its unique benefit.
 
-Ker so Deeds nagrajeni z Meeds in spodbujeni, da jih razdelijo kot nagrade svojim uporabnikom za njihovo sodelovanje - interesi Deeds in njihovih uporabnikov so usklajeni v istem pozitivnem ciklu delitve prihodkov. Tako WoM ponuja nov model dela, ki na novo oblikuje odnos med delodajalcem in delavcem kot partnerstvo.
+As the Deeds are rewarded with Meeds and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the Deeds and their users are aligned in the same virtuous revenue sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
 
 Model "mintium" je prvi te vrste - gre dlje od tradicionalnega modela "freemium", saj storitve niso le brezplačne, temveč so za njihovo uporabo nagrajene tako organizacije kot njihovi uporabniki.
 
-## 2.7. Mesta in upravljanje
+## 2.7. Cities and governance
 
-V WoM se Deeds postopoma ustvarjajo znotraj virtualnih mest. Od začetka bo obstajalo le prvo mesto. Druga bodo nastajala postopoma, eno za drugim. V celotnem WoM bo kdajkoli obstajalo le 7 mest, vsako od njih pa bo vključevalo določeno število Deeds vsake vrste.
+In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
 
-Mesto se bo štelo za dokončano, ko bodo v njem izdelane vse Deedy. Vsako novo mesto se bo začelo kovati $2^n$ mesecev po kovanju zadnje Deed mesta $n-1$.
+A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
 
 | **Ime mesta** | **Deedy**   | **Na voljo**          | **Skupno** | **Neobičajno** | **Redko** | **Legendarni** |
 | ------------- | ----------- | --------------------- | ---------- | -------------- | --------- | -------------- |
@@ -138,7 +138,7 @@ Mesto se bo štelo za dokončano, ko bodo v njem izdelane vse Deedy. Vsako novo 
 | 6: Kushor     | 10 000 000  | Eshmum +64 mesecev    | 6 000 000  | 3 000 000      | 999 998   | 2              |
 | 7: Hammon     | 100 000 000 | Kushor + 128 mesecev  | 60 000 000 | 30 000 000     | 9 999 999 | 1              |
 
-Mesto je način združevanja zakoncev Deeds in ustvarite skupnost. In posledično pridobijo določeno identiteto, povezano s to skupnostjo. To je tudi način za zagotavljanje dodatne vrednosti svojim uporabnikom - vrednosti, ki bi presegala zmožnosti enega Deeda, ali vrednosti, ustvarjene s sodelovanjem med Deedy.
+A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
 
 Vsako mesto ima svojo upravo in upravlja svoj DAO, v katerem lahko lastniki mestnih Deeds' volijo mestni svet, glasujejo in določajo svoja pravila delovanja, dodajajo nove storitve in oblikujejo svoje mesto po svojih željah, da bi povečali privlačnost mesta in vrednost Deedy, ki so z njim povezani.
 

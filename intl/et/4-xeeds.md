@@ -32,7 +32,7 @@ Kasutajal on võimalik jagada oma Xeed, märgid ja volitused teiste Deedidega, e
 
 Kasutajal võib WoMis olla üks või mitu digitaalset identiteeti. Hiljem võis ta neid ühtselt esitada, kasutades kontrollitud esitlusi.
 
-Erinevalt veebist 2 on kasutaja oma detsentraliseeritud identiteetide täielik omanik. Viimane võib näidata (ja tõestada) Deedid, milles ta osales, tema tõestatud oskused, tema väidetavad oskused, teised Xeedid (inimesed), kellega ta töötas, tema digitaalne kujutis endast... Usaldusväärsel viisil LinkedIn 3.0.
+Erinevalt veebist 2 on kasutaja oma detsentraliseeritud identiteetide täielik omanik. Viimane võib näidata (ja tõestada) Deedid, milles ta osales, tema tõestatud oskused, tema väidetavad oskused, teised Xeedid (inimesed), kellega ta töötas, tema digitaalne kujutis endast... In a manner of trustworthy LinkedIn 3.0.
 
 Kasutajal on võimalik valida, kas midagi avaldada või mitte, millist teavet esitada ja milliseid identiteete iga positsiooni puhul kasutada. Sisu (tõestatud oskused, varasemad teod jne) on võltsimiskindel ja seega ei saa seda muuta. Igasugune identiteet tuleks välja töötada aja jooksul.
 

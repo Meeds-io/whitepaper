@@ -1,5 +1,5 @@
 
-# 1. ما کی هستیم - انجمن Meeds
+# 1. Who we are – the Meeds Association
 
 انجمن MEEDS یک سازمان غیرانتفاعی است که در ابتدا توسط چندین جوامع نرم افزار منبع باز (OSS) در اطراف چشم انداز مشترک یک دنیای دیجیتال آزاد راه اندازی شده است-دنیای غیر متمرکز که توسط تعداد معدودی از شرکت های متمرکز کنترل نمی شود.
 
@@ -11,4 +11,4 @@
 
 این انجمن به عنوان یک سازمان خودمختار غیرمتمرکز (DAO) ساخته شده است که دارندگان نشانه حاکمیت به کلیه تغییرات مهم سازمانی مانند انتخاب هیئت مدیره هر ساله رای می دهند.
 
-علاوه بر مدیریت Meeds Token ، انجمن دارای مالکیت معنوی (IP) نرم افزار Meeds [ github.com/meeds-io ](https://github.com/meeds-io) است که تحت مجوز LGPL موجود است و به صورت رایگان توزیع می شود. دومی شامل یک برنامه کیف پول Ethereum است که کاربران می توانند از آنها برای ذخیره و معامله کردن میمد های خود استفاده کنند (برای اطلاعات بیشتر به بخش 2.4 مراجعه کنید). انجمن Meeds همچنین یک سرویس میزبانی ابر چند مستاجر را با استفاده از آن نرم افزار اجرا می کند.
+Besides Meeds token management, the association holds the Intellectual Property (IP) of the Meeds software [github.com/meeds-io](https://github.com/meeds-io), available under the LGPL license and distributed for free. The latter includes an Ethereum wallet app that users can use to store and transact their Meeds (see section 2.4 for more details). The Meeds Association also runs a multi-tenant cloud hosting service leveraging that software.

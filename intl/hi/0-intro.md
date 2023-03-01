@@ -2,7 +2,7 @@
 
 ## सारांश
 
-उच्च लेन-देन लागत के कारण आज के कार्य बाजार में दक्षता का अभाव है[^1][^2]<sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</5 ></sup> और नियोक्ता और कर्मचारी के बीच हितों का लगातार टकराव।</p> 
+उच्च लेन-देन लागत के कारण आज के कार्य बाजार में दक्षता का अभाव है\[^1\]\[^2\]<sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</5></sup> और नियोक्ता और कर्मचारी के बीच हितों का लगातार टकराव।</p> 
 
 <p spaces-before="0">
   द वर्क मेटावर्स (WOM) एक नए प्रतिमान का प्रस्ताव करता है जो पारंपरिक निगमों और डीएओ के बीच की खाई को पाटते हुए लेनदेन की लागत को कम करेगा और रोजगार संबंधों को फिर से स्थापित DAO ।
@@ -17,19 +17,19 @@
 </h2>
 
 <p spaces-before="0">
-  कार्य बाजार आज टूटा हुआ है। यह कर्मचारियों और नियोक्ताओं दोनों को संतुष्ट करने में विफल रहता है।
+  The work market today is broken. It fails to satisfy both employees and employers.
 </p>
 
 <p spaces-before="0">
-  कर्मचारी पक्ष पर, सही नौकरी खोजना मुश्किल है। नौकरी बाजार कुछ प्रकार के व्यक्तियों का समर्थन करता है, महान कौशल सेट को पीछे छोड़ देता है। यह मानवीय पूर्वाग्रहों का एक समूह से प्रकट होता है - जातीय आधारित, लिंग, संकुचित आधारित, अंतर्मुखी आधारित आदि। कार्य बाजार में भी उपलब्ध पदों और रोजगार की स्थितियों के संबंध में पारदर्शिता का अभाव है।
+  On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
 </p>
 
 <p spaces-before="0">
-  एक बार नियोजित होने के बाद, मुआवजे के बदले कर्मचारी की व्यक्तिगत स्वतंत्रता का उल्लंघन होता है। कर्मचारियों का उनके काम के घंटों, कार्यस्थल, काम की सामग्री या काम के तरीकों में बहुत कम कहना है। और उनका मुआवजा शायद ही कभी उनके वास्तविक निहितार्थ या मूल्य से जुड़ा हो। मुआवजा नियमों में पारदर्शिता की कमी है और इसलिए, उन्हें अनुचित माना जाता है। इसके अलावा, मुआवजा और कैरियर की प्रगति मानवीय कारक पर भी निर्भर करती है - कर्मचारी तत्काल प्रबंधक की सद्भावना और निष्पक्षता।
+  Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
 </p>
 
 <p spaces-before="0">
-  दूसरी ओर, नियोक्ता, प्रतिभा की सोर्सिंग और नौकरी के लिए सही समय पर सही कौशल और सही फिट होने में कठिनाइयों का अनुभव करते हैं। नियोक्ता के पारंपरिक हायरिंग पूल के बाहर संभावित भाड़े के कौशल या स्रोत लोगों का पता लगाने का कोई वस्तुनिष्ठ तरीका नहीं है।
+  Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
 </p>
 
 <p spaces-before="0">
@@ -37,7 +37,7 @@
 </p>
 
 <p spaces-before="0">
-  इसके अलावा, नियोक्ताओं को भी अपने मौजूदा कर्मचारियों में कम व्यस्तता का सामना करना पड़ता है, जिससे रचनात्मकता, उत्पादकता और नवीनता कम होती है। उत्तरार्द्ध आज की अर्थव्यवस्था में अधिक कुशल रचनात्मक कार्य की आवश्यकता वाले सभी अधिक नुकसान पहुंचाता है।
+  Moreover, employers also face low engagement in their existing employees, leading to low creativity, productivity and innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
 </p>
 
 <p spaces-before="0">
@@ -46,7 +46,7 @@
 
 <ul>
   <li>
-    इंटरनेट के साथ, नौकरी बाजार अधिक एकता और पारदर्शिता की ओर विकसित हुआ, नौकरी पोस्टिंग साइटों, कैरियर साइटों आदि के लिए धन्यवाद। लेकिन निष्पक्षता तत्व के अभाव में लेनदेन की लागत अभी भी बहुत अधिक है।
+    With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element.
   </li>
   <li>
     एजेंट-प्रिंसिपल समस्या के रूप में, यह कर्मचारियों और शेयरधारकों के बीच बढ़ते राजस्व और धन के अंतर और नियोक्ता-कर्मचारी संबंधों की कठोरता से जटिल हो गया है।
@@ -58,19 +58,19 @@
 </p>
 
 <p spaces-before="0">
-  R. Coase के काम के बाद<fnref target="5" />, अधिकांश अर्थावकों ने काम का संकेत काम के लिए लेनदेन की शुल्क को कम करने की आवश्यकता के साथ संयोजन को जोड़ दिया है। इंटरनेट और हाल ही में ब्लॉकचैन और वेब3 ने हर जगह लेनदेन की लागत को कम करने, अर्थव्यवस्था को पुनर्जीवित करने और विशेष रूप से उद्यम को फिर से शुरू करने में रोमांचक संभावनाएं खोली हैं। पहले DAO<fnref target="6" /> ने इस प्रक्रिया को पूंजी स्रोत और प्रशासन के लिए लेनदेन की लागत को कम करने पर ध्यान केंद्रित करते हुए शुरू किया। WoM काम के लेनदेन की कीमत को कम करके इस तरीके को और आगे बढ़ाने के लिए कोशिश करता है। यह एक विकेन्द्रीकृत विश्व का प्रस्ताव है जहां नौकरी और कौशल का मेल मेला, जल्दी और विश्व स्तर पर किया जा सकता है।
+  Following R. Coase’s works<fnref target="5" />, most economists link the concept of enterprise with the necessity to mitigate transaction costs. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs<fnref target="6" /> started this process focusing on lowering the cost of transactions for capital sourcing and governance. The WoM aims at pushing this logic further by lowering the cost of work transactions. It proposes a decentralized world where jobs and skills matching could be done objectively, quickly and globally.
 </p>
 
 <p spaces-before="0">
-  पहले DAO पदानुक्रम को समतल करते हैं और स्वामित्व खोलते हैं। WoM नियोक्ता/कर्मचारी संबंधों को दबाने के बजाय पुन: आविष्कार करके इस तर्क का पालन करता है। यह एक पारदर्शी, वस्तुनिष्ठ और विकेन्द्रीकृत इनाम प्रतिमान पेश करता है, जो नियोक्ता और कर्मचारी हितों को स्थायी रूप से संरेखित करेगा।
+  The first DAOs flatten the hierarchies and open ownership. The WoM pursues this logic by reinventing rather than suppressing the employer/employee relationship. It introduces a transparent, objective and decentralized reward paradigm, that would sustainably align the employer and the employee interests.
 </p>
 
 <p spaces-before="0">
-  अंत में, कार्य मेटावर्स निगमों और डीएओ के बीच की खाई को पाटता DAO। एक ओर, यह पारंपरिक निगमों को विकेन्द्रीकृत दुनिया में एक आसान लागू सगाई पुरस्कृत प्रतिमान के माध्यम से पेश करता है, जो उनकी क्षतिपूर्ति प्रणालियों का पूरक है। दूसरी ओर, यह DAO के संचालन और मूल्य बनाने के स्थायी तरीकों का प्रस्ताव करता है। अंत में, WoM सबसे पहले स्थानीय आवेदनों में से एक हो सकता है जो ब्लॉकचेन का उपयोग करने के लिए सब कंपनियों और सब कर्मचारियों के लिए संवैधानिक बनाते हैं - साथ ही असंगत को शामिल किया गया है।
+  Finally, the Work Metaverse bridges the gap between corporations and the DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. On the other hand, it proposes sustainable ways to operate and create value for DAOs. Ultimately, the WoM could be among the first mainstream applications to democratize the use of the blockchain for every company and every employee – including non-digital ones.
 </p>
 
 <p spaces-before="0">
-  जैसा कि किसी भी विकेन्द्रीकृत उद्यम के साथ होता है, WOM प्रस्ताव मूल्य में तेजी से बढ़ता है क्योंकि अधिक लोग इसका उपयोग करते हैं। इस कारण से, संस्थापकों ने लंबी अवधि के हित को प्रोत्साहित करने और डब्ल्यूओएम लाभों पर एकाधिकार करने से बचने के लिए बहुत WOM बरती, चाहे अल्पावधि या दीर्घकालिक। यह एक खुला प्रतिमान है, जिसे अभी भी बनाया जाना है, और सभी से सक्रिय रचनात्मक भागीदारी के लिए खुला है।
+  As with any decentralized venture, the WoM proposal gains in value exponentially as more people use it. For that reason, founders took great care to encourage long term interest and avoid monopolizing the WoM benefits, whether short term or long term. It is an open paradigm, still to be built, and open to active creative participation from everyone.
 </p>
 
 <footnotes>

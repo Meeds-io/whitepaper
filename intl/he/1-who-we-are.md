@@ -1,5 +1,5 @@
 
-# 1. מי אנחנו – עמותת Meeds
+# 1. Who we are – the Meeds Association
 
 עמותת Meeds היא ארגון ללא מטרות רווח שהושק במקור על ידי מספר קהילות תוכנת קוד פתוח (OSS) סביב החזון המשותף של עולם דיגיטלי חופשי - עולם מבוזר שלא יהיה נשלט על ידי קומץ מגה-תאגידים מרכזיים.
 
@@ -11,4 +11,4 @@
 
 העמותה בנויה כארגון אוטונומי מבוזר (DAO) שבו מחזיקי אסימון הממשל מצביעים על כל השינויים הארגוניים החשובים כמו בחירת הדירקטוריון מדי שנה.
 
-מלבד ניהול האסימונים של Meeds, העמותה מחזיקה בקניין הרוחני (IP) של תוכנת Meeds [github.com/meeds-io](https://github.com/meeds-io), הזמינה תחת רישיון LGPL ומופצת בחינם. האחרון כולל אפליקציית ארנק Ethereum שמשתמשים יכולים להשתמש בה כדי לאחסן ולבצע עסקאות ב-Meeds שלהם (ראה סעיף 2.4 לפרטים נוספים). עמותת Meeds מפעילה גם שירות אירוח בענן מרובה דיירים הממנף את התוכנה הזו.
+Besides Meeds token management, the association holds the Intellectual Property (IP) of the Meeds software [github.com/meeds-io](https://github.com/meeds-io), available under the LGPL license and distributed for free. The latter includes an Ethereum wallet app that users can use to store and transact their Meeds (see section 2.4 for more details). The Meeds Association also runs a multi-tenant cloud hosting service leveraging that software.

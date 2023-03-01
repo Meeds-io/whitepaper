@@ -2,7 +2,7 @@
 
 ## Abstrakt
 
-Dagens arbetsmarknad saknar effektivitet på grund av höga transaktionskostnader[^1][^2]<sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</5 ></sup> och frekventa intressekonflikter mellan arbetsgivaren och arbetstagaren.</p> 
+Dagens arbetsmarknad saknar effektivitet på grund av höga transaktionskostnader\[^1\]\[^2\]<sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</5></sup> och frekventa intressekonflikter mellan arbetsgivaren och arbetstagaren.</p> 
 
 <p spaces-before="0">
   Work Metaverse (WoM) föreslår ett nytt paradigm som skulle sänka transaktionskostnaderna och återuppfinna anställningsförhållandet, och överbrygga klyftan mellan traditionella företag och DAO.
@@ -17,19 +17,19 @@ Dagens arbetsmarknad saknar effektivitet på grund av höga transaktionskostnade
 </h2>
 
 <p spaces-before="0">
-  Arbetsmarknaden idag är trasig. Det misslyckas med att tillfredsställa både anställda och arbetsgivare.
+  Arbetsmarknaden idag är bruten. Det lyckas inte tillfredsställa både anställda och arbetsgivare.
 </p>
 
 <p spaces-before="0">
-  På arbetstagarsidan är det svårt att hitta rätt jobb. Arbetsmarknaden gynnar vissa typer av individer och lämnar stor kompetens bakom sig. Detta kommer från en uppsättning mänskliga fördomar – rasbaserad, könsbaserad, handikappbaserad, introvertbaserad etc. Arbetsmarknaden saknar också insyn i de lediga tjänsterna och anställningsvillkoren.
+  På arbetstagarsidan är det svårt att hitta rätt jobb. Arbetsmarknaden gynnar vissa typer av individer och lämnar stora kompetenser bakom sig. Detta kommer från en uppsättning mänskliga fördomar – rasbaserade, könsbaserade, handikappbaserade, introverta baserade etc. Arbetsmarknaden saknar också öppenhet i fråga om lediga tjänster och anställningsvillkor.
 </p>
 
 <p spaces-before="0">
-  När anställd är anställd kränks den anställdes personliga friheter i utbyte mot ersättning. Anställda har lite att säga till om i sin arbetstid, arbetsplats, arbetsinnehåll eller arbetssätt. Och deras ersättning är sällan kopplad till deras verkliga innebörd eller värde. Ersättningsregler saknar insyn och upplevs därför som orättvisa. Dessutom är ersättning och karriärframsteg också beroende av den mänskliga faktorn – den anställdes närmaste chefs goda tro och objektivitet.
+  När arbetstagarens personliga rättigheter har anställts kränks de i utbyte mot ersättning. Arbetstagarna har lite att säga till om i sin arbetstid, arbetsplats, arbetsinnehåll eller arbetsmetoder. Och deras ersättning är sällan kopplad till deras verkliga innebörd eller värde. Ersättningsreglerna saknar insyn och uppfattas därför som orättvisa. Dessutom är ersättning och karriärframsteg också beroende av den mänskliga faktorn – den anställdes närmaste chefens goda tro och objektivitet.
 </p>
 
 <p spaces-before="0">
-  Arbetsgivare, å andra sidan, upplever svårigheter med att skaffa talanger och anställa rätt kompetens och rätt passform vid rätt tidpunkt för jobbet. Det finns inget objektivt sätt att fastställa den potentiella anställningens kompetens eller hitta personer utanför arbetsgivarens traditionella anställningspool.
+  Arbetsgivare, å andra sidan, upplever svårigheter med att skaffa talang och anställa rätt kompetens och rätt passform vid rätt tidpunkt för jobbet. Det finns inget objektivt sätt att fastställa den potentiella anställningens kompetens eller källa människor utanför arbetsgivarens traditionella anställningspool.
 </p>
 
 <p spaces-before="0">
@@ -37,7 +37,7 @@ Dagens arbetsmarknad saknar effektivitet på grund av höga transaktionskostnade
 </p>
 
 <p spaces-before="0">
-  Dessutom möter arbetsgivare också lågt engagemang i sina befintliga anställda, vilket leder till låg kreativitet, produktivitet och innovation. Det senare tillfogar desto mer skada i dagens ekonomi som kräver mer skickligt kreativt arbete.
+  Dessutom står arbetsgivarna inför ett lågt engagemang i sina befintliga medarbetare, vilket leder till låg kreativitet, produktivitet och innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
 </p>
 
 <p spaces-before="0">
@@ -46,7 +46,7 @@ Dagens arbetsmarknad saknar effektivitet på grund av höga transaktionskostnade
 
 <ul>
   <li>
-    Med Internet utvecklades arbetsmarknaderna mot mer enhet och transparens tack vare platsannonser, karriärsajter, etc. Men transaktionskostnaderna är fortfarande för höga i avsaknad av objektivitetselement.
+    Med Internet utvecklades arbetsmarknaderna mot mer enighet och transparens tack vare jobbutstationeringsplatser, karriärsidor etc. Men transaktionskostnaderna är fortfarande för höga i avsaknad av objektivitet.
   </li>
   <li>
     När det gäller problemet med agent och huvudman har det förvärrats av den ökande inkomst- och förmögenhetsklyftan mellan anställda och aktieägare och det rigida förhållandet mellan arbetsgivare och arbetstagare.
@@ -58,19 +58,19 @@ Dagens arbetsmarknad saknar effektivitet på grund av höga transaktionskostnade
 </p>
 
 <p spaces-before="0">
-  I enlighet med R. Coases arbeten<fnref target="5" /> kopplar de flesta ekonomer begreppet företagande till behovet av att minska transaktionskostnaderna. Internet och på senare tid blockchain och web3 öppnar spännande möjligheter att sänka transaktionskostnaderna överallt, återuppfinna ekonomin och i synnerhet företaget. De första DAO: erna<fnref target="6" /> startade denna process genom att fokusera på att sänka transaktionskostnaderna för kapitalanskaffning och styrning. WoM syftar till att driva denna logik vidare genom att sänka kostnaden för arbetstransaktioner. Den föreslår en decentraliserad värld där matchning av jobb och kompetens kan ske objektivt, snabbt och globalt.
+  Efter R. Coases verk<fnref target="5" />, de flesta ekonomer knyter samman begreppet företag med nödvändigheten att minska transaktionskostnaderna. Internet och på senare tid blockchain och web3 öppnar spännande möjligheter för att sänka transaktionskostnaderna överallt, återuppfinna ekonomin och i synnerhet återuppfinna företaget. De första DAO:erna<fnref target="6" /> startade denna process med fokus på att sänka transaktionskostnaderna för kapitalanskaffning och styrning. WoM syftar till att driva denna logik vidare genom att sänka kostnaderna för arbetstransaktioner. Man föreslår en decentraliserad värld där arbetstillfällen och färdigheter kan matchas objektivt, snabbt och globalt.
 </p>
 
 <p spaces-before="0">
-  De första DAO:erna plattar till hierarkierna och öppnar för ägande. WoM följer denna logik genom att återuppfinna arbetsgivar- och arbetstagarförhållandet snarare än att förtrycka det. Den inför ett öppet, objektivt och decentraliserat belöningssystem som på ett hållbart sätt anpassar arbetsgivarens och arbetstagarens intressen till varandra.
+  De första DAO:erna plattar hierarkierna och det öppna ägandet. WoM följer denna logik genom att återuppfinna snarare än att undertrycka anställningsförhållandet. Det introducerar ett genomskinligt, objektivt och decentraliserat belöningsparadigm, som på ett hållbart sätt skulle anpassa arbetsgivaren och arbetstagarnas intressen.
 </p>
 
 <p spaces-before="0">
-  Slutligen överbryggar Work Metaverse klyftan mellan företag och DAO:er. Å ena sidan introducerar det traditionella företag i den decentraliserade världen genom ett lättanvänt paradigm för belöning av engagemang, som kompletterar deras ersättningssystem. Å andra sidan föreslås hållbara sätt att driva och skapa värde för DAO:er. I slutändan kan WoM bli en av de första vanliga tillämpningarna för att demokratisera användningen av blockkedjan för varje företag och varje anställd - inklusive icke-digitala anställda.
+  Slutligen överbryggar Metaverse arbetet klyftan mellan företag och DAO:er. Å ena sidan introducerar man traditionella företag i den decentraliserade världen genom ett lättanvänt engagemang som belönar paradigmet och kompletterar deras kompensationssystem. Å andra sidan föreslår man hållbara sätt att arbeta och skapa värde för DAO:er. I slutändan, WoM kan vara en av de första konventionella tillämpningarna för att demokratisera användningen av blockchain för varje företag och varje anställd – inklusive icke-digitala sådana.
 </p>
 
 <p spaces-before="0">
-  Som med alla decentraliserade projekt ökar WoM-förslaget i värde exponentiellt i takt med att fler människor använder det. Därför var grundarna mycket noga med att uppmuntra långsiktigt intresse och undvika att monopolisera WoM:s fördelar, både på kort och lång sikt. Det är ett öppet paradigm som fortfarande är under uppbyggnad och som är öppet för aktivt kreativt deltagande från alla.
+  Som med alla decentraliserade företag, WoM-förslaget vinner i värde exponentiellt eftersom fler människor använder det. Av den anledningen var grundarna mycket noga med att uppmuntra långsiktigt intresse och undvika monopolisering av WoM-förmåner, vare sig kortsiktigt eller långsiktigt. Det är ett öppet paradigm, fortfarande att bygga, och öppet för aktivt kreativt deltagande från alla.
 </p>
 
 <footnotes>
