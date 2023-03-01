@@ -60,5 +60,5 @@ Valóban, bármilyen munkarészvétel potenciálisan tokenizálható. Valójába
 
 Bármely felhasználó szerezhet Meed-eket és használhat Meed-tárcát új korú szolgáltatásokhoz való hozzáféréséhez anélkül, hogy különleges képzésre lenne szüksége.
 
-[^7]: A.Preukschatt, R. Drummond "Önálló személyiség"
-[^8]: Ellenőrizhető hitelesítési adatmodell
+[^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
+[^8]: Verifiable Credentials Data Model
