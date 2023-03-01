@@ -36,7 +36,7 @@ Im Gegensatz zum Web 2 liegt der Nutzer im vollen Besitz seiner dezentralen Iden
 
 Der Benutzer kann auswählen, ob er etwas preisgeben möchte, welche Informationen bereitstellen und welche Identitäten er für jede Position verwenden möchte. Der Inhalt (bewiesene Fähigkeiten, frühere Urkunden usw.) ist manipulationssicher und kann daher nicht verändert werden. Jede Identität müsste im Laufe der Zeit entwickelt werden.
 
-## 4.4. Ein fairer Arbeitsmarktplatz
+## 4.4. Fairer Arbeitsmarkt
 
 Innerhalb dieses Paradigmas ermöglicht der zukünftige Arbeitsmarkt den Anwendern, sich frei zu bewegen und ihr Engagement unter den Trägern zu verteilen oder zu verkaufen – wie sie es in der physischen Welt tun, indem sie Arbeitgeber wechseln. Allerdings wäre ihre Beteiligung in der WoM greifbar, gemessen und auf faire Weise belohnt. Indem sie zwischen Systemen wechseln, die einer ähnlichen Logik folgen, werden sie die Regeln des Spiels besser verstehen und Arbeitgeber fair beurteilen - das Gras ist nicht immer grüner woanders. Die Benutzer werden wählen können, welche Deed bessere Bedingungen für die Verlobung bietet, gehört zu einer attraktiveren Stadt usw.
 
@@ -60,5 +60,5 @@ Tatsächlich kann jedes Engagements potenziell tokenisiert werden. Tatsächlich 
 
 Jeder Benutzer kann Meeds erhalten und ein Meeds Wallet verwenden, um Zugang zu neuen Diensten zu erhalten, ohne besondere Schulung.
 
-[^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity "
-[^8]: Überprüfbare Zugangsdaten Datenmodell
+[^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
+[^8]: Verifiable Credentials Data Model
