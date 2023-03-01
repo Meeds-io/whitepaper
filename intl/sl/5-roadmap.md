@@ -52,7 +52,7 @@ Ta dokument je bil objavljen na dan uvedbe. Po uvedbi bo žeton v zraku prejelo 
 
 ## 5.4. Skupnost gradbenikov
 
-Začenjamo s skupnostjo graditeljev v programski opremi Meeds in na Discordu.  V skupnosti so dobrodošli vsi, ki želijo sodelovati pri gradnji Metaverse Delo. Združenje bo iz svojega proračuna za trženje nagrajevalo sodelovanje graditeljev s podjetjem Meeds.
+Začenjamo s skupnostjo graditeljev v programski opremi Meeds in na Discordu. V skupnosti so dobrodošli vsi, ki želijo sodelovati pri gradnji Metaverse Delo. Združenje bo iz svojega proračuna za trženje nagrajevalo sodelovanje graditeljev s podjetjem Meeds.
 
 Združenje načrtuje tudi vložek nekaterih Meedov, da bi pridobilo (odkupilo) listino za skupnost graditeljev. Skupnost bo nato prek modela mintium kovala Meede po vključenosti in jih razdelila vključenim uporabnikom.
 

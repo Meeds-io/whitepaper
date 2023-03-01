@@ -98,7 +98,7 @@ Kje :
 - $U$ = _Angažirani uporabniki_ - uporabniki, ki so med tednom prispevali k točkam z vsaj enim dejanjem.
 - $E_d$ = _Stopnja vključenosti dejanja_ - akcije na uporabnika ($A/U$)
 - $E_w$ = _Povprečna stopnja vključenosti_ vseh aktivnih Deedsj v WoM.
-- $D_r$ = _Distribucijska stopnja_ - če je Deed v preteklem obdobju prejel izkopan Meeds, je % Meeda, ki je bil razdeljen njegovim uporabnikom. Delež je lahko višji od 100 %, če distribucija zamuja.
+- $D_r$ = _Razpon distribucije_ - če je dejanje v preteklem obdobju prejelo izklicane Meedy, je to % uporabnikov, ki so prejeli Meedy, v skupnem številu uporabnikov. Delež je lahko višji od 100 %, če distribucija zamuja.
 - $D_s$ = _Razpon distribucije_ - če je dejanje v preteklem obdobju prejelo izklicane Meedy, je to % uporabnikov, ki so prejeli Meedy, v skupnem številu uporabnikov.
 - $M$ = _Moč menjave_ Deed, kot je opredeljena v točki 2.3
 
