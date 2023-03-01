@@ -55,18 +55,18 @@ Neue Dienste können über APIs in die Belohnungsmaschine integriert werden. Bei
 - CRM-Software – Vertriebsmitarbeiter würden Engagement-Punkte für die Arbeit an Opportunities erhalten.
 - Buchhaltungssoftware – Buchhalter würden Engagementpunkte für das Führen von Büchern erhalten.
 - Stempelterminal – Fabrikarbeiter können Punkte für Fabrikarbeitszeit bekommen.
-- Etc.
+- Ed.
 
 Darüber hinaus nimmt das über den Konnektor erzeugte Engagement am globalen Engagement-Score der Organisation teil, der ein Faktor der beschriebenen Prägeverteilung von Meeds ist unter. Dazu muss der Connector von der Meeds Association auf die Whitelist gesetzt werden. Die Association überprüft den Konnektor, genehmigt seinen Algorithmus und erwirbt sein Eigentum gegen Meeds. Es wird dann Teil der kostenlosen Dienstleistungen des Vereins und wird in den globalen Engagement-Index aufgenommen. Jede andere Deed kann denselben Konnektor und denselben Belohnungsalgorithmus für ihre Entwickler verwenden.
 
-Der Inhaber oder Mieter des Deed kann sein Geschäft mit eigenen Vergünstigungen bereichern, sich mit einem Online-Vergünstigungsangebot verbinden usw. Auch hier sind die Möglichkeiten endlos: Auch hier sind die Möglichkeiten endlos:
+Der Inhaber oder Mieter des Deed kann sein Geschäft mit eigenen Vergünstigungen bereichern, sich mit einem Online-Vergünstigungsangebot verbinden usw. Auch hier sind die Möglichkeiten endlos:
 
 - Trainingskurse
 - Mitgliedschaften im Fitnessstudio
 - Pauschalreisen
 - Mittagessen mit einem Leiter der Organisation
 - Physische Büroräume
-- Etc.
+- Ed.
 
 Das Geschäft funktioniert durch die Verwendung von Meeds, sodass Meeds teilweise an Deed zurückgegeben werden.
 
@@ -100,7 +100,7 @@ Wo:
 - $E_w$ = _Durchschnittliche Engagement-Rate_ aller aktiven Deeds im WoM.
 - $D_r$ = _Verteilungsrate_ - wenn eine Urkunde geprägte Meeds für den vorangegangenen Zeitraum erhalten hat, der Prozentsatz der Meeds, die an ihre Benutzer verteilt wurden. Die % können über 100 liegen, wenn die Verteilung zeitlich verzögert erfolgt.
 - $D_s$ = _Distribution Spread_ - wenn ein Deed im vorangegangenen Zeitraum geprägte Meeds erhalten hat, der Prozentsatz der Benutzer, die Meeds im Gesamtpool von Benutzern erhalten haben.
-- $M$ = _Münzleistung_ der Urkunde gemäß der Definition in 2.3
+- $M$ = _Münzmacht_ der Urkunde gemäß der Definition in 2.3
 
 
 Der globale Engagement-Index, der verwendet wird, um geprägte Meeds unter den Deeds zu verteilen, ist die Summe aller Engagement-Werte aller Deeds für die Woche.
