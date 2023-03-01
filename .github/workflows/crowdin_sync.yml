@@ -1,6 +1,8 @@
 name: Crowdin Action
 
 on:
+  schedule: 
+    - cron: '30 5,12,17 * * *'
   push:
     branches: [ main ]
     paths:
