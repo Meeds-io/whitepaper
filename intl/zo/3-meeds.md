@@ -2,7 +2,7 @@
 
 Work Metaverse 由其貨幣——Meeds (MEED) 代幣提供支持。 Meeds 用於獎勵用戶（通過參與計劃）、在商店購買、獲得 Deeds、獲得投資的財務回報等。
 
-## 3.1. 代幣經濟學 3.1. 代币经济学
+## 3.1. 代幣經濟學 代币经济学
 
 Meeds **最大供應量限制為 1 億個代幣**，逐步鑄造。 **Meeds 以每分鐘 10 個 Meed 的速度鑄造**。 因此，整個鑄造週期接近 20 年（因為每年鑄造大約 $10*60*24*365 = 500 萬美元 Meeds）。
 
@@ -49,7 +49,7 @@ The association operates a Builders community that welcomes WoM enthusiasts, who
 - 通過操作協會隨時間鑄造的 Deeds。
 
 
-## 3.5. 投資者 投資者
+## 3.5. 投資者
 
 投資者通過提供流動性和抵押 Meeds 來幫助創建 WoM，從而在建設期間穩定其價格水平。 兩者都通過鑄幣得到鼓勵。
 
