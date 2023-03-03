@@ -53,33 +53,33 @@ Nakon završetka razdoblja kovanja, udrugu će održavati:
 
 Investitori pomažu u stvaranju WoM-a osiguravanjem likvidnosti i ulaganjem u Meeds te na taj način stabiliziraju razinu njegove cijene tijekom razdoblja izgradnje. Oboje se potiče kroz kovanje.
 
-**Pružatelji likvidnosti** Upravljanje valutnom likvidnošću ključno je za uspjeh projekta i koristit će se nekoliko DeFi strategija za optimizaciju kapitalne učinkovitosti. Počet ćemo s poticajima za ulaganje MeedS/ETH LP skupnih tokena i postupno ćemo uvoditi obveznice kako bismo se pomaknuli prema likvidnosti u vlasništvu protokola. The latter would contribute to the association’s long term sustainability - as mentioned above, transaction fees will fund the association operating expenses such as cloud hosting.
+**Pružatelji likvidnosti** Upravljanje valutnom likvidnošću ključno je za uspjeh projekta i koristit će se nekoliko DeFi strategija za optimizaciju kapitalne učinkovitosti. Počet ćemo s poticajima za ulaganje MeedS/ETH LP skupnih tokena i postupno ćemo uvoditi obveznice kako bismo se pomaknuli prema likvidnosti u vlasništvu protokola. Potonje bi doprinijelo dugoročnoj održivosti udruge - kao što je gore spomenuto, naknade za transakcije će financirati operativne troškove udruge kao što je hosting u oblaku.
 
-Every member also has the right to directly purchase a large amount of Meeds at a discount. The amount wired to the association account is converted to ETH and added along with the equivalent value of Meeds to the Liquidity Pool.
+Potonje bi doprinijelo dugoročnoj održivosti udruge - kao što je gore spomenuto, naknade za transakcije će financirati operativne troškove udruge kao što je hosting u oblaku. Iznos prebačen na račun udruge pretvara se u ETH i dodaje zajedno s ekvivalentnom vrijednošću Meedsa u Liquidity Pool.
 
-**Staking / long-term investment** To encourage long term investment, staked Meeds are rewarded. When Meeds are staked, the staker gets some xMeeds tokens. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings. In practice, minted Meeds are effectively added to the holdings of the xMeeds smart contract and distributed to the xMeeds holder when they unstake.
+**Ulog / dugoročna investicija** Kako bi se potaknulo dugoročno ulaganje, uloženi Meeds se nagrađuju. Kad se ulože potrebe, uhoda dobiva nekoliko božićnih žetona. Novo iskovani Meedovi se distribuiraju ulagačima proporcionalno njihovim xMeeds posjedima. U praksi, iskovani Meeds efektivno se dodaju fondovima xMeeds pametnog ugovora i distribuiraju xMeeds nositelju kada povuku ulog.
 
-By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. Each staked Meeds (xMeeds) grants its owner a number of points per day. The longer the vested period the higher the number of points obtained per xMeeds. Each Deed is then redeemed in exchange for a number of points.
+Ulažući Meeds, ulagači također mogu otkupiti Deeds (a zatim sudjelovati u kovanju kroz angažman), čime se povećava potražnja za tokenima. Svaki uloženi Meeds (xMeeds) svom vlasniku daje određeni broj bodova dnevno. Što je duže stečeno razdoblje, veći je broj bodova dobiven po xMeedsu. Svako se djelo tada otkupljuje u zamjenu za određeni broj bodova.
 
-Points are calculated using the formula below :
+Bodovi se izračunavaju prema donjoj formuli:
 
  $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
 
  gdje :
 
-- $xMeeds$ : xMeeds balance  with no decimals
-- $T$ : Time elapsed in milliseconds
+- $xMeeds$ : xMeeds bilanca bez decimala
+- $T$ : Proteklo vrijeme u milisekundama
 
-The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably. For example, the formula gives the following rates :
+Formula izbjegava favoriziranje velikih vlasnika kako bi se dionice raspodijelile učinkovitije i pravednije. Na primjer, formula daje sljedeće stope:
 
-| **Holder Size** | **Imovina**    | **Accrue Rate** |
-| --------------- | -------------- | --------------- |
-| Maleno          | 1 000 xMeeds   | 28 pts/day      |
-| Srednje         | 10 000 xMeeds  | 164 pts/day     |
-| Veliki          | 100 000 xMeeds | 321 pts/day     |
+| **Veličina držača** | **ImovinaHoldings** | **Povećana stopa** |
+| ------------------- | ------------------- | ------------------ |
+| Mali                | 1 000 xMeeds        | 28 bodova/dan      |
+| Srednje             | 10 000 xMeeds       | 164 boda/dan       |
+| Veliki              | 100 000 xMeeds      | 321 pts/day        |
 
 
-which leads to the following holding time for each class of holder :
+što dovodi do sljedećeg vremena zadržavanja za svaku klasu držača:
 
 | **Vrsta kartice** | **Cijena**     | **Large Holder** | **Medium Holder** | **Small Holder** |
 | ----------------- | -------------- | ---------------- | ----------------- | ---------------- |
