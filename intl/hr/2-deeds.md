@@ -138,16 +138,16 @@ Grad će se smatrati dovršenim nakon što su iskovana sva njegova Deeds. Zatim 
 | 6: Kushor     | 10 000 000  | Eshmum + 64 mjeseca   | 6 000 000     | 3 000 000        | 999 998     | 2              |
 | 7: Hammon     | 100 000 000 | Kushor + 128 mjeseca  | 60 000 000    | 30 000 000       | 9 999 999   | 1              |
 
-A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
+Grad je način na koji se Deedovi okupljaju i stvaraju zajednicu. I kao posljedica toga, steći određeni identitet, povezan s tom zajednicom. To je također način pružanja dodatne vrijednosti svojim korisnicima - vrijednosti koja bi nadilazila mogućnosti jednog Djela ili vrijednosti stvorene suradnjom između Djela.
 
-Each city has its own govenance and operates its own DAO where the city’s Deeds’ owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
+Svaki grad ima vlastitu upravu i upravlja vlastitim DAO-om gdje vlasnici gradskih djela mogu izabrati svoje gradsko vijeće, glasovati i uspostaviti vlastita pravila rada, dodavati nove usluge i oblikovati svoj grad na način na koji žele i tako povećati atraktivnost grada i vrijednost djela koja su uz njega vezana.
 
-For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add Meeds powered food services, vacations services, etc...
+Na primjer, mogli bi dodati digitalni prikaz svog grada, fizičke parnjake povezane s njihovim gradom (na primjer, sobe za sastanke u fizičkim co-working prostorima), dodati usluge prehrane koje pokreće Meeds, usluge za odmor itd... Na primjer, mogli bi dodati digitalni prikaz svog grada, fizičke parnjake povezane s njihovim gradom (na primjer, sobe za sastanke u fizičkim co-working prostorima), dodati usluge prehrane koje pokreće Meeds, usluge za odmor itd...
 
-By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
+Prema zadanim postavkama (osim ako grad ne izglasa drugačije), grad (5%) i Udruga (3%) će "oporezovati" pasivni prihod od iznajmljivanja za poticanje produktivne upotrebe.
 
-Ownsership transactions (Deed’s sales) will also be taxed 6% :
+Vlasničke transakcije (prodaja isprava) također će biti oporezovane 6%:
 
-- 2.5% for the City,
-- 2.5% for the Association,
-- 1% for the original wallet that redeemed the Deed.
+- 2,5% za Grad,
+- 2,5% za Udrugu,
+- 1% za originalni novčanik kojim je otkupljen Ugovor.
