@@ -1,64 +1,64 @@
-# 4. Xeeds - Work Metaverse Individuals / users
+# 4. Xeeds - کار Metaverse افراد / کاربران
 
-## 4.1. Decentralized and self-sovereign models
+## 4.1. مدل های غیرمتمرکز و خودمختار
 
-The WoM recognizes privacy as a fundamental human right and empowers users to own their data.
+WoM حریم خصوصی را به عنوان یک حقوق اساسی انسانی به رسمیت می شناسد و به کاربران اجازه می دهد تا داده های خود را داشته باشند.
 
-Our approach is based on decentralized and self-sovereign identity principles, allowing users to be in control at any time of what information they want to publicize, share with a restricted group, or keep private.
+رویکرد ما مبتنی بر اصول هویت غیرمتمرکز و خودمختار است و به کاربران این امکان را می‌دهد که در هر زمان اطلاعاتی را که می‌خواهند عمومی کنند، با یک گروه محدود به اشتراک بگذارند یا خصوصی نگه دارند، کنترل کنند.
 
-User's activity and engagement in the WoM is always linked to a Deed. A Xeed is the virtual persona of a user in a Deed. Xeed does not require any KYC, it is self-declaring, but we could conceivably imagine third-party firms providing this service.
+فعالیت و مشارکت کاربر در WoM همیشه به یک سند مرتبط است. Xeed شخصیت مجازی یک کاربر در یک Deed است. Xeed به هیچ KYC نیاز ندارد، خود اعلام می کند، اما ما می توانیم تصور کنیم که شرکت های شخص ثالث این سرویس را ارائه می دهند.
 
-## 4.2. Badges and credentials
+## 4.2. نشان ها و اعتبارنامه ها
 
-Badges and Credentials are given to users as a part of their participation in a Deed. The holder may download them as W3C Verifiable Credentials[^7][^8] (aka VCs) and store them in his wallet. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
+نشان ها و اعتبارنامه ها به عنوان بخشی از مشارکت آنها در یک سند به کاربران داده می شود. دارنده می‌تواند آنها را به‌عنوان اعتبارنامه تأییدپذیر W3C[^7][^8] (معروف به VC) دانلود کرده و در کیف پول خود ذخیره کند. این VCها گواهی بر دانش/دانش علمی هستند که توسط سازمان صادرکننده آن تأیید شده است.
 
-In today’s world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they count on their managers to give them a recommendation. The latter supposes certain goodwill on the part of the manager but is not necessarily treated as proof by the future employer.
+در دنیای امروز، اثبات یک مهارت از قبل دشوار است. وقتی مردم خودشان را در شبکه ها تبلیغ می کنند، روی مدیرانشان حساب می کنند تا به آنها توصیه کنند. مورد دوم، حسن نیت مشخصی را از سوی مدیر فرض می کند، اما لزوماً توسط کارفرمای آینده به عنوان مدرک تلقی نمی شود.
 
-The Work Metaverse provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
+Work Metaverse ابزاری شفاف‌تر و تغییرناپذیر برای افراد برای کسب و نشان دادن توانایی‌های خود فراهم می‌کند.
 
-Badges are used to represent accomplishments made within a Deed. After completing a set of objectives or challenges, users will be awarded points. Badges can be unlocked by accumulating certain amounts of points in specific categories.
+نشان ها برای نشان دادن دستاوردهای انجام شده در یک سند استفاده می شوند. پس از تکمیل مجموعه ای از اهداف یا چالش ها، به کاربران امتیاز تعلق می گیرد. نشان ها را می توان با جمع آوری مقادیر مشخصی از امتیازها در دسته های خاص باز کرد.
 
-When badges are downloaded by the user, it is possible to include the number of points and his rank in the Deed for this specific accomplishment.
+هنگامی که نشان‌ها توسط کاربر دانلود می‌شوند، می‌توان تعداد امتیاز و رتبه او را در سند برای این دستاورد خاص درج کرد.
 
-Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the Deed. These are signed by the Deed and can be accompanied by a signature by a peer user.
+اعتبارنامه ها نسبت به مدال ها انعطاف پذیرتر هستند. آنها می توانند توصیه ای از یک همتا باشند، که نشان دهنده سال ها تخصص، تکمیل آموزش یا امتحان، یا مشارکت در سند باشد. اینها توسط سند امضا می شوند و می توانند با امضای یک کاربر همتا همراه شوند.
 
-## 4.3. Digital work identity
+## 4.3. هویت کاری دیجیتال
 
-All of the above contributes to forming proven digital skillset that can be kept and used by the user when changing jobs or freelancing. It would be more trustworthy than traditional solutions as it relies on not just one individual but a full community to prove it.
+همه موارد فوق به شکل‌گیری مهارت‌های دیجیتال اثبات‌شده کمک می‌کند که می‌تواند توسط کاربر در هنگام تغییر شغل یا فریلنسینگ حفظ و استفاده شود. این امر نسبت به راه حل های سنتی قابل اعتمادتر خواهد بود زیرا برای اثبات آن نه تنها به یک فرد بلکه به یک جامعه کامل متکی است.
 
-Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Deed to another, from one city to another, anywhere through the WoM.
+درست مانند کیف پول Meeds خود، کاربر Xeed، نشان‌ها و اعتبارنامه‌های متصل به آن را در کیف پول هویتی خود در هنگام انتقال از یک سند به سند دیگر، از شهری به شهر دیگر، در هر جایی از طریق WoM حفظ می‌کند.
 
-The user will be able to share his Xeed, Badges, and Credentials with other Deeds to highlight his experience, as well as with recruiters or any other services that he deems interesting.
+کاربر می‌تواند Xeed، نشان‌ها و اعتبارنامه‌های خود را با سایر اسناد به اشتراک بگذارد تا تجربه خود را برجسته کند، همچنین با استخدام‌کنندگان یا هر سرویس دیگری که به نظرش جالب است.
 
-A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations.
+یک کاربر می تواند یک یا چند هویت دیجیتال در WoM داشته باشد. او بعداً می‌تواند آنها را با استفاده از ارائه‌های تأیید شده به روشی یکپارچه ارائه کند.
 
-Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... In a manner of trustworthy LinkedIn 3.0.
+برخلاف وب 2، کاربر مالکیت کامل هویت غیرمتمرکز خود را دارد. دومی می‌تواند کارهایی را که در آن شرکت داشته، مهارت‌های اثبات‌شده‌اش، مهارت‌های ادعاشده‌اش، سایر Xeeds (افرادی) که با آنها کار کرده، نمایش دیجیتالی‌اش از خودش را نشان دهد (و اثبات کند). به شیوه ای قابل اعتماد لینکدین 3.0.
 
-The user will be able to select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Deeds, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time.
+کاربر می‌تواند انتخاب کند که آیا چیزی را فاش کند یا نه، چه اطلاعاتی را ارائه کند و از چه هویت‌هایی برای هر موقعیت استفاده کند. محتوا (مهارت اثبات شده، اسناد قبلی، و غیره) ضد دستکاری است و بنابراین نمی توان آن را تغییر داد. هر هویتی باید در طول زمان ایجاد شود.
 
-## 4.4. Fair work marketplace
+## 4.4. بازار کار منصفانه
 
-Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Deeds – as they do in the physical world by changing employers. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to choose which Deed provides better engagement reward conditions, belongs to a more attractive city, etc.
+در این پارادایم، بازار کار آینده به کاربران اجازه می دهد تا آزادانه حرکت کنند و مشارکت خود را در بین Deeds تخصیص دهند/بفروشند - همانطور که در دنیای فیزیکی با تغییر کارفرمایان انجام می دهند. با این حال، در WoM مشارکت آنها ملموس، سنجیده و به شیوه ای منصفانه پاداش می گیرد. با حرکت بین سیستم‌هایی که از منطق مشابهی پیروی می‌کنند، قواعد بازی را بهتر درک می‌کنند و کارفرمایان را منصفانه قضاوت می‌کنند – چمن همیشه در جاهای دیگر سبزتر نیست. کاربران می توانند انتخاب کنند که کدام سند شرایط پاداش تعامل بهتری را ارائه می دهد، متعلق به شهر جذاب تر است و غیره.
 
-On their end, the Deeds’ holders/renters can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
+در پایان، دارندگان/اجاره‌کنندگان سند می‌توانند با استفاده از شبکه WoM هویت‌های دیجیتال کار (که کاربران تصمیم به افشای آن دارند)، مهارت‌های مرتبط را جستجو کنند. آنها می توانند بر اساس اطلاعات تایید شده و دقیق در مورد سابقه کاری، مهارت های کاری و سطح تعامل کاربر، مهارت ها را به طور مؤثرتری منبع یابی کنند.
 
-## 4.5. Tangible and transparent recognition
+## 4.5. تشخیص ملموس و شفاف
 
-Today, details on compensation and bonuses are obscure in many workplaces. Therefore, it is difficult for a person to compare his conditions to that of another and get a sense of a fair and unbiased treatment. Employees experience a lot of frustrations with the above.
+امروزه جزئیات مربوط به غرامت و پاداش در بسیاری از محیط های کاری مبهم است. بنابراین، برای یک فرد دشوار است که شرایط خود را با شرایط دیگری مقایسه کند و احساس یک رفتار منصفانه و بی طرفانه داشته باشد. کارمندان با موارد فوق نا امیدی زیادی را تجربه می کنند.
 
-The WoM introduces an objective way to recognize achievements and reward them.
+WoM روشی عینی برای شناسایی دستاوردها و پاداش دادن به آنها معرفی می کند.
 
-Engagement recognition and reward mechanism is transparent and applies fairly to all users, following the same explicit rules, decided in advance and aligned with the Deed’s goals.
+مکانیسم شناسایی و پاداش تعامل شفاف است و به طور عادلانه برای همه کاربران اعمال می‌شود و از قوانین صریح یکسانی پیروی می‌کند، از قبل تصمیم گرفته شده و با اهداف سند همسو می‌شود.
 
-Wallets are individual and blockchain based – when the user receives a reward or earns a badge, it cannot be taken back or erased.
+کیف پول ها فردی هستند و مبتنی بر بلاک چین هستند – زمانی که کاربر پاداشی دریافت می کند یا نشانی به دست می آورد، نمی توان آن را پس گرفت یا پاک کرد.
 
-## 4.6. Access to Web 3.0, cryptoeconomy and DEFI services
+## 4.6. دسترسی به وب 3.0، cryptoeconomy و خدمات DEFI
 
-As discussed above, the Work Metaverse opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
+همانطور که در بالا توضیح داده شد، Work Metaverse دنیای ارزهای دیجیتال و خدمات وب غیرمتمرکز را به روی همه افراد باز می کند - جمعیت بسیار زیادی از کاربران، حتی احتمالاً بی ارتباط با حوزه دیجیتال.
 
-Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
+در واقع، هر تعامل کاری به طور بالقوه می تواند نشانه گذاری شود. در واقع جهان با روندهایی مانند 5G، iot، پوشیدنی ها و غیره به طور فزاینده ای دیجیتالی می شود. در نتیجه، سیگنال‌های بالقوه بیشتری را می‌توان دریافت و تجزیه و تحلیل کرد تا تعامل حرفه‌های غیر دیجیتال را به‌عنوان نشانه‌گذاری کند. چالش ها با نمایش دستاوردها در دنیای فیزیکی، راهی آماده برای نمادسازی آن فراهم می کنند.
 
-Any user can get Meeds and use a Meeds wallet to get access to new age services without any special training.
+هر کاربری می تواند نیازها را دریافت کند و از کیف پول Needs برای دسترسی به خدمات عصر جدید بدون آموزش خاصی استفاده کند.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Verifiable Credentials Data Model
