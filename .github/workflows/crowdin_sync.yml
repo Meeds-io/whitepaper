@@ -31,21 +31,11 @@ jobs:
           else
             LOCALES='["ar", "cs", "de", "el", "es-ES", "et", "fa", "fil", "fr", "he", "hi", "hr", "id", "it", "ja", "ko", "lt", "nl", "no", "pl", "pt-BR", "ro", "ru", "sk", "sl", "sv-SE", "th", "tr", "uk", "vi", "zh-CN", "zh-TW"]'
           fi
-          echo ::set-output name=locales::${LOCALES}
-
-  # ------------------------
-  my_echo:
-    runs-on: ubuntu-latest
-    needs:
-      - set_locales
-    steps:
-      - name: Echo previous outputs
-        run: echo "${{ toJSON(needs.set_locales.outputs) }}"
+          echo "locales=${LOCALES}" >> $GITHUB_OUTPUT
 
   crowdin:
     name: Synchronize with Crowdin
     needs:
-      - my_echo
       - set_locales    
     runs-on: ubuntu-latest
     permissions: write-all
@@ -54,7 +44,6 @@ jobs:
       #GITHUB_TOKEN: ${{ secrets.GH_TOKEN_CROWDIN }}
       CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
       CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
-      #LOCALES: '["ar", "cs", "de", "el", "es-ES", "et", "fa", "fil", "fr", "he", "hi", "hr", "id", "it", "ja", "ko", "lt", "nl", "no", "pl", "pt-BR", "ro", "ru", "sk", "sl", "sv-SE", "th", "tr", "uk", "vi", "zh-CN", "zh-TW"]'
     strategy:
       fail-fast: false
       max-parallel: 1 # Should be 1 to avoid parallel builds
