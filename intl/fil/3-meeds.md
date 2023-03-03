@@ -4,7 +4,7 @@ The Work Metaverse is powered by its currency – the Meeds (MEED) token. Ang mg
 
 ## 3.1. Tokenomics
 
-Ang Meeds **Ang maximum na supply ay limitado sa 100 milyong tokens**, mga barya na ginawa nang paunti-unti. **Meeds are minted at the rate of 10 MEED per minute**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).
+Ang Meeds **Ang maximum na supply ay limitado sa 100 milyong tokens**, mga barya na ginawa nang paunti-unti. **Ang mga Meed ay pinapalya sa rate na 10 MEED kada minuto**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).
 
 5 Million Meeds (5% of total supply) have been pre-minted to date. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services.
 
@@ -94,16 +94,16 @@ Meeds token holders need to stake tokens in order to vote on the Meeds DAO decis
 
 ## 3.7. Decentralized finance (DeFi) user services
 
-The Work Metaverse will introduce the blockchain world to many people who do not use it today.
+Ipakikilala ng Work Metaverse ang mundo ng blockchain sa maraming tao na hindi gumagamit nito ngayon.
 
-Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
+Sa katunayan, ang anumang gawain ( maging digital o hindi ) ay maaaring gamified at anumang pakikipag-ugnay - gantimpala sa Meeds. Ang mga pagsukat ay magagamit sa mga gumagamit sa pamamagitan ng isang madaling gamitin, batay sa blockchain, pitaka na “ abstract ” anumang pagiging kumplikado ng mundo ng crypto sa isang average na gumagamit.
 
-Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
+Higit pa sa pitaka at isang tindahan kung saan maaari silang bumili ng mga perks para sa Meeds, plano naming ipakilala ang bawat gumagamit sa maraming mga produkto ng end-user na pinalakas ng mga protocol ng Desentralisadong Pananalapi, tulad ng:
 
-- The ability to stake Meeds tokens and get yields (generate revenues)
-- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
-- A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. This card could also be used by organizations to fund employee wallets in order to manage employee benefits such as restaurants, transportation and any type of expenses.
+- Ang kakayahang mag-stake ng mga token ng Meeds at makakuha ng mga ani ( makabuo ng mga kita )
+- Ang kakayahang gumamit ng mga token ng Meeds bilang isang collateral upang humiram ng mga matatag na barya tulad ng USDC ( pag-leveraging una sa isang [ Fuse pool ](https://app.rari.capital/fuse) pagkatapos ay irehistro ang token ng Meeds sa [AAVE](https://aave.com/).
+- Isang digital card na maaaring maidagdag at magamit sa pamamagitan ng Apple Pay, Google pay o anumang ATM. Ang huli ay maaaring ibigay sa pamamagitan ng isang pakikipagtulungan sa VISA at gagamitin ang isang linya ng kredito sa USDC, na na-secure ng mga staked Meeds. Ang kard na ito ay maaari ring magamit ng mga organisasyon upang pondohan ang mga dompet ng empleyado upang pamahalaan ang mga benepisyo ng empleyado tulad ng mga restawran, transportasyon at anumang uri ng gastos.
 
-So not only many new users will discover the blockchain world, they will also discover a bankless world.
+Kaya hindi lamang maraming mga bagong gumagamit ang matutuklasan ang mundo ng blockchain, matutuklasan din nila ang isang walang bangko na mundo.
 
  
