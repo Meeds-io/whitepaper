@@ -4,7 +4,7 @@ This repository contains the source and translations for the [Work Metaverse Whi
 
 ## :trophy: Contribute ##
 
-To contribute, join the [meeds-whitepaper](https://crowdin.com/project/meeds) project on Crowdin and start translating in your favorite language.
+To contribute, join the [meeds](https://crowdin.com/project/meeds) project on Crowdin and start translating in your favorite language.
 
  :gift: **Rewards** : Contributions to the translations of this whitepaper are part of the *[Meeds Translation Program](https://builders.meeds.io/portal/g/:spaces:engage/engage/notes/20)* and are subject to community rewards. Join the [Meeds Builders](https://builders.meeds.io) community to participate in the [Translation Challenge](https://builders.meeds.io/portal/meeds/challenges/93) and earn [$MEEDs](https://www.coingecko.com/en/coins/meeds-dao) tokens for your work.
 
