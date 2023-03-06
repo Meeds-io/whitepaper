@@ -17,19 +17,19 @@ Današnjem tržištu rada nedostaje učinkovitosti zbog visokih transakcijskih t
 </h2>
 
 <p spaces-before="0">
-  Tržište rada danas je slomljeno. Ne uspijeva zadovoljiti ni zaposlenike ni poslodavce.
+  Tržište rada danas je slomljeno. Ne uspijeva zadovoljiti i zaposlenike i poslodavce.
 </p>
 
 <p spaces-before="0">
-  Što se tiče zaposlenika, teško je pronaći pravi posao. Tržište rada daje prednost određenim vrstama pojedinaca, ostavljajući iza sebe veliki skup vještina. To dolazi iz niza ljudskih predrasuda – rasnih, spolnih, hendikepiranih, introvertnih itd. Tržištu rada također nedostaje transparentnosti u pogledu raspoloživih radnih mjesta i uvjeta zapošljavanja.
+  S poslovne strane, teško je pronaći odgovarajuće poslove. Tržište rada favorizira određene tipove ljudi, ostavljajući iza sebe izvrsne vještine. Ovo proizlazi iz skupa ljudskih pristranosti - rasnih, rodno uvjetovanih, uvjetovanih invaliditetom, uvjetovanih introvertnošću itd. Tržište rada također nedostaje transparentnosti u pogledu dostupnih radnih mjesta i uvjeta zaposlenja.
 </p>
 
 <p spaces-before="0">
-  Nakon zaposlenja, osobne slobode zaposlenika su povrijeđene u zamjenu za naknadu. Zaposlenici imaju malo utjecaja na svoje radno vrijeme, radno mjesto, sadržaj rada ili metode rada. A njihova je naknada rijetko povezana s njihovom stvarnom implikacijom ili vrijednošću. Pravilima o naknadama nedostaje transparentnost i stoga se doživljavaju kao nepravedna. Štoviše, naknada i napredak u karijeri ovise i o ljudskom faktoru – dobroj vjeri i objektivnosti neposrednog rukovoditelja zaposlenika.
+  Jednom zaposleni, osobne slobode zaposlenika krše se u zamjenu za naknadu. Zaposlenici imaju malo mogućnosti utjecaja na svoje radno vrijeme, mjesto rada, sadržaj posla ili metode rada. A njihova naknada rijetko je povezana s njihovim stvarnim doprinosom ili vrijednosti. Pravila o naknadi nedostaju transparentnosti i stoga se percipiraju kao nepravedna. Osim toga, naknada i napredak u karijeri također ovise o ljudskom faktoru - dobroj namjeri i objektivnosti neposrednog menadžera zaposlenika.
 </p>
 
 <p spaces-before="0">
-  Poslodavci, s druge strane, imaju poteškoća u pronalaženju talenata i zapošljavanju pravih vještina i osoba koje odgovaraju u pravo vrijeme za posao. Ne postoji objektivan način za utvrđivanje vještina potencijalnog zaposlenika ili pronalaženje ljudi izvan poslodavceve tradicionalne skupine za zapošljavanje.
+  S druge strane, poslodavci imaju poteškoća u pronalaženju talenata i zapošljavanju pravih vještina i pravog profila u pravo vrijeme za posao. Ne postoji objektivan način za utvrđivanje potencijalnih vještina novozaposlenih ili pronalaženje ljudi izvan tradicionalnog bazena za zapošljavanje poslodavca.
 </p>
 
 <p spaces-before="0">
@@ -37,7 +37,7 @@ Današnjem tržištu rada nedostaje učinkovitosti zbog visokih transakcijskih t
 </p>
 
 <p spaces-before="0">
-  Štoviše, poslodavci se također suočavaju s niskim angažmanom svojih postojećih zaposlenika, što dovodi do niske kreativnosti, produktivnosti i inovativnosti. Potonje nanosi još veću štetu u današnjoj ekonomiji koja zahtijeva vještiji kreativni rad.
+  Osim toga, poslodavci se također suočavaju s niskom angažiranošću svojih postojećih zaposlenika, što dovodi do niske kreativnosti, produktivnosti i inovativnosti. Ovo posljednje prouzročuje još više štete u današnjoj ekonomiji koja zahtijeva sve više kreativnog i vještog rada.
 </p>
 
 <p spaces-before="0">
@@ -46,7 +46,7 @@ Današnjem tržištu rada nedostaje učinkovitosti zbog visokih transakcijskih t
 
 <ul>
   <li>
-    S internetom su tržišta rada evoluirala prema većem jedinstvu i transparentnosti zahvaljujući stranicama za oglašavanje poslova, stranicama za karijeru itd. No transakcijski su troškovi još uvijek previsoki u nedostatku elementa objektivnosti.
+    Zahvaljujući internetskim stranicama za objavu radnih mjesta, stranicama za karijere i drugim sličnim portalima, tržišta rada su evoluirala prema većoj jedinstvenosti i transparentnosti. No, troškovi transakcija još uvijek su previsoki u odsutnosti elementa objektivnosti.
   </li>
   <li>
     Što se tiče problema agent-principal, on je složen sve većim jazom u prihodima i bogatstvu između zaposlenika i dioničara te rigidnošću odnosa poslodavac-zaposlenik.
@@ -58,19 +58,19 @@ Današnjem tržištu rada nedostaje učinkovitosti zbog visokih transakcijskih t
 </p>
 
 <p spaces-before="0">
-  Slijedeći radove R. Coasea<fnref target="5" />, većina ekonomista povezuje koncept poduzeća s nužnošću smanjenja transakcijskih troškova. Internet i odnedavno blockchain i web3 otvaraju uzbudljive mogućnosti za smanjenje transakcijskih troškova posvuda, ponovno osmišljavanje gospodarstva, a posebno ponovno izmišljanje poduzeća. Prvi DAO-ovi<fnref target="6" /> započeli su ovaj proces fokusirajući se na smanjenje troškova transakcija za izvor kapitala i upravljanje. WoM ima za cilj dalje pomicanje ove logike snižavanjem troškova radnih transakcija. Predlaže decentralizirani svijet u kojem se usklađivanje poslova i vještina može učiniti objektivno, brzo i globalno.
+  Slijedeći radove R. Coase-a<fnref target="5" />, većina ekonomista povezuje koncept poduzeća s nužnosti ublažavanja troškova transakcija. Internet i, u novije vrijeme, blockchain i web3 otvaraju uzbudljive mogućnosti za smanjenje troškova transakcija posvuda, izmišljajući gospodarstvo i posebno poduzeća. Prva DAO-a <fnref target="6" /> započela su ovaj proces usredotočujući se na smanjenje troškova transakcija za izvor kapitala i upravljanje. WoM ima za cilj daljnje guranje te logike smanjenjem troškova transakcija rada. Predlaže se stvaranje decentraliziranog svijeta u kojem bi se poslovi i usklađivanje vještina mogli obavljati na objektivan, brz i globalan način.
 </p>
 
 <p spaces-before="0">
-  Prvi DAO izravnavaju hijerarhije i otvaraju vlasništvo. WoM slijedi ovu logiku reinventirajući umjesto potiskujući odnos poslodavac/zaposlenik. Uvodi transparentnu, objektivnu i decentraliziranu paradigmu nagrađivanja, koja bi održivo uskladila interese poslodavca i zaposlenika.
+  Prvi DAO-ovi izravnaju hijerarhije i otvaraju decentralizaciju vlasništva. WoM ide dalje u ovom smjeru tako da ponovno izmišlja odnos poslodavac/zaposlenik umjesto da ga ukida. Uvodi transparentan, objektivan i decentralizirani paradigmu nagrade koja bi održivo uskladila interese poslodavca i zaposlenika.
 </p>
 
 <p spaces-before="0">
-  Konačno, Work Metaverse premošćuje jaz između korporacija i DAO-ova. S jedne strane, uvodi tradicionalne korporacije u decentralizirani svijet kroz paradigmu nagrađivanja angažmana koju je lako primijeniti, nadopunjavajući njihove sustave naknada. S druge strane, predlaže održive načine rada i stvaranja vrijednosti za DAO-ove. U konačnici, WoM bi mogao biti među prvim mainstream aplikacijama koje demokratiziraju korištenje blockchaina za svaku tvrtku i svakog zaposlenika – uključujući i one koji nisu digitalni.
+  Konačno, Radni Metaverse povezuje jaz između korporacija i DAO-ova. S jedne strane, uvodi tradicionalne korporacije u decentralizirani svijet kroz lako primjenjiv paradigma nagrađivanja uklapanja, koji nadopunjuje njihove sustave nadoknade. S druge strane, predlaže održive načine za operiranje i stvaranje vrijednosti za DAO-ove. Konačno, WoM bi mogao biti među prvima glavnih primjena koje će demokratizirati uporabu blockchaina za svaku tvrtku i svakog zaposlenika - uključujući one koji nisu digitalni.
 </p>
 
 <p spaces-before="0">
-  Kao i kod svakog decentraliziranog pothvata, WoM prijedlog eksponencijalno dobiva na vrijednosti što ga više ljudi koristi. Iz tog razloga, osnivači su jako pazili da potaknu dugoročni interes i izbjegnu monopoliziranje prednosti WoM-a, bilo kratkoročnih ili dugoročnih. To je otvorena paradigma koju tek treba izgraditi i otvorena za aktivno kreativno sudjelovanje svih.
+  Kao i s bilo kojim decentraliziranim poduhvatom, prijedlog WoM-a dobiva na vrijednosti eksponencijalno kako se više ljudi koristi njime. Zbog toga su osnivači posebno pazili na poticanje dugoročnog interesa i izbjegavanje monopoliziranja koristi WoM-a, bilo kratkoročno ili dugoročno. To je otvoreni paradigma koja još treba biti izgrađena, otvorena za aktivno kreativno sudjelovanje svih.
 </p>
 
 <footnotes>
