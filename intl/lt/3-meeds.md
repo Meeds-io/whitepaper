@@ -88,22 +88,22 @@ which leads to the following holding time for each class of holder :
 | Rare          | 50 000 pts  | 156 days         | 10 months         | 5 years          |
 | Legendary     | 100 000 pts | 311 days         | 20 months         | 10 years         |
 
-## 3.6. Meeds DAO governance
+## 3.6. Meeds DAO valdymas
 
-Meeds token holders need to stake tokens in order to vote on the Meeds DAO decisions such as managing the minting budget or electing DAO board members (annual mandate).
+Meeds žetonų turėtojai turi statyti žetonus, kad galėtų balsuoti dėl Meeds DAO sprendimų, pavyzdžiui, monetų kalyklos biudžeto valdymo arba DAO valdybos narių rinkimo (metinis įgaliojimas).
 
-## 3.7. Decentralized finance (DeFi) user services
+## 3.7. Decentralizuotų finansų (DeFi) vartotojų paslaugos
 
-The Work Metaverse will introduce the blockchain world to many people who do not use it today.
+Work Metaverse supažindins su blokų grandinės pasauliu daugybę žmonių, kurie šiandien juo nesinaudoja.
 
-Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
+Iš tiesų, bet kokį darbą (nesvarbu, skaitmeninį ar neskaitmeninį) galima paversti žaidimu, o už bet kokį įsitraukimą - atlyginti Meeds. Meeds vartotojams prieinami per lengvai naudojamą, blokų grandine paremtą piniginę, kuri vidutiniam vartotojui "abstrahuoja" bet kokį kriptovaliutų pasaulio sudėtingumą.
 
-Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
+Be piniginės ir parduotuvės, kurioje galima įsigyti privilegijų Meeds, planuojame kiekvieną naudotoją supažindinti su keliais galutinio vartotojo produktais, paremtais decentralizuotais finansų protokolais, pvz:
 
-- The ability to stake Meeds tokens and get yields (generate revenues)
-- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
-- A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. This card could also be used by organizations to fund employee wallets in order to manage employee benefits such as restaurants, transportation and any type of expenses.
+- Galimybė statyti Meeds žetonus ir gauti pelną (generuoti pajamas)
+- Galimybė naudoti Meeds žetonus kaip užstatą skolinantis stabilias monetas, pavyzdžiui, USDC (pirmiausia panaudojant [Fuse pool](https://app.rari.capital/fuse), tada registruojant Meeds žetoną [AAVE](https://aave.com/).
+- Skaitmeninė kortelė, kurią galima pridėti ir naudoti per Apple Pay, Google pay arba bet kurią ATM. Pastaroji gali būti teikiama bendradarbiaujant su VISA ir bus naudojama kredito linija USDC, užtikrinta Meeds. Šią kortelę organizacijos taip pat gali naudoti darbuotojų piniginėms finansuoti, kad galėtų tvarkyti darbuotojų lengvatas, pavyzdžiui, restoranų, transporto ir bet kokias kitas išlaidas.
 
-So not only many new users will discover the blockchain world, they will also discover a bankless world.
+Taigi ne tik daug naujų naudotojų atras blokų grandinės pasaulį, bet ir pasaulį be bankų.
 
  
