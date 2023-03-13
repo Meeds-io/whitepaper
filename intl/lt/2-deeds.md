@@ -116,38 +116,38 @@ Be to, įrengti stiprintuvai, skirti :
 - labiausiai įsitraukusios organizacijos, neatsižvelgiant į jų dydį (įsitraukimo lygis, palyginti su WoM)
 - retesni Deeds
 
-> Meeds asociacija pasilieka teisę keisti formulę, jei to prireiktų, pavyzdžiui, iškilus tam tikriems specifiniams naudojimo atvejams. The association can also blacklist any Deed that hijacks the formula to its unique benefit.
+> Meeds asociacija pasilieka teisę keisti formulę, jei to prireiktų, pavyzdžiui, iškilus tam tikriems specifiniams naudojimo atvejams. Asociacija taip pat gali įtraukti į juodąjį sąrašą bet kurį Deed, kuris pasisavina formulę savo naudai.
 
-As the Deeds are rewarded with Meeds and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the Deeds and their users are aligned in the same virtuous revenue sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
+Kadangi Deeds gauna atlygį Meeds ir yra skatinami perskirstyti jį kaip atlygį savo naudotojams už jų įsitraukimą - tiek Deeds, tiek jų naudotojų interesai yra suderinti tame pačiame naudingame pajamų pasidalijimo cikle. Taigi WoM siūlo naują darbo modelį, pagal kurį darbdavio ir darbuotojo santykiai pertvarkomi į partnerystę.
 
-The “mintium” model is the first of a kind - it goes further than the traditional freemium one, as not only the services are free to use but both the organizations and their users are rewarded for using them.
+Mintium modelis yra pirmasis toks modelis - jis žengia toliau nei tradicinis freemium modelis, nes paslaugomis ne tik galima naudotis nemokamai, bet ir organizacijos bei jų naudotojai gauna atlygį už naudojimąsi jomis.
 
-## 2.7. Cities and governance
+## 2.7. Miestai ir valdymas
 
-In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. In the entire WoM, there will ever only be 7 cities, each including a fixed number of Deeds of each type.
+WoM žaidime darbai virtualiuose miestuose bus generuojami palaipsniui. Nuo pat pradžių egzistuos tik pirmasis miestas. Kiti bus statomi palaipsniui, vienas po kito. Visame WoM kada nors bus tik 7 miestai, kiekviename iš jų bus fiksuotas kiekvieno tipo Deeds skaičius.
 
-A city will be considered complete, once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
+Miestas bus laikomas užbaigtu, kai bus nukaldinti visi jo Deeds. Tada kiekvienas naujas miestas bus pradedamas kaldinti praėjus $2^n$ mėnesių po to, kai buvo nukaldintas paskutinis $n-1$ miesto Deeds.
 
-| **City name** | **Deeds**   | **Available**        | **Common** | **Uncommon** | **Rare**  | **Legendary** |
-| ------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
-| 1: Tanit      | 100         | T0                   | 50         | 30           | 13        | 7             |
-| 2: Reshef     | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
-| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
-| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
+| **Miesto pavadinimas** | **Deeds**   | **Galima rasti**     | **Common** | **Uncommon** | **Rare**  | **Legendary** |
+| ---------------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
+| 1: Tanit               | 100         | T0                   | 50         | 30           | 13        | 7             |
+| 2: Reshef              | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
+| 3: Ashtarte            | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
+| 4: Melqart             | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
+| 5: Eshmun              | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
+| 6: Kushor              | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
+| 7: Hammon              | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
 
-A city is a way for the Deeds to come together and create a community. And as a consequence, acquire a certain identity, associated with that community. It is also a way to provide additional value to its users - value that would go beyond one Deed’s capabilities or value created through cooperation between the Deeds.
+Miestas - tai būdas Deeds susiburti ir sukurti bendruomenę. Ir dėl to įgyja tam tikrą tapatybę, susijusią su ta bendruomene. Tai taip pat yra būdas suteikti papildomą vertę savo naudotojams - vertę, kuri viršytų vienos Deed galimybes, arba vertę, sukurtą bendradarbiaujant Deeds.
 
-Each city has its own govenance and operates its own DAO where the city’s Deeds’ owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
+Kiekvienas miestas turi savo valdžią ir valdo savo DAO, kuriame miesto Deeds savininkai gali rinkti savo miesto tarybą, balsuoti ir nustatyti savo veiklos taisykles, teikti naujas paslaugas ir formuoti savo miestą taip, kaip jie nori, kad padidintų miesto patrauklumą ir su juo susijusių Deeds vertę.
 
-For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add Meeds powered food services, vacations services, etc...
+Pavyzdžiui, jie galėtų pridėti skaitmeninį savo miesto atvaizdą, fizinius partnerius, susijusius su jų miestu (pavyzdžiui, susitikimų kambarius fizinėse bendradarbystės erdvėse), Meeds maitinimo paslaugas, atostogų paslaugas ir t. t.
 
-By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
+Pagal nutylėjimą (nebent miestas nubalsuos kitaip), pasyvios pajamos, gaunamos iš aktų nuomos, bus "apmokestinamos" miesto (5 %) ir asociacijos (3 %), kad būtų skatinamas produktyvus naudojimas.
 
-Ownsership transactions (Deed’s sales) will also be taxed 6% :
+Nuosavybės sandoriai (Deed's sales) taip pat bus apmokestinami 6 %:
 
-- 2.5% for the City,
-- 2.5% for the Association,
-- 1% for the original wallet that redeemed the Deed.
+- 2,5 % miestui,
+- 2,5 % Asociacijai,
+- 1 % pradinei piniginei, kuri išpirko Deed.
