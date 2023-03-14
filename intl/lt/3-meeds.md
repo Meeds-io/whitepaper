@@ -49,23 +49,23 @@ After the minting period is over, the association will be sustained by :
 - by operating the Deeds that the association minted over time.
 
 
-## 3.5. Investors
+## 3.5. Investuotojai
 
-Investors help creating the WoM by providing liquidity and by staking Meeds and thus stabilizing its price level during the construction period. Both are encouraged through minting.
+Investuotojai padeda kurti WoM teikdami likvidumą ir statydami Midus, taip stabilizuodami jų kainų lygį statybų laikotarpiu. Ir viena, ir kita skatinama kaldinant monetą.
 
-**Liquidity providers** Currency liquidity management is key to the success of the project and several DeFi strategies will be used to optimize capital efficiency. We will start with incentives for staking MeedS/ETH LP pool tokens and will progressively introduce bonds to move towards a protocol owned liquidity. The latter would contribute to the association’s long term sustainability - as mentioned above, transaction fees will fund the association operating expenses such as cloud hosting.
+**Likvidumo teikėjai** Valiutos likvidumo valdymas yra labai svarbus projekto sėkmei, todėl siekiant optimizuoti kapitalo efektyvumą bus naudojamos kelios DeFi strategijos. Pradėsime nuo paskatų statyti MeedS/ETH LP fondo žetonus ir palaipsniui įvesime obligacijas, kad pereitume prie protokolui priklausančio likvidumo. Pastarosios lėšos prisidėtų prie asociacijos ilgalaikio tvarumo - kaip minėta, iš sandorių mokesčių bus finansuojamos asociacijos veiklos išlaidos, pavyzdžiui, debesijos priegloba.
 
-Every member also has the right to directly purchase a large amount of Meeds at a discount. The amount wired to the association account is converted to ETH and added along with the equivalent value of Meeds to the Liquidity Pool.
+Kiekvienas narys taip pat turi teisę tiesiogiai įsigyti didelį kiekį "Meeds" su nuolaida. Į asociacijos sąskaitą pervesta suma konvertuojama į ETH ir kartu su atitinkama Meeds verte įtraukiama į likvidumo rezervą.
 
-**Staking / long-term investment** To encourage long term investment, staked Meeds are rewarded. When Meeds are staked, the staker gets some xMeeds tokens. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings. In practice, minted Meeds are effectively added to the holdings of the xMeeds smart contract and distributed to the xMeeds holder when they unstake.
+**Atsiskaitymas / ilgalaikės investicijos** Siekiant paskatinti ilgalaikes investicijas, už statymus Meeds yra atlyginama. Kai Meeds pastatomas ant stulpo, jį statantis žaidėjas gauna x Meeds žetonų. Naujai iškalti Meeds paskirstomi stakeriams proporcingai jų turimam xMeedS kiekiui. Praktiškai nukaldinti Meeds faktiškai pridedami prie xMeeds išmaniosios sutarties atsargų ir paskirstomi xMeeds turėtojui, kai jis atsilaisvina.
 
-By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. Each staked Meeds (xMeeds) grants its owner a number of points per day. The longer the vested period the higher the number of points obtained per xMeeds. Each Deed is then redeemed in exchange for a number of points.
+Investuotojai, statydami žetonus Meeds, taip pat gali išpirkti žetonus Deeds (ir tada dalyvauti monetų kalykloje įsitraukdami), taip padidindami žetonų paklausą. Kiekvienas pastatytas Midas (xMeeds) suteikia savininkui tam tikrą taškų skaičių per dieną. Kuo ilgesnis teisių įgijimo laikotarpis, tuo daugiau taškų gaunama už xMeeds. Tada kiekvienas aktas išperkamas mainais į tam tikrą skaičių taškų.
 
-Points are calculated using the formula below :
+Taškai apskaičiuojami pagal toliau pateiktą formulę:
 
  $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
 
- where :
+ Kur:
 
 - $xMeeds$ : xMeeds balance  with no decimals
 - $T$ : Time elapsed in milliseconds
