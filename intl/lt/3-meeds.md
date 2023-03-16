@@ -25,15 +25,15 @@ At the beginning, the builders get 30% of the allocation. The 70% are shared bet
 
 Part of the continuously minted Meeds is allocated to the engagement minting channel. The distribution is done weekly. At any given week end, the engagement index is calculated and Deeds can claim their rewards the following week and get their Meeds. Unclaimed Meeds stay in the fund and are added to the next week’s distribution. The model is described in detail in the previous chapter (part 2.6).
 
-## 3.4. Builders – Meeds association DAO and community of builders
+## 3.4. Statybininkai - Meeds asociacija DAO ir statybininkų bendruomenė
 
-The WoM and the Meeds token are operated by the non-profit Meeds Association DAO, introduced above. A multisig contract called the _Meeds DAO Funds_ is used to manage the association's operating expenses.
+WoM ir "Meeds" žetoną valdo pirmiau pristatyta pelno nesiekianti Meeds Association DAO. Asociacijos veiklos išlaidoms valdyti naudojama daugiašalė sutartis, vadinama _Meeds DAO Funds_.
 
-During the minting period, **30% of the minted Meeds are allocated to the Meeds association**.
+Kaldinimo laikotarpiu **30 % nukaldintų Meeds skiriama Meeds asociacijai**.
 
-Association members can provide services to the association on the basis of a signed services convention establishing the man-day rate. Services are paid monthly in Meeds, based on the market price. Exemples of services include – enriching the Meeds software, developing the WoM app, developing new connectors, operating the cloud service, providing financial and legal services etc.
+Asociacijos nariai gali teikti paslaugas asociacijai remdamiesi pasirašyta paslaugų teikimo sutartimi, kurioje nustatomas žmogaus dienos įkainis. Už paslaugas kas mėnesį mokama Meeds pagal rinkos kainą. Paslaugų pavyzdžiai: Meeds programinės įrangos tobulinimas, WoM programėlės kūrimas, naujų jungčių kūrimas, debesijos paslaugų teikimas, finansinių ir teisinių paslaugų teikimas ir kt.
 
-Without being a member, any Deed can participate in the creation of a new connector and be rewarded for doing so – first through the Meeds association acquiring the connector and then by minting through this connector.
+Nebūdamas nariu, bet kuris Deed gali dalyvauti kuriant naują jungtį ir už tai gauti atlygį - pirmiausia per Meeds asociaciją, kuri įsigyja jungtį, o paskui per šią jungtį kalti pinigus.
 
 The association operates a Builders community that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
 
