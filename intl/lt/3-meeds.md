@@ -1,29 +1,29 @@
-# 3. Meeds token – the Work Metaverse currency
+# 3. Meeds žetonas - Work Metaverse valiuta
 
-The Work Metaverse is powered by its currency – the Meeds (MEED) token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
+Work Metaverse maitina jos valiuta - Meeds (MEED) žetonas. Meeds naudojami siekiant apdovanoti naudotojus (per įsitraukimo programas), pirkti parduotuvėse, gauti Deeds, gauti finansinę investicijų grąžą ir t. t.
 
-## 3.1. Tokenomics
+## 3.1. Tokenomika
 
-The Meeds **maximum supply is limited to 100 million tokens**, minted progressively. **Meeds are minted at the rate of 10 MEED per minute**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).
+Meeds **mažiausia pasiūla ribojama iki 100 mln. žetonų**, kurie kaldinami palaipsniui. **Meeds kalama po 10 MEED per minutę**. Todėl visas monetų kalimo laikotarpis yra beveik 20 metų (nes per metus nukaldinama apie 10$*60*24*365 = 5M$ Meeds).
 
-5 Million Meeds (5% of total supply) have been pre-minted to date. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services.
+Iki šiol iš anksto išspausdinta 5 milijonai Meeds (5 % visos pasiūlos). Iš jų 4,5 mln. buvo užrakinti skliautine sutartimi su linijiniu teisių įgijimu per 4 metus. Išankstinė suma daugiausia buvo panaudota programinės įrangos intelektinei nuosavybei įsigyti, token emission teisiniams mokesčiams ir prieglobos paslaugoms apmokėti.
 
-The rest is part of the __Meeds DAO funds__ and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
+Likusi dalis yra __Meeds DAO lėšų dalis__ ir bus naudojama paslaugoms apmokėti, taip pat tam tikroms paleidimo paskatoms, pavyzdžiui, skrydžiams iš oro ir nuorodų kampanijoms.
 
 
-## 3.2. Minting allocation
+## 3.2. Monetų kalimo paskirstymas
 
-Minted Meeds are allocated to encourage involvement of the three categories of stakeholders - the users, the builders and the investors:
+Minted Meeds skiriamos tam, kad būtų skatinamas trijų kategorijų suinteresuotųjų šalių - naudotojų, statytojų ir investuotojų - dalyvavimas:
 
-- The users (users and Deeds holders/renters) get Meeds through engagement rewards (mintium model).
-- Builders (members of the association and community) get Meeds through the association funds to build, operate and improve the WoM.
-- Investors mint Meeds through renting and buying of liquidity pools and staking Meeds.
+- Naudotojai (naudotojai ir Deeds turėtojai ir (arba) nuomininkai) gauna Meeds per atlygį už įsitraukimą (mintium modelis).
+- Statytojai (asociacijos ir bendruomenės nariai) gauna Meeds per asociacijos lėšas, kad galėtų statyti, eksploatuoti ir tobulinti WoM.
+- Investuotojai moka Meeds nuomodamiesi ir pirkdami likvidumo fondus ir statydami Meeds.
 
-At the beginning, the builders get 30% of the allocation. The 70% are shared between the users and the investors. This allocation proportion will be reviewed on a regular basis, through the Meeds association DAO vote.
+Iš pradžių statytojai gauna 30 proc. asignavimų. 70 % dalijasi naudotojai ir investuotojai. Ši paskirstymo proporcija bus reguliariai peržiūrima balsuojant Meeds asociacijos DAO.
 
-## 3.3. Users – minting through engagement
+## 3.3. Vartotojai - įsitraukimas per įsitraukimą
 
-Part of the continuously minted Meeds is allocated to the engagement minting channel. The distribution is done weekly. At any given week end, the engagement index is calculated and Deeds can claim their rewards the following week and get their Meeds. Unclaimed Meeds stay in the fund and are added to the next week’s distribution. The model is described in detail in the previous chapter (part 2.6).
+Dalis nuolat kaldinamų midų skiriama sužadėtuvių kaldinimo kanalui. Paskirstymas vykdomas kas savaitę. Bet kurios savaitės pabaigoje apskaičiuojamas įsitraukimo indeksas ir kitą savaitę veikėjai gali prašyti atlygio bei gauti Meeds. Neatsiimti Meeds lieka fonde ir įtraukiami į kitos savaitės paskirstymą. Modelis išsamiai aprašytas ankstesniame skyriuje (2.6 dalis).
 
 ## 3.4. Statybininkai - Meeds asociacija DAO ir statybininkų bendruomenė
 
@@ -37,16 +37,16 @@ Nebūdamas nariu, bet kuris Deed gali dalyvauti kuriant naują jungtį ir už ta
 
 Asociacijoje veikia Statybininkų bendruomenė, kurioje laukiami WoM entuziastai, norintys prisidėti prie WoM kūrimo. Asociacija rems bendruomenę iš savo biudžeto, kompensuodama bendruomenės narių įsitraukimą.
 
-Taigi, bendruomenė veiks kaip Deed pavyzdys, siūlantis standartinį asociacijos teikiamų paslaugų rinkinį. Asociacija stato Meeds, kad galėtų išpirkti bendruomenės Deed. The community will then also participate in the engagement minting like any other Deed.
+Taigi, bendruomenė veiks kaip Deed pavyzdys, siūlantis standartinį asociacijos teikiamų paslaugų rinkinį. Asociacija stato Meeds, kad galėtų išpirkti bendruomenės Deed. Tuomet bendruomenė taip pat dalyvaus įsitraukimo kalime, kaip ir bet kuris kitas Deed.
 
-After the minting period is over, the association will be sustained by :
+Pasibaigus monetų kalimo laikotarpiui, asociaciją palaikys :
 
-- taxing passive income (3% on Deeds renting)
-- taxing selling income (2.5% on Deeds sales)
-- perceiving transaction fees over the use of the perks stores
-- acting as a liquidity pool provider
-- perceiving transaction fees when a Deed distributes non Meeds tokens via WoM services.
-- by operating the Deeds that the association minted over time.
+- pasyviųjų pajamų apmokestinimas (3 proc. nuo Deeds nuomos).
+- pardavimo pajamų apmokestinimas (2,5 proc. nuo Deeds pardavimų).
+- sandorių mokesčių suvokimas, palyginti su naudojimusi privilegijų parduotuvėmis.
+- veikia kaip likvidumo fondo teikėjas.
+- sandorių mokesčių suvokimas, kai Deed per WoM paslaugas platina ne Meeds žetonus.
+- eksploatuojant Deeds, kurį asociacija ilgainiui iškalė.
 
 
 ## 3.5. Investuotojai
@@ -67,26 +67,26 @@ Taškai apskaičiuojami pagal toliau pateiktą formulę:
 
  Kur:
 
-- $xMeeds$ : xMeeds balance  with no decimals
-- $T$ : Time elapsed in milliseconds
+- $xMeeds$ : xMeeds balansas be dešimtųjų skaitmenų
+- $T$ : Praėjęs laikas milisekundėmis
 
-The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably. For example, the formula gives the following rates :
+Pagal formulę vengiama teikti pirmenybę stambiems turėtojams, siekiant veiksmingiau ir teisingiau paskirstyti Deeds. Pavyzdžiui, pagal formulę gaunamos tokios normos :
 
-| **Holder Size** | **Holdings**   | **Accrue Rate** |
-| --------------- | -------------- | --------------- |
-| Small           | 1 000 xMeeds   | 28 pts/day      |
-| Medium          | 10 000 xMeeds  | 164 pts/day     |
-| Large           | 100 000 xMeeds | 321 pts/day     |
+| **Laikiklio dydis** | **Holdingas**  | **Kaupimo norma**    |
+| ------------------- | -------------- | -------------------- |
+| Mažas               | 1 000 xMeeds   | 28 taškai per dieną  |
+| Vidutinis           | 10 000 xMeeds  | 164 taškai per dieną |
+| Didelis             | 100 000 xMeeds | 321 taškai per dieną |
 
 
-which leads to the following holding time for each class of holder :
+todėl kiekvienai turėtojų klasei nustatomas toks laikymo laikas :
 
-| **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| Common        | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| Uncommon      | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| Rare          | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| Legendary     | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| **Kortelės tipas** | **Išlaidos**  | **Didelis laikiklis** | **Vidutinis laikiklis** | **Mažas laikiklis** |
+| ------------------ | ------------- | --------------------- | ----------------------- | ------------------- |
+| Bendra             | 8 000 taškų   | 25 dienos             | 49 dienos               | 9 mėnesiai          |
+| Neįprasta          | 32 000 taškų  | 100 dienos            | 6 mėnesiai              | 3 metai             |
+| Retas              | 50 000 taškų  | 156 dienos            | 10 mėnesiai             | 5 metai             |
+| Legendinis         | 100 000 taškų | 311 dienos            | 20 mėnesiai             | 10 metų             |
 
 ## 3.6. Meeds DAO valdymas
 

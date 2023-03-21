@@ -1,12 +1,12 @@
-# 4. Xeeds - Work Metaverse Individuals / users
+# 4. Xeeds - Darbas Metaverse Asmenys / naudotojai
 
-## 4.1. Decentralized and self-sovereign models
+## 4.1. Decentralizuoti ir savarankiški modeliai
 
-The WoM recognizes privacy as a fundamental human right and empowers users to own their data.
+WoM pripažįstama, kad privatumas yra pagrindinė žmogaus teisė, ir naudotojams suteikiama teisė turėti savo duomenis.
 
-Our approach is based on decentralized and self-sovereign identity principles, allowing users to be in control at any time of what information they want to publicize, share with a restricted group, or keep private.
+Mūsų metodas pagrįstas decentralizuotos ir savarankiškos tapatybės principais, leidžiančiais naudotojams bet kuriuo metu kontroliuoti, kokią informaciją jie nori viešinti, bendrinti su ribota grupe ar laikyti privačia.
 
-User's activity and engagement in the WoM is always linked to a Deed. A Xeed is the virtual persona of a user in a Deed. Xeed does not require any KYC, it is self-declaring, but we could conceivably imagine third-party firms providing this service.
+Naudotojo veikla ir dalyvavimas WoM visada susijęs su veiksmu. Xeed - tai virtuali naudotojo asmenybė Deed. Xeed nereikalauja jokių KYC, ji pati save deklaruoja, tačiau galime įsivaizduoti, kad šią paslaugą galėtų teikti trečiųjų šalių įmonės.
 
 ## 4.2. Badges and credentials
 
