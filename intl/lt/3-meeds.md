@@ -35,9 +35,9 @@ Asociacijos nariai gali teikti paslaugas asociacijai remdamiesi pasirašyta pasl
 
 Nebūdamas nariu, bet kuris Deed gali dalyvauti kuriant naują jungtį ir už tai gauti atlygį - pirmiausia per Meeds asociaciją, kuri įsigyja jungtį, o paskui per šią jungtį kalti pinigus.
 
-The association operates a Builders community that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
+Asociacijoje veikia Statybininkų bendruomenė, kurioje laukiami WoM entuziastai, norintys prisidėti prie WoM kūrimo. Asociacija rems bendruomenę iš savo biudžeto, kompensuodama bendruomenės narių įsitraukimą.
 
-Thus, the community will function as an example of a Deed, offering a standard set of services provided by the association. The association stakes Meeds in order to redeem a Deed for the community. The community will then also participate in the engagement minting like any other Deed.
+Taigi, bendruomenė veiks kaip Deed pavyzdys, siūlantis standartinį asociacijos teikiamų paslaugų rinkinį. Asociacija stato Meeds, kad galėtų išpirkti bendruomenės Deed. The community will then also participate in the engagement minting like any other Deed.
 
 After the minting period is over, the association will be sustained by :
 
