@@ -12,7 +12,7 @@ WoM turėtų savo valiutą **Meeds** - kurias būtų galima išleisti parduotuv�
 
 Kadangi paveikslėlis vertas tūkstančio žodžių, pateikiame schemą, kurioje aprašyti WoM ir Meedso srautai
 
-![WoM and Meeds flows](en/img/wom-flows.png)
+![WoM ir Meeds srautai](en/img/wom-flows.png)
 
 Pasaulio išlaikymas ir tvarumas ilgalaikėje perspektyvoje užtikrinamas mokesčiais, kuriais dalijasi Meeds asociacija ir Miestai.
 
@@ -28,27 +28,27 @@ Organizacijoms, įsigyjančioms, bet ypač naudojančioms Deeds, kad įtrauktų 
 
 Toliau pateiktoje schemoje pavaizduotas Meeds investavimo strategijos pavyzdys kapitalo turėtojams :
 
-![Meeds investment strategy for capital holders](en/img/invest-capital.png)
+!["Meeds" investavimo strategija kapitalo turėtojams](en/img/invest-capital.png)
 
 Organizacijos, žinoma, gali dalyvauti likvidumo fonduose, bet taip pat prisijungti prie statytojų bendruomenės ir ten gauti papildomą atlygį už įsitraukimą.
 
 Toliau pateiktoje schemoje pavaizduotas "Meeds" investavimo strategijos, skirtos darbo turėtojams, pavyzdys :
 
-![Meeds investment strategy for work holders](en/img/invest-work.png)
+!["Meeds" investavimo į darbo turėtojus strategija](en/img/invest-work.png)
 
-## 5.3. The launch
+## 5.3. Paleidimas
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+Oficiali paleidimo data nustatyta 2022 m. **gegužės 1 d.** - daugelyje šalių švenčiama Tarptautinė darbuotojų diena.
 
-At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
+Tuo metu "Meed" žetonas jau egzistuoja. Jį galima įsigyti, o Polygon ir Ethereum tinkluose galima dalyvauti likvidumo baseinuose Jį galima įsigyti, o Polygon ir Ethereum tinkluose galima dalyvauti likvidumo baseinuose.
 
-Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
+Trys "Meeds" asociacijos nariai naudoja sistemą savo viduje, siekdami įtraukti ir apdovanoti savo naudotojus bei tobulinti "Meeds" programinę įrangą Trys "Meeds" asociacijos nariai naudoja sistemą savo viduje, siekdami įtraukti ir apdovanoti savo naudotojus bei tobulinti "Meeds" programinę įrangą.
 
-The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
+Programėlė "Investor" prieinama "Ethereum Mainnet" tinkle. Pradžioje ji apima statymus, likvidumo atlygius, taškų kaupimą ir aktų išpirkimą.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
+"Meeds" programinėje įrangoje sukurta ir veikia "Builders" bendruomenė, prie kurios gali prisijungti, išbandyti ir dalyvauti visi norintys. Prisijungti galima naudojant "Metamask".
 
-This paper was published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
+Šis dokumentas buvo paskelbtas atidarymo dieną. Po paleidimo žetonas bus išplatintas daugeliui kriptovaliutų bendruomenės narių.
 
 ## 5.4. Statybininkų bendruomenė
 
@@ -70,17 +70,17 @@ Statybos etape tikimės ankstyvųjų DAO ir technologijas išmanančių įmonių
 
 Meedso monetų kalyba trunka 20 metų. Iki to laiko mes norime sukurti brandžią metaverslą, apimančią daugybę organizacijų ir naudotojų visame pasaulyje.
 
-## 5.6. What you can do right now
+## 5.6. Ką galite padaryti dabar
 
-What can you do right now to participate?
+Ką galite padaryti dabar, kad dalyvautumėte?
 
-- Spread this paper to those who would be interested
-- Visit our website [meeds.io](https://www.meeds.io/)
-- Check out the [Investor app](https://meeds.io/investors)
-- Contribute to the existing liquidity pools here :
+- Išplatinkite šį dokumentą tiems, kuriems jis būtų įdomus
+- Apsilankykite mūsų svetainėje [meeds.io](https://www.meeds.io/)
+- Peržiūrėkite [Investuotojo programėlę](https://meeds.io/investors)
+- Prisidėkite prie esamų likvidumo telkinių čia :
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
-- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
+- Prisijunkite prie mūsų [Discord](https://discord.com/invite/hAuADSq3) bendruomenės ir būkite nuolat informuojami
+- Prisijunkite prie mūsų [Statytojų](https://meeds.io/builders) bendruomenės ir išbandykite "Meeds" programinę įrangą, įsitraukite ir uždirbkite "Meeds" įsitraukimo apdovanojimų
 
-**\*\*\* The Work Metaverse - let’s build this crazy future world together. \*\*\***
+**\**\*\* Darbų metaverslas - kurkime šį beprotišką ateities pasaulį kartu. \*\*\***
