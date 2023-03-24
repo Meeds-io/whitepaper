@@ -76,17 +76,17 @@ Formula izbjegava favoriziranje velikih vlasnika kako bi se dionice raspodijelil
 | ------------------- | ------------------- | ------------------ |
 | Mali                | 1 000 xMeeds        | 28 bodova/dan      |
 | Srednje             | 10 000 xMeeds       | 164 boda/dan       |
-| Veliki              | 100 000 xMeeds      | 321 pts/day        |
+| Veliki              | 100 000 xMeeds      | 321 bod/dan        |
 
 
 što dovodi do sljedećeg vremena zadržavanja za svaku klasu držača:
 
-| **Vrsta kartice** | **Cijena**     | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ----------------- | -------------- | ---------------- | ----------------- | ---------------- |
-| Uobičajen         | 8 000 bodova   | 25 dana          | 49 dana           | 9 mjeseci        |
-| Neuobičajeno      | 32 000 bodova  | 100 dana         | 6 mjeseci         | 3 godine         |
-| Rijetko           | 50 000 bodova  | 156 dana         | 10 mjeseci        | 5 godine         |
-| Legendarno        | 100 000 bodova | 311 dana         | 20 mjeseci        | 10 godine        |
+| **Vrsta kartice** | **Cijena**     | **Veliki držač** | **Srednji držač** | **Mali držač** |
+| ----------------- | -------------- | ---------------- | ----------------- | -------------- |
+| Uobičajen         | 8 000 bodova   | 25 dana          | 49 dana           | 9 mjeseci      |
+| Neuobičajeno      | 32 000 bodova  | 100 dana         | 6 mjeseci         | 3 godine       |
+| Rijetko           | 50 000 bodova  | 156 dana         | 10 mjeseci        | 5 godine       |
+| Legendarno        | 100 000 bodova | 311 dana         | 20 mjeseci        | 10 godine      |
 
 ## 3.6. Vladanje Meeds DAO
 
