@@ -128,21 +128,21 @@ WoM žaidime darbai virtualiuose miestuose bus generuojami palaipsniui. Nuo pat 
 
 Miestas bus laikomas užbaigtu, kai bus nukaldinti visi jo Deeds. Tada kiekvienas naujas miestas bus pradedamas kaldinti praėjus $2^n$ mėnesių po to, kai buvo nukaldintas paskutinis $n-1$ miesto Deeds.
 
-| **Miesto pavadinimas** | **Deeds**   | **Galima rasti**     | **Common** | **Uncommon** | **Rare**  | **Legendary** |
-| ---------------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
-| 1: Tanit               | 100         | T0                   | 50         | 30           | 13        | 7             |
-| 2: Reshef              | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
-| 3: Ashtarte            | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
-| 4: Melqart             | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
-| 5: Eshmun              | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
-| 6: Kushor              | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
-| 7: Hammon              | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
+| **Miesto pavadinimas** | **Deeds**   | **Galima rasti**       | **Bendra** | **Neįprasta** | **Retas** | **Legendinis** |
+| ---------------------- | ----------- | ---------------------- | ---------- | ------------- | --------- | -------------- |
+| 1: Tanit               | 100         | T0                     | 50         | 30            | 13        | 7              |
+| 2: Reshef              | 1 000       | Tanit + 4 mėnesiai     | 600        | 300           | 94        | 6              |
+| 3: Ashtarte            | 10 000      | Reshef + 8 mėnesiai    | 6 000      | 3 000         | 995       | 5              |
+| 4: Melqart             | 100 000     | Ashtarte + 16 mėnesiai | 60 000     | 30 000        | 9 996     | 4              |
+| 5: Eshmun              | 1 000 000   | Melqart + 32 mėnesiai  | 600 000    | 300 000       | 99 997    | 3              |
+| 6: Kushor              | 10 000 000  | Eshum + 64 mėnesiai    | 6 000 000  | 3 000 000     | 999 998   | 2              |
+| 7: Hammon              | 100 000 000 | Kushor + 128 mėnesiai  | 60 000 000 | 30 000 000    | 9 999 999 | 1              |
 
-Miestas - tai būdas Deeds susiburti ir sukurti bendruomenę. Ir dėl to įgyja tam tikrą tapatybę, susijusią su ta bendruomene. Tai taip pat yra būdas suteikti papildomą vertę savo naudotojams - vertę, kuri viršytų vienos Deed galimybes, arba vertę, sukurtą bendradarbiaujant Deeds.
+Miestas - tai būdas Deedams susiburti ir sukurti bendruomenę. Ir dėl to įgyja tam tikrą tapatybę, susijusią su ta bendruomene. Tai taip pat yra būdas suteikti papildomą vertę savo naudotojams - vertę, kuri viršytų vienos Deed galimybes, arba vertę, sukurtą bendradarbiaujant Deeds.
 
 Kiekvienas miestas turi savo valdžią ir valdo savo DAO, kuriame miesto Deeds savininkai gali rinkti savo miesto tarybą, balsuoti ir nustatyti savo veiklos taisykles, teikti naujas paslaugas ir formuoti savo miestą taip, kaip jie nori, kad padidintų miesto patrauklumą ir su juo susijusių Deeds vertę.
 
-Pavyzdžiui, jie galėtų pridėti skaitmeninį savo miesto atvaizdą, fizinius partnerius, susijusius su jų miestu (pavyzdžiui, susitikimų kambarius fizinėse bendradarbystės erdvėse), Meeds maitinimo paslaugas, atostogų paslaugas ir t. t.
+Pavyzdžiui, jie galėtų pridėti skaitmeninį savo miesto atvaizdą, fizinius partnerius, susijusius su jų miestu (pavyzdžiui, susitikimų kambarius fizinėse bendradarbystės erdvėse), pridėti "Meeds" maitinimo paslaugas, atostogų paslaugas ir t. t...
 
 Pagal nutylėjimą (nebent miestas nubalsuos kitaip), pasyvios pajamos, gaunamos iš aktų nuomos, bus "apmokestinamos" miesto (5 %) ir asociacijos (3 %), kad būtų skatinamas produktyvus naudojimas.
 
