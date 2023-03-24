@@ -32,7 +32,7 @@ Uživatel bude moci sdílet své Xeed, odznaky a pověření s ostatními Deeds,
 
 Uživatel může mít v WoM jednu nebo více digitálních identit. Později je mohl jednotně prezentovat pomocí ověřených prezentací.
 
-Na rozdíl od webu 2 je uživatel plně vlastníkem svých decentralizovaných identit. Ten může ukázat (a dokázat) činy, kterých se účastnil, své prokázané schopnosti, nárokované dovednosti, Další Xeeds (lidi), se kterými spolupracoval, jeho digitální zastoupení s... In a manner of trustworthy LinkedIn 3.0.
+Na rozdíl od webu 2 je uživatel plně vlastníkem svých decentralizovaných identit. Ten může ukázat (a dokázat) činy, kterých se účastnil, své prokázané schopnosti, nárokované dovednosti, Další Xeeds (lidi), se kterými spolupracoval, jeho digitální zastoupení s... Na způsob důvěryhodného LinkedIn 3.0.
 
 Uživatel si bude moci vybrat, zda něco odhalí, jaké informace poskytnout a jaké identity použít pro každou pozici. Obsah (prokázané dovednosti, předchozí listiny atd.) je důkazem nedovolené manipulace a nelze jej proto upravit. Každá identita by se musela v průběhu času rozvíjet.
 
