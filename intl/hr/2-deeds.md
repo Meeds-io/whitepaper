@@ -30,20 +30,20 @@ Deed daje vlasniku pravo da je KORISTI, IZNAJMLJUJE ili PRODAJE.
 
 Budući da je aktivni nositelj ili iznajmljivač Deed, organizacija je nagrađena Meeds, kroz inovativni "mintium" model opisan u nastavku (dio 2.6).
 
-## 2.4. Deeds Services, sustav angažmana i nagrađivanja
+## 2.4. Deeds services, sustav angažiranja/nagrađivanja
 
 U sve konkurentnijem tržištu, kako bi privukli i zadržali talente te maksimizirali njihov doprinos, organizacije moraju poticati svoje korisnike izvan jednostavne naknade. WoM pruža inovativni okvir za to putem tokenizacije angažmana na poslu.
 
-Svaki vlasnik ili najmoprimac Deed-a može pružati alate i usluge svojim korisnicima, koji zarađuju bodove angažmana koje se mogu prilagoditi prioritetima Deed-a. "Periodično, bodovi se pretvaraju u Meeds (i - za DAO-ve - potencijalno drugi token), na temelju postavljenog proračuna Deed-a. Na taj način, angažman korisnika u aktivnostima koje su važne za organizaciju se nagrađuje.
+Svaki nositelj ili iznajmljivač Deed može pružiti alate i usluge svojim korisnicima, koji zarađuju bodove angažmana koji se mogu fino prilagoditi prioritetima Deed. Povremeno se bodovi pretvaraju u Meedove (i - za DAO-e - potencijalno u drugi token), na temelju Deed proračuna. Na taj način, angažman korisnika u aktivnostima koje su važne za organizaciju se nagrađuje.
 
 Za početak, za nagrađivanje angažmana mogu se koristiti sljedeće besplatne usluge udruge Meeds:
 
 - **Gamification engine** – automatske radnje unutar WoM-a imaju težinu u bodovima, koje se mogu fino prilagoditi prioritetima Deeda putem prilagodljivih programa angažmana.
-- **Izazovi** - prilagodljivi izazovi mogu se postaviti kako bi predstavljali postignuća. Izazovi su unaprijed postavljeni od strane jedne osobe i mogu biti ispunjeni i objavljeni kao takvi od strane druge osobe. Izazovi nose određenu težinu bodova, unutar prilagodljivih programa angažmana.
-- **Prilagodljivi programi angažmana** - organizacije mogu kreirati vlastite programe angažmana koji odgovaraju njihovim poslovnim ciljevima i prioritetima. Programi su povezani s automatskim postupcima unutar sustava i izazovima koji su postavljeni ručno. Svaki program ima postavljeni proračun Meeds-a. Periodično, bodovi koje svaki korisnik zaradi kroz automatske ili objavljene radnje u svakom programu angažmana pretvaraju se u Meeds, temeljem proračuna tog programa.
-- **Kudos** - korisnici mogu dodijeliti kudose jedni drugima, kao zahvalu i znak prepoznavanja. S obzirom na to da su kudosi dostupni za dodjelu ograničeni (periodično prethodno postavljenim limitom, na primjer 3 tjedno), oni su rijetki i vrijedni. Kao i akcije, kudosi nose bodove. Na ovaj način, zaposlenici su ovlašteni nagraditi svoje kolege.
+- **Challenges** – prilagodljivi izazovi mogu se postaviti tako da predstavljaju postignuća. Challenges unaprijed postavlja jedna osoba, a može ih ispuniti i kao takve objaviti druga osoba. Challenges imaju težinu bodova, unutar prilagodljivih programa angažmana.
+- **Prilagodljivi programi angažmana** - organizacije mogu kreirati vlastite programe angažmana koji odgovaraju njihovim poslovnim ciljevima i prioritetima. Programi su povezani s automatskim postupcima unutar sustava i izazovima koji su postavljeni ručno. Svaki program ima postavljeni proračun Meeds-a. Periodički bodovi koje svaki korisnik zaradi automatskim ili najavljenim radnjama u svakom programu angažmana pretvaraju se u Meeds, na temelju proračuna tog programa.
+- **Kudos** - korisnici mogu dodijeliti jedni drugima nagrade kudos, kao zahvalu i znak priznanja. Budući da su kudos dostupni za distribuciju ograničeni (unaprijed postavljeno periodično ograničenje, na primjer 3 tjedno), oni su rijetki i vrijedni. Kao i akcije, kudosi nose bodove. Na ovaj način, zaposlenici su ovlašteni nagraditi svoje kolege.
 - Alati **Suradnje**, uključeni u sustav nagrađivanja – radni prostori, asinkrona komunikacija, alat za upravljanje zadacima i bilješke – omogućuju ljudima da rade zajedno na projektima.
-- **Novčanik** - korisnicima se pruža siguran Ethereum tehnološki novčanik za pohranu njihovih Meeds-a. Kao alternativa, napredni korisnici mogu koristiti Metamask novčanik.
+- **Wallet** – korisnici dobivaju sigurni novčanik Ethereum tehnologije za pohranu svojih Meeds. Kao alternativa, napredni korisnici mogu koristiti Metamask novčanik.
 - **Store** – trgovina u kojoj se Meeds može zamijeniti za povlastice koje pruža vlasnik ili unajmljivač ugovora ili ekosustav Meeds.
 - **Analytics** – za analizu i praćenje angažmana unutar Djela.
 - **Connectors**, uključeni u sustav nagrađivanja – korisnici dobivaju bodove angažmana putem radnji u drugom softveru – na primjer za uvrštavanje koda u GitHub.
@@ -57,9 +57,9 @@ Nove usluge se mogu spojiti na sustav nagrađivanja putem API-ja. Primjeri su be
 - Terminal za mjerenje vremena – tvornički radnik može dobiti bodove za radno vrijeme u tvornici.
 - Itd.
 
-Također, angažman proizveden putem konektora sudjeluje u globalnom angažmanu organizacije koji je faktor distribucije Meeds-a, opisanog u nastavku. Da bi se to postiglo, konektor mora biti uvršten na bijelu listu Meeds udruge. Udruga pregledava konektor, odobrava njegov algoritam i stječe njegovo vlasništvo protiv Meeds-a. Postaje dio besplatnih usluga koje pruža udruga i uključuje se u globalni indeks angažmana. Bilo koji drugi Deed može koristiti isti konektor i isti algoritam nagrađivanja za svoje razvojnike.
+Nadalje, angažman proizveden putem konektora sudjeluje u globalnom rezultatu angažmana organizacije koji je faktor Meeds distribucije kovanja, opisane ispod Da bi se to postiglo, konektor mora biti uvršten na bijelu listu Meeds udruge. Udruga pregledava konektor, odobrava njegov algoritam i stječe svoje vlasništvo protiv Meeds. Postaje dio besplatnih usluga koje pruža udruga i uključuje se u globalni indeks angažmana. Bilo koji drugi Deed može koristiti isti konektor i isti algoritam nagrađivanja za svoje razvojnike.
 
-Deed-ov vlasnik ili najmoprimac može obogatiti svoju trgovinu svojim vlastitim pogodnostima, povezati se s online ponudom pogodnosti itd. Opet, mogućnosti su beskrajne:
+Nositelj ili iznajmljivač Deed može obogatiti svoju trgovinu vlastitim pogodnostima, povezati se s ponudom pogodnosti na mreži itd. Opet, mogućnosti su beskrajne:
 
 - Tečajevi obuke
 - Članarine u teretani
@@ -70,23 +70,23 @@ Deed-ov vlasnik ili najmoprimac može obogatiti svoju trgovinu svojim vlastitim 
 
 Trgovina funkcionira korištenjem Meedsa tako da se Meedovi djelomično vraćaju u Deed.
 
-## 2.5. Nagrade - Meeds i drugi tokeni
+## 2.5. Rewards - Meeds i drugi tokens
 
-WoM će tokenizirati korisničko sudjelovanje, gamificirajući digitalne alate za rad, te dodjeljivati ​​bodove i Meeds u vezi s radnim angažmanom. Usluge priključene na platformu za angažman i nagrađivanje dodjeljuju bodove svakom korisniku, prema razini njihovog angažmana i u skladu sa programima angažmana svakog Deeda. Zaista, svaki Deed može fino podesiti količinu bodova dodijeljenih za svaku vrstu aktivnosti. Na taj način, slanje koda na GitHub-u može vrijediti 10 bodova za IT tvrtku, dok bi digitalna agencija možda dodijelila samo 5 bodova za slanje koda na GitHub-u, ali bi ponudila 10 bodova za retweetove.
+WoM će tokenizirati angažman korisnika, gamifikacijom digitalnih radnih alata i pripisivanjem bodova i Meed u odnosu na radni angažman. Usluge uključene u atribute angažmana i mehanizma nagrađivanja ukazuju svakom korisniku, u skladu s njihovom razinom angažmana iu skladu s programima angažmana svakog Deed. Doista, svaki Deed može fino podesiti količinu bodova za svaku vrstu aktivnosti. Na taj način, guranje nekog koda u GitHub može vrijediti 10 bodova za IT trgovinu, dok digitalna agencija može dodijeliti samo 5 bodova za GitHub pushove, ali bi ponudila 10 bodova za retweetove.
 
-Periodično, nagrađivački sustav pretvara bodove angažmana u Meeds prema proračunima i drugim pravilima distribucije te na kraju nagrađuje korisnike putem njihovih novčanika. Deed nije obavezan distribuirati Meeds i može koristiti sustav angažmana za omogućavanje nekog drugog programa nadoknade. Međutim, distribuiranje Meedsa će poboljšati njihovu proizvodnu sposobnost.
+Periodično, nagrađivački sustav pretvara bodove angažmana u Meeds prema proračunima i drugim pravilima distribucije te na kraju nagrađuje korisnike putem njihovih novčanika. Deed nije potreban za distribuciju Meeds i može koristiti sustav angažmana kako bi omogućio neki drugi oblik programa kompenzacije. Međutim, distribucija Meeds poboljšat će njegov kapacitet kovanja.
 
 Štoviše, Deed ne mora nužno kupiti Meeds kako bi ih distribuirao i poticao svoje programe angažmana, jer će dobiti Meedsa iz modela "mintium", opisanog u nastavku.
 
-Dodatno, bit će moguće distribuirati druge tokene (na primjer, tokenima DAO-a) na temelju istog mehanizma angažmana. U tom slučaju, distribucija će biti podložna naknadi za transakciju od 5% (u DAO tokenima) za Meeds Association.
+Osim Meeds, također će biti moguće distribuirati druge tokene (na primjer vlastite tokene DAO) na temelju istog mehanizma angažmana. U tom slučaju, distribucija će biti predmet transakcijske naknade od 5% (u DAO token) za Meeds Association.
 
 ## 2.6. Model "mintium" - tokenizirati radni angažman
 
 Uključivanjem svojih korisnika u WoM, Deeds dobiva naknadu kroz inovativni mintium model.
 
-Bodovi angažmana koje korisnici Deedova stječu sudjeluju u globalnom indeksu angažmana koji računa Meeds Association. Indeks koristi isti princip za sve Deed-ove. Iako Deed može promijeniti raspodjelu bodova kako bi promovirao jednu akciju više od druge, te promjene neće biti uključene u izračun globalnog indeksa.
+Bodovi angažmana koje steknu korisnici Deeds sudjeluju u globalnom indeksu angažmana koji izračunava Udruga Meeds. Indeks koristi isti princip za sve Deed-ove. Iako Deed može promijeniti dodjelu bodova kako bi promovirao jednu radnju u odnosu na drugu, te promjene neće biti uzete u obzir u izračunu globalnog indeksa.
 
-Svaki tjedan određena količina Meeds-a dodjeljuje se globalnom kreiranju novih Meeds-a temeljenih na angažmanu WoM-a. Izračunava se tjedno, proporcionalno, među sudjelujućim Deed-ovima. Neki Deedi dobivaju dodatni poticaj ovisno o njihovom tipu. Deedovi koji zatraže svoje Meeds tijekom tjedna, dobivaju ih. Nepodignuti Meeds-i se dodaju iznosu globalne distribucije sljedećeg tjedna.
+Svaki tjedan određena količina Meeds dodjeljuje se globalnom angažiranom kovanju WoM. Izračunava se tjedno, proporcionalno, među sudjelujućim Deed-ovima. Neki Deedi dobivaju dodatni poticaj ovisno o njihovom tipu. Deeds koja traže svoje Meeds tijekom tjedna, dobivaju ih. Nezatraženi Meeds dodaju se globalnoj distribucijskoj količini sljedećeg tjedna.
 
 Ocjena angažmana _S_ Deed-a je funkcija angažmana, broja angažiranih korisnika i distribucije:
 
@@ -94,7 +94,7 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Gdje :
 
-- $A$ = _Aktivnost_ - ukupan broj akcija koje su korisnici ostvarili u okviru Deeda tijekom tjedna. (Na razini svakog Deeda, svaka radnja se pretvara u bodove angažmana, pri čemu neke radnje imaju veću težinu od drugih. Na razini indeksa, sve akcije su linearizirane).
+- $A$ = _Aktivnost_ - ukupan broj akcija koje su korisnici ostvarili u okviru Deed tijekom tjedna. (Na razini svakog Deed, svaka radnja se pretvara u bodove angažmana, pri čemu neke radnje imaju veću težinu od drugih. Na razini indeksa, sve akcije su linearizirane).
 - $U$ = _Engaged users_ - korisnici koji su pridonijeli bodovima tijekom tjedna, barem jednom radnjom.
 - $E_d$ = _Engagement rate of the deed_ - akcije po korisniku ($A/U$)
 - $E_w$ = _Average engagement rate_ svih aktivnih Deeds u WoM-u.
@@ -116,15 +116,15 @@ Dodatni pojačivači su postavljeni za:
 - organizacije s najvećim angažmanom, bez obzira na njihovu veličinu (stopa angažmana u odnosu na WoM)
 - scarrer deeds
 
-> Udruga Meeds zadržava pravo izmjene formule ako je to potrebno - ako se pojave neki specifični slučajevi korištenja, na primjer. Udruga također može staviti na crnu listu bilo koji Deed koji krivotvori formulu u svoju jedinstvenu korist.
+> Meeds association pridržava pravo promjene formule ako je potrebno – ako se, primjerice, pojave neki specifični slučajevi uporabe. Udruga također može staviti na crnu listu bilo koje djelo koje otima formulu u svoju jedinstvenu korist.
 
-Kako se Deeds nagrađuju sa Meeds i motivirani su da ih redistribuiraju kao nagrade svojim korisnicima u skladu s njihovim angažmanom - interes Deeds-a i njihovih korisnika usklađen je u istom pozitivnom ciklusu dijeljenja prihoda. Dakle, WoM nudi novi radni model koji preoblikuje odnos poslodavac/zaposlenik kao partnerstvo.
+Budući da su Deeds nagrađeni s Meedsom i potaknuti da ih redistribuiraju kao nagrade svojim korisnicima u odnosu na njihov angažman – interesi i Deeds i njihovih korisnika usklađeni su u istom ciklusu dijeljenja prihoda. Dakle, WoM nudi novi radni model koji preoblikuje odnos poslodavac/zaposlenik kao partnerstvo.
 
 Model "mintium" prvi je takve vrste - ide dalje od tradicionalnog freemium modela, jer ne samo da su usluge besplatne za korištenje, već su i organizacije i njihovi korisnici nagrađeni za njihovu upotrebu.
 
 ## 2.7. Gradovi i upravljanje
 
-U WoM-u, zadaci će se postupno stvarati unutar virtualnih gradova. Samo prvi grad će postojati od početka u WoM-u. Ostale će se graditi postupno, jedna po jedna. U cijelom WoM-u će biti samo 7 gradova, svaki uključujući fiksni broj Deed-ova svake vrste.
+U WoM, Deeds će se stvarati postupno unutar virtualnih gradova. Samo prvi grad će postojati od početka u WoM-u. Ostale će se graditi postupno, jedna po jedna. U cijelom WoM-u će biti samo 7 gradova, svaki uključujući fiksni broj Deed-ova svake vrste.
 
 Jedan grad će se smatrati dovršenim kada su svi njegovi Deed-ovi iskovani. Onda će mintanje svakog novog grada početi $2^n$ mjeseci nakon što je posljednji zadatak u gradu $n-1$ izdan.
 
