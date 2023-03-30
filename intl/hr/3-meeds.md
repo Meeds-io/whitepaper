@@ -1,6 +1,6 @@
 # 3. Meeds token – valuta Work Metaverse
 
-Work Metaverse pokreće njegova valuta – token Meeds (MEED). Meedovi se koriste za nagrađivanje korisnika (kroz programe angažmana), kupnju u trgovinama, dobivanje Deeds, dobivanje financijskih povrata ulaganja itd.
+Work Metaverse pokreće njegova valuta – token Meeds (MEED). Meeds se koriste za nagrađivanje korisnika (kroz programe angažmana), kupnju u trgovinama, dobivanje Deeds, dobivanje financijskih povrata ulaganja itd.
 
 ## 3.1. Tokenomika
 
@@ -23,9 +23,9 @@ U početku građevincima pripada 30% izdvajanja. Tih 70% dijele korisnici i inve
 
 ## 3.3. Korisnici – kovanje kroz angažman
 
-Dio kontinuirano kovanih Meeds dodijeljen je kanalu angažiranog kovanja. Distribucija se vrši tjedno. Na kraju bilo kojeg tjedna izračunava se indeks angažmana i Deeds mogu zatražiti svoje nagrade sljedeći tjedan i dobiti svoje Meeds. Meeds koji nisu zatraženi ostaju u fondu i dodaju se distribuciji za sljedeći tjedan. Model je detaljno opisan u prethodnom poglavlju (dio 2.6).
+Dio kontinuirano kovanih Meeds dodijeljen je kanalu angažiranog kovanja. Distribucija se vrši tjedno. Na kraju bilo kojeg tjedna izračunava se indeks angažmana i Deeds mogu zatražiti svoje nagrade sljedeći tjedan i dobiti svoje Meeds. Meedovi koji nisu zatraženi ostaju u fondu i dodaju se distribuciji za sljedeći tjedan. Model je detaljno opisan u prethodnom poglavlju (dio 2.6).
 
-## 3.4. Graditelji – Meeds udruga DAO i zajednica graditelja
+## 3.4. Builders – Meeds udruga DAO i zajednica graditelja
 
 WoM i Meeds tokenom upravlja neprofitna Meeds Association DAO, predstavljena gore. Višestruki ugovor pod nazivom _Meeds DAO Funds_ koristi se za upravljanje operativnim troškovima udruge.
 
@@ -59,7 +59,7 @@ Potonje bi doprinijelo dugoročnoj održivosti udruge - kao što je gore spomenu
 
 **Ulog / dugoročna investicija** Kako bi se potaknulo dugoročno ulaganje, uloženi Meeds se nagrađuju. Kad se ulože potrebe, uhoda dobiva nekoliko božićnih žetona. Novo iskovani Meedovi se distribuiraju ulagačima proporcionalno njihovim xMeeds posjedima. U praksi, iskovani Meeds efektivno se dodaju fondovima xMeeds pametnog ugovora i distribuiraju xMeeds nositelju kada povuku ulog.
 
-Ulažući Meeds, ulagači također mogu otkupiti Deeds (a zatim sudjelovati u kovanju kroz angažman), čime se povećava potražnja za tokenima. Svaki uloženi Meeds (xMeeds) svom vlasniku daje određeni broj bodova dnevno. Što je duže stečeno razdoblje, veći je broj bodova dobiven po xMeedsu. Svako se djelo tada otkupljuje u zamjenu za određeni broj bodova.
+Ulažući Meeds, ulagači također mogu otkupiti Deeds (a zatim sudjelovati u kovanju kroz angažman), čime se povećava potražnja za tokenima. Svaki uloženi Meeds (xMeeds) svom vlasniku daje određeni broj bodova dnevno. Što je duže stečeno razdoblje, veći je broj bodova dobiven po xMeedsu. Svaki Deed se zatim otkupljuje u zamjenu za određeni broj bodova.
 
 Bodovi se izračunavaju prema donjoj formuli:
 
@@ -70,7 +70,7 @@ Bodovi se izračunavaju prema donjoj formuli:
 - $xMeeds$ : xMeeds bilanca bez decimala
 - $T$ : Proteklo vrijeme u milisekundama
 
-Formula izbjegava favoriziranje velikih vlasnika kako bi se dionice raspodijelile učinkovitije i pravednije. Na primjer, formula daje sljedeće stope:
+Formula izbjegava favoriziranje velikih posjednika kako bi se Deeds distribuirala učinkovitije i pravednije. Na primjer, formula daje sljedeće stope:
 
 | **Veličina držača** | **ImovinaHoldings** | **Povećana stopa** |
 | ------------------- | ------------------- | ------------------ |
