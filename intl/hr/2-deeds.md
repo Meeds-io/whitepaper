@@ -3,13 +3,13 @@
 
 ## 2.1. NFT - Definirani Deeds
 
-Nefungibilni token (NFT) je jedinstveni token koji predstavlja dobro. U WoM-u, Deed se koristi kao naslov vlasništva. Svaki Deed daje svom vlasniku pravo pristupa nekoliko usluga - na primjer, pristup digitalnom uredu koji pokreće Meeds softver i pravo na mintanje Meeds-a.
+Nefungibilni token (NFT) je jedinstveni token koji predstavlja dobro. U WoM, Deed se koristi kao naslov vlasništva. Svaki Deed daje svom vlasniku pravo pristupa nekoliko usluga - na primjer, pristup digitalnom uredu koji pokreće Meeds softver i pravo na mintanje Meeds.
 
-WoM pozdravlja sve vrste organizacija - DAO-ove, tradicionalne korporacije, udruge, think tankove, partnerska društva, kazališne kompanije, projektnih grupa, škole itd. Deed predstavlja njihovo digitalno postojanje u WoM-u.
+WoM pozdravlja sve vrste organizacija - DAO-ove, tradicionalne korporacije, udruge, think tankove, partnerska društva, kazališne kompanije, projektnih grupa, škole itd. Deed predstavlja njihovo digitalno postojanje u WoM.
 
-## 2.2. Deedovi opskrbljuju
+## 2.2. Deeds opskrbljuju
 
-U konačnici će WoM opskrbiti ograničenu količinu Deed-ova. Svaki Deed uključuje unaprijed definiran maksimalni broj korisnika i nudi kapacitet nagrađivanja Meeds-om (Minting Power). Izraz 'korisnik' ovdje i ubuduće označava bilo koju vrstu zaposlenika, radnika, slobodnog stručnjaka, volontera itd.
+U konačnici će WoM opskrbiti ograničenu količinu Deeds. Svaki Deed uključuje unaprijed definiran maksimalni broj korisnika i nudi kapacitet nagrađivanja Meeds-om (Minting Power). Izraz 'korisnik' ovdje i ubuduće označava bilo koju vrstu zaposlenika, radnika, slobodnog stručnjaka, volontera itd.
 
 Postoje četiri vrste Deeds, od kojih svaki pruža različite mogućnosti u smislu broja korisnika, prava glasa u gradu (vidi 2.7) ili Meeds moći kovanja, a najrjeđi je najmoćniji:
 
@@ -20,7 +20,7 @@ Postoje četiri vrste Deeds, od kojih svaki pruža različite mogućnosti u smis
 | Rijetko        | 10 000              | 1.3               | ~ 1%         | 100                     |
 | Legendarno     | neograničen         | 2                 | < 0.1 %      | 1000                    |
 
-## 2.3. Vlasništvo nad Deed-ovima
+## 2.3. Vlasništvo nad Deeds
 
 Deed daje vlasniku pravo da je KORISTI, IZNAJMLJUJE ili PRODAJE.
 
@@ -34,7 +34,7 @@ Budući da je aktivni nositelj ili iznajmljivač Deed, organizacija je nagrađen
 
 U sve konkurentnijem tržištu, kako bi privukli i zadržali talente te maksimizirali njihov doprinos, organizacije moraju poticati svoje korisnike izvan jednostavne naknade. WoM pruža inovativni okvir za to putem tokenizacije angažmana na poslu.
 
-Svaki nositelj ili iznajmljivač Deed može pružiti alate i usluge svojim korisnicima, koji zarađuju bodove angažmana koji se mogu fino prilagoditi prioritetima Deed. Povremeno se bodovi pretvaraju u Meedove (i - za DAO-e - potencijalno u drugi token), na temelju Deed proračuna. Na taj način, angažman korisnika u aktivnostima koje su važne za organizaciju se nagrađuje.
+Svaki nositelj ili iznajmljivač Deed može pružiti alate i usluge svojim korisnicima, koji zarađuju bodove angažmana koji se mogu fino prilagoditi prioritetima Deed. Povremeno se bodovi pretvaraju u Meeds (i - za DAO-e - potencijalno u drugi token), na temelju Deed proračuna. Na taj način, angažman korisnika u aktivnostima koje su važne za organizaciju se nagrađuje.
 
 Za početak, za nagrađivanje angažmana mogu se koristiti sljedeće besplatne usluge udruge Meeds:
 
@@ -84,9 +84,9 @@ Osim Meeds, također će biti moguće distribuirati druge tokene (na primjer vla
 
 Uključivanjem svojih korisnika u WoM, Deeds dobiva naknadu kroz inovativni mintium model.
 
-Bodovi angažmana koje steknu korisnici Deeds sudjeluju u globalnom indeksu angažmana koji izračunava Udruga Meeds. Indeks koristi isti princip za sve Deed-ove. Iako Deed može promijeniti dodjelu bodova kako bi promovirao jednu radnju u odnosu na drugu, te promjene neće biti uzete u obzir u izračunu globalnog indeksa.
+Bodovi angažmana koje steknu korisnici Deeds sudjeluju u globalnom indeksu angažmana koji izračunava Udruga Meeds. Indeks koristi isti princip za sve Deeds. Iako Deed može promijeniti dodjelu bodova kako bi promovirao jednu radnju u odnosu na drugu, te promjene neće biti uzete u obzir u izračunu globalnog indeksa.
 
-Svaki tjedan određena količina Meeds dodjeljuje se globalnom angažiranom kovanju WoM. Izračunava se tjedno, proporcionalno, među sudjelujućim Deed-ovima. Neki Deedi dobivaju dodatni poticaj ovisno o njihovom tipu. Deeds koja traže svoje Meeds tijekom tjedna, dobivaju ih. Nezatraženi Meeds dodaju se globalnoj distribucijskoj količini sljedećeg tjedna.
+Svaki tjedan određena količina Meeds dodjeljuje se globalnom angažiranom kovanju WoM. Izračunava se tjedno, proporcionalno, među sudjelujućim Deed-ovima. Neki Deeds dobivaju dodatni poticaj ovisno o njihovom tipu. Deeds koja traže svoje Meeds tijekom tjedna, dobivaju ih. Nezatraženi Meeds dodaju se globalnoj distribucijskoj količini sljedećeg tjedna.
 
 Ocjena angažmana _S_ Deed-a je funkcija angažmana, broja angažiranih korisnika i distribucije:
 
@@ -98,7 +98,7 @@ Gdje :
 - $U$ = _Engaged users_ - korisnici koji su pridonijeli bodovima tijekom tjedna, barem jednom radnjom.
 - $E_d$ = _Engagement rate of the deed_ - akcije po korisniku ($A/U$)
 - $E_w$ = _Average engagement rate_ svih aktivnih Deeds u WoM-u.
-- $D_r$ = _Razina distribucije_ - ako je Deed primio izrađene Meede za prethodno razdoblje, to je postotak Meeda koji je distribuiran njegovim korisnicima. % može biti veći od 100 ako je distribucija odgođena u vremenu.
+- $D_r$ = _Razina distribucije_ - ako je Deed primio izrađene Meede za prethodno razdoblje, to je postotak Meeds koji je distribuiran njegovim korisnicima. % može biti veći od 100 ako je distribucija odgođena u vremenu.
 - $D_s$ = _Distribution spread_ - ako je Deed primio iskovane Meedove za prethodno razdoblje, % korisnika koji su primili Meedove u ukupnom skupu korisnika.
 - $M$ = _Minting Power_ Deed-a kako je definirano u 2.3
 
@@ -124,9 +124,9 @@ Model "mintium" prvi je takve vrste - ide dalje od tradicionalnog freemium model
 
 ## 2.7. Gradovi i upravljanje
 
-U WoM, Deeds će se stvarati postupno unutar virtualnih gradova. Samo prvi grad će postojati od početka u WoM-u. Ostale će se graditi postupno, jedna po jedna. U cijelom WoM-u će biti samo 7 gradova, svaki uključujući fiksni broj Deed-ova svake vrste.
+U WoM, Deeds će se stvarati postupno unutar virtualnih gradova. Samo prvi grad će postojati od početka u WoM-u. Ostale će se graditi postupno, jedna po jedna. U cijelom WoM ikada će biti samo 7 gradova, a svaki će uključivati ​​fiksni broj Deeds svake vrste.
 
-Jedan grad će se smatrati dovršenim kada su svi njegovi Deed-ovi iskovani. Onda će mintanje svakog novog grada početi $2^n$ mjeseci nakon što je posljednji zadatak u gradu $n-1$ izdan.
+Jedan grad će se smatrati dovršenim kada su svi njegovi Deeds iskovani. Onda će mintanje svakog novog grada početi $2^n$ mjeseci nakon što je posljednji zadatak u gradu $n-1$ izdan.
 
 | **Ime grada** | **Deeds**   | **Dostupno**          | **Uobičajen** | **Neuobičajeno** | **Rijetko** | **Legendarno** |
 | ------------- | ----------- | --------------------- | ------------- | ---------------- | ----------- | -------------- |
@@ -138,16 +138,16 @@ Jedan grad će se smatrati dovršenim kada su svi njegovi Deed-ovi iskovani. Ond
 | 6: Kushor     | 10 000 000  | Eshmum + 64 mjeseca   | 6 000 000     | 3 000 000        | 999 998     | 2              |
 | 7: Hammon     | 100 000 000 | Kushor + 128 mjeseca  | 60 000 000    | 30 000 000       | 9 999 999   | 1              |
 
-Grad je način da se Djela sjedine i stvore zajednicu. I kao posljedica toga, stječe određeni identitet, povezan s tom zajednicom. Here's the translation: "To je također način da se pruži dodatna vrijednost korisnicima - vrijednost koja bi nadilazila sposobnosti jednog Djela ili vrijednost stvorena suradnjom među Djelima.
+Grad je način na koji se Deeds okupljaju i stvaraju zajednicu. I kao posljedica toga, stječe određeni identitet, povezan s tom zajednicom. To je također način pružanja dodatne vrijednosti svojim korisnicima - vrijednosti koja bi nadilazila mogućnosti jednog Djela ili vrijednosti stvorene suradnjom između Deeds.
 
-Svaki grad ima vlastitu upravu i djeluje putem vlastitog DAO-a u kojem vlasnici Djela grada mogu birati gradsko vijeće, glasovati i uspostaviti vlastita pravila poslovanja, dodavati nove usluge i oblikovati svoj grad onako kako žele i tako povećati atraktivnost grada i vrijednost pripadajućih Djela.
+Svaki grad ima vlastitu upravu i upravlja vlastitim DAO gdje vlasnici gradskih Deeds mogu izabrati svoje gradsko vijeće, glasovati i uspostaviti vlastita pravila rada, dodavati nove usluge i oblikovati svoj grad na način na koji žele i tako povećati atraktivnost grada i vrijednost Deeds koja su uz njega vezana.
 
-Na primjer, mogu dodati digitalnu reprezentaciju svog grada, fizičke pandane povezane sa svojim gradom (poput soba za sastanke u fizičkim zajedničkim radnim prostorima), dodati Meeds-om pokretane usluge hrane, usluge za odmor i tako dalje...
+Na primjer, mogli bi dodati digitalni prikaz svog grada, fizičke dvojnike povezane s njihovim gradom (sobe za sastanke u fizičkim co-working prostorima, na primjer), dodati usluge prehrane koje pokreće Meeds, usluge odmora itd...
 
-Po defaultu (osim ako grad ne odluči drugačije), pasivni prihod od iznajmljivanja Djela bit će 'oporezovan' od strane grada (5%) i udruge (3%) kako bi se potaknula produktivna uporaba.
+Prema zadanim postavkama (osim ako grad ne izglasa drugačije), pasivni prihod od iznajmljivanja Deeds bit će "oporezovan" od strane grada (5%) i Udruge (3%) kako bi se potaknulo produktivno korištenje.
 
-Transakcije vlasništva (prodaja Djela) također će biti oporezovane sa 6%:
+Transakcije vlasništva (prodaja Deeds) također će biti oporezovane sa 6%:
 
 - 2,5% za Grad,
 - 2,5% za Udrugu,
-- 1% za originalni novčanik kojim je otkupljen Ugovor.
+- 1% za originalni novčanik koji je otkupio Deed.
