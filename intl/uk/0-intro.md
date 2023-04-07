@@ -29,55 +29,18 @@ WoM досягає цього завдання, вводячи цифрові і
 
 WoM націлене на вирішення цих проблем шляхом створення нової децентралізованої робочої парадигми.
 
-Відповідно до робіт Р. Коуза,<sup id="fnref:5"><a href="#fn:5" class="footnote-ref"><a href="#fn: 5" class="footnote-ref"></a></sup>більшість економістів пов'язують концепцію підприємства з необхідністю зменшення витрат на транзакції. Інтернет і, зокрема, блокчейн та web3 відкривають захоплюючі можливості зниження витрат на транзакції в усіх сферах, перетворення економіки і, зокрема, перетворення підприємства. Децентралізовані автономні організації (DAOs) <fnref target="6" /> розпочали цей процес, зосереджуючись на зниженні витрат на транзакції при пошуку капіталу та управлінні. WoM має на меті продовжити цю логіку, знижуючи вартість транзакцій з працевлаштування. Воно пропонує децентралізований світ, де відповідність робіт та навичок може бути проведена об'єктивно, швидко та глобально.</p> 
+Відповідно до робіт Р. Коуза,[^5]більшість економістів пов'язують концепцію підприємства з необхідністю зменшення витрат на транзакції. Інтернет і, зокрема, блокчейн та web3 відкривають захоплюючі можливості зниження витрат на транзакції в усіх сферах, перетворення економіки і, зокрема, перетворення підприємства. Децентралізовані автономні організації (DAOs)[^6] розпочали цей процес, зосереджуючись на зниженні витрат на транзакції при пошуку капіталу та управлінні. WoM має на меті продовжити цю логіку, знижуючи вартість транзакцій з працевлаштування. Воно пропонує децентралізований світ, де відповідність робіт та навичок може бути проведена об'єктивно, швидко та глобально. 
 
-<p spaces-before="0">
   Перші DAO плоско структурують і відкривають власність.  WoM прогнозує цю логіку, переосмислюючи відносини роботодавець/працівник, а не придушуючи їх. Воно вводить прозору, об'єктивну та децентралізовану парадигму винагород, що створює сталий баланс інтересів роботодавців та працівників.
-</p>
 
-<p spaces-before="0">
   Нарешті, Робочий Метавсесвіт допомагає залагоджувати розбіжності між корпораціями та DAO.  З одного боку, він вводить традиційні корпорації в децентралізований світ через просту систему винагород, яка доповнює їх систему компенсації. З іншого боку, він пропонує стійкі способи працювати та створювати цінність для DAO. У кінцевому підсумку, WoM може стати однією з перших популярних додатків, який демократизує використання блокчейну для кожної компанії та кожного працівника - включаючи недіджиталізованих.
-</p>
 
-<p spaces-before="0">
   Як і з будь-якою децентралізованою ініціативою, пропозиція WoM збільшує свою вартість експоненційно з кожним новим користувачем. З цієї причини засновники дбайливо стежили за заохоченням довгострокових інтересів та уникненням монополізації користі від WoM, як на короткий, так і на довгий термін.  Це відкрита парадигма, яку ще потрібно побудувати, і вона відкрита для активної творчої участі від усіх.
-</p>
 
-<footnotes>
-  <fn name="1" spaces-before="0">
-    <p spaces-before="0">
-      Suzanne Young - <a href="https://www.academia.edu/24703426/Transaction_Cost_Economics">“Transaction Cost Economics”</a>
-    </p>
-  </fn>
-  
-  <fn name="2" spaces-before="0">
-    <p spaces-before="0">
-      Jan Drahokoupil, Agnieszka Piasna - <a href="https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html">“Work in the Platform Economy: Beyond Lower Transaction Costs”</a>
-    </p>
-  </fn>
-  
-  <fn name="3" spaces-before="0">
-    <p spaces-before="0">
-      Seth C. Oranburg, Liya Palagashvili - <a href="https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship">“Transaction Cost Economics, Labor Law and the Gig Economy”</a>
-    </p>
-  </fn>
-  
-  <fn name="4" spaces-before="0">
-    <p spaces-before="0">
-      Michael C. Jensen, William H. Meckling - <a href="https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf">“Theory of the Firm : Managerial Behavior, Agency Costs and Ownership Structure”</a>
-    </p>
-  </fn>
-  
-  <fn name="5" spaces-before="0">
-    <p spaces-before="0">
-      R. Coase - <a href="http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf">“The nature of the firm”</a>
-    </p>
-  </fn>
-  
-  <fn name="6" spaces-before="0">
-    <p spaces-before="0">
-      Aaron Wright - <a href="https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1">“The Rise of Decentralized Autonomous Organizations : Opportunities and Challenges”</a>
-    </p>
-  </fn>
-</footnotes>
+[^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)
+[^2]: Jan Drahokoupil, Agnieszka Piasna - [“Work in the Platform Economy: Beyond Lower Transaction Costs”](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
+[^3]: Seth C. Oranburg, Liya Palagashvili - [“Transaction Cost Economics, Labor Law and the Gig Economy”](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship)
+[^4]: Michael C. Jensen, William H. Meckling - [“Theory of the Firm : Managerial Behavior, Agency Costs and Ownership Structure”](https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf)
+[^5]: R. Coase - [“The nature of the firm”](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
+[^6]: Aaron Wright - [“The Rise of Decentralized Autonomous Organizations : Opportunities and Challenges”](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)
 
