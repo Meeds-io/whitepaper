@@ -81,6 +81,6 @@ WoM матиме свою власну валюту Meeds - яка буде пр
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
 - Приєднатися до нашої спільноти [Discord](https://discord.com/invite/hAuADSq3) щоб бути в курсі подій
-- Приєднатися до нашої спільноти [Builders](https://meeds.io/builders) щоб тестувати Meeds software, долучатися та отримувати винагороду за залучення Meeds
+- Приєднатися до нашої спільноти[Builders](https://meeds.io/builders) щоб тестувати Meeds software, долучатися та отримувати винагороду за залучення Meeds
 
 **\*\*\* Робочий метавсесвіт - давайте разом побудуємо цей незвичайний світ майбутнього. \*\*\***
