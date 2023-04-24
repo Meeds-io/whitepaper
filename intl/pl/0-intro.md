@@ -1,8 +1,8 @@
 
 
-## Abstrakcyjny
+## Streszczenie
 
-Dzisiejszy rynek pracy jest mało wydajny ze względu na wysokie koszty transakcyjne[^1][^2][^3]oraz częste konflikty interesów między pracodawcą a pracownikiem.
+Obecny rynek pracy charakteryzuje się niską wydajnością z powodu wysokich kosztów transakcyjnych[^1][^2][^3] i częstych konfliktów interesów między pracodawcą a pracownikiem.
 
 Praca Metaverse (WoM) proponuje nowy paradygmat, który obniżyłby koszty transakcji i na nowo wymyślił stosunek pracy, wypełniając lukę między tradycyjnymi korporacje i DAOs.
 
