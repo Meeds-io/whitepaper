@@ -13,78 +13,78 @@ WoM ostatecznie dostarczy ograniczoną ilość Deeds. Każdy Deed zawiera predef
 
 Istnieją cztery rodzaje Deed, z których każdy zapewnia różne możliwości pod względem liczby użytkowników, prawa głosu w mieście (patrz 2.7) lub siły mint Meeds, przy czym najrzadszy jest najpotężniejszy:
 
-| **Typ Deed** | **Maksymalna liczba użytkowników** | **Moc bicia** | **Szuma** | **Prawo do głosowania w mieście** |
-| ------------ | ---------------------------------- | ------------- | --------- | --------------------------------- |
-| Powszechny   | 100                                | 1             | ~ 90%     | 1                                 |
-| Niezwykły    | 1000                               | 1.1           | ~ 9%      | 10                                |
-| Rzadki       | 10 000                             | 1.3           | ~ 1%      | 100                               |
-| Legendarny   | nieograniczony                     | 2             | < 0.1 %   | 1000                              |
+| **Typ Deed** | **Maksymalna liczba użytkowników** | **Moc bicia** | **Rzadkość** | **Prawo do głosowania w mieście** |
+| ------------ | ---------------------------------- | ------------- | ------------ | --------------------------------- |
+| Pospolite    | 100                                | 1             | ~ 90%        | 1                                 |
+| Niepospolite | 1000                               | 1.1           | ~ 9%         | 10                                |
+| Rzadki       | 10 000                             | 1.3           | ~ 1%         | 100                               |
+| Legendarny   | nieograniczony                     | 2             | < 0.1 %      | 1000                              |
 
 ## 2.3. Deeds własności
 
-Deed daje właścicielowi prawo do UŻYWANIA, WYPOŻYCZANIA lub SPRZEDAŻY.
+Posiadacz Deed ma prawo DO UŻYWANIA, WYNAJMU lub SPRZEDAŻY.
 
-- UŻYTKOWANIE – Właściciele Deeds mogą korzystać z aktu bezpośrednio w swojej organizacji, świadcząc usługi dla jego użytkowników.
+- UŻYWANIE - Posiadacze Deed mogą bezpośrednio używać Deed do swojej organizacji, świadcząc usługi dla swoich użytkowników.
 - WYNAJEM - Właściciele Deed mogą również wydzierżawić akt innej organizacji w celu uzyskania pasywnego dochodu.
-- SPRZEDAŻ — Deed własności można sprzedać na rynku wtórnym, takim jak [OpenSea](https://opensea.io).
+- SPRZEDAŻ - Deed może być sprzedany na rynku wtórnym, takim jak [OpenSea](https://opensea.io).
 
-Będąc aktywnym posiadaczem lub najemcą Deed, organizacja jest nagradzana Meeds, poprzez innowacyjny model „mintium” opisany poniżej (część 2.6).
+Będąc aktywnym posiadaczem lub najemcą Deed, organizacja jest nagradzana Meeds, dzięki innowacyjnemu modelowi "mintium", opisanemu poniżej (część 2.6).
 
-## 2.4. Usługi Deeds, silnik zaangażowania/nagród
+## 2.4. Usługi Deed, silnik zaangażowania / nagród
 
-Na coraz bardziej konkurencyjnym rynku, aby przyciągnąć i zatrzymać talenty oraz zmaksymalizować ich wkład, organizacje muszą motywować swoich użytkowników poza zwykłym wynagrodzeniem. WoM zapewnia innowacyjne ramy, aby to zrobić, tokenizując zaangażowanie w pracę.
+W coraz bardziej konkurencyjnym rynku, aby przyciągnąć i zatrzymać talenty oraz maksymalizować ich wkład, organizacje muszą zachęcać swoich użytkowników do działania poza prostą rekompensatą. WoM zapewnia innowacyjne ramy, aby to zrobić, tokenizując zaangażowanie w pracę.
 
-Posiadacz lub najemca każdego Deed może zapewnić narzędzia i usługi swoim użytkownikom, którzy zdobywają punkty zaangażowania, które można dostosować do priorytetów Deed. Okresowo punkty są zamieniane na Meeds (i – w przypadku DAO – potencjalnie inny token), na podstawie ustalonego budżetu Deed. W ten sposób nagradzane jest zaangażowanie użytkowników w działania ważne dla organizacji.
+Każdy posiadacz lub najemca Deed może dostarczać narzędzia i usługi swoim użytkownikom, którzy otrzymują punkty zaangażowania, które można dostosować do priorytetów Deed. Okresowo punkty są zamieniane na Meeds (i – w przypadku DAO – potencjalnie inny token), na podstawie ustalonego budżetu Deed. W ten sposób zaangażowanie użytkowników w działania, które są ważne dla organizacji, jest nagradzane.
 
 Na początek następujące bezpłatne usługi świadczone przez stowarzyszenie Meeds mogą być wykorzystywane do nagradzania zaangażowania:
 
 - **Silnik grywalizacji** – automatyczne działania w WoM ma wagę punktów, które można dostosować do priorytetów Deed za pomocą dostosowywanych programów zaangażowania.
-- **Wyzwania** – konfigurowalne wyzwania mogą być skonfigurowane, aby reprezentować osiągnięcia. Wyzwania są ustawiane przez jedną osobę i mogą być wypełnione i ogłoszone jako takie przez inną. Wyzwania mają znaczenie punktowe, w ramach dostosowywalnych programów zaangażowania.
-- **Konfigurowalne programy zaangażowania** - organizacje mogą tworzyć własne programy zaangażowania dopasowane do ich celów i priorytetów biznesowych. Programy są powiązane z automatycznymi akcjami w systemie i ręcznie ustawianymi wyzwaniami. Każdy program ma ustalony budżet Meeds. Okresowo punkty zdobyte przez każdego użytkownika poprzez automatykę lub zapowiedziane działania w każdym programie angażującym są zamieniane na Meeds, w oparciu o budżet tego programu.
-- **Kudos** - kudos mogą być przyznawane sobie przez użytkowników, jako podziękowanie i dowód uznania. Ponieważ kudo dostępne do dystrybucji są ograniczone (ustalony okresowy limit, na przykład 3 na tydzień), są rzadkie i cenne. Podobnie jak akcje, kudo niesie ze sobą punkty. W ten sposób pracownicy mogą nagradzać swoich współpracowników.
-- **Narzędzia** - do współpracy podłączone do silnika nagradzania – obszary robocze, komunikacja asynchroniczna, narzędzie do zarządzania zadaniami i notatki – umożliwiają ludziom wspólną pracę nad projektami.
-- **Portfel ** – użytkownicy otrzymują bezpieczny portfel w technologii Ethereum do przechowywania swoich Meedów. Alternatywnie, dla zaawansowanych użytkowników, można użyć portfela Metamask.
-- **Sklep** – sklep, w którym Meeds można wymieniać na korzyści zapewniane przez posiadacza lub wynajmującego Deed lub przez ekosystem Meeds.
-- **Analityka** – analiza i śledzenie zaangażowania w ramach Deed.
-- **Łączniki** podłączone do silnika nagród – użytkownicy otrzymują punkty zaangażowania poprzez działania w innym oprogramowaniu – na przykład za zatwierdzenie kodu w GitHub.
+- ** Wyzwania ** - można ustawić dostosowane wyzwania, aby przedstawiały osiągnięcia. Wyzwania są ustalane przez jedną osobę i mogą być realizowane i ogłaszane jako takie przez inną. Wyzwania mają wartość w punktach, w ramach programów zaangażowania, które można dostosować.
+- ** Dostosowywalne programy zaangażowania ** - organizacje mogą tworzyć własne programy zaangażowania dopasowane do swoich celów biznesowych i priorytetów. Programy są powiązane z automatycznymi działaniami w systemie i ręcznie ustawionymi wyzwaniami. Każdy program ma ustalony budżet Meeds. Okresowo punkty zdobyte przez każdego użytkownika poprzez automatyczne lub ogłoszone działania w każdym programie zaangażowania są przeliczane na Meeds, w oparciu o budżet tego programu.
+- **Kudos** - Kudos mogą być przyznawane użytkownikom jako wyraz podziękowania i uznania. As kudos dostępne do przyznania są ograniczone (ustalony okresowy limit, np. 3 na tydzień), są rzadkie i cenne. Podobnie jak akcje, kudo niesie ze sobą punkty. W ten sposób pracownicy są w stanie nagradzać swoich kolegów.
+- **Narzędzia współpracy**, podłączone do silnika nagradzania - przestrzenie robocze, asynchroniczna komunikacja, narzędzie do zarządzania zadaniami i notatki - pozwalają ludziom na współpracę przy projektach.
+- **Portfel** – użytkownicy otrzymują bezpieczny portfel oparty na technologii Ethereum do przechowywania swoich Meeds. Alternatywnie, dla zaawansowanych użytkowników, można użyć portfela Metamask.
+- **Sklep** - sklep, w którym Meeds mogą być wymienione na korzyści dostarczane przez posiadacza lub wynajmującego Deed lub przez ekosystem Meeds.
+- **Analiza** – służąca do analizowania i śledzenia zaangażowania w obrębie Deedu.
+- **Połączenia**, podłączone do silnika nagród - użytkownicy otrzymują punkty za zaangażowanie poprzez działania w innych programach - na przykład za zatwierdzenie kodu w GitHub.
 
-Niektóre z wyżej wymienionych narzędzi i usług są już zdecentralizowane, inne nie. Ostatecznym celem jest świadczenie wszystkich usług w sposób zdecentralizowany, co będziemy robić stopniowo w miarę rozwoju technologii bazowej.
+Niektóre z wymienionych wcześniej narzędzi i usług są już zdecentralizowane, a niektóre nie. Ostatecznym celem jest świadczenie wszystkich usług w sposób zdecentralizowany, co będziemy robić stopniowo w miarę rozwoju technologii bazowej.
 
 Nowe usługi można podłączyć do mechanizmu nagradzania za pośrednictwem interfejsów API. Przykłady są niezliczone i mogą obejmować praktycznie dowolne oprogramowanie lub usługę:
 
-- Oprogramowanie CRM – sprzedawcy otrzymują punkty zaangażowania za pracę nad szansami.
+- Oprogramowanie CRM - pracownicy działu sprzedaży otrzymaliby punkty za pracę nad szansami sprzedażowymi.
 - Oprogramowanie księgowe – księgowi otrzymują punkty zaangażowania za prowadzenie ksiąg.
 - Terminal zegarowy – pracownik fabryki może otrzymać punkty za czas pracy w fabryce.
 - Itd.
 
-Ponadto zaangażowanie generowane przez łącznik uczestniczy w globalnym wyniku zaangażowania organizacji, który jest czynnikiem dystrybucji bicia Meeds, opisanego poniżej. Aby to zrobić, łącznik musi być umieszczony na białej liście stowarzyszenia Meeds. Stowarzyszenie dokonuje przeglądu łącznika, zatwierdza jego algorytm i przejmuje jego własność przeciwko Meeds. Następnie staje się częścią bezpłatnych usług świadczonych przez stowarzyszenie i jest uwzględniany w globalnym indeksie zaangażowania. Każdy inny Deed może używać tego samego łącznika i tego samego algorytmu nagradzania dla swoich programistów.
+Ponadto, zaangażowanie generowane przez łącznik bierze udział w globalnej ocenie zaangażowania organizacji, która jest czynnikiem dystrybucji generowania Meeds, opisanej poniżej. Aby to zrobić, konnector musi zostać wpisany na białą listę przez Stowarzyszenie Meeds. Stowarzyszenie dokonuje przeglądu łącznika, zatwierdza jego algorytm i przejmuje jego własność przeciwko Meeds. Staje się ona częścią darmowych usług świadczonych przez stowarzyszenie i jest uwzględniana w globalnym indeksie zaangażowania. Każdy inny Deed może używać tego samego łącznika i tego samego algorytmu nagradzania dla swoich programistów.
 
-Posiadacz lub najemca Deed może wzbogacić swój sklep o własne bonusy, połączyć się z ofertą bonusów online itp. Tam znowu możliwości są nieograniczone:
+Posiadacz lub najemca Deed może wzbogacić swój sklep o własne bonusy, połączyć się z ofertą bonusów online itp. Tu znowu możliwości są nieskończone:
 
-- Kursy przygotowujące
-- Karnety na siłownię
-- Wakacyjne karty podarunkowe
-- Lunch z liderem w organizacji
-- Fizyczna powierzchnia biurowa
+- Kursy szkoleniowe
+- Członkostwo w siłowniach
+- Pakiety wakacyjne
+- Obiad z liderem organizacji
+- Fizyczna przestrzeń biurowa
 - Itd.
 
 Sklep działa poprzez wykorzystanie Meeds, dzięki czemu Meeds są częściowo zwracane do Deed.
 
-## 2.5. Nagrody – Meeds i inne żetony
+## 2.5. Nagrody - Meeds i inne tokeny
 
-WoM będzie tokenizować zaangażowanie użytkowników poprzez grywalizację cyfrowych narzędzi pracy oraz przypisywanie punktów i potrzeb związanych z zaangażowaniem w pracę. Usługi podłączone do atrybutów silnika zaangażowania i nagród dla każdego użytkownika, zgodnie z jego poziomem zaangażowania i zgodnie z programami zaangażowania każdego Deed. Rzeczywiście, każdy Deed może doprecyzować ilość punktów przyznanych za każdy rodzaj działalności. W związku z tym, wypchnięcie jakiegoś kodu w GitHub może być warte 10 punktów dla sklepu IT, podczas gdy agencja cyfrowa może przypisać tylko 5 punktów za popchnięcia GitHub, ale zaoferuje 10 punktów za retweety.
+WoM będzie tokenizować zaangażowanie użytkowników poprzez grywalizację cyfrowych narzędzi pracy oraz przypisywanie punktów i potrzeb związanych z zaangażowaniem w pracę. Usługi podłączone do systemu angażowania i nagradzania przypisują punkty każdemu użytkownikowi, zgodnie z ich poziomem zaangażowania i zgodnie z programami zaangażowania każdego Deed. W rzeczywistości każdy Deed może dostosować ilość punktów przyznawanych za każdy rodzaj aktywności. W ten sposób przesyłanie kodu do GitHuba może być warte 10 punktów dla sklepu IT, podczas gdy agencja interaktywna może przyznać tylko 5 punktów za przesłanie kodu do GitHuba, ale oferuje 10 punktów za retweety.
 
-Okresowo, nagradzający silnik zamienia punkty zaangażowania na Meeds zgodnie z budżetami i innymi zasadami dystrybucji, a ostatecznie nagradza użytkowników za pośrednictwem ich portfeli. Deed nie jest wymagany do dystrybucji Meeds i może korzystać z systemu zaangażowania w celu umożliwienia innej formy programu kompensacyjnego. Jednak dystrybucja Meeds poprawi jego zdolność bicia.
+Okresowo, silnik nagradzania przelicza punkty zaangażowania na Meeds zgodnie z budżetami i innymi regułami dystrybucji i ostatecznie nagradza użytkowników poprzez ich portfele. Dokładnie, silnik nagradzania okresowo zamienia punkty zaangażowania na Meeds zgodnie z budżetami i innymi regułami dystrybucji, a następnie nagradza użytkowników poprzez ich portfele. Jednak dystrybucja Meeds poprawi jego zdolność bicia.
 
 Co więcej, Deed niekoniecznie musi nabywać Meeds w celu ich dystrybucji i napędzania programów zaangażowania, ponieważ otrzyma Meeds z modelu „mintium”, opisanego poniżej.
 
-Oprócz Meeds możliwa będzie również dystrybucja innych tokenów (np. własnych tokenów DAO) w oparciu o ten sam mechanizm zaangażowania. W takim przypadku dystrybucja będzie podlegać 5% opłacie transakcyjnej (w tokenie DAO) na rzecz Meeds Association.
+Oprócz Meeds możliwa będzie również dystrybucja innych tokenów (np. własnych tokenów DAO) w oparciu o ten sam mechanizm zaangażowania. W takim przypadku dystrybucja będzie podlegać opłacie transakcyjnej w wysokości 5% (w tokenach DAO) na rzecz Stowarzyszenia Meeds.
 
-## 2.6. Model „mintium” – tokenizacja zaangażowania w pracę
+## 2.6. Model "mintium" - tokenizacja zaangażowania w pracę
 
 Angażując swoich użytkowników w WoM, Deeds są rekompensowane przez innowacyjny model Mintium.
 
-Punkty zaangażowania, zdobyte przez użytkowników Deed, biorą udział w globalnym indeksie zaangażowania, obliczanym przez Meeds Association. Indeks stosuje tę samą zasadę dla wszystkich Deeds. Nawet jeśli Deed może zmienić przydział punktów, aby promować jedną akcję nad inną, zmiany te nie będą brane pod uwagę przy obliczaniu indeksu globalnego.
+Punkty zaangażowania zdobywane przez użytkowników Deedów, uczestniczą w globalnym indeksie zaangażowania, obliczanym przez Stowarzyszenie Meeds. Indeks wykorzystuje ten sam mechanizm dla wszystkich Deedów. Chociaż Deed może zmienić alokację punktów, aby promować jedną akcję ponad inną, te zmiany nie będą brane pod uwagę w obliczeniu globalnego indeksu.
 
 Każdego tygodnia pewna ilość Meeds jest przydzielana na globalną mennicę zaangażowania WoM. Jest obliczany co tydzień, proporcjonalnie, wśród uczestniczących czynów. Niektóre Deeds otrzymują dodatkową premię w zależności od ich rodzaju. Niektóre Deeds dodatkowe premię w wersji od ich rodzaju. Nieodebrane Meeds są dodawane do globalnej kwoty dystrybucji w następnym tygodniu.
 
