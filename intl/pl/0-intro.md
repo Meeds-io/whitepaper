@@ -4,38 +4,38 @@
 
 Obecny rynek pracy charakteryzuje się niską wydajnością z powodu wysokich kosztów transakcyjnych[^1][^2][^3] i częstych konfliktów interesów między pracodawcą a pracownikiem.
 
-Praca Metaverse (WoM) proponuje nowy paradygmat, który obniżyłby koszty transakcji i na nowo wymyślił stosunek pracy, wypełniając lukę między tradycyjnymi korporacje i DAOs.
+Praca w Metawersum (WoM) proponuje nowy paradygmat, który obniżyłby koszty transakcyjne i zrewolucjonizował relacje zatrudnienia, zamykając lukę między tradycyjnymi korporacjami a DAOs.
 
-WoM robi to, wprowadzając tożsamości cyfrowe zarówno dla pracodawcy, jak i pracownika oraz oferując innowacyjny system nagradzania za zaangażowanie, który dostosowałby ich zainteresowania.
+WoM osiąga to poprzez wprowadzenie cyfrowych tożsamości dla pracodawcy i pracownika oraz oferując innowacyjny system nagradzania zaangażowania, który zrównoważyłby ich interesy.
 
-## Wstęp
+## Wprowadzenie
 
-Dzisiejszy rynek pracy jest zepsuty. Nie satysfakcjonuje zarówno pracowników, jak i pracodawców.
+Obecny rynek pracy jest uszkodzony. Nie spełnia on oczekiwań zarówno pracowników, jak i pracodawców.
 
-Po stronie pracownika trudno jest znaleźć odpowiednią pracę. Rynek pracy faworyzuje określone typy osób, pozostawiając za sobą wspaniałe umiejętności. To pochodzi z różnic między typami ludzkich uprzedzeń – rasowych, płciowych, niepełnosprawnych, introwertycznych itp. Na rynku pracy brakuje również przejrzystości co do dostępnych stanowisk i warunków zatrudnienia.
+Z perspektywy pracowników, trudno jest znaleźć odpowiednie stanowiska. Rynek pracy faworyzuje pewne typy jednostek, pozostawiając w tyle świetne zestawy umiejętności. Wynika to z zestawu ludzkich uprzedzeń - opartych na rasie, płci, niepełnosprawności, introwertyzmie itp. Rynek pracy również brakuje przejrzystości, jeśli chodzi o dostępne stanowiska i warunki zatrudnienia.
 
-Po zatrudnieniu, wolności osobiste pracownika są naruszane w zamian za odszkodowanie. Pracownicy mają niewiele do powiedzenia na temat godzin pracy, miejsca pracy, treści pracy lub metody pracy. A ich wynagrodzenie rzadko jest powiązane z ich rzeczywistą implikacją lub wartością. Reguły odszkodowawcze są nieprzejrzyste i dlatego są postrzegane jako niesprawiedliwe. Ponadto wynagrodzenie i rozwój kariery zależą również od czynnika ludzkiego – dobrej wiary i obiektywizmu pracownika bezpośredniego przełożonego.
+Po zatrudnieniu, wolności osobiste pracowników są naruszane w zamian za wynagrodzenie. Pracownicy mają niewiele do powiedzenia w kwestii godzin pracy, miejsca pracy, treści pracy lub metody pracy. Ich wynagrodzenie rzadko jest powiązane z ich rzeczywistym zaangażowaniem lub wartością. Zasady wynagradzania są mało przejrzyste i dlatego postrzegane jako niesprawiedliwe. Ponadto, wynagrodzenie i postęp kariery są również uzależnione od czynnika ludzkiego - dobrej woli i obiektywności bezpośredniego przełożonego pracownika.
 
-Z drugiej strony pracodawcy mają trudności z pozyskiwaniem talentów i zatrudnianiem odpowiednich umiejętności i odpowiedniego dopasowania we właściwym czasie do pracy. Nie ma obiektywnego sposobu ustalenia umiejętności potencjalnego pracownika lub pozyskania osób spoza tradycyjnego pracodawcy wynajem basenu.
+Z drugiej strony, pracodawcy doświadczają trudności w pozyskiwaniu talentów i zatrudnianiu osób o odpowiednich umiejętnościach i doświadczeniu w odpowiednim czasie. Nie ma obiektywnego sposobu, aby ocenić umiejętności potencjalnego pracownika lub pozyskać osoby spoza tradycyjnego puli kandydatów.
 
-Pracodawcy borykają się również z brakiem lojalności ze strony swoich pracowników i dużą rotacją, co zwiększa koszty zatrudnienia i onboardingu.
+Pracodawcy borykają się również z brakiem lojalności ze strony pracowników i wysoką rotacją, które zwiększają koszty zatrudniania i szkolenia nowych pracowników.
 
-Co więcej, pracodawcy mają również do czynienia z niskim zaangażowaniem swoich obecnych pracowników, co prowadzi do niskiej kreatywności, produktywności i innowacyjności. Ten ostatni wyrządza tym większe szkody w dzisiejszej gospodarce, wymagającej bardziej wykwalifikowanej pracy twórczej.
+Ponadto, pracodawcy mają również do czynienia z niskim zaangażowaniem ze strony obecnych pracowników, co prowadzi do niskiej kreatywności, produktywności i innowacyjności. To ostatnie wywołuje jeszcze większe szkody w dzisiejszej gospodarce, wymagającej bardziej wykwalifikowanej pracy twórczej.
 
-Wszystko to sprowadza się do wysokich kosztów transakcyjnych i zaostrzonego agenta-zleceniodawcy problem[^4]:
+Wszystkie te problemy sprowadzają się do wysokich kosztów transakcyjnych i pogłębiają problem agenta-pryncypała[^4]:
 
-- Dzięki Internetowi rynki pracy ewoluowały w kierunku większej jedności i przejrzystości dzięki stronom z ogłoszeniami o pracy, stronom z ofertami pracy itp. Jednak koszty transakcyjne są nadal zbyt wysokie przy braku elementu obiektywizmu.
-- Jeśli chodzi o problem agent-zleceniodawca, to potęguje go rosnąca luka dochodowa i majątkowa między pracownikami a udziałowcami oraz sztywność relacji pracodawca-pracownik.
+- Dzięki internetowi rynki pracy ewoluowały w kierunku większej jedności i przejrzystości dzięki portalom ogłoszeniowym, serwisom karier itp. Jednak koszty transakcyjne są wciąż zbyt wysokie w braku elementu obiektywności.
+- Co do problemu agenta-pryncypała, został on skomplikowany przez wzrastającą różnicę w dochodach i bogactwie między pracownikami a udziałowcami oraz sztywność relacji pracodawca-pracownik.
 
-WoM ma na celu rozwiązanie obu problemów poprzez nowy zdecentralizowany paradygmat pracy.
+WoM ma na celu rozwiązanie obu tych problemów poprzez wprowadzenie nowego zdecentralizowanego paradygmatu pracy.
 
-Zgodnie z pracami R. Coase[^5] większość ekonomistów wiąże pojęcie przedsiębiorstwa z koniecznością łagodzenia kosztów transakcyjnych. Internet, a ostatnio blockchain i web3 otwierają ekscytujące możliwości w obniżaniu kosztów transakcji na całym świecie, odkrywaniu na nowo ekonomii, a w szczególności odkrywaniu na nowo przedsiębiorstwa. Pierwsze DAOs[^6] rozpoczęły ten proces, koncentrując się na obniżeniu kosztów transakcji związanych z pozyskiwaniem kapitału i zarządzaniem. WoM ma na celu dalsze rozwijanie tej logiki poprzez obniżenie kosztów transakcji pracy. Proponuje zdecentralizowany świat, w którym dopasowywanie miejsc pracy i umiejętności może odbywać się obiektywnie, szybko i globalnie.
+W wyniku prac R. Coase’a[^5] większość ekonomistów łączy koncepcję przedsiębiorstwa z koniecznością zmniejszenia kosztów transakcyjnych. Internet, a ostatnio blockchain i web3, otwierają ekscytujące możliwości w obniżaniu kosztów transakcyjnych wszędzie, rewolucjonizując gospodarkę, a w szczególności przedsiębiorstwa. Pierwsze DAO[^6] rozpoczęły ten proces, skupiając się na obniżeniu kosztów transakcyjnych dla pozyskiwania kapitału i zarządzania nim. WoM dąży do posunięcia tej logiki dalej, obniżając koszty transakcji związanych z pracą. Propozycja ta wprowadza zdecentralizowany świat, w którym dopasowywanie pracy i umiejętności może być dokonywane obiektywnie, szybko i globalnie.
 
-Pierwsze DAO spłaszczają hierarchie i otwierają własność. WoM realizuje tę logikę poprzez wymyślanie na nowo, zamiast tłumienia relacji pracodawca/pracownik. Wprowadza przejrzysty, obiektywny i zdecentralizowany paradygmat nagradzania, który w sposób zrównoważony łączy interesy pracodawcy i pracownika.
+Pierwsze DAO spłaszczają hierarchie i otwierają własność. WoM dąży do realizacji tej logiki poprzez przeobrażenie, a nie likwidację relacji pracodawca/pracownik. Wprowadza on transparentny, obiektywny i zdecentralizowany paradygmat nagradzania, który zrównoważenie dostosowuje interesy pracodawcy i pracownika.
 
-Wreszcie Praca Metaverse wypełnia lukę między korporacjami a DAO. Z jednej strony wprowadza tradycyjne korporacje w zdecentralizowany świat poprzez łatwy do zastosowania paradygmat nagradzania zaangażowania, uzupełniający ich wynagrodzenie systemy. Z drugiej strony proponuje zrównoważone sposoby działania i tworzenia wartości dla DAO. Ostatecznie WoM może być jedną z pierwszych aplikacji głównego nurtu, które zdemokratyzują wykorzystanie łańcucha bloków przez każdą firmę i każdego pracownika – także tych niecyfrowych.
+Ostatecznie, Work Metaverse przełamuje przepaść między korporacjami a DAOs. Z jednej strony wprowadza tradycyjne korporacje do zdecentralizowanego świata poprzez łatwy w zastosowaniu paradygmat nagradzania zaangażowania, uzupełniający ich systemy wynagrodzeń. Z drugiej strony proponuje zrównoważone sposoby działania i tworzenia wartości dla DAOs. Ostatecznie WoM mógłby być jednym z pierwszych mainstreamowych zastosowań, które zdemokratyzują wykorzystanie blockchaina dla każdej firmy i każdego pracownika - w tym także dla tych, którzy nie pracują w sektorze cyfrowym.
 
-Jak w przypadku każdego zdecentralizowanego przedsięwzięcia, propozycja WoM zyskuje na wartości wykładniczo, im więcej osób z niej korzysta. Z tego powodu założyciele dołożyli wszelkich starań, aby zachęcić do długoterminowego zainteresowania i uniknąć monopolizowania korzyści WoM, zarówno krótkoterminowych, jak i długoterminowych. Jest to paradygmat otwarty, który trzeba jeszcze zbudować i otwarty na aktywny, twórczy udział wszystkich.
+Jak w przypadku każdego zdecentralizowanego przedsięwzięcia, propozycja WoM zyskuje na wartości wykładniczo, gdy korzysta z niej coraz więcej osób. Z tego powodu założyciele bardzo dbają o zachęcanie do długoterminowego zainteresowania i unikanie monopolizowania korzyści WoM, zarówno krótko-, jak i długoterminowo. Jest to otwarty paradygmat, który wciąż trzeba zbudować i jest otwarty na aktywny kreatywny udział każdego.
 
 
 [^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)

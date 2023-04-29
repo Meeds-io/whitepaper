@@ -1,14 +1,14 @@
 
-# 1. Kim jesteśmy – Stowarzyszenie Meeds
+# 1. Kim jesteśmy – Meeds Association
 
-Stowarzyszenie Meeds jest organizacją non-profit, pierwotnie założoną przez kilka społeczności Open Source Software (OSS) wokół wspólnej wizji wolnego świata cyfrowego – zdecentralizowanego świata, który nie byłby kontrolowany przez garstkę scentralizowanych megakorporacji.
+Meeds Association to organizacja non-profit, pierwotnie stworzona przez kilka społeczności Open Source Software (OSS) zjednoczonych wokół wspólnej wizji wolnego świata cyfrowego – zdecentralizowanego świata, który nie byłby kontrolowany przez garstkę zcentralizowanych mega-korporacji.
 
-Stowarzyszenie Meeds jest zarejestrowane w Genewie jako stowarzyszenie non-profit zgodnie z prawem szwajcarskim.
+Meeds Association jest zarejestrowane w Genewie jako stowarzyszenie non-profit zgodnie z prawem szwajcarskim.
 
-Stowarzyszenie reguluje emisję waluty Meeds, tokena ERC20, uznawanego za token użytkowy.
+Stowarzyszenie reguluje emisję waluty Meeds, tokena ERC20, uznawanego za token użytecznościowy.
 
-Aby zbudować WoM i Meeds, stowarzyszenie wykorzystuje platformę Ethereum i jej ekosystem, udostępniając ją w przyjazny i opłacalny sposób wszystkim użytkownikom.
+Aby zbudować WoM i Meeds, stowarzyszenie korzysta z platformy Ethereum i jej ekosystemu, uczyniając ją dostępną w przyjazny i kosztowo efektywny sposób dla wszystkich użytkowników.
 
-Stowarzyszenie ma strukturę Zdecentralizowanej Organizacji Autonomicznej (DAO), w której posiadacze tokenów zarządzania głosują nad wszystkimi ważnymi zmianami organizacyjnymi, takimi jak coroczny wybór zarządu.
+Stowarzyszenie jest zorganizowane jako Decentralized Autonomous Organization (DAO), gdzie posiadacze tokenów głosują nad wszystkimi ważnymi zmianami organizacyjnymi, takimi jak wybór zarządu co roku.
 
-Oprócz zarządzania tokenami Meeds, stowarzyszenie posiada własność intelektualną (IP) oprogramowania Meeds github.com/meeds-io, dostępnego na licencji LGPL i dystrybuowanego za darmo. Ta ostatnia zawiera aplikację portfela Ethereum, której użytkownicy mogą używać do przechowywania i przeprowadzania transakcji Meeds (więcej szczegółów znajduje się w sekcji 2.4). Stowarzyszenie Meeds prowadzi również usługę hostingu w chmurze dla wielu dzierżawców, wykorzystując to oprogramowanie.
+Oprócz zarządzania tokenami Meeds, stowarzyszenie posiada własność intelektualną (IP) oprogramowania Meeds na [ github.com/meeds-io ](https://github.com/meeds-io), dostępnego na licencji LGPL i dystrybuowanego za darmo. Obejmuje ono również aplikację portfela Ethereum, którą użytkownicy mogą używać do przechowywania i przeprowadzania transakcji z Meeds (szczegóły w sekcji 2.4). Association Meeds prowadzi także usługę wieloklientowego hostingu w chmurze, korzystając z tego oprogramowania.
