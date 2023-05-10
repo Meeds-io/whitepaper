@@ -86,7 +86,7 @@ Angażując swoich użytkowników w WoM, Deeds są rekompensowane przez innowacy
 
 Punkty zaangażowania zdobywane przez użytkowników Deedów, uczestniczą w globalnym indeksie zaangażowania, obliczanym przez Stowarzyszenie Meeds. Indeks wykorzystuje ten sam mechanizm dla wszystkich Deedów. Chociaż Deed może zmienić alokację punktów, aby promować jedną akcję ponad inną, te zmiany nie będą brane pod uwagę w obliczeniu globalnego indeksu.
 
-Każdego tygodnia pewna ilość Meeds jest przydzielana na globalną mennicę zaangażowania WoM. Jest obliczany co tydzień, proporcjonalnie, wśród uczestniczących czynów. Niektóre Deeds otrzymują dodatkową premię w zależności od ich rodzaju. Niektóre Deeds dodatkowe premię w wersji od ich rodzaju. Nieodebrane Meeds są dodawane do globalnej kwoty dystrybucji w następnym tygodniu.
+Każdego tygodnia pewna ilość Meeds jest przydzielana do globalnej produkcji w systemie WoM związanej z zaangażowaniem. Jest obliczany co tydzień, proporcjonalnie, wśród uczestniczących czynów. Niektóre Deedy otrzymują dodatkowy impuls w zależności od ich typu. Deeds, które zgłaszają swoje Meeds w ciągu tygodnia, otrzymują je. Nieodebrane Meeds są dodawane do kwoty globalnej dystrybucji na kolejny tydzień.
 
 Wynik zaangażowania _S_ z Deed jest funkcją zaangażowania, liczby zaangażowanych użytkowników i rozkładu :
 
@@ -94,39 +94,39 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Gdzie :
 
-- $A$ = _Aktywność_ — całkowita liczba działań zgromadzonych przez użytkowników w ramach Deed w ciągu tygodnia. (Na poziomie każdego Deed każda akcja jest zamieniana na punkty zaangażowania, przy czym niektóre działania ważą więcej niż inne. Na poziomie indeksu wszystkie akcje są linearyzowane).
+- $A$ = _Aktywność_ — całkowita liczba działań zgromadzonych przez użytkowników w ramach Deed w ciągu tygodnia. (Na poziomie każdej Działalności, każda akcja jest konwertowana na punkty zaangażowania, niektóre akcje mają większą wagę niż inne. Na poziomie indeksu wszystkie akcje są liniowe).
 - $U$ = _Zaangażowani użytkownicy_ — użytkownicy, którzy w ciągu tygodnia przyczynili się do zdobycia punktów za co najmniej jedno działanie.
 - $E_d$ = _Wskaźnik zaangażowania w Deed_ - działania na u żytkownika ($A/U$)
-- $E_w$ = _Średni wskaźnik zaangażowania_ wszystkich aktywnych Deeds w WoM.
+- $E_w$ = _Średnia stopa zaangażowania_ wszystkich aktywnych Deeds w WoM.
 - $D_r$ = _Wskaźnik dystrybucji_ - jeśli Deed otrzymał wybite Meeds za poprzedni okres, % Meeds, które zostały rozdane jego użytkownikom. Wartość % może być wyższa niż 100, jeśli dystrybucja jest opóźniona w czasie.
 - $D_s$ = _Spread dystrybucyjny_ - jeśli Deed otrzymał wybite Meeds za poprzedni okres, % użytkowników, którzy otrzymali Meeds w całkowitej puli użytkowników.
 - $M$ = _Moc Mintingu_ z Deed zgodnie z definicją w 2.3
 
 
-Globalny wskaźnik zaangażowania używany do rozdzielania wybitych Meeds wśród Deeds jest sumą wyników zaangażowania wszystkich Deeds w danym tygodniu.
+Indeks globalnej aktywności używany do dystrybucji mintowanych Meeds między Deeds jest sumą punktów aktywności wszystkich Deeds w tygodniu.
 
 
 Powyższa formuła jest prosta i ma na celu faworyzowanie Deeds:
 
 - z dużą ilością zaangażowanych użytkowników (zaangażowanie)
-- którzy sprawiedliwie dzielą się całym dochodem z bicia (współczynnikiem dystrybucji) ze swoimi użytkownikami (rozpiętość dystrybucji).
+- którzy dzielą cały dochód z mintingu (distribution rate) sprawiedliwie ze swoimi użytkownikami (distribution spread).
 
-Dodatkowo dopalacze są dostępne dla:
+Dodatkowo, przyspieszacze są zastosowane dla :
 
-- organizacje o największym zaangażowaniu, niezależnie od ich wielkości (wskaźnik zaangażowania w stosunku do WoM)
+- organizacje o najwyższej aktywności, bez względu na ich rozmiar (współczynnik zaangażowania w stosunku do WoM-u)
 - rzadsze Deeds
 
-> Stowarzyszenie Meeds zastrzega sobie prawo do zmiany formuły w razie potrzeby – na przykład w przypadku wystąpienia szczególnych przypadków użycia. Stowarzyszenie może również umieścić na czarnej liście każdy Deed, który przechwytuje formułę, aby uzyskać wyjątkową korzyść.
+> Organizacja Meeds zastrzega sobie prawo do zmiany formuły w razie potrzeby – na przykład, jeśli pojawią się określone przypadki użycia. Stowarzyszenie może również umieścić na czarnej liście każdy Deed, który przechwytuje formułę, aby uzyskać wyjątkową korzyść.
 
-Ponieważ Deeds są nagradzane Meedami i zachęcane do redystrybucji ich jako nagrody dla swoich użytkowników za ich zaangażowanie – interesy zarówno Deeds, jak i ich użytkowników są wyrównane w tym samym cnotliwym cyklu podziału przychodów. Tym samym WoM oferuje nowy model pracy, który przekształca relację pracodawca/pracownik jako partnerstwo.
+Ponieważ Deeds są nagradzane Meeds i zachęcane do ich ponownego rozdystrybuowania jako nagród dla swoich użytkowników w związku z ich zaangażowaniem - interesy zarówno Deeds, jak i ich użytkowników są zbieżne w tym samym wirtulnym cyklu dzielenia się przychodami. Tym samym WoM oferuje nowy model pracy, który przekształca relację pracodawca/pracownik w partnerstwo.
 
-Model „mintium” jest pierwszym w swoim rodzaju – idzie dalej niż tradycyjny model freemium, ponieważ nie tylko korzystanie z usług jest darmowe, ale zarówno organizacje, jak i ich użytkownicy są za to wynagradzani.
+Model "mintium" to pierwszy tego typu model, który wykracza poza tradycyjny model freemium, ponieważ nie tylko usługi są bezpłatne do użytku, ale zarówno organizacje, jak i ich użytkownicy są nagradzani za ich wykorzystanie.
 
 ## 2.7. Miasta i zarządzanie
 
-W WoM Akty będą generowane stopniowo w wirtualnych miastach. Od początku będzie istniało tylko pierwsze miasto. Pozostałe będą budowane stopniowo, jedna po drugiej. W całym WoM będzie tylko 7 miast, każde z określoną liczbą aktów każdego typu.
+W WoM Akty będą generowane stopniowo w wirtualnych miastach. Tylko pierwsze miasto będzie istnieć od samego początku. Tylko pierwsze miasto będzie istnieć od samego początku. Pozostałe będą budowane stopniowo, jedno po drugim. W całym WoM będzie istnieć tylko 7 miast, z każdym zawierającym ustaloną liczbę Deeds każdego typu.
 
-Miasto zostanie uznane za kompletne, gdy wszystkie jego Deeds zostaną wybite. Następnie bicie każdego nowego miasta rozpocznie się w ciągu 2^n$ miesięcy po wybiciu ostatniego czynu w mieście o wartości $n-1$.
+Miastu zostanie przyznany status ukończenia, kiedy wszystkie jego Deeds zostaną wyemitowane. Następnie bicie każdego nowego miasta rozpocznie się w ciągu 2^n$ miesięcy po wybiciu ostatniego czynu w mieście o wartości $n-1$.
 
 | **Nazwa miasta** | **Akty**    | **Powszechny**         | **Powszechny** | **Niezwykły** | **Rzadki** | **Legendarny** |
 | ---------------- | ----------- | ---------------------- | -------------- | ------------- | ---------- | -------------- |
@@ -138,15 +138,15 @@ Miasto zostanie uznane za kompletne, gdy wszystkie jego Deeds zostaną wybite. N
 | 6: Kushor        | 10 000 000  | Eszmum + 64 miesiące   | 6 000 000      | 3 000 000     | 999 998    | 2              |
 | 7: Hammon        | 100 000 000 | Kuszor + 128 miesięcy  | 60 000 000     | 30 000 000    | 9 999 999  | 1              |
 
-Miasto to sposób, w jaki Deeds łączą się i tworzą społeczność. A w konsekwencji nabyć pewnej tożsamości, związanej z tą społecznością. Jest to również sposób na zapewnienie użytkownikom dodatkowej wartości – wartości, która wykraczałaby poza możliwości jednego aktu lub wartość wytworzoną dzięki współpracy Deeds.
+Miasto jest sposobem dla Deeds na wspólne tworzenie społeczności. A w konsekwencji nabyć pewnej tożsamości, związanej z tą społecznością. Jest to również sposób na zapewnienie dodatkowej wartości dla użytkowników - wartości, która wykraczałaby poza zdolności jednego zadania lub wartość stworzoną poprzez współpracę między zadaniami.
 
-Każde miasto ma swój własny zarząd i prowadzi własne DAO, w którym właściciele miasta mogą wybierać radę miejską, głosować i ustanawiać własne zasady działania, dodawać nowe usługi i kształtować swoje miasto w sposób, w jaki chcą i aby zwiększyć atrakcyjność miasta i wartość Deeds nim związanych.
+Każde miasto ma swoją własną strukturę rządzenia i działa na własnym DAO, gdzie właściciele zadań miasta mogą wybierać swoją radę miasta, głosować i ustalać swoje własne zasady działania, dodawać nowe usługi i kształtować swoje miasto w taki sposób, aby zwiększyć jego atrakcyjność i wartość zadań z nim związanych.
 
 Na przykład mogą dodać cyfrową reprezentację swojego miasta, fizyczne odpowiedniki związane z ich miastem (na przykład sale konferencyjne w fizycznych przestrzeniach coworkingowych), dodać usługi gastronomiczne zasilane przez Meeds, usługi wakacyjne itp...
 
-Domyślnie (chyba, że ​​miasto zagłosuje inaczej), pasywny dochód z wynajmu Czynów będzie „opodatkowany” przez miasto (5%) i Stowarzyszenie (3%) w celu zachęcenia do produktywnego wykorzystania.
+Domyślnie (chyba że miasto postanowi inaczej), pasywny dochód z wynajmu Deed-ów będzie "opodatkowany" przez miasto (5%) i Stowarzyszenie (3%) w celu zachęcenia do produktywnego wykorzystania.
 
-Transakcje własnościowe (sprzedaż Deed) również będą opodatkowane 6%:
+Transakcje własnościowe (sprzedaże zadania) będą również opodatkowane w wysokości 6%:
 
 - 2,5% dla Miasta
 - 2,5% dla Stowarzyszenia,
