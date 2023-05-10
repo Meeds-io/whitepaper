@@ -1,29 +1,29 @@
-# 3. Token Meeds – waluta Work Metaverse
+# 3. Meeds token – waluta Work Metaverse
 
-Praca Metaverse jest zasilana przez swoją walutę - token Meeds (MEED). Meeds służą do nagradzania użytkowników (poprzez programy zaangażowania), zakupów w sklepach, uzyskiwania aktów własności, uzyskiwania zwrotów finansowych z inwestycji itp.
+Przestrzeń Metaworka jest napędzana przez swoją walutę - token Meeds (MEED). Meeds służą do nagradzania użytkowników (poprzez programy zaangażowania), zakupów w sklepach, uzyskiwania aktów własności, uzyskiwania zwrotów finansowych z inwestycji itp.
 
 ## 3.1. Tokenomika
 
-Maksymalna podaż Meeds** jest ograniczona do 100 milionów żetonów**, bitych stopniowo. **Meeds wybija się w tempie 10 MEED na minutę**. W związku z tym pełny horyzont bicia monet zbliża się do 20 lat (ponieważ około 106024 * 365 $ = 5 mln $ Meeds jest wybijanych rocznie).
+**Maksymalna podaż tokenów Meeds jest ograniczona do 100 milionów**, wybijanych stopniowo. **Meeds są wytwarzane w tempie 10 MEED na minutę**. Dlatego pełny horyzont wydobycia wynosi prawie 20 lat (ponieważ rocznie wydobywa się około 5 milionów Meeds, co wynosi około $10*60*24*365$).
 
-Do tej pory wyprodukowano 5 milionów Meedów (5% całkowitej podaży). Z czego 4,5 mln zostało zamkniętych w kontrakcie skarbca z liniowym nabyciem uprawnień przez ponad 4 lata. Wstępnie wybita kwota została wykorzystana głównie na pozyskanie IP oprogramowania, opłacenie opłat prawnych związanych z emisją tokenów i usług hostingowych.
+Do tej pory wyemitowano 5 milionów tokenów Meeds (5% całkowitej podaży). Z czego 4,5 mln zostało zamkniętych w kontrakcie skarbca z liniowym nabyciem uprawnień przez ponad 4 lata. Pre-minted ilość została głównie wykorzystana do nabycia oprogramowania IP, pokrycia kosztów związanych z emisją tokenów oraz usług hostingowych.
 
-Reszta jest częścią __funduszy Meeds DAO__ i zostanie wykorzystana do opłacenia usług, a także niektórych zachęt, takich jak zrzuty lotnicze i kampanie polecające.
+Reszta stanowi część __funduszy Meeds DAO__ i zostanie wykorzystana na pokrycie kosztów usług oraz niektórych zachęt do uruchomienia, takich jak airdropy i kampanie poleceń.
 
 
-## 3.2. Przydział bicia
+## 3.2. Przydział mintowania
 
-Bicia Meeds są przydzielane w celu zachęcenia do zaangażowania trzech kategorii interesariuszy – użytkowników, budowniczych i inwestorów:
+Minted Meeds są przydzielane w celu zachęcenia do zaangażowania trzech kategorii interesariuszy - użytkowników, twórców i inwestorów:
 
-- Użytkownicy (użytkownicy i posiadacze/wynajmujący akty) otrzymują Meeds poprzez zaangażowanie nagrody (model Mintium).
+- Użytkownicy (użytkownicy i posiadacze/wynajmujący Deeds) otrzymują Meeds poprzez nagrody za zaangażowanie (model mintium).
 - Budowniczowie (członkowie stowarzyszenia i społeczności) otrzymują Meeds za pośrednictwem fundusze stowarzyszeniowe na budowę, obsługę i doskonalenie WoM.
-- Inwestorzy wybijają Meeds poprzez wynajmowanie i kupowanie puli płynności oraz staking Meeds.
+- Inwestorzy wytwarzają Meeds poprzez wynajem i zakup pul płynności oraz stawianie Meeds.
 
-Na początku budowniczowie otrzymują 30% alokacji. 70% jest dzielone między użytkowników i inwestorów. Ta proporcja alokacji będzie regularnie weryfikowana poprzez głosowanie stowarzyszenia Meeds DAO.
+Na początku budowniczowie otrzymują 30% alokacji. Pozostałe 70% jest dzielone między użytkowników i inwestorów. Proporcja alokacji będzie regularnie przeglądana poprzez głosowanie DAO stowarzyszenia Meeds.
 
-## 3.3. Użytkownicy – ​​bicie poprzez zaangażowanie
+## 3.3. Użytkownicy - wytwarzanie poprzez zaangażowanie
 
-Część stale wybitych meedów jest przydzielana kanałowi kopalni. Dystrybucja odbywa się co tydzień. Na koniec każdego tygodnia indeks zaangażowania jest obliczany i Deeds mogą otrzymać swoje nagrody w następnym tygodniu oraz otrzymać swoje Meeds. Nieodebrane Meeds pozostają w funduszu i są dodawane do dystrybucji w następnym tygodniu. Wzór został szczegółowo opisany w poprzednim rozdziale (część 2.6).
+Część stale wybitych meedów jest przydzielana kanałowi kopalni. Dystrybucja odbywa się co tydzień. W każdym końcu tygodnia obliczany jest indeks zaangażowania, a Deeds mogą ubiegać się o swoje nagrody w następnym tygodniu i otrzymać swoje Meeds. Nieodebrane Meeds pozostają w funduszu i są dodawane do dystrybucji w następnym tygodniu. Wzór został szczegółowo opisany w poprzednim rozdziale (część 2.6).
 
 ## 3.4. Budowniczowie – stowarzyszenie Meeds DAO i społeczność budowniczych
 
