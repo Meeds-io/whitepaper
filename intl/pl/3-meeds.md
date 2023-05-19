@@ -23,63 +23,63 @@ Na początku budowniczowie otrzymują 30% alokacji. Pozostałe 70% jest dzielone
 
 ## 3.3. Użytkownicy - wytwarzanie poprzez zaangażowanie
 
-Część stale wybitych meedów jest przydzielana kanałowi kopalni. Dystrybucja odbywa się co tydzień. W każdym końcu tygodnia obliczany jest indeks zaangażowania, a Deeds mogą ubiegać się o swoje nagrody w następnym tygodniu i otrzymać swoje Meeds. Nieodebrane Meeds pozostają w funduszu i są dodawane do dystrybucji w następnym tygodniu. Wzór został szczegółowo opisany w poprzednim rozdziale (część 2.6).
+Część stale wybitych meedów jest przydzielana kanałowi kopalni. Dystrybucja odbywa się co tydzień. W każdym końcu tygodnia obliczany jest indeks zaangażowania, a Deeds mogą ubiegać się o swoje nagrody w następnym tygodniu i otrzymać swoje Meeds. Nieprzyznane Meeds pozostają w funduszu i są dodawane do dystrybucji w kolejnym tygodniu. Model jest szczegółowo opisany w poprzednim rozdziale (część 2.6).
 
-## 3.4. Budowniczowie – stowarzyszenie Meeds DAO i społeczność budowniczych
+## 3.4. Budowniczowie - Meeds stowarzyszenie DAO i społeczność budowniczych
 
-WoM i token Meeds są obsługiwane przez organizację non-profit Meeds DAO, opisaną powyżej. Wielozadaniowa umowa o nazwie _Meeds DAO Funds_ służy do zarządzania wydatkami operacyjnymi stowarzyszenia.
+WoM i token Meeds są obsługiwane przez niezarobkowe Meeds Association DAO, o którym wspomniano powyżej. Multisigowy kontrakt o nazwie _Meeds DAO Funds_ jest używany do zarządzania wydatkami operacyjnymi stowarzyszenia.
 
-W okresie bicia, **330% wybitych Meeds jest przydzielanych stowarzyszeniu Meeds.**.
+Podczas okresu emisji, **30% wyemitowanych Meedsów jest przydzielane do stowarzyszenia Meeds**.
 
-Członkowie stowarzyszenia mogą świadczyć usługi na rzecz stowarzyszenia na podstawie podpisanej umowy o świadczeniu usług ustalającej stawkę osobodni. Usługi są opłacane co miesiąc w Meeds na podstawie ceny rynkowej. Do przykładów usług należą: wzbogacenie oprogramowania Meeds, rozwój aplikacji WoM, rozwój nowych połączeń, korzystanie z usług w chmurze, świadczenie usług finansowych i prawnych itp.
+Członkowie stowarzyszenia mogą świadczyć usługi dla stowarzyszenia na podstawie podpisanej umowy o świadczenie usług ustalającej stawkę dzienną. Usługi są płatne co miesiąc w Meeds, na podstawie ceny rynkowej. Przykłady usług obejmują - wzbogacanie oprogramowania Meeds, rozwijanie aplikacji WoM, tworzenie nowych łączników, obsługa usługi w chmurze, świadczenie usług finansowych i prawnych itp.
 
-Nie będąc członkiem, każdy Deed może uczestniczyć w tworzeniu nowego łącznika i być za to wynagradzany – najpierw poprzez stowarzyszenie Meeds, które nabywa łącznik, a następnie poprzez wybijanie przez to łącznik.
+Bez bycia członkiem, każdy Deed może wziąć udział w tworzeniu nowego łącznika i być za to nagradzany - najpierw poprzez nabycie łącznika przez stowarzyszenie Meeds, a następnie poprzez mintowanie przez ten łącznik.
 
-Stowarzyszenie prowadzi społeczność budowlaną , która wita entuzjastów WoM, którzy chcą przyczynić się do powstania WoM. Stowarzyszenie będzie sponsorować społeczność ze swojego budżetu, rekompensując zaangażowanie członków społeczności.
+Towarzystwo zarządza społecznością Builders, która skupia entuzjastów WoM, którzy chcą przyczynić się do tworzenia WoM. Stowarzyszenie będzie sponsorować społeczność ze swojego budżetu, wynagradzając zaangażowanie członków społeczności.
 
-W ten sposób społeczność będzie funkcjonować jako przykład Aktu, oferując standardowy zestaw usług świadczonych przez stowarzyszenie. Stowarzyszenie stawia Meeds w celu odkupienia Deed dla społeczności. Społeczność będzie wtedy również uczestniczyć w wybijaniu zaangażowania, jak każdy inny Deed.
+Dlatego też społeczność będzie funkcjonować jako przykład Deed, oferując standardowy zestaw usług świadczonych przez stowarzyszenie. Stowarzyszenie stawia tokeny Meeds w celu wykupienia Deedu dla społeczności. Następnie społeczność będzie również uczestniczyć w wydobywaniu nagród za zaangażowanie, tak jak każdy inny Deed.
 
-Po zakończeniu okresu bicia stowarzyszenie będzie podtrzymywane przez:
+Po zakończeniu okresu emisji, stowarzyszenie będzie utrzymywane poprzez:
 
-- opodatkowanie dochodu pasywnego (3% od wynajmu czynów)
-- opodatkowanie dochodu ze sprzedaży (2,5% od sprzedaży czynów)
-- postrzeganie opłat transakcyjnych nad użytkownikiem sklepów bonusowych
-- działanie jako dostawca puli płynności
-- postrzeganie opłat transakcyjnych, gdy Deed rozprowadza tokeny inne niż Meeds za pośrednictwem WoM usługi.
-- operując Deeds, które stowarzyszenie wybiło z biegiem czasu.
+- opłaty od pasywnych dochodów (3% od wynajmu Deedów)
+- opodatkowanie dochodu ze sprzedaży (2,5% od sprzedaży Deedów)
+- pobieranie opłat za transakcje za korzystanie ze sklepów z rabatami
+- działając jako dostawca puli płynności
+- pobieranie opłat transakcyjnych za dystrybucję tokenów innego typu niż Meeds przez Deedy za pośrednictwem usług WoM.
+- poprzez działalność operacyjną Deeds, które stworzyło stowarzyszenie w ciągu czasu.
 
 
 ## 3.5. Inwestorzy
 
-Inwestorzy pomagają w tworzeniu WoM poprzez zapewnienie płynności i poprzez udział w Meeds, a tym samym stabilizację poziomu cen w okresie budowy. Oba są zachęcone przez bicie.
+Investorzy pomagają w tworzeniu WoM, zapewniając płynność finansową i stawiając Meeds, co stabilizuje poziom cenowy podczas okresu budowy. Oba są zachęcane poprzez minting.
 
-**Liquidity providers** Currency liquidity management is key to the success of the project and several DeFi strategies will be used to optimize capital efficiency. Zaczniemy od zachęt do obstawiania tokenów puli MeedS/ETH LP i stopniowo wprowadzimy obligacje, aby przejść w kierunku płynności posiadanej przez protokół. Te ostatnie przyczyniłyby się do długoterminowej stabilności stowarzyszenia – jak wspomniano powyżej, opłaty transakcyjne pokryją koszty operacyjne stowarzyszenia, takie jak hosting w chmurze.
+**Dostawcy płynności** Zarządzanie płynnością waluty jest kluczowe dla sukcesu projektu, a kilka strategii DeFi będzie wykorzystywanych do optymalizacji efektywności kapitałowej. Zaczniemy od zachęt do stawiania tokenów puli MeedS/ETH oraz stopniowo wprowadzimy obligacje w celu przesunięcia się w kierunku posiadania przez protokół płynności. Ostatnie z nich przyczyniłoby się do długoterminowej stabilności stowarzyszenia - jak wspomniano wcześniej, opłaty za transakcje będą finansować wydatki operacyjne stowarzyszenia, takie jak hostowanie chmury.
 
-Każdy członek ma również prawo do bezpośredniego zakupu dużej ilości Meeds ze zniżką. Kwota przekazana na konto stowarzyszenia jest przeliczana na ETH i dodawana wraz z ekwiwalentną wartością Meeds do puli płynności.
+Każdy członek ma również prawo do bezpośredniego zakupu dużej ilości Meedsów z rabatem. Kwota przelana na konto stowarzyszenia jest przeliczana na ETH i dodawana wraz z równowartością Meeds do puli płynności.
 
-**Staking / long-term investment** To encourage long term investment, staked Meeds are rewarded. Kiedy obstawia się Meeds, osoba obstawiająca otrzymuje kilka żetonów xMeeds. Nowo wybite Meeds są rozdzielane wśród obstawiających proporcjonalnie do ich zasobów xMeeds. W praktyce wybite Meeds są skutecznie dodawane do zasobów inteligentnego kontraktu xMeeds i przekazywane posiadaczowi xMeeds po rozbiciu.
+**Stawianie wkładów / inwestycja długoterminowa** Aby zachęcić do długoterminowej inwestycji, posiadacze zdeponowanych Meeds otrzymują nagrody. Kiedy Meeds są stakowane, staker otrzymuje pewną ilość tokenów xMeeds. Kiedy Meeds są stawkiowane, staker otrzymuje pewną ilość tokenów xMeeds. Nowo wyemitowane Meeds są dystrybuowane do stakerów proporcjonalnie do ich posiadanych xMeeds. W praktyce wybite Meedy są efektywnie dodawane do posiadanych przez kontrakt xMeeds i rozdzielane na posiadaczy xMeeds, gdy wycofają swoje stawki.
 
-Stawiając Meeds, inwestorzy mogą również wykupić Akty (a następnie uczestniczyć w wybijaniu poprzez zaangażowanie), zwiększając w ten sposób popyt na tokeny. Każdy postawiony Meeds (xMeeds) zapewnia swojemu właścicielowi określoną liczbę punktów dziennie. Im dłuższy okres uprawniający, tym większa liczba punktów uzyskanych na xMeeds. Każdy Deed jest następnie umarzany w zamian za określoną liczbę punktów.
+Poprzez stawianie Meeds, inwestorzy mogą również wykupować Deeds (i następnie brać udział w mintingu poprzez engagement), co zwiększa popyt na tokeny. Każde złożone w depozycie Meeds (xMeeds) przysługuje jego właścicielowi określona liczba punktów dziennie. Im dłuższy okres, na jaki przypada przetrzymywana waluta, tym większa liczba punktów uzyskana na jeden xMeeds. Każdy Czyn uprawnia do uzyskania określonej liczby punktów.
 
-Punkty oblicza się przy użyciu poniższego wzoru:
+Punkty są obliczane za pomocą poniższego wzoru:
 
  $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
 
  gdzie :
 
-- $xMeeds$ : saldo xMeeds bez ułamków dziesiętnych
+- $xMeeds$: Stan konta xMeeds bez miejsc dziesiętnych
 - $T$ : Czas, który upłynął w milisekundach
 
-Formuła pozwala uniknąć faworyzowania dużych posiadaczy w celu wydajniejszego i bardziej sprawiedliwego podziału aktów. Na przykład formuła podaje następujące stawki:
+Wzór unika faworyzowania dużych posiadaczy w celu bardziej efektywnego i bardziej sprawiedliwego rozprowadzania Deedów. Na przykład, wzór daje następujące stawki:
 
-| **Rozmiar uchwytu** | **Gospodarstwa** | **Stawka naliczania** |
-| ------------------- | ---------------- | --------------------- |
-| Mały                | 1 000 xMeeds     | 28 pkt/dzień          |
-| Średni              | 10 000 xMeeds    | 164 pkt/dzień         |
-| Duży                | 100 000 xMeeds   | 321 pkt/dzień         |
+| **Rozmiar posiadacza** | **Posiadane aktywa** | **Stopa narastania** |
+| ---------------------- | -------------------- | -------------------- |
+| Mały                   | 1 000 xMeeds         | 28 pkt/dzień         |
+| Średni                 | 10 000 xMeeds        | 164 pkt/dzień        |
+| Duży                   | 100 000 xMeeds       | 321 pkt/dzień        |
 
 
-który prowadzi do następującego czasu przetrzymywania dla każdej klasy posiadacza:
+co prowadzi do następującego czasu posiadania dla każdej klasy posiadacza:
 
 | **Typ karty** | **Koszt**       | **Duży uchwyt** | **Średni uchwyt** | **Mały uchwyt** |
 | ------------- | --------------- | --------------- | ----------------- | --------------- |
@@ -88,22 +88,22 @@ który prowadzi do następującego czasu przetrzymywania dla każdej klasy posia
 | Rzadki        | 50 000 punktów  | 156 dni         | 10 miesięcy       | 5 lat           |
 | Legendarny    | 100 000 punktów | 311 dni         | 20 miesięcy       | 10 lat          |
 
-## 3.6. Zarządzanie Meeds DAO
+## 3.6. Rządy Meeds DAO
 
-Posiadacze tokenów Meeds muszą postawić tokeny, aby głosować nad decyzjami Meeds DAO, takimi jak zarządzanie budżetem menniczym lub wybór członków zarządu DAO (mandat roczny).
+Posiadacze tokenów Meeds muszą stawiać swoje tokeny, aby móc głosować w sprawach Meeds DAO, takich jak zarządzanie budżetem emisji lub wybieranie członków zarządu DAO (roczna kadencja).
 
-## 3.7. Usługi dla użytkowników decentralizowanego finansowania (DeFi)
+## 3.7. Usługi użytkowników finansów zdecentralizowanych (DeFi)
 
-Praca Metaverse przedstawi świat blockchain wielu osobom, które nie używają go dzisiaj.
+Work Metaverse wprowadzi świat blockchain do wielu osób, które dzisiaj go nie używają.
 
-Rzeczywiście, każda praca (czy to cyfrowa, czy nie) może być grywalna, a każde zaangażowanie - nagradzane Meeds. Meeds są udostępniane użytkownikom za pośrednictwem łatwego w użyciu portfela opartego na blockchain, który „abstrahuje” przeciętnemu użytkownikowi wszelką złożoność świata kryptowalut.
+W rzeczywistości, każda praca (czy to cyfrowa, czy nie) może zostać przekształcona w grę, a każde zaangażowanie - nagrodzone Meedami. Meeds są udostępnione użytkownikom poprzez łatwy w użyciu, oparty na blockchainie portfel, który "abstrahuje" jakąkolwiek złożoność świata kryptowalut dla przeciętnego użytkownika.
 
-Poza portfelem i sklepem, w którym mogą kupować dodatki do Meeds, planujemy wprowadzić każdego użytkownika do kilku produktów dla użytkowników końcowych obsługiwanych przez protokoły Zdecentralizowanego Finansowania, takich jak:
+Ponad portfelem i sklepem, w którym użytkownicy mogą kupować przywileje za Meeds, planujemy wprowadzić każdego użytkownika do kilku produktów końcowych zasilanych protokołami DeFi, takich jak:
 
-- Możliwość obstawiania tokenów Meeds i uzyskiwania plonów (generowanie przychodów)
-- Możliwość korzystania z tokenów Meeds jako zabezpieczenia pożyczania stabilnych monet, takich jak USDC (najpierw wykorzystując [pulę bezpieczników](https://app.rari.capital/fuse), a następnie rejestrując token Meeds w [AAVE](https://aave.com/).
-- Karta cyfrowa, którą można dodać i używać za pośrednictwem Apple Pay, Google pay lub dowolnego bankomatu. Te ostatnie mogą być zapewnione poprzez partnerstwo z VISA i będą korzystały z linii kredytowej w USDC, zabezpieczonej przez spółkę Meeds. Karta ta może być również wykorzystywana przez organizacje do finansowania portfeli pracowniczych w celu zarządzania świadczeniami pracowniczymi, takimi jak restauracje, transport i wszelkiego rodzaju wydatki.
+- Możliwość stawiania tokenów Meeds i uzyskiwania zysków (generowanie przychodów)
+- Możliwość ustanowienia depozytu Meeds i uzyskania zysków (generowanie przychodów) oraz używania tokenów Meeds jako zabezpieczenia do pożyczania stabilnych kryptowalut, takich jak USDC (poprzez wykorzystanie puli Fuse, a następnie zarejestrowanie tokena Meeds w AAVE).
+- Cyfrowa karta, która może być dodana i używana przez Apple Pay, Google Pay lub dowolny bankomat. Powyższe będzie możliwe dzięki partnerstwu z VISA i wykorzysta linię kredytową w USDC, zabezpieczoną przez stakowane Meeds. Ta karta mogłaby również być używana przez organizacje do zasilania portfeli pracowników w celu zarządzania korzyściami pracowniczymi, takimi jak posiłki w restauracjach, transport i wszelkiego rodzaju wydatki.
 
-Tak więc nie tylko wielu nowych użytkowników odkryje świat blockchain, ale także odkryje świat bez bankowości.
+Więc nie tylko wielu nowych użytkowników odkryje świat technologii blockchain, ale również odkryje świat pozbawiony banków.
 
  

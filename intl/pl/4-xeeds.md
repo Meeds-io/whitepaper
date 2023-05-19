@@ -1,16 +1,16 @@
-# 4. Xeeds - Praca Metaverse Osoby/użytkownicy
+# 4. Xeeds - Przestrzeń Pracy dla Osób / Użytkowników Wirtualnego Świata
 
 ## 4.1. Zdecentralizowane i samodzielne modele
 
-WoM uznaje prywatność za podstawowe prawo człowieka i umożliwia użytkownikom posiadanie własnych danych.
+WoM uznaje prywatność za fundamentalne prawo człowieka i umożliwia użytkownikom posiadanie swoich danych.
 
-Nasze podejście opiera się na zdecentralizowanych i samodzielnych zasadach tożsamości, dzięki czemu użytkownicy mogą w dowolnym momencie kontrolować, jakie informacje chcą publikować, udostępniać ograniczonej grupie lub zachować prywatność.
+Nasze podejście opiera się na zasadach zdecentralizowanej i suwerennej tożsamości, co umożliwia użytkownikom pełną kontrolę nad tym, jakie informacje chcą ujawnić publicznie, udostępnić wybranym grupom osób lub zachować w prywatności.
 
-Aktywność i zaangażowanie użytkownika w WoM jest zawsze powiązane z Deed. Xeed to wirtualna postać użytkownika w akcie. Xeed nie wymaga żadnego KYC, deklaruje się samodzielnie, ale możemy sobie wyobrazić firmy zewnętrzne świadczące tę usługę.
+Aktywność i zaangażowanie użytkownika w WoM zawsze są powiązane z Czynem. Xeed to wirtualna persona użytkownika w Czynie. Xeed nie wymaga przeprowadzania procedury weryfikacji tożsamości (KYC). Jest samodeklarujący się, jednak teoretycznie możemy sobie wyobrazić, że firmy trzecie mogą świadczyć taką usługę.
 
-## 4.2. Odznaki i poświadczenia
+## 4.2. Odznaki i referencje
 
-Odznaki i poświadczenia są przekazywane użytkownikom w ramach ich uczestnictwa w aktach. Posiadacz może pobrać je jako weryfikowalne dane uwierzytelniające[^7][^8] (aka VCs) i przechowywać je w swoim portfelu. Te VC są dowodem wiedzy/know-how certyfikowanym przez organizację, która je wydała.
+Odznaki i referencje są przyznawane użytkownikom jako część ich udziału w Czynie. Posiadacz może pobrać je jako weryfikowalne dane uwierzytelniające[^7][^8] (aka VCs) i przechowywać je w swoim portfelu. Te VC są dowodem wiedzy/know-how certyfikowanym przez organizację, która je wydała.
 
 W dzisiejszym świecie trudno jest z góry udowodnić umiejętność. Kiedy ludzie reklamują się w sieciach, liczą na to, że ich menedżerowie dadzą im rekomendację. Ta ostatnia zakłada pewną dobrą wolę ze strony kierownika, ale niekoniecznie jest traktowana jako dowód przez przyszłego pracodawcę.
 
