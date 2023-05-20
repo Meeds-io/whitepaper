@@ -1,18 +1,18 @@
-# 5. Praca Metaverse dla WSZYSTKICH – podsumowanie wizji i kamienie milowe
+# 5. Wirtualne środowisko pracy dla WSZYSTKICH - podsumowanie wizji i kamienie milowe
 
-## 5.1. Ostateczny cel - zdecentralizowana sieć dla wszystkich
+## 5.1. Ostatecznym celem jest stworzenie zdecentralizowanej sieci dla wszystkich
 
-Ostatecznie WoM jest zdecentralizowanym światem internetowym dla wszystkich – każdej osoby i każdej organizacji.
+W końcu WoM to zdecentralizowany świat sieci dla każdego - każdej osoby i każdej organizacji.
 
-Będzie on wypełniany przez użytkowników, działających poprzez swoje cyfrowe tożsamości  **Xeeds **i uzyskujących dostęp do świata przez swoje metamaski, dla kryptowalut lub login/hasło dla początkujących. Ludzie przydzieliliby swoje zaangażowanie i otrzymaliby wynagrodzenie w sposób sprawiedliwy, przejrzysty i zdecentralizowany. W łatwy i znajomy sposób uzyskaliby dostęp do zdecentralizowanego świata i kryptoświata jutra – otrzymaliby proste narzędzia do wykorzystania swoich tokenów w swoim życiu lub zainwestowania ich w swoją przyszłość.
+Będzie zamieszkany przez użytkowników, którzy będą działać poprzez swoje cyfrowe tożsamości, zwane **Xeeds**, i będą mieć dostęp do świata za pomocą swoich metamasków dla osób z doświadczeniem w kryptowalutach lub loginu/hasła dla początkujących. Ludzie będą przydzielali swoje zaangażowanie i otrzymywali nagrody w sposób sprawiedliwy, transparentny i zdecentralizowany. Otrzymaliby dostęp do zdecentralizowanego świata i kryptowalutowego świata jutra w prosty i znajomy sposób - otrzymaliby proste narzędzia do korzystania z tokenów w swoim życiu lub inwestowania ich na przyszłość.
 
-Organizacje - **Deeds** będą mogły pozyskiwać talenty, przeglądać przez WoM, dla właściwych sprawdzonych umiejętności. Otrzymaliby nagrodę za udział w metawersie poprzez wykrywanie tokenów poprzez zaangażowanie użytkowników (model mintium). Przede wszystkim jednak skorzystaliby na większym zaangażowaniu i lojalności ze strony swoich użytkowników.
+Organizacje - **Deedy** - mogłyby pozyskiwać talenty, przeglądając WoM, w poszukiwaniu odpowiednich potwierdzonych umiejętności. Przez uczestnictwo w metawersie organizacje otrzymywałyby nagrody poprzez emisję tokenów na podstawie zaangażowania swoich użytkowników (model mintium). Przede wszystkim czerpaliby korzyści z większego zaangażowania i lojalności swoich użytkowników.
 
-WoM miałby własną walutę **Meeds** – którą można by wydawać w sklepach, wymieniać na inną walutę, inwestować w celu zwrotu z inwestycji, wynajmować lub kupować itp. WoM ułatwiłby również dystrybucję innych tokenów i uczestniczyłby w całym ekosystemie kryptowalut.
+WoM miałoby swoją własną walutę, **Meeds**, którą można by wydawać w sklepach, wymieniać na inną walutę, inwestować w celu osiągnięcia zwrotu z inwestycji, wynajmować lub kupować itp. WoM ułatwiałoby również dystrybucję innych tokenów i uczestniczyłoby w ogólnym ekosystemie kryptowalut.
 
 Ponieważ obraz jest wart tysiąca słów, oto diagram opisujący przepływy WoM i Meeds
 
-![Przepływy WoM i Meeds](en/img/wom-flows.png)
+![Przepływy w WoM i Meeds](en/img/wom-flows.png)
 
 Światowe utrzymanie i zrównoważony rozwój na dłuższą metę są zapewnione dzięki podatkom dzielonym między stowarzyszenie Meeds i miast.
 
