@@ -10,55 +10,55 @@ Aktywność i zaangażowanie użytkownika w WoM zawsze są powiązane z Czynem. 
 
 ## 4.2. Odznaki i referencje
 
-Odznaki i referencje są przyznawane użytkownikom jako część ich udziału w Czynie. Posiadacz może pobrać je jako weryfikowalne dane uwierzytelniające[^7][^8] (aka VCs) i przechowywać je w swoim portfelu. Te VC są dowodem wiedzy/know-how certyfikowanym przez organizację, która je wydała.
+Odznaki i referencje są przyznawane użytkownikom jako część ich udziału w Czynie. Użytkownik może je pobrać jako W3C Credentials[^7][^8] (także nazywane VC) i przechowywać w swoim portfelu. Te W3C Credentials są potwierdzeniem wiedzy/know-how certyfikowanej przez organizację, która je wydaje.
 
-W dzisiejszym świecie trudno jest z góry udowodnić umiejętność. Kiedy ludzie reklamują się w sieciach, liczą na to, że ich menedżerowie dadzą im rekomendację. Ta ostatnia zakłada pewną dobrą wolę ze strony kierownika, ale niekoniecznie jest traktowana jako dowód przez przyszłego pracodawcę.
+W dzisiejszym świecie trudno jest udowodnić umiejętność z góry. Kiedy ludzie reklamują się na sieciach, liczą na to, że ich menedżerowie dadzą im rekomendację. To jednak zakłada pewną dobrej woli ze strony menedżera, ale nie jest traktowane jako niezbity dowód przez przyszłego pracodawcę.
 
-Metaverse w pracy zapewnia bardziej przejrzyste i niezmienne środki umożliwiające ludziom zdobycie i wykazanie swoich zdolności.
+Przestrzeń Metaworka zapewnia bardziej transparentne i niezmiennie udokumentowane środki, dzięki którym ludzie mogą zdobywać i demonstrować swoje umiejętności.
 
-Odznaki są wykorzystywane do reprezentowania osiągnięć dokonanych w ramach czynności. Po wypełnieniu zestawu celów lub wyzwań użytkownicy otrzymają punkty. Odznaki mogą zostać odblokowane poprzez gromadzenie pewnych ilości punktów w określonych kategoriach.
+Odznaki są używane do przedstawiania osiągnięć zdobytych w ramach Deed. Po ukończeniu zestawu celów lub wyzwań, użytkownicy otrzymają punkty. Odznaki mogą być odblokowane poprzez zdobycie określonej liczby punktów w konkretnych kategoriach.
 
-Kiedy odznaki są pobierane przez użytkownika, możliwe jest włączenie liczby punktów i ich rangi do Deed prawnego dotyczącego tego konkretnego osiągnięcia.
+Kiedy odznaki są pobierane przez użytkownika, istnieje możliwość uwzględnienia liczby punktów i jego pozycji w Deed w ramach tego konkretnego osiągnięcia.
 
-Poświadczenia są bardziej elastyczne niż odznaki; mogą to być zalecenie od rówieśników, wskazujące na lata doświadczenia, ukończenie szkolenia lub egzaminu lub zaangażowanie w Deed. Są one podpisane aktem prawnym i mogą być opatrzone podpisem przez użytkownika równorzędnego.
+Poświadczenia są bardziej elastyczne niż odznaki; mogą być to rekomendacja od kolegi, wskazująca na lata doświadczenia, ukończenie szkolenia lub egzaminu, lub zaangażowanie w Deed. Są one podpisane przez Deed i mogą być opatrzone podpisem użytkownika z grupy rówieśniczej.
 
 ## 4.3. Cyfrowa tożsamość pracy
 
-Wszystko to przyczynia się do tworzenia sprawdzonego zestawu umiejętności cyfrowych, który może być zachowany i wykorzystywany przez użytkownika podczas zmiany pracy lub freelancingu. Byłby bardziej godny zaufania niż tradycyjne rozwiązania, ponieważ opiera się nie tylko na jednej osobie, ale na pełnej społeczności, aby to udowodnić.
+Wszystko to przyczynia się do tworzenia udokumentowanego cyfrowego zestawu umiejętności, który użytkownik może przechowywać i wykorzystywać przy zmianie pracy lub pracy jako freelancer. Byłoby bardziej wiarygodne niż tradycyjne rozwiązania, ponieważ opiera się nie tylko na jednej osobie, ale na całej społeczności, która potwierdza te umiejętności.
 
-Podobnie jak w przypadku portfela Meeds, użytkownik zachowa swój Xeed, odznaki i dane uwierzytelniające dołączone do niego w portfelu tożsamości, gdy przechodzi z jednego czynu do drugiego, z jednego miasta do drugiego, w dowolnym miejscu przez WoM.
+Podobnie jak w przypadku portfela Meeds, użytkownik zachowa swoje Xeedy, Odznaki i Referencje przypisane do swojego portfela tożsamości, gdy przechodzi z jednego Deed do drugiego, z jednego miasta do drugiego, wszędzie za pośrednictwem WoM.
 
-Użytkownik będzie mógł podzielić się swoimi Xeed, odznakami i poświadczeniami z innymi czynami, aby podkreślić swoje doświadczenia, a także z rekrutatorami lub innymi służbami, które uzna za interesujące.
+Użytkownik będzie mógł udostępniać swoje Xeedy, Odznaki i Referencje innym Deedom, aby podkreślić swoje doświadczenie, a także rekruterom lub innym usługom, które uważa za interesujące.
 
-Użytkownik może mieć jedną lub kilka tożsamości cyfrowych w WoM. Następnie mógłby przedstawić je w ujednolicony sposób przy użyciu zweryfikowanych prezentacji.
+Użytkownik może posiadać jedno lub kilka cyfrowych tożsamości w WoM. Później może je przedstawić w ujednoliconej formie, korzystając z weryfikowanych prezentacji.
 
-W przeciwieństwie do sieci 2, użytkownik jest w pełni właścicielem swojej zdecentralizowanej tożsamości. Ten ostatni może pokazać (i udowodnić) Deeds, w których brał udział, swoje sprawdzone umiejętności, deklarowane umiejętności, inne Xeedy (ludzie), z którymi pracował, swoją cyfrową reprezentację siebie... W sposób godny zaufania LinkedIn 3.0.
+W przeciwieństwie do Web 2.0, użytkownik jest w pełni właścicielem swoich zdecentralizowanych tożsamości. Ostatni z wymienionych może pokazywać (i udowadniać) Deedy, w których brał udział, swoje udokumentowane umiejętności, zgłoszone umiejętności, inne Xeedy (ludzi), z którymi współpracował, swoje cyfrowe przedstawienie... W sposób godny zaufania LinkedIn 3.0.
 
-Użytkownik będzie mógł wybrać, czy cokolwiek ujawnić, jakie informacje podać i jakich tożsamości użyć na każdym stanowisku. Treść (sprawdzone umiejętności, poprzednie czyny itp.) jest odporna na manipulacje i dlatego nie można jej modyfikować. Każda tożsamość musiałaby być z czasem rozwijana.
+Użytkownik będzie mógł wybrać, czy ujawnić cokolwiek, jakie informacje udostępnić i jakie tożsamości wykorzystać dla każdej pozycji. Zawartość (udowodnione umiejętności, poprzednie Deeds itp.) jest zabezpieczona przed modyfikacją i nie może być zmieniona. Każda tożsamość musiałaby być rozwijana przez czas.
 
-## 4.4. Rynek uczciwej pracy
+## 4.4. Sprawiedliwy rynek pracy
 
-W ramach tego paradygmatu rynek pracy przyszłości pozwala użytkownikom na swobodne poruszanie się i alokowanie/sprzedawanie ich zaangażowania wśród Deeds – tak jak robią to w świecie fizycznym poprzez zmianę pracodawców. Jednak w WoM ich zaangażowanie byłoby namacalne, mierzone i wynagradzane w sprawiedliwy sposób. Przechodząc między systemami, które działają zgodnie z podobną logiką, lepiej zrozumieją reguły gry i będą sprawiedliwie oceniać pracodawców – trawa nie zawsze jest bardziej zielona w innych miejscach. Użytkownicy będą mogli wybrać, który Deed zapewnia lepsze warunki przyznawania nagród za zaangażowanie, należy do bardziej atrakcyjnego miasta itp.
+W tym paradygmacie przyszły rynek pracy umożliwia użytkownikom swobodne przemieszczanie się i alokowanie/sprzedawanie swojego zaangażowania w ramach Deeds - tak jak robią to w świecie fizycznym, zmieniając pracodawców. Jednak w WoM ich zaangażowanie byłoby namacalne, mierzone i nagradzane w sprawiedliwy sposób. Przenosząc się między systemami, które podążają za podobną logiką, lepiej zrozumieją zasady gry i będą oceniać pracodawców w sprawiedliwy sposób - trawa nie zawsze jest zielona po drugiej stronie. Użytkownicy będą mieli możliwość wyboru, które zadanie oferuje lepsze warunki wynagrodzenia za zaangażowanie, należy do atrakcyjniejszego miasta, itp.
 
-Posiadacz/renciści Deeds mogą w końcu szukać odpowiednich umiejętności z wykorzystaniem sieci cyfrowych tożsamości pracy WoM (którą użytkownicy zdecydowali się ujawnić). Będą mogli skuteczniej pozyskiwać umiejętności w oparciu o zweryfikowane i szczegółowe informacje dotyczące historii pracy, umiejętności pracy i poziomu zaangażowania użytkownika.
+Z kolei posiadacze/zamawiający zadań będą mogli wyszukiwać odpowiednie umiejętności przy użyciu sieci cyfrowych tożsamości pracy w WoM (które użytkownicy zdecydowali się ujawnić). Będą mogli bardziej efektywnie pozyskiwać umiejętności, korzystając z zweryfikowanych i szczegółowych informacji dotyczących historii pracy, umiejętności zawodowych i poziomu zaangażowania użytkownika.
 
 ## 4.5. Wyraźne i przejrzyste uznanie
 
-Obecnie w wielu miejscach pracy szczegóły dotyczące wynagrodzeń i premii są niejasne. Dlatego trudno jest porównywać swoje warunki do innych i mieć poczucie sprawiedliwego i bezstronnego traktowania. Pracownicy odczuwają wiele frustracji w związku z powyższym.
+Dzisiaj szczegóły dotyczące wynagrodzenia i premii są niejasne w wielu miejscach pracy. Dlatego trudno osobie porównać swoje warunki z warunkami innych i otrzymać poczucie sprawiedliwego i bezstronnego traktowania. Pracownicy doświadczają wielu frustracji z powodu opisanych powyżej sytuacji.
 
-WoM wprowadza obiektywny sposób uznawania osiągnięć i nagradzania ich.
+WoM wprowadza obiektywny sposób rozpoznawania osiągnięć i nagradzania ich.
 
-Mechanizm uznawania zaangażowania i nagradzania jest przejrzysty i stosuje się sprawiedliwie do wszystkich użytkowników, zgodnie z tymi samymi wyraźnymi zasadami, ustalonymi z wyprzedzeniem i dostosowanymi do celów Deed.
+Mechanizm rozpoznawania i nagradzania zaangażowania jest transparentny i stosowany uczciwie względem wszystkich użytkowników, zgodnie z ustalonymi z góry wyraźnymi zasadami, które są zgodne z celami Deed.
 
-Portfele są indywidualne i bazujące na blockchain – gdy użytkownik otrzymuje nagrodę lub otrzymuje odznakę, nie można go odebrać ani wymazać.
+Portfele są indywidualne i oparte na technologii blockchain - gdy użytkownik otrzymuje nagrodę lub zdobywa odznakę, nie może być ona cofnięta ani usunięta.
 
-## 4.6. Dostęp do sieci Web 3.0, usług kryptowalutowych i usług DEFI
+## 4.6. Dostęp do Web 3.0, kryptogospodarki i usług DEFI
 
 Jak omówiono powyżej, Praca Metaverse otwiera świat kryptowalut i zdecentralizowanych usług internetowych w zasadzie dla każdego – bardzo dużej populacji użytkowników, być może nawet niezwiązanych z dziedziną cyfrową.
 
-Rzeczywiście, każde zaangażowanie w pracę może być potencjalnie tokenizowane. W rzeczywistości świat staje się coraz bardziej cyfrowy dzięki takim trendom jak 5G, IoT, urządzenia do noszenia i tak dalej. W rezultacie potencjalnie coraz więcej sygnałów można by przechwytywać i analizować w celu udowodnienia zaangażowania w zawody niecyfrowe. Wyzwania zapewniają gotową drogę do tokenizacji poprzez reprezentowanie osiągnięć w świecie fizycznym.
+Rzeczywiście, każde zaangażowanie w pracę może potencjalnie zostać ztokenizowane. W rzeczywistości świat staje się coraz bardziej cyfrowy, z trendami takimi jak 5G, IoT, noszone urządzenia itp. W rezultacie, potencjalnie coraz więcej sygnałów może być przechwytywanych i analizowanych w celu tokenizacji zaangażowania osób z profesji nienumerycznych. Wyzwania stanowią gotowy sposób na tokenizację, reprezentując osiągnięcia w świecie fizycznym.
 
-Każdy użytkownik może uzyskać Meeds i korzystać z portfela Meeds, aby uzyskać dostęp do nowych usług wiekowych bez specjalnego szkolenia.
+Każdy użytkownik może otrzymać Meeds i używać portfela Meeds, aby uzyskać dostęp do usług nowej ery bez specjalnego szkolenia.
 
 [^7]: A.Preukschatt, R. Drummond "Własna Tożsamość"
 [^8]: Zweryfikowalny model danych poświadczeń
