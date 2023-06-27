@@ -14,61 +14,61 @@ Ponieważ obraz jest wart tysiąca słów, oto diagram opisujący przepływy WoM
 
 ![Przepływy w WoM i Meeds](en/img/wom-flows.png)
 
-Światowe utrzymanie i zrównoważony rozwój na dłuższą metę są zapewnione dzięki podatkom dzielonym między stowarzyszenie Meeds i miast.
+Utrzymanie i zrównoważony rozwój świata na dłuższą metę są zapewnione dzięki podatkom, które są dzielone między stowarzyszenie Meeds a miasta.
 
-## 5.2. Co to oznacza dla wczesnych użytkowników
+## 5.2. Co jest w tym dla wczesnych użytkowników
 
-Oczywiście wcześni użytkownicy uzyskaliby znaczną przewagę nad późnymi.
+Oczywiście, wczesni użytkownicy mieliby znaczne przewagi nad późniejszymi użytkownikami.
 
-W szczególności WoM nagradza długoterminową inwestycję odwrotną – chodzi o wykup nieruchomości (Deeds). Pierwotny właściciel Deed własności otrzymuje rekompensatę poprzez wybiórcze zaangażowanie (aktywne użycie), poprzez dochody pasywne (wynajem) i otrzymywanie przez całe życie 1 % od każdej transakcji sprzedaży własności (przy każdej zmianie własności, podmiot akceptujący zlecenie otrzymuje opłatę za transakcję).
+W szczególności, WoM nagradza długoterminowe inwestycje w wers - czyli odkupywanie nieruchomości (Deeds). Pierwotny właściciel Deed własności otrzymuje rekompensatę poprzez wybiórcze zaangażowanie (aktywne użycie), poprzez dochody pasywne (wynajem) i otrzymywanie przez całe życie 1 % od każdej transakcji sprzedaży własności (przy każdej zmianie własności, podmiot akceptujący zlecenie otrzymuje opłatę za transakcję).
 
-Wierząc w projekt, udział w puli płynności, stawianie meedów, wykupywanie ich w stosunku do Deeds... wczesni inwestorzy o wszystkich rozmiarach odważyliby dodatkowe tokeny. Uzyskaliby oni również najwcześniejsze prawa głosu i pomogliby kształtować metaverse.
+Wierząc w projekt, uczestnicząc w pulach płynności, stawiając Meeds, wymieniając je na Deedy... wczesni inwestorzy o różnej skali otrzymaliby dodatkowe tokeny. Otrzymaliby również najwcześniejsze prawa do głosowania i pomagaliby kształtować metawers.
 
-Organizacje nabywające, ale przede wszystkim wykorzystujące Deeds do angażowania i nagradzania swoich pracowników, otrzymywałyby wynagrodzenie w wybitych Meedach. Im uczciwiej zagrają, tym więcej dostaną. Wcześniejsi adoptujący byliby związani z pierwszymi miastami historycznymi i zostaną następnie zidentyfikowani jako budownicy.
+Organizacje, które nabywają, a przede wszystkim używają Deedów do zaangażowania i nagradzania swoich pracowników, otrzymują rekompensatę w postaci wyemitowanych Meeds. Im uczciwiej będą grać, tym więcej otrzymają. Wczesni adopterzy byliby związani z pierwszymi historycznymi miastami i zostaliby później uznani za budowniczych.
 
-Poniższy wykres przedstawia przykład strategii inwestycyjnej Meeds dla posiadaczy kapitału:
+Poniższy diagram przedstawia przykład strategii inwestycyjnej Meeds dla posiadaczy kapitału:
 
 ![Strategia inwestycyjna Meeds dla posiadaczy kapitału](en/img/invest-capital.png)
 
-Organizacje mogą oczywiście uczestniczyć w puli płynności, ale także dołączyć do społeczności budowniczych i uzyskać tam dodatkowe nagrody za zaangażowanie.
+Organizacje oczywiście mogą uczestniczyć w pulach płynności, ale również dołączyć do społeczności twórców i otrzymywać tam dodatkowe nagrody za zaangażowanie.
 
-Poniższy schemat przedstawia przykład strategii inwestycyjnej Meeds dla posiadaczy pracy:
+Poniższy diagram przedstawia przykład strategii inwestycyjnej Meeds dla posiadaczy pracy:
 
 ![Strategia inwestycyjna Meeds dla posiadaczy prac](en/img/invest-work.png)
 
 ## 5.3. Uruchomienie
 
-Oficjalna data uruchomienia jest ustawiona na **1 maja 2022 r.** – Międzynarodowy Dzień Pracowników, obchodzony w wielu krajach.
+Data oficjalnego uruchomienia została ustalona na **1 maja 2022** roku - Międzynarodowy Dzień Pracownika, obchodzony w wielu krajach.
 
-W tym czasie token Meed już istnieje. Możliwe jest jego nabycie, a pule płynności są otwarte do udziału w sieciach Polygon i Ethereum.
+W tym czasie token Meed już istnieje. Jest możliwość go nabyć, a pule płynności są otwarte do udziału na sieciach Polygon i Ethereum.
 
-Członkowie stowarzyszeń trzech meedów używają systemu wewnętrznie, aby zaangażować i nagradzać swoich użytkowników i ulepszyć oprogramowanie Meeds.
+Trzech członków stowarzyszenia Meeds korzysta z systemu wewnętrznie, aby angażować i nagradzać swoich użytkowników oraz ulepszać oprogramowanie Meeds.
 
-Aplikacja Investor jest dostępna na Ethereum Mainnet. W momencie wprowadzenia na rynek obejmuje ono nabywanie akcji, nagradzanie za płynność, gromadzenie punktów i umorzenie Deeds.
+Aplikacja dla inwestorów jest dostępna na głównym łańcuchu Ethereum (Ethereum Mainnet). W momencie wprowadzenia na rynek obejmuje ono nabywanie akcji, nagradzanie za płynność, gromadzenie punktów i umorzenie Deeds.
 
-Społeczność budowlana jest i działa na oprogramowaniu Meeds, otwartym dla każdego, kto chciałby przyłączyć, przetestować i uczestniczyć. Można zalogować się za pomocą Metamask.
+Społeczność Builders jest już aktywna na oprogramowaniu Meeds i otwarta dla wszystkich, którzy chcieliby dołączyć, przetestować i wziąć udział. Można zalogować się za pomocą Metamask.
 
-Dokument ten został opublikowany w dniu uruchomienia. Po uruchomieniu token zostanie zrzucony do wielu osób w całej społeczności kryptowalut.
+Dokument ten został opublikowany w dniu uruchomienia. Po uruchomieniu, token zostanie rozdystrybuowany (air-dropped) do wielu osób z całej społeczności kryptowalutowej.
 
 ## 5.4. Społeczność budownicza
 
-Uruchamiamy społeczność budowniczych na oprogramowaniu Meeds i na Discordzie. Społeczność wita każdego, kto chce wziąć udział w budowaniu Praca Metaverse. Stowarzyszenie nagrodzi zaangażowanie budowniczych w Meeds ze swojego budżetu marketingowego.
+We are launching the builders community on the Meeds software and on Discord. Społeczność serdecznie zaprasza wszystkich, którzy chcą wziąć udział w budowaniu Work Metaverse. Stowarzyszenie nagradza zaangażowanie budowniczych przy pomocy Meeds z budżetu marketingowego.
 
-Stowarzyszenie planuje również postawić trochę Meeds w celu uzyskania (umorzenia) Deed własności dla społeczności budowniczych. Społeczność będzie następnie wybijać Meeds poprzez zaangażowanie, poprzez model mintium i dystrybuować je do zaangażowanych użytkowników.
+Stowarzyszenie planuje również stawianie niektórych Meeds w celu zakupu (wykupienia) Deedu dla społeczności budowniczych. Społeczność będzie wtedy wytwarzać Meeds poprzez zaangażowanie, korzystając z modelu mintium, i rozdawać je zaangażowanym użytkownikom.
 
 ## 5.5. Plan działania i kamienie milowe
 
 Nasz plan działania byłby zgodny z poniższą kolejnością priorytetów:
 
-- Wskaźnik zaangażowania i bicie poprzez zaangażowanie
+- Wskaźnik zaangażowania i mintowanie poprzez zaangażowanie
 - Włączenie wypożyczanie Deeds
 - Tworzenie Xeed
-- Poprawa odznak i rozwój referencji
-- Usługi DeFi – w portfelu, partnerstwa kart kredytowych
+- Rozwój odznak i tworzenie certyfikatów
+- Usługi DeFi – w portfelu, partnerstwo z kartami kredytowymi
 
-Liczymy na wczesnych adoptorów z DAOs i firm energooszczędnych na etapie budowy. Powinniśmy również mieć kilku wczesnych użytkowników z tradycyjnych firm, którzy zyskują natychmiastową wartość z metaświata, zapewniając swoim pracownikom odpowiednie programy zaangażowania, oprócz obecnych tradycyjnych planów wynagrodzeń.
+We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. Powinniśmy również mieć kilku wczesnych użytkowników z tradycyjnych firm, którzy zyskują natychmiastową wartość z metaświata, zapewniając swoim pracownikom odpowiednie programy zaangażowania, oprócz obecnych tradycyjnych planów wynagrodzeń.
 
-Bicie Meeds trwa 20 lat. Do tego czasu dążymy do zbudowania dojrzałego metawersu, który rozprzestrzenił się na wiele organizacji i wielu użytkowników na całym świecie.
+Bicie Meeds trwa 20 lat. W tym czasie aspirujemy do zbudowania dojrzałego metawersu, który rozprzestrzenił się na wiele organizacji i użytkowników na całym świecie.
 
 ## 5.6. Co możesz teraz zrobić
 
@@ -77,10 +77,10 @@ Co możesz teraz zrobić, aby wziąć udział?
 - Rozpowszechnienie tego dokumentu wśród tych, którzy byliby zainteresowani
 - Odwiedź naszą stronę [meeds.io](https://www.meeds.io/)
 - Sprawdź aplikację [Investor](https://meeds.io/investors)
-- Przyczyn się do istniejących puli płynności tutaj:
+- Przyczynij się do istniejących puli płynności tutaj:
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
-- Dołącz do naszej społeczności [Discord](https://discord.com/invite/hAuADSq3), aby być na bieżąco
-- Dołącz do naszej społeczności [Builders](https://meeds.io/builders), aby przetestować oprogramowanie Meeds, zaangażować się i zdobyć nagrody za zaangażowanie Meeds
+- Dołącz do naszej społeczności na [Discordzie](https://discord.com/invite/hAuADSq3), aby być na bieżąco
+- Dołącz do naszej społeczności [Builders](https://meeds.io/builders), aby przetestować oprogramowanie Meeds, zaangażować się i zdobyć nagrody za zaangażowanie w postaci Meeds
 
-**\*\*\* Praca Metaverse - zbudujmy razem ten szalony przyszły świat. \*\*\***
+***** Świat Pracy Metaverse - zbudujmy ten szalony przyszły świat razem. \*\*\***
