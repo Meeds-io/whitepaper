@@ -66,7 +66,7 @@ Nasz plan działania byłby zgodny z poniższą kolejnością priorytetów:
 - Rozwój odznak i tworzenie certyfikatów
 - Usługi DeFi – w portfelu, partnerstwo z kartami kredytowymi
 
-We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. Powinniśmy również mieć kilku wczesnych użytkowników z tradycyjnych firm, którzy zyskują natychmiastową wartość z metaświata, zapewniając swoim pracownikom odpowiednie programy zaangażowania, oprócz obecnych tradycyjnych planów wynagrodzeń.
+Liczymy na wczesnych adopterów z DAO i firm o dużej wiedzy technicznej w trakcie fazy budowania. Powinniśmy również mieć kilku wczesnych użytkowników z tradycyjnych firm, którzy zyskują natychmiastową wartość z metaświata, zapewniając swoim pracownikom odpowiednie programy zaangażowania, oprócz obecnych tradycyjnych planów wynagrodzeń.
 
 Bicie Meeds trwa 20 lat. W tym czasie aspirujemy do zbudowania dojrzałego metawersu, który rozprzestrzenił się na wiele organizacji i użytkowników na całym świecie.
 
