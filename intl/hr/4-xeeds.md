@@ -1,64 +1,64 @@
-# 4. Xeeds - Radni metaverse za pojedince / korisnike
+# 4. Xeeds - Work Metaverse Individuals / users
 
-## 4.1. Modeli koji su decentralizirani i samostalni u upravljanju
+## 4.1. Decentralized and self-sovereign models
 
 WoM priznaje privatnost kao temeljno ljudsko pravo i omogućuje korisnicima da posjeduju svoje podatke.
 
 Naš pristup temelji se na načelima decentraliziranog i samosuverenog identiteta, omogućujući korisnicima da u bilo kojem trenutku imaju kontrolu nad informacijama koje žele objaviti, podijeliti s ograničenom grupom ili zadržati privatnima.
 
-Aktivnost i angažman korisnika u WoM-u uvijek su povezani s djelom. Xeed je virtualna persona korisnika u djelu. Xeed ne zahtijeva bilo kakvu provjeru identiteta korisnika, već se korisnik sam deklarira, no možemo zamisliti da bi ovu uslugu mogle pružati tvrtke trećih strana.
+User's activity and engagement in the WoM is always linked to a Deed. A Xeed is the virtual persona of a user in a Deed. Xeed does not require any KYC, it is self-declaring, but we could conceivably imagine third-party firms providing this service.
 
-## 4.2. Bedževi i vjerodajnice
+## 4.2. Badges and credentials
 
-Značke i vjerodajnice dodjeljuju se korisnicima kao dio njihovog sudjelovanja u djelu. Vlasnik ih može preuzeti kao W3C provjerljive vjerodajnice[^7][^8] (tj. VCs) i pohraniti u svoj novčanik. Te VCs su dokaz znanja/vještine potvrđene od strane organizacije koja ih izdaje.
+Badges and Credentials are given to users as a part of their participation in a Deed. The holder may download them as W3C Verifiable Credentials[^7][^8] (aka VCs) and store them in his wallet. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
 
-U današnjem svijetu teško je unaprijed dokazati vještinu. Kada se ljudi oglašavaju na mrežama, računaju na svoje menadžere da im daju preporuku. Ovo pretpostavlja određenu dobru volju s dijela menadžera, ali ne mora biti tretirano kao dokaz od strane budućeg poslodavca.
+In today’s world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they count on their managers to give them a recommendation. The latter supposes certain goodwill on the part of the manager but is not necessarily treated as proof by the future employer.
 
-Radni Metaverse pruža transparentniji i nepodmitljiviji način za ljude da steknu i pokažu svoje sposobnosti.
+The Work Metaverse provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
 
-Značke se koriste za prikazivanje postignuća ostvarenih unutar djela. Nakon što korisnik završi skup ciljeva ili izazova, dodijelit će mu se bodovi. Značke se mogu otključati nakupljanjem određenih količina bodova u određenim kategorijama.
+Badges are used to represent accomplishments made within a Deed. After completing a set of objectives or challenges, users will be awarded points. Badges can be unlocked by accumulating certain amounts of points in specific categories.
 
-Kada korisnik preuzme značke, moguće je uključiti broj bodova i njegov rang u djelu za to određeno postignuće.
+When badges are downloaded by the user, it is possible to include the number of points and his rank in the Deed for this specific accomplishment.
 
-Vjerodajnice su fleksibilnije od znački; mogu biti preporuka od kolege, pokazatelj godina stručnosti, dovršetak obuke ili ispita ili sudjelovanje u djelu. One su potpisane od strane djela i mogu biti popraćene potpisom korisnika.
+Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the Deed. These are signed by the Deed and can be accompanied by a signature by a peer user.
 
-## 4.3. Digitalni identitet rada
+## 4.3. Digital work identity
 
-Sve navedeno doprinosi stvaranju dokazanog digitalnog skupa vještina koje korisnik može zadržati i koristiti pri promjeni posla ili samostalnom radu. Bilo bi pouzdanije od tradicionalnih rješenja jer se oslanja ne samo na jednu osobu, već na cijelu zajednicu koja ga dokazuje.
+All of the above contributes to forming proven digital skillset that can be kept and used by the user when changing jobs or freelancing. It would be more trustworthy than traditional solutions as it relies on not just one individual but a full community to prove it.
 
-Kao što korisnik zadržava svoj Meeds novčanik, zadržat će i svoj Xeed, značke i vjerodajnice povezane s njim u svom novčaniku identiteta pri prelasku s jednog djela na drugo, iz jednog grada u drugi, bilo gdje putem Radnog Metaversa.
+Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Deed to another, from one city to another, anywhere through the WoM.
 
-Korisnik će moći dijeliti svoj Xeed, značke i vjerodajnice s drugim djelima kako bi istaknuo svoje iskustvo, kao i s regruterima ili bilo kojim drugim uslugama koje smatra zanimljivima.
+The user will be able to share his Xeed, Badges, and Credentials with other Deeds to highlight his experience, as well as with recruiters or any other services that he deems interesting.
 
-Korisnik može imati jedan ili više digitalnih identiteta u radni metaverzum. Kasnije ih može predstaviti na jedinstven način koristeći verificirane prezentacije.
+A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations.
 
-Za razliku od weba 2, korisnik je potpuno vlasnik svojih decentraliziranih identiteta. Potonji mogu prikazati (i dokazati) u kojim Deed-ovima je sudjelovao, njegove dokazane vještine, njegove navedene vještine, druge Xeed-ove (ljude) s kojima je radio, njegovu digitalnu reprezentaciju sebe... Na pouzdan način sličan LinkedInu 3.0.
+Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... In a manner of trustworthy LinkedIn 3.0.
 
-Korisnik će moći odabrati želi li otkriti bilo što, koje informacije pružiti te koje identitete koristiti za svaku poziciju. Sadržaj (dokazane vještine, prethodni Deedovi itd.) je zaštićen od neovlaštenih izmjena i ne može biti modificiran. Svaki identitet bi se morao razvijati tijekom vremena.
+The user will be able to select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Deeds, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time.
 
-## 4.4. Tržište pravednog rada
+## 4.4. Fair work marketplace
 
-Unutar ovog paradigme buduće tržište rada omogućuje korisnicima slobodno kretanje i raspodjelu/prodaju njihovog sudjelovanja među Deed-ovima - kao što to rade u fizičkom svijetu mijenjajući poslodavce. Međutim, u WoM-u njihovo sudjelovanje bilo bi opipljivo, mjereno i nagrađivano na pravedan način. Kretanjem između sustava koji slijede sličnu logiku, korisnici će bolje razumjeti pravila igre i pošteno procjenjivati poslodavce - trava nije uvijek zelenija negdje drugdje. Korisnici će moći odabrati u kojem Deedu će imati bolje uvjete nagrade za angažman, koji je u atraktivnijem gradu itd.
+Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Deeds – as they do in the physical world by changing employers. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to choose which Deed provides better engagement reward conditions, belongs to a more attractive city, etc.
 
-Na svojoj strani, vlasnici/najmodavci Deedova mogu pretraživati relevantne vještine koristeći WoM mrežu digitalnih radnih identiteta (koje su korisnici odlučili podijeliti). Moći će učinkovitije pronaći potrebne vještine, temeljem provjerenih i detaljnih informacija o radnoj povijesti, radnim vještinama i razini angažmana korisnika.
+On their end, the Deeds’ holders/renters can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
 
-## 4.5. Materijalno i transparentno priznavanje
+## 4.5. Tangible and transparent recognition
 
-Danas su detalji o kompenzaciji i bonusima nejasni u mnogim radnim mjestima. Stoga je teško usporediti uvjete jedne osobe s drugom i dobiti osjećaj pravednog i nepristranog postupanja. Zaposlenici doživljavaju puno frustracija s navedenim.
+Today, details on compensation and bonuses are obscure in many workplaces. Therefore, it is difficult for a person to compare his conditions to that of another and get a sense of a fair and unbiased treatment. Employees experience a lot of frustrations with the above.
 
-WoM uvodi objektivan način prepoznavanja postignuća i nagrađivanja istih.
+The WoM introduces an objective way to recognize achievements and reward them.
 
-Mehanizam prepoznavanja angažmana i nagrađivanja je transparentan i primjenjuje se na pravedan način za sve korisnike, slijedeći ista jasna pravila koja su unaprijed određena i usklađena s ciljevima Deeda.
+Engagement recognition and reward mechanism is transparent and applies fairly to all users, following the same explicit rules, decided in advance and aligned with the Deed’s goals.
 
-Novčanici su individualni i temeljeni na blockchainu - kada korisnik primi nagradu ili osvoji odličje, ne može se uzeti natrag ili izbrisati.
+Wallets are individual and blockchain based – when the user receives a reward or earns a badge, it cannot be taken back or erased.
 
-## 4.6. Pristup Webu 3.0, kriptoeconomiji i DEFI uslugama
+## 4.6. Access to Web 3.0, cryptoeconomy and DEFI services
 
-Kao što je gore raspravljeno, radni Metaverse otvara svijet kriptovaluta i decentraliziranih web usluga gotovo svima - vrlo velikom broju korisnika, čak i onima koji nisu povezani s digitalnim poljem.
+As discussed above, the Work Metaverse opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
 
-Uistinu, bilo koji poslovni angažman može potencijalno biti tokeniziran. U stvari, svijet postaje sve više digitalan s trendovima kao što su 5G, IoT, nosivi uređaji i tako dalje. Kao posljedica toga, potencijalno sve više signala bi se moglo uhvatiti i analizirati kako bi se tokenizirao angažman u ne-digitalnim profesijama. Izazovi pružaju spremnu metodu za tokenizaciju predstavljanjem postignuća u fizičkom svijetu.
+Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
 
-Svaki korisnik može nabaviti Meeds i koristiti Meeds novčanik za pristup uslugama novog doba bez posebne obuke.
+Any user can get Meeds and use a Meeds wallet to get access to new age services without any special training.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Verifiable Credentials Data Model

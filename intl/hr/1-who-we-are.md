@@ -1,5 +1,5 @@
 
-# 1. Tko smo mi – Udruga Meeds
+# 1. Who we are – the Meeds Association
 
 Udruga Meeds je neprofitna organizacija koju je izvorno pokrenulo nekoliko zajednica softvera otvorenog izvornog koda (OSS) oko zajedničke vizije slobodnog digitalnog svijeta – decentraliziranog svijeta koji ne bi kontrolirala šačica centraliziranih mega-korporacija.
 
@@ -11,4 +11,4 @@ Za izgradnju WoM-a i Meedsa, udruga koristi platformu Ethereum i njezin ekosusta
 
 Udruga je strukturirana kao decentralizirana autonomna organizacija (DAO) gdje vlasnici tokena upravljanja glasaju o svim važnim organizacijskim promjenama kao što je izbor odbora svake godine.
 
-Osim upravljanja tokenima Meeds, udruga posjeduje intelektualno vlasništvo (IP) softvera Meeds [github.com/meeds-io](https://github.com/meeds-io), dostupnog pod licencom LGPL i distribuiranog besplatno. Potonji uključuje aplikaciju novčanika Ethereum koju korisnici mogu koristiti za pohranjivanje i transakcije svojih Meedova (pogledajte odjeljak 2.4 za više pojedinosti). Udruga Meeds također vodi uslugu hostinga u oblaku za više korisnika koristeći taj softver.
+Besides Meeds token management, the association holds the Intellectual Property (IP) of the Meeds software [github.com/meeds-io](https://github.com/meeds-io), available under the LGPL license and distributed for free. The latter includes an Ethereum wallet app that users can use to store and transact their Meeds (see section 2.4 for more details). The Meeds Association also runs a multi-tenant cloud hosting service leveraging that software.

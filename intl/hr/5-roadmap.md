@@ -1,86 +1,86 @@
-# 5. Radni metaverse za sve - sažetak vizije i prekretnice
+# 5. The Work Metaverse for ALL – vision summary and milestones
 
-## 5.1. Konačni cilj - decentralizirani web za svakoga
+## 5.1. Ultimate goal - decentralized web for everyone
 
-Na kraju, WoM je decentralizirani web svijet za svakoga - svaku osobu i svaku organizaciju.
+In the end, the WoM is a decentralized web world for everyone – every person and every organization.
 
-WoM će biti naseljen korisnicima koji će djelovati kroz svoje digitalne identitete **Xeeds** i pristupati svijetu putem svojih metamaskova, za one upućene u kriptovalute, ili putem prijave i lozinke za početnike. Ljudi bi dodjeljivali svoje angažmane i nagrađivali se na pošten, transparentan i decentraliziran način. Oni bi dobili pristup decentraliziranom svijetu i kriptosvijetu budućnosti na jednostavan i poznat način - dobili bi jednostavne alate za korištenje svojih tokena u svom životu ili ih ulagali za svoju budućnost.
+It will be populated by users, acting through their digital identities **Xeeds** and accessing the world through their metamasks, for crypto-savvies, or login/password for the newbies. People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
 
-Organizacije - **Deeds** bi mogle pronaći talente pregledavanjem WoM-a, za prave dokazane vještine. One bi bile nagrađene za sudjelovanje u metaverzumu, izdavanjem tokena kroz sudjelovanje korisnika (model mintanja). No prije svega, koristi bi vidjeli kroz veću angažiranost i lojalnost svojih korisnika.
+Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the metaverse, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
 
-WoM bi imao svoju vlastitu valutu **Meeds** - koja bi bila dostupna za trošenje u trgovinama, pretvaranje u drugu valutu, ulaganje za povrat na investiciju, najam ili kupnju itd. WoM bi također olakšavao distribuciju drugih tokena i sudjelovao u ukupnom kriptoekosustavu.
+The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
 
-Kako jedna slika vrijedi tisuću riječi, evo dijagrama koji opisuje tokove WoM-a i Meeds-a
+As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
 
-![WoM i Meeds tokovi](en/img/wom-flows.png)
+![WoM and Meeds flows](en/img/wom-flows.png)
 
-Održavanje i održivost svijeta na duge staze osiguravaju se kroz poreze koji se dijele između udruge Meeds i gradova.
+The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
 
-## 5.2. Koje su prednosti za rane usvajače
+## 5.2. What’s in it for early adopters
 
-Očito, rani usvajači bi dobili značajne prednosti u odnosu na one koji se kasnije pridruže.
+Obviously, early adopters would get considerable advantages over the late comers.
 
-Posebno, WoM nagrađuje dugoročna ulaganja u svijetu - to jest, otkup imovine (Deeds). Izvorni vlasnik Deed-a dobiva nadoknadu kroz mintanje angažmana (aktivno korištenje), pasivni prihod (najam) i doživotni postotak od 1% na svakoj transakciji prodaje Deed-a (pri svakoj promjeni vlasništva, izvorni otkupitelj dobiva naknadu na transakciju).
+In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
 
-Vjerovanjem u projekt, sudjelovanjem u bazenima likvidnosti, stakingom Meeds-a, otkupom Deeds-a...rani ulagači svih veličina bi mintali dodatne tokene. Također bi dobili najranija prava glasanja i pomogli oblikovati metaverse.
+By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the metaverse.
 
-Organizacije koje nabavljaju, ali posebno koriste Deeds za angažiranje i nagrađivanje svojih zaposlenika bi dobile nadoknadu u mintanim Meeds-ima. Što će pravednije igrati, to će više dobiti. Rani usvajači bi bili povezani s prvom povijesnom gradovima i kasnije bi ih se identificiralo kao graditelje.
+Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
 
-Dolje je prikazan primjer Meeds strategije ulaganja za držatelje kapitala:
+The diagram below represents an example of the Meeds investment strategy for capital holders :
 
-![Meeds investicijska strategija za vlasnike kapitala](en/img/invest-capital.png)
+![Meeds investment strategy for capital holders](en/img/invest-capital.png)
 
-Organizacije se mogu, naravno, pridružiti bazenima likvidnosti, ali također se mogu pridružiti zajednici graditelja i tamo dobiti dodatne nagrade za angažman.
+Organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
 
-Dolje je prikazan primjer Meeds strategije ulaganja za radne držatelje:
+The diagram below represents an example of the Meeds investment strategy for work holders :
 
-![Meeds investicijska strategija za zaposlenike](en/img/invest-work.png)
+![Meeds investment strategy for work holders](en/img/invest-work.png)
 
-## 5.3. Pokretanje
+## 5.3. The launch
 
-Službeni datum lansiranja postavljen je za **1. svibnja 2022**. - Međunarodni praznik rada koji se slavi u mnogim zemljama.
+The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
 
-U to vrijeme Meed token već postoji. Moguće je nabaviti Meed token i bazeni likvidnosti su otvoreni za sudjelovanje na Polygon i Ethereum mrežama.
+At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
 
-Tri člana Meeds udruge koriste sustav interno kako bi uključili i nagradili svoje korisnike i poboljšali Meeds softver.
+Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
 
-Investor aplikacija je dostupna na Ethereum Mainnet mreži. Prilikom lansiranja, Investor aplikacija uključuje staking, nagrade za likvidnost, akumuliranje bodova i otkup Deeds-a.
+The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
 
-Zajednica graditelja radi i funkcionalna je na Meeds softveru, otvorena za sve koji žele pristupiti, testirati i sudjelovati. Moguće je prijaviti se putem Metamask-a.
+The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
 
-Ovaj dokument je objavljen na dan lansiranja. Nakon lansiranja, token će biti besplatno podijeljen (air-dropped) mnogim ljudima u kripto zajednici.
+This paper was published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
 
-## 5.4. Zajednica graditelja
+## 5.4. The builders community
 
-Pokrećemo zajednicu graditelja na Meeds softveru i na Discordu. Zajednica pozdravlja svakoga tko želi sudjelovati u izgradnji radne Metaverse. Udruga će nagraditi uključenost graditelja Meedsima iz svog marketinškog proračuna.
+We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the Work Metaverse. The association would reward builders engagement with Meeds, from its marketing budget.
 
-Udruga također planira uložiti određenu količinu Meeds-a kako bi otkupila (ispravila) Deed za zajednicu graditelja. Zajednica će tada kovati Meeds putem angažmana, kroz Mintium model, i distribuirati ih angažiranim korisnicima.
+The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
 
-## 5.5. Karta puta i ključni ciljevi
+## 5.5. Roadmap and milestones
 
-Naša bi cestovna karta slijedila prioritete u nastavku:
+Our roadmap would follow the priority order below:
 
-- Indeks angažmana i izrada novčića putem angažmana
-- Omogućiti iznajmljivanje Deedova
-- Stvaranje Xeeda
-- Poboljšanje oznaka i razvoj potvrda
-- DeFi usluge - u novčaniku, partnerstvo s kreditnim karticama
+- Engagement index and minting through engagement
+- Enable Deeds renting
+- Xeed creation
+- Badges improvement and credentials development
+- DeFi services – in the wallet, credit cards partnership
 
-Računamo na rane usvajače iz DAO-a i tvrtki s naprednim tehnološkim znanjem tijekom faze izgradnje. Također bi trebali imati neke rane usvajatelje iz tradicionalnih tvrtki koji će odmah dobiti vrijednost od metaverse-a pružanjem relevantnih programa angažmana svojim zaposlenicima, osim njihovih trenutnih tradicionalnih planova naknada.
+We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the metaverse byproviding relevant engagement programs to their people, on top of their current traditional compensation plans.
 
-Meeds minting will occur over a period of 20 years. Do tada, nadamo se da ćemo izgraditi zrelu metaversu koja će se proširiti na mnoge organizacije i korisnike širom svijeta.
+Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature metaverse, having spread to many organizations and many users globally.
 
-## 5.6. Što možeš učiniti upravo sada
+## 5.6. What you can do right now
 
-Što možeš učiniti upravo sada da sudjeluješ?
+What can you do right now to participate?
 
-- Proslijedite ovaj papir onima koji bi bili zainteresirani
-- Posjetite našu web web stranica [meeds.io](https://www.meeds.io/)
-- Provjerite [Investor](https://meeds.io/investors) aplikaciju
-- Doprinesite postojećim bazenima likvidnosti ovdje:
+- Spread this paper to those who would be interested
+- Visit our website [meeds.io](https://www.meeds.io/)
+- Check out the [Investor app](https://meeds.io/investors)
+- Contribute to the existing liquidity pools here :
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
-- Pridružite se našoj [Discord](https://discord.com/invite/hAuADSq3) zajednici kako biste bili obaviješteni o najnovijim događajima
-- Pridružite se našoj zajednici [graditelja](https://meeds.io/builders) kako biste testirali Meeds softver, sudjelovali i zaradili neke Meeds nagrade za angažman
+- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
+- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
 
-**\*\*\* Metaverz rada - izgradimo ovaj ludi svijet budućnosti zajedno. \*\*\***
+**\*\*\* The Work Metaverse - let’s build this crazy future world together. \*\*\***
