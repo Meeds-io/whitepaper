@@ -1,5 +1,5 @@
 
-# 2. Deeds NFT - काम का विश्व संगठनों
+# 2. Deeds NFT - WoM Organizations
 
 ## 2.1. NFT - धारणाओं से परिभाषित
 
