@@ -1,6 +1,6 @@
-# 3. אסימון Meeds - מטבע Work Metaverse
+# 3. Meeds token – the currency of the WoM
 
-ה-Work Metaverse מופעל על ידי המטבע שלו - אסימון Meeds (MEED). Meeds משמשים לתגמול משתמשים (באמצעות תוכניות מעורבות), רכישה בחנויות, קבלת Deeds, השגת החזר כספי על השקעות וכו'.
+The WoM is powered by its currency – the Meeds (MEED) token. Meeds משמשים לתגמול משתמשים (באמצעות תוכניות מעורבות), רכישה בחנויות, קבלת Deeds, השגת החזר כספי על השקעות וכו'.
 
 ## 3.1. טוקונומיקה
 
@@ -94,7 +94,7 @@ WoM ו-Meeds token מופעלים על ידי עמותת Meeds Association DAO, 
 
 ## 3.7. שירותי מימון מבוזר (DeFi) למשתמשים
 
-ה-Work Metaverse יציג את עולם הבלוקצ'יין לאנשים רבים שאינם משתמשים בו כיום.
+The WoM will introduce the blockchain world to many people who do not use it today.
 
 ואכן, כל יצירה (בין אם דיגיטלית ובין אם לא) ניתנת למשחק וכל התקשרות - מתוגמלת ב-Meeds. Meeds זמינים למשתמשים באמצעות ארנק קל לשימוש, מבוסס בלוקצ'יין, ש"ממצה" כל מורכבות של עולם הקריפטו למשתמש ממוצע.
 
