@@ -1,6 +1,6 @@
-# 3. Meeds token - Work Metaverse valuuta
+# 3. Meeds token – the currency of the WoM
 
-Work Metaverse'i jõuallikaks on selle valuuta - Meeds (MEED) žetoon. Meediume kasutatakse kasutajate premeerimiseks (kaasamisprogrammide kaudu), kauplustes ostmiseks, Deeds'i saamiseks, investeeringute rahalise tulu saamiseks jne.
+The WoM is powered by its currency – the Meeds (MEED) token. Meediume kasutatakse kasutajate premeerimiseks (kaasamisprogrammide kaudu), kauplustes ostmiseks, Deeds'i saamiseks, investeeringute rahalise tulu saamiseks jne.
 
 ## 3.1. Tokenomics
 
@@ -94,7 +94,7 @@ Meedsi žetoonide omanikud peavad panustama žetoonid, et hääletada Meedsi DAO
 
 ## 3.7. Detsentraliseeritud finantsteenuste (DeFi) kasutajateenused
 
-Work Metaverse tutvustab plokiahela maailma paljudele inimestele, kes seda täna ei kasuta.
+The WoM will introduce the blockchain world to many people who do not use it today.
 
 Tõepoolest, mis tahes tööd (olgu see siis digitaalne või mitte) saab mänguliselt muuta ja mis tahes osalust premeerida Meedsiga. Meedid tehakse kasutajatele kättesaadavaks lihtsasti kasutatava, plokiahelapõhise rahakoti kaudu, mis "abstraheerib" krüptomaailma mis tahes keerukuse keskmise kasutaja jaoks.
 
