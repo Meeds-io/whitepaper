@@ -1,4 +1,4 @@
-# 4. Xeeds - Work Metaverse Individuals / users
+# 4. Xeeds - WoM Individuals / users
 
 ## 4.1. Decentralized and self-sovereign models
 
@@ -14,7 +14,7 @@ Badges and Credentials are given to users as a part of their participation in a 
 
 In today’s world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they count on their managers to give them a recommendation. The latter supposes certain goodwill on the part of the manager but is not necessarily treated as proof by the future employer.
 
-The Work Metaverse provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
+The WoM provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
 
 Badges are used to represent accomplishments made within a Deed. After completing a set of objectives or challenges, users will be awarded points. Badges can be unlocked by accumulating certain amounts of points in specific categories.
 
@@ -59,7 +59,7 @@ Wallets are individual and blockchain based – when the user receives a reward 
 
 ## 4.6. Access to Web 3.0, cryptoeconomy and DEFI services
 
-As discussed above, the Work Metaverse opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
+As discussed above, the WoM opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
 
 Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
 
