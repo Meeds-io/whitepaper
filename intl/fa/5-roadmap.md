@@ -1,86 +1,86 @@
-# 5. Work Metaverse برای همه - خلاصه چشم انداز و نقاط عطف
+# 5. The WoM for ALL – vision summary and milestones
 
-## 5.1. هدف نهایی - وب غیرمتمرکز برای همه
+## 5.1. Ultimate goal - decentralized web for everyone
 
-در پایان، WoM یک دنیای وب غیرمتمرکز برای همه - هر فرد و هر سازمانی است.
+In the end, the WoM is a decentralized web world for everyone – every person and every organization.
 
-کاربرانی که از طریق هویت دیجیتالی خود **Xeeds** عمل می‌کنند و از طریق متاماسک‌های خود به دنیا دسترسی دارند، برای اطلاعات رمزنگاری‌شده، یا ورود به سیستم/رمز عبور برای تازه‌کارها، پر می‌شود. مردم مشارکت خود را تخصیص می دهند و به شیوه ای منصفانه، شفاف و غیرمتمرکز پاداش دریافت می کنند. آن‌ها به روشی آسان و آشنا به دنیای غیرمتمرکز و دنیای رمزنگاری فردا دسترسی پیدا می‌کنند - ابزارهای ساده‌ای برای استفاده از توکن‌هایشان در زندگی‌شان یا سرمایه‌گذاری آن‌ها برای آینده‌شان به دست می‌آورند.
+It will be populated by users, acting through their digital identities **Xeeds** and accessing the world through their metamasks, for crypto-savvies, or login/password for the newbies. People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
 
-سازمان‌ها - **Deeds** می‌توانند برای مهارت‌های اثبات‌شده مناسب، استعدادها را جستجو کنند و از طریق WoM جستجو کنند. آن‌ها برای مشارکت در متاورس، با برش توکن‌ها از طریق تعامل کاربرانشان (مدل مینتیوم) پاداش دریافت می‌کنند. اما بیشتر از همه، آنها از تعامل و وفاداری بالاتر کاربران خود بهره مند می شوند.
+Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the WoM, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
 
-WoM دارای واحد پولی **Meeds** خود خواهد بود – که برای خرج کردن در فروشگاه‌ها، تبدیل به ارز دیگر، سرمایه‌گذاری برای بازگشت سرمایه، اجاره یا خرید و غیره وجود دارد. WoM همچنین توزیع توکن های دیگر را تسهیل می کند و در اکوسیستم کلی کریپتو مشارکت می کند.
+The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
 
-از آنجایی که یک تصویر هزار کلمه ارزش دارد، در اینجا نموداری وجود دارد که جریان های WoM و Meeds را توصیف می کند
+As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
 
-![WoM و Meeds جریان می یابد](en/img/wom-flows.png)
+![WoM and Meeds flows](en/img/wom-flows.png)
 
-نگهداری و پایداری جهانی در دراز مدت از طریق مالیات های مشترک بین انجمن Meeds و شهرها تضمین می شود.
+The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
 
-## 5.2. آنچه در آن برای پذیرندگان اولیه وجود دارد
+## 5.2. What’s in it for early adopters
 
-بدیهی است که پذیرندگان اولیه از مزایای قابل توجهی نسبت به کسانی که دیرتر وارد می شوند برخوردار خواهند بود.
+Obviously, early adopters would get considerable advantages over the late comers.
 
-به ویژه، WoM به سرمایه گذاری بلندمدت در آیه پاداش می دهد - که بازخرید مال است (قبالات). مالک اصلی Deed از طریق انعقاد قرارداد (استفاده فعال)، از طریق درآمد غیرفعال (اجاره) غرامت دریافت می کند و 1٪ مادام العمر در هر معامله فروش Deed دریافت می کند (در هر تغییر مالکیت، بازخریدکننده اصلی هزینه ای را دریافت می کند. معامله).
+In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
 
-با اعتقاد به این پروژه، شرکت در استخرهای نقدینگی، قرار دادن Meeds، بازخرید آنها در مقابل Deeds... سرمایه‌گذاران اولیه در هر اندازه، توکن‌های اضافی را برش می‌دهند. آنها همچنین اولین حق رای را خواهند داشت و به شکل گیری متاورس کمک می کنند.
+By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the WoM.
 
-سازمان‌هایی که اسنادی را به دست می‌آورند اما به‌ویژه از آنها برای مشارکت و پاداش دادن به کارکنان خود استفاده می‌کنند، در قالب Meeds غرامت دریافت می‌کنند. هرچه عادلانه تر بازی کنند، بیشتر به دست خواهند آورد. پذیرندگان اولیه با اولین شهرهای تاریخی مرتبط می شوند و بعداً به عنوان سازنده شناخته می شوند.
+Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
 
-نمودار زیر نمونه ای از استراتژی سرمایه گذاری Meeds را برای دارندگان سرمایه نشان می دهد:
+The diagram below represents an example of the Meeds investment strategy for capital holders :
 
-![استراتژی سرمایه گذاری Meeds برای دارندگان سرمایه](en/img/invest-capital.png)
+![Meeds investment strategy for capital holders](en/img/invest-capital.png)
 
-سازمان‌ها البته می‌توانند در استخرهای نقدینگی شرکت کنند، اما همچنین به جامعه سازندگان بپیوندند و در آنجا پاداش‌های مشارکت بیشتری دریافت کنند.
+Organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
 
-نمودار زیر نمونه ای از استراتژی سرمایه گذاری Meeds را برای دارندگان کار نشان می دهد:
+The diagram below represents an example of the Meeds investment strategy for work holders :
 
-![استراتژی سرمایه گذاری Meeds برای دارندگان کار](en/img/invest-work.png)
+![Meeds investment strategy for work holders](en/img/invest-work.png)
 
-## 5.3. راه اندازی
+## 5.3. The launch
 
-تاریخ راه اندازی رسمی برای **1 مه 2022** تعیین شده است - روز جهانی کارگر که در بسیاری از کشورها جشن گرفته می شود.
+The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
 
-در آن زمان، توکن Meed از قبل وجود دارد. امکان به دست آوردن آن وجود دارد و استخرهای نقدینگی برای مشارکت در شبکه های Polygon و Ethereum باز هستند.
+At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
 
-سه عضو انجمن Meeds از سیستم به صورت داخلی برای تعامل و پاداش دادن به کاربران خود و بهبود نرم افزار Meeds استفاده می کنند.
+Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
 
-اپلیکیشن Investor در اتریوم Mainnet در دسترس است. در زمان راه اندازی، شامل سهام بندی، پاداش نقدینگی، جمع آوری امتیاز و بازخرید اسناد می شود.
+The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
 
-انجمن سازندگان بر روی نرم‌افزار Meeds راه‌اندازی شده و برای هر کسی که می‌خواهد بپیوندد، آزمایش کند و شرکت کند، باز است. امکان ورود با متامسک وجود دارد.
+The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
 
-این مقاله در روز راه اندازی منتشر شد. پس از راه‌اندازی، توکن برای بسیاری از افراد در سراسر جامعه کریپتو ارسال می‌شود.
+This paper was published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
 
-## 5.4. جامعه سازندگان
+## 5.4. The builders community
 
-ما در حال راه‌اندازی جامعه سازندگان در نرم‌افزار Meeds و Discord هستیم. جامعه از هر کسی که بخواهد در ساخت Work Metaverse شرکت کند استقبال می کند. این انجمن به مشارکت سازندگان با Meeds از بودجه بازاریابی آن پاداش می دهد.
+We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the WoM. The association would reward builders engagement with Meeds, from its marketing budget.
 
-این انجمن همچنین قصد دارد برخی Meeds را برای به دست آوردن (بازخرید) یک سند برای جامعه سازندگان به اشتراک بگذارد. سپس جامعه Meeds را با تعامل، از طریق مدل مینتیوم، ضرب می‌کند و آنها را بین کاربران درگیر توزیع می‌کند.
+The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
 
-## 5.5. نقشه راه و نقاط عطف
+## 5.5. Roadmap and milestones
 
-نقشه راه ما از ترتیب اولویت زیر پیروی می کند:
+Our roadmap would follow the priority order below:
 
-- شاخص نامزدی و تثبیت از طریق تعامل
-- اجاره اسناد را فعال کنید
-- ایجاد Xeed
-- بهبود نشان ها و توسعه اعتبار
-- خدمات DeFi - در کیف پول، مشارکت کارت های اعتباری
+- Engagement index and minting through engagement
+- Enable Deeds renting
+- Xeed creation
+- Badges improvement and credentials development
+- DeFi services – in the wallet, credit cards partnership
 
-ما در مرحله ساخت بر روی پذیرندگان اولیه از DAO ها و شرکت های متبحر در زمینه فناوری حساب می کنیم. ما همچنین باید برخی از پذیرندگان اولیه از شرکت‌های سنتی داشته باشیم که با ارائه برنامه‌های مشارکت مرتبط برای افراد خود، علاوه بر برنامه‌های جبرانی سنتی فعلی، ارزش فوری از متاورز کسب می‌کنند.
+We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the WoM by providing relevant engagement programs to their people, on top of their current traditional compensation plans.
 
-ضرابخانه Meeds یک دوره 20 ساله را در بر می گیرد. در آن زمان، ما آرزوی ساختن یک متاورس بالغ را داریم که در بسیاری از سازمان ها و بسیاری از کاربران در سطح جهان گسترش یافته است.
+Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature ecosystem, having spread to many organizations and many users globally.
 
-## 5.6. کاری که الان می توانید انجام دهید
+## 5.6. What you can do right now
 
-برای شرکت در حال حاضر چه کاری می توانید انجام دهید؟
+What can you do right now to participate?
 
-- این مقاله را برای کسانی که علاقه مند هستند پخش کنید
-- از وب سایت ما [meeds.io](https://www.meeds.io/) دیدن کنید
-- [Investor app](https://meeds.io/investors) را بررسی کنید
-- در اینجا به استخرهای نقدینگی موجود کمک کنید:
+- Spread this paper to those who would be interested
+- Visit our website [meeds.io](https://www.meeds.io/)
+- Check out the [Investor app](https://meeds.io/investors)
+- Contribute to the existing liquidity pools here :
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
-- به انجمن [Discord](https://discord.com/invite/hAuADSq3) ما بپیوندید تا در جریان باشید
-- به انجمن [Builders](https://meeds.io/builders) ما بپیوندید تا نرم افزار Meeds را آزمایش کنید، درگیر شوید و برخی از جوایز تعامل Meeds را به دست آورید.
+- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
+- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
 
-**\*\*\* The Work Metaverse - بیایید این دنیای دیوانه آینده را با هم بسازیم. \*\*\***
+**\*\*\* The WoM - let’s build this crazy future world together. \*\*\***
