@@ -4,7 +4,7 @@
 
 El mercado del trabajo actual carece de eficiencia debido a los elevados costes de transacción[^1][^2][^3] y a los frecuentes conflictos de intereses entre el empresario y el trabajador.
 
-El Work Metaverse (el WoM) propone un nuevo paradigma que reduciría los costes de transacción y reinventaría la relación laboral, tendiendo un puente entre las corporaciones tradicionales y las DAO.
+The WoM (World of Meeds) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
 
 El WoM lo hace introduciendo identidades digitales tanto para el empleador como para el empleado y ofreciendo un innovador sistema de recompensa por compromiso que alinearía sus intereses.
 
@@ -33,7 +33,7 @@ Coase[^5], la mayoría de los economistas vinculan el concepto de empresa con la
 
 Las primeras DAO aplanan las jerarquías y abren la propiedad. El Wom persigue esta lógica reinventando, en lugar de borrar la relación empleador/empleado. Introduce un paradigma de recompensa transparente, objetivo y descentralizado, que alinearía de forma sostenible los intereses del empresario y del empleado.
 
-Por último, el Work Metaverse tiende un puente entre las empresas y las DAO. Por un lado, introduce a las empresas tradicionales en el mundo descentralizado a través de un paradigma de recompensa del compromiso fácil de aplicar, complementando sus sistemas de compensación. Por otro lado, propone formas sostenibles de operar y crear valor para las DAO. En última instancia, la WoM podría ser una de las primeras aplicaciones de uso generalizado que democratice el uso de la cadena de bloques para todas las empresas y todos los empleados, incluidos los no digitales.
+Finally, the WoM bridges the gap between corporations and the DAOs. Por un lado, introduce a las empresas tradicionales en el mundo descentralizado a través de un paradigma de recompensa del compromiso fácil de aplicar, complementando sus sistemas de compensación. Por otro lado, propone formas sostenibles de operar y crear valor para las DAO. En última instancia, la WoM podría ser una de las primeras aplicaciones de uso generalizado que democratice el uso de la cadena de bloques para todas las empresas y todos los empleados, incluidos los no digitales.
 
 Como en cualquier empresa descentralizada, la propuesta de WoM gana valor exponencialmente a medida que más gente lo utiliza. Por este motivo, los fundadores tuvieron mucho cuidado en fomentar el interés a largo plazo y evitar el acaparamiento de los beneficios del WoM, ya fuera a corto o a largo plazo. Es un paradigma abierto, aún por construir, y abierto a la participación creativa activa de todos.
 
