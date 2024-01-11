@@ -4,7 +4,7 @@
 
 O mercado de trabalho atual carece de eficiência devido aos altos custos de transação[^1][^2][^3] e freqüentes conflitos de interesses entre o empregador e o empregado.
 
-O Metaverso trabalho (o WoM) propõe um novo paradigma que reduziria os custos de transação e reinventava a relação de emprego, fazendo a ponte entre as corporações tradicionais e os DAOs.
+O WoM (World of Meeds) propõe um novo paradigma que reduziria os custos de transação e reinventaria a relação de emprego, colmatar a lacuna existente entre empresas tradicionais e DAOs.
 
 O WoM faz isso introduzindo identidades digitais tanto para o empregador quanto para o funcionário e oferecendo um sistema inovador de recompensa por engajamento que alinharia seus interesses.
 
@@ -33,7 +33,7 @@ Seguindo os trabalhos de R. Coase[^5], a maioria dos economistas relaciona o con
 
 Os primeiros DAOs achatam as hierarquias e abrem a propriedade. O WoM segue esta lógica reinventando ao invés de suprimir a relação empregador/empregado. Ele introduz um paradigma de recompensa transparente, objetivo e descentralizado, que alinharia de forma sustentável os interesses do empregador e do empregado.
 
-Finalmente, o Metaverso de Trabalho faz a ponte entre as corporações e os DAOs. On the other hand, it proposes sustainable ways to operate and create value for DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. Em última análise, o WoM poderia estar entre as primeiras aplicações principais para democratizar o uso da cadeia de bloqueio para cada empresa e cada funcionário - incluindo os não-digitais.
+Por último, a WoM colmata o fosso entre as empresas e as DAO. On the other hand, it proposes sustainable ways to operate and create value for DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. Em última análise, o WoM poderia estar entre as primeiras aplicações principais para democratizar o uso da cadeia de bloqueio para cada empresa e cada funcionário - incluindo os não-digitais.
 
 Como em qualquer empreendimento descentralizado, o proposta WoM ganha em valor exponencialmente à medida que mais pessoas a utilizam. Por essa razão, os fundadores tomaram muito cuidado para incentivar o interesse a longo prazo e evitar monopolizar os benefícios da WoM, tanto a curto como a longo prazo. É um paradigma aberto, ainda a ser construído, e aberto à participação criativa ativa de todos.
 

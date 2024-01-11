@@ -1,8 +1,8 @@
 ---
-title: Meeds DAO - O Metaverso do Trabalho
-date: June 1rd, 2022 ‐ Version 1.0.1
+title: Medidas DAO - O Mundo de Medidas
+date: Nov 22nd, 2023 - Versão 1.1.0-alpha
 toc-title: Tabela de Conteúdos
-language: pt-BR
+language: pt
 toc-own-page: true
 titlepage: true
 titlepage-text-color: "000000" ## black
@@ -18,5 +18,3 @@ classoption: oneside
 mainfont: "Source Sans Pro"
 sansfont: "Source Sans Pro"
 CJKmainfont: "Heiti TC"
-
-...
