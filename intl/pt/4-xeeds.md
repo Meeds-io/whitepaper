@@ -1,64 +1,64 @@
-# 4. Xeeds - Metaverso do Trabalho para Indivíduos/Usuários
+# 4. Xeeds - WoM Individuals / users
 
-## 4.1. Modelos Descentralizados e com Autonomia Própria
+## 4.1. Decentralized and self-sovereign models
 
-O WoM considera a privacidade como um direito humano fundamental e dá poder aos usuários de controlar seus dados.
+The WoM recognizes privacy as a fundamental human right and empowers users to own their data.
 
-Nosso abordagem é baseada nos princípios de identidade descentralizada e autônoma, permitindo que os usuários tenham controle a qualquer momento sobre qual informação eles desejam divulgar, compartilhar com um grupo restrito ou manter privada.
+Our approach is based on decentralized and self-sovereign identity principles, allowing users to be in control at any time of what information they want to publicize, share with a restricted group, or keep private.
 
-A atividade e o envolvimento do usuário no WoM sempre estão ligados a uma Escritura. Um Xeed é a personalidade virtual de um usuário em uma Escritura. O Xeed não exige qualquer verificação de conhecimento de cliente KYC, é auto-declarável, mas poderíamos concebivelmente imaginar empresas terceirizadas fornecendo este serviço.
+User's activity and engagement in the WoM is always linked to a Deed. A Xeed is the virtual persona of a user in a Deed. Xeed does not require any KYC, it is self-declaring, but we could conceivably imagine third-party firms providing this service.
 
-## 4.2. Distintivos e credenciais
+## 4.2. Badges and credentials
 
-Distintivos e Credenciais são fornecidos aos usuários como parte de sua participação em uma Escritura. O titular pode baixá-los como Credenciais Verificáveis W3C[^7][^8] (também conhecido como VCs) e armazená-los em sua carteira. Essas VCs são prova de conhecimento/habilidade certificados pela organização que as emite.
+Badges and Credentials are given to users as a part of their participation in a Deed. The holder may download them as W3C Verifiable Credentials[^7][^8] (aka VCs) and store them in his wallet. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
 
-No mundo de hoje, é difícil comprovar uma habilidade antecipadamente. Quando as pessoas se anunciam em redes, elas contam com recomendações de seus gerentes. O último supõe certa boa vontade por parte do gerente, mas nem sempre é tratado como prova pelo futuro empregador.
+In today’s world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they count on their managers to give them a recommendation. The latter supposes certain goodwill on the part of the manager but is not necessarily treated as proof by the future employer.
 
-O Work Metaverse fornece uma forma mais transparente e imutável para as pessoas adquirirem e demonstrarem suas habilidades.
+The WoM provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
 
-Os distintivos são usados para representar realizações feitas dentro de uma Escritura. Após concluir uma série de objetivos ou desafios, os usuários serão recompensados com pontos. Os distintivos podem ser desbloqueados acumulando certas quantidades de pontos em categorias específicas.
+Badges are used to represent accomplishments made within a Deed. After completing a set of objectives or challenges, users will be awarded points. Badges can be unlocked by accumulating certain amounts of points in specific categories.
 
-Quando os distintivos são baixados pelo usuário, é possível incluir o número de pontos e sua classificação na Escritura para essa realização específica.
+When badges are downloaded by the user, it is possible to include the number of points and his rank in the Deed for this specific accomplishment.
 
-As credenciais são mais flexíveis do que os distintivos; podem ser uma recomendação de um colega, indicando anos de expertise, conclusão de treinamento ou exame, ou envolvimento na Escritura. Estes são assinados pela Escritura e podem ser acompanhados por uma assinatura de um usuário colega.
+Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the Deed. These are signed by the Deed and can be accompanied by a signature by a peer user.
 
-## 4.3. Identidade digital profissional
+## 4.3. Digital work identity
 
-Tudo isso contribui para formar um conjunto comprovado de habilidades digitais que podem ser mantidas e usadas pelo usuário ao mudar de emprego ou trabalhar como freelancer. Será mais confiável do que soluções tradicionais, pois não se baseia apenas em uma única pessoa, mas em uma comunidade inteira para comprová-lo.
+All of the above contributes to forming proven digital skillset that can be kept and used by the user when changing jobs or freelancing. It would be more trustworthy than traditional solutions as it relies on not just one individual but a full community to prove it.
 
-Assim como sua carteira Meeds, o usuário manterá seu Xeed, Emblemas e Credenciais anexados a ela em sua carteira de identidade ao mudar de uma Escritura para outra, de uma cidade para outra, em qualquer lugar pelo WoM.
+Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Deed to another, from one city to another, anywhere through the WoM.
 
-O usuário poderá compartilhar seu Xeed, Emblemas e Credenciais com outras Escrituras para destacar sua experiência, bem como com recrutadores ou outros serviços que considere interessantes.
+The user will be able to share his Xeed, Badges, and Credentials with other Deeds to highlight his experience, as well as with recruiters or any other services that he deems interesting.
 
-Um usuário pode possuir uma ou mais identidades digitais no Work Metaverse. Ele poderá apresentá-las de forma unificada posteriormente, usando apresentações verificadas.
+A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations.
 
-Ao contrário da web 2, o usuário é dono completo de suas identidades descentralizadas. O último pode mostrar (e provar) as Deeds em que ele participou, suas habilidades comprovadas, suas habilidades reivindicadas, outros Xeeds (pessoas) com quem trabalhou, sua representação digital de si mesmo... De maneira semelhante a um LinkedIn confiável 3.0.
+Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... In a manner of trustworthy LinkedIn 3.0.
 
-O usuário terá a capacidade de escolher se deseja revelar alguma informação, qual informação fornecer e quais identidades usar para cada posição, controlando sua privacidade e transparência de maneira efetiva. O conteúdo (habilidade comprovada, Deeds anteriores, etc.) é imutável e, portanto, não pode ser modificado. A identidade precisaria ser desenvolvida ao longo do tempo.
+The user will be able to select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Deeds, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time.
 
-## 4.4. Mercado de trabalho equitativo
+## 4.4. Fair work marketplace
 
-Neste paradigma, o mercado de trabalho futuro permite que os usuários se movam livremente e aloquem/vendam sua dedicação entre as Ações, assim como fazem no mundo físico ao mudarem de empregador. No entanto, na WoM, sua dedicação seria tangível, medida e recompensada de forma justa. Ao se mover entre sistemas que seguem uma lógica semelhante, eles entenderão melhor as regras do jogo e julgarão os empregadores de forma justa - a grama não é sempre mais verde em outro lugar. Os usuários poderão escolher qual Ação oferece melhores condições de recompensa de dedicação, pertence a uma cidade mais atraente, etc.
+Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Deeds – as they do in the physical world by changing employers. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to choose which Deed provides better engagement reward conditions, belongs to a more attractive city, etc.
 
-Do lado deles, os detentores/inquilinos das Ações podem procurar habilidades relevantes usando a rede da WoM de identidades digitais de trabalho (que os usuários decidiram divulgar). Eles poderão obter habilidades de forma mais eficaz, com base em informações verificadas e detalhadas sobre histórico de trabalho, habilidades profissionais e nível de dedicação do usuário.
+On their end, the Deeds’ holders/renters can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
 
-## 4.5. Reconhecimento claro e concreto
+## 4.5. Tangible and transparent recognition
 
-Hoje, muitos detalhes sobre compensações e bônus são obscuros em muitos ambientes de trabalho. Por isso, é difícil para uma pessoa comparar suas condições com as de outra e ter uma noção de tratamento justo e imparcial. Funcionários experimentam muitas frustrações com isso.
+Today, details on compensation and bonuses are obscure in many workplaces. Therefore, it is difficult for a person to compare his conditions to that of another and get a sense of a fair and unbiased treatment. Employees experience a lot of frustrations with the above.
 
-A WoM apresenta uma forma objetiva de reconhecer realizações e recompensá-las.
+The WoM introduces an objective way to recognize achievements and reward them.
 
-O mecanismo de reconhecimento e recompensa de dedicação é transparente e se aplica de forma justa a todos os usuários, seguindo as mesmas regras explícitas, decididas antecipadamente e alinhadas aos objetivos da Ação.
+Engagement recognition and reward mechanism is transparent and applies fairly to all users, following the same explicit rules, decided in advance and aligned with the Deed’s goals.
 
-As carteiras são individuais e baseadas em blockchain - quando o usuário recebe uma recompensa ou ganha uma condecoração, ela não pode ser retirada ou apagada.
+Wallets are individual and blockchain based – when the user receives a reward or earns a badge, it cannot be taken back or erased.
 
-## 4.6. Acesso aos serviços Web 3.0, criptoeconomia e DEFI
+## 4.6. Access to Web 3.0, cryptoeconomy and DEFI services
 
-Como discutido acima, o Metaverso do Trabalho abre o mundo de criptomoedas e serviços web descentralizados para praticamente todos - uma população muito grande de usuários, mesmo possivelmente não relacionados ao campo digital.
+As discussed above, the WoM opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
 
-De fato, qualquer dedicação de trabalho pode potencialmente ser tokenizada. Na verdade, o mundo está se tornando cada vez mais digital com tendências como 5G, IoT, wearables, entre outras. Como consequência, potencialmente, cada vez mais sinais poderiam ser capturados e analisados para tokenizar a dedicação de profissionais não digitais. Desafios fornecem uma forma pronta para tokenizar isso, representando realizações no mundo físico.
+Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
 
-Qualquer usuário pode obter Meeds e usar uma carteira Meeds para ter acesso a novos serviços sem necessidade de treinamento especial.
+Any user can get Meeds and use a Meeds wallet to get access to new age services without any special training.
 
-[^7]: A.Preukschatt, R. Drummond "Identidade Auto-Soberana"
-[^8]: Modelo de Dados de Credenciais Verificáveis.
+[^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
+[^8]: Verifiable Credentials Data Model
