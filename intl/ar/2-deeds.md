@@ -1,5 +1,5 @@
 
-# 2. الأعمال NFT - منظمات ميتافرس العمل
+# 2. Deeds NFT - WoM Organizations
 
 ## 2.1. NFT - تعريف الأفعال
 
