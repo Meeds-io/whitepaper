@@ -29,7 +29,8 @@ jobs:
           if [[ ${{ github.event_name == 'workflow_dispatch' }} == true ]]; then
             LOCALES='${{ inputs.locales }}'
           else
-            LOCALES='["ar", "cs", "de", "el", "es-ES", "et", "fa", "fil", "fr", "he", "hi", "hr", "id", "it", "ja", "ko", "lt", "nl", "no", "pl", "pt-BR", "ro", "ru", "sk", "sl", "sv-SE", "th", "tr", "uk", "vi", "zh-CN", "zh-TW"]'
+            LOCALES='["fr"]'
+            # LOCALES='["ar", "cs", "de", "el", "es-ES", "et", "fa", "fil", "fr", "he", "hi", "hr", "id", "it", "ja", "ko", "lt", "nl", "no", "pl", "pt-BR", "ro", "ru", "sk", "sl", "sv-SE", "th", "tr", "uk", "vi", "zh-CN", "zh-TW"]'
           fi
           echo "locales=${LOCALES}" >> $GITHUB_OUTPUT
 
