@@ -1,4 +1,4 @@
-# 4. Xeeds - Metaverso do Trabalho para Indivíduos/Usuários
+# 4. Xeeds - WoM para Indivíduos/Usuários
 
 ## 4.1. Modelos Descentralizados e com Autonomia Própria
 
@@ -14,7 +14,7 @@ Distintivos e Credenciais são fornecidos aos usuários como parte de sua partic
 
 No mundo de hoje, é difícil comprovar uma habilidade antecipadamente. Quando as pessoas se anunciam em redes, elas contam com recomendações de seus gerentes. O último supõe certa boa vontade por parte do gerente, mas nem sempre é tratado como prova pelo futuro empregador.
 
-O Work Metaverse fornece uma forma mais transparente e imutável para as pessoas adquirirem e demonstrarem suas habilidades.
+O WoM fornece uma forma mais transparente e imutável para as pessoas adquirirem e demonstrarem suas habilidades.
 
 Os distintivos são usados para representar realizações feitas dentro de uma Escritura. Após concluir uma série de objetivos ou desafios, os usuários serão recompensados com pontos. Os distintivos podem ser desbloqueados acumulando certas quantidades de pontos em categorias específicas.
 
@@ -54,7 +54,7 @@ As carteiras são individuais e baseadas em blockchain - quando o usuário receb
 
 ## 4.6. Acesso aos serviços Web 3.0, criptoeconomia e DEFI
 
-Como discutido acima, o Metaverso do Trabalho abre o mundo de criptomoedas e serviços web descentralizados para praticamente todos - uma população muito grande de usuários, mesmo possivelmente não relacionados ao campo digital.
+Como discutido acima, o WoM abre o mundo de criptomoedas e serviços web descentralizados para praticamente todos - uma população muito grande de usuários, mesmo possivelmente não relacionados ao campo digital.
 
 De fato, qualquer dedicação de trabalho pode potencialmente ser tokenizada. Na verdade, o mundo está se tornando cada vez mais digital com tendências como 5G, IoT, wearables, entre outras. Como consequência, potencialmente, cada vez mais sinais poderiam ser capturados e analisados para tokenizar a dedicação de profissionais não digitais. Desafios fornecem uma forma pronta para tokenizar isso, representando realizações no mundo físico.
 
