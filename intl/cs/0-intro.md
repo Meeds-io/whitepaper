@@ -4,7 +4,7 @@
 
 Dnešní trh práce postrádá efektivitu kvůli vysokým transakčním nákladům[^1][^2][^3]a časté střety zájmů mezi zaměstnavatelem a zaměstnancem.
 
-Práce Metaverse (WoM) navrhuje nové paradigma, které by snížilo transakční náklady a znovuobjevilo zaměstnanecký vztah a překlenulo propast mezi tradičními korporace a DAO.
+The WoM (World of Meeds) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
 
 WoM to dělá tím, že zavádí digitální identity pro zaměstnavatele i zaměstnance a nabízí inovativní systém odměn za angažovanost, který by sladil jejich zájmy.
 
@@ -33,7 +33,7 @@ Po práci R. Coase’s[^5]spojuje většina ekonomů pojem podniku s nutností s
 
 První DAO: zarovnala hierarchie a otevřené vlastnictví. WoM tuto logiku prosazuje tím, že spíše než potlačuje vztah zaměstnavatele/zaměstnance. Zavádí transparentní, objektivní a decentralizovaný systém odměn, který by trvale sladil zájmy zaměstnavatele a zaměstnanců.
 
-Konečně pracovní Metaverse překlenuje propast mezi korporacemi a DAO. Na jedné straně zavádí do decentralizovaného světa tradiční korporace, a to prostřednictvím snadného uplatnění odměňovacího paradigmatu, který doplňuje jejich systémy kompenzací. Na druhé straně navrhuje udržitelné způsoby provozu a vytváření hodnoty pro DAO. Nakonec WoM by mohl patřit mezi první aplikace hlavního proudu, která by demokratizovala používání blockchainu pro každou společnost a každého zaměstnance – včetně těch nedigitálních.
+Finally, the WoM bridges the gap between corporations and the DAOs. Na jedné straně zavádí do decentralizovaného světa tradiční korporace, a to prostřednictvím snadného uplatnění odměňovacího paradigmatu, který doplňuje jejich systémy kompenzací. Na druhé straně navrhuje udržitelné způsoby provozu a vytváření hodnoty pro DAO. Nakonec WoM by mohl patřit mezi první aplikace hlavního proudu, která by demokratizovala používání blockchainu pro každou společnost a každého zaměstnance – včetně těch nedigitálních.
 
 Stejně jako v případě každého decentralizovaného podniku i návrh WoM exponenciálně zvyšuje hodnotu, neboť jej využívá více lidí. Zakladatelé se proto velmi starali o to, aby podpořili dlouhodobý zájem a vyhnuli se monopolizaci WoM výhod, ať už krátkodobých, či dlouhodobých. Je to otevřené paradigma, které je ještě třeba vybudovat a otevřít aktivní tvůrčí zapojení všech.
 

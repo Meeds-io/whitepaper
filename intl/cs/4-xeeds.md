@@ -1,4 +1,4 @@
-# 4. Xeeds - pracovní metaverse jedinci / uživatelé
+# 4. Xeeds - WoM Individuals / users
 
 ## 4.1. Decentralizované a samosuverénní modely
 
@@ -14,7 +14,7 @@ Odznaky a přihlašovací údaje jsou poskytnuty uživatelům jako součást jej
 
 V dnešním světě je těžké předem prokázat dovednost. Když se lidé propagují na sítích, spoléhají na své manažery, že jim předloží doporučení. To předpokládá jistou dobrou vůli ze strany manažera, ale budoucí zaměstnavatel ji nemusí považovat za důkaz.
 
-Metaverse práce poskytuje transparentnější a neměnnější prostředky pro získávání a prokazování svých schopností.
+The WoM provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
 
 Odznaky se používají k reprezentaci úspěchů provedených v rámci listu. Po dokončení souboru cílů nebo výzev budou uživatelům přiděleny body. Odznaky lze odemknout nahromaděním určitého množství bodů v určitých kategoriích.
 
@@ -32,7 +32,7 @@ Uživatel bude moci sdílet své Xeed, odznaky a pověření s ostatními Deeds,
 
 Uživatel může mít v WoM jednu nebo více digitálních identit. Později je mohl jednotně prezentovat pomocí ověřených prezentací.
 
-Na rozdíl od webu 2 je uživatel plně vlastníkem svých decentralizovaných identit. Ten může ukázat (a dokázat) činy, kterých se účastnil, své prokázané schopnosti, nárokované dovednosti, Další Xeeds (lidi), se kterými spolupracoval, jeho digitální zastoupení s... Na způsob důvěryhodného LinkedIn 3.0.
+Na rozdíl od webu 2 je uživatel plně vlastníkem svých decentralizovaných identit. Ten může ukázat (a dokázat) činy, kterých se účastnil, své prokázané schopnosti, nárokované dovednosti, Další Xeeds (lidi), se kterými spolupracoval, jeho digitální zastoupení s... In a manner of trustworthy LinkedIn 3.0.
 
 Uživatel si bude moci vybrat, zda něco odhalí, jaké informace poskytnout a jaké identity použít pro každou pozici. Obsah (prokázané dovednosti, předchozí listiny atd.) je důkazem nedovolené manipulace a nelze jej proto upravit. Každá identita by se musela v průběhu času rozvíjet.
 
@@ -54,7 +54,7 @@ Peněženky jsou individuální a založené na blockchainu - když uživatel ob
 
 ## 4.6. Přístup ke službám Web 3.0, šifrování a DEFI
 
-Jak bylo uvedeno výše, Pracovní Metaverse otevírá svět kryptoměn a decentralizovaných webových služeb v podstatě každému - velmi rozsáhlé populaci uživatelů, a to i případně nesouvisejících s digitální oblastí.
+As discussed above, the WoM opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
 
 Jakákoliv pracovní angažovanost může být skutečně sklouznuta. Ve skutečnosti je svět stále digitálnější s trendy, jako je 5G, jot, nositelné a tak dále. V důsledku toho by mohlo být zachyceno a analyzováno více signálů s cílem přiblížit zapojení nedigitálních profesí. Výzvy jsou připraveny jít cestu k jeho symbolizaci reprezentací úspěchů ve fyzickém světě.
 

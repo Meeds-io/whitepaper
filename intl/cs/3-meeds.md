@@ -1,6 +1,6 @@
-# 3. Meeds token - pracovní metaverse měna
+# 3. Meeds token – the currency of the WoM
 
-Metaverse práce je poháněna jeho měnou – žetonem Meeds (MEED). Meeds are used to odměňovat uživatele (prostřednictvím obchodních programů), nakupovat v obchodech, get Deeds, get Finanční výnosy z investic atd.
+The WoM is powered by its currency – the Meeds (MEED) token. Meeds are used to odměňovat uživatele (prostřednictvím obchodních programů), nakupovat v obchodech, get Deeds, get Finanční výnosy z investic atd.
 
 ## 3.1. Tokenomika
 
@@ -94,7 +94,7 @@ Držitelé tokenů Meeds musí vsadit tokeny, aby mohli hlasovat o rozhodnutích
 
 ## 3.7. Uživatelské služby decentralizovaného financování (DeFi)
 
-Metaverse práce představí svět blockchainu mnoha lidem, kteří jej dnes nepoužívají.
+The WoM will introduce the blockchain world to many people who do not use it today.
 
 Jakoukoliv práci (ať už digitální či nikoli) lze hru hrůzit a jakoukoli angažovanost – odměnu Meeds. Měření jsou uživatelům k dispozici prostřednictvím snadno použitelného bazálu blockchainu, peněženka, která „abstraktní“ složitost světa krypto průměrnému uživateli.
 
