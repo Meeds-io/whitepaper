@@ -1,6 +1,6 @@
-# 3. Meeds token - Die Währung des Arbeitsmetavers
+# 3. Meeds token – the currency of the WoM
 
-Das Arbeitsmetavers wird durch seine Währung angetrieben - den Meeds (MEED)-Token. Meeds werden verwendet, um engagierte Anwender zu belohnen (dank spezieller Programme). Diese können für Einkäufe in Geschäften, Immobilien (Deeds), finanzielle Renditen bei Investitionen, usw. genutzt werden.
+The WoM is powered by its currency – the Meeds (MEED) token. Meeds werden verwendet, um engagierte Anwender zu belohnen (dank spezieller Programme). Diese können für Einkäufe in Geschäften, Immobilien (Deeds), finanzielle Renditen bei Investitionen, usw. genutzt werden.
 
 ## 3.1. Token-System / Token-Ökonomie
 
@@ -94,7 +94,7 @@ Die Inhaber von Meeds-Token müssen Token einsetzen, um über Entscheidungen der
 
 ## 3.7. Dezentrale Finanzdienstleistungen (DeFi) für Nutzer
 
-Die Work Metaverse wird die Blockchain-Welt vielen Menschen näherbringen, die sie heute nicht nutzen.
+The WoM will introduce the blockchain world to many people who do not use it today.
 
 In der Tat kann jede Arbeit (ob digital oder nicht) gamifiziert und jedes Engagement - mit Meeds belohnt werden. Meeds werden Nutzern durch eine einfach zu verwendende, blockchain basierte Wallet zur Verfügung gestellt, die jegliche Komplexität der Krypto-Welt für den durchschnittlichen Benutzer "abstrahiert".
 

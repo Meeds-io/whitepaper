@@ -1,4 +1,4 @@
-# 4. Xeeds - Work Metaverse Individuen / Benutzer
+# 4. Xeeds - WoM Individuals / users
 
 ## 4.1. Dezentralisierte und selbstbestimmte Modelle
 
@@ -14,7 +14,7 @@ Abzeichen und Anmeldedaten werden den Benutzern als Teil ihrer Teilnahme an eine
 
 In der heutigen Welt ist es schwer, eine Fähigkeit im Voraus zu beweisen. Wenn sich Menschen in Netzwerken bewerben, zählen sie darauf, dass ihre Vorgesetzten ihnen eine Empfehlung geben. Letzteres setzt einen gewissen guten Willen des Managers voraus, wird aber nicht notwendigerweise vom zukünftigen Arbeitgeber als Beweis behandelt.
 
-Die Work Metaverse bietet eine transparenter und unveränderliche Möglichkeit für Menschen, ihre Fähigkeiten zu erwerben und zu demonstrieren.
+The WoM provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
 
 Abzeichen werden verwendet, um Errungenschaften innerhalb einer Urkunde darzustellen. Nach Abschluss einer Reihe von Zielen oder Herausforderungen werden den Benutzern Punkte verliehen. Abzeichen können durch das Sammeln bestimmter Punkte in bestimmten Kategorien freigeschaltet werden.
 
@@ -54,7 +54,7 @@ Die Wallets sind individuell und blockchain-basiert - wenn ein Benutzer eine Bel
 
 ## 4.6. Zugriff auf Web 3.0, KryptoEconomy und DEFI-Dienste
 
-Wie oben besprochen, eröffnet die Work Metaverse die Welt der Kryptowährung und dezentraler Webdienste praktisch jedem - einer sehr großen Anzahl von Benutzern, die möglicherweise sogar nicht mit dem digitalen Bereich in Verbindung stehen.
+As discussed above, the WoM opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
 
 Tatsächlich kann jedes Engagements potenziell tokenisiert werden. Tatsächlich wird die Welt immer digitaler mit Trends wie 5G, IoT, Wearables und so weiter. Als Folge könnten potenziell immer mehr Signale erfasst und analysiert werden, um die Beteiligung von nicht-digitalen Berufen zu tokenisieren. Herausforderungen bieten einen sofort einsatzbereiten Weg, um es zu tokenisieren, indem Leistungen im realen Leben dargestellt werden.
 

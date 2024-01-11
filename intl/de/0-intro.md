@@ -4,7 +4,7 @@
 
 Dem Arbeitsmarkt von heute mangelt es an Effizienz aufgrund hoher Transaktionskosten[^1][^2][^3] sowie häufiger Interessenkonflikten zwischen Arbeitgeber und Mitarbeiter.
 
-Das Arbeitsmetavers (Work Metaverse - WoM) schlägt ein neues Paradigma vor, das die Transaktionskosten senken und die Arbeitsbeziehung neu erfindet, und so die Kluft zwischen traditionellen Unternehmen und DAOs schliesst.
+The WoM (World of Meeds) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
 
 Die WoM tut dies, indem sie sowohl für Arbeitgeber als auch für Arbeitnehmer digitale Identitäten einführt und ein innovatives System zur Vergütung von Engagements anbietet, das ihre Interessen vereint.
 
@@ -33,7 +33,7 @@ In Anlehnung an die Arbeiten von R. Coase[^5] verbinden die meisten Ökonomen da
 
 Die ersten DAOs verflachen die Hierarchien und öffnen das offene Eigentum. Das WoM verfolgt diese Logik, indem es das Arbeitgeber-Arbeitnehmer-Verhältnis neu erfindet, anstatt es zu verdrängen. Es führt ein transparentes, objektives und dezentralisiertes Vergütungsparadigma ein, das Arbeitgeber- und Arbeitnehmerinteressen nachhaltig in Einklang bringt.
 
-Schließlich überbrückt das Arbeitsmetavers (WoM) die Lücke zwischen Unternehmen und den DAOs. Auf der anderen Seite schlägt es nachhaltige Arbeits- und Wertschöpfungsmodelle für DAOs vor. Auf der anderen Seite schlägt es nachhaltige Arbeits- und Wertschöpfungsmodelle für DAOs vor. Letztendlich könnte das WoM zu den ersten Mainstream-Anwendungen gehören, die die Nutzung der Blockchain für jedes Unternehmen und jeden Mitarbeiter demokratisieren – einschließlich nicht digitale.
+Finally, the WoM bridges the gap between corporations and the DAOs. Auf der anderen Seite schlägt es nachhaltige Arbeits- und Wertschöpfungsmodelle für DAOs vor. Auf der anderen Seite schlägt es nachhaltige Arbeits- und Wertschöpfungsmodelle für DAOs vor. Letztendlich könnte das WoM zu den ersten Mainstream-Anwendungen gehören, die die Nutzung der Blockchain für jedes Unternehmen und jeden Mitarbeiter demokratisieren – einschließlich nicht digitale.
 
 Wie bei jedem dezentralisierten Unternehmen gewinnt der WoM-Vorschlag exponentiell an Wert, umso mehr Menschen ihn nutzen. Aus diesem Grund achteten die Gründer sehr darauf, langfristiges Interesse zu fördern und vermeiden die kurz- oder langfristige Monopolisierung von WoM-Vorteilen. Es ist ein offenes Paradigma, das noch aufgebaut werden muss und offen ist für die aktive kreative Teilnahme aller.
 
