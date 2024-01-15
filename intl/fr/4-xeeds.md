@@ -1,4 +1,4 @@
-# 4. Xeeds - Utilisateurs / Individus du Work Metaverse
+# 4. Xeeds - Utilisateurs / Individus du WoM
 
 ## 4.1. Modèles décentralisés et autosouverains
 
@@ -14,7 +14,7 @@ Des badges et des références peuvent être délivrés aux utilisateurs dans le
 
 Dans le monde d'aujourd'hui, il est difficile de prouver une compétence en amont. Lorsque les gens s'annoncent sur les réseaux, ils comptent sur leurs managers pour leur donner une recommandation. Cette dernière suppose une certaine bonne volonté de la part du dirigeant mais n'est pas nécessairement considérée comme une preuve par le futur employeur.
 
-Le Work Metaverse fournit à ses utilisateurs un moyen plus transparent et immuable d'acquérir et de démontrer leurs capacités
+Le WoM fournit à ses utilisateurs un moyen plus transparent et immuable d'acquérir et de démontrer leurs capacités.
 
 Les badges sont utilisés pour représenter les réalisations faites au sein d'un Deed. Après avoir complété un ensemble d'objectifs ou challenges, les utilisateurs seront récompensés par des points. Les badges sont débloqués selon l'accumulation d'un certain nombre de points dans des catégories spécifiques.
 
@@ -54,7 +54,7 @@ Les portefeuilles sont individuels et basés sur la blockchain – lorsque l'uti
 
 ## 4.6. Accès aux services Web 3.0, de crypto-économie et de DeFi
 
-Comme indiqué ci-dessus, le Work Metaverse ouvre le monde de la cryptomonnaie et des services web décentralisés à tout le monde – une très grande population d'utilisateurs, même ceux n'évoluant pas dans le monde numérique.
+Comme indiqué ci-dessus, le WoM ouvre le monde de la cryptomonnaie et des services web décentralisés à tout le monde – une très grande population d'utilisateurs, même ceux n'évoluant pas dans le monde numérique.
 
 En effet, tout engagement au travail peut potentiellement être représenté par des jetons. En fait, le monde devient de plus en plus numérique avec des tendances telles que le réseau 5G, l'internet des objets, l'informatique vestimentaire, etc. Par conséquent, de plus en plus d'expériences pourraient être saisies et analysées pour jetoniser l'engagement des professions non numériques. Les challenges sont proposés pour faciliter cette jetonisation en proposant de représenter les réalisations faites dans le monde physique.
 

@@ -1,4 +1,4 @@
-# 5. Le Work Metaverse pour TOUS – résumé de la vision et jalons
+# 5. Le WoM pour TOUS – résumé de la vision et jalons
 
 ## 5.1. L'objectif ultime - un Web décentralisé pour tout le monde
 
@@ -6,7 +6,7 @@ Au final, le WoM sera un monde dans le web décentralisé pour tous – personne
 
 Il sera peuplé d'utilisateurs, agissant à travers leurs identités numériques **Xeeds** et y accédant avec leurs comptes metamasks pour les cryptophiles avertis, ou par identifiant/mot de passe pour les débutants. Les personnes s'y engageront et seront récompensées de manière équitable, transparente et décentralisée. Elles auront accès au monde décentralisé et au monde des cryptos de demain d'une manière facile et familière - ils auront accès à des outils simples pour pouvoir utiliser leurs jetons dans leur vie ou les investir pour leur avenir.
 
-Les organisations à travers leurs **Deeds** seront en mesure de trouver des talents, en naviguant dans le WoM, pour trouver des compétences prouvées. Elles seront récompensées pour leur participation au métaverse, en recevant des jetons émis grâce à l'engagement de leurs utilisateurs (modèle mintium). Mais surtout, elles bénéficieront d'un engagement et d'une loyauté accrus de la part de leurs utilisateurs.
+Les organisations à travers leurs **Deeds** seront en mesure de trouver des talents, en naviguant dans le WoM, pour trouver des compétences prouvées. Elles seront récompensées pour leur participation au WoM, en recevant des jetons émis grâce à l'engagement de leurs utilisateurs (modèle mintium). Mais surtout, elles bénéficieront d'un engagement et d'une loyauté accrus de la part de leurs utilisateurs.
 
 Le WoM aurait sa propre monnaie : le **Meeds** – qui serait là pour être dépensé dans les boutiques, converti en d'autre devises, investi, loué ou acheté, etc. Le WoM facilitera également la distribution d'autres jetons et participera à l'écosystème global des cryptomonnaies.
 
@@ -22,7 +22,7 @@ Il est évident que les premiers utilisateurs obtiendront des avantages considé
 
 En particulier, le WoM récompense l'investissement dans la durée - par l'accès à la propriété (Deeds). Le propriétaire originel d'un Deed est récompensé par les jetons générés par l'engagement (utilisation active), par le biais d'un revenu passif (loyer) et obtient 1 % à vie sur toutes les transactions de vente du Deed (à chaque changement de propriétaire, le propriétaire initial reçoit une commission sur la transaction).
 
-En croyant au projet, en participant aux pools de liquidités, en plaçant des Meeds, en acquérant des Deeds, les premiers investisseurs de toute taille génèreront des jetons supplémentaires. Ils seront également les premiers à obtenir des droits de vote pour aider à façonner la métaverse.
+En croyant au projet, en participant aux pools de liquidités, en plaçant des Meeds, en acquérant des Deeds, les premiers investisseurs de toute taille génèreront des jetons supplémentaires. Ils seront également les premiers à obtenir des droits de vote pour aider à façonner le WoM.
 
 Les organisations qui acquerront des Deeds mais surtout qui les utiliseront pour engager et récompenser leurs employés, seront rémunérées en Meeds. Plus elles joueront équitablement, plus elles en gagneront. Les utilisateurs de la première heure seront associés aux premières villes historiques et sertont identifiés comme des bâtisseurs plus tard.
 
@@ -52,7 +52,7 @@ Ce document a été publié le jour du lancement. Suite au lancement, le jeton s
 
 ## 5.4. La communauté des bâtisseurs
 
-Nous lançons la communauté des bâtisseurs sur le logiciel Meeds et sur Discord. La communauté accueille tous ceux qui veulent participer à la construction du Work Metaverse. L'association récompensera l'engagement des bâtisseurs en Meeds, sur son budget marketing.
+Nous lançons la communauté des bâtisseurs sur le logiciel Meeds et sur Discord. La communauté accueille tous ceux qui veulent participer à la construction du WoM. L'association récompensera l'engagement des bâtisseurs en Meeds, sur son budget marketing.
 
 L'association prévoit également de placer elle-même quelques Meeds afin d'acquérir un Deed pour sa communauté des bâtisseurs. La communauté finira ensuite par générer des Meeds par son engagement, par le biais du modèle mintium, et les distribuera aux membres qui contribuent.
 
@@ -66,9 +66,9 @@ Notre feuille de route suivra l'ordre de priorité ci-dessous :
 - Amélioration des badges et développement des titres de compétences
 - Services DeFi - dans le portefeuille, partenariat cartes de crédit
 
-Durant la phase de construction, nous ciblerons les membres des premières DAO ainsi que les sociétés technophiles. Nous devrions également avoir quelques premiers utilisateurs issus d'entreprises traditionnelles qui tireront parti du métaverse en créant des programmes d'engagement pertinents pour leurs employés en complément de leurs plans de rémunération classiques.
+Durant la phase de construction, nous ciblerons les membres des premières DAO ainsi que les sociétés technophiles. Nous devrions également avoir quelques premiers utilisateurs issus d'entreprises traditionnelles qui tireront parti du WoM en créant des programmes d'engagement pertinents pour leurs employés en complément de leurs plans de rémunération classiques.
 
-L'émission de la totalité des Meeds aura lieu progressivement sur une période de 20 ans. À ce moment-là, nous aspirons à avoir réussi à construire une métaverse mature, s'étant propagé à de nombreuses organisations et à de nombreux utilisateurs dans le monde.
+L'émission de la totalité des Meeds aura lieu progressivement sur une période de 20 ans. À ce moment-là, nous aspirons à avoir réussi à construire un écosystème mature, s'étant propagé à de nombreuses organisations et à de nombreux utilisateurs dans le monde.
 
 ## 5.6. Ce que vous pouvez faire maintenant
 
@@ -83,4 +83,4 @@ Que pouvez-vous faire dès maintenant pour participer ?
 - Rejoignez notre communauté [Discord](https://discord.com/invite/hAuADSq3) pour rester dans la boucle
 - Rejoignez notre communauté [Constructeurs](https://meeds.io/builders) pour tester le logiciel Meeds, vous engager en contribuant au projet et gagner des meeds en récompense
 
-**\*\*\* Le Work Metaverse - Construisons le monde de demain ensemble. \*\*\***
+**\*\*\* Le WoM - Construisons le monde de demain ensemble. \*\*\***
