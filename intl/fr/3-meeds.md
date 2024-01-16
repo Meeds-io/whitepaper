@@ -1,6 +1,6 @@
-# 3. Jeton Meeds - La monnaie du Work Metaverse
+# 3. Jeton Meeds – la monnaie du WoM
 
-Le Work Metaverse est alimenté par sa propre monnaie - le jeton Meeds (MEED). Les Meeds sont utilisés pour récompenser les utilisateurs (par le biais de programmes d'engagement), acheter dans les boutiques, obtenir des Deeds, obtenir des retours sur investissements, etc.
+Le WoM est alimenté par sa propre monnaie - le jeton Meeds (MEED). Les Meeds sont utilisés pour récompenser les utilisateurs (par le biais de programmes d'engagement), acheter dans les boutiques, obtenir des Deeds, obtenir des retours sur investissements, etc.
 
 ## 3.1. Tokenomics
 
@@ -94,7 +94,7 @@ Les détenteurs du token Meeds doivent mettre en gage des tokens afin de voter s
 
 ## 3.7. Services de finance décentralisée (DeFi) proposés aux utilisateurs
 
-Le Work Metaverse introduira le monde de la blockchain à de nombreuses personnes qui ne l'utilisent pas aujourd'hui.
+Le WoM introduira le monde de la blockchain à de nombreuses personnes qui ne l'utilisent pas aujourd'hui.
 
 En effet, tout travail (qu'il soit numérique ou pas) peut être gamifié et tout engagement récompensé en Meeds. Les Meeds sont mis à la disposition des utilisateurs via un portefeuille facile à utiliser, basé sur la blockchain, qui "abstrait" toute complexité du monde de la cryptographie pour un utilisateur ordinaire.
 
