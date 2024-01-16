@@ -4,7 +4,7 @@
 
 Le marché du travail actuel manque d’efficience du fait d’une part des coûts de transaction élevés[^1][^2][^3] et d’autre part, des conflits d’intérêts entre l’employeur et le salarié.
 
-Le Work Metaverse (WoM) propose un nouveau paradigme pour réduire les coûts de transactions et réinventer la relation employé, en comblant le fossé entre les entreprises traditionnelles et les DAOs.
+Le WoM (World of Meeds) propose un nouveau paradigme qui abaisse les coûts de transactions et reinvente les relations de travail, en faisant le trait d'union entre les sociétés traditionnelles et les DAOs.
 
 Le WoM y parvient en introduisant des identités numériques tant pour l'employeur que pour l'employé et en proposant un système innovant pour récompenser l'engagement qui permettra d'aligner leurs intérêts.
 
@@ -33,7 +33,7 @@ Considérant les travaux de R. Coase[^5], nombre d’économistes s’entendent 
 
 Les premières DAO ont aplani les hiérarchies et ont ouvert l’accès à la propriété. Le WoM pousse cette logique plus loin en réinventant plutôt qu'en supprimant la relation Employeurs / Salariés. Il introduit un nouveau paradigme transparent, objectif et décentralisé de récompenses, qui aligne durablement les intérêts des employeurs et des salariés.
 
-Finalement, le Work Metaverse établit une passerelle entre les entreprises et les DAO. D’une part, il soutient les organisations traditionnelles dans un monde décentralisé grâce à un nouveau paradigme facile à mettre en œuvre qui récompense l’engagement en complément de leurs systèmes actuels de rémunération. D’autre part, il propose des moyens durables d’opérer et de créer de la valeur pour les DAO. Au final, le WoM deviendra la première application à démocratiser l’usage de la blockchain par les entreprises et tous les salariés, y compris les non digitaux.
+Finalement, le WoM établit une passerelle entre les entreprises et les DAOs. D’une part, il soutient les organisations traditionnelles dans un monde décentralisé grâce à un nouveau paradigme facile à mettre en œuvre qui récompense l’engagement en complément de leurs systèmes actuels de rémunération. D’autre part, il propose des moyens durables d’opérer et de créer de la valeur pour les DAO. Au final, le WoM deviendra la première application à démocratiser l’usage de la blockchain par les entreprises et tous les salariés, y compris les non digitaux.
 
 Et comme toute autre organisation décentralisée, plus les personnes l’utiliseront, plus la proposition du WoM gagnera en valeur de manière exponentielle. Pour cette raison, les fondateurs ont pris soin d’encourager l’investissement à long terme et d’éviter la monopolisation des bénéfices du WoM. C’est un paradigme ouvert, toujours en construction et accueillant toute contribution de tout individu.
 
