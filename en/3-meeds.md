@@ -24,7 +24,7 @@ At the beginning, the builders get 30% of the allocation. The 70% are shared bet
 
 ## 3.3. Users – minting through engagement
 
-Part of the continuously minted Meeds is allocated to the engagement minting channel. The distribution is done weekly. At any given week end, the engagement index is calculated and Hubs and Deed owners can claim their rewards the following week and get their Meeds. Unclaimed Meeds stay in the fund and are added to the next week’s distribution.
+Part of the continuously minted Meeds is allocated to the engagement minting channel. The distribution is done weekly. At any given week end, the engagement index is calculated so that Hubs leaders and Deed owners can claim their rewards the following week and get their Meeds. Unclaimed Meeds stay in the fund and are added to the next week’s distribution.
 The model is described in detail in the previous chapter (part 2.6).
 
 ## 3.4. Builders – Meeds association DAO and community of builders
