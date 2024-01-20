@@ -6,7 +6,7 @@ The WoM is powered by its currency – the Meeds (MEED) token. Meeds are used to
 
 The Meeds **maximum supply is limited to 100 million tokens**, minted progressively. **Meeds are minted at the rate of 10 MEED per minute**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).
 
-5 Million Meeds (5% of total supply) have been pre-minted to date. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years.
+5 Million Meeds (5% of total supply) have been pre-minted at start. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years.
 The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees and hosting services. 
 
 The rest is part of the __Meeds DAO funds__ and will be used to pay for services as well as some launch incentives such as airdrops and referral campaigns.
