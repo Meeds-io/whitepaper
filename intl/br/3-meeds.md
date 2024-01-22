@@ -6,9 +6,9 @@ O WoM é alimentado por sua moeda - o token Meeds (MEED). Os Meeds são usados p
 
 A oferta **máxima de Meeds está limitada a 100 milhões de tokens**, cunhados progressivamente. **Os Meeds são cunhados à taxa de 10 MEED por minuto**. Portanto, o horizonte total de cunhagem é de aproximadamente 20 anos (pois cerca de $10*60*24*365 = 5M$ Meeds são cunhados por ano).
 
-5 milhões de Meeds (5% da oferta total) foram pré-cunhados até o momento. Dos quais, 4,5 milhões foram bloqueados em um contrato de cofre com apropriação linear ao longo de 4 anos. A quantidade pré-cunhada foi principalmente usada para adquirir IP de software, pagar taxas legais de emissão de tokens e serviços de hospedagem.
+5 Million Meeds (5% of the total supply) were pre-minted initially. Dos quais, 4,5 milhões foram bloqueados em um contrato de cofre com apropriação linear ao longo de 4 anos. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees, and host services.
 
-O resto faz parte dos __fundos da DAO Meeds__ e será usado para pagar por serviços, bem como algumas incentivos de lançamento, como airdrops e campanhas de referência.
+The rest is part of the __Meeds DAO funds__ and will be used to pay for services and launch incentives such as airdrops and referral campaigns.
 
 
 ## 3.2. A alocação de cunhagem
