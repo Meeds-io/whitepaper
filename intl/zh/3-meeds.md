@@ -1,4 +1,4 @@
-# 3. Meeds 代币——Work Metaverse 货币
+# 3. Meeds 代币 – WoM 的货币
 
 工作元宇宙由其货币--Meeds（MEED）代币驱动。 Meeds被用来奖励用户（通过参与计划），在商店购买，获得资产，获得投资的财务回报等。
 
