@@ -1,14 +1,14 @@
-# 3. Meeds token – valuta Work Metaverse
+# 3. Meeds token – valuta WoM-a
 
-Work Metaverse pokreće njegova valuta – token Meeds (MEED). Meeds se koriste za nagrađivanje korisnika (kroz programe angažmana), kupnju u trgovinama, dobivanje Deeds, dobivanje financijskih povrata ulaganja itd.
+WoM pokreće njegova valuta – token Meeds (MEED). Meeds se koriste za nagrađivanje korisnika (kroz programe angažmana), kupnju u trgovinama, dobivanje Deeds, dobivanje financijskih povrata ulaganja itd.
 
 ## 3.1. Tokenomika
 
 Meeds **maksimalna ponuda ograničena je na 100 milijuna žetona**, kovani postupno. **Meeds se kuje brzinom od 10 MEED po minuti**. Stoga je puni horizont kovanja blizu 20 godina (jer se godišnje kuje oko $10*60*24*365 = 5M$ Meeds).
 
-5 milijuna Meedova (5% ukupne ponude) do danas je unaprijed iskovano. Od čega je 4,5 milijuna zaključano u ugovoru o trezoru s linearnim stjecanjem prava tijekom 4 godine. Unaprijed iskovan iznos uglavnom se koristio za stjecanje IP-a softvera, plaćanje pravnih naknada za emisiju tokena i usluge hostinga.
+5 Million Meeds (5% of the total supply) were pre-minted initially. Od čega je 4,5 milijuna zaključano u ugovoru o trezoru s linearnim stjecanjem prava tijekom 4 godine. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees, and host services.
 
-Ostatak je dio __sredstava Meeds DAO__ i koristit će se za plaćanje usluga, kao i za neke poticaje za pokretanje kao što su airdrops i kampanje preporuka.
+The rest is part of the __Meeds DAO funds__ and will be used to pay for services and launch incentives such as airdrops and referral campaigns.
 
 
 ## 3.2. Dodjela kovanja
@@ -94,7 +94,7 @@ Nositelji Meeds tokena trebaju uložiti tokene kako bi glasovali o odlukama Meed
 
 ## 3.7. Korisničke usluge decentraliziranih financija (DeFi)
 
-Work Metaverse predstavit će svijet blockchaina mnogim ljudima koji ga danas ne koriste.
+WoM će predstaviti svijet blockchaina mnogim ljudima koji ga danas ne koriste.
 
 Doista, bilo koji rad (bilo digitalni ili ne) može se igrificirati, a svaki angažman - nagraditi Meedsom. Meedovi su dostupni korisnicima putem novčanika koji je jednostavan za korištenje i temelji se na blockchainu, a koji prosječnom korisniku "apstrahira" svaku složenost kripto svijeta.
 
