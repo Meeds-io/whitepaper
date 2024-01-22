@@ -4,7 +4,7 @@
 
 Thị trường lao động hôm nay thiếu hiệu quả do chi phí giao dịch cao [^1][^2][^3] và tình trạng xung đột quan tâm giữa nhà tuyển dụng và nhân viên thường xuyên.
 
-Các Thế Giới Công Việc (WoM) đề xuất một giải pháp mới mà sẽ giảm chi phí giao dịch và tái tạo mối quan hệ việc làm, kết nối các công ty truyền thống và DAOs.
+WoM (Thế giới của Meeds) đề xuất một mô hình mới giúp giảm chi phí giao dịch và tái tạo lại mối quan hệ việc làm, thu hẹp khoảng cách giữa các tập đoàn truyền thống và DAO.
 
 WoM làm điều đó bằng cách giới thiệu những tư cách kỹ thuật số cho cả nhà tuyển dụng và nhân viên và cung cấp một hệ thống thưởng hứng tích cậy mới mẻ mà sẽ cân bằng sở thích của họ.
 
@@ -33,7 +33,7 @@ Sau các tác phẩm của R. Coase[^5], Hầu hết các nhà kinh tế liên k
 
 Các DAO đầu tiên phẳng hóa các cấp bậc và mở rộng sở hữu. Câu này có thể dịch sang tiếng Việt như sau: WoM theo đuổi lý luận này bằng cách tái tạo, chứ không phải loại bỏ mối quan hệ nhà tuyển dụng/nhân viên. Nó giới thiệu một kiến trúc thưởng trong suốt, độc lập và không gian, sẽ cân bằng một cách bền vững quan điểm của nhà tuyển dụng và nhân viên.
 
-Cuối cùng, Work Metaverse là cầu nối giữa các công ty và DAOs. Một bên, nó giới thiệu các công ty truyền thống vào thế giới phân tán bằng một kịch bản đánh giá thưởng dễ dàng áp dụng, bổ sung hệ thống trả lương của họ. Trên một tay khác, nó đề xuất các cách hoạt động bền vững để tạo ra giá trị cho DAOs. Cuối cùng, WoM có thể trở thành một trong những ứng dụng đầu tiên để đổi mới sử dụng blockchain cho mọi công ty và mọi nhân viên - bao gồm cả những người không sử dụng kỹ thuật số.
+Cuối cùng, WoM thu hẹp khoảng cách giữa các tập đoàn và DAO. Một bên, nó giới thiệu các công ty truyền thống vào thế giới phân tán bằng một kịch bản đánh giá thưởng dễ dàng áp dụng, bổ sung hệ thống trả lương của họ. Trên một tay khác, nó đề xuất các cách hoạt động bền vững để tạo ra giá trị cho DAOs. Cuối cùng, WoM có thể trở thành một trong những ứng dụng đầu tiên để đổi mới sử dụng blockchain cho mọi công ty và mọi nhân viên - bao gồm cả những người không sử dụng kỹ thuật số.
 
 Cuối cùng, WoM có thể trở thành một trong những ứng dụng đầu tiên để đổi mới sử dụng blockchain cho mọi công ty và mọi nhân viên - bao gồm cả những người không sử dụng kỹ thuật số. Vì thế, những người sáng lập đã rất cẩn thận trong việc thúc đẩy sự quan tâm dài hạn và tránh tập trung lợi ích WoM, bất kể là tạm thời hoặc dài hạn. Đây là một giải pháp mở, vẫn chưa được xây dựng và mở rộng cho sự tham gia tạo tác hoạt động từ mọi người.
 

@@ -1,4 +1,4 @@
-# 5. Thế giới công việc ảo cho TẤT CẢ - Tóm tắt tầm nhìn và cột mốc quan trọng
+# 5. WoM for ALL – tóm tắt tầm nhìn và các cột mốc quan trọng
 
 ## 5.1. Mục tiêu cuối cùng - web phi tập trung cho mọi người
 
@@ -6,7 +6,7 @@ Cuối cùng, WoM là một thế giới web phi tập trung cho mọi người 
 
 Nó sẽ được cư dân sử dụng thông qua danh tính kỹ thuật số của họ, **Xeeds**, và truy cập thế giới thông qua Metamask cho những người biết về tiền mã hóa hoặc đăng nhập / mật khẩu cho người mới. Mọi người sẽ phân bổ sự tham gia của họ và được thưởng một cách công bằng, minh bạch và phi tập trung. Họ sẽ được truy cập vào thế giới phi tập trung và thế giới tiền điện tử của tương lai một cách dễ dàng và quen thuộc - họ sẽ có các công cụ đơn giản để sử dụng mã thông báo của mình trong cuộc sống hoặc đầu tư cho tương lai của mình.
 
-Các tổ chức - **Deeds** sẽ có thể tìm kiếm tài năng, duyệt qua WoM, để tìm kiếm kỹ năng được chứng minh đúng. Họ sẽ được thưởng cho sự tham gia của họ trong thế giới ảo, bằng cách tạo ra mã thông báo thông qua sự tham gia của người dùng của họ (mô hình mintium). Nhưng hơn hết, họ sẽ được hưởng lợi từ sự tương tác và lòng trung thành cao hơn từ người dùng của họ.
+Các tổ chức - **Deeds** sẽ có thể tìm kiếm tài năng, duyệt qua WoM, để tìm kiếm kỹ năng được chứng minh đúng. Họ sẽ nhận được phần thưởng khi tham gia WoM bằng cách đúc mã thông báo thông qua sự tham gia của người dùng (mô hình mintium). Nhưng hơn hết, họ sẽ được hưởng lợi từ sự tương tác và lòng trung thành cao hơn từ người dùng của họ.
 
 WoM sẽ có đồng tiền riêng của nó **Meeds** - được sử dụng để mua sắm tại các cửa hàng, đổi sang đồng tiền khác, đầu tư để có lợi nhuận, thuê hoặc mua vv. WoM cũng sẽ thuận tiện cho việc phân phối các mã thông báo khác và tham gia vào hệ sinh thái tiền điện tử tổng thể.
 
@@ -22,7 +22,7 @@ Rõ ràng, những người sớm tiếp nhận sẽ nhận được những l�
 
 Đặc biệt, WoM thưởng cho những người đầu tư dài hạn vào thế giới ảo - đó là việc đổi lại tài sản (Điều lệ). Chủ sở hữu Điều lệ gốc sẽ được bồi thường thông qua việc đào tạo cam kết (sử dụng tích cực), thông qua thu nhập ch passive (cho thuê) và nhận được 1% suốt đời trên bất kỳ giao dịch bán Điều lệ nào (mỗi lần thay đổi sở hữu, người đổi Điều lệ gốc sẽ nhận được khoản phí trên giao dịch).
 
-Bằng cách tin vào dự án, tham gia vào các hồ chứa thanh khoản, đặt cược Meeds, đổi chúng lại Điều lệ... những nhà đầu tư sớm mọi kích thước sẽ đào thêm các mã thông báo. Họ cũng sẽ có quyền bỏ phiếu sớm nhất và giúp định hình thế giới ảo.
+Bằng cách tin vào dự án, tham gia vào các hồ chứa thanh khoản, đặt cược Meeds, đổi chúng lại Điều lệ... những nhà đầu tư sớm mọi kích thước sẽ đào thêm các mã thông báo. Họ cũng sẽ có được quyền biểu quyết sớm nhất và giúp định hình WoM.
 
 Các tổ chức mua và đặc biệt là sử dụng Deeds để thu hút và thưởng cho nhân viên của họ sẽ được bồi thường bằng Meeds mới được sản xuất. Càng công bằng họ chơi, họ sẽ nhận được nhiều hơn. Những người đầu tiên sẽ được liên kết với các thành phố lịch sử đầu tiên và được xác định là những người xây dựng sau này.
 
@@ -52,7 +52,7 @@ Bài báo này được xuất bản vào ngày ra mắt. Sau khi ra mắt, toke
 
 ## 5.4. Cộng đồng xây dựng
 
-Chúng tôi đang ra mắt cộng đồng xây dựng trên phần mềm Meeds và trên Discord. Chúng tôi đang ra mắt cộng đồng xây dựng trên phần mềm Meeds và trên Discord. Hiệp hội sẽ đền bù cho những người tham gia xây dựng với Meeds từ ngân sách marketing của mình.
+Chúng tôi đang ra mắt cộng đồng xây dựng trên phần mềm Meeds và trên Discord. Cộng đồng chào đón bất kỳ ai muốn tham gia xây dựng WoM. Hiệp hội sẽ đền bù cho những người tham gia xây dựng với Meeds từ ngân sách marketing của mình.
 
 Hiệp hội cũng có kế hoạch đặt cược một số Meeds để mua (thu lại) một Deed cho cộng đồng xây dựng. Sau đó, cộng đồng sẽ tạo ra Meeds bằng cách tham gia, thông qua mô hình mintium, và phân phối chúng cho người dùng tham gia.
 
@@ -66,9 +66,9 @@ Kế hoạch của chúng tôi sẽ tuân theo thứ tự ưu tiên dưới đâ
 - Cải tiến huy hiệu và phát triển chứng chỉ
 - Dịch vụ DeFi - trong ví tiền, đối tác thẻ tín dụng
 
-Chúng tôi đang đếm trên các người sớm nhận thức từ các tổ chức DAO và các công ty có kiến thức về công nghệ trong giai đoạn xây dựng. Húng ta cũng nên có một số người sớm nhận thức từ các công ty truyền thống nhận giá trị ngay lập tức từ thế giới ảo bằng cách cung cấp các chương trình tương tác phù hợp cho nhân viên của họ, trên cơ sở kế hoạch bồi thường truyền thống hiện tại của họ.
+Chúng tôi đang đếm trên các người sớm nhận thức từ các tổ chức DAO và các công ty có kiến thức về công nghệ trong giai đoạn xây dựng. Chúng ta cũng nên có một số người áp dụng sớm từ các công ty truyền thống nhận được giá trị ngay lập tức từ WoM bằng cách cung cấp các chương trình gắn kết có liên quan cho người dân của họ, bên cạnh các kế hoạch trả thưởng truyền thống hiện tại của họ.
 
-"Việc đóng tiền Meeds kéo dài trong vòng 20 năm. Đến thời điểm đó, chúng tôi hy vọng đã xây dựng được một thế giới ảo trưởng thành, đã lan rộng đến nhiều tổ chức và người dùng trên toàn cầu.
+"Việc đóng tiền Meeds kéo dài trong vòng 20 năm. Vào thời điểm đó, chúng tôi mong muốn xây dựng được một hệ sinh thái trưởng thành, lan rộng đến nhiều tổ chức và nhiều người dùng trên toàn cầu.
 
 ## 5.6. Những gì bạn có thể làm ngay bây giờ
 
@@ -83,4 +83,4 @@ Bạn có thể làm gì để tham gia ngay bây giờ?
 - Hãy tham gia cộng đồng [Discord](https://discord.com/invite/hAuADSq3) của chúng tôi để được cập nhật tin tức
 - Hãy tham gia cộng đồng [Builders](https://meeds.io/builders) của chúng tôi để thử nghiệm phần mềm Meeds, tương tác và kiếm được một số phần thưởng tương tác Meeds
 
-**Thế giới công việc Metaverse - hãy cùng xây dựng thế giới tương lai điên rồ này. \*\*\***
+**\*\*\* The WoM - hãy cùng nhau xây dựng thế giới tương lai điên rồ này. \*\*\***
