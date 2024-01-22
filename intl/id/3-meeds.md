@@ -1,14 +1,14 @@
-# 3. Token Meed - mata uang dalam Work Metaverse
+# 3. Meeds token – the currency of the WoM
 
-Work Metaverse disokong dengan mata uangnya sendiri - token Meed (MEED). Meed digunakan untuk memberi imbalan buat pengguna (lewat program keterlibatan), pembelian, mendapatkan Deed, memperoleh imbal hasil dalam investasi dll.
+The WoM is powered by its currency – the Meeds (MEED) token. Meed digunakan untuk memberi imbalan buat pengguna (lewat program keterlibatan), pembelian, mendapatkan Deed, memperoleh imbal hasil dalam investasi dll.
 
 ## 3.1. Tokenomik
 
 **Suplai maksimal Meed dibatasi hanya sebanyak 100 juta token**, yang dicetak secara bertahap. **Meed dicetak sebanyak 10 MEED tiap menit**. Maka, rentang waktu tercetak sampai habis memakan waktu selama 20 tahun (atau sekitar $10*60*24*365 = 5 juta Meed yang dicetak tiap tahunnya).
 
-5 juta Meed (setara 5% dari total suplai) sudah dicetak sebelumnya. Dari jumlah itu, 4,5 juta Meed dikunci dalam kontrak brankas selama 4 tahun. Token yang sudah dicetak, sebagian besar digunakan untuk mendapatkan IP perangkat lunak, membayar biaya legalitas emisi token dan menggelar layanan.
+5 Million Meeds (5% of the total supply) were pre-minted initially. Dari jumlah itu, 4,5 juta Meed dikunci dalam kontrak brankas selama 4 tahun. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees, and host services.
 
-Sisanya untuk __dana DAO Meed__ dan akan digunakan untuk membayar layanan serta beberapa insentif peluncuran seperti airdrop dan kampanye referal.
+The rest is part of the __Meeds DAO funds__ and will be used to pay for services and launch incentives such as airdrops and referral campaigns.
 
 
 ## 3.2. Alokasi Pencetakan
@@ -94,7 +94,7 @@ Pemegang token Meed perlu mendepositokan token mereka agar mendapatkan hak suara
 
 ## 3.7. Layanan Pengguna Keuangan Terdesentralisasi (DeFi)
 
-Work Metaverse akan mengenalkan dunia blockchain kepada banyak orang yang saat ini tak menggunakannya.
+The WoM will introduce the blockchain world to many people who do not use it today.
 
 Maka, setiap karya (entah digital atau bukan) bisa digamifiikasi dan segala keterlibatan di dalamnya -dan dihadiahi dengan Meed. Meed, akan tersedia bagi pengguna melalui cara yang mudah, dompet berbasis blockchain yang "menyederhanakan" segala kerumitan dalam kripto untuk pengguna awam.
 

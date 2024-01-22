@@ -1,4 +1,4 @@
-# 4. Xeed - Work Metaverse Individual / pengguna
+# 4. Xeeds - WoM Individuals / users
 
 ## 4.1. Desentralisasi dan model kedaulatan-diri
 
@@ -14,7 +14,7 @@ Badge dan Sertifikat diberikan kepada pengguna sebagai bagian dari partisipasi m
 
 Di dunia saat ini, sulit untuk membuktikan kemampuan sebelumnya. Ketika orang mempromosikan diri mereka pada jaringan, mereka mengharapkan manajer mereka memberikan rekomendasi bagi mereka. Yang terakhir menganggap adanya kebaikan hati dari manajer tetapi tidak necessarily dianggap sebagai bukti oleh pemberi kerja masa depan.
 
-Work Metaverse menyediakan cara yang lebih transparan dan tidak dapat berubah untuk memperoleh dan menunjukkan kemampuan orang.
+The WoM provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
 
 Lencana digunakan untuk mewakili prestasi yang dicapai dalam sebuah Amal. Setelah menyelesaikan sekumpulan tujuan atau tantangan, pengguna akan diberikan poin. Lencana dapat terbuka dengan mengumpulkan jumlah poin tertentu dalam kategori tertentu.
 
@@ -54,7 +54,7 @@ Dompet adalah individu dan berbasis blockchain - ketika pengguna menerima hadiah
 
 ## 4.6. Akses ke Web 3.0, kriptoekonomi dan layanan DeFi
 
-Seperti dibahas di atas, Work Metaverse membuka dunia mata uang kripto dan layanan web terdesentralisasi untuk sebagian besar orang - sejumlah besar pengguna, bahkan mungkin tidak terkait dengan bidang digital.
+As discussed above, the WoM opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
 
 Benar-benar, setiap keterlibatan pekerjaan dapat potensial tertokenisasi. Faktanya, dunia semakin menjadi digital dengan tren seperti 5G, IoT, wearables dan seterusnya. Sebagai akibatnya, potensial semakin banyak sinyal dapat ditangkap dan dianalisis untuk menerjemahkan engagement profesi non-digital. Tantangan memberikan cara siap pakai untuk meng-token-kan hal tersebut dengan mewakili prestasi di dunia fisik.
 

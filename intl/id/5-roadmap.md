@@ -1,4 +1,4 @@
-# 5. The Work Metaverse untuk semua - ringkasan visi dan tahap-tahapnya
+# 5. The WoM for ALL – vision summary and milestones
 
 ## 5.1. Tujuan utama - web terdesentralisasi untuk semua orang
 
@@ -6,7 +6,7 @@ Pada akhirnya, WoM adalah web terdesentralisasi untuk semua pihak - semua orang 
 
 Web terdesentralisasi ini akan diisi oleh para pengguna, dengan identitas digital mereka **Xeeds**. Bagi pegiat kripto bisa mengaksesnya melalui dompet metamask atau lewat login/kata kunci bagi para pemula. Pengguna bisa beraktivitas dan mendapatkan imbalan cara yang adil, transparan, dan terdesentralisasi. Mereka akan mendapat akses lewat dunia terdesentralisasi dan dunia kripto masa depan dengan cara yang mudah dan akrab -mereka akan mendapat alat yang mudah unuk menggunakan token mereka, baik dalam keseharian atau untuk diinvestasikan kelak.
 
-Organisasi - **Deeds** akan bisa mencari talenta, menjelajahi lewat WoM untuk mendapatkan talenta yang benar dan tepat. Mereka akan diberi imbalan sesuai dengan partisipasinya dalam metaverse, dengan cara mencetak token lewat keterlibatan para pengguna (model mintium). Tapi kebanyakan, mereka akan memperoleh manfaat dari besarnya keterlibatan dan loyalitas dari para penggunanya.
+Organisasi - **Deeds** akan bisa mencari talenta, menjelajahi lewat WoM untuk mendapatkan talenta yang benar dan tepat. They would get rewarded for their participation in the WoM, by minting tokens through their users engagement (mintium model). Tapi kebanyakan, mereka akan memperoleh manfaat dari besarnya keterlibatan dan loyalitas dari para penggunanya.
 
 WoM akan punya mata uangnya sendiri yang disebut **Meeds** –ini bisa digunakan di toko, ditukar ke mata uang lain, diinvestasikan, atau untuk pengembalian investasi, sewa atau beli dll. WoM juga bisa memfasilitasi distribusi token lain dan partisipasi di seluruh ekosistem kripto.
 
@@ -22,7 +22,7 @@ Tentu pengguna awal akan mendapatkan banyak keuntungan dibanding dengan pendatan
 
 Secara khusus, keuntungan yang diberikan WoM adalah investasi jangka panjang - yang bisa mengganti properti (Deeds). Pemilik asli Deeds mendapat kompensasi dari keterlibatannya dalam lahirnya (pengguna aktif), lewat pendapatan pasif (menyewakan), dan keuntungan 1% sepanjang masa dai transaksi penjualan Deeds (pada setiap perubahan kepemilikan, penebus aslinya memperoleh dana dari biaya transaksi).
 
-Dengan meyakini proyek ini, berpartisipasi pada likuiditas bersama, mempertaruhkan Meed, menebusnya dengan Deeds...investor awal akan mendapat token tambahan. Mereka juga akan mendapat hak suara awal dan dan ikut membentuk metaverse.
+Dengan meyakini proyek ini, berpartisipasi pada likuiditas bersama, mempertaruhkan Meed, menebusnya dengan Deeds...investor awal akan mendapat token tambahan. They would also get the earliest voting rights and help shape the WoM.
 
 Perusahaan mendapatkan, utamanya yang menggunakan Deed, untuk terlibat dan memberikan pekerja mereka imbalan, akan mendapatkan kompensasi Meeds yang mereka terbitkan. Semakin adil mereka bekerja, semakin banyak yang mereka peroleh. Para pengguna awal akan dikaitkan dengan sejarah kota-kota dan kelak akan disebut sebagai orang-orang yang membangun.
 
@@ -52,7 +52,7 @@ Laporan ini dipublikasikan di hari peluncuran. Menindaklanjuti dari peluncuran, 
 
 ## 5.4. Komunitas Pembangun
 
-Kami meluncurkan komunitas pembangun di perangkat lunak Meeds dan Discord. Komunitas ini terbuka bagi siapa saja yang mau mengambil peran dalam pembangunan Work Metaverse. Asosiasi ini akan menghadiahi para pembangun yang aktif dengan Meeds, diambil dari bujet marketing.
+Kami meluncurkan komunitas pembangun di perangkat lunak Meeds dan Discord. The community welcomes anyone who wants to take part in the building of the WoM. Asosiasi ini akan menghadiahi para pembangun yang aktif dengan Meeds, diambil dari bujet marketing.
 
 Asosiasi juga berencana untuk menaruh beberapa Meed untuk mendapatkan (menebus) Deed dari komunitas pembangun. Komunitas juga akan mencetak Meed dengan keterlibatan, melalui model mintium, dan mendistribusikannya kepada pengguna yang terlibat.
 
@@ -66,9 +66,9 @@ Peta jalan kami akan mengikuti prioritas di bawah ini:
 - Pengembangan lencana dan kredensial
 - Layanan DeFi - dalam dompet, kerjasama kartu kredit
 
-Kami memperhitungkan para pengguna awal sejak DAO dan perusahaan yang antusias dengan teknologi selama tahap pembangunan. Kami juga harus memiliki beberapa pengguna awal dari perusahaan tradisional yang cepat memahami nilai metaverse dengan mengadakan program pelibatan yang relevan untuk orang-orang mereka, yang menduduki pucuk perusahaan dengan rencana kompensasi.
+Kami memperhitungkan para pengguna awal sejak DAO dan perusahaan yang antusias dengan teknologi selama tahap pembangunan. We should also have some early adopters from traditional companies that gain immediate value from the WoM by providing relevant engagement programs to their people, on top of their current traditional compensation plans.
 
-Meed akan dicetak dalam rentang waktu 20 tahun. Saat itu, kami berjarap bisa membangun metaverse yang matang, tersebar di banyak perusahaan dan memiliki pengguna di seluruh dunia.
+Meed akan dicetak dalam rentang waktu 20 tahun. By that time, we aspire to have achieved building a mature ecosystem, having spread to many organizations and many users globally.
 
 ## 5.6. Apa yang bisa Anda lakukan
 
@@ -83,4 +83,4 @@ Partisipasi apa yang bisa Anda lakukan sekarang?
 - Bergabung dengan komunitas [Discord](https://discord.com/invite/hAuADSq3)
 - Bergabung dengan komunitas [Builders](https://meeds.io/builders) untuk mengetes perangkat lunak Meeds, ikuti dan dapatkan imbalan beberapa Meeds
 
-**\*\*\* The Work Metaverse - mari bangun masa depan dunia yang keras ini bersama-sama.*. \*\*\***
+**\*\*\* The WoM - let’s build this crazy future world together. \*\*\***

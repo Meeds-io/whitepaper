@@ -4,7 +4,7 @@
 
 Pasar tenaga kerja saat ini tidak efisien, karena biayanya tinggi[^1][^2][^3] dan sering terjadi konflik kepentingan antara pekerja dan pemberi kerja.
 
-Work Metaverse (WoM) membawa paradigma baru yang bisa menekan biaya transaksi dan menemukan ulang relasi dunia kerja, menjembatani kesenjangan antara perusahaan tradisional dengan DAO.
+The WoM (World of Meeds) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
 
 WoM memperkenalkan identitas digital, baik untuk pekerja dan pemberi kerja, serta menawarkan sistem pengupahan yang inovatif yang bisa mengkomodasi kepentingan kedua pihak.
 
@@ -33,7 +33,7 @@ Merujuk pemikiran R. Coase [^5], banyak ekonom mengkaitkan konsep perusahan deng
 
 DAO pada awalnya meratakan hirarki dan membuat kepemilikan perusahan jadi terbuka. WoM mendekati model ini dengan cara menemukan ulang model hubungan karyawan-pengusaha dari pada memaksa hubungan keduanya. Model ii mengenalkan tranpsparansi, obyektif, dan paradigma gaji terdesentralisasi, yang akan berkelanjutan sesuai dengan kepentingan pekerja dan pengusaha.
 
-Akhirnya, Work Metaverse menjembatani jurang antara perusahaan dengan DAO. Di sisi lain, WoM mengenalkan perusahaan tradisonl ke dalam duna terdesentralisasi dengan paradigma penggajian baru yang mudah, serta melengkapi sistem penggajian mereka. Selain itu, ini juga menyodorkan cara yang berkelanjutan dalam mengoperasikan dan menciptakan nilai bagi DAO. Pada akhirnya, WoM bisa menjadi aplikasi utama dan pertama dalam mendemokratisasikan penggunaan blockchain bagi setiap perusahaan dan karyawan -termasuk bagi mereka yang bukan perusahaan atau karyawan digital.
+Finally, the WoM bridges the gap between corporations and the DAOs. Di sisi lain, WoM mengenalkan perusahaan tradisonl ke dalam duna terdesentralisasi dengan paradigma penggajian baru yang mudah, serta melengkapi sistem penggajian mereka. Selain itu, ini juga menyodorkan cara yang berkelanjutan dalam mengoperasikan dan menciptakan nilai bagi DAO. Pada akhirnya, WoM bisa menjadi aplikasi utama dan pertama dalam mendemokratisasikan penggunaan blockchain bagi setiap perusahaan dan karyawan -termasuk bagi mereka yang bukan perusahaan atau karyawan digital.
 
 Seperti layanknya proyek desentralisasi, proposal WoM akan mendapatkan nilainya secara eksponensial seiring banyaknya orang yang menggunakannya. Untuk itulah, pendiri WoM sangat hati-hati mendorong minat jangka panjang dan menghindari monopoli keuntungan WoM, baik secara jangka pendek maupun jangka panjang. Ini paradigma terbuka, masih dibangun, dan terbuka untuk partisipasi aktif dan kreatif dari setiap orang.
 
