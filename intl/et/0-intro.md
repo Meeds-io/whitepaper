@@ -4,7 +4,7 @@
 
 Tänapäeva tööturul puudub tõhusus, sest tehingukulud[^1][^2][^3] on suured ning tööandja ja töötaja vahel on sageli huvide konfliktid.
 
-Work Metaverse (WoM) pakub välja uue paradigma, mis vähendaks tehingukulusid ja leiutaks uuesti töösuhte, ületades lõhe traditsiooniliste ettevõtete ja DAOde vahel.
+The WoM (World of Meeds) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
 
 WoM teeb seda, võttes kasutusele nii tööandja kui ka töötaja digitaalse identiteedi ning pakkudes uuenduslikku tasustamissüsteemi, mis viiks nende huvid kooskõlla.
 
@@ -33,7 +33,7 @@ Järgides R. Coase'i töid[^5], seob enamik majandusteadlasi ettevõtluse mõist
 
 Esimesed DAOd ühtlustavad hierarhiaid ja avavad omandiõiguse. WoM järgib seda loogikat, leiutades tööandja ja töötaja vahelise suhte uuesti, mitte surudes seda maha. Sellega võetakse kasutusele läbipaistev, objektiivne ja detsentraliseeritud tasustamisparadigma, mis viiks tööandja ja töötajate huvid jätkusuutlikult kooskõlla.
 
-Lõpuks, Work Metaverse katab lõhe korporatsioonide ja DAOde vahel. Ühest küljest toob see traditsioonilised korporatsioonid detsentraliseeritud maailma läbi hõlpsasti rakendatava kaasamise tasustamise paradigma, mis täiendab nende tasustamissüsteeme. Teisest küljest pakub see välja jätkusuutlikud viisid DAOde tegutsemiseks ja väärtuse loomiseks. Lõppkokkuvõttes võib WoM olla üks esimesi peavoolurakendusi, mis demokratiseerib plokiahela kasutamise iga ettevõtte ja iga töötaja jaoks - ka mitte-digitaalsete töötajate jaoks.
+Finally, the WoM bridges the gap between corporations and the DAOs. Ühest küljest toob see traditsioonilised korporatsioonid detsentraliseeritud maailma läbi hõlpsasti rakendatava kaasamise tasustamise paradigma, mis täiendab nende tasustamissüsteeme. Teisest küljest pakub see välja jätkusuutlikud viisid DAOde tegutsemiseks ja väärtuse loomiseks. Lõppkokkuvõttes võib WoM olla üks esimesi peavoolurakendusi, mis demokratiseerib plokiahela kasutamise iga ettevõtte ja iga töötaja jaoks - ka mitte-digitaalsete töötajate jaoks.
 
 Nagu iga detsentraliseeritud ettevõtmise puhul, kasvab WoMi ettepaneku väärtus eksponentsiaalselt, mida rohkem inimesi seda kasutab. Seetõttu hoolitsesid asutajad väga selle eest, et soodustada pikaajalist huvi ja vältida WoMi eeliste monopoliseerimist, olgu need siis lühiajalised või pikaajalised. See on avatud paradigma, mida alles ehitatakse ja mis on avatud kõigi aktiivsele loomingulisele osalemisele.
 

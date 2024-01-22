@@ -1,4 +1,4 @@
-# 4. Xeeds - Töö Metaversioon Üksikisikud / kasutajad
+# 4. Xeeds - WoM Individuals / users
 
 ## 4.1. Detsentraliseeritud ja isemajanduslikud mudelid
 
@@ -14,7 +14,7 @@ Märgid ja volikirjad antakse kasutajatele osana nende osalemisest Deedis. Omani
 
 Tänapäeva maailmas on raske eelnevalt oskusi tõestada. Kui inimesed reklaamivad end võrgustikes, loodavad nad, et nende juhid annavad neile soovitusi. Viimane eeldab juhi teatud head tahet, kuid tulevane tööandja ei pea seda tingimata tõendama.
 
-Work Metaverse pakub inimestele läbipaistvamaid ja muutumatuid vahendeid oma võimete omandamiseks ja demonstreerimiseks.
+The WoM provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
 
 Märke kasutatakse Deedi raames tehtud saavutuste tähistamiseks. Pärast eesmärkide või väljakutsete täitmist saavad kasutajad punkte. Märke saab avada, kogudes teatud hulga punkte konkreetsetes kategooriates.
 
@@ -54,7 +54,7 @@ Rahakotid on individuaalsed ja plokiahelapõhised - kui kasutaja saab tasu või 
 
 ## 4.6. Juurdepääs Web 3.0, krüptomajanduse ja DEFI teenustele
 
-Nagu eespool mainitud, avab Work Metaverse krüptoraha ja detsentraliseeritud veebiteenuste maailma põhimõtteliselt kõigile - väga suurele kasutajaskonnale, kes võib-olla isegi ei ole digitaalvaldkonnaga seotud.
+As discussed above, the WoM opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
 
 Tõepoolest, mis tahes tööülesandeid võib potentsiaalselt sümboliseerida. Tegelikult on maailm muutumas üha enam digitaalseks selliste suundumustega nagu 5G, iot, kantavad seadmed ja nii edasi. Selle tulemusena saaks potentsiaalselt üha rohkem ja rohkem signaale koguda ja analüüsida mitte-digitaalsete elukutsete kaasamise tähistamiseks. Väljakutsed pakuvad valmis viisi selle sümboliseerimiseks, kujutades saavutusi füüsilises maailmas.
 

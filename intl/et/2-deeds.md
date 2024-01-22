@@ -1,5 +1,5 @@
 
-# 2. Deeds NFT - Töö Metaversiooni organisatsioonid
+# 2. Deeds NFT - WoM Organizations
 
 ## 2.1. NFT - Teod määratletud
 

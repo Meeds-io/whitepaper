@@ -1,14 +1,14 @@
-# 3. Meeds token - Work Metaverse valuuta
+# 3. Meeds token – the currency of the WoM
 
-Work Metaverse'i jõuallikaks on selle valuuta - Meeds (MEED) žetoon. Meediume kasutatakse kasutajate premeerimiseks (kaasamisprogrammide kaudu), kauplustes ostmiseks, Deeds'i saamiseks, investeeringute rahalise tulu saamiseks jne.
+The WoM is powered by its currency – the Meeds (MEED) token. Meediume kasutatakse kasutajate premeerimiseks (kaasamisprogrammide kaudu), kauplustes ostmiseks, Deeds'i saamiseks, investeeringute rahalise tulu saamiseks jne.
 
 ## 3.1. Tokenomics
 
 Meeds **maksimaalne pakkumine on piiratud 100 miljoni žetooniga**, mida vermitakse järk-järgult. **Meedid vermitakse kiirusega 10 MEED minutis**. Seega on kogu mündi vermimisaeg peaaegu 20 aastat (kuna aastas vermitakse umbes 10*60*24*365 = 5M$ Meedit).
 
-Praeguseks on eeltrükitud 5 miljonit meedikut (5% koguvarustusest). Sellest 4,5 miljonit on lukustatud võlvlepinguga, mille lineaarne üleandmine toimub 4 aasta jooksul. Eelnevalt makstud summat kasutati peamiselt tarkvara intellektuaalomandi omandamiseks, sümboolse emissiooni juriidiliste tasude ja hostinguteenuste eest tasumiseks.
+5 Million Meeds (5% of the total supply) were pre-minted initially. Sellest 4,5 miljonit on lukustatud võlvlepinguga, mille lineaarne üleandmine toimub 4 aasta jooksul. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees, and host services.
 
-Ülejäänud osa on osa __Meeds DAO vahenditest__ ja seda kasutatakse teenuste eest tasumiseks, samuti mõnedeks käivitamisstiimuliteks, nagu näiteks õhulennukid ja soovituskampaaniad.
+The rest is part of the __Meeds DAO funds__ and will be used to pay for services and launch incentives such as airdrops and referral campaigns.
 
 
 ## 3.2. Rahapaja eraldamine
@@ -94,7 +94,7 @@ Meedsi žetoonide omanikud peavad panustama žetoonid, et hääletada Meedsi DAO
 
 ## 3.7. Detsentraliseeritud finantsteenuste (DeFi) kasutajateenused
 
-Work Metaverse tutvustab plokiahela maailma paljudele inimestele, kes seda täna ei kasuta.
+The WoM will introduce the blockchain world to many people who do not use it today.
 
 Tõepoolest, mis tahes tööd (olgu see siis digitaalne või mitte) saab mänguliselt muuta ja mis tahes osalust premeerida Meedsiga. Meedid tehakse kasutajatele kättesaadavaks lihtsasti kasutatava, plokiahelapõhise rahakoti kaudu, mis "abstraheerib" krüptomaailma mis tahes keerukuse keskmise kasutaja jaoks.
 
