@@ -6,7 +6,7 @@ Le WoM est alimenté par sa propre monnaie - le jeton Meeds (MEED). Les Meeds so
 
 Le **nombre maximal de Meeds est limité à 100 millions de jetons**, qui seront émis progressivement. Les Meeds sont émis à un **rythme de 10 MEED par minute**. Par conséquent, l'ensemble des meeds seront émis dans près de 20 ans (puisque près de $10*60*24*365 = 5M$ de nouveaux meeds seront émis chaque année).
 
-5 millions de Meeds (5% de l’approvisionnement total) ont été émis à ce jour. Parmi lesquels, 4.5 M sont bloqués dans un contrat de vesting avec une acquisition linéaire sur 4 ans. Les sommes émises ont été principalement utilisées pour l'acquisition de propriété intellectuelle de logiciel, pour payer des frais juridiques et pour les services d'hébergement.
+5 millions de Meeds (5% de l’approvisionnement total) ont été émis au départ. Parmi lesquels, 4.5 M sont bloqués dans un contrat de vesting avec une acquisition linéaire sur 4 ans. Les sommes émises ont été principalement utilisées pour l'acquisition de propriété intellectuelle de logiciel, pour payer des frais juridiques et pour les services d'hébergement.
 
 Le reste fait partie des __fonds de Meeds DAO__ et sera utilisé pour payer les services ainsi que certaines initiatives au lancement telles que des airdrops et des campagnes de parrainage.
 
