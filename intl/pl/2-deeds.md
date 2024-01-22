@@ -1,5 +1,5 @@
 
-# 2. Deeds NFT - Organizacje Metawersji Pracy
+# 2. Deeds NFT - organizacje WoM
 
 ## 2.1. NFT - Zdefiniowane certyfikaty Deeds
 

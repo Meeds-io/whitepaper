@@ -1,14 +1,14 @@
-# 3. Meeds token – waluta Work Metaverse
+# 3. Token Meeds-waluta WoM
 
-Przestrzeń Metaworka jest napędzana przez swoją walutę - token Meeds (MEED). Meeds służą do nagradzania użytkowników (poprzez programy zaangażowania), zakupów w sklepach, uzyskiwania aktów własności, uzyskiwania zwrotów finansowych z inwestycji itp.
+WoM jest zasilana przez swoją walutę - token Meeds (MEED). Meeds służą do nagradzania użytkowników (poprzez programy zaangażowania), zakupów w sklepach, uzyskiwania aktów własności, uzyskiwania zwrotów finansowych z inwestycji itp.
 
 ## 3.1. Tokenomika
 
 **Maksymalna podaż tokenów Meeds jest ograniczona do 100 milionów**, wybijanych stopniowo. **Meeds są wytwarzane w tempie 10 MEED na minutę**. Dlatego pełny horyzont wydobycia wynosi prawie 20 lat (ponieważ rocznie wydobywa się około 5 milionów Meeds, co wynosi około $10*60*24*365$).
 
-Do tej pory wyemitowano 5 milionów tokenów Meeds (5% całkowitej podaży). Z czego 4,5 mln zostało zamkniętych w kontrakcie skarbca z liniowym nabyciem uprawnień przez ponad 4 lata. Pre-minted ilość została głównie wykorzystana do nabycia oprogramowania IP, pokrycia kosztów związanych z emisją tokenów oraz usług hostingowych.
+Początkowo wybito 5 milionów meed (5% całkowitej podaży). Z czego 4,5 mln zostało zamkniętych w kontrakcie skarbca z liniowym nabyciem uprawnień przez ponad 4 lata. Wstępnie wybita kwota została wykorzystana głównie do nabycia Oprogramowania IP, opłacenia opłat prawnych token emission i usług hostingowych.
 
-Reszta stanowi część __funduszy Meeds DAO__ i zostanie wykorzystana na pokrycie kosztów usług oraz niektórych zachęt do uruchomienia, takich jak airdropy i kampanie poleceń.
+Reszta jest częścią__ meeds Dao funds < /0 > i zostanie wykorzystana na opłacenie usług i uruchomienie zachęt, takich jak zrzuty i kampanie polecające.</p>
 
 
 ## 3.2. Przydział mintowania
@@ -94,7 +94,7 @@ Posiadacze tokenów Meeds muszą stawiać swoje tokeny, aby móc głosować w sp
 
 ## 3.7. Usługi użytkowników finansów zdecentralizowanych (DeFi)
 
-Work Metaverse wprowadzi świat blockchain do wielu osób, które dzisiaj go nie używają.
+WoM przedstawi świat blockchain wielu osobom, które nie używają go dzisiaj.
 
 W rzeczywistości, każda praca (czy to cyfrowa, czy nie) może zostać przekształcona w grę, a każde zaangażowanie - nagrodzone Meedami. Meeds są udostępnione użytkownikom poprzez łatwy w użyciu, oparty na blockchainie portfel, który "abstrahuje" jakąkolwiek złożoność świata kryptowalut dla przeciętnego użytkownika.
 

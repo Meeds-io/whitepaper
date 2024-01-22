@@ -4,7 +4,7 @@
 
 Obecny rynek pracy charakteryzuje się niską wydajnością z powodu wysokich kosztów transakcyjnych[^1][^2][^3] i częstych konfliktów interesów między pracodawcą a pracownikiem.
 
-Praca w Metawersum (WoM) proponuje nowy paradygmat, który obniżyłby koszty transakcyjne i zrewolucjonizował relacje zatrudnienia, zamykając lukę między tradycyjnymi korporacjami a DAOs.
+WoM (World of Meeds) الگوی جدیدی را پیشنهاد می‌کند که هزینه‌های مبادله را کاهش می‌دهد و روابط استخدامی را دوباره ایجاد می‌کند و شکاف بین شرکت‌های سنتی و DAO را پر می‌کند.
 
 WoM osiąga to poprzez wprowadzenie cyfrowych tożsamości dla pracodawcy i pracownika oraz oferując innowacyjny system nagradzania zaangażowania, który zrównoważyłby ich interesy.
 
@@ -33,13 +33,13 @@ W wyniku prac R. Coase’a[^5] większość ekonomistów łączy koncepcję prze
 
 Pierwsze DAO spłaszczają hierarchie i otwierają własność. WoM dąży do realizacji tej logiki poprzez przeobrażenie, a nie likwidację relacji pracodawca/pracownik. Wprowadza on transparentny, obiektywny i zdecentralizowany paradygmat nagradzania, który zrównoważenie dostosowuje interesy pracodawcy i pracownika.
 
-Ostatecznie, Work Metaverse przełamuje przepaść między korporacjami a DAOs. Z jednej strony wprowadza tradycyjne korporacje do zdecentralizowanego świata poprzez łatwy w zastosowaniu paradygmat nagradzania zaangażowania, uzupełniający ich systemy wynagrodzeń. Z drugiej strony proponuje zrównoważone sposoby działania i tworzenia wartości dla DAOs. Ostatecznie WoM mógłby być jednym z pierwszych mainstreamowych zastosowań, które zdemokratyzują wykorzystanie blockchaina dla każdej firmy i każdego pracownika - w tym także dla tych, którzy nie pracują w sektorze cyfrowym.
+Wreszcie WoM wypełnia lukę między korporacjami a DAO. Z jednej strony wprowadza tradycyjne korporacje do zdecentralizowanego świata poprzez łatwy w zastosowaniu paradygmat nagradzania zaangażowania, uzupełniający ich systemy wynagrodzeń. Z drugiej strony proponuje zrównoważone sposoby działania i tworzenia wartości dla DAOs. Ostatecznie WoM mógłby być jednym z pierwszych mainstreamowych zastosowań, które zdemokratyzują wykorzystanie blockchaina dla każdej firmy i każdego pracownika - w tym także dla tych, którzy nie pracują w sektorze cyfrowym.
 
 Jak w przypadku każdego zdecentralizowanego przedsięwzięcia, propozycja WoM zyskuje na wartości wykładniczo, gdy korzysta z niej coraz więcej osób. Z tego powodu założyciele bardzo dbają o zachęcanie do długoterminowego zainteresowania i unikanie monopolizowania korzyści WoM, zarówno krótko-, jak i długoterminowo. Jest to otwarty paradygmat, który wciąż trzeba zbudować i jest otwarty na aktywny kreatywny udział każdego.
 
 
-[^1]: Suzanne Young - ["Ekonomia kosztów transakcyjnych" ](https://www.academia.edu/24703426/Transaction_Cost_Economics)
-[^2]: Jan Drahokoupil, Agnieszka Piasna - [“Praca w gospodarce platformowej: Poza niższymi kosztami transakcyjnym”](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
+[^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)
+[^2]: Jan Drahokoupil, Agnieszka Piasna - [“Work in the Platform Economy: Beyond Lower Transaction Costs”](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
 [^3]: Seth C. Oranburg, Liya Palagashvili - [“Transaction Cost Economics, Labor Law and the Gig Economy”](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship)
 [^4]: Michael C. Jensen, William H. Meckling - [“Theory of the Firm : Managerial Behavior, Agency Costs and Ownership Structure”](https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf)
 [^5]: R. Coase - [“The nature of the firm”](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)

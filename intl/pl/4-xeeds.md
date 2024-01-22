@@ -1,4 +1,4 @@
-# 4. Xeeds - Przestrzeń Pracy dla Osób / Użytkowników Wirtualnego Świata
+# 4. Potrzeby-Wom osoby / użytkownicy
 
 ## 4.1. Zdecentralizowane i samodzielne modele
 
@@ -14,7 +14,7 @@ Odznaki i referencje są przyznawane użytkownikom jako część ich udziału w 
 
 W dzisiejszym świecie trudno jest udowodnić umiejętność z góry. Kiedy ludzie reklamują się na sieciach, liczą na to, że ich menedżerowie dadzą im rekomendację. To jednak zakłada pewną dobrej woli ze strony menedżera, ale nie jest traktowane jako niezbity dowód przez przyszłego pracodawcę.
 
-Przestrzeń Metaworka zapewnia bardziej transparentne i niezmiennie udokumentowane środki, dzięki którym ludzie mogą zdobywać i demonstrować swoje umiejętności.
+WoM zapewnia ludziom bardziej przejrzyste i niezmienne środki do zdobywania i demonstrowania swoich umiejętności.
 
 Odznaki są używane do przedstawiania osiągnięć zdobytych w ramach Deed. Po ukończeniu zestawu celów lub wyzwań, użytkownicy otrzymają punkty. Odznaki mogą być odblokowane poprzez zdobycie określonej liczby punktów w konkretnych kategoriach.
 
@@ -54,7 +54,7 @@ Portfele są indywidualne i oparte na technologii blockchain - gdy użytkownik o
 
 ## 4.6. Dostęp do Web 3.0, kryptogospodarki i usług DEFI
 
-Jak omówiono powyżej, Praca Metaverse otwiera świat kryptowalut i zdecentralizowanych usług internetowych w zasadzie dla każdego – bardzo dużej populacji użytkowników, być może nawet niezwiązanych z dziedziną cyfrową.
+Jak omówiono powyżej, WoM otwiera świat kryptowalut i zdecentralizowanych usług internetowych w zasadzie dla każdego – bardzo dużej populacji użytkowników, być może nawet niezwiązanych z dziedziną cyfrową.
 
 Rzeczywiście, każde zaangażowanie w pracę może potencjalnie zostać ztokenizowane. W rzeczywistości świat staje się coraz bardziej cyfrowy, z trendami takimi jak 5G, IoT, noszone urządzenia itp. W rezultacie, potencjalnie coraz więcej sygnałów może być przechwytywanych i analizowanych w celu tokenizacji zaangażowania osób z profesji nienumerycznych. Wyzwania stanowią gotowy sposób na tokenizację, reprezentując osiągnięcia w świecie fizycznym.
 
