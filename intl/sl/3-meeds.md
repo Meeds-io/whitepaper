@@ -1,14 +1,14 @@
-# 3. Žeton Meeds - valuta Metaverse Dela
+# 3. Meeds token – the currency of the WoM
 
-Metaverse Dela poganja njegova valuta - žeton Meeds (MEED). Meeds se uporablja za nagrajevanje uporabnikov (prek programov sodelovanja), nakupe v trgovinah, pridobivanje Deedov, finančne donose pri naložbah itd.
+The WoM is powered by its currency – the Meeds (MEED) token. Meeds se uporablja za nagrajevanje uporabnikov (prek programov sodelovanja), nakupe v trgovinah, pridobivanje Deedov, finančne donose pri naložbah itd.
 
 ## 3.1. Tokenomika
 
 Meeds **največja ponudba je omejena na 100 milijonov žetonov**, ki se kujejo postopoma. **Meeds se kujejo s hitrostjo 10 MEED na minuto**. Zato je celotno obdobje kovanja skoraj 20 let (saj se na leto kuje približno 10$*60*24*365 = 5 milijonov Meeds se kuje na leto).
 
-Do zdaj je bilo vnaprej natisnjenih 5 milijonov Meeds (5 % celotne zaloge). Od tega je bilo 4.5M evrov zaklenjenih v pogodbo s trezorjem z linearnim odmerjanjem pravic v štirih letih. Predhodno obračunani znesek je bil v glavnem porabljen za nakup intelektualne lastnine programske opreme, plačilo pravnih stroškov družbe token emission in storitev gostovanja.
+5 Million Meeds (5% of the total supply) were pre-minted initially. Od tega je bilo 4.5M evrov zaklenjenih v pogodbo s trezorjem z linearnim odmerjanjem pravic v štirih letih. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees, and host services.
 
-Ostalo je del__Sredstva Meeds DAO__ in bo namenjen plačilu storitev ter nekaterim spodbudam za zagon, kot so padalci iz zraka in kampanje za posredovanje.
+The rest is part of the __Meeds DAO funds__ and will be used to pay for services and launch incentives such as airdrops and referral campaigns.
 
 
 ## 3.2. Menjava dodelitev
@@ -94,7 +94,7 @@ Imetniki žetonov Meeds morajo vložiti žetone, da lahko glasujejo o odločitva
 
 ## 3.7. Storitve za uporabnike decentraliziranega financiranja (DeFi)
 
-Delo Metaverse bo svet veriženja blokov predstavil številnim ljudem, ki ga danes ne uporabljajo.
+The WoM will introduce the blockchain world to many people who do not use it today.
 
 Vsako delo (digitalno ali ne) je namreč mogoče igrificirati in vsako sodelovanje - nagraditi z Meeds. Meeds je uporabnikom na voljo prek enostavne uporabe denarnice, ki temelji na verigi blokov in ki povprečnemu uporabniku "abstrahira" vsako zapletenost sveta kriptovalut.
 

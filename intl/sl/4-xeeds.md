@@ -1,4 +1,4 @@
-# 4. Xeeds - Delo Metaverse Posamezniki / uporabniki
+# 4. Xeeds - WoM Individuals / users
 
 ## 4.1. Decentralizirani in samostojni modeli
 
@@ -14,7 +14,7 @@ Značke in pooblastila se uporabnikom podelijo kot del njihovega sodelovanja pri
 
 V današnjem svetu je težko vnaprej dokazati svoje znanje. Ko se ljudje oglašujejo v omrežjih, računajo na to, da jim bodo njihovi vodje dali priporočilo. Slednje predpostavlja določeno dobro voljo vodje, ki pa je bodoči delodajalec ne obravnava nujno kot dokaz.
 
-Metaverse za delo zagotavlja bolj pregledno in nespremenljivo sredstvo, s katerim lahko ljudje pridobivajo in dokazujejo svoje sposobnosti.
+The WoM provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
 
 Značke se uporabljajo za predstavitev dosežkov, doseženih v okviru Deed. Ko uporabniki izpolnijo niz ciljev ali izzivov, prejmejo točke. Značke je mogoče odkleniti z zbiranjem določenega števila točk v določenih kategorijah.
 
@@ -54,7 +54,7 @@ Denarnice so individualne in temeljijo na verigi blokov - ko uporabnik prejme na
 
 ## 4.6. Dostop do storitev Spleta 3.0, kriptoekonomije in DEFI
 
-Kot smo že omenili, Metaverse Dela odpira svet kriptovalut in decentraliziranih spletnih storitev pravzaprav vsakomur - zelo veliki populaciji uporabnikov, po možnosti celo nepovezanih z digitalnim področjem.
+As discussed above, the WoM opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
 
 Pravzaprav je mogoče vsakršno delovno angažiranost potencialno tokenizirati. Svet postaja vse bolj digitalen s trendi, kot so 5G, iot, nosljive naprave itd. Posledično bi lahko potencialno zajeli in analizirali vse več signalov, ki bi omogočili tokenizacijo udejstvovanja nedigitalnih poklicev. Izzivi zagotavljajo pripravljen način za tokenizacijo, saj predstavljajo dosežke v fizičnem svetu.
 

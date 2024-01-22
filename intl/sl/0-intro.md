@@ -4,7 +4,7 @@
 
 Današnji trg dela ni dovolj učinkovit zaradi visokih transakcijskih stroškov[^1][^2][^3] in pogosta navzkrižja interesov med delodajalcem in delavcem.
 
-Work Metaverse (WoM) predlaga novo paradigmo, ki bi znižala stroške transakcij in na novo zasnovala zaposlitveno razmerje ter zapolnila vrzel med tradicionalnimi korporacijami in DAOs.
+The WoM (World of Meeds) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
 
 WoM to omogoča z uvedbo digitalnih identitet za delodajalca in zaposlenega ter inovativnim sistemom nagrajevanja za sodelovanje, ki bi uskladil njune interese.
 
@@ -33,7 +33,7 @@ Po delih R. Coasea[^5], večina ekonomistov povezuje koncept podjetja s potrebo 
 
 Prve organizacije DAO izravnajo hierarhije in odprejo lastništvo. WoM sledi tej logiki tako, da na novo izumlja in ne ukinja razmerja med delodajalcem in delavcem. Uvaja pregledno, objektivno in decentralizirano paradigmo nagrajevanja, ki bi trajnostno uskladila interese delodajalca in zaposlenega.
 
-Nazadnje, Metaverse Za Delo zapolnjuje vrzel med korporacijami in organizacijami DAOs. Po eni strani uvaja tradicionalne korporacije v decentralizirani svet z enostavno uporabno paradigmo nagrajevanja za sodelovanje, ki dopolnjuje njihove sisteme nagrajevanja. Po drugi strani pa predlaga trajnostne načine delovanja in ustvarjanja vrednosti za organizacije DAOs. Navsezadnje bi lahko bil WoM med prvimi glavnimi aplikacijami za demokratizacijo uporabe veriženja blokov za vsako podjetje in vsakega zaposlenega - tudi za tiste, ki niso digitalni.
+Finally, the WoM bridges the gap between corporations and the DAOs. Po eni strani uvaja tradicionalne korporacije v decentralizirani svet z enostavno uporabno paradigmo nagrajevanja za sodelovanje, ki dopolnjuje njihove sisteme nagrajevanja. Po drugi strani pa predlaga trajnostne načine delovanja in ustvarjanja vrednosti za organizacije DAOs. Navsezadnje bi lahko bil WoM med prvimi glavnimi aplikacijami za demokratizacijo uporabe veriženja blokov za vsako podjetje in vsakega zaposlenega - tudi za tiste, ki niso digitalni.
 
 Tako kot pri vsakem decentraliziranem podvigu tudi predlog WoM pridobiva na vrednosti eksponentno, ko ga uporablja več ljudi. Zato so ustanovitelji zelo skrbeli za spodbujanje dolgoročnega interesa in preprečevanje monopolizacije koristi WoM, ne glede na to, ali gre za kratkoročne ali dolgoročne koristi. Gre za odprto paradigmo, ki jo je treba še zgraditi in je odprta za aktivno ustvarjalno sodelovanje vseh.
 
