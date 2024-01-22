@@ -1,14 +1,14 @@
-# 3. Meeds token – Arbete Metaverse valuta
+# 3. Meeds token – the currency of the WoM
 
-Verket Metaverse drivs av sin valuta – Meeds (MEED) token. Meeds används för att belöna användare (genom engagemangsprogram), inköp i butiker, få gärningar, få ekonomisk avkastning på investeringar etc.
+The WoM is powered by its currency – the Meeds (MEED) token. Meeds används för att belöna användare (genom engagemangsprogram), inköp i butiker, få gärningar, få ekonomisk avkastning på investeringar etc.
 
 ## 3.1. Tokenomik
 
 Meeds **maximala utbud är begränsat till 100 miljoner tokens**, präglade progressivt. **Meeds är präglade med en hastighet av 10 MEED per minut**. Därför är den fulla horisonten nära 20 år (som runt $10*60*24*365 = 5M$ Meeds är präglade per år).
 
-5 Miljoner Meeds (5% av den totala utbudet) har varit pre-präglade hittills. Av vilka 4,5M har låsts in i ett valvkontrakt med en linjär intjäning över 4 år. Det förpräglade beloppet användes främst för att förvärva programvaru-IP, betala för symboliska utsläpps juridiska avgifter och hostingtjänster.
+5 Million Meeds (5% of the total supply) were pre-minted initially. Av vilka 4,5M har låsts in i ett valvkontrakt med en linjär intjäning över 4 år. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees, and host services.
 
-Resten är en del av __Meeds DAO medel__ och kommer att användas för att betala för tjänster samt vissa lansering incitament som luftdroppar och remisskampanjer.
+The rest is part of the __Meeds DAO funds__ and will be used to pay for services and launch incentives such as airdrops and referral campaigns.
 
 
 ## 3.2. Minting allokering
@@ -94,7 +94,7 @@ Meeds token innehavare måste satsa tokens för att rösta på Meeds DAO beslut 
 
 ## 3.7. Decentraliserad finansiering (DeFi) användartjänster
 
-Work Metaverse kommer att introducera blockkedjevärlden för många människor som inte använder den idag.
+The WoM will introduce the blockchain world to many people who do not use it today.
 
 Faktum är att alla verk (digitala eller inte) kan gamifieras och alla engagemang - belönas med Meeds. Meeds är tillgängliga för användare genom en enkel att använda, blockchain baserad, plånbok som “abstraherar” någon komplexitet i kryptovärlden till en genomsnittlig användare.
 

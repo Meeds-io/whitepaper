@@ -1,5 +1,5 @@
 
-# 2. Handlingar NFT - Metaverse organisationer för arbete
+# 2. Deeds NFT - WoM Organizations
 
 ## 2.1. NFT – gärningar definierade
 

@@ -1,4 +1,4 @@
-# 4. Xeeds - Arbetssätt Metaverse Individer / användare
+# 4. Xeeds - WoM Individuals / users
 
 ## 4.1. Decentraliserade och självständiga modeller
 
@@ -14,7 +14,7 @@ Märken och autentiseringsuppgifter ges till användare som en del av deras delt
 
 I dagens värld är det svårt att bevisa en skicklighet i förväg. När människor annonserar sig själva på nätverk räknar de med att deras chefer ger dem en rekommendation. Den senare antar viss goodwill från chefen men behandlas inte nödvändigtvis som bevis av den framtida arbetsgivaren.
 
-Work Metaverse erbjuder ett mer transparent och oföränderligt sätt för människor att förvärva och visa sina förmågor.
+The WoM provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
 
 Märken används för att representera prestationer som gjorts inom en gärning. Efter att ha slutfört en uppsättning mål eller utmaningar, kommer användarna att tilldelas poäng. Märken kan låsas upp genom att samla in vissa poäng i specifika kategorier.
 
@@ -54,7 +54,7 @@ Plånböcker är individuella och blockkedjebaserade - när användaren får en 
 
 ## 4.6. Tillgång till Web 3.0, kryptoekonomi och DEFI-tjänster
 
-Som vi diskuterat ovan öppnar Work Metaverse världen av kryptovalutor och decentraliserade webbtjänster för i princip alla - en mycket stor population av användare, som kanske till och med inte har någon koppling till det digitala området.
+As discussed above, the WoM opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
 
 Verkligen, alla arbete engagemang kan potentiellt tokenized. I själva verket blir världen alltmer digital med trender som 5G, iot, wearables och så vidare. Som en konsekvens kan potentiellt fler och fler signaler fångas och analyseras för att tokenize engagemang av icke-digitala yrken. Utmaningar ger en redo att gå väg att tokenize det genom att representera prestationer i den fysiska världen.
 
