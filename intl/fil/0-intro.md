@@ -4,38 +4,38 @@
 
 Ang merkado ng trabaho ngayon ay kulang sa kahusayan dahil sa mataas na gastos sa transaksyon[^1][^2][^3] at madalas na mga conflict of interests sa pagitan ng empleyado at employer.
 
-Ang Work Metaverse (ang WoM) ay nagmumungkahi ng bagong paradaym na magpapababa ng gastos sa transaksyon at magbabago ng relasyon sa pagtatrabaho, na magtutulungan sa pagitan ng tradisyonal na korporasyon at DAOs.
+The WoM (World of Meeds) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
 
 Ang WoM ay gumagawa nito sa pamamagitan ng pagpapakilala ng mga digital na identity para sa parehong employer at employee at nag-aalok ng isang innovative engagement reward system na magtutugma sa kanilang mga interes.
 
 ## Pagsisimula
 
-Nasira ang merkado ng trabaho ngayon. Nabigo ito upang masiyahan ang parehong mga empleyado at employer.
+The work market today is broken. It fails to satisfy both employees and employers.
 
-Sa panig ng empleyado, mahirap makahanap ng tamang trabaho. Ang merkado ng trabaho ay pinapaboran ang ilang mga uri ng mga indibidwal, na iniiwan ang mahusay na mga set ng kasanayan. Nagmumula ito sa isang hanay ng mga bias ng tao - batay sa lahi, batay sa kasarian, batay sa kapansanan, batay sa introvert atbp. Ang market ng trabaho ay kulang din sa transparency tungkol sa mga available na posisyon at kondisyon ng trabaho.
+On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
 
-Sa sandaling magtrabaho, ang mga personal na kalayaan ng empleyado ay nilalabag kapalit ng kabayaran. Ang mga empleyado ay may kaunting sasabihin sa kanilang oras ng trabaho, lugar ng trabaho, nilalaman ng trabaho o pamamaraan ng trabaho. At ang kanilang kabayaran ay bihirang maiugnay sa kanilang tunay na implikasyon o halaga. Ang mga patakaran sa kompensasyon ay walang transparency at, samakatuwid, ay itinuturing na hindi patas. Bukod dito, ang kompensasyon at pag-unlad ng karera ay nakasalalay din sa kadahilanan ng tao - ang mabuting pananampalataya at pagiging objectivity ng agarang tagapamahala ng empleyado.
+Once employed, employee’s personal liberties are infringed upon in exchange for compensation. Employees have little say in their work hours, workplace, work content or work methods. And their compensation is rarely linked to their real implication or value. Compensation rules lack transparency and, hence, are perceived as unfair. Moreover, compensation and career progress are also dependent on the human factor – the employee immediate manager’s good faith and objectivity.
 
-Ang mga tagapag-empleyo, sa kabilang banda, ay nakakaranas ng mga kahirapan sa pagkuha ng talento at pagkuha ng mga tamang kasanayan at tamang angkop sa tamang oras para sa trabaho. Walang layunin na paraan upang tiyakin ang mga kakayahan ng potensyal na hire o pinagmumulan ng mga tao sa labas ng tradisyonal na pool ng pag-hire ng employer.
+Employers, on the other hand, experience difficulties at sourcing talent and hiring the right skills and the right fit at the right time for the job. There is no objective way to ascertain the potential hire’s skills or source people outside of the employer’s traditional hiring pool.
 
 Ang mga employer ay nakakaranas din ng kakulangan ng pagkamatapat mula sa kanilang mga empleyado at mataas na turnover, parehong nagpapataas sa gastos sa pag-aalok ng trabaho at pagpapakilala sa mga bagong empleyado.
 
-Bukod dito, nahaharap din ang mga employer sa mababang pakikipag-ugnayan sa kanilang mga kasalukuyang empleyado, na humahantong sa mababang pagkamalikhain, produktibidad at pagbabago. Ang huli ay nagdudulot ng mas malaking pinsala sa kasalukuyang ekonomiya na nangangailangan ng mas mahusay at malikhaing trabaho.
+Moreover, employers also face low engagement in their existing employees, leading to low creativity, productivity and innovation. The latter inflicts all the more damage in today’s economy requiring more skilled creative work.
 
 Lahat ng nabanggit ay nagbubunsod sa mataas na halaga ng transaksyon at ang pinapalalang problema sa agent-principal:
 
-- Sa tulong ng internet, naging mas magkakaisa at transparent ang mga merkado ng trabaho dahil sa mga job posting site, career site, at iba pa. Ngunit ang mga gastos sa transaksyon ay masyadong mataas pa rin sa kawalan ng elemento ng obhektibidad.
+- With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element.
 - Tungkol sa problema ng ahente-prinsipal, ito ay naging mas malala dahil sa paglaki ng agwat sa kita at yaman ng mga empleyado at mga shareholder at sa kawalang-galaw sa relasyon ng employer at employee.
 
 Ang WoM ay naglalayong malutas ang dalawa sa pamamagitan ng bagong paradaym ng gawaing hindi sentralisado.
 
-Sumusunod sa mga gawa ni R. Coase[^5], karamihan sa mga ekonomista ay nag-uugnay ng konsepto ng negosyo sa pangangailangan upang bawasan ang mga gastos sa transaksyon. Ang internet at kamakailan lang ay ang blockchain at web3 ay nagbukas ng nakakatindig-balahibong mga posibilidad sa pagbaba ng gastos sa transaksyon sa lahat ng dako, binabago ang ekonomiya at lalo na sa pagbabago ng negosyo. Ang unang DAOs[^6] nagsimula ng prosesong ito sa pagbibigay-pokus sa pagpapababa ng halaga ng transaksyon para sa pangangasiwa ng kapital at pamamahala. Ang WoM ay layuning paigtingin ang lohika na ito sa pamamagitan ng pagbaba ng gastos ng mga transaksiyon sa trabaho. Ito ay nagmumungkahi ng isang desentralisadong mundo kung saan ang pagtugma ng trabaho at kakayahan ay maaaring gawin nang walang kinikilingan, mabilis, at global.
+Following R. Coase’s works[^5], most economists link the concept of enterprise with the necessity to mitigate transaction costs. Internet and more recently blockchain and web3 open exciting possibilities in lowering transaction costs everywhere, reinventing economy and in particular reinventing the enterprise. The first DAOs[^6] started this process focusing on lowering the cost of transactions for capital sourcing and governance. The WoM aims at pushing this logic further by lowering the cost of work transactions. It proposes a decentralized world where jobs and skills matching could be done objectively, quickly and globally.
 
-Ang mga unang DAO ay nagpapantay ng mga hierarkiya at nagbubukas ng pag-aari. Ang WoM ay sumusunod sa lohikang ito sa pamamagitan ng pagsasapuso sa halip na pagpipigil sa relasyon ng amo/kawani. Ito ay nagpapakilala ng isang transparente, objective at decentralized na modelo ng pagbibigay ng reward, na magpapanatili ng pagkakatugma ng mga interes ng employer at employee sa isang matatag na paraan.
+The first DAOs flatten the hierarchies and open ownership. The WoM pursues this logic by reinventing rather than suppressing the employer/employee relationship. It introduces a transparent, objective and decentralized reward paradigm, that would sustainably align the employer and the employee interests.
 
-Sa wakas, ang Work Metaverse ay nagtataguyod ng pagkakaisa sa pagitan ng mga korporasyon at ng mga DAO. Sa isang banda, ito ay nagpapakilala ng tradisyunal na korporasyon sa decentralised na mundo sa pamamagitan ng isang madaling paraan ng pagbibigay ng gantimpala sa pakikilahok, na nagpapakatugma sa kanilang mga sistema ng kompensasyon. Sa kabilang banda, nagmumungkahi ito ng mga pangmatagalang paraan upang mag-operate at lumikha ng halaga para sa mga DAO. Sa huli, ang WoM ay maaaring maging isa sa mga pangunahing aplikasyon na magdudulot ng demokrasya sa paggamit ng blockchain para sa bawat kumpanya at kawani - kabilang na ang mga hindi digital.
+Finally, the WoM bridges the gap between corporations and the DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. On the other hand, it proposes sustainable ways to operate and create value for DAOs. Ultimately, the WoM could be among the first mainstream applications to democratize the use of the blockchain for every company and every employee – including non-digital ones.
 
-Tulad ng anumang desentralisadong pakikipagsapalaran, ang panukala ng WoM ay nadagdagan ang halaga habang mas maraming tao ang gumagamit nito. Sa kadahilanang iyon, ang mga tagapagtatag ay nag-ingat nang mabuti upang hikayatin ang pangmatagalang interes at maiwasan ang pag-monopolize ng mga benepisyo ng WoM, maikli man o pangmatagalan. Ito ay isang bukas na paradaym, pa lamang dapat itayo, at bukas para sa aktibong partisipasyon ng lahat.
+As with any decentralized venture, the WoM proposal gains in value exponentially as more people use it. For that reason, founders took great care to encourage long term interest and avoid monopolizing the WoM benefits, whether short term or long term. It is an open paradigm, still to be built, and open to active creative participation from everyone.
 
 
 [^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)

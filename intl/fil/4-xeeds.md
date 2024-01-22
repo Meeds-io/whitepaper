@@ -1,64 +1,64 @@
-# 4. Xeeds - Work Metaverse Indibidwal / gumagamit
+# 4. Xeeds - WoM Individuals / users
 
-## 4.1. Desentralisado at may-kapangyarihan na mga modelo
+## 4.1. Decentralized and self-sovereign models
 
-Kinikilala ng WoM ang privacy bilang isang pangunahing karapatang pantao at binibigyang kapangyarihan ang mga gumagamit na pagmamay-ari ng kanilang data.
+The WoM recognizes privacy as a fundamental human right and empowers users to own their data.
 
-Ang aming diskarte ay batay sa desentralisado at mga prinsipyo ng pagkakakilanlan sa sarili, na nagpapahintulot sa mga gumagamit na kontrolin sa anumang oras ng kung anong impormasyon na nais nilang isapubliko, ibahagi sa isang pinigilan na grupo, o panatilihing pribado.
+Our approach is based on decentralized and self-sovereign identity principles, allowing users to be in control at any time of what information they want to publicize, share with a restricted group, or keep private.
 
-Ang aktibidad at pakikipag-ugnayan ng gumagamit sa WoM ay palaging naka-link sa isang gawa. Ang Xeed ay ang virtual persona ng isang gumagamit sa isang gawa. Hindi nangangailangan ng Xeed ang anumang KYC, ito ay nagpapahayag ng sarili, ngunit maaari nating isipin na isipin ang mga third-party na kumpanya na nagbibigay ng serbisyong ito.
+User's activity and engagement in the WoM is always linked to a Deed. A Xeed is the virtual persona of a user in a Deed. Xeed does not require any KYC, it is self-declaring, but we could conceivably imagine third-party firms providing this service.
 
-## 4.2. Mga badge at kredensyal
+## 4.2. Badges and credentials
 
-Ang mga badge at Kredensyal ay ibinibigay sa mga gumagamit bilang isang bahagi ng kanilang pakikilahok sa isang gawa. Maaaring i-download ng may-ari ang mga ito bilang W3C Verifiable Credentials < 0 > 1 < / 1 > / 0 < > 2 < > 3 < / >. Ang mga VC na iyon ay patunay ng kaalaman / kaalaman na napatunayan ng samahan na naglalabas nito.
+Badges and Credentials are given to users as a part of their participation in a Deed. The holder may download them as W3C Verifiable Credentials[^7][^8] (aka VCs) and store them in his wallet. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
 
-Sa mundo ngayon, mahirap patunayan ang isang kasanayan bago. Kapag inanunsyo ng mga tao ang kanilang sarili sa mga network, umaasa sila sa kanilang mga tagapamahala upang mabigyan sila ng isang rekomendasyon. Inaasahan ng huli ang ilang mabuting kalooban sa bahagi ng manager ngunit hindi kinakailangang ituring bilang patunay ng hinaharap na employer.
+In today’s world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they count on their managers to give them a recommendation. The latter supposes certain goodwill on the part of the manager but is not necessarily treated as proof by the future employer.
 
-Ang Work Metaverse ay nagbibigay ng isang mas malinaw at hindi mababago na paraan para makuha ng mga tao at ipakita ang kanilang mga kakayahan.
+The WoM provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
 
-Ang mga badge ay ginagamit upang kumatawan sa mga nagawa na ginawa sa loob ng isang gawa. Matapos makumpleto ang isang hanay ng mga layunin o hamon, bibigyan ang mga gumagamit ng mga puntos. Ang mga badge ay maaaring mai-lock sa pamamagitan ng pag-iipon ng ilang mga halaga ng mga puntos sa mga tiyak na kategorya.
+Badges are used to represent accomplishments made within a Deed. After completing a set of objectives or challenges, users will be awarded points. Badges can be unlocked by accumulating certain amounts of points in specific categories.
 
-Kapag ang mga badge ay nai-download ng gumagamit, posible na isama ang bilang ng mga puntos at ang kanyang ranggo sa Deed para sa tiyak na tagumpay na ito.
+When badges are downloaded by the user, it is possible to include the number of points and his rank in the Deed for this specific accomplishment.
 
-Ang mga kredensyal ay mas nababaluktot kaysa sa mga Badge; maaari silang maging isang rekomendasyon mula sa isang kapantay, na nagpapahiwatig ng mga taon ng kadalubhasaan, isang pagsasanay o pagkumpleto ng pagsusulit, o pakikipag-ugnay sa Deed. Ang mga ito ay nilagdaan ng Deed at maaaring samahan ng isang pirma ng isang gumagamit ng peer.
+Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the Deed. These are signed by the Deed and can be accompanied by a signature by a peer user.
 
-## 4.3. Pagkakilanlan ng digital na trabaho
+## 4.3. Digital work identity
 
-Ang lahat ng nasa itaas ay nag-aambag sa pagbuo ng napatunayan na digital skillset na maaaring mapanatili at magamit ng gumagamit kapag nagbabago ng mga trabaho o freelancing. Ito ay magiging mas mapagkakatiwalaan kaysa sa tradisyonal na mga solusyon dahil nakasalalay ito hindi lamang sa isang indibidwal ngunit isang buong pamayanan upang patunayan ito.
+All of the above contributes to forming proven digital skillset that can be kept and used by the user when changing jobs or freelancing. It would be more trustworthy than traditional solutions as it relies on not just one individual but a full community to prove it.
 
-Tulad ng kanyang Meeds wallet, panatilihin ng gumagamit ang kanyang Xeed, Badges, at Credentials na nakakabit dito sa kanyang pitaka ng pagkakakilanlan kapag lumipat mula sa isang Deed papunta sa isa pa, mula sa isang lungsod patungo sa isa pa, kahit saan sa pamamagitan ng WoM.
+Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Deed to another, from one city to another, anywhere through the WoM.
 
-Ang gumagamit ay maaaring ibahagi ang kanyang Xeed, Badges, at Credentials sa iba pang mga Deeds upang i-highlight ang kanyang karanasan, pati na rin sa mga recruiter o anumang iba pang mga serbisyo na itinuturing niyang kawili-wili.
+The user will be able to share his Xeed, Badges, and Credentials with other Deeds to highlight his experience, as well as with recruiters or any other services that he deems interesting.
 
-Ang isang gumagamit ay maaaring magkaroon ng isa o maraming mga digital na pagkakakilanlan sa WoM. Maaari niyang iharap ang mga ito sa isang pinag-isang paraan gamit ang napatunayan na mga pagtatanghal.
+A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations.
 
-Taliwas sa web 2, ang gumagamit ay nasa buong pagmamay-ari ng kanyang desentralisadong pagkakakilanlan. Ang huli ay maaaring magpakita ng ( at patunayan ang) ang mga gawa na kanyang nakilahok, ang kanyang napatunayan na mga kasanayan, ang kanyang inaangkin na mga kasanayan, iba pang mga Xeeds ( mga tao) na kanyang pinagtatrabahuhan, ang kanyang digital na representasyon ng kanyang sarili... Sa isang paraan ng mapagkakatiwalaang LinkedIn 3.0.
+Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... In a manner of trustworthy LinkedIn 3.0.
 
-Ang gumagamit ay maaaring pumili kung o hindi upang ipakita ang anumang bagay, kung anong impormasyon ang ibibigay, at kung aling mga pagkakakilanlan na gagamitin para sa bawat posisyon. Ang nilalaman ( napatunayan na kasanayan, nakaraang mga gawa, atbp ) ay tamper proof at sa gayon ay hindi mababago. Ang anumang pagkakakilanlan ay kailangang mabuo sa paglipas ng panahon.
+The user will be able to select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Deeds, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time.
 
-## 4.4. Patas na pamilihan sa trabaho
+## 4.4. Fair work marketplace
 
-Sa loob ng paradigma na ito sa hinaharap na merkado ng trabaho ay nagbibigay-daan sa mga gumagamit na malayang gumalaw at maglaan / ibenta ang kanilang pakikipag-ugnay sa mga Deeds – tulad ng ginagawa nila sa pisikal na mundo sa pamamagitan ng pagbabago ng mga employer. Gayunpaman, sa WoM ang kanilang pakikipag-ugnay ay makikita, sinusukat at gagantimpalaan sa isang patas na paraan. Sa pamamagitan ng paglipat sa pagitan ng mga system na sumusunod sa isang katulad na lohika, mas mauunawaan nila ang mga patakaran ng laro at hahatulan ang mga employer nang medyo – damo ay hindi palaging greener sa ibang lugar. Ang mga gumagamit ay maaaring pumili kung aling Deed ang nagbibigay ng mas mahusay na mga kondisyon ng gantimpala ng pakikipag-ugnay, ay kabilang sa isang mas kaakit-akit na lungsod, atbp.
+Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Deeds – as they do in the physical world by changing employers. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to choose which Deed provides better engagement reward conditions, belongs to a more attractive city, etc.
 
-Sa kanilang pagtatapos, ang mga Deeds ’ may hawak / renters ay maaaring maghanap para sa mga kaugnay na kasanayan gamit ang WoM network ng mga digital na pagkakakilanlan sa trabaho ( na nagpasya ang mga gumagamit na ibunyag ang ). Magagawa nilang mapagkukunan nang mas epektibo ang mga kasanayan, batay sa napatunayan at detalyadong impormasyon sa kasaysayan ng trabaho, kasanayan sa trabaho at antas ng pakikipag-ugnay ng gumagamit.
+On their end, the Deeds’ holders/renters can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
 
-## 4.5. Tangible at transparent na pagkilala
+## 4.5. Tangible and transparent recognition
 
-Ngayon, ang mga detalye sa kabayaran at mga bonus ay hindi nakakubli sa maraming mga lugar ng trabaho. Samakatuwid, mahirap para sa isang tao na ihambing ang kanyang mga kundisyon sa iba at makakuha ng isang pakiramdam ng isang patas at walang pinapanigan na paggamot. Ang mga empleyado ay nakakaranas ng maraming mga pagkabigo sa itaas.
+Today, details on compensation and bonuses are obscure in many workplaces. Therefore, it is difficult for a person to compare his conditions to that of another and get a sense of a fair and unbiased treatment. Employees experience a lot of frustrations with the above.
 
-Ipinakilala ng WoM ang isang layunin na paraan upang makilala ang mga nakamit at gantimpalaan ang mga ito.
+The WoM introduces an objective way to recognize achievements and reward them.
 
-Ang mekanismo ng pagkilala at gantimpala ng mekanismo ay malinaw at naaangkop nang patas sa lahat ng mga gumagamit, kasunod ng parehong tahasang mga patakaran, nagpasya nang maaga at nakahanay sa mga layunin ng Deed.
+Engagement recognition and reward mechanism is transparent and applies fairly to all users, following the same explicit rules, decided in advance and aligned with the Deed’s goals.
 
-Ang mga pitaka ay indibidwal at batay sa blockchain – kapag ang gumagamit ay tumatanggap ng gantimpala o kumita ng isang badge, hindi ito maibabalik o mabura.
+Wallets are individual and blockchain based – when the user receives a reward or earns a badge, it cannot be taken back or erased.
 
-## 4.6. Pag-access sa Web 3.0, cryptoeconomy at DEFI services
+## 4.6. Access to Web 3.0, cryptoeconomy and DEFI services
 
-Tulad ng tinalakay sa itaas, binubuksan ng Work Metaverse ang mundo ng cryptocurrency at desentralisadong mga serbisyo sa web sa karaniwang lahat – isang napakalaking populasyon ng mga gumagamit, kahit na posibleng hindi nauugnay sa digital na larangan.
+As discussed above, the WoM opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
 
-Sa katunayan, ang anumang pakikipag-ugnayan sa trabaho ay maaaring potensyal na mai-tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. Bilang isang kinahinatnan, ang potensyal na higit pa at maraming mga signal ay maaaring makuha at masuri upang matukoy ang pakikipag-ugnayan ng mga di-digital na propesyon. Ang mga hamon ay nagbibigay ng isang handa na pumunta paraan upang mai-tokenize ito sa pamamagitan ng kumakatawan sa mga nakamit sa pisikal na mundo.
+Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
 
-Ang sinumang gumagamit ay maaaring makakuha ng Meeds at gumamit ng isang Meeds wallet upang makakuha ng access sa mga bagong serbisyo sa edad nang walang anumang espesyal na pagsasanay.
+Any user can get Meeds and use a Meeds wallet to get access to new age services without any special training.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Verifiable Credentials Data Model

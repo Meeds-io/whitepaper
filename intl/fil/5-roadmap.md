@@ -1,86 +1,86 @@
-# 5. Ultimate layunin - desentralisadong web para sa lahat
+# 5. The WoM for ALL – vision summary and milestones
 
-## 5.1. Ultimate layunin - desentralisadong web para sa lahat
+## 5.1. Ultimate goal - decentralized web for everyone
 
-Sa huli, ang WoM ay isang desentralisadong web mundo para sa lahat – bawat tao at bawat samahan.
+In the end, the WoM is a decentralized web world for everyone – every person and every organization.
 
-Ito ay mapapaligiran ng mga gumagamit, na kumikilos sa pamamagitan ng kanilang mga digital na pagkakakilanlan < 0 > Xeeds < / 0 > at pag-access sa mundo sa pamamagitan ng kanilang mga metamasks, para sa crypto-savvies, o pag-login / password para sa mga bagong dating. Ilalaan ng mga tao ang kanilang pakikipag-ugnayan at makakakuha ng gantimpala sa isang patas, transparent at desentralisadong paraan. Makakakuha sila ng access sa desentralisadong mundo at ang cryptoworld ng bukas sa isang madali at pamilyar na paraan - makakakuha sila ng mga simpleng tool upang magamit ang kanilang mga token sa kanilang buhay o mamuhunan sa kanila para sa kanilang kinabukasan.
+It will be populated by users, acting through their digital identities **Xeeds** and accessing the world through their metamasks, for crypto-savvies, or login/password for the newbies. People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
 
-Mga Organisasyon - < 0 > Mga Binhi < / 0 > ay maaaring mapagkukunan ng mga talento, pag-browse sa WoM, para sa tamang napatunayan na mga kasanayan. Makakakuha sila ng gantimpala para sa kanilang pakikilahok sa metaverse, sa pamamagitan ng minting token sa pamamagitan ng kanilang mga gumagamit ng pakikipag-ugnay ( mintium model ). Ngunit higit sa lahat, makikinabang sila mula sa isang mas mataas na pakikipag-ugnayan at katapatan mula sa kanilang mga gumagamit.
+Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the WoM, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
 
-Ang WoM ay magkakaroon ng sariling pera < 0 > Mga Binhi < / 0 > – na doon ay gagastos sa mga tindahan, magbalik sa ibang pera, mamuhunan para sa pagbabalik sa pamumuhunan, upa o bumili atbp. Ang WoM ay mapadali ang iba pang pamamahagi ng mga token at makilahok sa pangkalahatang ekosistema ng crypto.
+The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
 
-Bilang isang larawan ay nagkakahalaga ng isang libong mga salita, narito ang isang diagram na naglalarawan ng daloy ng WoM at Meeds
+As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
 
-![Ang daloy ng WoM at Meeds](en/img/wom-flows.png)
+![WoM and Meeds flows](en/img/wom-flows.png)
 
-Ang pagpapanatili ng mundo at pagpapanatili sa katagalan ay sinisiguro sa pamamagitan ng mga buwis na ibinahagi sa pagitan ng asosasyon ng Meeds at ng mga Lungsod.
+The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
 
-## 5.2. Ano ang nasa loob nito para sa mga naunang adopter
+## 5.2. What’s in it for early adopters
 
-Malinaw, ang mga maagang nag-aampon ay makakakuha ng malaking pakinabang sa mga huling comers.
+Obviously, early adopters would get considerable advantages over the late comers.
 
-Sa partikular, ang WoM ay gantimpala ang pangmatagalang pamumuhunan sa taludtod – iyon ang pagtubos ng ari-arian ( Mga Binhi ). Ang orihinal na may-ari ng Deed ay nabayaran sa pamamagitan ng pakikipag-ugnay sa minting ( aktibong paggamit ), sa pamamagitan ng passive income ( pag-upa ) at makakuha ng isang buhay na 1% sa anumang nagbebenta ng transaksyon ng Deed ( sa bawat pagbabago ng pagmamay-ari, ang orihinal na tagapagtubos ay nakakakuha ng bayad sa transaksyon ).
+In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
 
-Sa pamamagitan ng paniniwala sa proyekto, ang pakikilahok sa mga pool ng pagkatubig, staking Meeds, pagtubos sa kanila laban sa Deeds ... maagang namumuhunan sa lahat ng laki ay mag-mint ng karagdagang mga token. Makakakuha din sila ng pinakaunang mga karapatan sa pagboto at makakatulong sa paghubog ng metaverse.
+By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the WoM.
 
-Ang mga samahan na nakukuha ngunit lalo na ang paggamit ng Deeds upang makisali at gantimpalaan ang kanilang mga empleyado ay makakakuha ng bayad sa minted Meeds. Ang patas na gagampanan nila, mas makakakuha sila. Ang mga naunang nag-aampon ay maiuugnay sa mga unang makasaysayang lungsod at makikilala bilang mga tagabuo sa susunod.
+Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
 
-Ang diagram sa ibaba ay kumakatawan sa isang halimbawa ng diskarte sa pamumuhunan ng Meeds para sa mga may hawak ng kapital :
+The diagram below represents an example of the Meeds investment strategy for capital holders :
 
-![Nangangailangan ng diskarte sa pamumuhunan para sa mga may hawak ng kapital](en/img/invest-capital.png)
+![Meeds investment strategy for capital holders](en/img/invest-capital.png)
 
-Siyempre ang mga samahan ay makilahok sa mga pool ng pagkatubig, ngunit sumali rin sa komunidad ng mga tagabuo at makakuha ng karagdagang mga gantimpala sa pakikipag-ugnay doon.
+Organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
 
-Ang diagram sa ibaba ay kumakatawan sa isang halimbawa ng diskarte sa pamumuhunan ng Meeds para sa mga may hawak ng trabaho :
+The diagram below represents an example of the Meeds investment strategy for work holders :
 
-![Nangangailangan ng diskarte sa pamumuhunan para sa mga may hawak ng trabaho](en/img/invest-work.png)
+![Meeds investment strategy for work holders](en/img/invest-work.png)
 
-## 5.3. Ang paglulunsad
+## 5.3. The launch
 
-Ang opisyal na petsa ng paglulunsad ay itinakda para sa **Mayo 1st, 2022** – ang International Workers Day, na ipinagdiriwang sa maraming mga bansa.
+The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
 
-Sa oras na iyon, mayroon nang token na Meed. Posible na makuha ito at ang mga pool ng pagkatubig ay bukas para sa pakikilahok, sa mga network ng Polygon at Ethereum.
+At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
 
-Ang mga miyembro ng samahan ng Three Meeds ay gumagamit ng system sa loob upang makisali at gantimpalaan ang kanilang mga gumagamit at pagbutihin ang software ng Meeds.
+Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
 
-Magagamit ang Investor app sa Ethereum Mainnet. Sa paglulunsad, kasama nito ang staking, gantimpala ng pagkatubig, mga puntos na akumulasyon at pagtubos ng mga gawa.
+The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
 
-Ang pamayanan ng mga Tagabuo ay tumatakbo at tumatakbo sa software ng Meeds, bukas sa sinumang nais sumali, subukan at lumahok. Posible na mag-login kasama ang Metamask.
+The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
 
-Ang papel na ito ay nai-publish sa araw ng paglulunsad. Kasunod ng paglulunsad, ang token ay ibababa sa maraming tao sa buong pamayanan ng crypto.
+This paper was published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
 
-## 5.4. Ang pamayanan ng mga tagabuo
+## 5.4. The builders community
 
-Inilunsad namin ang komunidad ng mga tagabuo sa software ng Meeds at sa Discord. Inaanyayahan ng komunidad ang sinumang nais makilahok sa pagbuo ng Work Metaverse. Gantimpalaan ng samahan ang mga tagabuo ng pakikipag-ugnayan sa Meeds, mula sa badyet sa marketing nito.
+We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the WoM. The association would reward builders engagement with Meeds, from its marketing budget.
 
-Plano rin ng asosasyon na maibahagi ang ilang mga Meeds upang makuha ang ( redeem) isang gawa para sa pamayanan ng mga tagabuo. Pagkatapos ay i-mint ng komunidad ang mga Meeds sa pamamagitan ng pakikipag-ugnay, sa pamamagitan ng modelo ng mintium, at ipamahagi ang mga ito sa mga gumagamit na nakikibahagi.
+The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
 
-## 5.5. Roadmap at milestones
+## 5.5. Roadmap and milestones
 
-Susundan ng aming roadmap ang priority order sa ibaba:
+Our roadmap would follow the priority order below:
 
-- Ang index ng pakikipag-ugnayan at minting sa pamamagitan ng pakikipag-ugnayan
-- Paganahin ang pag-upa ng Deeds
-- Paglikha ng Xeed
-- Pagpapabuti ng mga badge at pagpapaunlad ng kredensyal
-- Mga serbisyo ng DeFi – sa pitaka, pakikipagtulungan ng mga credit card
+- Engagement index and minting through engagement
+- Enable Deeds renting
+- Xeed creation
+- Badges improvement and credentials development
+- DeFi services – in the wallet, credit cards partnership
 
-Kami ay umaasa sa mga unang bahagi ng mga adopter mula sa mga DAO at mga kumpanya ng tech-savvy sa yugto ng gusali. Dapat din tayong magkaroon ng ilang mga maagang pag-aampon mula sa mga tradisyunal na kumpanya na nakakakuha ng agarang halaga mula sa metaverse byproviding may-katuturang mga programa sa pakikipag-ugnay sa kanilang mga tao, sa tuktok ng kanilang kasalukuyang tradisyonal na mga plano sa kabayaran.
+We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the WoM by providing relevant engagement programs to their people, on top of their current traditional compensation plans.
 
-Ang mga meeds minting ay sumasaklaw sa isang 20 taon. Sa oras na iyon, nais naming makamit ang pagbuo ng isang mature na metaverse, na kumalat sa maraming mga organisasyon at maraming mga gumagamit sa buong mundo.
+Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature ecosystem, having spread to many organizations and many users globally.
 
-## 5.6. Ano ang magagawa mo ngayon
+## 5.6. What you can do right now
 
-Ano ang magagawa mo ngayon upang lumahok?
+What can you do right now to participate?
 
-- Ikalat ang papel na ito sa mga magiging interesado
-- Bisitahin ang aming website [ meeds.io ](https://www.meeds.io/)
-- Suriin ang [ Investor app ](https://meeds.io/investors)
-- Mag-ambag sa umiiral na mga pool ng pagkatubig dito :
+- Spread this paper to those who would be interested
+- Visit our website [meeds.io](https://www.meeds.io/)
+- Check out the [Investor app](https://meeds.io/investors)
+- Contribute to the existing liquidity pools here :
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
-- Sumali sa aming [ Discord ](https://discord.com/invite/hAuADSq3) pamayanan na dapat itago sa loop
-- Sumali sa aming [ Mga Tagabuo ](https://meeds.io/builders) pamayanan upang subukan ang software ng Meeds, makisali at kumita ng ilang mga gantimpala sa pakikipag-ugnay sa Meeds
+- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
+- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
 
-**\*\*\* Ang Work Metaverse - hayaan nating itayo ang nakatutuwang mundo sa hinaharap. \*\*\***
+**\*\*\* The WoM - let’s build this crazy future world together. \*\*\***
