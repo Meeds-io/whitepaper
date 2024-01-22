@@ -1,6 +1,6 @@
-# 3. Có thể dịch sang tiếng Việt là "Token Meeds - đồng tiền của Thế giới ảo Work Metaverse
+# 3. Mã thông báo Meeds – đơn vị tiền tệ của WoM
 
-Có thể dịch sang tiếng Việt là "Thế giới ảo Work Metaverse được hỗ trợ bởi đồng tiền Meeds (MEED) của nó. Có thể dịch sang tiếng Việt là "Meeds được sử dụng để thưởng cho người dùng (qua các chương trình tương tác), mua hàng tại cửa hàng, mua Giấy tờ tài sản, đầu tư để có lợi nhuận tài chính v. v.
+WoM được hỗ trợ bởi loại tiền tệ của nó – mã thông báo Meeds (MEED). Có thể dịch sang tiếng Việt là "Meeds được sử dụng để thưởng cho người dùng (qua các chương trình tương tác), mua hàng tại cửa hàng, mua Giấy tờ tài sản, đầu tư để có lợi nhuận tài chính v. v.
 
 ## 3.1. Tokenomics
 
@@ -94,7 +94,7 @@ Người nắm giữ token Meeds cần gạch đặt token để bỏ phiếu ch
 
 ## 3.7. Các dịch vụ người dùng tài chính phi tập trung (DeFi)
 
-Thế giới làm việc Metaverse sẽ giới thiệu thế giới blockchain đến với nhiều người không sử dụng nó hiện nay.
+WoM sẽ giới thiệu thế giới Chuỗi khối cho nhiều người hiện chưa sử dụng nó.
 
 Thật vậy, bất kỳ công việc nào (có hoặc không có liên quan đến công nghệ số) đều có thể trở thành trò chơi và bất kỳ tương tác nào cũng có thể được thưởng bằng Meeds. Meeds được cung cấp cho người dùng thông qua một ví dễ sử dụng dựa trên blockchain, giúp "trừu tượng hóa" bất kỳ phức tạp nào của thế giới tiền điện tử đối với người dùng trung bình.
 

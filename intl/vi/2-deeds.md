@@ -1,5 +1,5 @@
 
-# 2. Hành động NFT - Công việc Tổ chức Metaverse
+# 2. Chứng thư NFT - Tổ chức WoM
 
 ## 2.1. NFT - Thừa kế được xác định
 

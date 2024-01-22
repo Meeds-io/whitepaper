@@ -1,4 +1,4 @@
-# 4. Thẻ số này có thể được cung cấp thông qua đối tác Visa và sử dụng một dòng tín dụng trong Usdc, bảo đảm bởi Meeds được stake
+# 4. Xeeds - WoM Cá nhân / người dùng
 
 ## 4.1. Thẻ này cũng có thể được sử dụng bởi các tổ chức để tài trợ cho ví của nhân viên, nhằm quản lý các khoản phúc lợi nhân viên như nhà hàng, phương tiện giao thông và bất kỳ loại chi phí nào
 
@@ -14,7 +14,7 @@ Badges và Credentials được cấp cho người dùng là một phần của 
 
 Trong thế giới hiện đại, rất khó để chứng minh một kỹ năng trước đó. Khi mọi người quảng cáo chính mình trên mạng, họ tính tới quản lý của mình để cung cấp cho họ một đề nghị. Cải thiện sau đó giả định một sự tốt đẹp của quản lý nhưng không cần thiết phải được coi là bằng chứng bởi nhà tuyển dụng tương lai.
 
-Metaverse công việc cung cấp một cách trong suốt và không thay đổi hơn cho người dùng để nhận được và chứng minh khả năng của họ.
+WoM cung cấp một phương tiện minh bạch hơn và bất biến hơn để mọi người tiếp thu và thể hiện khả năng của mình.
 
 Huy hiệu được sử dụng để biểu thị những thành tựu đã đạt được trong một nhiệm vụ. Sau khi hoàn thành một tập hợp các mục tiêu hoặc thách thức, người dùng sẽ được trao điểm. Huy hiệu có thể mở bằng cách tích lũy một số điểm nhất định trong các danh mục cụ thể.
 
@@ -54,7 +54,7 @@ Wallets là cá nhân và dựa trên blockchain - khi người dùng nhận đ�
 
 ## 4.6. Truy cập đến Web 3.0, kinh tế mật mã và các dịch vụ DEFI
 
-Người dùng sẽ có thể chọn Deed nào cung cấp điều kiện thù lao hấp dẫn hơn, thuộc thành phố hấp dẫn hơn, vv.
+Như đã thảo luận ở trên, WoM mở ra thế giới tiền điện tử và các dịch vụ web phi tập trung cho tất cả mọi người – một lượng người dùng rất lớn, thậm chí có thể không liên quan đến lĩnh vực kỹ thuật số.
 
 Thực sự, bất kỳ quyền tham gia công việc nào cũng có thể được mã hóa thành token. Trên thực tế, thế giới đang ngày càng trở nên số hóa hơn với các xu hướng như 5G, iot, thiết bị đeo và nhiều hơn nữa. Do đó, tiềm năng là có thể bắt giữ và phân tích được nhiều tín hiệu hơn để tạo mã hóa sự tham gia của các nghề không kỹ thuật số. Thử thách cung cấp một cách sẵn sàng để mã hóa bằng cách đại diện cho những thành tựu trong thế giới vật lý.
 
