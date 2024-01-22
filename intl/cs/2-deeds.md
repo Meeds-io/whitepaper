@@ -1,5 +1,5 @@
 
-# 2. Deeds NFT - Pracovní metaverse organizace
+# 2. Deeds NFT - organizace WoM
 
 ## 2.1. Identifikační kód právnické osoby (LEI)
 

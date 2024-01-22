@@ -1,12 +1,12 @@
-# 3. Meeds token - pracovní metaverse měna
+# 3. Meeds token – měna WoM
 
-Metaverse práce je poháněna jeho měnou – žetonem Meeds (MEED). Meeds are used to odměňovat uživatele (prostřednictvím obchodních programů), nakupovat v obchodech, get Deeds, get Finanční výnosy z investic atd.
+WoM je poháněn svou měnou – tokenem Meeds (MEED). Meeds are used to odměňovat uživatele (prostřednictvím obchodních programů), nakupovat v obchodech, get Deeds, get Finanční výnosy z investic atd.
 
 ## 3.1. Tokenomika
 
 Mléko **je maximální zásoba omezena na 100 milionů žetonů**, které jsou postupně vytěžovány. **Měření jsou vytěžena rychlostí 10 MEED za minutu**. Plný těžební horizont je tedy blízko 20 let (asi asi 10*60*24*365 = 5M$ Meeds se vytěží za rok).
 
-Dosud bylo předem vytěženo 5 milionů Meeds (5% celkové dodávky). Z toho 4,5M bylo uzavřeno ve smlouvě o trezoru s lineárním pozůstatkem na dobu čtyř let. Předem vymyšlená částka byla použita především k získání softwarového IP, k zaplacení zákonných poplatků za emise a hostingových služeb.
+Dosud bylo předem vytěženo 5 milionů Meeds (5% celkové dodávky). Z toho 4,5M bylo uzavřeno ve smlouvě o trezoru s lineárním pozůstatkem na dobu čtyř let. Předem vyminutá částka byla použita především na pořízení softwarového duševního vlastnictví, úhradu právních poplatků a hostingových služeb společnosti emise tokenů.
 
 Zbytek je součástí __Meeds DAO fondů__ a budou použity na úhradu služeb a na některé pobídky k zahájení provozu, jako jsou výsadky a doporučovací kampaně.
 
@@ -94,7 +94,7 @@ Držitelé tokenů Meeds musí vsadit tokeny, aby mohli hlasovat o rozhodnutích
 
 ## 3.7. Uživatelské služby decentralizovaného financování (DeFi)
 
-Metaverse práce představí svět blockchainu mnoha lidem, kteří jej dnes nepoužívají.
+WoM představí blockchainový svět mnoha lidem, kteří jej dnes nepoužívají.
 
 Jakoukoliv práci (ať už digitální či nikoli) lze hru hrůzit a jakoukoli angažovanost – odměnu Meeds. Měření jsou uživatelům k dispozici prostřednictvím snadno použitelného bazálu blockchainu, peněženka, která „abstraktní“ složitost světa krypto průměrnému uživateli.
 
