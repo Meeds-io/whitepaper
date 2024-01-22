@@ -1,4 +1,4 @@
-# 4. Xeeds - pracovní metaverse jedinci / uživatelé
+# 4. Xeeds - WoM Jednotlivci / uživatelé
 
 ## 4.1. Decentralizované a samosuverénní modely
 
@@ -14,7 +14,7 @@ Odznaky a přihlašovací údaje jsou poskytnuty uživatelům jako součást jej
 
 V dnešním světě je těžké předem prokázat dovednost. Když se lidé propagují na sítích, spoléhají na své manažery, že jim předloží doporučení. To předpokládá jistou dobrou vůli ze strany manažera, ale budoucí zaměstnavatel ji nemusí považovat za důkaz.
 
-Metaverse práce poskytuje transparentnější a neměnnější prostředky pro získávání a prokazování svých schopností.
+WoM poskytuje transparentnější a neměnnější prostředek pro lidi, jak získat a prokázat své schopnosti.
 
 Odznaky se používají k reprezentaci úspěchů provedených v rámci listu. Po dokončení souboru cílů nebo výzev budou uživatelům přiděleny body. Odznaky lze odemknout nahromaděním určitého množství bodů v určitých kategoriích.
 
@@ -54,7 +54,7 @@ Peněženky jsou individuální a založené na blockchainu - když uživatel ob
 
 ## 4.6. Přístup ke službám Web 3.0, šifrování a DEFI
 
-Jak bylo uvedeno výše, Pracovní Metaverse otevírá svět kryptoměn a decentralizovaných webových služeb v podstatě každému - velmi rozsáhlé populaci uživatelů, a to i případně nesouvisejících s digitální oblastí.
+Jak již bylo zmíněno výše, WoM otevírá svět kryptoměn a decentralizovaných webových služeb v podstatě všem – velmi velké populaci uživatelů, dokonce možná nesouvisejících s digitální oblastí.
 
 Jakákoliv pracovní angažovanost může být skutečně sklouznuta. Ve skutečnosti je svět stále digitálnější s trendy, jako je 5G, jot, nositelné a tak dále. V důsledku toho by mohlo být zachyceno a analyzováno více signálů s cílem přiblížit zapojení nedigitálních profesí. Výzvy jsou připraveny jít cestu k jeho symbolizaci reprezentací úspěchů ve fyzickém světě.
 
