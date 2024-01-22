@@ -1,4 +1,4 @@
-# 5. Il Work Metaverse per TUTTI - sintesi della visione e pietre miliari
+# 5. The WoM for ALL – sintesi della visione e tappe fondamentali
 
 ## 5.1. Obiettivo finale - web decentralizzato per tutti
 
@@ -6,7 +6,7 @@ Alla fine, il WoM è un mondo web decentrato per tutti - ogni persona e ogni org
 
 Sarà popolato dagli utenti che agiscono attraverso le loro identità digitali **Xeeds** e accedono al mondo attraverso i loro metamask, per gli esperti di criptovalute o tramite login/password per i principianti. Le persone potrebbero allocare il loro impegno e riceverebbero premiate in modo equo, trasparente e decentralizzato. Avrebbero accesso al mondo decentralizzato e al mondo crittografico di domani in modo semplice e familiare - avrebbero strumenti semplici per utilizzare i loro gettoni nella loro vita o investirli per il loro futuro.
 
-Organizzazioni - **Deeds** sarebbe in grado di reperire talenti, sfogliando la WoM, per trovare le giuste competenze comprovate. Verrebbero ricompensati per la loro partecipazione al metaverso, coniando gettoni grazie all'impegno degli utenti (modello mintium). Ma soprattutto, beneficerebbero di un maggiore coinvolgimento e di una maggiore fedeltà da parte dei loro utenti.
+Organizzazioni - **Deeds** sarebbe in grado di reperire talenti, sfogliando la WoM, per trovare le giuste competenze comprovate. Verrebbero ricompensati per la loro partecipazione al WoM, coniando token attraverso il coinvolgimento dei loro utenti (modello mintium). Ma soprattutto, beneficerebbero di un maggiore coinvolgimento e di una maggiore fedeltà da parte dei loro utenti.
 
 La WoM avrebbe la sua propria valuta **Meeds** - sarebbe lì per spendere nei negozi, convertire in un'altra valuta, investire per un ritorno sull'investimento, affittare o acquistare ecc. La WoM faciliterebbe anche la distribuzione di altri gettoni e parteciperebbe all'ecosistema crittografico complessivo.
 
@@ -22,7 +22,7 @@ Ovviamente, i primi adottanti avrebbero notevoli vantaggi rispetto ai tardivi.
 
 In particolare, la WoM premia l'investimento a lungo termine nel versetto, ossia il riscatto della proprietà (Deeds). Il proprietario originale dell'Atto viene compensato attraverso il conio di impegni (uso attivo), attraverso il reddito passivo (affitto) e riceve un 1% a vita su qualsiasi transazione di vendita dell'Atto (a ogni cambio di proprietà, il riscattatore originale riceve una commissione sulla transazione).
 
-Credendo nel progetto, partecipando ai pool di liquidità, puntando i Meed, riscattandoli con i Deed... i primi investitori di tutte le dimensioni avrebbero guadagnato altri gettoni. Avrebbero anche i primi diritti di voto e contribuirebbero a plasmare il metaverso.
+Credendo nel progetto, partecipando ai pool di liquidità, puntando i Meed, riscattandoli con i Deed... i primi investitori di tutte le dimensioni avrebbero guadagnato altri gettoni. Otterrebbero anche i primi diritti di voto e contribuirebbero a plasmare il WoM.
 
 Le organizzazioni che acquistano, ma soprattutto utilizzano i Deeds per coinvolgere e premiare i loro dipendenti verrebbero compensate con Meeds coniati. Quanto più leale sarà il loro gioco, tanto più otterranno. Gli adottanti più precoci sarebbero associati alle prime città storiche e sarebbero identificati come i costruttori in seguito.
 
@@ -52,7 +52,7 @@ Questo documento è stato pubblicato il giorno del lancio. Dopo il lancio, il ge
 
 ## 5.4. La comunità dei costruttori
 
-Stiamo lanciando la comunità dei costruttori sul software Meeds e su Discord. La comunità accoglie chiunque voglia partecipare alla costruzione del Work Metaverse. L'associazione ricompenserà l'impegno dei costruttori con Meeds, attingendo al proprio bilancio di marketing.
+Stiamo lanciando la comunità dei costruttori sul software Meeds e su Discord. La comunità accoglie chiunque voglia prendere parte alla costruzione del WoM. L'associazione ricompenserà l'impegno dei costruttori con Meeds, attingendo al proprio bilancio di marketing.
 
 L'associazione prevede anche di puntare alcuni Meeds per acquisire (rimborsare) un'azione per la comunità dei costruttori. La comunità quindi conierà Meeds tramite impegno, attraverso il modello mintium, e li distribuirà agli utenti impegnati.
 
@@ -66,9 +66,9 @@ La nostra tabella di marcia seguirà l'ordine di priorità qui sotto:
 - Miglioramento dei badge e sviluppo delle credenziali
 - Servizi DeFi - nel portafoglio, partnership con le carte di credito
 
-Contiamo sui primi adottanti dei DAO e sulle aziende esperte di tecnologia durante la fase di costruzione. Dovremmo anche avere alcuni primi adottanti da parte di aziende tradizionali che ottengono un valore immediato dal metaverse fornendo programmi di coinvolgimento rilevanti ai loro dipendenti, in aggiunta ai loro attuali piani di retribuzione tradizionali.
+Contiamo sui primi adottanti dei DAO e sulle aziende esperte di tecnologia durante la fase di costruzione. Dovremmo anche avere alcuni early adopter provenienti da aziende tradizionali che ottengono valore immediato dal WoM fornendo programmi di coinvolgimento rilevanti alle loro persone, oltre agli attuali piani di remunerazione tradizionali.
 
-La coniazione di Meeds copre un periodo di 20 anni. A quel punto, aspiriamo a costruire un metaverso maturo, che si sia diffuso in molte organizzazioni e molti utenti a livello globale.
+La coniazione di Meeds copre un periodo di 20 anni. A quel punto, aspiriamo a costruire un ecosistema maturo, diffuso in molte organizzazioni e molti utenti a livello globale.
 
 ## 5.6. Cosa potete fare adesso
 
@@ -83,4 +83,4 @@ Cosa puoi fare in questo momento per partecipare?
 - Unisciti alla nostra community [Discord](https://discord.com/invite/hAuADSq3) per rimanere nel ciclo
 - Unisciti alla nostra community [Builders](https://meeds.io/builders) per testare il software Meeds, impegnare e guadagnare alcuni premi d'impegno Meeds
 
-**\*\*\* Il Work Metaverse - costruiamo insieme questo mondo futuro pazzesco. \*\*\***
+**\*\*\* The WoM: costruiamo insieme questo folle mondo futuro. \*\*\***
