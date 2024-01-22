@@ -1,14 +1,14 @@
-# 3. Meeds token – the Work Metaverse currency
+# 3. Meeds token – the currency of the WoM
 
-Metaverse este alimentat de moneda sa – jetonul Meeds (MEED). Meed-urile sunt folosite pentru a recompensa utilizatorii (prin programe de angajament), cumpararea magazinelor, castigarea de castiguri, obtine randament financiar pe investitii etc.
+The WoM is powered by its currency – the Meeds (MEED) token. Meed-urile sunt folosite pentru a recompensa utilizatorii (prin programe de angajament), cumpararea magazinelor, castigarea de castiguri, obtine randament financiar pe investitii etc.
 
 ## 3.1. Tokenomics
 
 Sursa maximă **de Meeds este limitată la 100 de milioane de jetoane**, bătută progresiv. **Carnele sunt bătute la o rată de 10 MEED pe minut**. Prin urmare, orizontul de procesare este aproape de 20 de ani (deoarece în jur de 10 dolari*60*24*365 = 5 M$ cornei sunt bătuți pe an).
 
-5 milioane de seminţe (5% din totalul aprovizionării) au fost plantate până în prezent. Din care 4,5 M au fost blocate într-un contract de seif cu o calificare lineară de peste 4 ani. Suma cultivată anterior a fost utilizată în principal pentru a achiziționa programe de calculator IP, pentru a plăti taxele legale și serviciile de găzduire pentru emisiile simbolice.
+5 Million Meeds (5% of the total supply) were pre-minted initially. Din care 4,5 M au fost blocate într-un contract de seif cu o calificare lineară de peste 4 ani. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees, and host services.
 
-Restul face parte din __fondurile DAO pentru Meeds__ și vor fi utilizate pentru a plăti servicii, precum și unele stimulente de lansare cum ar fi airdrops și campanii de trimitere.
+The rest is part of the __Meeds DAO funds__ and will be used to pay for services and launch incentives such as airdrops and referral campaigns.
 
 
 ## 3.2. Alocare mintire
@@ -94,7 +94,7 @@ Deținătorii de jetoane Meeds trebuie să pună în joc jetoane pentru a vota d
 
 ## 3.7. Servicii de finanțare descentralizată (DeFi)
 
-Work Metaverse va prezenta lumea blockchain multor persoane care nu o folosesc în prezent.
+The WoM will introduce the blockchain world to many people who do not use it today.
 
 Într-adevăr, orice lucrare (fie ea digitală sau nu) poate fi gamificată şi orice angajament - răsplătit cu Meeds. Mesajele sunt puse la dispoziția utilizatorilor printr-un blockchain ușor de utilizat, bazat pe blockchain, portofel care „abstractează” orice complexitate a lumii cripto către un utilizator obișnuit.
 

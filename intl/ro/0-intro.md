@@ -2,12 +2,11 @@
 
 ## Rezumat
 
-Piața muncii de astăzi suferă de lipsă de eficiență din cauza costurilor ridicate ale tranzacțiilor[^1][^2][^3]și a conflictelor frecvente de interese între angajator și angajat. 
+Piața muncii de astăzi suferă de lipsă de eficiență din cauza costurilor ridicate ale tranzacțiilor[^1][^2][^3] și a conflictelor frecvente de interese între angajator și angajat.
 
-Work Metaverse (WoM) propune un nou paradigma care ar reduce costurile tranzacțiilor și ar reinventa relația de muncă, umplând golul dintre corporații tradiționale și DAOs.
+The WoM (World of Meeds) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
 
 WoM face acest lucru prin introducerea identităților digitale atât pentru angajator, cât și pentru angajat și oferind un sistem inovator de recompensă pentru implicare care ar alinia interesele lor.
-
 
 ## Introducere
 
@@ -34,9 +33,10 @@ Urmează lucrările lui R. Coase[^5], majoritatea economiștilor asociază conce
 
 Primele DAOs aplatizează ierarhiile și deschid proprietatea. WoM urmează această logică prin reinventarea, mai degrabă decât suprimarea relației angajator/angajat. Introduce un paradigma de recompensare transparentă, obiectivă și descentralizată, care ar alinia în mod sustenabil interesele angajatorului și ale angajatului.
 
-În cele din urmă, Work Metaverse umple golul dintre corporații și DAOs. Pe de o parte, introduce corporațiile tradiționale în lumea descentralizată printr-un paradigma de recompensă a implicării ușor de aplicat, completând sistemele lor de compensare. Pe de altă parte, propune modalități durabile de a opera și crea valoare pentru DAOs. În cele din urmă, lâna s-ar putea număra printre primele aplicații obișnuite de democratizare a utilizării blockchain-ului pentru fiecare întreprindere și fiecare angajat, inclusiv pentru cele non-digitale.
+Finally, the WoM bridges the gap between corporations and the DAOs. Pe de o parte, introduce corporațiile tradiționale în lumea descentralizată printr-un paradigma de recompensă a implicării ușor de aplicat, completând sistemele lor de compensare. Pe de altă parte, propune modalități durabile de a opera și crea valoare pentru DAOs. În cele din urmă, lâna s-ar putea număra printre primele aplicații obișnuite de democratizare a utilizării blockchain-ului pentru fiecare întreprindere și fiecare angajat, inclusiv pentru cele non-digitale.
 
 Ca în cazul oricărei inițiative descentralizate, propunerea WoM crește în valoare exponențial pe măsură ce mai mulți oameni o folosesc. Din acest motiv, fondatorii au acordat o mare atenție încurajării interesului pe termen lung și evitării monopolizării beneficiilor WoM, fie pe termen scurt, fie pe termen lung. Este o paradigmă deschisă, care nu a fost încă construită și deschisă către participarea activă și creativă a tuturor.
+
 
 [^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)
 [^2]: Jan Drahokoupil, Agnieszka Piasna - [“Work in the Platform Economy: Beyond Lower Transaction Costs”](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
@@ -44,3 +44,4 @@ Ca în cazul oricărei inițiative descentralizate, propunerea WoM crește în v
 [^4]: Michael C. Jensen, William H. Meckling - [“Theory of the Firm : Managerial Behavior, Agency Costs and Ownership Structure”](https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf)
 [^5]: R. Coase - [“The nature of the firm”](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
 [^6]: Aaron Wright - [“The Rise of Decentralized Autonomous Organizations : Opportunities and Challenges”](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)
+

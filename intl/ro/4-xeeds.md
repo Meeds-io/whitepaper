@@ -1,4 +1,4 @@
-# 4. Xeeds - Lucrează în Metaverse persoane / utilizatori
+# 4. Xeeds - WoM Individuals / users
 
 ## 4.1. Modele descentralizate și autosuverane
 
@@ -14,7 +14,7 @@ Insignele și acreditările sunt acordate utilizatorilor ca parte a participări
 
 În lumea de astăzi, este dificil să se dovedească în prealabil o competență. Atunci când oamenii se fac publicitate pe rețele, se bazează pe managerii lor să le dea o recomandare. Aceasta din urmă presupune o anumită bunăvoinţă din partea administratorului, dar nu este neapărat tratată ca dovadă de către viitorul angajator.
 
-Metaverse muncii oferă un mijloc mai transparent și mai imuabil pentru ca oamenii să dobândească și să își demonstreze abilitățile.
+The WoM provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
 
 Insignele sunt folosite pentru a reprezenta realizările făcute în cadrul unui Deed. După completarea unui set de obiective sau provocări, utilizatorilor li se vor acorda puncte. Insignele pot fi deblocate prin acumularea anumitor sume de puncte în anumite categorii.
 
@@ -54,7 +54,7 @@ Portofelele sunt individuale și se bazează pe blockchain - atunci când utiliz
 
 ## 4.6. Acces la servicii Web 3.0, criptoeconomie și DEFI
 
-După cum s-a discutat mai sus, Work Metaverse deschide lumea criptomonedelor și a serviciilor web descentralizate practic tuturor - o populație foarte mare de utilizatori, chiar și posibil fără legătură cu domeniul digital.
+As discussed above, the WoM opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
 
 Într-adevăr, orice angajament de lucru poate fi tokenizat. De fapt, lumea devine din ce în ce mai digitală, cu tendințe precum 5G, iot, portabile și așa mai departe. În consecință, ar putea fi captate și analizate din ce în ce mai multe semnale pentru a promova implicarea profesiilor nedigitale. Provocările oferă o pregătire pentru a o promova prin reprezentarea realizărilor din lumea fizică.
 

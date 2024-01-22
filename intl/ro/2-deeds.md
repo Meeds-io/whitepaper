@@ -1,5 +1,5 @@
 
-# 2. Face NFT - lucrează Organizații Metaverse
+# 2. Deeds NFT - WoM Organizations
 
 ## 2.1. NFT – fapte definite
 
