@@ -5,7 +5,7 @@
 Današnjem tržištu rada nedostaje učinkovitosti zbog visokih transakcijskih troškova\[^1\]\[^2\]<sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</5></sup> te čestim sukobima interesa između poslodavca i zaposlenika.</p> 
 
 <p spaces-before="0">
-  Work Metaverse (Wome) predlaže novu paradigmu koja bi smanjila transakcijske troškove i ponovno osmislila radni odnos, premošćujući jaz između tradicionalnih korporacija i DAO-ova.
+  WoM (World of Meeds) predlaže novu paradigmu koja bi smanjila transakcijske troškove i ponovno osmislila radni odnos, premošćujući jaz između tradicionalnih korporacija i DAO-ova.
 </p>
 
 <p spaces-before="0">
@@ -17,7 +17,7 @@ Današnjem tržištu rada nedostaje učinkovitosti zbog visokih transakcijskih t
 </h2>
 
 <p spaces-before="0">
-  Tržište rada danas je slomljeno. Ne uspijeva zadovoljiti i zaposlenike i poslodavce.
+  Tržište rada danas je disfunkcionalno. Ne uspijeva zadovoljiti i zaposlenike i poslodavce.
 </p>
 
 <p spaces-before="0">
@@ -66,7 +66,7 @@ Današnjem tržištu rada nedostaje učinkovitosti zbog visokih transakcijskih t
 </p>
 
 <p spaces-before="0">
-  Konačno, Radni Metaverse povezuje jaz između korporacija i DAO-ova. S jedne strane, uvodi tradicionalne korporacije u decentralizirani svijet kroz lako primjenjiv paradigma nagrađivanja uklapanja, koji nadopunjuje njihove sustave nadoknade. S druge strane, predlaže održive načine za operiranje i stvaranje vrijednosti za DAO-ove. Konačno, WoM bi mogao biti među prvima glavnih primjena koje će demokratizirati uporabu blockchaina za svaku tvrtku i svakog zaposlenika - uključujući one koji nisu digitalni.
+  Konačno, WoM premošćuje jaz između korporacija i DAO-ova. S jedne strane, uvodi tradicionalne korporacije u decentralizirani svijet kroz lako primjenjiv paradigma nagrađivanja uklapanja, koji nadopunjuje njihove sustave nadoknade. S druge strane, predlaže održive načine za operiranje i stvaranje vrijednosti za DAO-ove. Konačno, WoM bi mogao biti među prvima glavnih primjena koje će demokratizirati uporabu blockchaina za svaku tvrtku i svakog zaposlenika - uključujući one koji nisu digitalni.
 </p>
 
 <p spaces-before="0">

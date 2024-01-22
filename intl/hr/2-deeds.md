@@ -1,5 +1,5 @@
 
-# 2. Deeds NFT - Rad organizacija u Metaverseu
+# 2. Djela NFT - WoM organizacije
 
 ## 2.1. NFT - Definirani Deeds
 
