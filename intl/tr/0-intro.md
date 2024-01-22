@@ -4,7 +4,7 @@
 
 Günümüz iş piyasası, yüksek işlem maliyetleri[^1][^2][^3] ve işveren ile çalışan arasında sık sık yaşanan çıkar çatışmaları nedeniyle verimlilikten yoksundur.
 
-Work Metaverse (WoM), işlem maliyetlerini düşürecek ve istihdam ilişkisini yeniden keşfederek geleneksel şirketler ile DAO'lar arasındaki boşluğu dolduracak yeni bir paradigma önermektedir.
+The WoM (World of Meeds) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
 
 WoM bunu, hem işveren hem de çalışan için dijital kimlikler sunarak ve çıkarlarını aynı hizaya getirecek yenilikçi bir katılım ödül sistemi sunarak yapıyor.
 
@@ -33,7 +33,7 @@ R. Coase'nin çalışmalarını[^5] takip eden çoğu ekonomist, girişim kavram
 
 İlk DAO'lar hiyerarşileri düzleştirir ve mülkiyeti açık hale getirir. WoM, işveren/çalışan ilişkisini bastırmak yerine yeniden keşfederek bu mantığı sürdürmektedir. İşveren ve çalışan çıkarlarını sürdürülebilir bir şekilde hizalayacak şeffaf, objektif ve merkezi olmayan bir ödüllendirme paradigması getirmektedir.
 
-Son olarak, Work Metaverse şirketler ve DAO'lar arasındaki boşluğu doldurmaktadır. Bir yandan, geleneksel şirketleri, ücretlendirme sistemlerini tamamlayan, uygulaması kolay bir katılım ödüllendirme paradigması aracılığıyla merkezi olmayan dünyaya sokar. Öte yandan, DAO'lar için sürdürülebilir faaliyet gösterme ve değer yaratma yolları önermektedir. Nihayetinde WoM, dijital olmayanlar da dahil olmak üzere her şirket ve her çalışan için blok zincirinin kullanımını demokratikleştiren ilk ana akım uygulamalardan biri olabilir.
+Finally, the WoM bridges the gap between corporations and the DAOs. Bir yandan, geleneksel şirketleri, ücretlendirme sistemlerini tamamlayan, uygulaması kolay bir katılım ödüllendirme paradigması aracılığıyla merkezi olmayan dünyaya sokar. Öte yandan, DAO'lar için sürdürülebilir faaliyet gösterme ve değer yaratma yolları önermektedir. Nihayetinde WoM, dijital olmayanlar da dahil olmak üzere her şirket ve her çalışan için blok zincirinin kullanımını demokratikleştiren ilk ana akım uygulamalardan biri olabilir.
 
 Her merkezi olmayan girişimde olduğu gibi, WoM önerisi de daha fazla insan tarafından kullanıldıkça katlanarak değer kazanmaktadır. Bu nedenle, kurucular uzun vadeli ilgiyi teşvik etmeye ve ister kısa ister uzun vadeli olsun WoM faydalarını tekelleştirmekten kaçınmaya büyük özen göstermiştir. Bu açık bir paradigmadır, hala inşa edilmektedir ve herkesin aktif yaratıcı katılımına açıktır.
 

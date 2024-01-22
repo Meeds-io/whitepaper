@@ -1,14 +1,14 @@
-# 3. Meeds token - Work Metaverse para birimi
+# 3. Meeds token – the currency of the WoM
 
-Work Metaverse, para birimi olan Meeds (MEED) token tarafından desteklenmektedir. Meed'ler kullanıcıları ödüllendirmek (etkileşim programları aracılığıyla), mağazalardan satın almak, Deed almak, yatırımlardan finansal getiri elde etmek vb. için kullanılır.
+The WoM is powered by its currency – the Meeds (MEED) token. Meed'ler kullanıcıları ödüllendirmek (etkileşim programları aracılığıyla), mağazalardan satın almak, Deed almak, yatırımlardan finansal getiri elde etmek vb. için kullanılır.
 
 ## 3.1. Token Ekonomisi
 
 Meeds **maksimum arzı, kademeli olarak basılan 100 milyon token** ile sınırlıdır. **Meedler dakikada 10 MEED oranında basılır**. Bu nedenle, tam basım ufku 20 yıla yakındır (yılda yaklaşık 10$*60*24*365 = 5M$ Meed basıldığı için).
 
-Bugüne kadar 5 Milyon Meed (toplam arzın %5'i) önceden basılmıştır. Bunun 4,5 milyonu, 4 yıl boyunca doğrusal bir vesting ile bir kasa sözleşmesine kilitlendi. Önceden basılan tutar esas olarak yazılım IP'sini satın almak, token emisyonunun yasal ücretleri ve barındırma hizmetleri için ödeme yapmak için kullanıldı.
+5 Million Meeds (5% of the total supply) were pre-minted initially. Bunun 4,5 milyonu, 4 yıl boyunca doğrusal bir vesting ile bir kasa sözleşmesine kilitlendi. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees, and host services.
 
-Geri kalanı __Meeds DAO fonlarının__ bir parçasıdır ve hizmetler için ödeme yapmanın yanı sıra airdrop ve yönlendirme kampanyaları gibi bazı lansman teşvikleri için kullanılacaktır.
+The rest is part of the __Meeds DAO funds__ and will be used to pay for services and launch incentives such as airdrops and referral campaigns.
 
 
 ## 3.2. Darphane tahsisi
@@ -94,7 +94,7 @@ Meeds token sahiplerinin, darphane bütçesini yönetmek veya DAO yönetim kurul
 
 ## 3.7. Merkezi olmayan finans (DeFi) kullanıcı hizmetleri
 
-Work Metaverse, blok zinciri dünyasını bugün kullanmayan birçok kişiye tanıtacaktır.
+The WoM will introduce the blockchain world to many people who do not use it today.
 
 Aslında, herhangi bir çalışma (dijital olsun ya da olmasın) oyunlaştırılabilir ve herhangi bir katılım - Meeds ile ödüllendirilebilir. Meed'ler, kripto dünyasının tüm karmaşıklığını ortalama bir kullanıcı için "soyutlayan", kullanımı kolay, blok zinciri tabanlı bir cüzdan aracılığıyla kullanıcılara sunulmaktadır.
 

@@ -1,5 +1,5 @@
 
-# 2. Deeds NFT - İş Metaverse Kuruluşları
+# 2. Deeds NFT - WoM Organizations
 
 ## 2.1. NFT - Deeds Tanımlanmış
 

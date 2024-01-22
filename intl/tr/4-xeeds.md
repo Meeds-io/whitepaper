@@ -1,4 +1,4 @@
-# 4. Xeeds - İş Metaverse Bireyler / kullanıcılar
+# 4. Xeeds - WoM Individuals / users
 
 ## 4.1. Merkezi olmayan ve kendi kendine egemen modeller
 
@@ -14,7 +14,7 @@ Rozetler ve Kimlik Bilgileri kullanıcılara Deed'e katılımlarının bir parç
 
 Günümüz dünyasında bir beceriyi önceden kanıtlamak zordur. İnsanlar kendilerini ağlarda tanıttıklarında, yöneticilerinin onlara tavsiye vereceğine güvenirler. İkincisi, yöneticinin belirli bir iyi niyete sahip olduğunu varsayar, ancak gelecekteki işveren tarafından mutlaka kanıt olarak değerlendirilmez.
 
-Work Metaverse, insanların yeteneklerini kazanmaları ve göstermeleri için daha şeffaf ve değişmez bir araç sağlar.
+The WoM provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
 
 Rozetler bir Deed içinde elde edilen başarıları temsil etmek için kullanılır. Bir dizi hedefi veya görevi tamamladıktan sonra kullanıcılara puan verilecektir. Rozetler, belirli kategorilerde belirli miktarlarda puan biriktirilerek açılabilir.
 
@@ -54,7 +54,7 @@ Cüzdanlar bireysel ve blok zinciri tabanlıdır - kullanıcı bir ödül aldı�
 
 ## 4.6. Web 3.0, kriptoekonomi ve DEFI hizmetlerine erişim
 
-Yukarıda tartışıldığı gibi, Work Metaverse kripto para ve merkezi olmayan web hizmetleri dünyasını temelde herkese açıyor - dijital alanla ilgisi olmayan çok geniş bir kullanıcı kitlesi.
+As discussed above, the WoM opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
 
 Aslında, her türlü iş ilişkisi potansiyel olarak tokenize edilebilir. Aslında dünya 5G, iot, giyilebilir cihazlar ve benzeri trendlerle giderek dijitalleşiyor. Sonuç olarak, potansiyel olarak daha fazla sinyal yakalanabilir ve dijital olmayan mesleklerin katılımını belirtmek için analiz edilebilir. Meydan okumalar, fiziksel dünyadaki başarıları temsil ederek bunu simgelemek için hazır bir yol sağlar.
 

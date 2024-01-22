@@ -1,4 +1,4 @@
-# 5. The Work Metaverse for ALL - vizyon özeti ve kilometre taşları
+# 5. The WoM for ALL – vision summary and milestones
 
 ## 5.1. Nihai hedef - herkes için merkezi olmayan web
 
@@ -6,7 +6,7 @@ Nihayetinde WoM, herkes - her kişi ve her kuruluş - için merkezi olmayan bir 
 
 Kullanıcılar tarafından doldurulacak, dijital kimlikleri **Xeeds** aracılığıyla hareket edecek ve kripto uzmanları için metamaskları veya yeni başlayanlar için giriş / şifre aracılığıyla dünyaya erişecekler. İnsanlar katılımlarını tahsis edecek ve adil, şeffaf ve merkezi olmayan bir şekilde ödüllendirileceklerdir. Merkezi olmayan dünyaya ve yarının kripto dünyasına kolay ve tanıdık bir şekilde erişebilecekler - tokenlerini hayatlarında kullanmak veya gelecekleri için yatırım yapmak için basit araçlar elde edecekler.
 
-Kuruluşlar - **Devletler** doğru kanıtlanmış beceriler için WoM'a göz atarak yetenekleri tedarik edebilecektir. Kullanıcılarının katılımı (mintium modeli) yoluyla jeton basarak metaverse katılımları için ödüllendirileceklerdir. Ancak hepsinden önemlisi, kullanıcılarının daha yüksek bir katılım ve sadakatinden faydalanacaklardır.
+Kuruluşlar - **Devletler** doğru kanıtlanmış beceriler için WoM'a göz atarak yetenekleri tedarik edebilecektir. They would get rewarded for their participation in the WoM, by minting tokens through their users engagement (mintium model). Ancak hepsinden önemlisi, kullanıcılarının daha yüksek bir katılım ve sadakatinden faydalanacaklardır.
 
 WoM'un kendi para birimi **Meeds** olacaktır - mağazalarda harcamak, başka bir para birimine dönüştürmek, yatırım getirisi için yatırım yapmak, kiralamak veya satın almak vb. için orada olacaktır. WoM ayrıca diğer tokenlerin dağıtımını kolaylaştıracak ve genel kripto ekosistemine katılacaktır.
 
@@ -22,7 +22,7 @@ Açıkçası, erken benimseyenler geç gelenlere göre önemli avantajlar elde e
 
 WoM özellikle ayete yapılan uzun vadeli yatırımı, yani mülkün itfa edilmesini (Deeds) ödüllendirmektedir. Deed'in asıl sahibi, nişan basımı (aktif kullanım), pasif gelir (kiralama) yoluyla tazminat alır ve Tapunun herhangi bir satış işleminden ömür boyu %1 alır (her sahiplik değişiminde, asıl itfa eden işlemden bir ücret alır).
 
-Projeye inanarak, likidite havuzlarına katılarak, Meed'leri stake ederek, bunları Deed'lere karşı kullanarak... her büyüklükteki ilk yatırımcılar ek tokenlar basacaktı. Ayrıca en erken oy hakkına sahip olacaklar ve metaverse'in şekillenmesine yardımcı olacaklardır.
+Projeye inanarak, likidite havuzlarına katılarak, Meed'leri stake ederek, bunları Deed'lere karşı kullanarak... her büyüklükteki ilk yatırımcılar ek tokenlar basacaktı. They would also get the earliest voting rights and help shape the WoM.
 
 Çalışanlarının ilgisini çekmek ve onları ödüllendirmek için Deed'leri satın alan ancak özellikle kullanan kuruluşlar, basılmış Meed'lerle tazmin edilecektir. Ne kadar adil oynarlarsa, o kadar çok kazanacaklar. Daha erken benimseyenler ilk tarihi şehirlerle ilişkilendirilecek ve daha sonra inşaatçılar olarak tanımlanacaktır.
 
@@ -52,7 +52,7 @@ Bu makale lansman gününde yayımlanmıştır. Lansmanın ardından token, krip
 
 ## 5.4. İnşaatçılar topluluğu
 
-Meeds yazılımında ve Discord'da inşaatçılar topluluğunu başlatıyoruz. Topluluk, Work Metaverse'in inşasında yer almak isteyen herkesi memnuniyetle karşılamaktadır. Dernek, pazarlama bütçesinden inşaatçıların Meeds ile olan ilişkilerini ödüllendirecektir.
+Meeds yazılımında ve Discord'da inşaatçılar topluluğunu başlatıyoruz. The community welcomes anyone who wants to take part in the building of the WoM. Dernek, pazarlama bütçesinden inşaatçıların Meeds ile olan ilişkilerini ödüllendirecektir.
 
 Dernek ayrıca, inşaatçılar topluluğu için bir Deed elde etmek (kurtarmak) amacıyla bazı Meed'leri hisselendirmeyi planlamaktadır. Topluluk daha sonra mintium modeli aracılığıyla Meed'leri etkileşime göre daraltacak ve bunları etkileşime giren kullanıcılara dağıtacaktır.
 
@@ -66,9 +66,9 @@ Yol haritamız aşağıdaki öncelik sırasını takip edecektir:
 - Rozetlerin iyileştirilmesi ve kimlik bilgilerinin geliştirilmesi
 - DeFi hizmetleri - cüzdanda, kredi kartları ortaklığı
 
-İnşa aşamasında DAO'lardan ve teknoloji meraklısı şirketlerden erken benimseyenlere güveniyoruz. Ayrıca, mevcut geleneksel tazminat planlarına ek olarak çalışanlarına ilgili katılım programları sağlayarak metaverse'ten anında değer elde eden geleneksel şirketlerden bazı erken benimseyenler de olmalıdır.
+İnşa aşamasında DAO'lardan ve teknoloji meraklısı şirketlerden erken benimseyenlere güveniyoruz. We should also have some early adopters from traditional companies that gain immediate value from the WoM by providing relevant engagement programs to their people, on top of their current traditional compensation plans.
 
-Meeds'in basımı 20 yıllık bir dönemi kapsamaktadır. O zamana kadar, dünya çapında birçok kuruluşa ve birçok kullanıcıya yayılmış, olgun bir metaverse oluşturmayı hedefliyoruz.
+Meeds'in basımı 20 yıllık bir dönemi kapsamaktadır. By that time, we aspire to have achieved building a mature ecosystem, having spread to many organizations and many users globally.
 
 ## 5.6. Şu anda yapabilecekleriniz
 
@@ -83,4 +83,4 @@ Katılmak için şu anda ne yapabilirsiniz?
 - Döngüden haberdar olmak için [Discord](https://discord.com/invite/hAuADSq3) topluluğumuza katılın
 - Meeds yazılımını test etmek, etkileşimde bulunmak ve bazı Meeds katılım ödülleri kazanmak için [Builders](https://meeds.io/builders) topluluğumuza katılın
 
-**\*\*\* The Work Metaverse - gelin bu çılgın gelecek dünyasını birlikte inşa edelim. \*\*\***
+**\*\*\* The WoM - let’s build this crazy future world together. \*\*\***
