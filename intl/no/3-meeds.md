@@ -1,14 +1,14 @@
-# 3. Meeds token – Work Metaverse valuta
+# 3. Meeds token – the currency of the WoM
 
-Work Metaverse drives av sin egen valuta - Meeds (MEED) token. Meeds brukes til å belønne brukere (gjennom engasjementsprogrammer), kjøpe i butikker, få Deeds, få økonomisk avkastning på investeringer osv.
+The WoM is powered by its currency – the Meeds (MEED) token. Meeds brukes til å belønne brukere (gjennom engasjementsprogrammer), kjøpe i butikker, få Deeds, få økonomisk avkastning på investeringer osv.
 
 ## 3.1. Tokenomikk
 
 Meeds **maksimalt leveranse er begrenset til 100 millioner tokens**, myntet progressivitet. **Meeds er minet med 10 MEED per minutt**. Derfor er hele mynted nær 20 år (ettersom rundt $10*60*24*365 = 5M$ Meeds preges per år).
 
-5 millioner Meeds (5 % av den totale forsyningen) er hittil preget på forhånd. Herav har 4,5 millioner blitt låst i en hvelvkontrakt med en lineær opptjening over 4 år. Det forhåndsutstedte beløpet ble hovedsakelig brukt til å anskaffe programvare-IP, betale for tokenutstedelsens juridiske avgifter og hosting-tjenester.
+5 Million Meeds (5% of the total supply) were pre-minted initially. Herav har 4,5 millioner blitt låst i en hvelvkontrakt med en lineær opptjening over 4 år. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees, and host services.
 
-Resten er en del av __Meeds DAO funds__ og vil bli brukt til å betale for tjenester, samt en del lansering av insentiver som for eksempel flyreiser og henvisningskampanjer.
+The rest is part of the __Meeds DAO funds__ and will be used to pay for services and launch incentives such as airdrops and referral campaigns.
 
 
 ## 3.2. Tildeling av mynter
@@ -94,7 +94,7 @@ Innehavere av Meeds-tokens må sette inn tokens for å kunne stemme over Meeds D
 
 ## 3.7. Desentralisert økonomi (DeFi) brukertjenester
 
-Work Metaverse vil introdusere blokkjedeverdenen for mange mennesker som ikke bruker den i dag.
+The WoM will introduce the blockchain world to many people who do not use it today.
 
 Fantastisk arbeid (uansett om digital eller ikke) kan spilles og alle forpliktelser – belønnes med meg. Innretninger er gjengitt for brukere via en enkel bruk, blokkjedekksbasert, lommebok som "abstracts" enhver kompleksitet i kryptoverdenen til en gjennomsnittsbruker.
 
