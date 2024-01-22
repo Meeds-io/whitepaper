@@ -1,4 +1,4 @@
-# 5. 모두를 위한 작업 메타버스 - 비전 요약 및 마일스톤
+# 5. The WoM for ALL – vision summary and milestones
 
 ## 5.1. 궁극적인 목표 - 모두를 위한 탈중앙화 웹
 
@@ -6,7 +6,7 @@
 
 디지털 ID인 **Xeeds**를 통해 활동하고 메타마스크(암호화 전문가용) 또는 초보자용 로그인/비밀번호를 통해 세상에 액세스하는 사용자로 채워질 것입니다. 사람들은 공정하고 투명하며 탈중앙화된 방식으로 참여를 할당하고 보상을 받을 수 있습니다. 그들은 쉽고 친숙한 방식으로 분산된 세계와 미래의 암호 세계에 접근할 수 있을 것입니다. 그들은 그들의 삶에서 토큰을 사용하거나 미래를 위해 투자할 수 있는 간단한 도구를 얻을 것입니다.
 
-조직 - **Deeds**는 WoM을 검색하여 올바른 입증된 기술을 찾는 인재를 소싱할 수 있습니다. 그들은 사용자 참여(mintium 모델)를 통해 토큰을 발행함으로써 메타버스에 대한 참여에 대한 보상을 받게 됩니다. 그러나 무엇보다도 사용자의 참여도와 충성도가 높아지는 이점이 있습니다.
+조직 - **Deeds**는 WoM을 검색하여 올바른 입증된 기술을 찾는 인재를 소싱할 수 있습니다. They would get rewarded for their participation in the WoM, by minting tokens through their users engagement (mintium model). 그러나 무엇보다도 사용자의 참여도와 충성도가 높아지는 이점이 있습니다.
 
 WoM은 자체 통화 **Meeds**를 갖게 됩니다. 즉, 매장에서 지출하고, 다른 통화로 변환하고, 투자 수익을 위해 투자하고, 임대하거나 구매하는 등의 용도로 사용할 수 있습니다. WoM은 또한 다른 토큰 배포를 촉진하고 전체 암호화 생태계에 참여할 것입니다.
 
@@ -22,7 +22,7 @@ WoM은 자체 통화 **Meeds**를 갖게 됩니다. 즉, 매장에서 지출하�
 
 특히 WoM은 구절에 대한 장기 투자, 즉 재산의 구속(Deeds)에 대해 보상합니다. Deed의 원래 소유자는 수동적 소득(임대)을 통해 약혼 주조(활성 사용)를 통해 보상을 받고 Deed의 모든 판매 거래에 대해 평생 1%를 얻습니다(소유권이 변경될 때마다 원래 구속자는 거래).
 
-프로젝트를 믿고, 유동성 풀에 참여하고, Meeds를 스테이킹하고, Deeds와 교환함으로써... 모든 규모의 초기 투자자는 추가 토큰을 발행할 것입니다. 그들은 또한 가장 빠른 투표권을 얻고 메타버스를 형성하는 데 도움을 줄 것입니다.
+프로젝트를 믿고, 유동성 풀에 참여하고, Meeds를 스테이킹하고, Deeds와 교환함으로써... 모든 규모의 초기 투자자는 추가 토큰을 발행할 것입니다. They would also get the earliest voting rights and help shape the WoM.
 
 직원을 참여시키고 보상하기 위해 Deeds를 인수하지만 특히 사용하는 조직은 발행된 Meeds로 보상을 받게 됩니다. 그들이 더 공정하게 플레이할수록 더 많은 것을 얻게 될 것입니다. 얼리 어답터는 최초의 역사적인 도시와 관련이 있으며 나중에 건설자로 식별됩니다.
 
@@ -52,7 +52,7 @@ Builders 커뮤니티는 Meeds 소프트웨어에서 실행 중이며 참여, �
 
 ## 5.4. 빌더 커뮤니티
 
-우리는 Meeds 소프트웨어와 Discord에서 빌더 커뮤니티를 시작합니다. 커뮤니티는 Work Metaverse 구축에 참여하려는 모든 사람을 환영합니다. 협회는 마케팅 예산에서 빌더의 Meeds 참여에 대해 보상할 것입니다.
+우리는 Meeds 소프트웨어와 Discord에서 빌더 커뮤니티를 시작합니다. The community welcomes anyone who wants to take part in the building of the WoM. 협회는 마케팅 예산에서 빌더의 Meeds 참여에 대해 보상할 것입니다.
 
 또한 협회는 빌더 커뮤니티를 위한 증서를 획득(상환)하기 위해 일부 Meeds를 걸 계획입니다. 그런 다음 커뮤니티는 민티움 모델을 통해 참여를 통해 Meeds를 만들고 참여 사용자에게 배포합니다.
 
@@ -66,9 +66,9 @@ Builders 커뮤니티는 Meeds 소프트웨어에서 실행 중이며 참여, �
 - 배지 개선 및 자격 증명 개발
 - DeFi 서비스 – 지갑, 신용 카드 제휴
 
-우리는 구축 단계에서 DAO 및 기술에 정통한 회사의 얼리 어답터를 믿고 있습니다. 우리는 또한 현재의 전통적인 보상 계획 외에 직원들에게 관련 참여 프로그램을 제공함으로써 메타버스에서 즉각적인 가치를 얻는 전통적인 회사의 얼리 어답터를 확보해야 합니다.
+우리는 구축 단계에서 DAO 및 기술에 정통한 회사의 얼리 어답터를 믿고 있습니다. We should also have some early adopters from traditional companies that gain immediate value from the WoM by providing relevant engagement programs to their people, on top of their current traditional compensation plans.
 
-Meeds 주조는 20년의 기간에 걸쳐 있습니다. 그때까지 우리는 전 세계적으로 많은 조직과 많은 사용자에게 확산되어 성숙한 메타버스를 구축하기를 열망합니다.
+Meeds 주조는 20년의 기간에 걸쳐 있습니다. By that time, we aspire to have achieved building a mature ecosystem, having spread to many organizations and many users globally.
 
 ## 5.6. 지금 할 수 있는 일
 
@@ -83,4 +83,4 @@ Meeds 주조는 20년의 기간에 걸쳐 있습니다. 그때까지 우리는 �
 - 우리의 [Discord](https://discord.com/invite/hAuADSq3) 커뮤니티에 가입하여 소식을 받아보세요
 - [Builders](https://meeds.io/builders) 커뮤니티에 가입하여 Meeds 소프트웨어를 테스트하고 참여하고 Meeds 참여 보상을 받으세요.
 
-**\*\*\* The Work Metaverse - 이 멋진 미래 세계를 함께 만들어 갑시다. \*\*\***
+**\*\*\* The WoM - let’s build this crazy future world together. \*\*\***

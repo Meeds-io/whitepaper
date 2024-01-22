@@ -1,14 +1,14 @@
-# 3. Meeds 토큰 – Work Metaverse 통화
+# 3. Meeds token – the currency of the WoM
 
-Work Metaverse는 통화인 Meeds(MEED) 토큰으로 구동됩니다. Meeds는 참여 프로그램을 통해 사용자에게 보상하고, 매장에서 구매하고, Deeds를 받고, 투자에 대한 금전적 수익을 얻는 데 사용됩니다.
+The WoM is powered by its currency – the Meeds (MEED) token. Meeds는 참여 프로그램을 통해 사용자에게 보상하고, 매장에서 구매하고, Deeds를 받고, 투자에 대한 금전적 수익을 얻는 데 사용됩니다.
 
 ## 3.1. 토크노믹스
 
 Meeds의 **최대 공급량은 1억 개**로 제한되며 점진적으로 발행됩니다. **필요는 분당 10개의 NEED 비율로 발행됩니다**. 따라서 전체 주조 기간은 20년에 가깝습니다(약 $10*60*24*365 = 5M$ Meeds가 매년 주조되기 때문입니다).
 
-현재까지 500만 개의 Meeds(총 공급량의 5%)가 미리 발행되었습니다. 그 중 4.5M은 4년 동안 선형 베스팅이 있는 금고 계약에 묶여 있습니다. 사전 발행된 금액은 주로 소프트웨어 IP 획득, 토큰 발행의 법적 수수료 지불 및 호스팅 서비스에 사용되었습니다.
+5 Million Meeds (5% of the total supply) were pre-minted initially. 그 중 4.5M은 4년 동안 선형 베스팅이 있는 금고 계약에 묶여 있습니다. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees, and host services.
 
-나머지는 __Meeds DAO 기금__의 일부이며 에어드롭 및 추천 캠페인과 같은 일부 출시 인센티브뿐만 아니라 서비스 비용을 지불하는 데 사용됩니다.
+The rest is part of the __Meeds DAO funds__ and will be used to pay for services and launch incentives such as airdrops and referral campaigns.
 
 
 ## 3.2. 주조 할당
@@ -94,7 +94,7 @@ Meeds 토큰 보유자는 채굴 예산 관리 또는 DAO 이사회 구성원 �
 
 ## 3.7. 탈중앙화 금융(DeFi) 사용자 서비스
 
-The Work Metaverse는 오늘날 블록체인을 사용하지 않는 많은 사람들에게 블록체인 세계를 소개할 것입니다.
+The WoM will introduce the blockchain world to many people who do not use it today.
 
 실제로 모든 작업(디지털이든 아니든)은 게임화될 수 있으며 모든 참여는 Meeds로 보상받을 수 있습니다. Meeds는 암호화 세계의 모든 복잡성을 일반 사용자에게 "추상화"하는 사용하기 쉬운 블록체인 기반 지갑을 통해 사용자에게 제공됩니다.
 

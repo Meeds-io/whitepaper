@@ -1,5 +1,5 @@
 
-# 2. Deeds NFT - 작업 메타버스 조직
+# 2. Deeds NFT - WoM Organizations
 
 ## 2.1. NFT – 증서 정의
 

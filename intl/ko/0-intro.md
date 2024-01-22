@@ -5,7 +5,7 @@
 오늘날의 작업 시장은 높은 거래 비용 때문에 효율성이 떨어집니다.\[^1\]\[^2\]<sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</5></sup> 그리고 고용주와 고용인 간의 빈번한 이해 충돌.</p> 
 
 <p spaces-before="0">
-  Work Metaverse(the WoM)는 거래 비용을 낮추고 고용 관계를 재창조하여 전통적인 기업과 DAO 간의 격차를 해소하는 새로운 패러다임을 제안합니다.
+  The WoM (World of Meeds) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
 </p>
 
 <p spaces-before="0">
@@ -66,7 +66,7 @@
 </p>
 
 <p spaces-before="0">
-  마지막으로 Work Metaverse는 기업과 DAO 간의 격차를 해소합니다. 한편으로는 적용하기 쉬운 참여 보상 패러다임을 통해 전통적인 기업을 분산된 세계에 도입하고 보상 시스템을 보완합니다. 한편, DAO를 운영하고 가치를 창출하는 지속 가능한 방법을 제안합니다. 궁극적으로 WoM은 디지털이 아닌 직원을 포함하여 모든 회사와 모든 직원을 위해 블록체인 사용을 민주화하는 최초의 주류 애플리케이션 중 하나가 될 수 있습니다.
+  Finally, the WoM bridges the gap between corporations and the DAOs. 한편으로는 적용하기 쉬운 참여 보상 패러다임을 통해 전통적인 기업을 분산된 세계에 도입하고 보상 시스템을 보완합니다. 한편, DAO를 운영하고 가치를 창출하는 지속 가능한 방법을 제안합니다. 궁극적으로 WoM은 디지털이 아닌 직원을 포함하여 모든 회사와 모든 직원을 위해 블록체인 사용을 민주화하는 최초의 주류 애플리케이션 중 하나가 될 수 있습니다.
 </p>
 
 <p spaces-before="0">
