@@ -1,64 +1,64 @@
-# 4. Xeeds – Work Metaverse asmenys / vartotojai
+# 4. Xeeds - WoM Individuals / users
 
-## 4.1. Decentralizuoti ir savarankiški modeliai
+## 4.1. Decentralized and self-sovereign models
 
-WoM pripažįsta privatumą kaip pagrindinę žmogaus teisę ir suteikia vartotojams teisę turėti savo duomenis.
+The WoM recognizes privacy as a fundamental human right and empowers users to own their data.
 
-Mūsų požiūris grindžiamas decentralizuotais ir savarankiškais tapatybės principais, leidžiančiais naudotojams bet kuriuo metu kontroliuoti, kokią informaciją jie nori viešinti, dalytis su ribota grupe arba išlaikyti privačią.
+Our approach is based on decentralized and self-sovereign identity principles, allowing users to be in control at any time of what information they want to publicize, share with a restricted group, or keep private.
 
-Vartotojo veikla ir įsitraukimas į WoM visada yra susietas su Deed. Xeed yra virtuali vartotojo asmenybė Deed. Xeed nereikalauja jokio KYC, jis deklaruoja save, tačiau galime įsivaizduoti, kad šią paslaugą teikia trečiosios šalies įmonės.
+User's activity and engagement in the WoM is always linked to a Deed. A Xeed is the virtual persona of a user in a Deed. Xeed does not require any KYC, it is self-declaring, but we could conceivably imagine third-party firms providing this service.
 
-## 4.2. Ženkliukai ir kredencialai
+## 4.2. Badges and credentials
 
-Ženkliukai ir kredencialai suteikiami naudotojams dalyvaujant Deed. Turėtojas gali juos atsisiųsti kaip W3C patikrinamus kredencialus[^7][^8] (dar žinomus kaip VC) ir laikyti juos savo piniginėje. Tie VCs yra žinių/know-how įrodymas, patvirtintas jį išduodančios organizacijos.
+Badges and Credentials are given to users as a part of their participation in a Deed. The holder may download them as W3C Verifiable Credentials[^7][^8] (aka VCs) and store them in his wallet. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
 
-Šiuolaikiniame pasaulyje sunku iš anksto įrodyti savo įgūdžius. Kai žmonės reklamuojasi tinkluose, jie tikisi, kad jų vadovai pateiks jiems rekomendaciją. Pastarasis suponuoja tam tikrą vadovo geranoriškumą, tačiau nebūtinai laikomas įrodymu būsimojo darbdavio.
+In today’s world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they count on their managers to give them a recommendation. The latter supposes certain goodwill on the part of the manager but is not necessarily treated as proof by the future employer.
 
-Darbo metaverse yra skaidresnė ir nekintama priemonė žmonėms įgyti ir parodyti savo sugebėjimus.
+The WoM provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
 
-Ženkliukai naudojami per Deed pasiektus pasiekimus pavaizduoti. Įvykdę tikslų ar iššūkių rinkinį, vartotojai bus apdovanojami taškais. Ženkliukus galima atrakinti sukaupus tam tikrą taškų kiekį konkrečiose kategorijose.
+Badges are used to represent accomplishments made within a Deed. After completing a set of objectives or challenges, users will be awarded points. Badges can be unlocked by accumulating certain amounts of points in specific categories.
 
-Kai vartotojas atsisiunčia ženklelius, už šį konkretų pasiekimą galima įtraukti taškų skaičių ir jo reitingą į Deed.
+When badges are downloaded by the user, it is possible to include the number of points and his rank in the Deed for this specific accomplishment.
 
-Kredencialai yra lankstesni nei ženkleliai; tai gali būti kolegos rekomendacija, nurodanti ilgametę patirtį, mokymą ar egzaminą arba dalyvavimą Deed. Juos pasirašo Deed ir kartu gali būti parašas lygiaverčio vartotojo.
+Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the Deed. These are signed by the Deed and can be accompanied by a signature by a peer user.
 
-## 4.3. Skaitmeninė darbo tapatybė
+## 4.3. Digital work identity
 
-Visa tai, kas išdėstyta pirmiau, padeda formuoti pasiteisinusius skaitmeninius įgūdžius, kuriuos vartotojas gali išlaikyti ir panaudoti keisdamas darbą arba dirbdamas laisvai samdomu darbu. Tai būtų patikimiau nei tradiciniai sprendimai, nes tai įrodys ne vienas asmuo, bet visa bendruomenė.
+All of the above contributes to forming proven digital skillset that can be kept and used by the user when changing jobs or freelancing. It would be more trustworthy than traditional solutions as it relies on not just one individual but a full community to prove it.
 
-Kaip ir Meeds piniginėje, naudotojas išsaugos prie jos pridėtus Xeed, ženklelius ir kredencialus savo tapatybės piniginėje, kai persikelia iš vieno akto į kitą, iš vieno miesto į kitą, bet kur per WoM.
+Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Deed to another, from one city to another, anywhere through the WoM.
 
-Vartotojas galės pasidalinti savo Xeed, ženkleliais ir kredencialais su kitais Deeds, kad pabrėžtų savo patirtį, taip pat su įdarbintojais ar kitomis paslaugomis, kurios, jo nuomone, yra įdomios.
+The user will be able to share his Xeed, Badges, and Credentials with other Deeds to highlight his experience, as well as with recruiters or any other services that he deems interesting.
 
-Vartotojas WoM gali turėti vieną ar kelias skaitmenines tapatybes. Vėliau jis galėjo juos pateikti vieningai, naudodamas patikrintus pristatymus.
+A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations.
 
-Priešingai nei Web 2, vartotojas visiškai priklauso savo decentralizuotoms tapatybėms. Pastarasis gali parodyti (ir įrodyti) Deeds, kuriame dalyvavo, savo įrodytus įgūdžius, deklaruotus įgūdžius, kitus Xeeds (žmones), su kuriais jis dirbo, savo skaitmeninį savęs pavaizdavimą... Patikima LinkedIn 3.0 būdu.
+Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the Deeds he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... In a manner of trustworthy LinkedIn 3.0.
 
-Vartotojas galės pasirinkti, ar ką nors atskleisti, kokią informaciją pateikti ir kokias tapatybes naudoti kiekvienai pozicijai. Turinys (įrodytas įgūdis, ankstesnis Deeds ir kt.) yra apsaugotas nuo klastojimo, todėl jo keisti negalima. Bet kokia tapatybė turėtų būti sukurta laikui bėgant.
+The user will be able to select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Deeds, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time.
 
-## 4.4. Sąžiningo darbo turgus
+## 4.4. Fair work marketplace
 
-Pagal šią paradigmą ateities darbo rinka leidžia vartotojams laisvai judėti ir paskirstyti / parduoti savo įsipareigojimus tarp Deeds – kaip tai daroma fiziniame pasaulyje keičiant darbdavius. Tačiau WoM jų dalyvavimas būtų apčiuopiamas, išmatuotas ir sąžiningai apdovanotas. Judėdami tarp panašios logikos besivadovaujančių sistemų, jie geriau supras žaidimo taisykles ir teisingai įvertins darbdavius – kitur ne visada žolė žalesnė. Vartotojai galės pasirinkti, kuris Deed suteikia geresnes dalyvavimo atlygio sąlygas, priklauso patrauklesniam miestui ir pan.
+Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Deeds – as they do in the physical world by changing employers. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to choose which Deed provides better engagement reward conditions, belongs to a more attractive city, etc.
 
-Be to, Deeds turėtojai / nuomininkai gali ieškoti atitinkamų įgūdžių naudodami WoM skaitmeninių darbo tapatybių tinklą (kurį vartotojai nusprendė atskleisti). Jie galės efektyviau įgyti įgūdžių, remdamiesi patikrinta ir išsamia informacija apie darbo istoriją, darbo įgūdžius ir vartotojo įsitraukimo lygį.
+On their end, the Deeds’ holders/renters can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
 
-## 4.5. Apčiuopiamas ir skaidrus pripažinimas
+## 4.5. Tangible and transparent recognition
 
-Šiandien daugelyje darbo vietų informacija apie kompensacijas ir premijas yra neaiški. Todėl žmogui sunku palyginti savo sąlygas su kito sąlygomis ir pajusti teisingą bei nešališką elgesį. Darbuotojai patiria daug nusivylimų dėl to, kas išdėstyta pirmiau.
+Today, details on compensation and bonuses are obscure in many workplaces. Therefore, it is difficult for a person to compare his conditions to that of another and get a sense of a fair and unbiased treatment. Employees experience a lot of frustrations with the above.
 
-WoM pristato objektyvų būdą pripažinti pasiekimus ir už juos apdovanoti.
+The WoM introduces an objective way to recognize achievements and reward them.
 
-Įsipareigojimų pripažinimo ir atlygio mechanizmas yra skaidrus ir sąžiningai taikomas visiems vartotojams, laikantis tų pačių aiškių taisyklių, dėl kurių iš anksto nuspręsta ir suderinta su Deed tikslais.
+Engagement recognition and reward mechanism is transparent and applies fairly to all users, following the same explicit rules, decided in advance and aligned with the Deed’s goals.
 
-Piniginės yra individualios ir pagrįstos blockchain – kai vartotojas gauna atlygį arba uždirba ženklelį, jo negalima atsiimti ar ištrinti.
+Wallets are individual and blockchain based – when the user receives a reward or earns a badge, it cannot be taken back or erased.
 
-## 4.6. Prieiga prie Web 3.0, kriptoekonomikos ir DEFI paslaugų
+## 4.6. Access to Web 3.0, cryptoeconomy and DEFI services
 
-Kaip aptarta aukščiau, Work Metaverse atveria kriptovaliutų ir decentralizuotų interneto paslaugų pasaulį iš esmės visiems – labai didelei vartotojų populiacijai, net galbūt nesusijusiai su skaitmenine sritimi.
+As discussed above, the WoM opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
 
-Iš tiesų, bet koks įsitraukimas į darbą gali būti ženklinamas. Tiesą sakant, pasaulis tampa vis labiau skaitmenizuotas dėl tokių tendencijų kaip 5G, iot, nešiojami įrenginiai ir kt. Dėl to gali būti fiksuojama ir išanalizuota vis daugiau signalų, siekiant patvirtinti neskaitmeninių profesijų įsitraukimą. Iššūkiai yra pasirengęs eiti, kad jį simbolizuoja, reprezentuojant pasiekimus fiziniame pasaulyje.
+Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
 
-Bet kuris naudotojas gali gauti Meeds ir naudoti Meeds piniginę, kad gautų prieigą prie naujųjų laikų paslaugų be jokių specialių mokymų.
+Any user can get Meeds and use a Meeds wallet to get access to new age services without any special training.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Verifiable Credentials Data Model
