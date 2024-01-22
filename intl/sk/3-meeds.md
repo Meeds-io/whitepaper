@@ -1,14 +1,14 @@
-# 3. Token Meeds - mena Work Metaverse
+# 3. Meeds token – the currency of the WoM
 
-Work Metaverse poháňa jej mena - token Meeds (MEED). Meeds sa používajú na odmeňovanie používateľov (prostredníctvom programov zapojenia), nákupy v obchodoch, získavanie Deedow, finančné výnosy z investícií atď.
+The WoM is powered by its currency – the Meeds (MEED) token. Meeds sa používajú na odmeňovanie používateľov (prostredníctvom programov zapojenia), nákupy v obchodoch, získavanie Deedow, finančné výnosy z investícií atď.
 
 ## 3.1. Tokenomika
 
 Maximálna ponuka Meeds **je obmedzená na 100 miliónov tokenov**, ktoré sa razia postupne. **Meedy sa razia rýchlosťou 10 MEED za minútu**. Preto sa celý horizont razby blíži k 20 rokom (keďže ročne sa vyrazí približne 10 dolárov*60*24*365 = 5 miliónov dolárov).
 
-K dnešnému dňu bolo predbežne vylisovaných 5 miliónov Meedow (5 % z celkovej ponuky). Z toho 4,5 milióna bolo viazaných trezorovou zmluvou s lineárnou dobou platnosti na 4 roky. Predminulá suma bola použitá najmä na získanie softvérového duševného vlastníctva, zaplatenie právnych poplatkov za emisiu tokenov a hostingové služby.
+5 Million Meeds (5% of the total supply) were pre-minted initially. Z toho 4,5 milióna bolo viazaných trezorovou zmluvou s lineárnou dobou platnosti na 4 roky. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees, and host services.
 
-Zvyšok je súčasťou __Fondov DAO Meeds__ a bude použitý na zaplatenie služieb, ako aj na niektoré stimuly na spustenie, ako sú napríklad výsadky a referenčné kampane.
+The rest is part of the __Meeds DAO funds__ and will be used to pay for services and launch incentives such as airdrops and referral campaigns.
 
 
 ## 3.2. Rozdelenie mincí
@@ -94,7 +94,7 @@ Držitelia tokenov Meeds musia vsadiť tokeny, aby mohli hlasovať o rozhodnutia
 
 ## 3.7. Decentralizované finančné služby (DeFi) pre používateľov
 
-Work Metaverse predstaví svet blockchainu mnohým ľuďom, ktorí ho dnes nepoužívajú.
+The WoM will introduce the blockchain world to many people who do not use it today.
 
 Akákoľvek práca (či už digitálna alebo nie) môže byť skutočne gamifikovaná a akákoľvek angažovanosť - odmenená prostriedkami Meedami. Meedy sú používateľom k dispozícii prostredníctvom ľahko použiteľnej peňaženky založenej na blockchaine, ktorá "abstrahuje" od akejkoľvek zložitosti kryptografického sveta pre bežného používateľa.
 

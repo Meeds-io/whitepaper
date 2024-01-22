@@ -1,4 +1,4 @@
-# 5. Work Metaverse pre VŠETKYCH - zhrnutie vízie a míľniky
+# 5. The WoM for ALL – vision summary and milestones
 
 ## 5.1. Konečný cieľ - decentralizovaný web pre každého
 
@@ -6,7 +6,7 @@ WoM je nakoniec decentralizovaný webový svet pre každého - každého človek
 
 Budú ho napĺňať používatelia, ktorí budú konať prostredníctvom svojich digitálnych identít **Xeeds**a prístup do sveta cez ich metamasky, pre krypto-zachráncov, alebo login/heslo pre nováčikov. Ľudia by prideľovali svoje angažovanie a dostávali by odmenu spravodlivým, transparentným a decentralizovaným spôsobom. Získali by prístup do decentralizovaného sveta a kryptosveta zajtrajška jednoduchým a známym spôsobom - získali by jednoduché nástroje na využitie svojich tokenov v živote alebo ich investovanie do budúcnosti.
 
-Organizácie - **Deeds** by mohli vyhľadávať talenty, prechádzať WoM a hľadať vhodné osvedčené zručnosti. Za svoju účasť v metaverse by boli odmeňovaní ťažbou žetónov prostredníctvom zapojenia používateľov (model mintium). Predovšetkým by však mali prospech z väčšej angažovanosti a lojality svojich používateľov.
+Organizácie - **Deeds** by mohli vyhľadávať talenty, prechádzať WoM a hľadať vhodné osvedčené zručnosti. They would get rewarded for their participation in the WoM, by minting tokens through their users engagement (mintium model). Predovšetkým by však mali prospech z väčšej angažovanosti a lojality svojich používateľov.
 
 WoM bude mať vlastnú menu **Meeds** - ktoré by bolo možné minúť v obchodoch, konvertovať na inú menu, investovať za účelom návratnosti investície, prenajať alebo kúpiť atď. WoM by tiež uľahčil distribúciu iných tokenov a podieľal sa na celkovom krypto ekosystéme.
 
@@ -22,7 +22,7 @@ Je zrejmé, že skorí používatelia by získali značné výhody oproti onesko
 
 WoM odmeňuje najmä dlhodobé investície do veršov - teda odkúpenie majetku (Deeds). Pôvodný vlastník Deedu dostáva kompenzáciu prostredníctvom záväzkového mincovníctva (aktívne využívanie), prostredníctvom pasívneho príjmu (prenájom) a dostáva doživotne 1 % z každej transakcie predaja Deedu (pri každej zmene vlastníka dostáva pôvodný vykupujúci poplatok z transakcie).
 
-Vierou v projekt, účasťou v pooloch likvidity, stávkovaním Meedov, ich výmenou za Deedy... by skorí investori všetkých veľkostí razili ďalšie tokeny. Získali by tiež najskoršie hlasovacie práva a pomohli by formovať metaverse.
+Vierou v projekt, účasťou v pooloch likvidity, stávkovaním Meedov, ich výmenou za Deedy... by skorí investori všetkých veľkostí razili ďalšie tokeny. They would also get the earliest voting rights and help shape the WoM.
 
 Organizácie, ktoré získavajú, ale najmä využívajú Deeds na zapojenie a odmeňovanie svojich zamestnancov, by dostávali kompenzáciu v razených Meedow. Čím spravodlivejšie budú hrať, tým viac získajú. Skorší osvojitelia by boli priradení k prvým historickým mestám a neskôr by boli identifikovaní ako budovatelia.
 
@@ -52,7 +52,7 @@ Tento dokument bol uverejnený v deň spustenia. Po spustení bude token letecky
 
 ## 5.4. Komunita staviteľov
 
-Spúšťame komunitu staviteľov v softvéri Meeds a na službe Discord. Komunita privíta každého, kto sa chce podieľať na budovaní Work Metaverse. Združenie by odmeňovalo angažovanosť staviteľov v Meedse, a to zo svojho marketingového rozpočtu.
+Spúšťame komunitu staviteľov v softvéri Meeds a na službe Discord. The community welcomes anyone who wants to take part in the building of the WoM. Združenie by odmeňovalo angažovanosť staviteľov v Meedse, a to zo svojho marketingového rozpočtu.
 
 Združenie tiež plánuje založiť niektoré Meeds, aby získalo (vykúpilo) Deed pre komunitu staviteľov. Komunita potom prostredníctvom modelu mintium vyrazí mince podľa zapojenia a rozdá ich zapojeným používateľom.
 
@@ -66,9 +66,9 @@ Náš plán by sa riadil nižšie uvedeným poradím priorít:
 - Zlepšenie odznakov a vývoj poverení
 - Služby DeFi - v peňaženke, partnerstvo s kreditnými kartami
 
-V etape budovania sa spoliehame na skorých osvojiteľov z radov DAO a technologicky zdatných spoločností. Mali by sme mať aj niekoľko prvých osvojiteľov z tradičných spoločností, ktoré získajú okamžitú hodnotu z metaversa poskytnutím relevantných programov angažovanosti svojim ľuďom nad rámec svojich súčasných tradičných plánov odmeňovania.
+V etape budovania sa spoliehame na skorých osvojiteľov z radov DAO a technologicky zdatných spoločností. We should also have some early adopters from traditional companies that gain immediate value from the WoM by providing relevant engagement programs to their people, on top of their current traditional compensation plans.
 
-Meedsova razba trvá 20 rokov. V tom čase chceme dosiahnuť vybudovanie vyspelého metaversa, ktoré sa rozšíri do mnohých organizácií a medzi mnohých používateľov na celom svete.
+Meedsova razba trvá 20 rokov. By that time, we aspire to have achieved building a mature ecosystem, having spread to many organizations and many users globally.
 
 ## 5.6. Čo môžete urobiť hneď teraz
 
@@ -83,4 +83,4 @@ Meedsova razba trvá 20 rokov. V tom čase chceme dosiahnuť vybudovanie vyspel�
 - Pripojte sa k našej komunite [Discord](https://discord.com/invite/hAuADSq3) aby ste boli v obraze
 - Pripojte sa k našej komunite [Builders](https://meeds.io/builders) a otestujte softvér Meeds, zapojte sa a získajte nejaké odmeny za zapojenie Meeds
 
-**\*\*\* Work Metaverse - vytvorme tento bláznivý svet budúcnosti spoločne. \*\*\***
+**\*\*\* The WoM - let’s build this crazy future world together. \*\*\***
