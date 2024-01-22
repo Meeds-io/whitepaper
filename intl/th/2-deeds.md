@@ -1,5 +1,5 @@
 
-# 2. Deeds NFT - การทำงานขององค์กร Metaverse
+# 2. Deeds NFT - WoM Organizations
 
 ## 2.1. NFT - การกำหนด Deeds
 
