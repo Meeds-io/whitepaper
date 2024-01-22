@@ -1,5 +1,5 @@
 
-# 2. Deeds NFT - Organisationen im Arbeitsmetavers (WoM)
+# 2. Deeds NFT - WoM Organizations
 
 ## 2.1. Definition des NFT - Deeds
 
