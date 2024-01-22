@@ -1,4 +1,4 @@
-# 5. 所有人的工作元宇宙——願景總結和里程碑
+# 5. The WoM for ALL – vision summary and milestones
 
 ## 5.1. 最终目标--为每个人提供去中心化的网络
 
@@ -6,7 +6,7 @@
 
 它將由用戶填充，通過他們的數字身份 **Xeeds** 進行操作，並通過他們的元掩碼訪問世界，對於加密專家來說，或者對於新手來說是登錄名/密碼。 人們將以公平、透明和去中心化的方式分配他們的參與度並獲得獎勵。 他們將以一種簡單而熟悉的方式進入去中心化世界和明天的加密世界——他們將獲得簡單的工具來在他們的生活中使用他們的代幣或為他們的未來投資。
 
-組織 - **Deeds** 將能夠通過瀏覽 WoM 尋找合適的經過驗證的技能。 通過用戶參與（mintium 模型）鑄造代幣，他們將因參與元宇宙而獲得獎勵。 但最重要的是，他們將從用戶的更高參與度和忠誠度中受益。
+組織 - **Deeds** 將能夠通過瀏覽 WoM 尋找合適的經過驗證的技能。 They would get rewarded for their participation in the WoM, by minting tokens through their users engagement (mintium model). 但最重要的是，他們將從用戶的更高參與度和忠誠度中受益。
 
 WoM 將擁有自己的貨幣 **Meeds** – 可以在商店消費、兌換成另一種貨幣、投資以獲得投資回報、租用或購買等。 WoM 還將促進其他代幣分發並參與整個加密生態系統。
 
@@ -22,7 +22,7 @@ WoM 將擁有自己的貨幣 **Meeds** – 可以在商店消費、兌換成另�
 
 特別是，WoM 獎勵長期投資的詩句——即財產（Deeds）的贖回。 Deed 的原始所有者通過參與鑄幣（主動使用）、被動收入（租賃）獲得補償，並在 Deed 的任何銷售交易中獲得 1% 的終生收益（每次所有權變更時，原始贖回者都會獲得費用 交易）。
 
-通過相信該項目、參與流動資金池、質押 Meeds、用 Deeds 贖回它們……各種規模的早期投資者都會鑄造額外的代幣。 他們還將獲得最早的投票權並幫助塑造虛擬宇宙。
+通過相信該項目、參與流動資金池、質押 Meeds、用 Deeds 贖回它們……各種規模的早期投資者都會鑄造額外的代幣。 They would also get the earliest voting rights and help shape the WoM.
 
 獲取但特別是使用 Deeds 來吸引和獎勵其員工的組織將獲得鑄造的 Meeds 的補償。 他們玩得越公平，他們得到的就越多。 較早的採用者將與第一批歷史名城相關聯，並在以後被確定為建設者。
 
@@ -52,7 +52,7 @@ Builders 社區在 Meeds 軟件上啟動並運行，向任何想要加入、測�
 
 ## 5.4. 建設者社區
 
-我們正在 Meeds 軟件和 Discord 上啟動構建者社區。 社區歡迎任何想參與 Work Metaverse 建設的人。 該協會將從其營銷預算中獎勵建築商參與 Meeds。
+我們正在 Meeds 軟件和 Discord 上啟動構建者社區。 The community welcomes anyone who wants to take part in the building of the WoM. 該協會將從其營銷預算中獎勵建築商參與 Meeds。
 
 該協會還計劃質押一些 Meed，以便為建築商社區獲取（贖回）契約。 然後，社區將通過 mintium 模型通過參與來鑄造 Meed，並將它們分發給參與的用戶。
 
@@ -66,9 +66,9 @@ Builders 社區在 Meeds 軟件上啟動並運行，向任何想要加入、測�
 - 徽章改進和證書開發
 - DeFi 服務——在錢包、信用卡合作中
 
-在構建階段，我們指望來自 DAO 和精通技術的公司的早期採用者。 我們還應該有一些來自傳統公司的早期採用者，他們在當前的傳統薪酬計劃之外，通過向員工提供相關的參與計劃，從元宇宙中獲得直接價值。
+在構建階段，我們指望來自 DAO 和精通技術的公司的早期採用者。 We should also have some early adopters from traditional companies that gain immediate value from the WoM by providing relevant engagement programs to their people, on top of their current traditional compensation plans.
 
-Meeds 鑄造跨越 20 年。 到那時，我們渴望實現構建一個成熟的元宇宙，並傳播到全球許多組織和許多用戶。
+Meeds 鑄造跨越 20 年。 By that time, we aspire to have achieved building a mature ecosystem, having spread to many organizations and many users globally.
 
 ## 5.6. 你現在可以做什麼
 
@@ -83,4 +83,4 @@ Meeds 鑄造跨越 20 年。 到那時，我們渴望實現構建一個成熟的
 - 加入我們的 [Discord](https://discord.com/invite/hAuADSq3) 社區，了解最新消息
 - 加入我們的 [Builders](https://meeds.io/builders) 社區來測試 Meeds 軟件，參與並獲得一些 Meeds 參與獎勵
 
-**\*\*\* The Work Metaverse - 讓我們一起打造這個瘋狂的未來世界。 \*\*\***
+**\*\*\* The WoM - let’s build this crazy future world together. \*\*\***

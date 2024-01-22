@@ -1,4 +1,4 @@
-# 4. Xeeds--工作元气的个人/用户
+# 4. Xeeds - WoM Individuals / users
 
 ## 4.1. 分散化和自发的模式
 
@@ -14,7 +14,7 @@ WoM 將隱私視為一項基本人權，並授權用戶擁有自己的數據。
 
 在當今世界，很難事先證明一項技能。 當人們在網絡上做廣告時，他們指望他們的經理給他們推薦。 後者假設經理有一定的善意，但未必被未來的雇主視為證據。
 
-Work Metaverse 為人們獲得和展示他們的能力提供了一種更加透明和不變的方式。
+The WoM provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
 
 徽章用於表示在 Deed 中取得的成就。 完成一組目標或挑戰後，用戶將獲得積分。 可以通過在特定類別中積累一定數量的積分來解鎖徽章。
 
@@ -54,7 +54,7 @@ WoM 引入了一種客觀的方式來識別成就並獎勵它們。
 
 ## 4.6. 访问 Web 3.0、加密经济和 DEFI 服务
 
-如上所述，Work Metaverse 向基本上所有人開放了加密貨幣和去中心化網絡服務的世界——大量用戶，甚至可能與數字領域無關。
+As discussed above, the WoM opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
 
 事實上，任何工作參與都可能被標記化。 事實上，隨著 5G、物聯網、可穿戴設備等趨勢的出現，世界正變得越來越數字化。 因此，可能會捕獲和分析越來越多的信號，以標記非數字職業的參與。 挑戰提供了一種現成的方式來通過代表物理世界中的成就來標記它。
 

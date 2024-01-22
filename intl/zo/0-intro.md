@@ -4,7 +4,7 @@
 
 由於高昂的交易成本 [^1][^2][^3] 以及雇主與僱員之間頻繁的利益衝突，當今的工作市場缺乏效率。
 
-The Work Metaverse (the WoM) 提出了一種新範式，可以降低交易成本並重塑僱傭關係，彌合傳統公司與 DAO 之間的差距。
+The WoM (World of Meeds) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs.
 
 WoM 通過為雇主和僱員引入數字身份並提供符合他們利益的創新參與獎勵系統來做到這一點。
 
@@ -33,7 +33,7 @@ WoM 旨在通過新的去中心化工作範式解決這兩個問題。
 
 第一個 DAO 扁平化了層次結構並開放了所有權。 WoM 通過重塑而不是壓制雇主/僱員關係來追求這一邏輯。 它引入了一種透明、客觀和去中心化的獎勵模式，可持續地使雇主和僱員的利益保持一致。
 
-最後，Work Metaverse 彌合了企業與 DAO 之間的鴻溝。 一方面，它通過易於應用的參與獎勵範式將傳統公司引入去中心化世界，以補充其薪酬系統。 另一方面，它提出了為 DAO 運營和創造價值的可持續方式。 最終，WoM 可能成為首批為每個公司和每個員工（包括非數字員工）民主化使用區塊鏈的主流應用程序之一。
+Finally, the WoM bridges the gap between corporations and the DAOs. 一方面，它通過易於應用的參與獎勵範式將傳統公司引入去中心化世界，以補充其薪酬系統。 另一方面，它提出了為 DAO 運營和創造價值的可持續方式。 最終，WoM 可能成為首批為每個公司和每個員工（包括非數字員工）民主化使用區塊鏈的主流應用程序之一。
 
 與任何去中心化企業一樣，WoM 提案的價值會隨著越來越多的人使用而呈指數級增長。 出於這個原因，創始人非常注意鼓勵長期利益並避免壟斷 WoM 利益，無論是短期還是長期。 它是一個開放的範例，仍有待建立，並開放給每個人積極的創造性參與。
 

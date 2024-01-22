@@ -1,14 +1,14 @@
-# 3. Meeds 代币——工作元宇宙的货币
+# 3. Meeds token – the currency of the WoM
 
-Work Metaverse 由其貨幣——Meeds (MEED) 代幣提供支持。 Meeds 用於獎勵用戶（通過參與計劃）、在商店購買、獲得 Deeds、獲得投資的財務回報等。
+The WoM is powered by its currency – the Meeds (MEED) token. Meeds 用於獎勵用戶（通過參與計劃）、在商店購買、獲得 Deeds、獲得投資的財務回報等。
 
 ## 3.1. 代幣經濟學 代币经济学
 
 Meeds **最大供應量限制為 1 億個代幣**，逐步鑄造。 **Meeds 以每分鐘 10 個 Meed 的速度鑄造**。 因此，整個鑄造週期接近 20 年（因為每年鑄造大約 $10*60*24*365 = 500 萬美元 Meeds）。
 
-迄今為止，已經預製了 500 萬顆 Meeds（佔總供應量的 5%）。 其中，450 萬已鎖定在 4 年以上線性歸屬的金庫合約中。 預鑄金額主要用於獲取軟件IP、支付代幣發行的法律費用和託管服務。
+5 Million Meeds (5% of the total supply) were pre-minted initially. 其中，450 萬已鎖定在 4 年以上線性歸屬的金庫合約中。 The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees, and host services.
 
-其餘部分是 __Meeds DAO 資金__的一部分，將用於支付服務費用以及一些啟動激勵措施，例如空投和推薦活動。
+The rest is part of the __Meeds DAO funds__ and will be used to pay for services and launch incentives such as airdrops and referral campaigns.
 
 
 ## 3.2. 鑄幣分配 鑄幣分配
@@ -94,7 +94,7 @@ Meeds 代幣持有者需要抵押代幣才能對 Meeds DAO 決策進行投票，
 
 ## 3.7. 去中心化金融（DeFi）用戶服務
 
-Work Metaverse 將把區塊鏈世界介紹給今天不使用它的許多人。
+The WoM will introduce the blockchain world to many people who do not use it today.
 
 事實上，任何工作（無論是否數字化）都可以被遊戲化，任何參與 - 都可以通過 Meeds 獲得獎勵。 Meeds 通過一個易於使用的、基於區塊鏈的錢包向用戶提供，該錢包將加密世界的任何復雜性“抽象”為普通用戶。
 

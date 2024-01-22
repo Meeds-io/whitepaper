@@ -1,5 +1,5 @@
 
-# 2. 资产 NFT - 工作元宇宙中的组织
+# 2. Deeds NFT - WoM Organizations
 
 ## 2.1. NFT – 契约定义
 
