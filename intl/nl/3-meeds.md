@@ -1,14 +1,14 @@
-# 3. Meeds token - de Work Metaverse valuta
+# 3. Meeds token - het valuta van de WoM
 
-De Work Metaverse wordt aangedreven door haar valuta - de Meeds (MEED) token. Meeds worden gebruikt om gebruikers te belonen (via engagement programma's), in winkels te kopen, Deeds te krijgen, financieel rendement op investeringen te krijgen etc.
+De WoM is aangedreven door haar valuta - de Meeds (MEED) token. Meeds worden gebruikt om gebruikers te belonen (via engagement programma's), in winkels te kopen, Deeds te krijgen, financieel rendement op investeringen te krijgen etc.
 
 ## 3.1. Tokenomics
 
 De **maximale voorraad Meeds is beperkt tot 100 miljoen tokens**, die geleidelijk worden geslagen. **Meeds worden geslagen met een snelheid van 10 MEED per minuut**. Daarom is de volledige munthorizon bijna 20 jaar (aangezien ongeveer $10*60*24*365 = 5M$ Meeds per jaar worden geslagen).
 
-Tot op heden zijn 5 miljoen Meeds (5% van de totale voorraad) voorgemunt. Daarvan zijn 4,5 miljoen vastgezet in een kluiscontract met een lineaire vesting over 4 jaar. Het voorgemunt bedrag werd hoofdzakelijk gebruikt om software-IP te verwerven, de juridische kosten van de tokenemissie en hostingdiensten te betalen.
+Er werden aanvankelijk 5 miljoen Meeds (5% van het totale aanbod) voorgemint. Daarvan zijn 4,5 miljoen vastgezet in een kluiscontract met een lineaire vesting over 4 jaar. Het voorgemunte bedrag werd voornamelijk gebruikt voor het verwerven van software-intellectuele eigendomsrechten, het betalen van juridische kosten voor token-emissie en het hosten van diensten.
 
-De rest is onderdeel van de __Meeds DAO-fondsen__ en zal worden gebruikt om diensten te betalen, evenals enkele lanceringsprikkels zoals airdrops en verwijzingscampagnes.
+De rest maakt deel uit van de __Meeds DAO-fondsen__ en zal worden gebruikt om voor diensten te betalen en incentives te lanceren, zoals airdrops en verwijzingscampagnes.
 
 
 ## 3.2. Minting allocatie
@@ -94,7 +94,7 @@ Houders van Meeds tokens moeten tokens inzetten om te kunnen stemmen over de bes
 
 ## 3.7. Gedecentraliseerde financiële (DeFi) gebruikersdiensten
 
-De Work Metaverse zal de blockchainwereld introduceren bij veel mensen die er vandaag geen gebruik van maken.
+De WoM zal de blockchain-wereld introduceren bij veel mensen die er vandaag de dag geen gebruik van maken.
 
 Elk werk (al dan niet digitaal) kan immers worden gegamificeerd en elk engagement - beloond met Meeds. Meeds worden beschikbaar gesteld aan gebruikers via een gebruiksvriendelijke, op blockchain gebaseerde portefeuille die elke complexiteit van de cryptowereld "abstraheert" voor de gemiddelde gebruiker.
 

@@ -1,5 +1,5 @@
 
-# 2. Deeds NFT - Work Metaverse Organisaties
+# 2. Deeds NFT - WoM organisaties
 
 ## 2.1. Beloningen - Meeds en andere penningen
 

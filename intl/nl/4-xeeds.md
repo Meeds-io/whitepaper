@@ -1,4 +1,4 @@
-# 4. Xeeds - Werk Metaverse Personen / gebruikers
+# 4. Xeeds - WoM Particulieren / gebruikers
 
 ## 4.1. Gedecentraliseerde en autonome modellen
 
@@ -14,7 +14,7 @@ Badges en Referenties worden gegeven aan gebruikers als onderdeel van hun deelna
 
 In de wereld van vandaag is het moeilijk om een vaardigheid vooraf te bewijzen. Wanneer mensen zich op netwerken adverteren, rekenen zij op een aanbeveling van hun managers. Dit laatste veronderstelt een zekere goodwill van de manager, maar wordt door de toekomstige werkgever niet noodzakelijk als bewijs beschouwd.
 
-De Work Metaverse biedt een meer transparante en onveranderlijke manier voor mensen om hun capaciteiten te verwerven en aan te tonen.
+De WoM biedt mensen een transparantere en onveranderlijke manier om hun vaardigheden te bemachtigen en demonstreren.
 
 Badges worden gebruikt om prestaties binnen een Deed weer te geven. Na het voltooien van een reeks doelstellingen of uitdagingen krijgen gebruikers punten. Badges kunnen worden ontgrendeld door bepaalde hoeveelheden punten te verzamelen in specifieke categorieën.
 
@@ -54,7 +54,7 @@ Portefeuilles zijn individueel en gebaseerd op blockchain - wanneer de gebruiker
 
 ## 4.6. Toegang tot Web 3.0, cryptoeconomie en DEFI-diensten
 
-Zoals hierboven besproken, opent de Work Metaverse de wereld van cryptocurrency en gedecentraliseerde webdiensten voor vrijwel iedereen - een zeer grote populatie van gebruikers, zelfs mogelijk niet gerelateerd aan het digitale veld.
+Zoals hierboven besproken, opent de WoM de wereld van cryptovaluta en gedecentraliseerde webdiensten voor bijna iedereen - een extreem grote bevolking aan gebruikers, mogelijk zelfs volledig nieuw tot het digitale veld.
 
 Elke werkopdracht kan immers worden getoken. In feite wordt de wereld steeds digitaler met trends als 5G, iot, wearables enzovoort. Bijgevolg kunnen potentieel steeds meer signalen worden opgevangen en geanalyseerd om de inzet van niet-digitale beroepen te tokenen. Challenges bieden een kant-en-klare manier om dit te symboliseren door prestaties in de fysieke wereld te vertegenwoordigen.
 

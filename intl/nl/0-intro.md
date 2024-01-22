@@ -4,7 +4,7 @@
 
 De huidige arbeidsmarkt is niet efficiënt genoeg vanwege de hoge transactiekosten[^1][^2][^3] en frequente belangenconflicten tussen de werkgever en de werknemer.
 
-De Work Metaverse (de WoM) stelt een nieuw paradigma voor dat de transactiekosten zou verlagen en de arbeidsrelatie opnieuw zou uitvinden, waarbij de kloof tussen traditionele bedrijven en DAOs wordt overbrugd.
+De WoM (World of Meeds) stelt een nieuw paradigma voor dat de transactiekosten zou verlagen en de arbeidsrelatie opnieuw zou uitvinden, waardoor de kloof tussen traditionele bedrijven en DAO's zou worden overbrugd.
 
 De WoM doet dat door digitale identiteiten voor zowel werkgever als werknemer in te voeren en een innovatief systeem van engagementbeloning aan te bieden dat hun belangen op elkaar afstemt.
 
@@ -33,7 +33,7 @@ Naar aanleiding van de werken van R. Coase[^5], koppelen de meeste economen het 
 
 De eerste DAO's vlakken de hiërarchieën af en openen het eigenaarschap. De WoM volgt deze logica door de relatie tussen werkgever en werknemer opnieuw uit te vinden in plaats van te onderdrukken. Het introduceert een transparant, objectief en gedecentraliseerd beloningsparadigma dat de belangen van de werkgever en de werknemer duurzaam op elkaar afstemt.
 
-Ten slotte slaat de Work Metaverse een brug tussen ondernemingen en DAO's. Het stelt duurzame manieren voor om te werken en waarde te creëren voor Dao's. Enerzijds introduceert het traditionele bedrijven in de gedecentraliseerde wereld via een eenvoudig toe te passen beloningsparadigma voor engagement, als aanvulling op hun beloningssystemen. Uiteindelijk zou de WoM een van de eerste mainstream toepassingen kunnen zijn om het gebruik van de blockchain te democratiseren voor elk bedrijf en elke werknemer - ook de niet-digitale.
+Tenslotte overbrugt de WoM de kloof tussen bedrijven en de DAOs. Het stelt duurzame manieren voor om te werken en waarde te creëren voor Dao's. Enerzijds introduceert het traditionele bedrijven in de gedecentraliseerde wereld via een eenvoudig toe te passen beloningsparadigma voor engagement, als aanvulling op hun beloningssystemen. Uiteindelijk zou de WoM een van de eerste mainstream toepassingen kunnen zijn om het gebruik van de blockchain te democratiseren voor elk bedrijf en elke werknemer - ook de niet-digitale.
 
 Zoals bij elke gedecentraliseerde onderneming wint het WoM-voorstel exponentieel aan waarde naarmate meer mensen het gebruiken. Om die reden hebben de oprichters grote zorg besteed aan het aanmoedigen van belangstelling op lange termijn en het vermijden van monopolisering van de WoM-voordelen, zowel op korte als op lange termijn. Het is een open paradigma, nog te bouwen, en open voor actieve creatieve deelname van iedereen.
 
