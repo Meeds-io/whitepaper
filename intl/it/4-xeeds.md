@@ -1,4 +1,4 @@
-# 4. Xeeds - Work Metaverse Individuals / utenti
+# 4. Xeeds - WoM Individui/utenti
 
 ## 4.1. Modelli decentralizzati e auto-sovrani
 
@@ -14,7 +14,7 @@ Badge e credenziali vengono assegnati agli utenti come parte della loro partecip
 
 Nel mondo di oggi, è difficile dimostrare in anticipo un'abilità. Quando le persone si pubblicizzano sui network, contano sui loro responsabili per dar loro una raccomandazione. Quest'ultimo presuppone una certa buona volontà da parte del responsabile ma non è necessariamente considerato come prova dal futuro datore di lavoro.
 
-Il Work Metaverse fornisce un mezzo più trasparente e immutabile per le persone di acquisire e dimostrare le loro abilità.
+Il WoM fornisce alle persone un mezzo più trasparente e immutabile per acquisire e dimostrare le proprie capacità.
 
 I distintivi sono utilizzati per rappresentare i risultati ottenuti in un Atto. Dopo aver completato una serie di obiettivi o sfide, gli utenti riceveranno dei punti. I badge possono essere sbloccati accumulando un certo numero di punti in categorie specifiche.
 
@@ -54,7 +54,7 @@ I portafogli sono individuali e basati sulla blockchain: quando l'utente riceve 
 
 ## 4.6. Accesso ai servizi Web 3.0, criptoeconomia e DEFI
 
-Come discusso in precedenza, il Work Metaverse apre il mondo della criptovaluta e dei servizi web decentralizzati a praticamente tutti - una popolazione molto ampia di utenti, anche possibilmente non correlati al campo digitale.
+Come discusso in precedenza, il WoM apre il mondo della criptovaluta e dei servizi web decentralizzati praticamente a tutti: una popolazione molto ampia di utenti, anche forse estranei al campo digitale.
 
 Infatti, qualsiasi impegno lavorativo può potenzialmente essere tokenizzato. In effetti, il mondo sta diventando sempre più digitale con tendenze come il 5G, IoT, indossabili e così via. Di conseguenza, potenzialmente un numero sempre maggiore di segnali potrebbe essere catturato e analizzato per tokenizzare l'impegno delle professioni non digitali. Le sfide forniscono un modo pronto per gettarlo, rappresentando i risultati ottenuti nel mondo fisico.
 
