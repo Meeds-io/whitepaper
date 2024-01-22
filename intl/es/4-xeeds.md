@@ -1,4 +1,4 @@
-# 4. Xeeds - Work Metaverse Individuos/usuarios
+# 4. Xeeds - WoM Individuos/usuarios
 
 ## 4.1. Modelos descentralizados y auto-soberanos
 
@@ -14,7 +14,7 @@ Las Insignias y Credenciales se otorgan a los usuarios como parte de su particip
 
 En el mundo actual, es difícil demostrar una habilidad de antemano. Cuando las personas se anuncian en las redes, cuentan con que sus gerentes para darles una recomendación. Esta última supone cierta buena voluntad por parte del gestor, pero no es necesariamente tratada como prueba por el futuro empresario.
 
-El Work Metaverse proporciona un medio más transparente e inmutable para que las personas adquieran y demuestren sus capacidades.
+El WoM proporciona un medio más transparente e inmutable para que las personas adquieran y demuestren sus capacidades.
 
 Las insignias se utilizan para representar los logros alcanzados en un Deed. Después de completar un conjunto de objetivos o desafíos, los usuarios serán premiados con puntos. Las insignias pueden desbloquearse acumulando determinadas cantidades de puntos en categorías específicas.
 
@@ -54,7 +54,7 @@ Los monederos son individuales y se basan en blockchain - cuando el usuario reci
 
 ## 4.6. Acceso a la Web 3.0, criptoeconomía y servicios DEFI
 
-Como ya se ha comentado, el Work Metaverse abre el mundo de las criptomonedas y los servicios web descentralizados básicamente a todo el mundo - una población muy amplia de usuarios, incluso posiblemente no relacionados con el ámbito digital.
+Como se discutió anteriormente, la WoM abre el mundo de las criptomonedas y los servicios web descentralizados básicamente a todos: una gran población de usuarios, incluso posiblemente sin relación con el campo digital.
 
 De hecho, cualquier compromiso laboral puede ser potencialmente tokenizado. De hecho, el mundo es cada vez más digital con tendencias como 5G, iot, wearables, etc. En consecuencia, podrían captarse y analizarse cada vez más señales para tokenizar el compromiso de las profesiones no digitales. Los retos ofrecen una forma fácil de simbolizar los logros en el mundo físico.
 
