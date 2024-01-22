@@ -1,5 +1,5 @@
 
-# 2. Діє NFT - Work Metaverse Організації
+# 2. Deeds NFT - WoM Organizations
 
 ## 2.1. NFT - Визначено значення
 
