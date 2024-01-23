@@ -1,14 +1,14 @@
-# 5. Le WoM pour TOUS – résumé de la vision et jalons
+# 5. Le WoM pour TOUS – résumé de la vision et feuille de route
 
-## 5.1. L'objectif ultime - un Web décentralisé pour tout le monde
+## 5.1. Objectif ultime - Web décentralisé pour tout le monde
 
-Au final, le WoM sera un monde dans le web décentralisé pour tous – personne ou organisation.
+En fin de compte, le WoM est un monde web décentralisé pour tout le monde – chaque personne et toutes les organisations.
 
 Il sera peuplé d'utilisateurs, agissant à travers leurs identités numériques **Xeeds** et y accédant avec leurs comptes metamasks pour les cryptophiles avertis, ou par identifiant/mot de passe pour les débutants. Les personnes s'y engageront et seront récompensées de manière équitable, transparente et décentralisée. Elles auront accès au monde décentralisé et au monde des cryptos de demain d'une manière facile et familière - ils auront accès à des outils simples pour pouvoir utiliser leurs jetons dans leur vie ou les investir pour leur avenir.
 
-Les organisations à travers leurs **Deeds** seront en mesure de trouver des talents, en naviguant dans le WoM, pour trouver des compétences prouvées. Elles seront récompensées pour leur participation au WoM, en recevant des jetons émis grâce à l'engagement de leurs utilisateurs (modèle mintium). Mais surtout, elles bénéficieront d'un engagement et d'une loyauté accrus de la part de leurs utilisateurs.
+Les organisations seraient en mesure de s'approvisionner en talents, en parcourant le WoM pour obtenir les compétences qui ont fait leurs preuves. Elles seront récompensées pour leur participation au WoM, en recevant des jetons émis grâce à l'engagement de leurs utilisateurs (modèle mintium). Mais surtout, elles bénéficieront d'un engagement et d'une loyauté accrus de la part de leurs utilisateurs.
 
-Le WoM aurait sa propre monnaie : le **Meeds** – qui serait là pour être dépensé dans les boutiques, converti en d'autre devises, investi, loué ou acheté, etc. Le WoM facilitera également la distribution d'autres jetons et participera à l'écosystème global des cryptomonnaies.
+Le WoM a sa propre monnaie l' **MEED** - qui est là pour dépenser dans les boutiques des Hubs, être converti en une autre devise, investir pour un retour sur investissement, louer ou acheter, etc. Le WoM facilitera également la distribution d'autres jetons et participera à l'écosystème global des cryptomonnaies.
 
 Une image vaut mille mots, voici donc un diagramme qui décrit les flux WoM et Meeds
 

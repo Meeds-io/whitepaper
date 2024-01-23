@@ -15,7 +15,7 @@ Le reste fait partie des __fonds de Meeds DAO__ et sera utilisé pour payer les 
 
 Les Meeds émis sont alloués pour encourager la participation des trois catégories de parties prenantes - les utilisateurs, les bâtisseurs et les investisseurs :
 
-- Les utilisateurs (utilisateurs et propriétaires / loueurs de Deeds) obtiennent des Meeds grâce aux récompenses produites par l'engagement (modèle Mintium).
+- Les utilisateurs (utilisateurs et détenteurs/locataires de Deed et ) obtiennent des MEED grâce à des récompenses d'engagement (modèle Mintium).
 - Les bâtisseurs (membres de l'association et de la communauté) recueillent des Meeds à travers les fonds de l'association utilisés pour construire, opérer et améliorer le WoM.
 - Les investisseurs génèrent des Meeds pour la location et l'achat de liquidités et par les intérêts produits en plaçant leurs Meeds.
 
@@ -23,7 +23,7 @@ Au début, les bâtisseurs obtiennent 30% des jetons émis. Les 70% restants son
 
 ## 3.3. Utilisateurs - Récompenser l'engagement
 
-Une partie des Meeds émis est allouée aux canal de récompense de l’engagement. La distribution est réalisée chaque semaine. A chaque fin de période, l'index d'engagement est recalculé et les Deeds peuvent réclamer leurs récompenses la semaine suivante pour obtenir leurs Meeds. Les Meeds non réclamés sont conservés dans un fond et sont ajoutés à la distribution de la semaine suivante. Le modèle est décrit en détail dans le précédent chapitre (2.6).
+Une partie des Meeds émis est allouée aux canal de récompense de l’engagement. La distribution est réalisée chaque semaine. Tous les week-ends l'index d'engagement est calculé pour que les leaders de Hubs et les propriétaires de Deed puissent réclamer leurs récompenses la semaine suivante et obtenir leurs MEED. Les Meeds non réclamés sont conservés dans un fond et sont ajoutés à la distribution de la semaine suivante. Le modèle est décrit en détail dans le précédent chapitre (2.6).
 
 ## 3.4. Builders – DAO de l’association Meeds et communauté de bâtisseurs
 
@@ -33,11 +33,11 @@ Pendant la période d'émission des meeds, **30% des meeds émis sont alloués �
 
 Les membres de l'association peuvent fournir des services à l'association sur la base d'une convention de services signée déterminant le tarif jour-homme. Les services sont payés mensuellement en Meeds, en fonction du prix du marché. Parmi les exemples de services, citons l'enrichissement du logiciel Meeds, le développement de l'application WoM, le développement de nouveaux connecteurs, l'exploitation du service cloud, la fourniture de services financiers et juridiques, etc.
 
-Sans être membre, tout Deed peut participer à la création d’un nouveau connecteur et être récompensé pour cette initiative – d’une part, par l’acquisition du connecteur par l’association Meeds et d’autre part, en recevant des Meeds émis par l'engagement capté par ce connecteur.
+Sans être membre, toute organisation peut participer à la création d'un nouveau connecteur et être compensée pour cela – d'abord par acquisition du connecteur par  l'Association, puis par le biais de ce connecteur lui-même.
 
-L’association fait ainsi vivre la communauté des bâtisseurs qui accueille des enthousiastes du WoM, qui veulent eux-mêmes participer à la création du WoM. L’association parrainera la communauté sur son budget, en récompensant ainsi l’engagement des membres de sa communauté.
+L'association gère son propre hub communautaire nommé le Hub des Constructeurs qui accueille les enthousiastes de WoM, qui veulent contribuer à sa création. L’association parrainera la communauté sur son budget, en récompensant ainsi l’engagement des membres de sa communauté.
 
-Par conséquent, la communauté fonctionnera comme un exemple de Deed, offrant un ensemble de services standards fournis par l’association. Cette dernière investira des Meeds pour fournir un Deed pour la communauté. Celle-ci pourra également participer à l’émission issue de l’engagement comme tout autre Deed.
+Ainsi, le hub des constructeurs fonctionnera comme un exemple en direct d'une communauté gérée par le logiciel Meeds, couvrant un ensemble de services fournis en standard par l'association. L’association stake des jetons Meeds afin d'acheter un Deed pour sa communauté. Ainsi, le Hub des constructeurs bénéficiera également de l'engagement comme tout autre Hub soutenu par un Deed.
 
 Une fois la période d’émission terminée, l’association sera soutenue par :
 
@@ -45,7 +45,7 @@ Une fois la période d’émission terminée, l’association sera soutenue par 
 - les taxes sur les revenus de vente (2.5% sur les ventes de Deeds)
 - les frais de transactions d'achat dans les boutiques
 - ses revenus en tant que fournisseur de liquidité
-- des commissions quand un Deed distribue des jetons autres que des Meeds via les services du WoM.
+- percevoir les frais de transaction lorsqu'un Hub distribue des jetons non-Meeds via les services WoM.
 - les revenus degagés en opérant les Deeds qu'elle possède.
 
 
