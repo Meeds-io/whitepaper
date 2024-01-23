@@ -6,7 +6,7 @@
 
  NFTs (Non-Fungible Tokens) can be compared to deeds in the real world. Just as deeds signify ownership of a tangible property, NFTs provide proof of ownership for digital assets. This property right is registered and maintained on a blockchain, thus, assuring that the asset is unique and can't be replicated.
 
- In the World of Meeds (WoM), a Deed is used as a core value of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a community hub, some hidden dynamic tools powered by the Meeds software and Mintium rewards (see 2.6).
+ In the World of Meeds (WoM), a Deed is used as a core value of ownership. Each Deed gives its owner a right to run a community Hub and Mintium rewards (see 2.6).
 
  The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital presence in the WoM.
 
@@ -14,7 +14,7 @@
 
 The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of Meeds rewarding (Minting Power). The term ‘user’ here and hereafter designates any type of employee, worker, freelancer, volunteer etc.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
+There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or minting power, the rarest being the most powerful :
 
 | **Deed Type** |  **Max users** |  **Minting power** |  **Scarcity** |  **City voting rights** | 
 | --- | --- | --- | --- | --- | 
@@ -27,52 +27,47 @@ There are four types of Deeds, each providing different capabilities in terms of
 
 A Deed gives its owner the right to USE it, RENT it, or SELL it.
 
-- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
-- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
-- SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
+- USE – The owner can use the Deed to run a hub for his own organization.
+- RENT - The owner can also rent the Deed to another organization and earn passive income.
+- SELL - The owner can sell it on a secondary NFT marketplace such as [OpenSea](https://opensea.io).
 
-Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
+Being an active holder or renter of a Deed, the organization is entitled to MEED rewards according to the “mintium” model described below (see 2.6).
 
-## 2.4. Deeds services, engagement/rewards engine
+## 2.4. Community Hubs
 
-In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
+In today's competitive market, organizations seek to attract and retain top talent not only through compensation but also by enhancing work engagement. The WoM addresses this challenge with a unique, tokenized reward system embodied in Community Hubs.
 
-Each Deed’s holder or renter can set and achieve fine-tuned organizational priorities by creating contribution programs for community members who earn engagement points that are Periodically converted into Meeds token (and - for DAOs - potentially another token), based on a predefined budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
+Within these Hubs, community leaders have the power to drive contributor engagement. Members earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
 
-To begin with, the following free services provided by the Meeds association can be used to reward engagement:
+Community Hubs offer a suite of tools and features designed to boost and manage contributor engagement:
 
-- **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the organization’s priorities via customizable engagement programs.
-- **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
-- **Customizable engagement programs** - organizations can create their engagement programs to match their business goals and priorities. Programs are associated with automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatic or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
-- **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
-- **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
-- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
-- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
-- **Analytics** – to analyze and follow engagement within the Deed.
-- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
+- **Actions**: This feature steers contributors through tasks with incentives, empowering them to align their efforts with organizational objectives. It not only motivates but also provides a clear direction for their contributions.
+- **Gamification**: Incorporates elements like leaderboards and badges, transforming work into a more enjoyable experience. This approach not only makes contributions fun but also fosters a competitive and engaging environment.
+- **Engagement Programs**: Tailored programs offer specific targets and rewards, clarifying organizational goals and priorities. This system ensures fairness by proportionally rewarding contributors, enhancing their sense of achievement and equity.
+- **Kudos**: Allows for immediate peer recognition, significantly boosting morale on the spot. This feature fosters a culture of appreciation and acknowledgment, enhancing team cohesion and motivation.
+- **Spaces**: Structures activities and communication within sub-groups and projects, making collaboration less chaotic and more efficient. This organization enhances collective productivity and streamlines project execution.
+- **Wallet**: Facilitates the handling of MEED tokens, allowing contributors to tangibly feel the rewards of their efforts. This feature not only simplifies transactions but also reinforces the connection between contribution and reward.
+- **Perks**: Provides a diverse range of rewards, from gift cards to NFTs, serving as a powerful retention tool. The exclusive use of MEED tokens for purchases encourages ongoing engagement and loyalty to the organization's ecosystem.
+- **Tasks**: Streamlines project and task management, significantly boosting productivity. By simplifying workflows and tracking progress, this feature aids in the efficient completion of projects.
+- **Notes**: Offers a platform for documenting critical information such as onboarding guides, fostering knowledge sharing and organizational self-sufficiency. This tool ensures that valuable knowledge is captured and easily accessible to all members.
+- **Branding**: Enables customization of the Hub's appearance to make it more inviting and reflective of the organization's identity. This personal touch helps attract new contributors and enhances their sense of belonging.
+- **Analytics**: Provides critical insights into community engagement, helping leaders identify successful strategies and areas needing improvement. This data-driven approach allows for informed decisions to optimize engagement and productivity
 
-Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
 
-New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
+**Starting a Hub**
+Initiating a Hub is most seamless via meeds.io, which offers access to a cloud platform managed by the Meeds Association. This platform allows for quick setup and is maintained by the non-profit entity that stewards the WoM. However, the WoM caters to decentralization. As the Meeds software is open source and freely distributed, organizations have the option to self-host a Hub server and connect to the WoM network, granting them more control and customization in their Hub’s setup and management.
 
-- CRM software – salespeople would get engagement points for working on opportunities.
-- Accounting software – accountants would get engagement points for keeping books.
-- Clocking terminal – factory worker can get points for factory work time.
-- Etc.
+**Capturing Work Signals**
+Hubs can integrate with various platforms like GitHub, Twitter, and Discord and are extendable via API to connect with services such as CRM software, accounting software, and clocking terminals. This allows for diverse professional contributions to be recognized and rewarded. All connectors undergo a whitelisting process by the Meeds Association to guarantee integrity and functionality.
 
-Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described
-below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Hub can use the same connector and the same reward algorithm for its developers.
+**Enriching the Perks Store**
+Organizations can tailor the store with custom perks, including training courses and gym memberships, creating a self-reinforcing cycle of rewards and engagement. This not only incentivizes contributors but also fosters a deeper connection with the organization’s ecosystem.
 
-The organization can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
+**Engagement and Rewards**
+Active participation in the Hub contributes to an organization’s global engagement score. This metric reflects the effectiveness of engagement strategies, considering factors like user activity levels and the equitable distribution of work and rewards. This publicly auditable score, entitles Hubs to a distribution of MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
 
-- Training courses
-- Gym memberships
-- Vacation packages
-- Lunch with a leader in the organization
-- Physical office space
-- Etc.
+Looking ahead, Community Hubs in the WoM ecosystem are set to become central to community life, integrating internal communications, real-time interactions, governance, and various productivity tools. These enhancements will ensure that the Hubs remain interconnected with the best tools already employed by organizations. They stand as a powerful testament to Meeds' commitment to fostering a vibrant, engaged community.
 
-The store functions through the use of Meeds so that Meeds are partially returned to the community.
 
 ## 2.5. Rewards – Meeds and other tokens
 
