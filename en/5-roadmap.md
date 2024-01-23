@@ -1,15 +1,15 @@
-# 5. The WoM for ALL – vision summary and milestones
+# 5. WoM for ALL – vision summary and milestones
 
-## 5.1. Ultimate goal - decentralized web for everyone
+## 5.1. Ultimate Goal - Decentralized web for everyone
 
-In the end, the WoM is a decentralized web world for everyone – every person and every organization.
+In the end, the WoM is a decentralized web world for everyone – every person and all organizations.
 
 It will be populated by users, acting through their digital identities **Xeeds** and accessing the world through their metamasks, for crypto-savvies, or login/password for the newbies.
 People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
 
-Organizations - **Deeds** would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the WoM, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
+Organizations would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the WoM, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
 
-The WoM would have its own currency **Meeds** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
+The WoM would have its own currency the **MEED** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
 
 As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
 
