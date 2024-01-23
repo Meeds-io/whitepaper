@@ -44,7 +44,7 @@ The user will be able to select whether or not to reveal anything, what informat
 
 Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Hubs – as they do in the physical world by changing employers. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to see which Hub provides better engagement reward conditions, belongs to a more attractive city, etc.
 
-On their end, the Hub leaders can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
+On their end, the community leaders can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
 
 ## 4.5. Tangible and transparent recognition
 
