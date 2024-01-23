@@ -20,7 +20,7 @@ Badges are used to represent accomplishments made within a community. After comp
 
 When badges are downloaded by the user, it is possible to include the number of points and his rank in the Hub for this specific accomplishment.
 
-Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the community.
+Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the space.
 These are signed by the Hub and can be accompanied by a signature by a peer user.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
