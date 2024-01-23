@@ -32,7 +32,7 @@ All of the above contributes to forming proven digital skillset that can be kept
 
 Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Hub to another, from one city to another, anywhere through the WoM.
 
-The user will be able to display his Xeed, Badges, and Credentials on other Hubs to highlight his experience, as well as with recruiters or any other services that he deems interesting.
+The user will be able to express his Xeed, Badges, and Credentials towards other Hubs to highlight his experience, as well as with recruiters or any other services that he deems interesting.
 
 A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations.
 
