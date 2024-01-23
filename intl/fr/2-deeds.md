@@ -3,9 +3,12 @@
 
 ## 2.1. Définition des NFT - Deeds
 
-Un jeton non fongible (NFT pour Non Fungible Token) est un jeton unique qui représente un bien. Dans le WoM, un Deed est utilisé comme titre de propriété. Chaque Deed donne à son propriétaire un droit d'accès à plusieurs services - par exemple, un accès à un espace de travail numérique supporté par le logiciel Meeds ainsi que des récompenses pour l'engagement généré dans le Deed.
 
-Le WoM accueille tout type d'organisations - des DAO, des entreprises traditionnelles, des associations, des groupes de réflexion, des partenariats, voire même des compagnies de théâtre, des groupes de projets, des écoles, etc. Le Deed incarne leur représentation numérique dans le WoM.
+ Les NFTs (jetons non fongibles) peuvent être comparés aux actes de propriété dans le monde réel. Tout comme les actes signifient la possession d'une propriété tangible, les NFTs fournissent une preuve de propriété pour les actifs numériques. Ce droit de propriété est enregistré et maintenu sur une blockchain, assurant ainsi que l'actif est unique et ne peut pas être répliqué.
+
+ Dans le World of Meeds (WoM), un Deed est utilisé comme une valeur fondamentale de propriété. Chaque Deed donne à son propriétaire le droit d'accéder à plusieurs services - par exemple, un accès à un hub communautaire, quelques outils dynamiques cachés propulsés par le logiciel Meeds et les récompenses Mintium (voir 2.6).
+
+ Le WoM accueille tout type d'organisations - des DAO, des entreprises traditionnelles, des associations, des groupes de réflexion, des partenariats, voire même des compagnies de théâtre, des groupes de projets, des écoles, etc. Le Deed représente leur présence numérique dans le WoM.
 
 ## 2.2. Approvisionnement des Deeds
 
@@ -34,13 +37,13 @@ En tant que détenteur actif ou locataire d’un Deed, l’organisation est réc
 
 Dans un marché de plus en plus concurrentiel, pour attirer puis retenir les talents et pour maximiser leurs apports, les organisations doivent motiver leurs utilisateurs bien au-delà de la simple rémunération. Pour ce faire, le WoM propose un cadre innovant permettant de matérialiser («tokeniser») l'engagement dans les activités proposées dans le Deed.
 
-Chaque titulaire ou locataire peut fournir des outils et des services à ses utilisateurs, qui gagnent des points d’engagement qui peuvent être paramétrés selon les priorités de l'organisation. Périodiquement, les points sont convertis en Meeds (et - pour les DAOs - potentiellement un autre jeton), en fonction du budget fixé à l'avance. De cette manière, l’engagement des utilisateurs dans les activités considérées importantes pour l’organisation est récompensé.
+Le titulaire ou le locataire de chaque Deed peut définir et atteindre des priorités organisationnelles raffinées en créant des programmes de contribution pour les membres de la communauté qui gagnent des points d'engagement qui sont périodiquement convertis en jeton Meeds (et - pour les DAO - potentiellement un autre jeton), basé sur un budget prédéfini. De cette manière, l’engagement des utilisateurs dans les activités considérées importantes pour l’organisation est récompensé.
 
 Pour commencer, les services suivants sont fournis gratuitement par l'association Meeds et peuvent être utilisés immédiatement pour récompenser l'engagement :
 
 - **Moteur de Gamification** – Toute action utilisateur est automatiquement détectée au sein du WoM et équivaut à un nombre de points. Ceci peut être ajusté selon les priorités du Deed via des programmes d’engagement personnalisables.
 - **Challenges** – Des défis personnalisables peuvent être mis en place pour représenter des accomplissements. Les challenges sont prédéfinis par une personne et peuvent être relevés et déclarés comme réussis par une autre. Les challenges ont aussi une valeur en points qui émargent à des programmes d’engagement personnalisables.
-- **Programmes d'engagement personnalisables** - Les organisations peuvent créer leurs propres programmes d'engagement correspondant à leurs objectifs et leurs priorités. Les programmes regroupent des actions automatiques et des challenges déclarés manuellement. Chacun d'eux a un budget défini en Meeds. Les points gagnés périodiquement par chaque utilisateur dans chaque programme d'engagement sont convertis en Meeds, selon le budget de ce programme.
+- **Programmes d'engagement personnalisables** - les organisations peuvent créer leurs programmes d'engagement pour répondre à leurs objectifs et priorités d'entreprise. Les programmes sont associés à des actions automatiques au sein du système et définissent manuellement des défis. Chacun d'eux a un budget défini en Meeds. Les points gagnés périodiquement par chaque utilisateur par le biais d'actions automatiques ou annoncées dans chaque programme d'engagement sont convertis en Meeds, selon le budget de ce programme.
 - **Kudos** - Les kudos peuvent être attribués par les utilisateurs les uns aux autres, comme un remerciement et un signe de reconnaissance. Étant donné que la distribution de kudos est limitée (3 par semaine par exemple), ils sont rares et précieux. Comme les autres actions, les kudos rapportent des points. De cette façon, les employés sont encouragés à récompenser leurs collègues et reconnaitre leurs contributions.
 - **Collaboration** Des outils de collaboration – espaces de travail, flux social, tâches et notes – permettent aux personnes de travailler ensemble sur des projets.
 - **Portefeuille** – Les utilisateurs sont dotés d'un portefeuille Ethereum sécurisé pour stocker leurs Meeds. En option, pour les utilisateurs plus avancés, un portefeuille Metamask peut être utilisé.
@@ -57,9 +60,9 @@ De nouveaux services peuvent être branchés dans le moteur de récompense via l
 - Pointeuse – Le travailleur d’usine peut obtenir des points pour le temps de travail extra dans l’usine.
 - Etc.
 
-En outre, l'engagement produit via le connecteur contribue au score d'engagement global de l'organisation qui sera facteur du taux de distribution des récompenses aux membres, tel que décrit dans la formule ci-dessous. Pour cela, le connecteur doit être approuvé par l'association Meeds. L'association évalue le connecteur, approuve son algorithme et acquiert sa propriété contre l'octroi de Meeds. Il fait ensuite partie des services fournis par l'association tout comme il est inclut dans l'index global d'engagement. Tout autre Deed peut utiliser le même connecteur et le même fonctionnement de récompenses pour ses développeurs.
+En outre, l'engagement produit via le connecteur contribue au score d'engagement global de l'organisation qui sera facteur du taux de distribution des récompenses aux membres, tel que décrit dans la formule ci-dessous. Pour cela, le connecteur doit être approuvé par l'association Meeds. L'association évalue le connecteur, approuve son algorithme et acquiert sa propriété contre l'octroi de Meeds. Il fait ensuite partie des services fournis par l'association tout comme il est inclut dans l'index global d'engagement. N'importe quel autre Hub peut utiliser le même connecteur et le même algorithme de récompense pour ses développeurs.
 
-Le propriétaire ou le loueur de Deed peut enrichir sa boutique interne avec ses propres produits et services, en le connectant par exemple à une offre en ligne, etc. Ici encore les possibilités sont infinies :
+L'organisation peut enrichir sa boutique avec ses propres avantages, se connecter à une offre d'avantages en ligne, etc. Ici encore les possibilités sont infinies :
 
 - Sessions de formation
 - Accès à une salle de sport
@@ -68,25 +71,25 @@ Le propriétaire ou le loueur de Deed peut enrichir sa boutique interne avec ses
 - Espace de travail physique
 - Etc.
 
-La boutique fonctionne à travers l'utilisation de Meeds. Ainsi, la cryptomonnaie dépensée par ses membres dans la boutique retourne partiellement au Deed.
+Le magasin fonctionne grâce à l'utilisation de Meeds afin que Meeds soit partiellement retourné à la communauté.
 
 ## 2.5. Récompenses - Meeds et autres jetons
 
-Le WoM récompense l’engagement utilisateur, en gamifiant les outils numériques de travail ainsi qu’en attribuant des points et des Meeds en lien avec l’engagement au travail. Les services connectés au moteur d'engagement et de récompenses permettent d’attribuer des points à chaque utilisateur, selon leur niveau d’engagement et en lien avec les programmes d’engagement de chaque Deed. En effet, chaque Deed peut personnaliser le nombre de points accordés pour chaque type d’activité. Ainsi, délivrer du code sur GitHub pourra valoir 10 points pour une société informatique et inversement, dans une agence digitale, cela pourrait valoir seulement 5 points alors que retweeter des infos pourrait valoir 10 points.
+Le WoM récompense l’engagement utilisateur, en gamifiant les outils numériques de travail ainsi qu’en attribuant des points et des Meeds en lien avec l’engagement au travail. Services branchés à l'attribut d'engagement et d'attribut de moteur de récompense pour chaque utilisateur, selon leur niveau d'engagement et conformément aux programmes d'engagement de chaque Hub. En effet, chaque communauté peut affiner le nombre de points donnés pour chaque type d'activité. Ainsi, délivrer du code sur GitHub pourra valoir 10 points pour une société informatique et inversement, dans une agence digitale, cela pourrait valoir seulement 5 points alors que retweeter des infos pourrait valoir 10 points.
 
-De manière périodique, le moteur de récompenses convertit les points en Meeds selon le budget et les autres règles d’attribution pour finalement récompenser les utilisateurs via leur portefeuille numérique. Le Deed n’est pas tenu de distribuer des Meeds ; il est possible d’utiliser les systèmes d’engagement proposés pour soutenir d’autres programmes de rétribution. En revanche, distribuer des Meeds améliorera sa force de frappe.
+De manière périodique, le moteur de récompenses convertit les points en Meeds selon le budget et les autres règles d’attribution pour finalement récompenser les utilisateurs via leur portefeuille numérique. Le Hub n'est pas requis pour distribuer Meeds et peut utiliser le système d'engagement pour activer une autre forme de programme de rémunération. En revanche, distribuer des Meeds améliorera sa force de frappe.
 
-Par ailleurs, le Deed n’a pas nécessairement besoin d’acquérir des Meeds pour les redistribuer et alimenter ses programmes d’engagement, puisqu’il est possible d’en obtenir depuis le modèle « Mintium », décrit plus bas.
+De plus, la communauté n'a pas nécessairement besoin d'acquérir Meeds pour les distribuer et alimenter ses programmes d'engagement. car il obtiendra Meeds du modèle « mintium », décrit ci-dessous.
 
 En plus des Meeds, il est également possible de distribuer d’autres jetons (par exemple, celui de la DAO) en se basant sur les mécanismes proposés de l’engagement. Dans ce cas, la distribution sera soumise à 5% de frais de transaction (sous forme du jeton de ladite DAO) pour le bénéfice de l’association Meeds.
 
 ## 2.6. Le modèle "Mintium" - Récompenser l'engagement au travail
 
-En engageant leurs utilisateurs dans le WoM, les Deeds sont récompensés à travers un modèle innovant de mintium.
+En engageant leurs utilisateurs dans le WoM, les communautés reçoivent une compensation grâce à un modèle novateur de mintium.
 
-Les points d’engagement, recueillis par les utilisateurs des Deeds, participent à un index global d’engagement, calculé par l’association Meeds. L’index utilise le même principe pour tous les Deeds. Même si chaque Deed peut personnaliser la distribution de points de ses programmes en promouvant une action plutôt qu’une autre, ces changements ne seront pas pris en compte dans l'index global d’engagement.
+Les points d’engagement, gagnés par les utilisateurs des Hubs, participent à l’indice d’engagement global, calculé par l’Association Meeds. L'index utilise le même principe pour tous les Hubs. Même si la communauté peut modifier l’allocation des points pour promouvoir une action plutôt qu’une autre, ces changements ne seront pas pris en compte dans le calcul de l'index global.
 
-Chaque semaine, un certain montant de Meeds sera alloué à cette force de frappe globale du WoM liée à l’engagement. Il sera calculé régulièrement, au prorata de la participation de chaque Deeds. En complément, certains Deeds obtiendront un abondement en fonction de leur type d’engagement. Les Deeds qui réclameront leurs Meeds au cours de la semaine, les recevront. Les Meeds non réclamés seront ajoutés au montant global distribué la semaine suivante.
+Chaque semaine, un certain montant de Meeds sera alloué à cette force de frappe globale du WoM liée à l’engagement. Il est calculé chaque semaine, pro-rata, parmi les Hubs participants. Certains Hubs obtiennent un boost supplémentaire en fonction du type de Deed qu'ils utilisent. Les Deeds qui réclameront leurs Meeds au cours de la semaine, les recevront. Les Meeds non réclamés seront ajoutés au montant global distribué la semaine suivante.
 
 Le score d'engagement _S_ dépend de l’engagement général, du nombre d’utilisateurs engagés et de la distribution :
 
@@ -94,19 +97,19 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Où :
 
-- $A$ = _Activité_ - Nombre total d’actions cumulées par les utilisateurs sur la semaine dans le Deed. (à chaque niveau de Deed, chaque action est convertie en points d’engagement, quelques actions pesant plus que d’autres. Au niveau de l’index, toutes les actions sont rendues linéaires).
+- $A$ = _Activité_ - nombre total d'actions accumulées par les utilisateurs dans le Hub au cours de la semaine. (Sur un Hub, chaque action est convertie en points d'engagement, certaines actions pondérant plus que d'autres. Au niveau de l’index, toutes les actions sont rendues linéaires).
 - $U$ = _Utilisateurs engagés_ - utilisateurs qui contribuent tout au long de la semaine, en réalisant au moins une action.
-- $E_d$ = _Taux d'engagement du Deed_ - actions par utilisateur ($A/U$)
-- $E_w$ = _Taux d'engagement moyen_ de tous les Deeds actifs du WoM.
-- $D_r$ = _Taux de distribution_ - Pourcentage de meeds redistribués aux utilisateurs parmi ceux reçus par le deed lors de la période précédente. Le taux peut être en deçà de 100 si la distribution a été retardée.
-- $D_s$ =  _Répartition de la distribution_ - pourcentage d'utilisateurs du deed ayant touché des meeds pour la période précédente parmi ceux éligibles aux récompenses.
+- $E_d$ = _Taux d'engagement du hub_ - actions par utilisateur ($A/U$)
+- $E_w$ = _Taux d'engagement moyen_ de tous les Hubs actifs dans le WoM.
+- $D_r$ = _Taux de distribution_ - si un Hub a reçu des MEED pour la période précédente, le % des MEED qui a été distribué à ses utilisateurs. Le taux peut être en deçà de 100 si la distribution a été retardée.
+- $D_s$ =  _Distribution spread_ - si un Hub a reçu des MEED  pour la période précédente, le % des utilisateurs qui ont reçu des MEED dans parmi tous les utilisateurs.
 - $M$ = _Force de frappe_ du deed telle que définie en 2.3
 
 
-L’index global d’engagement utilisé pour distribuer les Meeds aux Deeds est la somme des scores d’engagement de tous les Deeds sur la semaine.
+L'indice global d'engagement utilisé pour distribuer des MEED dans les Hubs est la somme des scores de l'engagement de tous les Hubs pour la semaine.
 
 
-La formule ci-dessus est simple et elle est conçue pour privilégier les deeds qui :
+La formule ci-dessus est simple et conçue pour favoriser les hubs :
 
 - ont de nombreux utilisateurs engagés (engagement)
 - partagent l’ensemble du revenu de récompense (taux de distribution) avec leurs utilisateurs de manière équitable (répartition de la distribution).
@@ -116,9 +119,9 @@ En outre, des bonus existent pour :
 - les organisations les plus engagées, quelle que soit leur taille (taux d'engagement par rapport au WoM)
 - les deeds les plus rares
 
-> L’association se réserve le droit de changer la formule si besoin – si de nouveaux cas d’usage spécifiques sont identifiés par exemple. L’association peut également exclure tout Deed qui détournerait la formule pour son propre bénéfice.
+> L’association se réserve le droit de changer la formule si besoin – si de nouveaux cas d’usage spécifiques sont identifiés par exemple. L'association peut également mettre sur liste noire tout Hub qui détourne la formule à son propre avantage.
 
-Comme les Deeds sont récompensés avec les Meeds et qu’ils sont incités à en redistribuer aux utilisateurs en échange de leur engagement, les intérêts des Deeds et des utilisateurs sont alignés dans un même cycle vertueux de partage des revenus. Ainsi, le WoM offre un nouveau modèle du travail, qui reconfigure la relation employeur/employé en partenariat.
+Puisque que les Hubs sont récompensés en MEED et encouragés à les redistribuer comme récompense à leurs contributeurs – l'intérêt des communautés et de leurs membres  est aligné sur le même cycle vertueux de partage des revenus. Ainsi, le WoM offre un nouveau modèle du travail, qui reconfigure la relation employeur/employé en partenariat.
 
 Ce modèle "Mintium" est le premier du genre - il va plus loin que les traditionnels modèles freemium, car non seulement, les services sont libres d’utilisation mais aussi car les organisations et leurs utilisateurs sont rétribués et récompensés pour leur propre usage.
 
@@ -138,9 +141,9 @@ Une ville sera considérée comme complète une fois que tous les Deeds seront g
 | 6: Kushor           | 10 000 000  | Eshmum + 64 mois   | 6 000 000  | 3 000 000      | 999 998   | 2              |
 | 7: Hammon           | 100 000 000 | Kushor + 128 mois  | 60 000 000 | 30 000 000     | 9 999 999 | 1              |
 
-Une ville est le moyen pour les Deeds pour se réunir et créer une communauté. Par conséquent, cela permet de créer une identité propre à cette communauté. C'est aussi un moyen d'apporter plus de valeur à ses utilisateurs - qui va plus loin que les seules capacités d'un Deed ou que la valeur créée grâce à la coopération entres Deeds.
+Une ville est un moyen pour les communautés de se réunir et de créer une communauté plus grande. Par conséquent, cela permet de créer une identité propre à cette communauté. C'est aussi un moyen de fournir une valeur supplémentaire à ses utilisateurs - une valeur qui irait au-delà des capacités ou de la valeur d'une communauté créée par la coopération entre les communautés.
 
-Chaque ville a sa propre gouvernance et opère sa propre DAO où les propriétaires des Deeds de la ville peuvent élire leur conseil municipal, voter et établir leurs propres règles, ajouter de nouveaux services et façonner leur ville à leur manière. Cela leur permet de rendre attractive leur ville et de rajouter de la valeur aux Deeds associés.
+Chaque ville a sa propre gouvernance et gère son propre DAO où les propriétaires de Deed de la ville peuvent élire leur conseil municipal, voter et établir leurs propres règles de fonctionnement, ajouter de nouveaux services et façonner leur ville de la manière qu’ils veulent et afin d’accroître l’attractivité de la ville et la valeur des Deeds qui y sont attachés.
 
 Par exemple, ils peuvent ajouter une représentation digitale de leur ville, des bénéfices dans le monde physique associés à leur ville (salles de réunion dans des espaces de co-working par exemple), proposer des services de restauration, des activités de loisirs grâce aux Meeds, etc...
 

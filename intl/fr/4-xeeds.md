@@ -6,41 +6,41 @@ Le WoM reconnaît la confidentialité comme un droit humain fondamental et perme
 
 Notre approche est basée sur des principes d'identités décentralisées et autosouverains, permettant aux utilisateurs de contrôler à tout moment les informations qu'ils souhaitent publier, partager avec un groupe restreint ou garder privées.
 
-L'activité et l'engagement des utilisateurs dans le WoM est toujours lié à un Deed. Un Xeed est le personnage virtuel d'un utilisateur dans un Deed. Un Xeed ne nécessite aucun KYC (protocole permettant de vérifier l'identité de l'individu - Know Your Customer), il est auto-déclarant, mais nous pourrions imaginer que des sociétés tierces fournissent ce service.
+L'activité et l'engagement de l'utilisateur dans le WoM est toujours lié à une communauté. Un Xeed est la persona virtuelle d'un utilisateur dans une communauté. Un Xeed ne nécessite aucun KYC (protocole permettant de vérifier l'identité de l'individu - Know Your Customer), il est auto-déclarant, mais nous pourrions imaginer que des sociétés tierces fournissent ce service.
 
 ## 4.2. Badges et références
 
-Des badges et des références peuvent être délivrés aux utilisateurs dans le cadre de leur participation à un Deed. Le titulaire peut les télécharger au format des Verifiable Credentials W3C[^7][^8] (alias VCs) et les stocker dans son portefeuille. Ces VCs sont des preuves de connaissances/savoir-faire attestées par l'organisation qui les délivre.
+Les badges et les identifiants sont donnés aux utilisateurs dans le cadre de leur participation à une communauté. Le titulaire peut les télécharger au format des Verifiable Credentials W3C[^7][^8] (alias VCs) et les stocker dans son portefeuille. Ces VCs sont des preuves de connaissances/savoir-faire attestées par l'organisation qui les délivre.
 
 Dans le monde d'aujourd'hui, il est difficile de prouver une compétence en amont. Lorsque les gens s'annoncent sur les réseaux, ils comptent sur leurs managers pour leur donner une recommandation. Cette dernière suppose une certaine bonne volonté de la part du dirigeant mais n'est pas nécessairement considérée comme une preuve par le futur employeur.
 
 Le WoM fournit à ses utilisateurs un moyen plus transparent et immuable d'acquérir et de démontrer leurs capacités.
 
-Les badges sont utilisés pour représenter les réalisations faites au sein d'un Deed. Après avoir complété un ensemble d'objectifs ou challenges, les utilisateurs seront récompensés par des points. Les badges sont débloqués selon l'accumulation d'un certain nombre de points dans des catégories spécifiques.
+Badges are used to represent accomplishments made within a community. Après avoir complété un ensemble d'objectifs ou challenges, les utilisateurs seront récompensés par des points. Les badges sont débloqués selon l'accumulation d'un certain nombre de points dans des catégories spécifiques.
 
-Lorsque les badges sont téléchargés par l'utilisateur, il est possible d'inclure le nombre de points et son rang dans le Deed pour cette réalisation spécifique.
+When badges are downloaded by the user, it is possible to include the number of points and his rank in the Hub for this specific accomplishment.
 
-Les identifiants sont plus flexibles que les badges ; il peuvent être une recommandation de la part d'un pair, indiquant des années d'expertise, une formation ou un examen terminé, ou un engagement dans le Deed. Ceux-ci sont signés par le Deed et peuvent être accompagnés par une signature par un utilisateur pair.
+Les Credentials sont plus flexibles que les badges ; il pourrait s'agir d'une recommandation d'un pair, indiquant des années d'expertise, une formation ou un examen terminé, ou un engagement dans l'espace. Celles-ci sont signées par le Hub et peuvent être accompagnées d'une signature par un utilisateur pair.
 
 ## 4.3. Identité numérique de travail
 
 Tout ce qui précède contribue à former un ensemble de compétences numériques éprouvées qui peuvent être conservées et utilisées par l'utilisateur lors d'un changement d'emploi ou d'une activité indépendante. Ceci est plus fiable que les solutions traditionnelles, car il ne suffit pas d'un seul individu, mais de toute une communauté pour le prouver.
 
-Tout comme son portefeuille Meeds, l'utilisateur conservera ses Xeed, Badges, et les Identifiants rattachés à son portefeuille d'identité lorsqu'il se déplace d'un Deed à l'autre, d'une ville à l'autre, n'importe où à travers le WoM.
+Tout comme son portefeuille Meeds, l'utilisateur conservera son Xeed, ses Badges et les Credentials qui y sont attachés dans son portefeuille d'identité lorsqu'il naviguera d'un Hub à l'autre, d'une ville à l'autre, n'importe où à travers le WoM.
 
-L'utilisateur pourra dévoiler son Xeed, ses badges et ses identifiants dans d'autres Deeds afin de faire valoir son expérience, auprès de recruteurs ou de tout autre service qu'il jugera intéressant.
+L'utilisateur pourra exprimer son Xeed, ses Badges et ses Credentials dans d'autres Hubs pour mettre en valeur son expérience, ainsi qu'avec les recruteurs ou tout autre service qu'il juge intéressant.
 
 Un utilisateur peut avoir une ou plusieurs identités numériques dans le WoM. Il peut ensuite les présenter de manière unifiée.
 
-Contrairement au Web2, l'utilisateur est pleinement propriétaire de ses identités décentralisées. Il peut montrer (et prouver) les Deeds auxquels il a participé, ses compétences revendiquées et éprouvées, les autres Xeeds (personnes) avec qui il a travaillé, une représentation numérique de lui-même... À la manière d'un LinkedIn 3.0 fiable.
+Contrairement au Web2, l'utilisateur est pleinement propriétaire de ses identités décentralisées. Ce dernier peut montrer (et prouver) aux communautés dans lesquelles il a participé, ses compétences éprouvées, Ses compétences revendiquées, ses autres Xeeds (personnes) avec qui il a travaillé, sa représentation numérique de lui-même... À la manière d'un LinkedIn 3.0 fiable.
 
-L'utilisateur sera en mesure de choisir ce qu'il veut révéler, quelles informations fournir, et quelle identité utiliser pour chaque poste. Le contenu (compétences éprouvées, précédents Deeds, etc.) est une preuve inviolable et ne peut donc pas être modifié. Toute identité devra être développée au fil du temps.
+L'utilisateur sera en mesure de choisir ce qu'il veut révéler, quelles informations fournir, et quelle identité utiliser pour chaque poste. Le contenu (compétences éprouvées, hubs précédents, etc.) est inaltérable. Toute identité devra être développée au fil du temps.
 
 ## 4.4. Marché du travail équitable
 
-Au sein de ce paradigme, le futur marché du travail permettra aux travailleurs de se déplacer librement et d'allouer/vendre leur capacité d'engagement parmi les Deeds – comme ils le font dans le monde physique en changeant d'employeurs. Cependant, dans le WoM leur engagement sera bien tangible, mesuré et récompensé de manière équitable. En se déplaçant entre les systèmes suivant une logique similaire, ils comprendront mieux les règles du jeu et évalueront plus justement les employeurs – l’herbe n’est pas toujours plus verte ailleurs. Les utilisateurs seront en mesure de choisir quel Deed fournit de meilleures récompenses d'engagement, quelle ville est la plus attrayante, etc.
+Au sein de ce paradigme, le futur marché du travail permet aux utilisateurs de se déplacer librement et d'allouer/vendre leur engagement parmi les Hubs – comme ils le font dans le monde physique en changeant d'employeurs. Cependant, dans le WoM leur engagement sera bien tangible, mesuré et récompensé de manière équitable. En se déplaçant entre les systèmes suivant une logique similaire, ils comprendront mieux les règles du jeu et évalueront plus justement les employeurs – l’herbe n’est pas toujours plus verte ailleurs. Les utilisateurs seront en mesure de voir quel Hub fournit de meilleures conditions de récompense d'engagement, appartient à une ville plus attrayante, etc.
 
-De leur côté, les détenteurs/locataires des Deeds peuvent rechercher des compétences pertinentes en utilisant le réseau WoM d’identités de travail numériques (que les utilisateurs ont décidé de divulguer). Ils seront en mesure de trouver des compétences plus efficacement, en s'appuyant sur des informations vérifiées et des curriculums détaillés, des compétences professionnelles et le niveau d'engagement de l'utilisateur.
+À leur fin, les dirigeants de la communauté peuvent rechercher des compétences pertinentes en utilisant le réseau WoM d’identités de travail numériques (que les utilisateurs ont décidé de divulguer). Ils seront en mesure de trouver des compétences plus efficacement, en s'appuyant sur des informations vérifiées et des curriculums détaillés, des compétences professionnelles et le niveau d'engagement de l'utilisateur.
 
 ## 4.5. Reconnaissance tangible et transparente
 
@@ -48,7 +48,7 @@ Aujourd'hui, les informations sur la compensation et les primes ne sont pas clai
 
 Le WoM introduit une façon objective de reconnaître les réalisations et de les récompenser.
 
-Le mécanisme de reconnaissance de l'engagement et de récompense est transparent et s'applique équitablement à tous les utilisateurs, en suivant les mêmes règles explicites, décidées à l’avance et alignées sur les objectifs du Deed.
+Le mécanisme de reconnaissance de l'engagement et de récompense est transparent et s'applique équitablement à tous les utilisateurs, suivant les mêmes règles explicites, décidées à l’avance et alignées sur les objectifs de la communauté.
 
 Les portefeuilles sont individuels et basés sur la blockchain – lorsque l'utilisateur reçoit une récompense ou gagne un badge, il ne peut pas être repris ou effacé.
 
