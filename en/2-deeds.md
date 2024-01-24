@@ -68,17 +68,15 @@ Active participation in the Hub contributes to an organization’s global engage
 Looking ahead, Community Hubs in the WoM ecosystem are set to become central to community life, integrating internal communications, real-time interactions, governance, and various productivity tools. These enhancements will ensure that the Hubs remain interconnected with the best tools already employed by organizations. They stand as a powerful testament to Meeds' commitment to fostering a vibrant, engaged community.
 
 
-## 2.5. Rewards – Meeds and other tokens
+## 2.5. Rewarding Model
 
-The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement.
-Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Hub's engagement programs.
-Indeed, each community can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
+In the WoM, user engagement across various work activities is incentivized and gamified, tailored to each community Hub's unique programs. Users earn points reflecting their active participation, with each community determining its own rules for point allocation.
 
-Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Hub is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
+For example, an IT company might award 10 points for coding on GitHub, whereas a digital agency could place higher value on social media engagement, like retweets, with similar points.
 
-Moreover, the community does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
+Regular distributions of rewards are based on the points accrued in each Hub. Typically, these are given in MEED tokens, delivered directly to users' wallets. While MEED tokens are the standard form of reward, Hubs have the flexibility to offer different types of compensation.
 
-In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
+When rewards are distributed in tokens other than MEED, a nominal fee of 5% is applied. This fee contributes to the Meeds treasury, playing a crucial role in maintaining the sustainability of the ecosystem.
 
 ## 2.6. The “mintium” model – tokenize work engagement
 
@@ -94,7 +92,7 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Where : 
 
-- $A$ = _Activity_ - total number of actions accumulated by users within the Hub over the week. (On a Hub, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
+- $A$ = _Activity_ - total number of actions accumulated by users within the Hub over the week. (On a Hub, each user action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
 - $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
 - $E_d$ = _Engagement rate of the hub_ - actions per user ($A/U$)
 - $E_w$ = _Average engagement rate_ of all active Hubs in the WoM. 
