@@ -1,14 +1,13 @@
 
-# 2. Deeds NFT - WoM Organizations
+# 2. Deeds - The Properties of the WoM
 
-## 2.1. NFT – Deeds defined
+## 2.1. Deed NFTs
 
+In the digital realm, Non-Fungible Tokens (NFTs) serve a similar purpose to deeds in the physical world. Like a deed that confirms ownership of tangible property, NFTs establish indisputable ownership of digital assets. This ownership is securely recorded on a blockchain, ensuring that each asset is unique and non-replicable.
 
- NFTs (Non-Fungible Tokens) can be compared to deeds in the real world. Just as deeds signify ownership of a tangible property, NFTs provide proof of ownership for digital assets. This property right is registered and maintained on a blockchain, thus, assuring that the asset is unique and can't be replicated.
+Within the World of Meeds (WoM), a Deed is conceptualized as an NFT, representing the foundational unit of ownership. Holding a Deed empowers its owner to manage a Community Hub and makes them eligible for receiving Mintium rewards, a form of recognition and incentive within the WoM ecosystem (further details in section 2.6).
 
- In the World of Meeds (WoM), a Deed is used as a core value of ownership. Each Deed gives its owner a right to run a community Hub and Mintium rewards (see 2.6).
-
- The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital presence in the WoM.
+The WoM is designed to be a diverse and inclusive platform. It welcomes a wide array of organizations, from DAOs, traditional businesses, and associations to think tanks, theater companies, project groups, and educational institutions. In this digital landscape, a Deed symbolizes the organization's digital presence and footprint in WoM, functioning as a bridge between their real-world operations and their digital endeavors.
 
 ## 2.2. Deeds supply
 
