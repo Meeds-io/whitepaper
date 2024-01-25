@@ -36,21 +36,21 @@ Being an active holder or renter of a Deed, the organization is entitled to MEED
 
 In today's competitive market, organizations seek to attract and retain top talent not only through compensation but also by enhancing work engagement. The WoM addresses this challenge with a unique, tokenized reward system embodied in Community Hubs.
 
-Within these Hubs, community leaders have the power to drive contributor engagement. Members earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
+Within these Hubs, community leaders can drive members engagement by offering a transparent menu of incentives for work items. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
 
 Community Hubs offer a suite of tools and features designed to boost and manage contributor engagement:
 
-- **Actions**: This feature steers contributors through tasks with incentives, empowering them to align their efforts with organizational objectives. It not only motivates but also provides a clear direction for their contributions.
-- **Gamification**: Incorporates elements like leaderboards and badges, transforming work into a more enjoyable experience. This approach not only makes contributions fun but also fosters a competitive and engaging environment.
-- **Engagement Programs**: Tailored programs offer specific targets and rewards, clarifying organizational goals and priorities. This system ensures fairness by proportionally rewarding contributors, enhancing their sense of achievement and equity.
-- **Kudos**: Allows for immediate peer recognition, significantly boosting morale on the spot. This feature fosters a culture of appreciation and acknowledgment, enhancing team cohesion and motivation.
-- **Spaces**: Structures activities and communication within sub-groups and projects, making collaboration less chaotic and more efficient. This organization enhances collective productivity and streamlines project execution.
-- **Wallet**: Facilitates the handling of MEED tokens, allowing contributors to tangibly feel the rewards of their efforts. This feature not only simplifies transactions but also reinforces the connection between contribution and reward.
-- **Perks**: Provides a diverse range of rewards, from gift cards to NFTs, serving as a powerful retention tool. The exclusive use of MEED tokens for purchases encourages ongoing engagement and loyalty to the organization's ecosystem.
-- **Tasks**: Streamlines project and task management, significantly boosting productivity. By simplifying workflows and tracking progress, this feature aids in the efficient completion of projects.
-- **Notes**: Offers a platform for documenting critical information such as onboarding guides, fostering knowledge sharing and organizational self-sufficiency. This tool ensures that valuable knowledge is captured and easily accessible to all members.
-- **Branding**: Enables customization of the Hub's appearance to make it more inviting and reflective of the organization's identity. This personal touch helps attract new contributors and enhances their sense of belonging.
-- **Analytics**: Provides critical insights into community engagement, helping leaders identify successful strategies and areas needing improvement. This data-driven approach allows for informed decisions to optimize engagement and productivity
+- **Actions**: Incentivized tasks guide contributors, aligning their efforts with organizational objectives and boosting motivation and direction.
+- **Gamification**: Leaderboards and badges transform work into a fun, competitive experience, enhancing engagement and enjoyment.
+- **Engagement Programs**: Customized programs with specific targets and rewards clarify organizational goals and fairly recognize contributor achievements.
+- **Kudos**: Immediate peer recognition boosts morale and fosters a culture of appreciation, enhancing team cohesion and motivation.
+- **Spaces**: Organized sub-groups and projects streamline communication and collaboration, increasing collective productivity.
+- **Wallet**: The Wallet app securely stores MEED rewards, representing user contributions, and enables easy transactions both within the Hub and on the broader network.
+- **Perks**: A variety of rewards, from gift cards to NFTs, incentivize ongoing engagement and foster loyalty within the organization’s ecosystem.
+- **Tasks**: Streamlined project and task management tools boost productivity by simplifying workflows and tracking progress.
+- **Notes**: A handy notebook app for documenting essential information like onboarding guides promotes knowledge sharing and organizational self-sufficiency.
+- **Branding**: Customizable Hub appearance attracts new contributors and strengthens their connection to the organization’s identity.
+- **Analytics**: Insightful analytics into community engagement enable leaders to identify effective strategies and make informed decisions for optimization.
 
 
 **Starting a Hub**
