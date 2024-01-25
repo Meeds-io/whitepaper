@@ -5,7 +5,7 @@ Meeds is a collaborative effort led by diverse Open Source Software (OSS) commun
 
 The legal entity behind Meeds is the _Meeds Association_, a non-profit organization incorporated under Swiss law in Geneva. It is responsible for regulating the issuance of the Meeds(MEED) token, an ERC20 token recognized as a utility token.
 
-Functioning as a Decentralized Autonomous Organization (DAO), Meeds emphasizes democratic governance. Token holders with governance rights participate in key decisions, including annual board elections, ensuring transparency and community involvement in organizational changes.
+Functioning as a Decentralized Autonomous Organization (DAO), Meeds emphasizes on democratic governance, where token holders with governance rights participate in key decision making, such as, annual board elections, ensuring transparency and community involvement in organizational changes.
 
 The Meeds project utilizes the Ethereum ecosystem to implement the World of Meeds (WoM) and the Meeds token. This approach prioritizes security, accessibility, user-friendliness, and cost-effectiveness, making it appealing to a broad user base.
 
