@@ -6,41 +6,41 @@ WoM uznává soukromí jako základní lidské právo a dává uživatelům mož
 
 Náš přístup je založen na principech decentralizované a suverénní identity a umožňuje uživatelům kdykoli rozhodnout, které informace chtějí zveřejnit, sdílet s omezenou skupinou nebo ponechat v soukromí.
 
-Aktivita a angažovanost uživatele v WoM je vždy spojena s činem. Xeed je virtuální osoba uživatele v listině. Xeed nevyžaduje žádné KYC, je sám o sobě deklarující, ale mohli bychom si představit firmy třetích stran poskytující tuto službu.
+Aktivita a angažovanost uživatele v WoM je vždy spojena s komunitou. Xeed je virtuální osoba uživatele v komunitě. Xeed nevyžaduje žádné KYC, je sám o sobě deklarující, ale mohli bychom si představit firmy třetích stran poskytující tuto službu.
 
 ## 4.2. Odznaky a přihlašovací údaje
 
-Odznaky a přihlašovací údaje jsou poskytnuty uživatelům jako součást jejich účasti na listině. Držitel je může stáhnout jako ověřitelné přihlašovací údaje W3C[^7][^8] (aka VC) a uložit je ve své peněžence. Tato ověřovací kritéria jsou důkazem znalostí/know-how potvrzeného organizací, která je vydává.
+Odznaky a přihlašovací údaje jsou dány uživatelům jako součást jejich účasti v komunitě. Držitel je může stáhnout jako ověřitelné přihlašovací údaje W3C[^7][^8] (aka VC) a uložit je ve své peněžence. Tato ověřovací kritéria jsou důkazem znalostí/know-how potvrzeného organizací, která je vydává.
 
 V dnešním světě je těžké předem prokázat dovednost. Když se lidé propagují na sítích, spoléhají na své manažery, že jim předloží doporučení. To předpokládá jistou dobrou vůli ze strany manažera, ale budoucí zaměstnavatel ji nemusí považovat za důkaz.
 
 WoM poskytuje transparentnější a neměnnější prostředek pro lidi, jak získat a prokázat své schopnosti.
 
-Odznaky se používají k reprezentaci úspěchů provedených v rámci listu. Po dokončení souboru cílů nebo výzev budou uživatelům přiděleny body. Odznaky lze odemknout nahromaděním určitého množství bodů v určitých kategoriích.
+Odznaky jsou používány k reprezentaci úspěchů v komunitě. Po dokončení souboru cílů nebo výzev budou uživatelům přiděleny body. Odznaky lze odemknout nahromaděním určitého množství bodů v určitých kategoriích.
 
-Když si uživatel stáhne odznaky, je možné uvést počet bodů a jeho hodnost v Deed za tento konkrétní úspěch.
+Když uživatel stáhne odznaky, je možné zahrnout počet bodů a jeho hodnost do Hobu pro tento konkrétní úspěch.
 
-pověření jsou pružnější než odznaky; mohou být doporučením partnera s uvedením let odborných znalostí, odborné přípravy nebo dokončení zkoušek nebo účasti v činu. Jsou podepsány listinou a mohou být doprovázeny podpisem partnerského uživatele.
+pověření jsou pružnější než odznaky; mohou být doporučením partnera s uvedením let odborných znalostí, odborné přípravy nebo dokončení zkoušek nebo zapojení do vesmíru. Ty jsou podepsány Hubem a mohou být doprovázeny podpisem partnerského uživatele.
 
 ## 4.3. Digitální pracovní identita
 
 Všechno výše uvedené přispívá k vytváření prokázané digitální dovednosti, kterou může uživatel udržet a používat při změně pracovních míst nebo volných pracovních míst. Bylo by důvěryhodnější než tradiční řešení, neboť se nespoléhá jen na jednoho jednotlivce, ale na plné společenství, které by to dokázalo.
 
-Stejně jako v peněžence Meeds si uživatel při přechodu z jednoho Deed do druhého, z jednoho města do druhého, kdekoli v rámci WoM, uchová svůj Xeed, odznaky a pověření k němu připojené v peněžence identifikační.
+Stejně jako jeho Meeds peněženka si uživatel zachová své odznaky Xeed, Badges, a pověřovací listy, které jsou k němu připojeny v jeho peněžence identity, když se přesouvají z jednoho Hubu do druhého, z jednoho města do druhého, kdekoli přes WoM.
 
-Uživatel bude moci sdílet své Xeed, odznaky a pověření s ostatními Deeds, aby zdůraznil své zkušenosti, stejně jako s náboráři nebo jinými službami, které považuje za zajímavé.
+Uživatel bude moci vyjádřit své Xeed, Badge a přihlašovací údaje k ostatním Hubům, aby zdůraznil své zážitky, jakož i u náborů nebo jiných služeb, které považuje za zajímavé.
 
 Uživatel může mít v WoM jednu nebo více digitálních identit. Později je mohl jednotně prezentovat pomocí ověřených prezentací.
 
-Na rozdíl od webu 2 je uživatel plně vlastníkem svých decentralizovaných identit. Ten může ukázat (a dokázat) činy, kterých se účastnil, své prokázané schopnosti, nárokované dovednosti, Další Xeeds (lidi), se kterými spolupracoval, jeho digitální zastoupení s... Na způsob důvěryhodného LinkedIn 3.0.
+Na rozdíl od webu 2 je uživatel plně vlastníkem svých decentralizovaných identit. Ten může ukázat (a dokázat) komunity, kterých se účastnil, své prokázané dovednosti, jeho nárokované dovednosti, další Xeeds (lidi), se kterými spolupracoval, jeho digitální zastoupení s... Na způsob důvěryhodného LinkedIn 3.0.
 
-Uživatel si bude moci vybrat, zda něco odhalí, jaké informace poskytnout a jaké identity použít pro každou pozici. Obsah (prokázané dovednosti, předchozí listiny atd.) je důkazem nedovolené manipulace a nelze jej proto upravit. Každá identita by se musela v průběhu času rozvíjet.
+Uživatel si bude moci vybrat, zda něco odhalí, jaké informace poskytnout a jaké identity použít pro každou pozici. Obsah (prokázané dovednosti, předchozí centra atd.) je důkazem nedovolené manipulace a nelze jej proto upravit. Každá identita by se musela v průběhu času rozvíjet.
 
 ## 4.4. Spravedlivý trh
 
-V rámci tohoto paradigmatu umožňuje budoucí trh práce uživatelům svobodně se pohybovat a alokovat a prodávat své zapojení mezi činy – jak to činí ve fyzickém světě změnou zaměstnavatelů. Nicméně v WoM by jejich zapojení bylo hmatatelné, odměněné a odměňované spravedlivým způsobem. Přesouváním mezi systémy, které sledují podobnou logiku, Budou lépe chápat pravidla hry a budou zaměstnavatele posuzovat spravedlivě – tráva není jinde vždy zelenější. Uživatelé si budou moci vybrat, která listina poskytuje lepší podmínky odměňování, patří do atraktivnějšího města atd.
+V rámci tohoto paradigmatu umožňuje budoucí trh práce uživatelům svobodně se pohybovat a alokovat a prodávat své zapojení mezi centra – jak to činí ve fyzickém světě změnou zaměstnavatelů. Nicméně v WoM by jejich zapojení bylo hmatatelné, odměněné a odměňované spravedlivým způsobem. Přesouváním mezi systémy, které sledují podobnou logiku, Budou lépe chápat pravidla hry a budou zaměstnavatele posuzovat spravedlivě – tráva není jinde vždy zelenější. Uživatelé budou moci vidět, které Hub poskytuje lepší podmínky odměn za zapojení do atraktivnějšího města, atd.
 
-Na konci mohou držitelé/nájemci koncesí vyhledávat příslušné dovednosti pomocí sítě WoM o digitální identitě práce (kterou se uživatelé rozhodli zveřejnit). Budou schopny účinněji získávat dovednosti, na základě ověřených a podrobných informací o historii práce, pracovních dovednostech a úrovni zapojení uživatele.
+Na jejich konci mohou vedoucí představitelé komunity hledat relevantní dovednosti pomocí WoM sítě digitálních identit (kterou se uživatelé rozhodli zveřejnit). Budou schopny účinněji získávat dovednosti, na základě ověřených a podrobných informací o historii práce, pracovních dovednostech a úrovni zapojení uživatele.
 
 ## 4.5. Uznatelné a transparentní uznání
 
@@ -48,7 +48,7 @@ Podrobnosti o odměnách a bonusech jsou dnes na mnoha pracovištích obskurní.
 
 WoM zavádí objektivní způsob uznávání úspěchů a jejich odměňování.
 
-Mechanismus uznávání a odměňování angažovanosti je transparentní a platí spravedlivě pro všechny uživatele, podle stejných výslovných pravidel, o kterých bylo předem rozhodnuto a která jsou v souladu s cíli Deed's.
+Mechanismus uznávání a odměňování zapojení je transparentní a vztahuje se spravedlivě na všechny uživatele, v souladu se stejnými výslovnými pravidly, o nichž bylo předem rozhodnuto a které jsou v souladu s cíli Společenství.
 
 Peněženky jsou individuální a založené na blockchainu - když uživatel obdrží odměnu nebo získá odznak, nelze jej vzít zpět nebo vymazat.
 

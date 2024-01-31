@@ -6,16 +6,16 @@ WoM je poháněn svou měnou – tokenem Meeds (MEED). Meeds are used to odměň
 
 Mléko **je maximální zásoba omezena na 100 milionů žetonů**, které jsou postupně vytěžovány. **Měření jsou vytěžena rychlostí 10 MEED za minutu**. Plný těžební horizont je tedy blízko 20 let (asi asi 10*60*24*365 = 5M$ Meeds se vytěží za rok).
 
-Dosud bylo předem vytěženo 5 milionů Meeds (5% celkové dodávky). Z toho 4,5M bylo uzavřeno ve smlouvě o trezoru s lineárním pozůstatkem na dobu čtyř let. Předem vyminutá částka byla použita především na pořízení softwarového duševního vlastnictví, úhradu právních poplatků a hostingových služeb společnosti emise tokenů.
+Zpočátku bylo předem vytěženo 5 milionů Meeds (5% z celkové nabídky). Z toho 4,5M bylo uzavřeno ve smlouvě o trezoru s lineárním pozůstatkem na dobu čtyř let. Předem vymyšlená částka se využívala především k získání softwarového IP, k zaplacení zákonných poplatků za emise a k hostitelským službám.
 
-Zbytek je součástí __Meeds DAO fondů__ a budou použity na úhradu služeb a na některé pobídky k zahájení provozu, jako jsou výsadky a doporučovací kampaně.
+Zbytek je součástí __Meeds DAO funds__ a bude použit k úhradě za služby a spuštění pobídek, jako jsou airdropy a referral kampaně.
 
 
 ## 3.2. Těžební příděl
 
 Mincovna Meeds jsou přidělovány na podporu zapojení tří kategorií zúčastněných stran - uživatelů, stavebníků a investorů:
 
-- Uživatelé (uživatelé a držitelé akcí/rentery) získávají Meeds prostřednictvím odměny za zapojení (model mintia).
+- Uživatelé (uživatelé a držitelé listů/renterů) získávají Meeds prostřednictvím odměny za zapojení (model minti).
 - Stavebníci (členové sdružení a komunity) získávají Meeds prostřednictvím sdružení prostředky na výstavbu, provoz a zlepšování WoM.
 - Investoři mincovny Meeds prostřednictvím pronájmu a nákupu likviditních poolů a sázek Meeds.
 
@@ -23,7 +23,7 @@ Na začátku získají stavitelé 30% alokace. 70 % je sdíleno mezi uživateli 
 
 ## 3.3. Uživatelé – těžba prostřednictvím zapojení
 
-Část trvale vytěžených měřicích přístrojů je přidělena do těžebního kanálu. Distribuce se provádí každý týden. Na jakémkoliv konci týdne se vypočítá index angažovanosti a činy si mohou vyžádat odměnu následující týden a získat jejich Meeds. Nenárokovaná Meeds zůstávají ve fondu a jsou přidána k rozdělení v příštím týdnu. Model je podrobně popsán v předchozí kapitole (část 2.6).
+Část trvale vytěžených měřicích přístrojů je přidělena do těžebního kanálu. Distribuce se provádí každý týden. V každém týdnu, index angažovanosti je vypočítán tak, aby si vedoucí představitelé domů a majitelé Deed mohli příští týden vyžádat odměny a získali své Meeds. Nenárokovaná Meeds zůstávají ve fondu a jsou přidána k rozdělení v příštím týdnu. Model je podrobně popsán v předchozí kapitole (část 2.6).
 
 ## 3.4. Stavitelé – sdružení Meeds DAO a komunita stavitelů
 
@@ -33,11 +33,11 @@ Během mincovního období **30% mincovnych Meeds jsou přiděleny do asociaci M
 
 Členové asociace mohou sdružení poskytovat služby na základě podepsané úmluvy o službách, kterou se stanoví poměr člověka. Služby jsou placeny měsíčně v Meeds, a to na základě tržní ceny. Osvobození od služeb zahrnují – obohacování softwaru Meeds a vývoj aplikace WoM, rozvoj nových konektorů, provozování cloudové služby, poskytování finančních a právních služeb atd.
 
-Aniž by byl členem, může se každý Deed podílet na vytvoření nového konektoru a být za to odměněn - nejprve prostřednictvím asociace Meeds, která konektor získá, a poté ražbou prostřednictvím tohoto konektoru.
+Bez členství každá organizace se může podílet na vytváření nového konektoru a být za to odměněna – nejprve prostřednictvím sdružení Meeds získání konektoru a poté těžbou přes tento konektor.
 
-Sdružení provozuje komunitu stavitelů, která vítá nadšence WoM, kteří chtějí přispět k vytvoření WoM. Asociace sponzoruje komunitu ze svého rozpočtu, čímž kompenzuje zapojení členů komunity.
+Tato asociace provozuje vlastní komunitní centrum nazvané Huzub stavitelů, který vítá nadšence WoM, kteří chtějí přispět k vytvoření WoM. Asociace sponzoruje komunitu ze svého rozpočtu, čímž kompenzuje zapojení členů komunity.
 
-Komunita tak bude fungovat jako příklad listiny, která nabízí standardní soubor služeb poskytovaných sdružením. Sdružení v sázce Meeds za účelem vykoupení listiny pro komunitu. Komunita se pak také bude podílet na těžbě jako jakákoliv jiná čina.
+Tedy centrum stavitelů bude fungovat jako živý příklad komunity zmocněné softwarem Meeds, nabízí standardní soubor služeb poskytovaných sdružením. Sdružení v sázce Meeds za účelem vykoupení listiny pro svou komunitu. Tudíž budova bude mít také prospěch z těžby jako kterékoliv jiné Hub podpořené činem.
 
 Po skončení období ražby bude sdružení udržováno :
 
@@ -45,7 +45,7 @@ Po skončení období ražby bude sdružení udržováno :
 - zdanění příjmů z prodeje (2,5 % z prodeje Deeds)
 - vnímání transakčních poplatků v souvislosti s využíváním požitků
 - vystupovat jako poskytovatel likviditního seskupení
-- vnímání transakčních poplatků, když společnost Deed distribuuje tokeny, které nejsou tokenem Meeds, prostřednictvím WoM služby.
+- vnímání transakčních poplatků, když Hubu distribuuje přes služby WoM tokeny nevyužívající Meed.
 - provozováním Deeds, které sdružení v průběhu času razilo.
 
 
