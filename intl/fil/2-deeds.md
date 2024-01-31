@@ -1,92 +1,95 @@
 
-# 2. Deeds NFT - Trabaho sa mga Organisasyon ng Metaverse
+# 2. Deeds NFT - WoM Organizations
 
-## 2.1. NFT - Mga Gawaing Naka-define
+## 2.1. NFT – Deeds defined
 
-Ang non-fungible token (NFT) ay isang natatanging token na kumakatawan sa isang kalakal. Sa WoM, isang Deed ay ginagamit bilang pamagat ng pagmamay-ari. Ang bawat Deed ay nagbibigay ng karapatan sa may-ari nito na mag-access sa ilang mga serbisyo - halimbawa, pag-access sa isang digital na opisina, na pinapagana ng Meeds software at ang karapatan na mag-mint ng Meeds.
 
-Ang WoM ay nag-aabang ng lahat ng uri ng mga organisasyon - mga DAO, tradisyunal na mga korporasyon, mga asosasyon, mga grupo ng mga isipan, mga kasosyo, mga kompanya ng teatro, mga grupo ng mga proyekto, mga paaralan, atbp. Ang Deed ay kumakatawan sa kanilang digital na pagkakaroon sa WoM.
+ NFTs (Non-Fungible Tokens) can be compared to deeds in the real world. Just as deeds signify ownership of a tangible property, NFTs provide proof of ownership for digital assets. This property right is registered and maintained on a blockchain, thus, assuring that the asset is unique and can't be replicated.
 
-## 2.2. Mga Gawain ay nagbibigay ng suplay
+ In the World of Meeds (WoM), a Deed is used as a core value of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a community hub, some hidden dynamic tools powered by the Meeds software and Mintium rewards (see 2.6).
 
-Sa huli, ang WoM ay magbibigay ng limitadong bilang ng mga Gawain. Bawat Gawain ay mayroong itinakdang maximum na bilang ng mga user at nag-aalok ng kapasidad sa pagbibigay ng Meeds rewarding (Minting Power). Ang terminong 'user' dito at sa hinaharap ay tumutukoy sa anumang uri ng kawani, manggagawa, freelancer, boluntaryo, atbp.
+ The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital presence in the WoM.
 
-Mayroong apat na uri ng Gawain, bawat isa ay nagbibigay ng iba't ibang kakayahan sa bilang ng mga user, karapatan sa pagboto sa isang lungsod (tingnan ang 2.7) o Meeds minting power, ang pinakamalakas na uri ay ang pinakamahalaga:
+## 2.2. Deeds supply
 
-| **Uri ng Gawain** | **Maximum na bilang ng mga user** | **Minting power** | **Kakauntian** | **Mga karapatang bumoto sa lungsod** |
-| ----------------- | --------------------------------- | ----------------- | -------------- | ------------------------------------ |
-| Karaniwan         | 100                               | 1                 | ~ 90%          | 1                                    |
-| Hindi karaniwan   | 1000                              | 1.1               | ~ 9%           | 10                                   |
-| Biyaya            | 10 000                            | 1.3               | ~ 1%           | 100                                  |
-| Alamat            | walang hanggan                    | 2                 | < 0.1 %        | 1000                                 |
+Ang WoM sa huli ay magbibigay ng limitadong halaga ng Mga Gawa. Ang bawat Deed ay may kasamang paunang natukoy na maximum na bilang ng mga user at nag-aalok ng kapasidad ng Meeds rewarding (Minting Power). Ang terminong 'gumagamit' dito at pagkatapos ay tumutukoy sa anumang uri ng empleyado, manggagawa, freelancer, boluntaryo atbp.
 
-## 2.3. Pagmamay-ari ng mga titulo
+There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
+
+| **Uri ng Gawain** | **Maximum na bilang ng mga user** | **Kapangyarihan ng pagmimina** | **Kakauntian** | **Mga karapatang bumoto sa lungsod** |
+| ----------------- | --------------------------------- | ------------------------------ | -------------- | ------------------------------------ |
+| Karaniwan         | 100                               | 1                              | ~ 90%          | isá                                  |
+| Hindi karaniwan   | 1000                              | 1.1                            | ~ 9%           | 10                                   |
+| Biyaya            | 10 000                            | 1.3                            | ~ 1%           | 100                                  |
+| Alamat            | walang hanggan                    | 2                              | < 0.1 %        | 1000                                 |
+
+## 2.3. Pagmamay-ari ng mga Deed
 
 Ang Titulo ay nagbibigay ng karapatan sa may-ari na GAMITIN ito, UPAHAN ito, o IPAGBILI ito.
 
-- GAMIT - Ang may-ari ng Titulo ay maaaring direktang gumamit ng Titulo para sa kanilang organisasyon, nagbibigay ng serbisyo sa mga gumagamit nito.
-- UPANG KUMITA NG PASIBONG KITA - Ang mga may-ari ng Deed ay maaari rin itong iparenta sa ibang organisasyon upang kumita ng pasibong kita.
-- IBENTA - Ang isang Deed ay maaaring ibenta sa pangalawang merkado tulad ng [OpenSea](https://opensea.io).
+- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
+- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
+- SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
 
-Bilang aktibong may-ari o nangungupahan ng Deed, binibigyan ng mga Meeds ang organisasyon sa pamamagitan ng isang inobatibong "mintium" modelo na ipinaliliwanag sa ibaba (bahagi 2.6).
+Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
 
-## 2.4. Mga serbisyo ng Deed, engine ng paglahok/pagkilala
+## 2.4. Deeds services, engagement/rewards engine
 
-Sa isang dumaraming kompetitibong merkado, upang mahikayat at mapanatili ang mga talento at mapagkukunan, kailangan ng mga organisasyon na magbigay ng insentibo sa kanilang mga gumagamit sa labas ng simpleng kumpensasyon. Ang WoM ay nagbibigay ng isang inobatibong balangkas upang gawin ito sa pamamagitan ng paggawang token sa pakikibahagi sa trabaho.
+In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
 
-Ang bawat may-ari o nangungupahan ng Deed ay maaaring magbigay ng mga tool at serbisyo sa kanilang mga gumagamit, na kumikita ng mga punto sa pakikibahagi na maaring ayusin sa mga prayoridad ng Deed. Paminsan-minsan, ang mga punto ay ginagawang Meeds (at - para sa DAOs - maaaring ibang token), base sa nakatakda ng badyet ng Deed. Sa ganitong paraan, ang pakikilahok ng mga gumagamit sa mga gawain na mahalaga sa organisasyon ay pinaparangalan.
+Each Deed’s holder or renter can set and achieve fine-tuned organizational priorities by creating contribution programs for community members who earn engagement points that are Periodically converted into Meeds token (and - for DAOs - potentially another token), based on a predefined budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
 
-Una, ang mga sumusunod na libreng serbisyo na ibinibigay ng Meeds association ay maaaring gamitin upang bigyang-parangalan ang pakikilahok:
+To begin with, the following free services provided by the Meeds association can be used to reward engagement:
 
-- **Mekanismo ng Gamipikasyon** – Ang mga automatic actions sa loob ng WoM ay may bigat sa mga puntos, na maaaring i-customize sa mga programa ng pakikilahok upang masunod ang mga prayoridad ng Deed.
-- **Mga Hamon** – Ang mga challenge na maaaring i-customize ay maaaring itakda upang kumatawan sa mga tagumpay. Ang mga hamon ay itinakda ng isang tao at maaaring matupad at ipahayag bilang ganoon ng iba. Ang mga hamon ay may bigat ng mga puntos, sa loob ng mga programang pinapasadya para sa pakikipag-ugnayan.
-- **Mga programa ng pakikipag-ugnayan na maaaring ayusin ayon sa gusto** - Ang mga organisasyon ay maaaring lumikha ng kanilang sariling mga programa ng pakikilahok na tumutugma sa kanilang mga layunin sa negosyo at prayoridad. Ang mga programa ay kaugnay ng mga awtomatikong aksyon sa loob ng sistema at mga hamon na manually na itinatakda. Bawat programa ay may itinakdang badyet para sa Meeds. Ang mga puntos na nakuha ng bawat user sa pamamagitan ng mga automatic o ipinaalam na mga aksyon sa bawat programa ng pakikilahok ay paminsan-minsan na ginagawang Meeds, batay sa badyet ng programa na iyon.
-- **Puri** - Ang mga kudos ay maaring ipagkaloob ng mga gumagamit sa isa't isa, bilang pasasalamat at tanda ng pagkilala. Dahil sa limitadong bilang ng mga kudos na pwedeng ipamahagi (halimbawa, tatlo kada linggo), kaya't sila ay bihirang mayroon at mahalaga. Tulad ng mga aksyon, nagbibigay ng puntos ang pagpaparangal. Sa ganitong paraan, pinapahintulutan ang mga empleyado na magbigay ng gantimpala sa kanilang mga kasamahan.
-- **Kolaborasyon** Ang mga kasangkapan, na nakakabit sa nagbibigay-kasiyahan na makina - mga espasyo ng trabaho, hindi-singkronong komunikasyon, isang kasangkapan sa pamamahala ng mga gawain at mga tala - ay nagpapahintulot sa mga tao na magtrabaho nang magkasama sa mga proyekto.
-- **Sapot ng pitaka** – Ang mga gumagamit ay binibigyan ng isang ligtas na Ethereum technology wallet upang mag-imbak ng kanilang Meeds. Sa alternatibo naman, maaaring gamitin ng mga advanced na gumagamit ang Metamask wallet.
-- **Store** – Isang tindahan kung saan ang mga Meeds ay maaaring palitan laban sa mga pribilehiyo na ibinibigay ng may-ari o nagpaparenta ng Deed o ng Meeds ecosystem.
-- **Analytics** – Upang suriin at sundan ang pakikisangkot sa loob ng Gawaing-Panlahat.
-- **Connectors**, Nakakabit sa reward engine - makakakuha ng engagement points ang mga user sa pamamagitan ng mga aksyon sa ibang software - halimbawa sa paglalagay ng code sa GitHub.
+- **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the organization’s priorities via customizable engagement programs.
+- **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
+- **Customizable engagement programs** - organizations can create their engagement programs to match their business goals and priorities. Programs are associated with automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatic or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
+- **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
+- **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
+- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
+- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
+- **Analytics** – to analyze and follow engagement within the Deed.
+- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
 
-Ang ilan sa mga nabanggit na kasangkapan at serbisyo ay nakadisenyo na, habang ang iba naman ay hindi pa. Ang pangunahing layunin ay magbigay ng lahat ng serbisyo sa pamamaraang hindi sentralisado, na gagawin namin nang dahan-dahan habang nagbabago ang teknolohiya sa likod nito.
+Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
 
-Ang mga bagong serbisyo ay maaaring ikabit sa reward engine sa pamamagitan ng mga API. Ang mga halimbawa ay walang katapusan at maaaring maglaman ng kahit anong software o serbisyo:
+New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
 
-- Ang CRM software – bibigyan ng mga puntos sa pakikipag-ugnayan ang mga salespeople kapag nagtrabaho sa mga oportunidad.
-- Software sa accounting - makakakuha ng mga puntos ng pakikisangkot ang mga accountant sa pagpapanatili ng mga libro.
-- Terminal ng pag-rekord ng oras - ang manggagawa sa pabrika ay makakakuha ng puntos para sa oras ng pagtatrabaho sa pabrika.
-- Wika pa.
+- CRM software – salespeople would get engagement points for working on opportunities.
+- Accounting software – accountants would get engagement points for keeping books.
+- Clocking terminal – factory worker can get points for factory work time.
+- Etc.
 
-Bukod pa rito, ang pakikilahok na nabuo sa pamamagitan ng connector ay nakikiisa sa pandaigdigang markang pangangasiwa ng organisasyon na nagiging bahagi ng distribusyon ng pagmimintis ng Meeds, na inilarawan sa ibaba. Upang magawa iyon, kinakailangan na maipasok sa listahan ng mga pinapayagang konektor ng Meeds Association. Ang asosasyon ay nagrerepaso ng konektor, pumapayag sa kanyang algorithm at nag-aakma ng pagmamay-ari laban sa Meeds. Ito ay naging bahagi ng libreng serbisyo na ibinibigay ng asociasyon at kasama sa global engagement index. Maaaring gamitin ng anumang ibang Deed ang parehong connector at reward algorithm para sa kanilang mga developer.
+Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Hub can use the same connector and the same reward algorithm for its developers.
 
-Ang may hawak o nagrerenta ng Deed ay maaring magdagdag ng sarili nitong mga benepisyo sa kanyang tindahan, kumonekta sa online na mga alok ng benepisyo atbp. Muli, ang mga posibilidad ay walang katapusan:
+The organization can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
 
-- Mga kurso sa pagsasanay
-- Mga membership sa gym
-- Mga pakete ng bakasyon
-- Tanghalian kasama ang pinuno sa organisasyon
-- Espasyong pisikal ng opisina
-- Wika pa.
+- Training courses
+- Gym memberships
+- Vacation packages
+- Lunch with a leader in the organization
+- Physical office space
+- Etc.
 
-Ang tindahan ay gumagana sa pamamagitan ng paggamit ng Meeds upang bahagyang ibalik sa Deed ang Meeds.
+The store functions through the use of Meeds so that Meeds are partially returned to the community.
 
-## 2.5. Mga gantimpala - Mga pangangailangan at iba pang mga tanda ng pagkilala
+## 2.5. Rewards – Meeds and other tokens
 
-Ang WoM ay magtatokenize ng kaguluhan ng mga user sa pamamagitan ng paglalaro ng digital na mga tool sa trabaho, at pagbibigay ng mga puntos at Meeds ayon sa kaguluhan sa trabaho. Ang mga serbisyo na nakakabit sa engine ng kaginhawahan at gantimpala ay nagbibigay ng puntos sa bawat gumagamit, ayon sa antas ng kanilang pakikisangkot at naaayon sa mga programa ng pakikisangkot ng bawat Gawain. Sa katunayan, bawat Gawain ay maaaring ayusin ang dami ng puntos na ibibigay para sa bawat uri ng aktibidad. Kaya, ang paglalagay ng code sa GitHub ay maaaring nagkakahalaga ng 10 puntos para sa isang tindahan ng IT, habang maaaring magbigay lamang ng 5 puntos para sa mga pag-push sa GitHub ang isang digital na ahensiya ngunit mag-aalok ng 10 puntos para sa mga retweet.
+The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Hub's engagement programs. Indeed, each community can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
 
-Sa bawat panahon, ang nagbibigay ng gantimpala na makina ay nagpapalit ng engagement points sa Meeds batay sa mga badyet at iba pang mga patakaran sa pamamahagi at sa huli ay nagbibigay ng mga gantimpala sa mga user sa kanilang mga wallet. Hindi kinakailangan ang Deed upang maghatid ng Meeds at maaaring gamitin ang sistema ng pakikipag-ugnayan upang mag-enable ng ibang uri ng programa ng kompensasyon. Gayunpaman, ang pamamahagi ng Meeds ay magpapabuti sa kapasidad nito sa pagmimintis.
+Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Hub is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
 
-Bukod dito, hindi kinakailangan ng Deed na mag-akquire ng Meeds upang ipamahagi at mapagana ang mga programa nito sa pakikisangkot, dahil makakakuha ito ng Meeds mula sa "mintium" model, na ipinaliliwanag sa ibaba.
+Moreover, the community does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
 
-Bukod kay Meeds, posible rin na mag-distribute ng ibang tokens (halimbawa, ang sariling mga tokens ng DAO) batay sa parehong mekanismo ng engagement. Sa ganitong kaso, ang pamamahagi ay magiging sakop ng 5% na bayad sa transaksyon (sa DAO token) para sa Meeds Association.
+In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
 
-## 2.6. Ang modelo ng "mintium" - pagbabahagi ng trabaho sa pag-engage
+## 2.6. Ang modelo ng "mintium" - tokenisasyon ng pakikilahok sa trabaho
 
-Sa pamamagitan ng pakikipag-ugnayan sa kanilang mga gumagamit sa WoM, nakakakuha ng kumpensasyon ang mga Deeds sa pamamagitan ng isang imbensyong mintium modelo.
+Sa pamamagitan ng pakikipag-ugnayan sa kanilang mga user sa WoM, nababayaran ang mga komunidad sa pamamagitan ng isang makabagong modelo ng mintium.
 
-Ang mga punto ng pakikilahok, na nakamit ng mga gumagamit ng Deeds, ay nakikilahok sa pandaigdigang index ng pakikilahok, na kinakalkula ng Meeds Association. Ang index ay gumagamit ng parehong prinsipyo para sa lahat ng mga Deeds. Kahit na maaaring baguhin ng Deed ang alokasyon ng mga puntos upang magpromote ng isang aksyon kaysa sa isa pa, hindi ito isasaalang-alang sa pagkalkula ng global na indeks.
+Ang mga punto ng pakikipag-ugnayan, na nakuha ng mga user ng Hubs, ay lumalahok sa pandaigdigang index ng pakikipag-ugnayan, na kinakalkula ng Meeds Association. Ang index ay gumagamit ng parehong prinsipyo para sa lahat ng Hubs. Kahit na maaaring baguhin ng komunidad ang paglalaan ng mga puntos upang i-promote ang isang aksyon sa isa pa, ang mga pagbabagong iyon ay hindi isasaalang-alang sa pandaigdigang index computation.
 
-Bawat linggo, mayroong tiyak na halaga ng Meeds na inilaan para sa global engagement minting ng WoM. Ito ay kinokompyuta sa linggong basis, pro-rata, sa mga nakikibahagi sa mga Gawain. May ilang gawain na nakakatanggap ng karagdagang tulong depende sa kanilang uri. Ang mga gawain na nag-aangkin ng kanilang bunga sa loob ng isang linggo, ay tatanggap ng mga ito. Ang hindi na-claim na Meeds ay idinadagdag sa kabuuang halaga ng pamamahagi sa susunod na linggo.
+Tuwing linggo, may tiyak na halaga ng Meeds na inilaan para sa global engagement minting ng WoM. Ito ay kinukuwenta linggu-linggo, pro-rata, kasama ng mga kalahok na Hub. Ang ilang Hub ay nakakakuha ng karagdagang tulong depende sa uri ng Deed na ginagamit nila. Ang mga Hub na nag-claim ng kanilang Meeds sa buong linggo, ay tumatanggap sa kanila. Ang mga hindi nakuha na Meeds ay idinadagdag sa halaga ng global na pamamahagi sa susunod na linggo.
 
 Ang engagement score _S_  Ang tagumpay ng isang gawain ay depende sa pakikipag-ugnayan, bilang ng mga gumagamit na nakilahok at ang pagpapamahagi nito :
 
@@ -94,60 +97,60 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Sa'n:
 
-- $A$ = _Aktibidad_ - Kabuuang bilang ng mga aksyon na naipon ng mga gumagamit sa Deed sa loob ng isang linggo. (Sa bawat antas ng Gawain, bawat aksyon ay ginagawang mga puntos ng pakikilahok, kung saan may mga aksyon na mas mabigat kaysa sa iba. Sa antas ng index, lahat ng aksyon ay linearized).
+- $A$ = _Aktibidad_ - kabuuang bilang ng mga pagkilos na naipon ng mga user sa loob ng Hub sa loob ng linggo. (On a Hub, each action is converted into engagement points, some actions weighting more than others. Sa antas ng index, lahat ng mga aksyon ay linearized).
 - $U$ = _Aktibong mga gumagamit_ - Mga gumagamit na nakatulong sa mga puntos sa loob ng linggo, sa pamamagitan ng hindi bababa sa isang aksyon.
-- $E_d$ = _Ang rate ng pakikipag-ugnay ng gawa_ - mga aksyon sa bawat gumagamit ($A / U$)
-- $E_w$ = _Average na rate ng pakikipag-ugnay_ ng lahat ng mga aktibong gawa sa WoM.
-- $D_r$ = _rate ng pamamahagi_ - kung ang isang gawa ay tumanggap ng mga minted Meeds para sa naunang panahon, ang% ng mga Meeds na ipinamamahagi sa mga gumagamit nito. Ang% ay maaaring higit sa 100 kung ang pamamahagi ay naantala sa oras.
-- $D_s$ = _Pamamahagi ng pamamahagi_ - kung ang isang gawa ay tumanggap ng mga minted Meeds para sa naunang panahon, ang% ng mga gumagamit na tumanggap ng mga Meeds sa kabuuang pool ng mga gumagamit.
+- $E_d$ = _Rate ng pakikipag-ugnayan ng hub_ - mga pagkilos bawat user ($A/U$)
+- $E_w$ = _Average na rate ng pakikipag-ugnayan_ ng lahat ng aktibong Hub sa WoM.
+- $D_r$ = _Rate ng pamamahagi_ - kung nakatanggap ang isang Hub ng minted Meeds para sa naunang panahon, ang % ng Meeds na ipinamahagi sa mga user nito. Ang porsyento ay maaaring lumampas sa 100 kung ang pamamahagi ay naantala sa oras.
+- $D_s$ = _Pagkalat ng pamamahagi_ - kung nakatanggap ang isang Hub ng minted Meeds para sa naunang panahon, ang % ng mga user na nakatanggap ng Meeds sa kabuuang pool ng mga user.
 - $M$ = _Minting Power_ ng gawa na tinukoy sa 2.3
 
 
-Ang pandaigdigang index ng pakikipag-ugnay na ginamit upang ipamahagi ang mga minted Meeds sa mga Deeds ay ang kabuuan ng lahat ng mga Deeds ’ mga marka ng pakikipag-ugnay para sa linggo.
+Ang pandaigdigang index ng pakikipag-ugnayan na ginamit upang ipamahagi ang minted Meeds sa mga Hub ay ang kabuuan ng lahat ng mga marka ng pakikipag-ugnayan ng Hubs para sa linggo.
 
 
-Ang pormula sa itaas ay simple at idinisenyo upang pabor ang mga gawa :
+Ang formula sa itaas ay simple at idinisenyo upang paboran ang mga hub :
 
-- na may maraming mga nakatuon na gumagamit ( pakikipag-ugnayan )
-- na nagbabahagi ng buong kita ng minting ( rate ng pamamahagi) sa kanilang mga gumagamit nang patas ( pamamahagi ng pamamahagi).
+- na may maraming aktibong mga user (pakikipag-ugnayan)
+- na nagbabahagi ng kabuuang kita mula sa pagmimintisyon (distribution rate) nang patas sa kanilang mga user ( pamamahagi ng pamamahagi).
 
-Ang mga pagdaragdag ng karagdagan ay nasa lugar para sa :
+Dagdag na mga pampalakas ay inilalagay para sa:
 
-- mga organisasyon na may pinakamataas na pakikipag-ugnayan, anuman ang kanilang laki ( rate ng pakikipag-ugnay na may kaugnayan sa WoM)
-- mas kakaunti ang deeds
+- may pinakamataas na pagkakasangkot, hindi isinasaalang-alang ang kanilang laki (porsiyento ng pagkakasangkot sa kaugnayan sa WoM)
+- mas kakaunting mga gawa
 
-> Inilalaan ng asosasyon ng Meeds ang karapatang baguhin ang formula kung kinakailangan – kung may ilang partikular na kaso ng paggamit na lumitaw halimbawa. Maaari ding i-blacklist ng asosasyon ang anumang Deed na nag-hijack sa formula sa natatanging benepisyo nito.
+> Ang Meeds association ay nagtatangi ng karapatan na baguhin ang formula kung kinakailangan - kung mayroong partikular na mga kaso ng paggamit na lumitaw halimbawa. Maaari ding i-blacklist ng asosasyon ang anumang Hub na nag-hijack sa formula sa natatanging benepisyo nito.
 
-Dahil ang Deeds ay ginagantimpalaan ng Meeds at insentibo na muling ipamahagi ang mga ito bilang mga reward sa kanilang mga user laban sa kanilang pakikipag-ugnayan – ang interes ng parehong Deeds at ng kanilang mga user ay nakahanay sa parehong virtuous na ikot ng pagbabahagi ng kita. Kaya, nag-aalok ang WoM ng bagong modelo ng trabaho, na muling humuhubog sa relasyon ng employer/empleyado bilang isang partnership.
+Dahil ang mga Hub ay ginagantimpalaan ng Meeds at insentibo na muling ipamahagi ang mga ito bilang mga gantimpala sa kanilang mga user laban sa kanilang pakikipag-ugnayan – ang interes ng parehong mga komunidad at kanilang mga user ay nakahanay sa parehong magandang ikot ng pagbabahagi ng kita. Kaya't ang WoM ay nag-aalok ng isang bagong modelo ng trabaho na binabago ang ugnayan ng employer/employee bilang isang partnership.
 
-Ang "mintium" na modelo ay ang una sa isang uri - ito ay higit pa kaysa sa tradisyonal na freemium, dahil hindi lamang ang mga serbisyo ay malayang gamitin ngunit ang mga organisasyon at ang kanilang mga gumagamit ay gagantimpalaan para sa paggamit sa kanila.
+Ang modelo ng "mintium" ay ang unang kanyang uri - ito ay lumalampas sa tradisyonal na freemium model, dahil hindi lamang libre gamitin ang mga serbisyo, kundi pinararangalan din ang mga organisasyon at ang kanilang mga user sa paggamit nito.
 
-## 2.7. Mga lungsod at pamamahala
+## 2.7. Mga Siyudad at Pamamahala
 
-Sa WoM, unti-unting bubuo ang Deeds sa loob ng mga virtual na lungsod. Tanging ang unang lungsod ang iiral mula sa simula. Yung iba ay unti-unti nang itatayo, sunod-sunod. Sa buong WoM, magkakaroon lamang ng 7 lungsod, bawat isa ay may kasamang nakapirming bilang ng mga Deed ng bawat uri.
+Sa WoM, ang mga Deed ay unti-unting magiging available sa loob ng mga virtual na siyudad. Tanging ang unang siyudad lamang ang magiging umiiral mula sa simula. Ang iba ay unti-unting itatatag, isa-isa. Sa buong WoM, magkakaroon lamang ng 7 lungsod, na bawat isa ay may kasamang nakapirming bilang ng mga Deed ng bawat uri.
 
-Ang isang lungsod ay ituturing na kumpleto, kapag ang lahat ng mga Gawa nito ay nai-minted. Pagkatapos, ang pag-print ng bawat bagong lungsod ay magsisimula ng $2^n$ na buwan pagkatapos maipagawa ang huling Deed ng $n-1$ na lungsod.
+Ang isang lungsod ay ituturing na kumpleto kapag lahat ng mga Deed nito ay nami-mint na. Pagkatapos nito, ang pagmimint ng bawat bagong lungsod ay magsisimula pagkatapos ng $2^n$ buwan mula nang ma-mint ang huling Deed ng lungsod na $n-1$.
 
-| **Pangalan ng lungsod** | **Mga gawa** | **Available**          | **Karaniwan** | **Hindi karaniwan** | **Biyaya** | **Alamat** |
-| ----------------------- | ------------ | ---------------------- | ------------- | ------------------- | ---------- | ---------- |
-| 1: Tanit                | 100          | T0                     | 50            | 30                  | 13         | 7          |
-| 2: Reshef               | 1 000        | Tanit + 4 na buwan     | 600           | 300                 | 94         | 6          |
-| 3: Ashtarte             | 10 000       | Reshef + 8 buwan       | 6 000         | 3 000               | 995        | 5          |
-| 4: Melqart              | 100 000      | Ashtarte + 16 na buwan | 60 000        | 30 000              | 9 996      | 4          |
-| 5: Eshmun               | 1 000 000    | Melqart + 32 buwan     | 600 000       | 300 000             | 99 997     | 3          |
-| 6: Kushor               | 10 000 000   | Eshmum + 64 na buwan   | 6 000 000     | 3 000 000           | 999 998    | 2          |
-| 7: Hammon               | 100 000 000  | Kushor + 128 buwan     | 60 000 000    | 30 000 000          | 9 999 999  | 1          |
+| **Pangalan ng lungsod** | **Deeds**   | **Magagamit**         | **Karaniwan** | **Hindi karaniwan** | **Biyaya** | **Alamat** |
+| ----------------------- | ----------- | --------------------- | ------------- | ------------------- | ---------- | ---------- |
+| 1: Tanit                | 100         | T0                    | 50            | 30                  | 13         | 7          |
+| 2: Reshef               | 1 000       | Tanit + 4 buwan       | 600           | 300                 | 94         | 6          |
+| 3: Ashtarte             | 10 000      | Reshef + 8 na buwan   | 6 000         | 3 000               | 995        | 5          |
+| 4: Melqart              | 100 000     | Ashtarte + 16 buwan   | 60 000        | 30 000              | 9 996      | 4          |
+| 5: Eshmun               | 1 000 000   | Melqart + 32 na buwan | 600 000       | 300 000             | 99 997     | 3          |
+| 6: Kushor               | 10 000 000  | Eshmum + 64 buwan     | 6 000 000     | 3 000 000           | 999 998    | 2          |
+| 7: Hammon               | 100 000 000 | Kushor + 128 na buwan | 60 000 000    | 30 000 000          | 9 999 999  | 1          |
 
-Ang lungsod ay isang paraan para magsama-sama ang mga Deeds at lumikha ng isang komunidad. At bilang kinahinatnan, kumuha ng isang tiyak na pagkakakilanlan, na nauugnay sa komunidad na iyon. Isa rin itong paraan upang magbigay ng karagdagang halaga sa mga gumagamit nito - halaga na lalampas sa mga kakayahan o halaga ng isang Deed na nilikha sa pamamagitan ng pakikipagtulungan sa pagitan ng Mga Deed.
+Ang lungsod ay isang paraan para magsama-sama ang mga komunidad at lumikha ng mas malaking komunidad. At bilang isang bunga nito, nagkakaroon sila ng tiyak na pagkakakilanlan na nauugnay sa komunidad na iyon. Isa rin itong paraan upang magbigay ng karagdagang halaga sa mga gumagamit nito - halaga na lalampas sa mga kakayahan o halaga ng isang komunidad na nilikha sa pamamagitan ng pakikipagtulungan sa pagitan ng mga komunidad.
 
-Ang bawat lungsod ay may sariling pamamahala at nagpapatakbo ng sarili nitong DAO kung saan maaaring ihalal ng mga may-ari ng Deeds ng lungsod ang kanilang konseho ng lungsod, bumoto at magtatag ng sarili nilang mga patakaran sa pagpapatakbo, magdagdag ng mga bagong serbisyo at hubugin ang kanilang lungsod sa paraang gusto nila at para mapataas ang kaakit-akit ng lungsod at ang halaga ng mga Deeds na kalakip nito.
+Ang bawat lungsod ay may sariling pamamahala at nagpapatakbo ng sarili nitong DAO kung saan ang mga may-ari ng Deed ng lungsod ay maaaring maghalal ng kanilang konseho ng lungsod, bumoto at magtatag ng kanilang sariling mga patakaran sa pagpapatakbo, magdagdag ng mga bagong serbisyo at hubugin ang kanilang lungsod sa paraang gusto nila at para mapataas ang lungsod kaakit-akit at ang halaga ng mga Gawa na kalakip nito.
 
-Halimbawa, maaari silang magdagdag ng digital na representasyon ng kanilang lungsod, mga pisikal na katapat na nauugnay sa kanilang lungsod (halimbawa, mga meeting room sa mga pisikal na co-working space), magdagdag ng mga serbisyo sa pagkain na pinapagana ng Meeds, mga serbisyo sa bakasyon, atbp...
+Halimbawa, maaari silang magdagdag ng isang digital na representasyon ng kanilang lungsod, mga katumbas na pisikal na elemento na nauugnay sa kanilang lungsod (mga silid ng pagpupulong sa mga pisikal na co-working space halimbawa), magdagdag ng mga serbisyong pangpagkain na pinapagana ng Meeds, serbisyong pangbakasyon, at iba pa...
 
-Bilang default (maliban kung iba ang boto ng lungsod), ang passive na kita mula sa pag-upa sa Mga Deed ay "bubuwisan" ng lungsod (5%) at ng Asosasyon (3%) upang hikayatin ang produktibong paggamit.
+Sa default (maliban kung iboto ng lungsod ang iba), ang passive income mula sa pag-upa ng mga Deed ay "bubuwisan" ng lungsod (5%) at ng Association (3%) upang hikayatin ang produktibong paggamit.
 
-Ang mga transaksyon sa pagmamay-ari (Deed sales) ay sisingilin din ng 6% :
+Ang mga transaksyon ng pagmamay-ari (mga benta ng Deed) ay papatawan din ng 6% na buwis:
 
-- 2.5% para sa Lungsod,
-- 2.5% para sa Association,
-- 1% para sa orihinal na wallet na nag-redeem sa Deed.
+- 2.5% para sa City,
+- 2.5% para sa Asosasyon,
+- 1% para sa orihinal na wallet na nag-redeem ng Deed.
