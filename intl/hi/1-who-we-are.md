@@ -1,14 +1,14 @@
 
-# 1. हम कौन हैं - मीड्स एसोसिएशन
+# 1. Who we are – the Meeds Association
 
-मीड्स एसोसिएशन एक गैर-लाभकारी संगठन है जो मूल रूप से एक मुक्त डिजिटल दुनिया की आम दृष्टि के आसपास कई ओपन सोर्स सॉफ्टवेयर (ओएसएस) समुदायों द्वारा शुरू किया गया है - एक विकेन्द्रीकृत दुनिया जिसे मुट्ठी भर केंद्रीकृत मेगा-निगमों द्वारा नियंत्रित नहीं किया जाएगा।
+The Meeds association is a non-profit organization originally launched by several Open Source Software (OSS) communities around the common vision of a free digital world – a decentralized world that would not be controlled by a handful of centralized mega-corporations.
 
-Meeds एसोसिएशन को जिनेवा में स्विस कानून के तहत एक गैर-लाभकारी संघ के रूप में शामिल किया गया है।
+The Meeds association is incorporated in Geneva, as a non-profit association under the Swiss law.
 
-एसोसिएशन मीड्स मुद्रा जारी करने को नियंत्रित करता है, एक ERC20 टोकन, जिसे उपयोगिता टोकन के रूप में मान्यता प्राप्त है।
+The association regulates the issuance of the Meeds currency, an ERC20 token, recognized as a utility token.
 
-वुमन एंड Wom के Meeds के लिए, एसोसिएशन एथेरियम प्लेटफॉर्म और उसके पारिस्थितिकी तंत्र का लाभ उठाता है, जिससे यह सभी उपयोगकर्ताओं के लिए एक अनुकूल और लागत प्रभावी तरीके से सुलभ हो जाता है।
+To build the WoM and Meeds, the association leverages the Ethereum platform and its ecosystem, making it accessible in a friendly and cost-effective way to all users.
 
-एसोसिएशन को एक विकेन्द्रीकृत स्वायत्त संगठन (DAO) के रूप में संरचित किया गया है, जहाँ शासन टोकन धारक हर साल बोर्ड के चुनाव जैसे सभी महत्वपूर्ण संगठनात्मक परिवर्तनों पर मतदान करते हैं।
+The association is structured as a Decentralized Autonomous Organization (DAO) where the governance token holders vote on all important organizational changes such as electing the board every year.
 
-मीड्स टोकन Meeds के अलावा, एसोसिएशन के पास मीड्स सॉफ्टवेयर [github.com/meeds-io](https://github.com/meeds-io) की बौद्धिक Meeds (IP) है, जो एलजीपीएल LGPL के तहत उपलब्ध है और मुफ्त में वितरित की जाती है। उत्तरार्द्ध में एक एथेरियम वॉलेट ऐप शामिल है जिसका उपयोग उपयोगकर्ता अपने मीड्स को स्टोर करने और लेनदेन करने के लिए कर Meeds हैं (अधिक विवरण के लिए खंड 2.4 देखें)। Meeds एसोसिएशन उस सॉफ़्टवेयर का लाभ उठाने वाली एक बहु-किरायेदार क्लाउड होस्टिंग सेवा भी चलाता है।
+Besides Meeds token management, the association holds the Intellectual Property (IP) of the Meeds software [github.com/meeds-io](https://github.com/meeds-io), available under the LGPL license and distributed for free. The latter includes an Ethereum wallet app that users can use to store and transact their Meeds (see section 2.4 for more details). The Meeds Association also runs a multi-tenant cloud hosting service leveraging that software.
