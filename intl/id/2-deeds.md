@@ -1,17 +1,20 @@
 
-# 2. NFT Deed - Organisasi Work Metaverse
+# 2. Deeds NFT - WoM Organizations
 
-## 2.1. NFT - Definisi Deed
+## 2.1. NFT – Deeds defined
 
-Sebuah non fungible token (NFT) adalah sebuah token unik yang mewakili sebuah benda. Dalam WoM, Deed digunakan sebagai bukti kepemilikan. Satu Deed memberikan pemiliknya sebuah hak untuk mendapatkan beberapa layanan - misalnya, sebuah akses masuk ke kantor digital, yang disokong perangkat lunak Meed dan hak untuk mencetak Meed.
 
-WoM terbuka untuk beragam jenis organisai - DAO, perusahaan tradisional, asosiasi, lembaga pemikir, kerjasama, perusahaan perfilman, kelompok proyek, sekolah dll. Deed mewakili keberadaan pemiliknya secara digital dalam Wom.
+ NFTs (Non-Fungible Tokens) can be compared to deeds in the real world. Just as deeds signify ownership of a tangible property, NFTs provide proof of ownership for digital assets. This property right is registered and maintained on a blockchain, thus, assuring that the asset is unique and can't be replicated.
+
+ In the World of Meeds (WoM), a Deed is used as a core value of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a community hub, some hidden dynamic tools powered by the Meeds software and Mintium rewards (see 2.6).
+
+ The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital presence in the WoM.
 
 ## 2.2. Suplai Deed
 
 WoM pada akhirnya akan membatasi suplai Deed. Sebuah Deed sebelumnya sudah menentukan jumlah pengguna maksimum dan menawarkan kapasitasnya memberi imbalan Meed (Minting Power). Kata 'user' atau pengguna di sini merujuk pada semua jenis pekerja, karyawan, pekerja lepas, sukarelawan dll.
 
-Ada empat jenis Deed, yang tiap jenisnya memberikan kemampuan yang berbeda untuk menampung pengguna, hak suara di dalam kota (lihat bagian 2.7) atau kemampuan mencetak Meed, yang paling langka paling kuat :
+There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
 
 | **Tipe Deed** | **Maksimal Pengguna** | **Kemampuan Mencetak** | **Kelangkaan** | **Hak suara kota** |
 | ------------- | --------------------- | ---------------------- | -------------- | ------------------ |
@@ -24,69 +27,69 @@ Ada empat jenis Deed, yang tiap jenisnya memberikan kemampuan yang berbeda untuk
 
 Sebuah Deed memberi pemiliknya hak untuk MENGGUNAKANNYA, MENYEWAKANNYA, atau MENJUALNYA.
 
-- GUNA - Pemilik Deed bisa menggunakan Deed langsung untuk perusahaannya, menyediakan layanan untuk penggunanya.
-- SEWA - Pemilik Deed juga bisa menyewakan Deed kepada lembaga lain untuk memperoleh pendapatan pasif.
-- JUAL - Sebuah Deed bisa dijual ke pasar sekunder seperti [OpenSea](https://opensea.io).
+- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
+- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
+- SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
 
-Menjadi pemilik atau menyewakan Deed secara aktif, membuat lembaga tersebut diganjar Meed, lewat model inovatif "mintium" yang dijelaskan seperti di bawah ini (bagian 2.6).
+Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
 
-## 2.4. Layanan Deed, mesin janji/ganjaran
+## 2.4. Deeds services, engagement/rewards engine
 
-Pada pasar yang kompetitif, untuk menarik dan mempertahankan talenta serta memaksimalkan kinerja mereka, organisasi perlu memberikan insentif penggunanya lebih dari hanya sekadar gaji biasa. WoM menyediakan kerangka kerja inovatif untuk itu, dengan melakukan tokenisasi keterlibatan kerja.
+In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
 
-Setiap pemilik atau yang menyewakan Deed bisa menyediakan peralatan dan layanan kepada penggunanya, akan memperoleh poin keterlibatan yang bisa disesuaikan dengan prioritas Deed. Secara periodek, poin-poin tersebut bisa ditukar menjadi Meed (dan -untuk DAO- berpotensi menjadi token lainnya), berdasar pada bujet Deed yang disetel. Dengan cara kerja seperti itu, keterlibatan pengguna sangat berharga bagi organisasi dan layak dihargai dengan setimpal.
+Each Deed’s holder or renter can set and achieve fine-tuned organizational priorities by creating contribution programs for community members who earn engagement points that are Periodically converted into Meeds token (and - for DAOs - potentially another token), based on a predefined budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
 
-Sebagai awalan, layanan gratis berikut bisa disediakan oleh asosiasi Meed yang bisa digunakan untuk ganjaran keterlibatan:
+To begin with, the following free services provided by the Meeds association can be used to reward engagement:
 
-- **Mesin Gamifikasi** – aksi otomatis dalam WoM memiliki bobot poin yang bisa disesuaikan dengan prioritas Deed dengan program keterlibatan yang bisa disesuaikan.
-- **Tantangan** –tantangan yang bisa disesuaikan dan dapat diatur untuk menunjukkan pencapaian. Tantangan ditentukan oleh satu orang dan bisa diselesaikan dan diumumkan oleh orang lainnya. Tantangan memuat bobot poin, yang bisa disesuaikan dengan program keterlibatan.
-- **Program Keterlibatan yang Bisa Dikustom** -organisasi bisa membuat program keterlibatan mereka sendiri sesuai dengan tujuan dan prioritas bisnis mereka. Program terikat pada aksi otomatis dengan sistem dan tantangan yang disetel manual. Setiap program ada bujet yang ditetapkan. Secara berkala, poin yang diperoleh tiap pengguna dengan otomatis atau dengan pengumuman pada tiap program keterlibatan diubah menjadi Meed, berdasar bujet program.
-- **Pujian** - pujian bisa diberikan oleh sesama pengguna, sebagai ungkapan terima kasih dan sebagai tanda pengakuan. Pujian yang bisa diberikan terbatas (bisa disetel batasan waktunya, misalnya 3 per minggu), karena pujian itu langka dan bernilai. Seperti aksi, pujian memiliki poin. Dengan cara seperti ini, karyawan diberdayakan untuk menghargai kolega mereka.
-- **Kolaborasi** peralatan, ditancapkan ke dalam mesin hadiah - ruang kerja, komunikasi, catatan dan peralatan tugas manajemen - memungkinkan pekerja untuk bekerja bersama dalam proyek.
-- **Dompet** - Pengguna disediakan dengan dompet Ethereum untuk menyimpan Meed mereka. Sebagai pilihan, bagi pengguna yang sudah mahir, bisa menggunakan dompet Metamask.
-- **Toko** - sebuah toko adalah tempat di mana Meed bisa ditukar untuk mendapat keuntungan disediakan oleh pemilik Deed atau yang menyewakan, atau oleh ekosistem Meed.
-- **Analisis** - untuk menganalisi dan mengikuti keterlibatan dalam Deed.
-- **Penghubung**, ditancapkan dengan mesin hadiah - pengguna mendapatkan poin keterlibatan lewat tindakannya di perangkat lunak lainnya - misalnya dengan melakukan kode di GitHub.
+- **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the organization’s priorities via customizable engagement programs.
+- **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
+- **Customizable engagement programs** - organizations can create their engagement programs to match their business goals and priorities. Programs are associated with automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatic or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
+- **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
+- **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
+- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
+- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
+- **Analytics** – to analyze and follow engagement within the Deed.
+- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
 
-Beberapa peralatan dan layanan yang disebut di atas ada yang sudah terdesentralisasi, ada juga yang tidak. Tujuan utama adalah menyediakan semua layanan secara terdesentralisasi, yang akan kami lakukan secara bertahap seiring perkembangan teknologinya.
+Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
 
-Layanan baru bisa ditancapkan ke mesin hadiah lewat API. Banyak contohnya dan meliputi hampir semua perangkat lunak, atau layanan virtual:
+New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
 
-- Perangkat lunak CRM - tenaga penjualan akan mendapat poin keterlibatan karena mengerjakan sesuai kesempatannya.
-- Perangkat lunak akuntansi - akuntan akan mendapat poin keterlibatan karena mengelola pembukuan.
-- Terminal Clocking - pekerja bisa mendapatkan poin untuk pekerjaan sesuai masa kerjanya.
-- Dll.
+- CRM software – salespeople would get engagement points for working on opportunities.
+- Accounting software – accountants would get engagement points for keeping books.
+- Clocking terminal – factory worker can get points for factory work time.
+- Etc.
 
-Selain itu, keterlibatan yang dihasilkan dari partisipasi konektor dalam perhitungan keterlibatan organisasi global yang jadi faktor pencetakan distribusi Meed, dijelaskan di bawah ini. Untuk melakukan itu, konektor harus didaftar oleh asosiasi Meed. Asosiasi menilai konektor, menyetujui algoritmanya dan mendapatkan hak terhadap Meed. Hal ini akan menjadi bagian dari layanan gratis yang disediakan oleh asosiasi dan termasuk dalam bagian indeks keterlibatan global. Deed yang lain boleh menggunakan konektor dan algoritma yang sama untuk para pengembangnya.
+Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Hub can use the same connector and the same reward algorithm for its developers.
 
-Pemegang atau penyewa bisa melengkapi tokonya dengan dagangan mereka sendiri, dan menghubungkannya dengan dagangan yang ditawarkan secara daring dll. Ada pula peluang-peluang lain yang tak terbatas:
+The organization can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
 
-- Kursus
-- Keanggotaan gimnastik
-- Paket liburan
-- Makan siang dengan pemimpin organisasi
-- Ruang kantor fisik
-- Dll.
+- Training courses
+- Gym memberships
+- Vacation packages
+- Lunch with a leader in the organization
+- Physical office space
+- Etc.
 
-Fungsi toko bisa difungsikan dengan penggunaan Meed, sehingga sebagian Meed bisa dikembalikan ke Deed.
+The store functions through the use of Meeds so that Meeds are partially returned to the community.
 
-## 2.5. Hadiah - Meed dan token lainnya
+## 2.5. Rewards – Meeds and other tokens
 
-WoM akan mengembangkan token untuk keterlibatan pengguna, dengan gamifikasi peralatan kerja digital, dan memberi poin dan Meed dalan hubungannya dengan keterlibatan kerja. Layanan dihubungkan dengan keterlibatan dan mesin hadiah poin ke setiap pengguna, menurut tingkat keterlibatan mereka dan selaras dengan tiap program keterlibatan Deed. Tentunya, setiap Deed bisa menyetel berapa besar poin hadiah yang diberikan pada tiap jenis aktivitas. Jadi, tiap mengunggah kode di GitHub bisa bernilai 10 poin untuk toko IT, sedangkan bagi digital agensi hanya bernilai 5 poin untuk aktivitas mengunggah kode ke GitHub, tapi mereka mendapatkan 10 poin jika meretweet.
+The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Hub's engagement programs. Indeed, each community can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
 
-Secara berkala, mesin hadiah mengubah poin keterlibatan menjadi Meed sesuai dengan bujet dan aturan distribusi lainnya, dan memberikan hadiah kepada pengguna lewat dompet mereka. Deed tidak wajib mendistribusikan Meed, dan bisa menggunakan sistem keterlibatan untuk melakukan bentuk lain dari program kompensasi. Namun, mendistribusikan Meed akan meningkatan kemampuan mencetak mereka.
+Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Hub is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
 
-Selain itu, Deed tidak perlu memperoleh Meed untuk mendistribusikannya dan mendorong program keterlibatan, karena mereka akan mendapat Meed dengan model "mintium' yang dijelaskan di bawah.
+Moreover, the community does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
 
-Selain Meed, mereka juga bisa mendistribusikan token lain (misalnya token DAO mereka sendiri) berdasar pada mekanisme keterlibatan yang sama. Pada kasus itu, distribusinya akan dikenakan biaya transaksi 5% (dalam token DAO) untuk Meed Association.
+In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
 
 ## 2.6. Model "Mintium" - tokenisasi keterlibatan kerja
 
-Dengan melibatkan pengguna mereka di WoM, Deed mendapat kompensasi melalui model inovatif mintium.
+By engaging their users in the WoM, communities get compensated through an innovative mintium model.
 
-Poin keterlibatan, diperoleh dari pengguna Deed, indeks partisipasi keterlibatan global, dan dihitung oleh Meed Association. Indeks tersebut menggunakan prinsip yang sama kepada semua Deed. Walau Deed bisa mengubah alokasi poin untuk mempromosikan satu aksi terhadap yang lain, perubahan itu tidak akan diperhitungkan dalam perhitungan indeks global.
+Poin keterlibatan, yang diperoleh oleh pengguna Hub, berpartisipasi dalam indeks keterlibatan global, yang dihitung oleh Meeds Association. Indeks ini menggunakan prinsip yang sama untuk semua Hub. Meskipun komunitas dapat mengubah alokasi poin untuk mendorong suatu tindakan dibandingkan tindakan lainnya, perubahan tersebut tidak akan diperhitungkan dalam penghitungan indeks global.
 
-Dalam satu pekan, sejumlah Meed dialokasikan untuk pencetakan keterlibatan global dalam WoM. Alokasi ini dihitung tiap pekan, pro-rata, di antara para partisipan Deed. Sebagian Deed mendapat poin tambahan tergantung tipe mereka. Deed yang mengklaim Meed mereka dalam satu pekan, akan mereka terima. Meed yang tidak diklaim, akan dimasukkan dalam distribusi global minggu selanjutnya.
+Dalam satu pekan, sejumlah Meed dialokasikan untuk pencetakan keterlibatan global dalam WoM. Ini dihitung setiap minggu, secara pro-rata, di antara Hub yang berpartisipasi. Beberapa Hub mendapatkan dorongan tambahan tergantung pada jenis Akta yang mereka gunakan. Hub yang mengklaim Meed mereka selama seminggu, akan menerimanya. Meed yang tidak diklaim, akan dimasukkan dalam distribusi global minggu selanjutnya.
 
 Nilai keterlibatan _S_   dari Deed berdasar fungsi keterlibatan, jumlah pengguna yang terlibat dan distribusinya :
 
@@ -94,19 +97,19 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Di mana :
 
-- $A$ = _Activity_ - menunjukkan angka total akumulasi aksi pengguna dalam Deed selama sepekan. (Dalam tiap tingkat Deed, satu aksi ditukar dengan poin keterlibatan, beberapa aksi berbobot lebih banyak dibanding lainnya. Dalam tingkat indeks, semua aksi diselaraskan).
+- $A$ = _Aktivitas_ - jumlah total tindakan yang dikumpulkan oleh pengguna dalam Hub selama seminggu. (On a Hub, each action is converted into engagement points, some actions weighting more than others. Dalam tingkat indeks, semua aksi diselaraskan).
 - $U$ = _Engaged users_ - menunjukkan poin kontribusi pengguna selama sepekan, setidaknya satu aksi.
-- $E_d$ = _Engagement rate of the deed_ - aksi tiap pengguna ($A/U$)
-- $E_w$ = _Tingkat rerata keterlibatan_ semua Deed aktif dalam WoM.
-- $D_r$ = _Distribution rate_ - jika sebuah Deed menerima Meed yang dicetak pada periode sebelumnya, % dari Meed didistribusikan kepada penggunanya. Proporsi % bisa lebih dari 100 jika waktu pendistribusiannya terlambat.
-- $D_s$ =  _Distribution spread_ - jika sebuah Deed menerima Meed yang dicetak pada periode sebelumnya, porsi % dari pengguna yang menerima Meed dari total pengguna.
+- $E_d$ = _Tingkat keterlibatan hub_ - tindakan per pengguna ($A/U$)
+- $E_w$ = _Tingkat keterlibatan rata-rata_ dari semua Hub aktif di WoM.
+- $D_r$ = _Tingkat distribusi_ - jika Hub menerima Meed yang dicetak untuk periode sebelumnya, % Meed yang didistribusikan ke penggunanya. Proporsi % bisa lebih dari 100 jika waktu pendistribusiannya terlambat.
+- $D_s$ = _Sebaran distribusi_ - jika Hub menerima Meed yang dicetak untuk periode sebelumnya, % pengguna yang menerima Meed dalam total kumpulan pengguna.
 - $M$ = _Kapasitas Mencetak_ Deed dijelaskan pada bagian 2.3
 
 
-Indeks keterlibatan global digunakan untuk mendistribusikan Meed yang dicetak di antara Deed adalah jumlah dari nilai keterlibatan semua Deed dalam sepekan.
+Indeks keterlibatan global yang digunakan untuk mendistribusikan Meed yang dicetak di antara Hub adalah jumlah skor keterlibatan semua Hub pada minggu tersebut.
 
 
-Rumus di atas sederhana dan dirancang untuk mendukung Deed :
+Rumus di atas sederhana dan dirancang untuk mendukung hub :
 
 - dengan banyaknya jumlah pengguna yang terlibat (keterlibatan)
 - yang berbagi seluruh Deed yang diperoleh (distribution rate) dengan pengguna mereka secara adil (distribution rate).
@@ -116,7 +119,7 @@ Selain itu, ada tambahan bagi :
 - organisasi yang memiliki keterlibatan tertinggi, terlepas dari ukuran mereka (kaitan antara engagement rate dengan Wom)
 - deed yang lebih langka
 
-> Asosiasi Meed berhak mengubah rumus tersebut jika diperlukan - misalnya jika ada kasus tertentu. Asosiasi juga bisa memblokir Deed yang meretas rumus untuk keuntungan mereka pribadi.
+> Asosiasi Meed berhak mengubah rumus tersebut jika diperlukan - misalnya jika ada kasus tertentu. Asosiasi juga dapat memasukkan Hub mana pun yang membajak formula untuk keuntungan uniknya ke dalam daftar hitam.
 
 Karena Deed diberi imbalan dan insentif berupa Meed untuk didistribusikan ulang sebagai imbalan untuk pengguna mereka atas keterlibatan pengguna - kepentingan Deed dan penggunanya harus selaras dan sama dalam pembagian hasilnya. Maka, WoM menawarkan model kerja baru, untuk menyusun ulang hubungan pekerja/pemberi kerja sebagai sebuah kemitraan.
 
@@ -138,7 +141,7 @@ Sebuah kota dianggap sudah lengkap, saat semua Deed sudah dicetak. Lalu, penceta
 | 6: Kushor     | 10 000 000  | Eshmum + 64 bulan   | 6 000 000  | 3 000 000      | 999 998    | 2              |
 | 7: Hammon     | 100 000 000 | Kushor + 128 bulan  | 60 000 000 | 30 000 000     | 9 999 999  | 1              |
 
-Sebuah kota adalah cara bagi Deed untuk bersatu dan membangun komunitas. Maka, konsekuensinya mengakuisisi identitas yang jelas, terkait dengan komunitas tersebut. Hal ini juga cara menyediakan nilai tambah bagi pengguna - nilai yang akan melampaui kapasitas satu Deed atau nilai dari gabungan beberapa Deed.
+Sebuah kota adalah cara bagi masyarakat untuk berkumpul dan menciptakan komunitas yang lebih besar. Maka, konsekuensinya mengakuisisi identitas yang jelas, terkait dengan komunitas tersebut. Ini juga merupakan cara untuk memberikan nilai tambah bagi para penggunanya - nilai yang melampaui kemampuan satu komunitas atau nilai yang diciptakan melalui kerja sama antar komunitas.
 
 Tiap kota memiliki pemerintahnya dan dioperasikan dengan DAO mereka, di mana pemilik Deed kota bisa memilih dewan kota mereka, menentukan tata kelola kota mereka sendiri, menambah layanan dan membentuk kota mereka sesuai keinginan mereka agar meningkatkan daya tarik kota sehingga menambah nilai Deed yang ada di dalamnya.
 
