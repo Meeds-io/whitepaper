@@ -6,16 +6,16 @@ WoM pokreće njegova valuta – token Meeds (MEED). Meeds se koriste za nagrađi
 
 Meeds **maksimalna ponuda ograničena je na 100 milijuna žetona**, kovani postupno. **Meeds se kuje brzinom od 10 MEED po minuti**. Stoga je puni horizont kovanja blizu 20 godina (jer se godišnje kuje oko $10*60*24*365 = 5M$ Meeds).
 
-5 Million Meeds (5% of the total supply) were pre-minted initially. Od čega je 4,5 milijuna zaključano u ugovoru o trezoru s linearnim stjecanjem prava tijekom 4 godine. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees, and host services.
+5 milijuna Meedova (5% ukupne ponude) u početku je unaprijed iskovano. Od čega je 4,5 milijuna zaključano u ugovoru o trezoru s linearnim stjecanjem prava tijekom 4 godine. Unaprijed iskovan iznos uglavnom se koristio za stjecanje IP-a softvera, plaćanje pravnih naknada za emisiju tokena i usluge hostinga.
 
-The rest is part of the __Meeds DAO funds__ and will be used to pay for services and launch incentives such as airdrops and referral campaigns.
+Ostatak je dio __sredstava Meeds DAO__ i koristit će se za plaćanje usluga i pokretanje poticaja kao što su airdrops i kampanje preporuka.
 
 
 ## 3.2. Dodjela kovanja
 
 Minted Meedovi se dodjeljuju kako bi se potaknulo uključivanje triju kategorija dionika - korisnika, graditelja i investitora:
 
-- Korisnici (korisnici i nositelji/iznajmljivači Deeds) dobivaju Meeds kroz nagrade za angažman (mintium model).
+- Korisnici (korisnici i nositelji isprava/iznajmljivači) dobivaju Meeds kroz nagrade za angažman (mintium model).
 - Graditelji (članovi udruge i zajednice) dobivaju Meeds kroz sredstva udruge za izgradnju, rad i poboljšanje WoM-a.
 - Ulagači kuju Meeds kroz iznajmljivanje i kupnju fondova likvidnosti i ulaganje u Meeds.
 
@@ -23,7 +23,7 @@ U početku građevincima pripada 30% izdvajanja. Tih 70% dijele korisnici i inve
 
 ## 3.3. Korisnici – kovanje kroz angažman
 
-Dio kontinuirano kovanih Meeds dodijeljen je kanalu angažiranog kovanja. Distribucija se vrši tjedno. Na kraju bilo kojeg tjedna izračunava se indeks angažmana i Deeds mogu zatražiti svoje nagrade sljedeći tjedan i dobiti svoje Meeds. Meedovi koji nisu zatraženi ostaju u fondu i dodaju se distribuciji za sljedeći tjedan. Model je detaljno opisan u prethodnom poglavlju (dio 2.6).
+Dio kontinuirano kovanih Meeds dodijeljen je kanalu angažiranog kovanja. Distribucija se vrši tjedno. Na kraju bilo kojeg tjedna izračunava se indeks angažmana tako da voditelji Hubova i vlasnici Deeda mogu zatražiti svoje nagrade sljedeći tjedan i dobiti svoje Meedove. Meedovi koji nisu zatraženi ostaju u fondu i dodaju se distribuciji za sljedeći tjedan. Model je detaljno opisan u prethodnom poglavlju (dio 2.6).
 
 ## 3.4. Builders – Meeds udruga DAO i zajednica graditelja
 
@@ -33,11 +33,11 @@ Tijekom razdoblja kovanja, **30% iskovanih Meeds dodjeljuje se udruzi Meeds**.
 
 Članovi udruge mogu pružati usluge udruzi na temelju potpisane konvencije o uslugama kojom se utvrđuje stopa čovjek-dana. Usluge se plaćaju mjesečno u Meeds, prema tržišnoj cijeni. Primjeri usluga uključuju – obogaćivanje softvera Meeds, razvoj aplikacije WoM, razvoj novih konektora, upravljanje uslugom u oblaku, pružanje financijskih i pravnih usluga itd.
 
-Bez članstva, bilo koji Deed može sudjelovati u stvaranju novog konektora i za to biti nagrađen – prvo putem udruge Meeds koja kupuje konektor, a zatim kovanjem kroz ovaj konektor.
+Bez članstva, bilo koja organizacija može sudjelovati u stvaranju novog konektora i za to biti nagrađena – prvo putem udruge Meeds koja kupuje konektor, a zatim kovanjem preko ovog konektora.
 
-Udruga vodi zajednicu Graditelja koja pozdravlja WoM entuzijaste koji žele pridonijeti stvaranju WoM-a. Udruga će sponzorirati zajednicu iz svog proračuna, kompenzirajući angažman članova zajednice.
+The association operates a it's own community hub named the Builders's Hub that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
 
-Tako će zajednica funkcionirati kao primjer Deed, nudeći standardni skup usluga koje pruža udruga. Udruga ulaže Meeds kako bi otkupila Deed za zajednicu. Zajednica će tada također sudjelovati u kovanju zaruka kao iu svakom drugom Deed.
+Thus, the builders' hub will function as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. Udruga ulaže Meeds kako bi otkupila djelo za svoju zajednicu. Thus, the Builder's Hub will also benefit in the engagement minting like any other Hub backed by a Deed.
 
 Nakon završetka razdoblja kovanja, udrugu će održavati:
 
@@ -45,7 +45,7 @@ Nakon završetka razdoblja kovanja, udrugu će održavati:
 - oporezivanje prihoda od prodaje (2,5% na prodaju Deeds)
 - percipiranje transakcijskih naknada nad korištenjem trgovina pogodnostima
 - djelujući kao pružatelj fonda likvidnosti
-- uočavanje transakcijskih naknada kada Deed distribuira tokene koji nisu Meeds putem WoM usluga.
+- percepcija naknada za transakcije kada čvorište distribuira tokene koji nisu M-A putem Usluga M-A.
 - operirajući Deeds koje je udruga tijekom vremena kovala.
 
 
@@ -59,7 +59,7 @@ Potonje bi doprinijelo dugoročnoj održivosti udruge - kao što je gore spomenu
 
 **Ulog / dugoročna investicija** Kako bi se potaknulo dugoročno ulaganje, uloženi Meeds se nagrađuju. Kad se ulože potrebe, uhoda dobiva nekoliko božićnih žetona. Novo iskovani Meedovi se distribuiraju ulagačima proporcionalno njihovim xMeeds posjedima. U praksi, iskovani Meeds efektivno se dodaju fondovima xMeeds pametnog ugovora i distribuiraju xMeeds nositelju kada povuku ulog.
 
-Ulažući Meeds, ulagači također mogu otkupiti Deeds (a zatim sudjelovati u kovanju kroz angažman), čime se povećava potražnja za tokenima. Svaki uloženi Meeds (xMeeds) svom vlasniku daje određeni broj bodova dnevno. Što je duže stečeno razdoblje, veći je broj bodova dobiven po xMeedsu. Svaki Deed se zatim otkupljuje u zamjenu za određeni broj bodova.
+By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. Svaki uloženi Meeds (xMeeds) svom vlasniku daje određeni broj bodova dnevno. Što je duže stečeno razdoblje, veći je broj bodova dobiven po xMeedsu. Svaki Deed se zatim otkupljuje u zamjenu za određeni broj bodova.
 
 Bodovi se izračunavaju prema donjoj formuli:
 
@@ -100,8 +100,8 @@ Doista, bilo koji rad (bilo digitalni ili ne) može se igrificirati, a svaki ang
 
 Osim novčanika i trgovine u kojoj mogu kupiti pogodnosti za Meeds, planiramo upoznati svakog korisnika s nekoliko proizvoda za krajnje korisnike koji se pokreću protokolima decentraliziranog financiranja, kao što su:
 
-- Mogućnost ulaganja Meeds tokena i dobivanja prinosa (generiranje prihoda)
-- Mogućnost korištenja Meeds tokena kao kolaterala za posuđivanje stabilnih novčića kao što je USDC (iskorištavanjem prvo [Fuse pool](https://app.rari.capital/fuse) zatim registracije Meeds tokena na [AAVE](https://aave.com/).
+- The ability to stake Meeds tokens and get yields (generate revenues)
+- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
 - Digitalna kartica koja se može dodati i koristiti putem Apple Paya, Google Paya ili bilo kojeg bankomata. Potonje se može osigurati kroz partnerstvo s VISA-om i iskoristit će kreditnu liniju u USDC-u, koju osigurava uloženi Meeds. Ovu karticu također mogu koristiti organizacije za financiranje novčanika zaposlenika kako bi upravljale beneficijama zaposlenika kao što su restorani, prijevoz i bilo koje vrste troškova.
 
 Dakle, ne samo da će mnogi novi korisnici otkriti svijet blockchaina, već će otkriti i svijet bez banaka.
