@@ -23,7 +23,7 @@ Obviously, early adopters would get considerable advantages over the late comers
 
 In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the WoM.
+By believing in the project, participating in the liquidity pools, staking MEED tokens, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the WoM.
 
 Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
 
@@ -39,17 +39,17 @@ The diagram below represents an example of the Meeds investment strategy for wor
 
 ## 5.3. The launch
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+The official launch of the WoM was **May 1st, 2022** – the International Workers Day, celebrated in many countries.
 
-At that time, the Meed token already exists. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
+At that time, the MEED token already existed. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
 
 Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
 
 The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
+The Builders community is up and running, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
 
-This paper was published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
+This paper was initially published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
 
 ## 5.4. The builders community
 
