@@ -35,9 +35,9 @@ Les membres de l'association peuvent fournir des services à l'association sur l
 
 Sans être membre, toute organisation peut participer à la création d'un nouveau connecteur et être compensée pour cela – d'abord par acquisition du connecteur par  l'Association, puis par le biais de ce connecteur lui-même.
 
-L'association gère son propre hub communautaire nommé le Hub des Constructeurs qui accueille les enthousiastes de WoM, qui veulent contribuer à sa création. L’association parrainera la communauté sur son budget, en récompensant ainsi l’engagement des membres de sa communauté.
+The association operates its own community hub named the _Meeds Builders Hub_ that welcomes enthusiasts, who want to contribute to the creation of the WoM. The association sponsors the community out of its budget, compensating the engagement of community members.
 
-Ainsi, le hub des constructeurs fonctionnera comme un exemple en direct d'une communauté gérée par le logiciel Meeds, couvrant un ensemble de services fournis en standard par l'association. L’association stake des jetons Meeds afin d'acheter un Deed pour sa communauté. Ainsi, le Hub des constructeurs bénéficiera également de l'engagement comme tout autre Hub soutenu par un Deed.
+Thus, the builders' hub functions as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. L’association stake des jetons Meeds afin d'acheter un Deed pour sa communauté. Thus, the Builder's Hub also benefits in the engagement minting like any other Hub backed by a Deed.
 
 Une fois la période d’émission terminée, l’association sera soutenue par :
 
@@ -59,7 +59,7 @@ Tout membre a également le droit de directement acheter un montant important de
 
 **Epargne / Investissement à long terme** Pour encourager l'investissement à long terme, épargner des Meeds est récompensé. Quand les Meeds sont placés, le déposant reçoit des jetons xMeeds. Les Meeds nouvellement émis sont distribués aux déposants proportionnellement à leurs avoirs xMeeds. En pratique, les Meeds émis sont effectivement ajoutés aux avoirs du contrat intelligent xMeeds et sont distribués aux détenteurs des xMeeds quand ils se désengagent.
 
-En plaçant des Meeds, les investisseurs peuvent aussi racheter des Deeds (et donc participer au minting à travers l'engagement), et par conséquent augmenter la demande du token. Chaque Meeds placé (xMeed) garantit à son propriétaire un nombre de points par jour. Plus la période d'acquisition est longue, plus le nombre de points obtenus par xMeed est élevé. Chaque Deed est ensuite échangé contre un certain nombre de points.
+By staking Meeds, investors can also redeem Deed NFTs (and then participate in minting through engagement), hence increasing the token demand. Chaque Meeds placé (xMeed) garantit à son propriétaire un nombre de points par jour. Plus la période d'acquisition est longue, plus le nombre de points obtenus par xMeed est élevé. Chaque Deed est ensuite échangé contre un certain nombre de points.
 
 Les points sont calculés en utilisant la formule ci-dessous :
 
@@ -100,8 +100,8 @@ En effet, tout travail (qu'il soit numérique ou pas) peut être gamifié et tou
 
 Au-delà du portefeuille et d'une boutique où ils peuvent acheter des avantages contre des Meeds, nous prévoyons de présenter à chaque utilisateur plusieurs produits alimentés par les protocoles de financement décentralisé, tels que :
 
-- La possibilité de placer des tokens Meeds et d'obtenir des rendements (générer des revenus)
-- La possibilité d'utiliser des meeds comme garantie pour emprunter des devises stables telles que l'USDC (en exploitant d'abord un pool [Fuse](https://app.rari.capital/fuse) puis en enregistrant le jeton MEED auprès d'[AAVE](https://aave.com/).
+- The ability to stake MEED tokens and get yields (generate revenues)
+- The ability to use MEED tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
 - Une carte de paiement digitale qui peut être ajoutée et utilisée à travers Apple Pay, Google Pay ou tout autre Distributeur automatique. Cette dernière peut être fournie par le biais d'un partenariat avec VISA et tirera partie d'une ligne de crédit en USDC, garantie par des Meeds mis en gage. Cette carte pourrait également être utilisée par les organisations pour financer les portefeuilles des employés afin de gérer les avantages sociaux tels que les restaurants, le transport et tout type de dépenses.
 
 Donc non seulement les nouveaux utilisateurs découvriront le monde de la blockchain, mais ils vont aussi découvrir un monde sans intermédiaire bancaire.

@@ -22,7 +22,7 @@ Il est évident que les premiers utilisateurs obtiendront des avantages considé
 
 En particulier, le WoM récompense l'investissement dans la durée - par l'accès à la propriété (Deeds). Le propriétaire originel d'un Deed est récompensé par les jetons générés par l'engagement (utilisation active), par le biais d'un revenu passif (loyer) et obtient 1 % à vie sur toutes les transactions de vente du Deed (à chaque changement de propriétaire, le propriétaire initial reçoit une commission sur la transaction).
 
-En croyant au projet, en participant aux pools de liquidités, en plaçant des Meeds, en acquérant des Deeds, les premiers investisseurs de toute taille génèreront des jetons supplémentaires. Ils seront également les premiers à obtenir des droits de vote pour aider à façonner le WoM.
+By believing in the project, participating in the liquidity pools, staking MEED tokens, redeeming them against Deeds...early investors of all sizes would mint additional tokens. Ils seront également les premiers à obtenir des droits de vote pour aider à façonner le WoM.
 
 Les organisations qui acquerront des Deeds mais surtout qui les utiliseront pour engager et récompenser leurs employés, seront rémunérées en Meeds. Plus elles joueront équitablement, plus elles en gagneront. Les utilisateurs de la première heure seront associés aux premières villes historiques et sertont identifiés comme des bâtisseurs plus tard.
 
@@ -38,17 +38,17 @@ Le diagramme ci-dessous représente un exemple de la stratégie d'investissement
 
 ## 5.3. Le lancement
 
-La date de lancement officielle a été fixée symboliquement au </strong>1er mai 2022</0> – la Journée internationale des travailleurs, célébrée dans de nombreux pays.
+The official launch of the WoM was **May 1st, 2022** – the International Workers Day, celebrated in many countries.
 
-Le jeton Meed existe d'ores et déjà. Il est possible de l’acquérir sur les réseaux Polygon et Ethereum dans lesquels des pools de liquidité sont mis à disposition.
+At that time, the MEED token already existed. Il est possible de l’acquérir sur les réseaux Polygon et Ethereum dans lesquels des pools de liquidité sont mis à disposition.
 
 Trois organisations fondatrices de l'association Meeds utilisent le système en interne pour engager et récompenser leurs utilisateurs et améliorer le logiciel Meeds.
 
 L'application Investors est disponible sur le réseau Ethereum Mainnet. Au lancement, elle comprend le placement, les récompenses pour apport de liquidités, l’accumulation de points et l'acquisition de Deeds.
 
-La communauté des bâtisseurs fonctionne grâce au logiciel Meeds, ouvert à tous ceux qui voudraient la rejoindre, l'essayer et s'y impliquer. Il est possible de se connecter avec Metamask.
+The Builders community is up and running, open to anyone who would want to join, test and participate. Il est possible de se connecter avec Metamask.
 
-Ce document a été publié le jour du lancement. Suite au lancement, le jeton sera offert à nombreuses personnes dans la communauté des cryptomonnaies.
+This paper was initially published on the launch day. Suite au lancement, le jeton sera offert à nombreuses personnes dans la communauté des cryptomonnaies.
 
 ## 5.4. La communauté des bâtisseurs
 
