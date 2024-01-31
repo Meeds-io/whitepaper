@@ -1,14 +1,14 @@
-# 5. Die Work Metaverse für alle - Vision Zusammenfassung und Meilensteine
+# 5. WoM für ALLE - Vision Zusammenfassung und Meilensteine
 
-## 5.1. Ultimatives Ziel - dezentrales Web für jedermann
+## 5.1. Ultimatives Ziel - dezentralisiertes Web für alle
 
-Am Ende ist das WoM eine dezentralisierte Webwelt für jeden - jede Person und jede Organisation.
+Am Ende ist die WoM eine dezentralisierte Web-Welt für jeden – für jeden Menschen und alle Organisationen.
 
 Es wird von Benutzern bevölkert, die durch ihre digitalen Identitäten **Xeeds** agieren und die Welt über ihre Metamasken für Krypto-Profis oder Login / Passwort für Anfänger zugänglich machen. Die Menschen werden ihr Engagement zuteilen und auf faire, transparente und dezentralisierte Weise belohnt werden. Sie würden auf einfache und vertraute Weise Zugang zur dezentralisierten Welt und zur Kryptowelt von morgen erhalten - sie würden einfache Werkzeuge erhalten, um ihre Token in ihrem Leben zu benutzen oder sie für ihre Zukunft zu investieren.
 
-Organisationen - **Deeds** könnten durch Durchsuchen des WoM Talente für die richtigen bewiesenen Fähigkeiten finden. Sie würden für ihre Teilnahme an der Metaverse belohnt, indem sie durch ihr Engagement (Mintiummodell) Tokens prägen. Aber vor allem würden sie von einem höheren Engagement und Loyalität ihrer Benutzer profitieren.
+Organisationen wären in der Lage, Talente zu beschaffen, indem sie durch die WoM blättern, nach den richtigen bewährten Fähigkeiten. Sie würden für ihre Teilnahme an der WoM belohnt, indem sie durch ihr Engagement (Mintiummodell) Tokens prägen. Aber vor allem würden sie von einem höheren Engagement und Loyalität ihrer Benutzer profitieren.
 
-Das WoM hätte seine eigene Währung **Meeds** - die zum Einkaufen, Umrechnen in eine andere Währung, Investieren für eine Rendite, Mieten oder Kaufen usw. verfügbar sein würde. Die WoM würde auch die Verteilung anderer Tokens erleichtern und sich am gesamten Krypto-Ökosystem beteiligen.
+Die WoM würde ihre eigene Währung **MEED** haben – das wäre da, um in Geschäften auszugeben, umtauschen in eine andere Währung, investieren Sie für eine Rendite auf Investition, Miete oder Kauf usw. Die WoM würde auch die Verteilung anderer Tokens erleichtern und sich am gesamten Krypto-Ökosystem beteiligen.
 
 Da ein Bild tausend Wörter hat, hier ist ein Diagramm, das die WoM und Meeds Fluss beschreibt
 
@@ -22,7 +22,7 @@ Offensichtlich erhalten frühe Adopter erhebliche Vorteile gegenüber den späte
 
 Insbesondere belohnen die WoM langfristige Investitionen in das Verse - das bedeutet die Einlösung des Eigentums (Urkunden). Der ursprüngliche Besitzer der Urkunde wird durch Engagement-Prägung (aktiven Einsatz) sowie durch passive Einkünfte (Vermietung) entschädigt und erhält ein lebenslanges 1% bei jeder Verkaufstransaktion der Urkunde (bei jedem Besitzwechsel erhält der ursprüngliche Einlöser eine Gebühr auf der Transaktion).
 
-Indem sie an das Projekt glauben, an den Liquiditätspools teilnehmen, Meeds staken und gegen Urkunden einlösen, werden frühe Anleger jeder Größe zusätzliche Tokens prägen. Sie erhalten auch die frühesten Stimmrechte und können das Metaverse mitgestalten.
+Indem sie an das Projekt glauben, an den Liquiditätspools teilnehmen, Meeds staken und gegen Urkunden einlösen, werden frühe Anleger jeder Größe zusätzliche Tokens prägen. Sie erhalten auch die frühesten Stimmrechte und können das WoM mitgestalten.
 
 Organisationen, die Urkunden erwerben und insbesondere nutzen, um ihre Mitarbeiter zu engagieren und zu belohnen, werden in geprägten Meeds entschädigt. Je gerechter sie spielen, desto mehr werden sie erhalten. Frühe Adopter werden mit den ersten historischen Städten in Verbindung gebracht und später als Bauherren identifiziert.
 
@@ -52,7 +52,7 @@ Dieses Papier wurde am Tag der Einführung veröffentlicht. Nach dem Start wird 
 
 ## 5.4. Die Gemeinschaft der Bauarbeiter
 
-Wir starten die Builders-Community auf der Meeds Software und auf Discord. Die Community begrüßt jeden, der an dem Bau des Work Metaverse teilnehmen möchte. Der Verband würde das Engagement des Builders mit Meeds aus seinem Marketingbudget belohnen.
+Wir starten die Builders-Community auf der Meeds Software und auf Discord. Die Community begrüßt jeden, der an dem Bau des WoM teilnehmen möchte. Der Verband würde das Engagement des Builders mit Meeds aus seinem Marketingbudget belohnen.
 
 Der Verband plant auch, einige Meeds zu setzen, um ein Grundbuch für die Bauergemeinschaft zu erwerben (einzulösen). Die Gemeinschaft wird dann Meeds durch Engagement über das Mintium-Modell prägen und sie an engagierte Benutzer verteilen.
 
@@ -66,9 +66,9 @@ Unsere Roadmap würde der folgenden Prioritätsreihenfolge folgen:
 - Verbesserung von Abzeichen und Entwicklung von Zeugnissen
 - DeFi-Dienste - im Wallet, Partnerschaft mit Kreditkarten
 
-Wir zählen auf die frühen Adopter von den DAOs und technikaffinen Unternehmen während der Bauphase. Wir sollten auch einige frühe Adopter aus traditionellen Unternehmen haben, die sofortigen Wert aus dem Metaverse erzielen, indem sie ihren Mitarbeitern relevante Engagement-Programme auf ihren aktuellen traditionellen Vergütungsplänen bieten.
+Wir zählen auf die frühen Adopter von den DAOs und technikaffinen Unternehmen während der Bauphase. Wir sollten auch einige frühe Anwender aus traditionellen Unternehmen haben, die sofortigen Nutzen aus dem WoM ziehen, indem sie ihren Mitarbeitern relevante Engagement-Programme zusätzlich zu ihren aktuellen traditionellen Vergütungsplänen anbieten.
 
-Die Prägung von Meeds erstreckt sich über einen Zeitraum von 20 Jahren. Zu diesem Zeitpunkt streben wir an, einen reifen Metaverse gebaut zu haben, der sich auf viele Organisationen und viele Benutzer weltweit ausgebreitet hat.
+Die Prägung von Meeds erstreckt sich über einen Zeitraum von 20 Jahren. Zu diesem Zeitpunkt streben wir danach, ein ausgereiftes Ökosystem aufgebaut zu haben, das sich auf viele Organisationen und viele Benutzer weltweit ausgedehnt hat.
 
 ## 5.6. Was Sie jetzt tun können
 
@@ -83,4 +83,4 @@ Was können Sie jetzt tun, um sich zu beteiligen?
 - Treten Sie unserer [Discord](https://discord.com/invite/hAuADSq3)-Community bei, um auf dem Laufenden zu bleiben
 - Treten Sie unserer [Builders](https://meeds.io/builders)-Community bei, um die Meeds Software zu testen, sich zu engagieren und einige Meeds Prämien zu verdienen
 
-**\*\*\* The Work Metaverse - Lasst uns diese verrückte Welt der Zukunft gemeinsam aufbauen. \*\*\***
+**\*\*\* The WoM - Lasst uns diese verrückte Welt der Zukunft gemeinsam aufbauen. \*\*\***

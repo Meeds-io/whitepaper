@@ -1,14 +1,14 @@
-# 3. Meeds token - Die Währung des Arbeitsmetavers
+# 3. Meeds Token - die Währung des WoM
 
-Das Arbeitsmetavers wird durch seine Währung angetrieben - den Meeds (MEED)-Token. Meeds werden verwendet, um engagierte Anwender zu belohnen (dank spezieller Programme). Diese können für Einkäufe in Geschäften, Immobilien (Deeds), finanzielle Renditen bei Investitionen, usw. genutzt werden.
+Der WoM wird von seiner Währung angetrieben – dem Meeds (MEED)-Token. Meeds werden verwendet, um engagierte Anwender zu belohnen (dank spezieller Programme). Diese können für Einkäufe in Geschäften, Immobilien (Deeds), finanzielle Renditen bei Investitionen, usw. genutzt werden.
 
 ## 3.1. Token-System / Token-Ökonomie
 
 Das maximale Angebot von Meeds ist auf 100 Millionen Token begrenzt, die nach und nach geprägt werden. Meeds are minted at the rate of 10 MEED pro Minute. Daher beträgt der gesamte Prägeprozess fast 20 Jahre (da pro Jahr etwa $10*60*24*365 = 5 Mio. $ Meeds Münzen pro Jahr geprägt werden).
 
-5 millionen Meeds (5 % des Gesamtangebots) wurden bisher produziert. Davon wurden 4,5 Mio. mittels einer Vesting Klausel mittels linearen Vestings über 4 Jahre gebunden. Die hergestellten Meeds wurden hauptsächlich für den Erwerb von Software-IP (geistiges Eigentum an Software) genutzt, sowie für die Bezahlung der Rechtskosten von Token Emission und für Hosting-Dienste verwendet.
+5 Millionen Meeds (5% des Gesamtangebots) wurden zunächst prämiert. Davon wurden 4,5 Mio. mittels einer Vesting Klausel mittels linearen Vestings über 4 Jahre gebunden. Der vorprägnierte Betrag wurde hauptsächlich für den Erwerb von Software IP, die Bezahlung der gesetzlichen Gebühren für Token Emission und Host-Dienste verwendet.
 
-Der Rest ist Teil des Meeds DAO-Fonds (Dezentrale Autonome Organisation) und wird zur Bezahlung von Dienstleistungen sowie für einige Startanreize wie Airdrops und Empfehlungskampagnen verwendet.
+Der Rest ist Teil des __Meeds DAO Geldes__ und wird verwendet, um Dienste zu bezahlen und Anreize zu starten, wie Luftdrops und Empfehlungskampagnen.
 
 
 ## 3.2. Münzverteilung
@@ -35,9 +35,9 @@ Die Vereinsmitglieder können dem Verein auf der Grundlage einer unterschriebene
 
 Ohne Mitglied zu sein, kann jeder Deed an der Erstellung eines neuen Konnektors teilnehmen und dafür belohnt werden - zunächst durch den Erwerb des Konnektors durch die Meeds Vereinigung und dann durch Prägung durch diesen Konnektor.
 
-Die Vereinigung betreibt eine Builders-Community, die WoM Begeisterte willkommen heißt, die zur Schaffung von WoM beitragen möchten. Die Vereinigung wird die Community aus ihrem Budget unterstützen und das Engagement der Community-Mitglieder entschädigen.
+Der Verein betreibt einen eigenen Community-Hub namens Builders' Hub, der WoM-Enthusiasten willkommen heißt, die zur Schaffung des WoM beitragen möchten. Die Vereinigung wird die Community aus ihrem Budget unterstützen und das Engagement der Community-Mitglieder entschädigen.
 
-Auf diese Weise wird die Community als Beispiel für einen Deed funktionieren und eine Standardgruppe von Dienstleistungen anbieten, die von der Vereinigung bereitgestellt werden. Die Vereinigung setzt Meeds ein, um ein Deed für die Gemeinschaft einzulösen. Die Gemeinschaft wird dann auch an der Engagement-Prägung wie jedes andere Deed teilnehmen.
+. Die Vereinigung setzt Meeds ein, um ein Deed für die Gemeinschaft einzulösen. Daher wird die Hub des Baumeisters auch bei der Prägung des Engagements profitieren, wie jede andere Hub mit Unterstützung einer Tat.
 
 Nach dem Ende der Prägezeit wird der Verein durch :
 
@@ -45,7 +45,7 @@ Nach dem Ende der Prägezeit wird der Verein durch :
 - Besteuerung des Verkaufseinkommens (2,5% auf den Verkauf von Urkunden)
 - Transaktionsgebühren über die Nutzung der Perks-Stores wahrnehmen
 - als Anbieter eines Liquiditätspools
-- Erhebung von Transaktionsgebühren, wenn ein Deed nicht Meeds Urkunden über WoM Dienste verteilt.
+- erhebung von Transaktionsgebühren, wenn ein Deed nicht Meeds Urkunden über WoM Dienste verteilt.
 - durch den Betrieb der Taten, die der Vereinigung im Laufe der Zeit geprägt hat.
 
 
@@ -94,7 +94,7 @@ Die Inhaber von Meeds-Token müssen Token einsetzen, um über Entscheidungen der
 
 ## 3.7. Dezentrale Finanzdienstleistungen (DeFi) für Nutzer
 
-Die Work Metaverse wird die Blockchain-Welt vielen Menschen näherbringen, die sie heute nicht nutzen.
+Die WoM wird die Blockchain-Welt vielen Menschen näherbringen, die sie heute nicht nutzen.
 
 In der Tat kann jede Arbeit (ob digital oder nicht) gamifiziert und jedes Engagement - mit Meeds belohnt werden. Meeds werden Nutzern durch eine einfach zu verwendende, blockchain basierte Wallet zur Verfügung gestellt, die jegliche Komplexität der Krypto-Welt für den durchschnittlichen Benutzer "abstrahiert".
 

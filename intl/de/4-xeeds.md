@@ -1,4 +1,4 @@
-# 4. Xeeds - Work Metaverse Individuen / Benutzer
+# 4. Xeeds - WoM Individuen / Benutzer
 
 ## 4.1. Dezentralisierte und selbstbestimmte Modelle
 
@@ -14,33 +14,33 @@ Abzeichen und Anmeldedaten werden den Benutzern als Teil ihrer Teilnahme an eine
 
 In der heutigen Welt ist es schwer, eine Fähigkeit im Voraus zu beweisen. Wenn sich Menschen in Netzwerken bewerben, zählen sie darauf, dass ihre Vorgesetzten ihnen eine Empfehlung geben. Letzteres setzt einen gewissen guten Willen des Managers voraus, wird aber nicht notwendigerweise vom zukünftigen Arbeitgeber als Beweis behandelt.
 
-Die Work Metaverse bietet eine transparenter und unveränderliche Möglichkeit für Menschen, ihre Fähigkeiten zu erwerben und zu demonstrieren.
+Die WoM bietet eine transparenter und unveränderliche Möglichkeit für Menschen, ihre Fähigkeiten zu erwerben und zu demonstrieren.
 
-Abzeichen werden verwendet, um Errungenschaften innerhalb einer Urkunde darzustellen. Nach Abschluss einer Reihe von Zielen oder Herausforderungen werden den Benutzern Punkte verliehen. Abzeichen können durch das Sammeln bestimmter Punkte in bestimmten Kategorien freigeschaltet werden.
+Abzeichen werden verwendet, um Errungenschaften innerhalb einer Gemeinschaft zu repräsentieren. Nach Abschluss einer Reihe von Zielen oder Herausforderungen werden den Benutzern Punkte verliehen. Abzeichen können durch das Sammeln bestimmter Punkte in bestimmten Kategorien freigeschaltet werden.
 
-Wenn die Urkunden vom Benutzer heruntergeladen werden, ist es möglich, die Anzahl der Punkte und seinen Rang in dem Deed für diese spezielle Leistung einzuschließen.
+Wenn Abzeichen vom Benutzer heruntergeladen werden, Es ist möglich, die Anzahl der Punkte und seinen Rang in der Hub für diese spezielle Errungenschaft einzubeziehen.
 
-Zertifikate sind flexibler als Urkunden; es kann sich um eine Empfehlung von einem Kollegen handeln, die die Jahre der Erfahrung anzeigen, einen Abschluss einer Ausbildung oder einer Prüfung oder die Mitarbeit in einem Deed. Diese werden von der Urkunde unterschrieben und können von einem Peer-User unterschrieben werden.
+Anmeldedaten sind flexibler als Badges; Sie könnten eine Empfehlung eines Peers sein, der jahrelange Expertise, eine Ausbildung oder Prüfung oder Engagement im Weltraum angibt. Diese werden vom Hub unterschrieben und können von einem Peer-User unterschrieben werden.
 
 ## 4.3. Digitale Arbeitsidentität
 
 All das trägt dazu bei, ein bewiesenes digitales Fähigkeiten-Set zu bilden, das der Benutzer beim Wechsel von Jobs oder als Freelancer verwenden kann. Es wäre vertrauenswürdiger als traditionelle Lösungen, da es sich nicht nur auf eine einzelne Person, sondern auf eine gesamte Gemeinschaft stützt, um es zu beweisen.
 
-Genau wie seine Meeds Brieftasche behält der Benutzer seine Xeed, Abzeichen, und die ihm in seiner Identitätsbörse beigefügten Referenzen, wenn sie von einer Deed zur anderen, von einer Stadt zur anderen, überall durch die WoM.
+Genau wie seine Meeds Brieftasche behält der Benutzer seine Xeed, Abzeichen, und ihm in seiner Identitätsbörse beigefügt, wenn er von einem Hub zur anderen wechselt, von einer Stadt zur anderen, überall durch die WoM.
 
-Der Benutzer kann seine Xeed, Abzeichen und Zertifikate mit anderen Deeds teilen, um seine Erfahrung hervorzuheben, sowie mit Recruitern oder anderen Diensten, die er interessant findet.
+Der Benutzer wird in der Lage sein, seine Xeed, Abzeichen und Zugangsdaten gegenüber anderen Hubs auszudrücken, um seine Erfahrung hervorzuheben sowie mit Rekruten oder anderen Diensten, die er für interessant erachtet.
 
 Ein Benutzer kann in WoM eine oder mehrere digitale Identitäten besitzen. Er kann sie später auf eine vereinheitlichte Weise mithilfe von verifizierten Präsentationen präsentieren.
 
-Im Gegensatz zum Web 2 liegt der Nutzer im vollen Besitz seiner dezentralen Identitäten. Letztere können die Taten, an denen er teilgenommen hat, zeigen (und beweisen), seine bewiesenen Fähigkeiten, seine angeblichen Fähigkeiten, andere Xeeds (Menschen), mit denen er arbeitete, seine digitale Darstellung von sich selbst... Auf eine vertrauenswürdige Art und Weise, ähnlich wie LinkedIn 3.0.
+Im Gegensatz zum Web 2 liegt der Nutzer im vollen Besitz seiner dezentralen Identitäten. Letztere können die Gemeinden, an denen er teilgenommen hat, zeigen (und beweisen) und seine bewiesenen Fähigkeiten zeigen seine Fähigkeiten, andere Xeeds (Menschen), mit denen er arbeitete, seine digitale Repräsentation von sich selbst... Auf eine vertrauenswürdige Art und Weise, ähnlich wie LinkedIn 3.0.
 
-Der Benutzer kann auswählen, ob er etwas preisgeben möchte, welche Informationen bereitstellen und welche Identitäten er für jede Position verwenden möchte. Der Inhalt (bewiesene Fähigkeiten, frühere Urkunden usw.) ist manipulationssicher und kann daher nicht verändert werden. Jede Identität müsste im Laufe der Zeit entwickelt werden.
+Der Benutzer kann auswählen, ob er etwas preisgeben möchte, welche Informationen bereitstellen und welche Identitäten er für jede Position verwenden möchte. Der Inhalt (bewährte Fähigkeiten, frühere Hubs usw.) ist tamper und konnte daher nicht verändert werden. Jede Identität müsste im Laufe der Zeit entwickelt werden.
 
 ## 4.4. Fairer Arbeitsmarkt
 
-Innerhalb dieses Paradigmas ermöglicht der zukünftige Arbeitsmarkt den Anwendern, sich frei zu bewegen und ihr Engagement unter den Trägern zu verteilen oder zu verkaufen – wie sie es in der physischen Welt tun, indem sie Arbeitgeber wechseln. Allerdings wäre ihre Beteiligung in der WoM greifbar, gemessen und auf faire Weise belohnt. Indem sie zwischen Systemen wechseln, die einer ähnlichen Logik folgen, werden sie die Regeln des Spiels besser verstehen und Arbeitgeber fair beurteilen - das Gras ist nicht immer grüner woanders. Die Benutzer werden wählen können, welche Deed bessere Bedingungen für die Verlobung bietet, gehört zu einer attraktiveren Stadt usw.
+Innerhalb dieses Paradigmas ermöglicht der zukünftige Arbeitsmarkt den Anwendern, sich frei zu bewegen und ihr Engagement unter den Hubs zu verteilen oder zu verkaufen – wie sie es in der physischen Welt tun, indem sie Arbeitgeber wechseln. Allerdings wäre ihre Beteiligung in der WoM greifbar, gemessen und auf faire Weise belohnt. Indem sie zwischen Systemen wechseln, die einer ähnlichen Logik folgen, werden sie die Regeln des Spiels besser verstehen und Arbeitgeber fair beurteilen - das Gras ist nicht immer grüner woanders. Die Benutzer werden sehen können, welche Hub bessere Bedingungen für die Verlobung bietet, gehört zu einer attraktiveren Stadt, etc.
 
-Am Ende können die Inhaber und Vermieter der Deeds über das WoM-Netzwerk digitaler Arbeitsidentitäten nach relevanten Fähigkeiten suchen (welches die Nutzer offenlegen wollten). Sie werden in der Lage sein, ihre Fähigkeiten effektiver zu nutzen, basierend auf verifizierten und detaillierten Informationen über die Arbeitsgeschichte, die Arbeitsfähigkeit und das Engagement des Nutzers.
+Zu ihrem Ende können die Leiter der Community mit Hilfe des WoM-Netzwerks digitaler Arbeitsidentitäten nach relevanten Fähigkeiten suchen (die die Nutzer offenlegen wollten). Sie werden in der Lage sein, ihre Fähigkeiten effektiver zu nutzen, basierend auf verifizierten und detaillierten Informationen über die Arbeitsgeschichte, die Arbeitsfähigkeit und das Engagement des Nutzers.
 
 ## 4.5. Greifbare und transparente Anerkennung
 
@@ -48,13 +48,13 @@ Heute sind Details zu Vergütungen und Boni an vielen Arbeitsplätzen unklar. Da
 
 Die WoM stellt einen objektiven Weg vor, Leistungen anzuerkennen und zu belohnen.
 
-Das Mechanismus der Anerkennung und Belohnung von Engagement ist transparent und gilt für alle Benutzer fair, nach den gleichen expliziten Regeln, im Voraus beschlossen und ausgerichtet an den Zielen des Deeds.
+Der Mechanismus zur Anerkennung von Engagements und Belohnung ist transparent und gilt fair für alle Nutzer den gleichen expliziten Regeln zu folgen, die im Voraus beschlossen und an die Ziele der Gemeinschaft angepasst wurden.
 
 Die Wallets sind individuell und blockchain-basiert - wenn ein Benutzer eine Belohnung erhält oder eine Auszeichnung erhält, kann diese nicht zurückgenommen oder gelöscht werden.
 
 ## 4.6. Zugriff auf Web 3.0, KryptoEconomy und DEFI-Dienste
 
-Wie oben besprochen, eröffnet die Work Metaverse die Welt der Kryptowährung und dezentraler Webdienste praktisch jedem - einer sehr großen Anzahl von Benutzern, die möglicherweise sogar nicht mit dem digitalen Bereich in Verbindung stehen.
+Wie oben besprochen, eröffnet die WoM die Welt der Kryptowährung und dezentraler Webdienste praktisch jedem - einer sehr großen Anzahl von Benutzern, die möglicherweise sogar nicht mit dem digitalen Bereich in Verbindung stehen.
 
 Tatsächlich kann jedes Engagements potenziell tokenisiert werden. Tatsächlich wird die Welt immer digitaler mit Trends wie 5G, IoT, Wearables und so weiter. Als Folge könnten potenziell immer mehr Signale erfasst und analysiert werden, um die Beteiligung von nicht-digitalen Berufen zu tokenisieren. Herausforderungen bieten einen sofort einsatzbereiten Weg, um es zu tokenisieren, indem Leistungen im realen Leben dargestellt werden.
 
