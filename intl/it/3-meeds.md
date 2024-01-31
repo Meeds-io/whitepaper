@@ -15,7 +15,7 @@ Il resto fa parte dei fondi < 0>Meeds DAO < / 0 > e verrà utilizzato per pagare
 
 I coniati Meeds sono assegnati per incoraggiare il coinvolgimento delle tre categorie di parti interessate - gli utenti, i costruttori e gli investitori:
 
-- Gli utenti (utenti e titolari/noleggiatori di Deeds) ottengono Meeds attraverso ricompense per l'impegno (modello mintium).
+- Gli utenti (utenti e titolari di atti/affittuari) ottengono Meeds attraverso premi di fidanzamento (modello mintium).
 - I costruttori (membri dell'associazione e della comunità) ottengono Meeds attraverso i fondi dell'associazione per costruire, gestire e migliorare il WoM.
 - Gli investitori coniano Meeds attraverso l'affitto e l'acquisto di pool di liquidità e di punture Meeds.
 
@@ -23,7 +23,7 @@ All'inizio, i costruttori ottengono il 30% dell'assegnazione. Il 70% è ripartit
 
 ## 3.3. Utenti - coniando attraverso l'impegno
 
-Una parte dei Meeds coniati in modo continuativo viene assegnata al canale di coniazione del fidanzamento. La distribuzione avviene settimanalmente. A ogni fine settimana, viene calcolato l'indice d'impegno viene calcolato e gli atti possono richiedere le loro ricompense la settimana successiva e ottenere i loro Meeds. I semi non reclamati rimangono nel fondo e vengono aggiunti alla distribuzione della settimana successiva. Il modello è descritto in dettaglio nel capitolo precedente (parte 2.6).
+Una parte dei Meeds coniati in modo continuativo viene assegnata al canale di coniazione del fidanzamento. La distribuzione avviene settimanalmente. In ogni fine settimana, l'indice di coinvolgimento viene calcolato in modo che i leader degli Centro e i proprietari dell'Atto possano richiedere i loro premi la settimana successiva e ottenere i loro Meed. I semi non reclamati rimangono nel fondo e vengono aggiunti alla distribuzione della settimana successiva. Il modello è descritto in dettaglio nel capitolo precedente (parte 2.6).
 
 ## 3.4. Costruttori - Associazione Meeds DAO e comunità di costruttori
 
@@ -33,11 +33,11 @@ Durante il periodo di coniazione, **il 30% dei Meeds coniati viene assegnato all
 
 I membri dell'associazione possono fornire servizi all'associazione sulla base di una convenzione di servizi firmata che stabilisce il tasso giornaliero dell'uomo. I servizi vengono pagati mensilmente in Meeds, in base al prezzo di mercato. Esempi di servizi sono: l'arricchimento del software Meeds, lo sviluppo dell'app WoM, lo sviluppo di nuovi connettori, la gestione del servizio cloud, la fornitura di servizi finanziari e legali, ecc.
 
-Senza essere un membro, qualsiasi atto può partecipare alla creazione di un nuovo connettore ed essere ricompensato per averlo fatto - prima attraverso l'associazione Meeds che acquisisce il connettore e poi coniando attraverso questo connettore.
+Senza essere membro, qualsiasi organizzazione può partecipare alla creazione di un nuovo connettore ed essere ricompensata per averlo fatto – prima attraverso l’acquisizione del connettore da parte dell’associazione Meeds e poi coniando attraverso questo connettore.
 
-L'associazione gestisce una comunità di costruttori che accoglie gli appassionati di WoM che vogliono contribuire alla creazione di WoM. L'associazione sponsorizzerà la comunità dal suo bilancio, compensando l'impegno dei membri della comunità.
+The association operates a it's own community hub named the Builders's Hub that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
 
-In questo modo, la comunità funzionerà come un esempio di atto costitutivo, offrendo una serie di servizi standard forniti dall'associazione. L'associazione mette in gioco i Meeds per riscattare un atto per la comunità. La comunità parteciperà quindi anche al conio dell'impegno come qualsiasi altro Atto.
+Thus, the builders' hub will function as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. L'associazione punta su Meeds per riscattare un'Opera per la sua comunità. Thus, the Builder's Hub will also benefit in the engagement minting like any other Hub backed by a Deed.
 
 Al termine del periodo di coniazione, l'associazione sarà sostenuta da :
 
@@ -45,7 +45,7 @@ Al termine del periodo di coniazione, l'associazione sarà sostenuta da :
 - tassazione del reddito di vendita (2,5% sulle vendite di Atti)
 - percepire le spese di transazione rispetto all'uso dei negozi di vantaggi
 - agire come fornitore di pool di liquidità
-- percepire le commissioni di transazione quando un Atto distribuisce gettoni non Meeds tramite i servizi WoM.
+- percepire commissioni di transazione quando un Hub distribuisce token non Meeds tramite servizi WoM.
 - operando gli Atti che l'associazione ha coniato nel tempo.
 
 
@@ -59,7 +59,7 @@ Ogni socio ha inoltre il diritto di acquistare direttamente una grande quantità
 
 **Investimento a lungo termine** Per incoraggiare gli investimenti a lungo termine, le puntate di Meeds vengono ricompensate. Quando Meeds vengono puntati, il puntatore riceve alcune pedine xMeeds. Meeds di nuovo conio vengono distribuiti agli staker in proporzione al loro patrimonio di xMeed. In pratica, Meeds coniati vengono effettivamente aggiunti alle disponibilità del contratto intelligente xMeeds e distribuiti ai titolari di xMeeds quando si staccano.
 
-Impostando Meeds, gli investitori possono anche riscattare gli atti(e quindi partecipare al conio attraverso l'impegno), aumentando così la domanda di gettoni. Ogni Meeds impilato (xMeeds) garantisce al suo proprietario un certo numero di punti al giorno. Più lungo è il periodo di maturazione, maggiore è il numero di punti ottenuti per xMeeds. Ogni Atto viene poi riscattato in cambio di un certo numero di punti.
+By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. Ogni Meeds impilato (xMeeds) garantisce al suo proprietario un certo numero di punti al giorno. Più lungo è il periodo di maturazione, maggiore è il numero di punti ottenuti per xMeeds. Ogni Atto viene poi riscattato in cambio di un certo numero di punti.
 
 I punti sono calcolati con la formula seguente:
 
@@ -100,8 +100,8 @@ In effetti, qualsiasi lavoro (digitale o meno) può essere giocato e qualsiasi i
 
 Oltre al portafoglio e un negozio dove possono acquistare privilegi per Meeds, abbiamo intenzione di presentare ogni utente a diversi prodotti per gli utenti finali alimentati dai protocolli della finanza decentralizzata, come:
 
-- La possibilità di puntare i token Meeds e di ottenere rendimenti (generare entrate)
-- La possibilità di utilizzare i gettone Meeds come garanzia per prendere in prestito monete stabili come USDC (sfruttando prima un pool [Fuse](https://app.rari.capital/fuse) e poi registrando il gettone Meeds su [AAVE](https://aave.com/).
+- The ability to stake Meeds tokens and get yields (generate revenues)
+- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
 - Una carta digitale che può essere aggiunta e utilizzata tramite Apple Pay, Google Pay o qualsiasi bancomat. Quest'ultimo può essere fornito attraverso una partnership con VISA e farà leva su una linea di credito in USDC, garantita da Meeds con picchetto. Questa carta potrebbe anche essere utilizzata da organizzazioni per finanziare i portafogli dei dipendenti al fine di gestire i benefici per i dipendenti come ristoranti, trasporti e qualsiasi tipo di spese.
 
 Quindi non solo molti nuovi utenti scopriranno il mondo della blockchain, ma scopriranno anche un mondo senza banche.
