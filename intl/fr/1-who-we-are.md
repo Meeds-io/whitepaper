@@ -1,14 +1,12 @@
 
-# 1. L'association Meeds
+# 1. About Us
 
-L'association Meeds est une organisation à but non lucratif lancée à l'origine par plusieurs communautés de logiciels libres (OSS) autour de la vision commune d'un monde numérique libre – un monde décentralisé qui ne serait pas contrôlé par une poignée de méga-entreprises centralisées.
+Meeds is a collaborative effort led by diverse Open Source Software (OSS) communities, dedicated to creating a decentralized digital world that resists centralized corporate control and fosters a free and open environment.
 
-L'association Meeds est établie juridiquement à Genève en tant qu'association à but non lucratif en vertu du droit Suisse.
+The legal entity behind Meeds is the _Meeds Association_, a non-profit organization incorporated under Swiss law in Geneva. It is responsible for regulating the issuance of the Meeds(MEED) token, an ERC20 token recognized as a utility token.
 
-L'association réglemente l'émission de la monnaie Meeds, un jeton ERC20, reconnu comme jeton d'utilité.
+Functioning as a Decentralized Autonomous Organization (DAO), Meeds emphasizes on democratic governance, where token holders with governance rights participate in key decision making, such as annual board elections, ensuring transparency and community involvement in organizational changes.
 
-Pour construire le WoM et Meeds, l'association tire parti de la plate-forme Ethereum et de son écosystème, en s'efforçant de le rendre accessible de manière conviviale et économique pour tous les utilisateurs.
+The Meeds project utilizes the Ethereum ecosystem to implement the World of Meeds (WoM) and the Meeds token. This approach prioritizes security, accessibility, user-friendliness, and cost-effectiveness, making it appealing to a broad user base.
 
-L'association est structurée comme une organisation autonome décentralisée (DAO) où les détenteurs de jetons de gouvernance votent sur tous les changements importants d'organisation, comme l'élection du conseil d'administration chaque année.
-
-Outre la gestion des jetons Meeds, l'association détient la propriété intellectuelle du logiciel Meeds [https://github.com/meeds-io](https://github.com/meeds-io), disponible sous la licence LGPL et distribué gratuitement. Ce dernier inclut une application de portefeuille Ethereum que les utilisateurs peuvent utiliser pour stocker et traiter leurs Meeds (voir la section 2.4 pour plus de détails). L'Association Meeds gère également un service d'hébergement cloud multitenant qui s'appuie sur ce logiciel.
+Meeds is an Open Source Software ([github.com/meeds-io](https://github.com/meeds-io)) operated in the cloud infrastructure by hosting partners of the Meeds Association.
