@@ -1,17 +1,20 @@
 
-# 2. Deeds NFT - Töö Metaversiooni organisatsioonid
+# 2. Deeds NFT - WoM Organizations
 
-## 2.1. NFT - Teod määratletud
+## 2.1. NFT – Deeds defined
 
-Mittevahetatav märgis (non fungible token, NFT) on unikaalne märgis, mis esindab kaupa. WoMis kasutatakse omandiõigust tõendava dokumendina Deed'i. Iga Deed annab oma omanikule õiguse kasutada mitmeid teenuseid - näiteks juurdepääsu digitaalsele kontorile, mis töötab Meedsi tarkvara abil, ja õiguse vermida Meedsi.
 
-WoM tervitab igasuguseid organisatsioone - DAOsid, traditsioonilisi korporatsioone, ühendusi, mõttekodasid, partnerlusi, teatriühinguid, projektirühmi, koole jne. Tegu esindab nende digitaalset eksistentsi WoMis.
+ NFTs (Non-Fungible Tokens) can be compared to deeds in the real world. Just as deeds signify ownership of a tangible property, NFTs provide proof of ownership for digital assets. This property right is registered and maintained on a blockchain, thus, assuring that the asset is unique and can't be replicated.
+
+ In the World of Meeds (WoM), a Deed is used as a core value of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a community hub, some hidden dynamic tools powered by the Meeds software and Mintium rewards (see 2.6).
+
+ The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital presence in the WoM.
 
 ## 2.2. Deeds tarne
 
 WoM tarnib lõppkokkuvõttes piiratud hulga Deedeid. Iga Deed sisaldab ettemääratud maksimaalset kasutajate arvu ja pakub võimsust Meeds tasu (Minting Power). Mõiste "kasutaja" tähistab siin ja edaspidi mis tahes liiki töötajat, töötajat, vabakutselist, vabatahtlikku jne.
 
-On olemas nelja tüüpi Deedid, millest igaüks pakub erinevaid võimalusi kasutajate arvu, linna hääleõiguse (vt 2.7) või Meedide vermimise võimsuse osas, kusjuures kõige haruldasem on kõige võimsam :
+There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
 
 | **Deed tüüp** | **Maksimaalsed kasutajad** | **Minting power** | **Puudus** | **Linna hääleõigus** |
 | ------------- | -------------------------- | ----------------- | ---------- | -------------------- |
@@ -24,69 +27,69 @@ On olemas nelja tüüpi Deedid, millest igaüks pakub erinevaid võimalusi kasut
 
 Deed annab omanikule õiguse seda kasutada, rentida või müüa.
 
-- KASUTAMINE - Deedi omanikud võivad kasutada Deedit otse oma organisatsiooni jaoks, pakkudes selle kasutajatele teenuseid.
-- ÜÜRIMINE - Deedi omanikud võivad Deedi rentida ka teisele organisatsioonile, et saada passiivset tulu.
-- SELL - Deed'i saab müüa järelturul, näiteks [OpenSea](https://opensea.io).
+- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
+- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
+- SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
 
-Deedi aktiivse omaniku või rentnikuna premeeritakse organisatsiooni Meediga allpool kirjeldatud uuendusliku "mintiumi" mudeli kaudu (osa 2.6).
+Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
 
-## 2.4. Deeds teenused, kaasamise/preemiate mootor
+## 2.4. Deeds services, engagement/rewards engine
 
-Üha tihedama konkurentsiga turul, et meelitada ja hoida talente ning maksimeerida nende panust, peavad organisatsioonid motiveerima oma kasutajaid kaugemale lihtsast tasustamisest. WoM pakub selleks uuenduslikku raamistikku, mis võimaldab tööga tegelemist sümboliseerida.
+In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
 
-Iga Deed'i omanik või rentnik saab pakkuda vahendeid ja teenuseid oma kasutajatele, kes teenivad kaasamispunkte, mida saab peenhäälestada vastavalt Deed'i prioriteetidele. Aeg-ajalt konverteeritakse punktid Meedideks (ja - DAOde puhul - potentsiaalselt veel üheks žetooniks) vastavalt Deed-i seatud eelarvele. Sel viisil premeeritakse kasutajate osalemist organisatsiooni jaoks olulistes tegevustes.
+Each Deed’s holder or renter can set and achieve fine-tuned organizational priorities by creating contribution programs for community members who earn engagement points that are Periodically converted into Meeds token (and - for DAOs - potentially another token), based on a predefined budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
 
-Alustuseks saab kaasamise premeerimiseks kasutada järgmisi tasuta teenuseid, mida pakub ühing Meeds:
+To begin with, the following free services provided by the Meeds association can be used to reward engagement:
 
-- **Gamification engine** - WoM-i automaatsetel tegevustel on punktide kaal, mida saab kohandada Deed-i prioriteetide järgi kohandatavate kaasamisprogrammide abil.
-- **Haasteid** - saavutuste tähistamiseks saab luua kohandatavaid väljakutseid. Väljakutsed on ühe isiku poolt ette määratud ja neid saab teine isik täies mahus täita ja sellisena välja kuulutada. Väljakutsetel on kohandatavate kaasamisprogrammide raames punktide kaal.
-- **Kohandatavad kaasamisprogrammid** - organisatsioonid saavad luua oma kaasamisprogramme, mis vastavad nende ärieesmärkidele ja -prioriteetidele. Programmid on seotud süsteemi automaatsete tegevustega ja käsitsi seatud väljakutsetega. Igal programmil on kindel Meedsi eelarve. Iga kasutaja poolt automaatselt või teatatud tegevuste kaudu igas kaasamisprogrammis teenitud punktid konverteeritakse perioodiliselt meediumideks, mis põhinevad selle programmi eelarves.
-- **Kudos** - kasutajad saavad üksteisele tänu ja tunnustuse märgiks kiidusõnu anda. Kuna jagamiseks saadaval olevad kiidusõnad on piiratud (etteantud perioodiline piirang, näiteks 3 nädalas), on need haruldased ja väärtuslikud. Nagu tegevused, annavad ka tunnustused punkte. Nii antakse töötajatele võimalus oma kolleege premeerida.
-- **Koostöö** vahendid, mis on ühendatud tasustava mootoriga - tööruumid, asünkroonne suhtlus, ülesannete haldamise vahend ja märkmed - võimaldavad inimestel projektide kallal koos töötada.
-- **Pangakott** - kasutajatele pakutakse turvalist Ethereumi tehnoloogia rahakotti oma Meedide hoidmiseks. Edasijõudnud kasutajate jaoks võib kasutada ka Metamask rahakotti.
-- **Pood** - pood, kus Meedsi saab vahetada Deedi omaniku või rentniku või Meedsi ökosüsteemi pakutavate hüvede vastu.
-- **Analüütika** - analüüsida ja jälgida kaasamist Deedis.
-- **Connectors**, mis on ühendatud preemiamootoriga - kasutajad saavad osaluspunkte teises tarkvaras tehtavate tegevuste kaudu - näiteks koodi sisestamise eest GitHubis.
+- **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the organization’s priorities via customizable engagement programs.
+- **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
+- **Customizable engagement programs** - organizations can create their engagement programs to match their business goals and priorities. Programs are associated with automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatic or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
+- **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
+- **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
+- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
+- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
+- **Analytics** – to analyze and follow engagement within the Deed.
+- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
 
-Mõned eespool nimetatud vahendid ja teenused on juba detsentraliseeritud, teised mitte. Some of these tools and services are already decentralised, others are not.
+Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
 
-Uusi teenuseid saab preemiamootorisse liita APIde kaudu. Näiteid on arvukalt ja need võivad hõlmata praktiliselt mis tahes tarkvara või teenust:
+New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
 
-- CRM-tarkvara - müügitöötajad saavad võimalustega töötamise eest osaluspunkte.
-- Raamatupidamistarkvara - raamatupidajad saaksid raamatupidamisarvestuse pidamise eest palgapunkte.
-- Kellaaegade terminal - tehase töötaja võib saada punkte tehase tööaja eest.
-- Jne.
+- CRM software – salespeople would get engagement points for working on opportunities.
+- Accounting software – accountants would get engagement points for keeping books.
+- Clocking terminal – factory worker can get points for factory work time.
+- Etc.
 
-Lisaks sellele osaleb ühendaja kaudu toodetud kaasamine organisatsiooni globaalses kaasamise skooris, mis on Meedsi mündi jaotuse tegur, mida on kirjeldatud allpool kirjeldatud. Selleks peab ühendaja olema Meeds Associationi poolt valges nimekirjas. Ühing vaatab pistiku läbi, kiidab selle algoritmi heaks ja omandab selle omandiõiguse Meedsi vastu. Seejärel muutub see osaks ühingu pakutavatest tasuta teenustest ja lisatakse ülemaailmsesse kaasamisindeksisse. Iga teine Deed võib kasutada sama konnektorit ja sama tasustamisalgoritmi oma arendajate jaoks.
+Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Hub can use the same connector and the same reward algorithm for its developers.
 
-Deed'i omanik või rentnik võib rikastada oma poodi oma soodustustega, liituda online soodustuste pakkumisega jne. Ka siin on võimalused lõputud:
+The organization can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
 
-- Koolituskursused
-- Jõusaali liikmemaksud
-- Puhkusepaketid
-- Lõunasöök organisatsiooni juhiga
-- Füüsilised kontoriruumid
-- Jne.
+- Training courses
+- Gym memberships
+- Vacation packages
+- Lunch with a leader in the organization
+- Physical office space
+- Etc.
 
-Kauplus toimib läbi Meedide kasutamise, nii et Meedid tagastatakse osaliselt Deedile.
+The store functions through the use of Meeds so that Meeds are partially returned to the community.
 
-## 2.5. Preemiad - meediumid ja muud žetoonid
+## 2.5. Rewards – Meeds and other tokens
 
-WoM sümboliseerib kasutajate kaasatust, mänguliselt muutes digitaalsed töövahendid ning omistades punkte ja Meed'eid seoses tööga. Teenused, mis on ühendatud kaasamise ja premeerimise mootoriga, annavad igale kasutajale punkte vastavalt tema kaasamise tasemele ja kooskõlas iga Deed'i kaasamisprogrammiga. Tõepoolest, iga teo puhul saab iga tegevuse eest antavaid punkte peenhäälestada. Seega võib mõne koodi GitHubis avaldamine olla IT-poe jaoks 10 punkti väärt, samas kui digitaalne agentuur võib anda GitHubis avaldamise eest ainult 5 punkti, kuid pakuks 10 punkti retweetide eest.
+The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Hub's engagement programs. Indeed, each community can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
 
-Aeg-ajalt konverteerib premeerimismootor vastavalt eelarvele ja muudele jaotamisreeglitele kaasamispunkte Meedideks ning lõpuks premeerib kasutajaid nende rahakoti kaudu. Deed ei ole kohustatud jagama meediume ja võib kasutada kaasamissüsteemi, et võimaldada mõnda muud liiki hüvitusprogrammi. Meedide levitamine parandab aga selle rahapaigutusmahtu.
+Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Hub is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
 
-Lisaks ei pea Deed tingimata omandama Meedid, et neid levitada ja oma kaasamisprogramme käivitada, sest ta saab Meedid allpool kirjeldatud "mintiumi" mudelist.
+Moreover, the community does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
 
-Lisaks Meedile on võimalik levitada ka muid märke (näiteks DAO enda märke), mis põhinevad samal kaasamismehhanismil. Sellisel juhul kohaldatakse jaotamise suhtes 5% tehingutasu (DAO tokenis) Meeds Association'ile.
+In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
 
 ## 2.6. "Mintiumi" mudel - tööga tegelemise sümboliseerimine
 
-Kasutajate kaasamine WoMi, Deeds saavad kompensatsiooni uuendusliku mintium-mudeli kaudu.
+Dengan melibatkan pengguna mereka dalam WoM, komunitas mendapatkan kompensasi melalui model mintium yang inovatif.
 
-Deeds'i kasutajate poolt kogutud kaasamispunktid osalevad ülemaailmses kaasamisindeksis, mille arvutab Meeds Association. Indeks kasutab sama põhimõtet kõigi Deedide puhul. Kuigi Deed võib muuta punktide jaotust, et soodustada üht tegevust teise ees, ei võeta neid muudatusi üldindeksi arvutamisel arvesse.
+Keskuste kasutajate poolt kogutud kaasamispunktid osalevad ülemaailmses kaasamisindeksis, mille arvutab Meeds Assotsiatsioon. Indeks kasutab sama põhimõtet kõigi sõlmpunktide puhul. Kuigi kogukond võib muuta punktide jaotust, et soodustada ühte meedet teise asemel, ei võeta neid muudatusi arvesse üldindeksi arvutamisel.
 
-Igal nädalal eraldatakse teatav kogus Meedsi vahendeid WoMi ülemaailmseks tegevuseks. See arvutatakse iganädalaselt, proportsionaalselt, osalevate Deedide vahel. Some Deeds get an additional boost depending on their type. Deedid, kes nõuavad oma Meedid nädala jooksul, saavad need kätte. Nõudmata jäänud meediumid lisatakse järgmise nädala üldisele jaotussummale.
+Igal nädalal eraldatakse teatav kogus Meedsi vahendeid WoMi ülemaailmseks tegevuseks. See arvutatakse iganädalaselt proportsionaalselt osalevate keskuste vahel. Mõned sõlmpunktid saavad lisatõuke sõltuvalt kasutatava teo tüübist. Keskused, kes nõuavad nädala jooksul oma Meedid, saavad need kätte. Nõudmata jäänud meediumid lisatakse järgmise nädala üldisele jaotussummale.
 
 Deed'i kaasamise skoor _S_ on funktsioon kaasamisest, kaasatud kasutajate arvust ja jaotusest :
 
@@ -94,19 +97,19 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Kus :
 
-- $A$ = _Aktiivsus_ - kasutajate poolt nädala jooksul Deedis kogutud tegevuste koguarv. (Igal Deedi tasemel konverteeritakse iga tegevus osaluspunktideks, kusjuures mõned tegevused kaaluvad rohkem kui teised. Indeksi tasandil on kõik tegevused lineariseeritud).
+- $A$ = _Tegevus_ – keskuse kasutajate poolt nädala jooksul kogunenud toimingute koguarv. (On a Hub, each action is converted into engagement points, some actions weighting more than others. Indeksi tasandil on kõik tegevused lineariseeritud).
 - $U$ = _Engaged users_ - kasutajad, kes panustasid nädala jooksul vähemalt ühe tegevusega punktide kogumisse.
-- $E_d$ = _Engagement rate of the deed_ - tegevused kasutaja kohta ($A/U$)
-- $E_w$ = _Keskmine kaasamismäär_ kõigi WoMis olevate aktiivsete Deedide kohta.
-- $D_r$ = _Jagamismäär_ - kui Deed sai eelneva perioodi jooksul vermitud Meedid, siis protsent Meedidest, mis jagati selle kasutajatele. Protsent võib olla üle 100, kui jaotamine on ajaliselt hilinenud.
-- $D_s$ = _Distribution spread_ - kui Deed sai eelneva perioodi jooksul vermitud Meedid, siis Meedid saanud kasutajate % kasutajate koguarvust.
+- $E_d$ = _Jaoturi kaasamismäär_ – toimingud kasutaja kohta ($A/U$)
+- $E_w$ = kõigi WoM-i aktiivsete jaoturite _keskmine kaasamismäär_.
+- $D_r$ = _Levitamismäär_ – kui jaotur sai eelmisel perioodil vermitud Meede, siis selle kasutajatele jagatud Meedide %. Protsent võib olla üle 100, kui jaotamine on ajaliselt hilinenud.
+- $D_s$ = _Levitusvahe_ – kui jaotur sai eelmisel perioodil vermitud Meede, siis Meedi saanud kasutajate % kasutajate koguarvust.
 - $M$ = _Minting Power_ Deed, nagu on määratletud punktis 2.3
 
 
-Üldine kaasamisindeks, mida kasutatakse vermitud Meedide jaotamiseks Dzeedide vahel, on kõigi Dzeedide nädala kaasamispunktide summa.
+Üldine kaasamisindeks, mida kasutatakse vermitud Meedide jaotamiseks jaotuskeskuste vahel, on kõigi jaotuskeskuste nädala kaasamispunktide summa.
 
 
-Ülaltoodud valem on lihtne ja mõeldud deedide eelistamiseks:
+Ülaltoodud valem on lihtne ja mõeldud sõlmpunktide eelistamiseks:
 
 - kus on palju pühendunud kasutajaid (engagement)
 - kes jagavad kogu rahapaja tulu (jaotamismäär) õiglaselt oma kasutajatega (jaotamise levik).
@@ -116,9 +119,9 @@ Lisaks on võimendajad olemas :
 - organisatsioonid, mille kaasatus on suurim, sõltumata nende suurusest (kaasatuse määr võrreldes WoMiga)
 - haruldasemad deedid
 
-> Meedsi ühing jätab endale õiguse muuta valemit, kui see on vajalik - näiteks kui tekib mõni konkreetne kasutusjuhtum. Samuti võib ühendus panna musta nimekirja kõik Deedid, kes kasutavad valemit oma ainuomaseks kasuks.
+> Meedsi ühing jätab endale õiguse muuta valemit, kui see on vajalik - näiteks kui tekib mõni konkreetne kasutusjuhtum. Ühing võib ka musta nimekirja panna mis tahes keskuse, mis kaaperdab valemit oma ainuüksi kasuks.
 
-Kuna Deedid saavad tasu Meedide eest ja neil on stiimul jagada neid oma kasutajatele preemiatena edasi nende kaasamise eest - nii Deedide kui ka nende kasutajate huvid on joondatud ühte ja samasse tulude jagamise tsüklisse. Seega pakub WoM uut töömudelit, mis kujundab tööandja ja töötaja suhte ümber partnerluseks.
+Kuna keskusi premeeritakse Meediga ja motiveeritakse neid oma kasutajatele preemiatena ümber jagama nende kaasamise eest - nii kogukondade kui ka nende kasutajate huvid on joondatud ühte ja samasse tulude jagamise tsüklisse. Seega pakub WoM uut töömudelit, mis kujundab tööandja ja töötaja suhte ümber partnerluseks.
 
 "Mintiumi" mudel on esimene omataoline - see läheb traditsioonilisest freemium-mudelist kaugemale, sest mitte ainult teenuste kasutamine ei ole tasuta, vaid nii organisatsioonid kui ka nende kasutajad saavad nende kasutamise eest tasu.
 
@@ -138,9 +141,9 @@ Linn loetakse täielikuks, kui kõik selle Deedid on vermitud. Siis algab iga uu
 | 6: Kushor      | 10 000 000  | Eshmum + 64 kuud   | 6 000 000  | 3 000 000       | 999 998        | 2               |
 | 7: Hammon      | 100 000 000 | Kushor + 128 kuud  | 60 000 000 | 30 000 000      | 9 999 999      | 1               |
 
-Linn on viis, kuidas Deedid saavad kokku ja loovad kogukonna. Ja selle tulemusena omandavad nad teatud identiteedi, mis on seotud selle kogukonnaga. See on ka võimalus pakkuda oma kasutajatele lisaväärtust - väärtust, mis ületaks ühe Deedi võimekuse või Deedide vahelise koostöö kaudu loodud väärtuse.
+Linn on viis, kuidas kogukonnad saavad kokku ja loovad suurema kogukonna. Ja selle tulemusena omandavad nad teatud identiteedi, mis on seotud selle kogukonnaga. Samuti on see võimalus pakkuda oma kasutajatele lisaväärtust - väärtust, mis ületaks ühe kogukonna võimalusi või väärtust, mis on loodud kogukondade vahelise koostöö kaudu.
 
-Igal linnal on oma valitsus ja seal tegutseb oma DAO, kus linna Deedide omanikud saavad valida oma linnavolikogu, hääletada ja kehtestada oma tegevusreeglid, lisada uusi teenuseid ja kujundada oma linna nii, nagu nad soovivad, et suurendada linna atraktiivsust ja sellega seotud Deedide väärtust.
+Igal linnal on oma valitsus ja tal on oma DAO, kus linna Deed'i omanikud saavad valida oma linnavolikogu, hääletada ja kehtestada oma tegevuseeskirjad, lisada uusi teenuseid ja kujundada oma linna nii, nagu nad soovivad, et suurendada linna atraktiivsust ja sellega seotud Deed'ide väärtust.
 
 Näiteks võiksid nad lisada oma linna digitaalse esinduse, füüsilisi vasteid, mis on seotud nende linnaga (näiteks koosolekuruumid füüsilistes co-working ruumides), lisada Meedsi toiduteenuseid, puhkuseteenuseid jne...
 

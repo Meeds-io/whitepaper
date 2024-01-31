@@ -1,21 +1,21 @@
-# 3. Meeds token - Work Metaverse valuuta
+# 3. Meeds token – valuuta WoM
 
-Work Metaverse'i jõuallikaks on selle valuuta - Meeds (MEED) žetoon. Meediume kasutatakse kasutajate premeerimiseks (kaasamisprogrammide kaudu), kauplustes ostmiseks, Deeds'i saamiseks, investeeringute rahalise tulu saamiseks jne.
+WoM-i toiteallikaks on selle valuuta – Meedsi (MEED) märk. Meediume kasutatakse kasutajate premeerimiseks (kaasamisprogrammide kaudu), kauplustes ostmiseks, Deeds'i saamiseks, investeeringute rahalise tulu saamiseks jne.
 
 ## 3.1. Tokenomics
 
 Meeds **maksimaalne pakkumine on piiratud 100 miljoni žetooniga**, mida vermitakse järk-järgult. **Meedid vermitakse kiirusega 10 MEED minutis**. Seega on kogu mündi vermimisaeg peaaegu 20 aastat (kuna aastas vermitakse umbes 10*60*24*365 = 5M$ Meedit).
 
-Praeguseks on eeltrükitud 5 miljonit meedikut (5% koguvarustusest). Sellest 4,5 miljonit on lukustatud võlvlepinguga, mille lineaarne üleandmine toimub 4 aasta jooksul. Eelnevalt makstud summat kasutati peamiselt tarkvara intellektuaalomandi omandamiseks, sümboolse emissiooni juriidiliste tasude ja hostinguteenuste eest tasumiseks.
+Algselt vermiti 5 miljonit meedi (5% kogu pakkumisest). Sellest 4,5 miljonit on lukustatud võlvlepinguga, mille lineaarne üleandmine toimub 4 aasta jooksul. Eelvermitud summat kasutati peamiselt tarkvara IP omandamiseks, žetoonide emissiooni õigustasude maksmiseks ja hostiteenusteks.
 
-Ülejäänud osa on osa __Meeds DAO vahenditest__ ja seda kasutatakse teenuste eest tasumiseks, samuti mõnedeks käivitamisstiimuliteks, nagu näiteks õhulennukid ja soovituskampaaniad.
+Ülejäänud osa on osa __Meeds DAO vahenditest__ ja seda kasutatakse teenuste eest tasumiseks ja stiimulite käivitamiseks, nagu lennupiletid ja soovituskampaaniad.
 
 
 ## 3.2. Rahapaja eraldamine
 
 Minted Meeds on eraldatud selleks, et julgustada kolme sidusrühma - kasutajate, ehitajate ja investorite - kaasamist:
 
-- Kasutajad (kasutajad ja Deeds'i omanikud/rentnikud) saavad Meeds'i osaluse preemiate kaudu (mintium-mudel).
+- Kasutajad (kasutajad ja aktide omanikud/üürijad) saavad Meedsi kaasamispreemiate kaudu (mintiummudel).
 - Ehitajad (ühingu ja kogukonna liikmed) saavad ühingu fondide kaudu Meedsi, et ehitada, käitada ja parandada WoMi.
 - Investorid vermivad Meedid likviidsuspuulide rentimise ja ostmise ning Meedide panustamise kaudu.
 
@@ -23,7 +23,7 @@ Alguses saavad ehitajad 30% eraldisest. 70% jagatakse kasutajate ja investorite 
 
 ## 3.3. Kasutajad - vermimine läbi kaasamise
 
-Osa pidevalt vermitud meediatest eraldatakse kihlveokanalile. Jaotus toimub kord nädalas. Iga nädala lõpus arvutatakse kihlveoindeks ja Deedid saavad järgmisel nädalal oma preemiaid nõuda ja saada oma Meedid. Tagasisaamata meediumid jäävad fondi ja lisatakse järgmise nädala jaotusele. Mudelit on üksikasjalikult kirjeldatud eelmises peatükis (osa 2.6).
+Osa pidevalt vermitud meediatest eraldatakse kihlveokanalile. Jaotus toimub kord nädalas. Igal nädala lõpus arvutatakse kaasamisindeks nii, et Hubsi juhid ja Deedi omanikud saaksid järgmisel nädalal oma preemiad välja nõuda ja oma Meedid kätte saada. Tagasisaamata meediumid jäävad fondi ja lisatakse järgmise nädala jaotusele. Mudelit on üksikasjalikult kirjeldatud eelmises peatükis (osa 2.6).
 
 ## 3.4. Ehitajad - Meedsi ühing DAO ja ehitajate kogukond
 
@@ -33,11 +33,11 @@ Rahapaja ajal eraldatakse **30% vermitud meedikutest meedikute ühingule**.
 
 Assotsiatsiooni liikmed võivad pakkuda assotsiatsioonile teenuseid allkirjastatud teenuste lepingu alusel, millega kehtestatakse inimpäevade määr. Teenuste eest makstakse igakuiselt Meediates, lähtudes turuhinnast. Teenuste näideteks on näiteks Meedsi tarkvara rikastamine, WoMi rakenduse arendamine, uute ühenduspunktide arendamine, pilveteenuse haldamine, finants- ja õigusteenuste osutamine jne.
 
-Ilma liikmeks olemiseta võib iga Deed osaleda uue konnektori loomisel ja saada selle eest tasu - kõigepealt selle konnektori omandava Meediühingu kaudu ja seejärel selle konnektori kaudu vermimise kaudu.
+Ilma liikmeksolekuta saab iga organisatsioon osaleda uue konnektori loomises ja saada selle eest tasu – esmalt ühenduse Meeds kaudu, kes soetab konnektori ja seejärel vermides selle konnektori.
 
-Ühing tegutseb ehitajate kogukonnaga, mis tervitab WoMi entusiaste, kes soovivad anda oma panuse WoMi loomisse. Ühing sponsoreerib kogukonda oma eelarvest, hüvitades kogukonnaliikmete kaasamise.
+The association operates a it's own community hub named the Builders's Hub that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
 
-Seega hakkab kogukond toimima nagu näiteks Deed, mis pakub ühingu poolt pakutavaid standardseid teenuseid. Ühing panustab Meedid, et lunastada kogukonna jaoks Deed. Kogukond osaleb siis samuti kihlveo vermimises nagu iga teine Deed.
+Thus, the builders' hub will function as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. Ühing panustab meets-i, et lunastada oma kogukonnale akt. Thus, the Builder's Hub will also benefit in the engagement minting like any other Hub backed by a Deed.
 
 Pärast rahapaigutusperioodi lõppu säilitab ühing :
 
@@ -45,7 +45,7 @@ Pärast rahapaigutusperioodi lõppu säilitab ühing :
 - müügitulu maksustamine (2,5% Deedi müügist)
 - tehingutasude tajumine soodustuste kaupluste kasutamise üle
 - tegutsemine likviidsusparkide pakkujana
-- tehingutasude tajumine, kui Deed jagab WoMi teenuste kaudu muid kui Meedsi märke.
+- tehingutasude tajumine, kui jaotur levitab mitte-Meeds-märke WoM-teenuste kaudu.
 - tegutsedes Deeds, mida ühing aja jooksul loonud on.
 
 
@@ -59,7 +59,7 @@ Igal liikmel on ka õigus osta otse suures koguses Meeds'i soodushinnaga. Ühing
 
 **Pidamine / pikaajaline investeering** Pikaajalise investeerimise soodustamiseks premeeritakse panustatud meediume. Kui Meedid on panustatud, saab panustaja mõned xMeeds-märgid. Värskelt vermitud Meedid jaotatakse stäkkerite vahel proportsionaalselt nende xMeedide osakaaluga. Praktikas lisatakse vermitud Meedid tegelikult xMeeds'i aruka lepingu varudesse ja jaotatakse xMeeds'i omanikule, kui ta vabastab oma osaluse.
 
-Panustades Meedid, saavad investorid ka Deedid lunastada (ja seejärel osaleda mündi vermimises kaasamise kaudu), suurendades seeläbi tokeni nõudlust. Iga panustatud Meeds (xMeeds) annab oma omanikule teatud arvu punkte päevas. Mida pikem on kehtivusaeg, seda rohkem punkte saadakse ühe xMeedi kohta. Iga Deed lunastatakse seejärel teatud arvu punktide vastu.
+By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. Iga panustatud Meeds (xMeeds) annab oma omanikule teatud arvu punkte päevas. Mida pikem on kehtivusaeg, seda rohkem punkte saadakse ühe xMeedi kohta. Iga Deed lunastatakse seejärel teatud arvu punktide vastu.
 
 Punktid arvutatakse alljärgneva valemiga :
 
@@ -94,14 +94,14 @@ Meedsi žetoonide omanikud peavad panustama žetoonid, et hääletada Meedsi DAO
 
 ## 3.7. Detsentraliseeritud finantsteenuste (DeFi) kasutajateenused
 
-Work Metaverse tutvustab plokiahela maailma paljudele inimestele, kes seda täna ei kasuta.
+WoM tutvustab plokiahela maailma paljudele inimestele, kes seda täna ei kasuta.
 
 Tõepoolest, mis tahes tööd (olgu see siis digitaalne või mitte) saab mänguliselt muuta ja mis tahes osalust premeerida Meedsiga. Meedid tehakse kasutajatele kättesaadavaks lihtsasti kasutatava, plokiahelapõhise rahakoti kaudu, mis "abstraheerib" krüptomaailma mis tahes keerukuse keskmise kasutaja jaoks.
 
 Lisaks rahakotile ja kauplusele, kus nad saavad osta Meedide soodustusi, plaanime tutvustada igale kasutajale mitmeid lõppkasutaja tooteid, mis põhinevad detsentraliseeritud finantsprotokollidel, näiteks:
 
-- Võimalus panustada Meedsi märgid ja saada tulu (teenida tulu)
-- Võimalus kasutada Meeds-tokeneid tagatisena, et laenata stabiilseid münte nagu USDC (võimendades esmalt [Fuse pool](https://app.rari.capital/fuse) ja seejärel registreerides Meeds-tokeneid [AAVE](https://aave.com/).
+- The ability to stake Meeds tokens and get yields (generate revenues)
+- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
 - Digitaalne kaart, mida saab lisada ja kasutada Apple Pay, Google Pay või mis tahes sularahaautomaadi kaudu. Viimast saab pakkuda VISAga sõlmitud partnerluse kaudu ning see võimaldab kasutada USDC krediidiliini, mis on tagatud panustatud meediatega. Seda kaarti võivad organisatsioonid kasutada ka töötajate rahakoti rahastamiseks, et hallata töötajate soodustusi, nagu restoranid, transport ja mis tahes liiki kulud.
 
 Seega avastavad paljud uued kasutajad mitte ainult plokiahela maailma, vaid ka pangavaba maailma.
