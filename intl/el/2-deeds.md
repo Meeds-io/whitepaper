@@ -1,17 +1,20 @@
 
-# 2. Πράξεις NFT - Οργανισμοί WoM
+# 2. Deeds NFT - WoM Organizations
 
-## 2.1. NFT – Προβλέψεις που ορίζονται
+## 2.1. NFT – Deeds defined
 
-Ένα μη ανταλλάξιμο διακριτικό (NFT) είναι ένα μοναδικό διακριτικό που αντιπροσωπεύει ένα καλό. Στο WoM, μια πράξη χρησιμοποιείται ως τίτλος ιδιοκτησίας. Κάθε πράξη δίνει στον ιδιοκτήτη του δικαίωμα πρόσβασης σε διάφορες υπηρεσίες - για παράδειγμα, πρόσβαση σε ένα ψηφιακό γραφείο, που τροφοδοτείται από το λογισμικό Meeds και το δικαίωμα στη νομισματοκοπία.
 
-Το WoM καλωσορίζει κάθε είδους οργανισμούς - DAOs, παραδοσιακές εταιρείες, ενώσεις, ομάδες προβληματισμού, συνεργασίες, θεατρικές εταιρείες, ομάδες έργων, σχολεία κλπ. Το Έργο αντιπροσωπεύει την ψηφιακή τους ύπαρξη στο WoM.
+ NFTs (Non-Fungible Tokens) can be compared to deeds in the real world. Just as deeds signify ownership of a tangible property, NFTs provide proof of ownership for digital assets. This property right is registered and maintained on a blockchain, thus, assuring that the asset is unique and can't be replicated.
+
+ In the World of Meeds (WoM), a Deed is used as a core value of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a community hub, some hidden dynamic tools powered by the Meeds software and Mintium rewards (see 2.6).
+
+ The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital presence in the WoM.
 
 ## 2.2. Προμήθεια πράξεων
 
 Το WoM θα παρέχει τελικά ένα περιορισμένο ποσό των πράξεων. Κάθε πράξη περιλαμβάνει ένα προκαθορισμένο μέγιστο αριθμό χρηστών και προσφέρει μια χωρητικότητα Meeds ανταμείβοντας (Minting Power). Ο όρος «χρήστης» εδώ και στο εξής ορίζει κάθε τύπο υπαλλήλου, εργαζόμενου, ελεύθερου επαγγελματία, εθελοντή κλπ.
 
-Υπάρχουν τέσσερις τύποι έργων που παρέχουν διαφορετικές δυνατότητες όσον αφορά τον αριθμό των χρηστών, τα δικαιώματα ψήφου σε μια πόλη (βλ. 2. ) ή Meeds δύναμη κοπής, το σπανιότερο είναι το πιο ισχυρό :
+There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
 
 | **Τύπος Deed** | **Μέγιστοι χρήστες** | **Δύναμη νομισματοκοπίας** | **Σπανιότητα** | **Δικαιώματα ψήφου της πόλης** |
 | -------------- | -------------------- | -------------------------- | -------------- | ------------------------------ |
@@ -24,69 +27,69 @@
 
 Ένα DEED δίνει στον ιδιοκτήτη του το δικαίωμα να το ΧΡΗΣΙΜΟΠΟΙΗΣΕΙ, να το ΕΝΟΙΚΙΑΖΕΙ ή να το ΠΩΛΗΣΕΙ.
 
-- ΧΡΗΣΗ - Οι ιδιοκτήτες του Deed μπορούν να χρησιμοποιούν το Deed απευθείας για τον οργανισμό τους, παρέχοντας υπηρεσίες στους χρήστες του.
-- ΕΝΟΙΚΙΑΣΗ - Οι ιδιοκτήτες του Deed μπορούν επίσης να νοικιάσουν το Deed σε άλλον οργανισμό προκειμένου να αποκτήσουν παθητικό εισόδημα.
-- ΠΩΛΗΣΗ - Ένα Deed μπορεί να πωληθεί σε μια δευτερογενή αγορά όπως η [OpenSea](https://opensea.io).
+- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
+- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
+- SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
 
-Όντας ενεργός κάτοχος ή ενοικιαστής ενός Deed, ο οργανισμός ανταμείβεται με Meeds, μέσω ενός καινοτόμου μοντέλου "mintium" που περιγράφεται παρακάτω (μέρος 2.6).
+Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
 
-## 2.4. Υπηρεσίες παροχής υπηρεσιών, εμπλοκή / επιβράβευση κινητήρα
+## 2.4. Deeds services, engagement/rewards engine
 
-Σε μια ολοένα και πιο ανταγωνιστική αγορά, προκειμένου να προσελκύσουν και να διατηρήσουν τα ταλέντα και να μεγιστοποιήσουν την εισροή τους, οι οργανισμοί πρέπει να παρέχουν κίνητρα στους χρήστες τους πέρα από την απλή αποζημίωση. Το WoM παρέχει ένα καινοτόμο πλαίσιο για να το κάνει αυτό με το tokenizing work engagement.
+In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
 
-Ο κάτοχος ή ο ενοικιαστής κάθε Deed μπορεί να παρέχει εργαλεία και υπηρεσίες στους χρήστες του, οι οποίοι κερδίζουν πόντους εμπλοκής που μπορούν να συντονιστούν στις προτεραιότητες του Deed. Περιοδικά, τα σημεία μετατρέπονται σε Meeds (και - για DAOs - ενδεχομένως ένα άλλο token), με βάση τον προϋπολογισμό του συνόλου του Deed. Με αυτόν τον τρόπο, ανταμείβεται η εμπλοκή των χρηστών σε δραστηριότητες που έχουν σημασία για την οργάνωση.
+Each Deed’s holder or renter can set and achieve fine-tuned organizational priorities by creating contribution programs for community members who earn engagement points that are Periodically converted into Meeds token (and - for DAOs - potentially another token), based on a predefined budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
 
-Αρχικά, οι ακόλουθες δωρεάν υπηρεσίες που παρέχονται από την ένωση Meeds μπορούν να χρησιμοποιηθούν για την επιβράβευση της δέσμευσης:
+To begin with, the following free services provided by the Meeds association can be used to reward engagement:
 
-- **Gamification engine** - οι αυτόματες ενέργειες εντός του WoM έχουν βαρύτητα σε πόντους, η οποία μπορεί να προσαρμοστεί στις προτεραιότητες του Deed μέσω προσαρμόσιμων προγραμμάτων εμπλοκής.
-- **Προκλήσεις** – προσαρμόσιμες προκλήσεις μπορούν να ρυθμιστούν για να αντιπροσωπεύουν τα επιτεύγματα. Οι προκλήσεις είναι προκαθορισμένες από το ένα άτομο και μπορεί να είναι πλήρης-γεμάτο και ανακοινώνονται ως τέτοια από το άλλο. Οι προκλήσεις φέρουν βάρος στα σημεία, μέσα σε προσαρμόσιμα προγράμματα εμπλοκής.
-- **Προσαρμόσιμα προγράμματα εμπλοκής** - Οι οργανισμοί μπορούν να δημιουργήσουν τα δικά τους προγράμματα εμπλοκής που ταιριάζουν με τους επιχειρηματικούς στόχους και τις προτεραιότητές τους. Τα προγράμματα σχετίζονται με αυτόματες ενέργειες εντός του συστήματος και χειροκίνητα να ορίσετε προκλήσεις. Κάθε πρόγραμμα έχει ένα σύνολο προϋπολογισμό Meeds. Οι περιοδικά βαθμοί που κερδίζει ο κάθε χρήστης μέσω αυτόματων ή ανακοινωμένων ενεργειών σε κάθε πρόγραμμα εμπλοκής μετατρέπονται σε Meeds, με βάση τον προϋπολογισμό αυτού του προγράμματος.
-- **Kudos** - kudos μπορεί να απονεμηθεί από τους χρήστες μεταξύ τους, ως ένα ευχαριστώ και ένα δείγμα αναγνώρισης. Καθώς τα kudos που διατίθενται προς διανομή είναι περιορισμένα (προκαθορισμένο περιοδικό όριο, 3 την εβδομάδα για παράδειγμα), είναι σπάνια και πολύτιμα. Όπως και οι ενέργειες, kudos μεταφέρουν πόντους. Με αυτόν τον τρόπο οι εργαζόμενοι έχουν την εξουσία να ανταμείψουν τους συναδέλφους τους.
-- **Collaboration**, συνδεδεμένα με τη μηχανή επιβράβευσης - χώροι εργασίας, ασύγχρονη επικοινωνία, εργαλείο διαχείρισης εργασιών και σημειώσεις - επιτρέπουν στους ανθρώπους να εργάζονται από κοινού σε έργα.
-- **Πορτοφόλι** – στους χρήστες παρέχεται ένα ασφαλές πορτοφόλι τεχνολογίας Ethereum για να αποθηκεύσουν το Meeds. Εναλλακτικά, για προχωρημένους χρήστες, μπορεί να χρησιμοποιηθεί ένα πορτοφόλι Metamask
-- **Αποθήκευση** - ένα κατάστημα όπου τα Meeds μπορούν να ανταλλάσσονται με προνόμια που παρέχονται από τον κάτοχο ή τον ενοικιαστή του Deed ή από το οικοσύστημα Meeds.
-- **Ανάλυση** - για την ανάλυση και την παρακολούθηση της εμπλοκής στο πλαίσιο της Πράξης.
-- **Connectors**, συνδεδεμένοι με τη μηχανή ανταμοιβής - οι χρήστες λαμβάνουν πόντους δέσμευσης μέσω ενεργειών σε άλλο λογισμικό - για παράδειγμα για τη δέσμευση κώδικα στο GitHub.
+- **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the organization’s priorities via customizable engagement programs.
+- **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
+- **Customizable engagement programs** - organizations can create their engagement programs to match their business goals and priorities. Programs are associated with automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatic or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
+- **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
+- **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
+- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
+- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
+- **Analytics** – to analyze and follow engagement within the Deed.
+- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
 
-Ορισμένα από τα προαναφερθέντα εργαλεία και υπηρεσίες είναι ήδη αποκεντρωμένα, άλλα όχι. Ο απώτερος στόχος είναι να παρέχουμε όλες τις υπηρεσίες με αποκεντρωμένο τρόπο, κάτι που θα κάνουμε σταδιακά καθώς εξελίσσεται η υποκείμενη τεχνολογία.
+Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
 
-Οι νέες υπηρεσίες μπορούν να συνδεθούν με τον κινητήρα ανταμοιβής μέσω APIs. Παραδείγματα είναι αμέτρητα και μπορούν να περιλαμβάνουν σχεδόν οποιοδήποτε λογισμικό ή υπηρεσία:
+New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
 
-- Λογισμικό CRM - οι πωλητές θα παίρνουν πόντους δέσμευσης για την επεξεργασία των ευκαιριών.
-- Λογιστικό λογισμικό - οι λογιστές θα παίρνουν πόντους δέσμευσης για την τήρηση βιβλίων.
-- Τερματικό χρονομέτρησης - ο εργάτης του εργοστασίου μπορεί να πάρει πόντους για το χρόνο εργασίας στο εργοστάσιο.
-- Κ.λπ.
+- CRM software – salespeople would get engagement points for working on opportunities.
+- Accounting software – accountants would get engagement points for keeping books.
+- Clocking terminal – factory worker can get points for factory work time.
+- Etc.
 
-Επιπλέον, η εμπλοκή που παράγεται μέσω του συνδετήρα συμμετέχει στην παγκόσμια βαθμολογία εμπλοκής του οργανισμού, η οποία αποτελεί παράγοντα της διανομής Meeds minting, που περιγράφεται παρακάτω . Για να γίνει αυτό, ο σύνδεσμος πρέπει να συμπεριληφθεί στη λίστα από τον Σύνδεσμο Meeds. Η ένωση εξετάζει το συνδετήρα, εγκρίνει τον αλγόριθμό της και αποκτά την ιδιοκτησία της εναντίον Meeds. Στη συνέχεια γίνεται μέρος των ελεύθερων υπηρεσιών που παρέχονται από την ένωση και περιλαμβάνεται στον παγκόσμιο δείκτη δέσμευσης. Οποιαδήποτε άλλη πράξη μπορεί να χρησιμοποιήσει την ίδια υποδοχή και τον ίδιο αλγόριθμο ανταμοιβής για τους προγραμματιστές της.
+Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Hub can use the same connector and the same reward algorithm for its developers.
 
-Ο κάτοχος ή ο ενοικιαστής μπορεί να εμπλουτίσει το κατάστημά του με τα δικά του προνόμια, να συνδεθεί με μια προσφορά online προνόμια κλπ. Και πάλι οι δυνατότητες είναι ατελείωτες:
+The organization can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
 
-- Μαθήματα κατάρτισης
-- Συνδρομές γυμναστηρίου
-- Πακέτα διακοπών
-- Γεύμα με έναν ηγέτη του οργανισμού
-- Φυσικός χώρος γραφείων
-- Κ.λπ.
+- Training courses
+- Gym memberships
+- Vacation packages
+- Lunch with a leader in the organization
+- Physical office space
+- Etc.
 
-Το κατάστημα λειτουργεί μέσω της χρήσης των Meeds, έτσι ώστε τα Meeds να επιστρέφονται εν μέρει στο Deed.
+The store functions through the use of Meeds so that Meeds are partially returned to the community.
 
-## 2.5. Ανταμοιβές – Κρέατα και άλλα νομίσματα
+## 2.5. Rewards – Meeds and other tokens
 
-Το WoM θα τονίσει τη συμμετοχή των χρηστών, παίζοντας ψηφιακά εργαλεία εργασίας, και αποδίδοντας πόντους και Meeds σε σχέση με τη δέσμευση της εργασίας. Υπηρεσίες συνδεδεμένες με την εμπλοκή και τους πόντους χαρακτηριστικών κινητήρα ανταμοιβής σε κάθε χρήστη, ανάλογα με το επίπεδο εμπλοκής τους και σύμφωνα με τα προγράμματα εμπλοκής κάθε Deed. Πράγματι, κάθε πράξη μπορεί να ρυθμίσει τον αριθμό των πόντων που δίνονται για κάθε τύπο δραστηριότητας. Έτσι, πιέζοντας κάποιο κώδικα στο GitHub μπορεί να αξίζει 10 πόντους για ένα κατάστημα πληροφορικής, ενώ ένα ψηφιακό πρακτορείο μπορεί να αποδώσει μόνο 5 πόντους για ωθεί το GitHub αλλά θα προσφέρει 10 πόντους για retweets.
+The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Hub's engagement programs. Indeed, each community can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
 
-Περιοδικά, η επιβράβευση μηχανή μετατρέπει τους πόντους εμπλοκής σε Meeds σύμφωνα με τους προϋπολογισμούς και άλλους κανόνες διανομής και τελικά ανταμείβει τους χρήστες μέσω του πορτοφολιού τους. Το Έργο δεν απαιτείται για τη διανομή Meeds και μπορεί να χρησιμοποιήσει το σύστημα δέσμευσης για να επιτρέψει κάποια άλλη μορφή προγράμματος αποζημίωσης. Ωστόσο, η διανομή Meeds θα βελτιώσει την ικανότητα κοπής.
+Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Hub is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
 
-Επιπλέον, το Deed δεν χρειάζεται απαραίτητα να αποκτήσει Meeds για να τα διανείμει και να τροφοδοτήσει τα προγράμματα δέσμευσης, καθώς θα αποκτήσει Meeds από το μοντέλο "mintium", που περιγράφεται παρακάτω.
+Moreover, the community does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
 
-Εκτός από το Meeds, θα είναι επίσης δυνατόν να διανέμονται και άλλα νομίσματα (π.χ. τα ίδια τα νομίσματα του DAO) με βάση τον ίδιο μηχανισμό δέσμευσης. Σε αυτή την περίπτωση, η διανομή θα υπόκειται σε προμήθεια συναλλαγής 5% (σε DAO token) για την Ένωση Συνόδων.
+In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
 
 ## 2.6. Το μοντέλο “mintium” – tokenize εργασία εμπλοκή
 
-Με τη συμμετοχή των χρηστών τους στο WoM, οι Deeds αποζημιώνονται μέσω ενός καινοτόμου μοντέλου mintium.
+Με τη συμμετοχή των χρηστών τους στο WoM, οι κοινότητες αποζημιώνονται μέσω ενός καινοτόμου μοντέλου mintium.
 
-Σημεία δέσμευσης, τα οποία αποκτήθηκαν από τους χρήστες των Deeds, συμμετέχουν στον παγκόσμιο δείκτη δέσμευσης, που υπολογίζεται από τον Σύνδεσμο Meeds. Ο δείκτης χρησιμοποιεί την ίδια αρχή για όλες τις πράξεις. Ακόμα κι αν το Έργο μπορεί να αλλάξει την κατανομή των σημείων για την προώθηση μιας δράσης πάνω σε μια άλλη, οι αλλαγές αυτές δεν θα ληφθούν υπόψη στον υπολογισμό του παγκόσμιου δείκτη.
+Σημεία δέσμευσης, τα οποία αποκτήθηκαν από τους χρήστες του Hubs, συμμετέχουν στον παγκόσμιο δείκτη δέσμευσης, που υπολογίζεται από τον Σύνδεσμο Meeds. Ο δείκτης χρησιμοποιεί την ίδια αρχή για όλους τους κόμβους. Αν και η κοινότητα μπορεί να αλλάξει την κατανομή των σημείων για να προωθήσει μια δράση πάνω σε μια άλλη, οι αλλαγές αυτές δεν θα ληφθούν υπόψη στον υπολογισμό του παγκόσμιου δείκτη.
 
-Κάθε εβδομάδα, ένα ορισμένο ποσό Meeds κατανέμεται στην παγκόσμια εμπλοκή της WoM. Είναι υπολογισμένη εβδομαδιαία, pro-rata, μεταξύ των συμμετεχόντων Έργων. Μερικές πράξεις παίρνουν μια επιπλέον ώθηση ανάλογα με τον τύπο τους. Οι πράξεις που ισχυρίζονται ότι οι Κρέαντες τους κατά τη διάρκεια της εβδομάδας, τις δέχονται. Τα αζήτητα Meeds προστίθενται στο παγκόσμιο ποσό διανομής της επόμενης εβδομάδας.
+Κάθε εβδομάδα, ένα ορισμένο ποσό Meeds κατανέμεται στην παγκόσμια εμπλοκή της WoM. Είναι υπολογισμένη εβδομαδιαία, pro-rata, μεταξύ των συμμετεχόντων Hubs. Μερικά Hubs πάρετε μια επιπλέον ώθηση ανάλογα με τον τύπο της πράξης που χρησιμοποιούν. Τα Σωματεία που ισχυρίζονται ότι τα Μέιντς τους κατά τη διάρκεια της εβδομάδας, τα δέχονται. Τα αζήτητα Meeds προστίθενται στο παγκόσμιο ποσό διανομής της επόμενης εβδομάδας.
 
 Το σκορ εμπλοκής _S_ ενός Deed είναι μια συνάρτηση της εμπλοκής, του αριθμού των δεσμευμένων χρηστών και της κατανομής :
 
@@ -94,19 +97,19 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Πού :
 
-- $A$ = _Δραστηριότητα_ - συνολικός αριθμός ενεργειών που έχουν συσσωρευτεί από τους χρήστες στο πλαίσιο της Πράξης κατά τη διάρκεια της εβδομάδας. (Σε επίπεδο κάθε Deed, κάθε δράση μετατρέπεται σε σημεία εμπλοκής, κάποιες ενέργειες που σταθμίζουν περισσότερο από άλλες. Στο επίπεδο του δείκτη, όλες οι ενέργειες είναι γραμμικές).
+- $A$ = _Activity_ - συνολικός αριθμός ενεργειών που συγκεντρώθηκαν από τους χρήστες εντός του Hub κατά τη διάρκεια της εβδομάδας. (On a Hub, each action is converted into engagement points, some actions weighting more than others. Στο επίπεδο του δείκτη, όλες οι ενέργειες είναι γραμμικές).
 - $U$ = _Engaged users_ - χρήστες που συνέβαλαν σε πόντους κατά τη διάρκεια της εβδομάδας, με τουλάχιστον μία ενέργεια.
-- $E_d$ = _Ποσοστό αφοσίωσης της πράξης_ - ενέργειες ανά χρήστη ($A/U$)
-- $E_w$ = _Μέσο ποσοστό εμπλοκής_ όλων των ενεργών Deeds στο WoM.
-- $D_r$ = _Ποσοστό Διανομής_ - εάν μια Πράξη παραλήφθηκε Meeds για την προηγούμενη περίοδο, το % των Meeds που διανεμήθηκε στους χρήστες του. Το % μπορεί να είναι μεγαλύτερο από 100 εάν η κατανομή καθυστερήσει εγκαίρως.
-- $D_s$ = _Distribution spread_ - εάν ένα Deed έλαβε νομισματοποιημένα Meeds για την προηγούμενη περίοδο, το % των χρηστών που έλαβαν Meeds στο σύνολο των χρηστών.
+- $E_d$ = _Ρυθμός εμπλοκής του κόμβου_ - ενέργειες ανά χρήστη ($A/U$)
+- $E_w$ = _Μέσος ρυθμός εμπλοκής_ όλων των ενεργών κόμβων στο WoM.
+- $D_r$ = _Ποσοστό Διανομής_ - εάν ένας Κόμβος παραλήφθηκε σε Λιμένα για την προηγούμενη περίοδο, το % των Meeds που διανεμήθηκε στους χρήστες του. Το % μπορεί να είναι μεγαλύτερο από 100 εάν η κατανομή καθυστερήσει εγκαίρως.
+- $D_s$ =  _Διανομή_ - εάν ένας κόμβος παραλήφθηκε με κοπές Meeds για την προηγούμενη περίοδο, το % των χρηστών που έλαβαν Meeds στο σύνολο των χρηστών.
 - $M$ = _Minting Power_ της πράξης, όπως ορίζεται στο 2.3
 
 
-Ο συνολικός δείκτης δέσμευσης που χρησιμοποιείται για τη διανομή των Meeds μεταξύ των Deeds είναι το άθροισμα των βαθμολογιών δέσμευσης όλων των Deeds για την εβδομάδα.
+Ο παγκόσμιος δείκτης δέσμευσης που χρησιμοποιείται για τη διανομή των τεμαχισμένων Meeds μεταξύ των Hubs είναι το άθροισμα των βαθμολογιών εμπλοκής όλων των Hubs για την εβδομάδα.
 
 
-Ο παραπάνω τύπος είναι απλός και έχει σχεδιαστεί για να ευνοεί τις Deeds :
+Ο παραπάνω τύπος είναι απλός και έχει σχεδιαστεί για να ευνοεί κόμβους :
 
 - με πολλούς εμπλεκόμενους χρήστες (αρραβώνας)
 - οι οποίοι μοιράζονται δίκαια το σύνολο των εσόδων από την κοπή (ποσοστό διανομής) με τους χρήστες τους (διασπορά διανομής).
@@ -116,9 +119,9 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 - οργανισμοί με την υψηλότερη δέσμευση, ανεξάρτητα από το μέγεθός τους (ποσοστό δέσμευσης σε σχέση με το WoM)
 - σπανιότερα Deeds
 
-> Η ένωση Meeds διατηρεί το δικαίωμα να αλλάξει τον τύπο εφόσον απαιτείται – εάν προκύπτουν για παράδειγμα περιπτώσεις ειδικής χρήσης. Η ένωση μπορεί επίσης να μαύρο κατάλογο κάθε πράξη που hijacks τον τύπο με το μοναδικό όφελος της.
+> Η ένωση Meeds διατηρεί το δικαίωμα να αλλάξει τον τύπο εφόσον απαιτείται – εάν προκύπτουν για παράδειγμα περιπτώσεις ειδικής χρήσης. Η ένωση μπορεί επίσης να μαύρο κατάλογο κάθε Hub που hijacks τον τύπο με το μοναδικό όφελος της.
 
-Καθώς οι πράξεις ανταμείβονται με τον Meeds και παρέχουν κίνητρα για αναδιανομή τους ως ανταμοιβές στους χρήστες τους έναντι της εμπλοκής τους – τα συμφέροντα τόσο των έργων όσο και των χρηστών τους ευθυγραμμίζονται στον ίδιο ενάρετο κύκλο καταμερισμού εσόδων. Έτσι, το WoM προσφέρει ένα νέο μοντέλο εργασίας, το οποίο αναδιαμορφώνει τη σχέση εργοδότη/εργαζομένου ως εταιρική σχέση.
+Καθώς τα Σωματεία ανταμείβονται με τον Meeds και παρέχουν κίνητρο για αναδιανομή τους ως ανταμοιβές στους χρήστες τους έναντι της εμπλοκής τους – το ενδιαφέρον τόσο των κοινοτήτων όσο και των χρηστών τους ευθυγραμμίζεται στον ίδιο ενάρετο κύκλο καταμερισμού των εσόδων. Έτσι, το WoM προσφέρει ένα νέο μοντέλο εργασίας, το οποίο αναδιαμορφώνει τη σχέση εργοδότη/εργαζομένου ως εταιρική σχέση.
 
 Το μοντέλο "mintium" είναι το πρώτο στο είδος του - πηγαίνει παραπέρα από το παραδοσιακό freemium, καθώς όχι μόνο οι υπηρεσίες είναι δωρεάν στη χρήση, αλλά τόσο οι οργανισμοί όσο και οι χρήστες τους ανταμείβονται για τη χρήση τους.
 
@@ -138,9 +141,9 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 | 6: Kushor       | 10 000 000  | Eshmum + 64 μήνες   | 6 000 000  | 3 000 000      | 999 998    | 2           |
 | 7: Hammon       | 100 000 000 | Kushor + 128 μήνες  | 60 000 000 | 30 000 000     | 9 999 999  | 1           |
 
-Μια πόλη είναι ένας τρόπος για να συναντηθούν οι Πράξεις και να δημιουργήσουν μια κοινότητα. Και ως αποτέλεσμα, αποκτήστε μια ορισμένη ταυτότητα, που συνδέεται με αυτή την κοινότητα. Είναι επίσης ένας τρόπος για να παράσχουμε πρόσθετη αξία στους χρήστες του - αξία που θα ξεπερνούσε τις δυνατότητες ή την αξία ενός Deed που δημιουργήθηκε μέσω της συνεργασίας μεταξύ των Deeds.
+Μια πόλη είναι ένας τρόπος για να συναντηθούν οι κοινότητες και να δημιουργήσουν μια μεγαλύτερη κοινότητα. Και ως αποτέλεσμα, αποκτήστε μια ορισμένη ταυτότητα, που συνδέεται με αυτή την κοινότητα. Είναι επίσης ένας τρόπος να παράσχουμε πρόσθετη αξία στους χρήστες του - αξία που θα ξεπερνούσε τις δυνατότητες ή την αξία μιας κοινότητας που δημιουργήθηκε μέσω της συνεργασίας μεταξύ των κοινοτήτων.
 
-Κάθε πόλη έχει τη δική της κυβέρνηση και λειτουργεί το δικό της DAO, όπου οι ιδιοκτήτες των Deeds της πόλης μπορούν να εκλέγουν το δημοτικό συμβούλιο, να ψηφίζουν και να θεσπίζουν τους δικούς τους κανόνες λειτουργίας, να προσθέτουν νέες υπηρεσίες και να διαμορφώνουν την πόλη τους με τον τρόπο που επιθυμούν και να αυξάνουν την ελκυστικότητα της πόλης και την αξία των Deeds που συνδέονται με αυτήν.
+Κάθε πόλη έχει τη δική της υπεροχή και λειτουργεί το δικό της DAO όπου οι ιδιοκτήτες της πόλης μπορούν να εκλέξουν το δημοτικό συμβούλιο τους, να ψηφίσουν και να θεσπίσουν τους δικούς τους κανόνες λειτουργίας, προσθέστε νέες υπηρεσίες και διαμορφώστε την πόλη τους με τον τρόπο που θέλουν και έτσι ώστε να αυξηθεί η ελκυστικότητα της πόλης και η αξία των έργων που συνδέονται με αυτό.
 
 Για παράδειγμα, θα μπορούσαν να προσθέσουν μια ψηφιακή αναπαράσταση της πόλης τους, φυσικά αντίστοιχα μέρη που σχετίζονται με την πόλη τους (αίθουσες συνεδριάσεων σε φυσικούς χώρους συνεργασίας, για παράδειγμα), προσθέστε Meeds powered food service, υπηρεσίες διακοπών, κλπ...
 
