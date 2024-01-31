@@ -1,14 +1,14 @@
-# 5. The WoM for ALL – shrnutí vize a milníky
+# 5. WoM pro VŠECHNY – přehled zraků a milníky
 
-## 5.1. Konečný cíl - decentralizovaný web pro všechny
+## 5.1. Ultimátní cíl - Decentralizovaný web pro všechny
 
-WoM je nakonec decentralizovaný webový svět pro každého - pro každého člověka a každou organizaci.
+WoM je nakonec decentralizovaný webový svět pro všechny – každý člověk a všechny organizace.
 
 Bude osídlen uživateli, jednající prostřednictvím jejich digitální identity **Xeeds** a přistupující ke světu prostřednictvím svých metamasků, pro krypto-savvie, nebo přihlašovací jméno/heslo pro nové. Lidé by svou angažovanost alokovali a odměňovali spravedlivým, transparentním a decentralizovaným způsobem. Získali by snadný a dobře známý přístup k decentralizovanému světu a kryptoměnám zítřka - získali by jednoduché nástroje, které by použily své žetony v životě nebo by je investovali do své budoucnosti.
 
-Organizace - **listiny** budou schopny získávat talenty, procházet WM a správně doložené dovednosti. Za svou účast ve WoM by byli odměněni ražením tokenů prostřednictvím zapojení uživatelů (model mintium). Ze všeho nejvíce by však měli prospěch z vyššího zapojení a loajality svých uživatelů.
+Organizace by dokázaly získávat talenty, procházet se WM a správně dokázat dovednosti. Za svou účast ve WoM by byli odměněni ražením tokenů prostřednictvím zapojení uživatelů (model mintium). Ze všeho nejvíce by však měli prospěch z vyššího zapojení a loajality svých uživatelů.
 
-WoM by měl svou vlastní měnu **Meeds** – ta by tam byla k utrácení v obchodech, přeměnit na jinou měnu, investovat do návratnosti investic, nájemného nebo koupě atd. WoM by také usnadnil distribuci dalších žetonů a podílel by se na celkovém ekosystému kryptoměn.
+WoM by měl vlastní měnu **MEED** – která by byla k utrácení v obchodech, přeměnit na jinou měnu, investovat do návratnosti investic, nájemného nebo koupě atd. WoM by také usnadnil distribuci dalších žetonů a podílel by se na celkovém ekosystému kryptoměn.
 
 Protože obrázek vydá za tisíc slov, zde je schéma, které popisuje toky WoM a Meeds
 
