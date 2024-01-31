@@ -1,21 +1,21 @@
-# 3. Token Meed - mata uang dalam Work Metaverse
+# 3. Token meeds – mata uang WoM
 
-Work Metaverse disokong dengan mata uangnya sendiri - token Meed (MEED). Meed digunakan untuk memberi imbalan buat pengguna (lewat program keterlibatan), pembelian, mendapatkan Deed, memperoleh imbal hasil dalam investasi dll.
+WoM didukung oleh mata uangnya – token Meeds (MEED). Meed digunakan untuk memberi imbalan buat pengguna (lewat program keterlibatan), pembelian, mendapatkan Deed, memperoleh imbal hasil dalam investasi dll.
 
 ## 3.1. Tokenomik
 
 **Suplai maksimal Meed dibatasi hanya sebanyak 100 juta token**, yang dicetak secara bertahap. **Meed dicetak sebanyak 10 MEED tiap menit**. Maka, rentang waktu tercetak sampai habis memakan waktu selama 20 tahun (atau sekitar $10*60*24*365 = 5 juta Meed yang dicetak tiap tahunnya).
 
-5 juta Meed (setara 5% dari total suplai) sudah dicetak sebelumnya. Dari jumlah itu, 4,5 juta Meed dikunci dalam kontrak brankas selama 4 tahun. Token yang sudah dicetak, sebagian besar digunakan untuk mendapatkan IP perangkat lunak, membayar biaya legalitas emisi token dan menggelar layanan.
+5 Juta Meed (5% dari total pasokan) telah dicetak sebelumnya. Dari jumlah itu, 4,5 juta Meed dikunci dalam kontrak brankas selama 4 tahun. Jumlah yang telah dicetak sebelumnya terutama digunakan untuk memperoleh IP perangkat lunak, membayar biaya hukum emisi token, dan layanan host.
 
-Sisanya untuk __dana DAO Meed__ dan akan digunakan untuk membayar layanan serta beberapa insentif peluncuran seperti airdrop dan kampanye referal.
+Sisanya adalah bagian dari __dana Meeds DAO__ dan akan digunakan untuk membayar layanan dan meluncurkan insentif seperti airdrop dan kampanye rujukan.
 
 
 ## 3.2. Alokasi Pencetakan
 
 Meed yang dicetak dialokasikan untuk menarik keterlibatan dari tiga pihak pemangku kepentingan -pengguna, pembangun, dan investor:
 
-- Para pengguna (seperti pengguna dan pemilik atau penyewa Deed) mendapatkan Meed melalui imbalan keterlibatan (model mintium).
+- Pengguna (pengguna dan pemegang Akta/penyewa) mendapatkan Meed melalui imbalan keterlibatan (model mintium).
 - Pembangun (anggota asosiasi dan komunitas) mendapatkan Meed melalui dana asosiasi untuk membangun, mengoperasikan, dan mengembangkan WoM.
 - Investor mencetak Meed dengan menyewa dan berpartisipasi dalam likuiditas bersama, dan mendepositokan Meed.
 
@@ -23,7 +23,7 @@ Pada awalnya, para pembangun mendapatkan 30% dari alokasi Meed. Sisa 70% dibagi 
 
 ## 3.3. Pengguna -mencetak Meed melalui keterlibatan
 
-Sebagai bagian dari penerbitan Meed yang berkelanjutan, Meed dialokasikan lewat kanal keterlibatan penerbitan. Distribusi Meed dilakukan dalam periode mingguan. Pada akhir pekan tertentu, indeks keterlibatan dihitung dan Deed bisa mengklaim imbalan mereka di pekan berikutnya dan mendapatkan Meed mereka. Meed yang tidak diklaim, akan tetap tersimpan dalam dana cadangan dan akan dimasukkan dalam distribusi pekan selanjutnya. Model ini dijelaskan secara detail dalam bab sebelumnya (bagian 2.6).
+Sebagai bagian dari penerbitan Meed yang berkelanjutan, Meed dialokasikan lewat kanal keterlibatan penerbitan. Distribusi Meed dilakukan dalam periode mingguan. Pada akhir pekan tertentu, indeks keterlibatan dihitung sehingga pemimpin Hub dan pemilik Akta dapat mengklaim hadiah mereka pada minggu berikutnya dan mendapatkan Meed mereka. Meed yang tidak diklaim, akan tetap tersimpan dalam dana cadangan dan akan dimasukkan dalam distribusi pekan selanjutnya. Model ini dijelaskan secara detail dalam bab sebelumnya (bagian 2.6).
 
 ## 3.4. Pembangun - Asosiasi DAO Meed dan komunitas pembangun
 
@@ -33,11 +33,11 @@ Selama masa penerbitan, **30% dari Meed yang dicetak dialokasikan untuk asosiasi
 
 Anggota asosiasi bisa menyediakan layanan kepada asosiasi berdasar pada perjanjian layanan yang disepakati untuk menetapkan tarif kerja harian. Layanan dibayar dengan Meed secara bulanan, berdasar harga pasar. Contoh layanan meliputi - mengembangkan perangkat lunak Meed, mengembangkan aplikasi WoM, mengembangkan koneksi baru, mengoperasikan layanan komputasi awan, menyediakan layanan legalitas dan keuangan dll.
 
-Tanpa keberadaan anggota, Deed bisa berpartispasi pada pengembangan koneksi baru dan akan diberi imbalan karena perannya - pertama melalui asosiasi Meed yang mendapatkan koneksi, lalu dengan menerbitkan melalui konektor.
+Tanpa menjadi anggota, organisasi mana pun dapat berpartisipasi dalam pembuatan konektor baru dan diberi penghargaan karena melakukannya – pertama melalui asosiasi Meeds yang memperoleh konektor tersebut dan kemudian dengan mencetak melalui konektor ini.
 
-Asosiasi mengoperasikan komunitas pembangun yang terbuka kepada peminat WoM, yang mau berkontribusi membentuk WoM. Asosiasi akan menyeponsori komunitas dari anggarannya, memberi kompensasi anggota komunitas yang terlibat.
+The association operates a it's own community hub named the Builders's Hub that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
 
-Maka, komunitas akan berfungsi seperti contoh sebuah Deed, menawarkan seperangkat standar layanan yang disediakan oleh asosiasi. Asosiasi akan mendepositokan Deed untuk menebus Deed demi komunitas. Komunitas juga akan berpartisipasi dalam penerbitan keterlibatan seperti Deed lainnya.
+Thus, the builders' hub will function as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. Asosiasi mempertaruhkan Meeds untuk menebus Akta untuk komunitasnya. Thus, the Builder's Hub will also benefit in the engagement minting like any other Hub backed by a Deed.
 
 Setelah masa penerbitan selesai, asosiasi akan dibiayai dari :
 
@@ -45,7 +45,7 @@ Setelah masa penerbitan selesai, asosiasi akan dibiayai dari :
 - pajak penjualan (2.5% dari penjualan Deed)
 - penerimaan dari biaya transaksi dari penggunaan manfaat toko
 - hasil dari penyediaan likuiditas bersama
-- pendapatan dari biaya transaksi saat pendistribusian Deed selain token Meed lewat layanan WoM.
+- memahami biaya transaksi saat Hub mendistribusikan token non Meeds melalui layanan WoM.
 - dengan mengoperasikan Deed yang diterbitkan dari waktu ke waktu.
 
 
@@ -59,7 +59,7 @@ Setiap anggota juga berhak membeli Meed secara langsung dalam jumlah besar denga
 
 **Deposito/investasi jangka panjang** Untuk menarik investasi jangka panjang, Meed yang didepositokan akan diberi imbal hasil. Ketika Meed didepositokan, deposan akan mendapatkan token xMeed. Meed yang baru diterbitkan didistribusikan kepada deposan secara proporsional menjadi xMeed mereka. Dalam praktiknya, Meed yang diterbitkan secara efektif dimasukkan ke dalam kontrak pintar xMeed dan didistribusikan kepada pemegang xMeed saat mereka menarik depositonya.
 
-Dengan mendepositokan Meed, investor juga bisa langsung menebus Deed (dan lalu ikut berpartisipasi menerbitkannya dengan keterlibatan), maka hal ini ikut menaikkan permintaan token. Tiap Meed yang didepositokan (xMeed) membuat pemiliknya menerima sejumlah poin tiap harinya. Semakin lama mereka mendepositokannya, maka semakin besar poin yang mereka peroleh untuk tiap xMeed. Tiap Deed, lalu bisa ditukar menjadi sejumlah poin.
+By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. Tiap Meed yang didepositokan (xMeed) membuat pemiliknya menerima sejumlah poin tiap harinya. Semakin lama mereka mendepositokannya, maka semakin besar poin yang mereka peroleh untuk tiap xMeed. Tiap Deed, lalu bisa ditukar menjadi sejumlah poin.
 
 Poin dihitung berdasar rumus berikut :
 
@@ -94,14 +94,14 @@ Pemegang token Meed perlu mendepositokan token mereka agar mendapatkan hak suara
 
 ## 3.7. Layanan Pengguna Keuangan Terdesentralisasi (DeFi)
 
-Work Metaverse akan mengenalkan dunia blockchain kepada banyak orang yang saat ini tak menggunakannya.
+WoM akan memperkenalkan dunia blockchain kepada banyak orang yang tidak menggunakannya saat ini.
 
 Maka, setiap karya (entah digital atau bukan) bisa digamifiikasi dan segala keterlibatan di dalamnya -dan dihadiahi dengan Meed. Meed, akan tersedia bagi pengguna melalui cara yang mudah, dompet berbasis blockchain yang "menyederhanakan" segala kerumitan dalam kripto untuk pengguna awam.
 
 Selain dompet dan toko di mana pengguna bisa membeli barang untuk Meed, kami berencana mengenalkan semua pengguna produk-produk akhir yang disokong protokol Decentralized Finance, seperti:
 
-- Bisa mendepositokan token Meed dan mendapat bunga (menghasilkan pendapatan)
-- Bisa menggunakan token Meed sebagai jaminan untuk meminjam koin stabil seperti USDC (memanfaatkan [Fuse pool](https://app.rari.capital/fuse) dulu lalu mendaftarakan token Meed ke [AAVE](https://aave.com/).
+- The ability to stake Meeds tokens and get yields (generate revenues)
+- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
 - Kartu digital yang bisa dimasukan atau digunakan dengan Apple Pay, Google pay, atau lewat ATM. Untuk ATM, bisa dilakukan dengan bekerja sama dengan VISA dan akan memanfaatkan batas kredit dalam USDC, dijamin dengan mendepositokan Meed. Kartu ini bisa juga digunakan oleh organisasi untuk mendanai dompet karyawan untuk pemberian tunjangan seperti makan di restoran, transportasi, segala jenis pengeluaran.
 
 Maka, bukan hanya pengguna baru yang akan masuk ke dalam blockchain, mereka juga akan memasuki dunia tanpa bank.
