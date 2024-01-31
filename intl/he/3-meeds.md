@@ -15,7 +15,7 @@
 
 Meeds מוטבעים מוקצים כדי לעודד מעורבות של שלוש הקטגוריות של בעלי עניין - המשתמשים, הבונים והמשקיעים:
 
-- המשתמשים (משתמשים ומחזיקי Deeds/שוכרים) מקבלים Meeds באמצעות תגמולי מעורבות (מודל מינטייום).
+- The users (users and Deed holders/renters) get Meeds through engagement rewards (mintium model).
 - בונים (חברי האגודה והקהילה) מקבלים מידס דרך כספי האגודה כדי לבנות, להפעיל ולשפר את ה-WoM.
 - משקיעים מטביעים Meeds באמצעות השכרה וקנייה של מאגרי נזילות והחזקה של Meeds.
 
@@ -23,7 +23,7 @@ Meeds מוטבעים מוקצים כדי לעודד מעורבות של שלוש
 
 ## 3.3. משתמשים - טביעה באמצעות מעורבות
 
-חלק מה-Meeds המוטבעים ברציפות מוקצה לערוץ הטבעת האירוסין. החלוקה מתבצעת מדי שבוע. בכל סוף שבוע נתון, מדד ההתקשרות מחושב ו-Deeds יכולים לתבוע את התגמולים שלהם בשבוע שלאחר מכן ולקבל את ה-Meeds שלהם. Meeds שלא נתבעו נשארים בקרן ומתווספים להפצה של השבוע הבא. המודל מתואר בהרחבה בפרק הקודם (חלק 2.6).
+חלק מה-Meeds המוטבעים ברציפות מוקצה לערוץ הטבעת האירוסין. החלוקה מתבצעת מדי שבוע. At any given week end, the engagement index is calculated so that Hubs leaders and Deed owners can claim their rewards the following week and get their Meeds. Meeds שלא נתבעו נשארים בקרן ומתווספים להפצה של השבוע הבא. המודל מתואר בהרחבה בפרק הקודם (חלק 2.6).
 
 ## 3.4. בונים – עמותת Meeds DAO וקהילת בונים
 
@@ -33,11 +33,11 @@ WoM ו-Meeds token מופעלים על ידי עמותת Meeds Association DAO, 
 
 חברי העמותה יכולים להעניק שירותים לעמותה על בסיס אמנת שירותים חתומה הקובעת את תעריף יום העבודה. השירותים משולמים מדי חודש ב-Meeds, בהתבסס על מחיר השוק. דוגמאות לשירותים כוללות – העשרת תוכנת Meeds, פיתוח אפליקציית WoM, פיתוח מחברים חדשים, הפעלת שירות הענן, מתן שירותים פיננסיים ומשפטיים ועוד.
 
-מבלי להיות חבר, כל Deed משתתף ביצירת מחבר חדש ומתוגמל על כך - תחילה באמצעות עמותת Meeds שרוכשת את המחבר ולאחר מכן על ידי הטבעה דרך מחבר זה.
+מבלי להיות חבר, כל ארגון יכול להשתתף ביצירת מחבר חדש ולהיות מתוגמל על כך – תחילה באמצעות אגודת מידס רכישת המחבר ולאחר מכן על ידי טביעת דרך מחבר זה.
 
-העמותה מפעילה קהילת Builders שמקבלת בברכה את חובבי WoM, שרוצים לתרום ליצירת WoM. העמותה תיתן חסות לקהילה מתוך תקציבה, תוך פיצוי על מעורבות חברי הקהילה.
+The association operates a it's own community hub named the Builders's Hub that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
 
-כך, הקהילה תתפקד כדוגמה ל-Deed, המציעה מערך שירותים סטנדרטי הניתנים על ידי העמותה. העמותה מעמידה מניות במיד על מנת לפדות Deed עבור הקהילה. הקהילה תשתתף אז גם בטביעת האירוסין כמו כל Deed אחר.
+Thus, the builders' hub will function as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. האגודה מעמידה את מידס כדי לפדות חוזה עבור הקהילה שלה. Thus, the Builder's Hub will also benefit in the engagement minting like any other Hub backed by a Deed.
 
 לאחר סיום תקופת ההטבעה, העמותה תתקיים על ידי:
 
@@ -45,7 +45,7 @@ WoM ו-Meeds token מופעלים על ידי עמותת Meeds Association DAO, 
 - מיסוי הכנסה ממכירה (2.5% על מכירות ב-Deeds)
 - תפיסת עמלות עסקה על השימוש בחנויות ההטבות
 - פועל כספק מאגר נזילות
-- תפיסת עמלות עסקה כאשר Deed מפיץ אסימונים שאינם Meeds באמצעות שירותי WoM.
+- perceiving transaction fees when a Hub distributes non Meeds tokens via WoM services.
 - באמצעות הפעלת ה-Deeds שהאגודה טבעה לאורך זמן.
 
 
@@ -59,7 +59,7 @@ WoM ו-Meeds token מופעלים על ידי עמותת Meeds Association DAO, 
 
 **השקעה / השקעה לטווח ארוך** כדי לעודד השקעות לטווח ארוך, Meeds בהימורים מתוגמלים. כאשר Meeds מוצמדים, המחזיק מקבל כמה אסימוני xMeeds. Meeds שהוטבעו לאחרונה מחולקים לבעלי עניין באופן יחסי להחזקות ה-xMeeds שלהם. בפועל, Meeds שנטבעו מתווספים למעשה להחזקות החוזה החכם של xMeeds ומחולקים למחזיק xMeeds כאשר הם מתבטלים.
 
-על ידי החזקה ב-Meeds, משקיעים יכולים גם לפדות את Deeds (ולאחר מכן להשתתף בהטבעה באמצעות התקשרות), ובכך להגדיל את הביקוש הסמל. כל Meeds בהימור (xMeeds) מעניק לבעליו מספר נקודות ביום. ככל שתקופת ההבשלה ארוכה יותר כך מספר הנקודות שהושג לכל xMeeds גבוה יותר. לאחר מכן כל Deed נפדה בתמורה למספר נקודות.
+By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. כל Meeds בהימור (xMeeds) מעניק לבעליו מספר נקודות ביום. ככל שתקופת ההבשלה ארוכה יותר כך מספר הנקודות שהושג לכל xMeeds גבוה יותר. לאחר מכן כל Deed נפדה בתמורה למספר נקודות.
 
 הנקודות מחושבות באמצעות הנוסחה שלהלן:
 
@@ -100,8 +100,8 @@ WoM ו-Meeds token מופעלים על ידי עמותת Meeds Association DAO, 
 
 מעבר לארנק ולחנות שבה הם יכולים לרכוש הטבות עבור Meeds, אנו מתכננים להציג לכל משתמש מספר מוצרי משתמש קצה המופעלים על ידי פרוטוקולי הפיננסים המבוזרים, כגון:
 
-- היכולת להטמיע אסימוני Meeds ולקבל תשואות (לייצר הכנסות)
-- היכולת להשתמש באסימוני Meeds כבטחון לשאלת מטבעות יציבים כגון USDC (מינוף תחילה של [Fuse Pool](https://app.rari.capital/fuse) ולאחר מכן רישום של Meeds token ל-[AAVE](https://aave.com/).
+- The ability to stake Meeds tokens and get yields (generate revenues)
+- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
 - כרטיס דיגיטלי שניתן להוסיף ולהשתמש בו דרך Apple Pay, Google Pay או כל כספומט. את האחרון ניתן לספק באמצעות שותפות עם VISA וימנף מסגרת אשראי ב-USDC, המובטחת על ידי Meeds. כרטיס זה יכול לשמש גם ארגונים למימון ארנקי עובדים על מנת לנהל הטבות לעובדים כגון מסעדות, תחבורה וכל סוג של הוצאות.
 
 אז לא רק משתמשים חדשים רבים יגלו את עולם הבלוקצ'יין, הם גם יגלו עולם נטול בנק.

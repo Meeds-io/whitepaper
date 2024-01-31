@@ -1,17 +1,20 @@
 
 # 2. Deeds NFT - WoM Organizations
 
-## 2.1. NFT - מעשים מוגדרים
+## 2.1. NFT – Deeds defined
 
-אסימון שאינו ניתן לשינוי (NFT) הוא אסימון ייחודי המייצג טוב. ב-WoM, שטר משמש ככותרת בעלות. כל Deed מקנה לבעליו זכות גישה למספר שירותים - למשל, גישה למשרד דיגיטלי, המופעל על ידי תוכנת Meeds והזכות להטביע Meeds.
 
-ה-WoM מקבל בברכה כל מיני ארגונים - DAOs, תאגידים מסורתיים, עמותות, צוותי חשיבה, שותפויות, חברות תיאטרון, קבוצות פרויקטים, בתי ספר וכו'. ה-Deed מייצג את הקיום הדיגיטלי שלהם ב-WoM.
+ NFTs (Non-Fungible Tokens) can be compared to deeds in the real world. Just as deeds signify ownership of a tangible property, NFTs provide proof of ownership for digital assets. This property right is registered and maintained on a blockchain, thus, assuring that the asset is unique and can't be replicated.
+
+ In the World of Meeds (WoM), a Deed is used as a core value of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a community hub, some hidden dynamic tools powered by the Meeds software and Mintium rewards (see 2.6).
+
+ The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital presence in the WoM.
 
 ## 2.2. אספקת Deeds
 
 ה-WoM יספק בסופו של דבר כמות מוגבלת של Deeds. כל Deed כולל מספר מקסימלי מוגדר מראש של משתמשים ומציע קיבולת של Meeds rewarding (Minting Power). המונח 'משתמש' כאן ולהלן מציין כל סוג של עובד, עובד, פרילנסר, מתנדב וכו'.
 
-ישנם ארבעה סוגים של Deeds, כל אחד מספק יכולות שונות מבחינת מספר משתמשים, זכויות הצבעה בעיר (ראה 2.7) או כוח הטבעה של Meeds, הנדיר ביותר הוא החזק ביותר:
+There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
 
 | **סוג Deed** | **מקסימום משתמשים** | **כוח טביעה** | **מַחְסוֹר** | **זכויות הצבעה בעירייה** |
 | ------------ | ------------------- | ------------- | ------------ | ------------------------ |
@@ -24,69 +27,69 @@
 
 Deed נותן לבעליו את הזכות להשתמש בו, לשכור אותו או למכור אותו.
 
-- שימוש - בעלי ה-Deed יכולים להשתמש ב-Deed ישירות עבור הארגון שלהם, תוך מתן שירותים למשתמשים שלו.
-- שכר דירה - בעלי ה-Deed יכולים גם להשכיר את ה-Deed לארגון אחר על מנת לקבל הכנסה פסיבית.
-- SELL - ניתן למכור שטרות בשוק משני כגון [OpenSea](https://opensea.io).
+- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
+- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
+- SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
 
-בהיותו מחזיק או שוכר פעיל של שטר, הארגון מתוגמל ב-Meeds, באמצעות מודל "mintium" חדשני המתואר להלן (חלק 2.6).
+Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
 
-## 2.4. שירותי Deeds, מנוע התקשרות/תגמולים
+## 2.4. Deeds services, engagement/rewards engine
 
-בשוק תחרותי יותר ויותר, על מנת למשוך ולשמור על כישרונות ולמקסם את ההשקעה שלהם, ארגונים צריכים לתמרץ את המשתמשים שלהם מעבר לתגמול פשוט. ה-Wom מספק מסגרת חדשנית לעשות זאת על ידי סמל למעורבות בעבודה.
+In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
 
-כל מחזיק או שוכר של DEED יכול לספק כלים ושירותים למשתמשים שלו, אשר צוברים נקודות התקשרות שניתן לכוונן עדיפות לסדר העדיפויות של ה-Deed. מעת לעת, נקודות מומרות ל-Meeds (ועבור DAOs - אולי אסימון נוסף), בהתבסס על התקציב המוגדר של ה-Deed. באופן זה, מעורבות המשתמשים בפעילויות החשובות לארגון מתוגמלת.
+Each Deed’s holder or renter can set and achieve fine-tuned organizational priorities by creating contribution programs for community members who earn engagement points that are Periodically converted into Meeds token (and - for DAOs - potentially another token), based on a predefined budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
 
-מלכתחילה, ניתן להשתמש בשירותים החינמיים הבאים הניתנים על ידי עמותת Meeds כדי לתגמל מעורבות:
+To begin with, the following free services provided by the Meeds association can be used to reward engagement:
 
-- **מנוע Gamification** - לפעולות אוטומטיות בתוך WoM יש משקל בנקודות, אותן ניתן לכוונן את סדר העדיפויות של Deed באמצעות תוכניות מעורבות הניתנות להתאמה אישית.
-- **אתגרים** - ניתן להגדיר אתגרים הניתנים להתאמה אישית כדי לייצג הישגים. אתגרים מוגדרים מראש על ידי אדם אחד וניתן למלא אותם במלואם ולהכריז עליהם על ידי אחר. לאתגרים יש משקל בנקודות, בתוך תוכניות מעורבות הניתנות להתאמה אישית.
-- **תוכניות מעורבות הניתנות להתאמה אישית** - ארגונים יכולים ליצור תוכניות מעורבות משלהם התואמות את היעדים והעדיפויות העסקיות שלהם. תוכניות משויכות לפעולות אוטומטיות בתוך המערכת ומגדירות אתגרים באופן ידני. לכל תוכנית יש תקציב Meeds מוגדר. מעת לעת נקודות שנצבר על ידי כל משתמש באמצעות אוטומטיות או פעולות מוכרזות בכל תוכנית מעורבות מומרות ל-Meeds, בהתבסס על התקציב של אותה תוכנית.
-- **כל הכבוד** - ניתן להעניק כבוד על ידי משתמשים זה לזה, כתודה וכאות הוקרה. מכיוון שהשבחים הזמינים להפצה מוגבלים (מגבלה תקופתית מוגדרת מראש, למשל 3 בשבוע), הם נדירים ובעלי ערך. כמו פעולות, כל הכבוד נושאים נקודות. כך העובדים מוסמכים לתגמל את עמיתיהם.
-- כלי **שיתוף פעולה**, המחוברים למנוע המתגמל - סביבות עבודה, תקשורת אסינכרונית, כלי לניהול משימות והערות - מאפשרים לאנשים לעבוד יחד על פרויקטים.
-- **ארנק** - למשתמשים מסופק ארנק טכנולוגיית Ethereum מאובטח לאחסון ה-Meeds שלהם. לחילופין, למשתמשים מתקדמים, ניתן להשתמש בארנק Metamask.
-- **חנות** - חנות שבה ניתן להחליף Meeds כנגד הטבות הניתנות על ידי בעל ה-Deed או השוכר או על ידי האקוסיסטם של Meeds.
-- **ניתוח** - לנתח ולעקוב אחר המעורבות בתוך ה-Deed.
-- **מחברים**, מחוברים למנוע התגמול - משתמשים מקבלים נקודות מעורבות באמצעות פעולות בתוכנה אחרת - למשל לביצוע קוד ב-GitHub.
+- **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the organization’s priorities via customizable engagement programs.
+- **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
+- **Customizable engagement programs** - organizations can create their engagement programs to match their business goals and priorities. Programs are associated with automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatic or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
+- **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
+- **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
+- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
+- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
+- **Analytics** – to analyze and follow engagement within the Deed.
+- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
 
-חלק מהכלים והשירותים שהוזכרו לעיל כבר מבוזרים, אחרים לא. המטרה הסופית היא לספק את כל השירותים בצורה מבוזרת, מה שנעשה בהדרגה ככל שהטכנולוגיה הבסיסית מתפתחת.
+Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
 
-ניתן לחבר שירותים חדשים למנוע התגמולים באמצעות ממשקי API. הדוגמאות הן אינספור ויכולות לכלול כמעט כל תוכנה או שירות:
+New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
 
-- תוכנת CRM - אנשי מכירות יקבלו נקודות מעורבות עבור עבודה על הזדמנויות.
-- תוכנת הנהלת חשבונות - רואי חשבון יקבלו נקודות מעורבות עבור ניהול ספרים.
-- מסוף שעון - עובד המפעל יכול לקבל נקודות עבור זמן העבודה במפעל.
-- וכו.
+- CRM software – salespeople would get engagement points for working on opportunities.
+- Accounting software – accountants would get engagement points for keeping books.
+- Clocking terminal – factory worker can get points for factory work time.
+- Etc.
 
-יתרה מזאת, המעורבות המופקת באמצעות המחבר משתתפת בציון המעורבות הגלובלי של הארגון, שהוא גורם בהפצת ההטבעה של Meeds, המתוארת להלן. כדי לעשות זאת, המחבר צריך להיות ברשימת היתרים על ידי עמותת Meeds. העמותה בוחנת את המחבר, מאשרת את האלגוריתם שלו ורוכשת את הבעלות שלו מול מידס. לאחר מכן הוא הופך לחלק מהשירותים החינמיים שמספקת העמותה ונכלל במדד המעורבות העולמי. כל Deed אחר יכול להשתמש באותו מחבר ובאותו אלגוריתם תגמול עבור המפתחים שלו.
+Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Hub can use the same connector and the same reward algorithm for its developers.
 
-בעל השטר או השוכר יכול להעשיר את החנות שלו בהטבות משלו, להתחבר להצעת הטבות מקוונת וכו'. גם שם האפשרויות אינסופיות:
+The organization can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
 
-- קורסי הכשרה
-- חברות בחדר כושר
-- חבילות חופשה
-- ארוחת צהריים עם מנהיג בארגון
-- שטח משרדים פיזי
-- וכו.
+- Training courses
+- Gym memberships
+- Vacation packages
+- Lunch with a leader in the organization
+- Physical office space
+- Etc.
 
-החנות מתפקדת באמצעות שימוש ב-Meeds כך ש- Needs מוחזרים חלקית ל-Deed.
+The store functions through the use of Meeds so that Meeds are partially returned to the community.
 
-## 2.5. תגמולים - Meeds ואסימונים אחרים
+## 2.5. Rewards – Meeds and other tokens
 
-ה-Wom יסמל את המעורבות של המשתמשים, על ידי מתן gamification של כלי עבודה דיגיטליים, וייחס נקודות ו-Meeds ביחס למעורבות בעבודה. שירותים המחוברים למנוע המעורבות והתגמול מעניקים נקודות לכל משתמש, בהתאם לרמת המעורבות שלו ובהתאם לתוכניות המעורבות של כל Deed. ואכן, כל Deed יכול לכוונן עדין את כמות הנקודות הניתנות עבור כל סוג של פעילות. לפיכך, דחיפה של קוד כלשהו ב-GitHub עשויה להיות שווה 10 נקודות עבור חנות IT, בעוד שסוכנות דיגיטלית עשויה לייחס רק 5 נקודות עבור דחיפות של GitHub, אך תציע 10 נקודות עבור ציוצים מחדש.
+The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Hub's engagement programs. Indeed, each community can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
 
-מעת לעת, המנוע המתגמל ממיר נקודות מעורבות ל-Meeds בהתאם לתקציבים וכללי הפצה אחרים ובסופו של דבר מתגמל את המשתמשים באמצעות הארנקים שלהם. ה-Deed אינו נדרש להפצת Meeds והוא יכול להשתמש במערכת ההתקשרות כדי לאפשר סוג אחר של תוכנית פיצויים. עם זאת, הפצת Meeds תשפר את יכולת ההטבעה שלה.
+Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Hub is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
 
-יתרה מכך, ה-Deed לא בהכרח צריך לרכוש את Meeds כדי להפיץ אותם ולתדלק את תוכניות ההתקשרות שלו, שכן הוא יקבל את Meeds ממודל "מינטיום", המתואר להלן.
+Moreover, the community does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
 
-בנוסף ל-Meeds, ניתן יהיה גם להפיץ אסימונים אחרים (למשל האסימונים של ה-DAO עצמו) על בסיס אותו מנגנון מעורבות. במקרה זה, החלוקה תהיה כפופה לעמלת עסקה של 5% (בתוכי DAO) עבור עמותת Meeds.
+In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
 
 ## 2.6. מודל ה-"mintium" - סמל מעורבות בעבודה
 
-על ידי שיתוף המשתמשים שלהם ב-Wom, Deeds מקבלים פיצוי באמצעות מודל מיניטיום חדשני.
+על ידי מעורבות המשתמשים שלהם בשניים, קהילות מקבלות פיצוי באמצעות מודל מינימום חדשני.
 
-על ידי שיתוף המשתמשים שלהם ב-Wom, Deeds מקבלים פיצוי באמצעות מודל מיניטיום חדשני. האינדקס משתמש באותו עיקרון עבור כל Deeds. למרות שה-Deed יכול לשנות את הקצאת הנקודות כדי לקדם פעולה אחת על פני אחרת, שינויים אלו לא יילקחו בחשבון בחישוב המדד העולמי.
+נקודות מעורבות, שנרכשו על ידי משתמשי הרכזות, משתתפות במדד המעורבות העולמי, המחושב על ידי עמותת מידס. המדד משתמש באותו עיקרון עבור כל הרכזות. למרות שהקהילה יכולה לשנות את הקצאת הנקודות כדי לקדם פעולה אחת על פני אחרת, שינויים אלה לא יילקחו בחשבון בחישוב המדד העולמי.
 
-מדי שבוע, כמות מסוימת של Meeds מוקצית להטבעת המעורבות העולמית של WoM. זה מחושב מדי שבוע, פרו-רטה, בין Deeds המשתתפים. חלק מה-Deeds מקבלים דחיפה נוספת בהתאם לסוג שלהם. ה-Deeds שתובעים את המיד שלהם במהלך השבוע, מקבלים אותם. ה-Meeds שלא נתבעו מתווספים לכמות ההפצה הגלובלית של השבוע הבא.
+מדי שבוע, כמות מסוימת של Meeds מוקצית להטבעת המעורבות העולמית של WoM. הוא מחושב מדי שבוע, באופן יחסי, בין המרכזים המשתתפים. כמה רכזות לקבל דחיפה נוספת בהתאם לסוג המעשה הם משתמשים. המרכזים הטוענים את התרופות שלהם במשך השבוע, מקבלים אותם. ה-Meeds שלא נתבעו מתווספים לכמות ההפצה הגלובלית של השבוע הבא.
 
 ציון המעורבות _S_ של Deed הוא פונקציה של המעורבות, מספר המשתמשים המעורבים וההפצה:
 
@@ -94,19 +97,19 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 איפה :
 
-- $A$ = _פעילות_ - המספר הכולל של פעולות שנצברו על ידי משתמשים בתוך ה-Deed במהלך השבוע. (ברמת כל מעש, כל פעולה מומרת לנקודות מעורבות, חלק מהפעולות שוקללות יותר מאחרות. At the index level, all actions are linearized).
+- $ א $ = _פעילות< / 0> - המספר הכולל של פעולות שנצברו על ידי משתמשים בתוך הרכזת במהלך השבוע. (On a Hub, each action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).</li>
 - $U$ = _משתמשים מעורבים_ - משתמשים שתרמו לנקודות במהלך השבוע, בפעולה אחת לפחות.
-- $E_d$ = _שיעור המעורבות של Deed_ - פעולות לכל משתמש ($A/U$)
-- $E_w$ = _שיעור מעורבות ממוצע_ של כל Deeds הפעילים ב-WoM.
-- $D_r$ = _שיעור הפצה_ - אם Deed קיבל Meeds שהוטבעו עבור התקופה הקודמת, אחוז ה-Meeds שהופץ למשתמשים שלו. ה-% יכול להיות מעל 100 אם ההפצה מתעכבת בזמן.
-- $D_s$ = _פיזור חלוקה_ - אם Deed קיבל Meeds שהוטבעו עבור התקופה הקודמת, אחוז המשתמשים שקיבלו Meeds במאגר הכולל של משתמשים.
-- $M$ = _כוח הטבעה_ של ה-Deed כפי שהוגדר ב-2.3
+- $ א_ד $ = _שיעור מעורבות של המרכז_ - פעולות למשתמש ($א / א)
+- $ $ $ = <0 > שיעור מעורבות ממוצע</0 > של כל המרכזים הפעילים ברחם.
+- $ $ ד_ר $ = _שיעור הפצה_ - אם רכזת קיבלה תרופות נטבעו לתקופה הקודמת, אחוז התרופות שהופצו למשתמשיה. ה-% יכול להיות מעל 100 אם ההפצה מתעכבת בזמן.
+- $ $ ד_ס $ = _הפצת הפצה< / 0 > - אם מרכז קיבל מטבעות מטבעות עבור התקופה הקודמת, % מהמשתמשים שקיבלו מטבעות מטבעות במאגר הכולל של המשתמשים.</li>
+- $M$ = _כוח הטבעה_ של ה-Deed כפי שהוגדר ב-2.3</ul>
 
 
-מדד המעורבות העולמי המשמש להפצת ה-Meeds שנטבעו בין ה-Deeds הוא סכום כל ציוני המעורבות של Deeds בשבוע.
+מדד המעורבות העולמי המשמש להפצת תרופות נטבעות בין הרכזות הוא סכום ציוני המעורבות של כל הרכזות לשבוע.
 
 
-הנוסחה לעיל היא פשוטה ונועדה להעדיף Deeds:
+הנוסחה לעיל היא פשוטה ומעוצבת לטובת רכזות :
 
 - עם הרבה משתמשים מעורבים (מעורבות)
 - שחולקים את כל הכנסות ההטבעה (שיעור חלוקה) עם המשתמשים שלהם בצורה הוגנת (פיזור חלוקה).
@@ -116,9 +119,9 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 - ארגונים בעלי המעורבות הגבוהה ביותר, ללא קשר לגודלם (שיעור מעורבות ביחס לWoM)
 - מעשים נדירים יותר
 
-> עמותת Meeds שומרת לעצמה את הזכות לשנות את הנוסחה במידת הצורך - אם יתעוררו מקרי שימוש ספציפיים למשל. העמותה יכולה גם לעשות רשימה שחורה של כל Deed שחוטף את הנוסחה לטובתה הייחודית.
+> עמותת Meeds שומרת לעצמה את הזכות לשנות את הנוסחה במידת הצורך - אם יתעוררו מקרי שימוש ספציפיים למשל. העמותה יכולה גם לרשום כל רכזת שחוטפת את הנוסחה לטובתה הייחודית.
 
-מכיוון שה-Deeds מתוגמלים ב-Meeds ומתמרצים להפיץ אותם מחדש כתגמולים למשתמשים שלהם כנגד המעורבות שלהם - האינטרסים של ה-Deeds והן של המשתמשים שלהם מיושרים באותו מחזור חלוקת הכנסות. לפיכך, ה-WoM מציע מודל עבודה חדש, המעצב מחדש את יחסי המעסיק/עובד כשותפות.
+כמו רכזות מתוגמלים עם תרופות ותמריץ להפיץ אותם כפרסים למשתמשים שלהם נגד המעורבות שלהם-האינטרס של שתי הקהילות והמשתמשים שלהם מיושרים באותו מחזור חלוקת הכנסות מוסרי. לפיכך, ה-WoM מציע מודל עבודה חדש, המעצב מחדש את יחסי המעסיק/עובד כשותפות.
 
 מודל "mintium" הוא ראשון מסוגו - הוא הולך רחוק יותר מה-freemium המסורתי, שכן לא רק השירותים חופשיים לשימוש אלא גם הארגונים וגם המשתמשים שלהם מתוגמלים על השימוש בהם.
 
@@ -138,9 +141,9 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 | 6: Kushor   | 10 000 000  | Eshmum +64 חודשים   | 6 000 000     | 3 000 000  | 999 998    | 2        |
 | 7: Hammon   | 100 000 000 | Eshmum +128 חודשים  | 60 000 000    | 30 000 000 | 9 999 999  | 1        |
 
-עיר היא דרך ל-Deeds להתאחד וליצור קהילה. וכתוצאה מכך, לרכוש זהות מסוימת, הקשורה לאותה קהילה. זוהי גם דרך לספק ערך נוסף למשתמשים שלה - ערך שיחרוג מהיכולות או הערך של Deed אחד שנוצר באמצעות שיתוף פעולה בין ה-Deed.
+עיר היא דרך עבור הקהילות להתאחד וליצור קהילה גדולה יותר. וכתוצאה מכך, לרכוש זהות מסוימת, הקשורה לאותה קהילה. זוהי גם דרך לספק ערך נוסף למשתמשים שלה-ערך שיעבור מעבר ליכולות או לערך של קהילה אחת שנוצר באמצעות שיתוף פעולה בין הקהילות.
 
-לכל עיר ישנה מינהל משלה והיא מפעילה DAO משלה, בו בעלי המסמכים של העיר יכולים לבחור את מועצת העיר שלהם, להצביע ולקבוע כללי הפעלה משלהם, להוסיף שירותים חדשים ולעצב את העיר שלהם בצורה שהם רוצים וכדי להגדיל את האטרקטיביות של העיר וערך המעשים הנלווים לה.
+לכל עיר יש מקור משלה ומפעילה דאו משלה שבו בעלי המעשה של העיר יכולים לבחור את מועצת העיר שלהם, להצביע ולקבוע כללי הפעלה משלהם, להוסיף שירותים חדשים ולעצב את עירם באופן שהם רוצים וכדי להגדיל את האטרקטיביות של העיר ואת ערך המעשים המצורפים אליה.
 
 לדוגמה, הם יכולים להוסיף ייצוג דיגיטלי של העיר שלהם, עמיתים פיזיים הקשורים לעיר שלהם (לדוגמה חדרי ישיבות בחללי עבודה משותפים פיזיים), להוסיף שירותי מזון מופעלים באמצעות Meeds, שירותי חופשות וכו'...
 
