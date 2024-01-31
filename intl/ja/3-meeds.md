@@ -15,7 +15,7 @@ Meeds **の最大供給量は1億トークン**に制限されており、順次
 
 ミードミードは、ステークホルダーの3つのカテゴリーの関与を促進するために割り当てられています - ユーザー、ビルダーと投資家。
 
-- ユーザー (ユーザーおよび Deeds 所有者/賃借人) は、エンゲージメント報酬 (mintium モデル) を通じて Meeds を取得します。
+- ユーザー(ユーザーと証言者/賃貸人)は、エンゲージメント報酬(mintiumモデル)を通じてMeedsを取得します。
 - ビルダー (協会およびコミュニティのメンバー) は、WoM を構築、運用、および改善するために、協会の資金を通じて Meeds を取得します。
 - 投資家は、流動性プールのレンタルと購入、および Meeds のステーキングを通じて Meeds を作成します。
 
@@ -23,7 +23,7 @@ Meeds **の最大供給量は1億トークン**に制限されており、順次
 
 ## 3.3. ユーザー - エンゲージメントによるミンティング
 
-継続的に発行される Meeds の一部は、エンゲージメントの発行チャネルに割り当てられます。 配信は毎週行っています。 任意の週末にエンゲージメント インデックスが計算され、Deeds は次の週に報酬を受け取り、Meeds を受け取ることができます。 請求されていない Meeds は基金に残り、翌週の配布に追加されます。 このモデルについては、前の章 (パート 2.6) で詳しく説明しています。
+継続的に発行される Meeds の一部は、エンゲージメントの発行チャネルに割り当てられます。 配信は毎週行っています。 任意の週末に エンゲージメント指数は、ハブのリーダーとディードの所有者が翌週に報酬を請求し、Meedsを取得できるように計算されます。 請求されていない Meeds は基金に残り、翌週の配布に追加されます。 このモデルについては、前の章 (パート 2.6) で詳しく説明しています。
 
 ## 3.4. ビルダー – Meeds Association DAO およびビルダーのコミュニティ
 
@@ -33,11 +33,11 @@ WoM と Meeds トークンは、上記で紹介した非営利の Meeds Associat
 
 協会のメンバーは、人日レートを確立する署名済みのサービス規約に基づいて、協会にサービスを提供できます。 サービスは、市場価格に基づいて Meeds で毎月支払われます。 サービスの例としては、Meeds ソフトウェアの充実、WoM アプリの開発、新しいコネクタの開発、クラウド サービスの運用、金融および法律サービスの提供などがあります。
 
-メンバーでなくても、Deed は新しいコネクタの作成に参加でき、そのために報酬を得ることができます。 最初に Meeds 協会がコネクタを取得し、次にこのコネクタを介して作成します。
+メンバーになっていない あらゆる組織は、新しいコネクタの作成に参加し、そうすることで報酬を得ることができます – 最初にMeeds協会を通じてコネクタを取得し、次にこのコネクタを介してミントすることによって。
 
-この協会は、WoM の作成に貢献したい WoM 愛好家を歓迎する Builders コミュニティを運営しています。 協会は予算からコミュニティを後援し、コミュニティ メンバーの関与を補償します。
+The association operates a it's own community hub named the Builders's Hub that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
 
-したがって、コミュニティは Deed の一例として機能し、協会が提供する標準的なサービス セットを提供します。 協会は、コミュニティのために証書を償還するために Meeds を賭けます。 コミュニティは、他の Deed と同様にエンゲージメント ミントにも参加します。
+Thus, the builders' hub will function as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. 協会は、そのコミュニティのために証言を償還するためにミーズに賭けます。 Thus, the Builder's Hub will also benefit in the engagement minting like any other Hub backed by a Deed.
 
 鋳造期間が終了した後、関連付けは以下によって維持されます。
 
@@ -45,7 +45,7 @@ WoM と Meeds トークンは、上記で紹介した非営利の Meeds Associat
 - 売却所得への課税 (Deeds の売上の 2.5%)
 - 特典ストアの使用に対する取引手数料の認識
 - 流動性プールプロバイダーとしての役割
-- deed が WoM サービスを介して Meeds 以外のトークンを配布すると、取引手数料が発生します。
+- HubがWoMサービスを介してMeeds以外のトークンを配布する場合の取引手数料の把握。
 - 協会が時間をかけて作成した証書を操作することによって。
 
 
@@ -59,7 +59,7 @@ WoM と Meeds トークンは、上記で紹介した非営利の Meeds Associat
 
 **ステーキング / 長期投資** 長期投資を奨励するために、ステーキングされた Meeds には報酬が与えられます。 Meedsがステークされると、ステーカーはいくつかのxMeedトークンを取得します。 新たに作成された Meeds は、保有する xMeeds に比例してステーカーに分配されます。 実際には、造幣されたミードは事実上xMeedsスマートコントラクトの保有量に追加され、アンステーク時にxMeeds保有者に配布されます。
 
-Meeds をステーキングすることで、投資家は Deeds を償還することもでき (その後、エンゲージメントを通じてミンティングに参加することもでき)、トークンの需要が増加します。 ステーキングされた Meeds (xMeeds) ごとに、所有者に 1 日あたりのポイント数が付与されます。 権利確定期間が長いほど、xMeeds あたりの獲得ポイント数が高くなります。 その後、各 Deed は多数のポイントと交換されます。
+By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. ステーキングされた Meeds (xMeeds) ごとに、所有者に 1 日あたりのポイント数が付与されます。 権利確定期間が長いほど、xMeeds あたりの獲得ポイント数が高くなります。 その後、各 Deed は多数のポイントと交換されます。
 
 ポイントは以下の式を使用して計算されます。
 
@@ -100,8 +100,8 @@ WoMは今日それを使用しない多くの人々にブロックチェーン�
 
 Meeds の特典を購入できるウォレットとストアを超えて、次のような分散型金融プロトコルによって強化されたいくつかのエンドユーザー製品をすべてのユーザーに紹介する予定です。
 
-- Meeds トークンをステークして利回りを得る（収益を生み出す）
-- Meedsトークンを担保にUSDCなどの安定したコインを借りることができること（まず[Fuse pool](https://app.rari.capital/fuse)を活用し、その後[AAVE](https://aave.com/)にMeedsトークンを登録する）。
+- The ability to stake Meeds tokens and get yields (generate revenues)
+- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
 - Apple Pay、Google Pay、または任意の ATM で追加して使用できるデジタル カード。 後者はVISAとの提携により提供され、ステークされたMeedを担保にしたUSDCでのクレジットラインを活用することが可能です。 このカードは、レストランや交通費など、従業員の福利厚生を管理するために、従業員の財布に充当することも可能です。
 
 ですから、多くの新しいユーザーがブロックチェーンの世界を発見するだけでなく、バンクレスの世界も発見することになります。
