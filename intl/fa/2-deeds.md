@@ -1,17 +1,20 @@
 
-# 2. اعمال NFT - سازمانهای متاور کار کنید
+# 2. Deeds NFT - WoM Organizations
 
-## 2.1. NFT - اعمال تعریف شده
+## 2.1. NFT – Deeds defined
 
-یک نشانه غیر قارچ (NFT) یک نشانه منحصر به فرد است که نشان دهنده خوب است. در Wom ، از یک عمل به عنوان عنوان مالکیت استفاده می شود. هر عمل به صاحب خود حق دسترسی به چندین سرویس را می دهد - به عنوان مثال ، دسترسی به یک دفتر دیجیتال ، با استفاده از نرم افزار Meeds و حق نعناع Meeds.
 
-WOM از انواع سازمان ها استقبال می کند - DAOS ، شرکت های سنتی ، انجمن ها ، اندیشکدها ، مشارکتها ، شرکت های تئاتر ، گروه های پروژه ، مدارس و غیره. عمل نشان دهنده وجود دیجیتالی آنها در Wom است.
+ NFTs (Non-Fungible Tokens) can be compared to deeds in the real world. Just as deeds signify ownership of a tangible property, NFTs provide proof of ownership for digital assets. This property right is registered and maintained on a blockchain, thus, assuring that the asset is unique and can't be replicated.
+
+ In the World of Meeds (WoM), a Deed is used as a core value of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a community hub, some hidden dynamic tools powered by the Meeds software and Mintium rewards (see 2.6).
+
+ The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital presence in the WoM.
 
 ## 2.2. عمل
 
 Wom در نهایت مقدار محدودی از اعمال را تأمین می کند. هر عمل شامل حداکثر تعداد از کاربران از پیش تعریف شده است و ظرفیت پاداش Meeds (قدرت مینینگ) را ارائه می دهد. اصطلاح "کاربر" در اینجا و از این پس هر نوع کارمند ، کارگر ، آزادکار ، داوطلب و غیره را تعیین می کند.
 
-چهار نوع سند وجود دارد که هر کدام از نظر تعداد کاربران، حق رای در یک شهر (نگاه کنید به 2.7) یا قدرت ضرب‌کاری Meeds قابلیت‌های متفاوتی را ارائه می‌کنند که نادرترین آنها قدرتمندترین آنهاست:
+There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
 
 | **نوع سند** | **حداکثر کاربران** | **قدرت ضرب** | **کمبود** | **حق رای شهر** |
 | ----------- | ------------------ | ------------ | --------- | -------------- |
@@ -24,69 +27,69 @@ Wom در نهایت مقدار محدودی از اعمال را تأمین می
 
 سند به صاحبش این حق را می دهد که از آن استفاده کند، آن را اجاره کند یا بفروشد.
 
-- استفاده - صاحبان سند می توانند از سند مستقیماً برای سازمان خود استفاده کنند و به کاربران آن خدمات ارائه دهند.
-- RENT - صاحبان سند همچنین می توانند سند را به سازمان دیگری اجاره کنند تا درآمد غیرفعالی داشته باشند.
-- فروش - یک سند را می توان در یک بازار ثانویه مانند [OpenSea](https://opensea.io) فروخت.
+- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
+- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
+- SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
 
-به عنوان دارنده یا اجاره کننده فعال یک سند، سازمان از طریق مدل ابتکاری "مینتیوم" که در زیر توضیح داده شده است، با Meeds پاداش می گیرد (بخش 2.6).
+Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
 
-## 2.4. خدمات اسناد، موتور تعامل / پاداش
+## 2.4. Deeds services, engagement/rewards engine
 
-در یک بازار رقابتی فزاینده، به منظور جذب و حفظ استعدادها و به حداکثر رساندن ورودی آنها، سازمانها نیاز دارند تا کاربران خود را فراتر از پرداخت هزینه ساده ترغیب کنند. WoM چارچوبی نوآورانه برای انجام این کار با نمادسازی مشارکت کاری فراهم می کند.
+In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
 
-دارنده یا اجاره‌کننده هر سند می‌تواند ابزارها و خدماتی را به کاربران خود ارائه دهد، که امتیازهای تعامل را به دست می‌آورند که می‌تواند با اولویت‌های سند تنظیم شود. به صورت دوره ای، امتیازها بر اساس بودجه تنظیم شده Deed به Meeds (و - برای DAO ها - به طور بالقوه توکن دیگری) تبدیل می شوند. به این ترتیب، مشارکت کاربران در فعالیت‌هایی که برای سازمان مهم است، پاداش می‌گیرد.
+Each Deed’s holder or renter can set and achieve fine-tuned organizational priorities by creating contribution programs for community members who earn engagement points that are Periodically converted into Meeds token (and - for DAOs - potentially another token), based on a predefined budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
 
-برای شروع، می توان از خدمات رایگان زیر ارائه شده توسط انجمن Meeds برای پاداش مشارکت استفاده کرد:
+To begin with, the following free services provided by the Meeds association can be used to reward engagement:
 
-- **موتور گیمیفیکیشن** - اقدامات خودکار در WoM دارای وزنی در امتیاز هستند که می‌توانند از طریق برنامه‌های تعامل قابل تنظیم با اولویت‌های Deed تنظیم شوند.
-- **چالش ها** - چالش های قابل تنظیم را می توان برای نمایش دستاوردها تنظیم کرد. چالش‌ها توسط یک نفر از پیش تعیین شده‌اند و می‌توانند آن را کامل کرده و توسط دیگری اعلام کنند. چالش‌ها در برنامه‌های تعامل قابل تنظیم، وزنی در امتیاز دارند.
-- **برنامه‌های مشارکت قابل تنظیم** - سازمان‌ها می‌توانند برنامه‌های مشارکت خود را مطابق با اهداف و اولویت‌های تجاری خود ایجاد کنند. برنامه ها به اقدامات خودکار درون سیستم مرتبط هستند و چالش ها را به صورت دستی تنظیم می کنند. هر برنامه دارای یک بودجه Meeds است. به طور دوره‌ای امتیازاتی که هر کاربر از طریق خودکار یا اقدامات اعلام شده در هر برنامه تعامل کسب می‌کند، بر اساس بودجه آن برنامه به Meeds تبدیل می‌شود.
-- **تقدیر** - کاربران می‌توانند به‌عنوان تشکر و به‌عنوان نشانه‌ای از تقدیر، به یکدیگر قدردانی کنند. از آنجایی که تحسین های موجود برای توزیع محدود است (مثلاً یک محدودیت دوره ای از پیش تعیین شده، 3 عدد در هفته)، نادر و ارزشمند هستند. تجلیل مانند اعمال، امتیاز دارد. به این ترتیب کارمندان برای پاداش دادن به همکاران خود توانمند می شوند.
-- ابزارهای **همکاری**، متصل به موتور پاداش - فضاهای کاری، ارتباطات ناهمزمان، ابزار مدیریت کار و یادداشت‌ها - افراد را قادر می‌سازد تا با هم در پروژه‌ها کار کنند.
-- **کیف پول** – به کاربران یک کیف پول امن با فناوری اتریوم برای ذخیره Meeds ارائه می شود. از طرف دیگر، برای کاربران پیشرفته، می توان از کیف پول Metamask استفاده کرد.
-- **فروشگاه** - فروشگاهی که می‌توان Meeds را با هدیه‌های ارائه شده توسط دارنده سند یا اجاره‌دهنده یا اکوسیستم Meeds مبادله کرد.
+- **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the organization’s priorities via customizable engagement programs.
+- **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
+- **Customizable engagement programs** - organizations can create their engagement programs to match their business goals and priorities. Programs are associated with automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatic or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
+- **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
+- **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
+- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
+- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
 - **Analytics** – to analyze and follow engagement within the Deed.
-- **کانکتورها**، به موتور پاداش وصل شده اند - کاربران از طریق اقدامات در نرم افزار دیگر - به عنوان مثال برای انجام کد در GitHub، امتیاز تعامل دریافت می کنند.
+- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
 
-برخی از ابزارها و خدمات فوق الذکر در حال حاضر غیرمتمرکز هستند، برخی دیگر غیرمتمرکز هستند. هدف نهایی ارائه کلیه خدمات به صورت غیرمتمرکز است که به تدریج و با تکامل فناوری اساسی این کار را انجام خواهیم داد.
+Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
 
-خدمات جدید را می توان از طریق API به موتور پاداش متصل کرد. مثال‌ها بی‌شماری هستند و می‌توانند تقریباً هر نرم‌افزار یا سرویسی را شامل شوند:
+New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
 
-- نرم افزار CRM – فروشندگان برای کار بر روی فرصت ها امتیاز مشارکت می گیرند.
-- نرم افزار حسابداری - حسابداران برای نگهداری دفاتر امتیاز مشارکت می گیرند.
-- ترمینال ساعت - کارگر کارخانه می تواند برای زمان کار کارخانه امتیاز بگیرد.
-- و غیره.
+- CRM software – salespeople would get engagement points for working on opportunities.
+- Accounting software – accountants would get engagement points for keeping books.
+- Clocking terminal – factory worker can get points for factory work time.
+- Etc.
 
-علاوه بر این، تعامل تولید شده از طریق رابط، در امتیاز مشارکت جهانی سازمان که عاملی برای توزیع میدز است، شرکت می‌کند. زیر. برای انجام این کار، اتصال دهنده باید توسط انجمن Meeds در لیست سفید قرار گیرد. انجمن اتصال دهنده را بررسی می کند، الگوریتم آن را تأیید می کند و مالکیت آن را در مقابل Meeds به دست می آورد. سپس بخشی از خدمات رایگان ارائه شده توسط انجمن می شود و در شاخص مشارکت جهانی گنجانده می شود. هر Deed دیگری می تواند از همان رابط و الگوریتم پاداش یکسان برای توسعه دهندگان خود استفاده کند.
+Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Hub can use the same connector and the same reward algorithm for its developers.
 
-دارنده سند یا اجاره‌کننده می‌تواند فروشگاه خود را با امتیازات خود غنی کند، به یک پیشنهاد هدیه آنلاین و غیره متصل شود. باز هم امکانات بی پایان است:
+The organization can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
 
-- دوره های آموزشی
-- عضویت در باشگاه
-- بسته های تعطیلات
-- ناهار با یک رهبر در سازمان
-- فضای اداری فیزیکی
-- و غیره.
+- Training courses
+- Gym memberships
+- Vacation packages
+- Lunch with a leader in the organization
+- Physical office space
+- Etc.
 
-فروشگاه از طریق استفاده از Needs عمل می کند به طوری که Need ها تا حدی به سند بازگردانده می شوند.
+The store functions through the use of Meeds so that Meeds are partially returned to the community.
 
-## 2.5. جوایز - Meeds و نشانه‌های دیگر
+## 2.5. Rewards – Meeds and other tokens
 
-WoM تعامل کاربران را با بازی سازی ابزارهای کار دیجیتالی و نسبت دادن امتیازها و Meeds در رابطه با تعامل کاری، نشانه گذاری می کند. خدمات متصل به ویژگی موتور تعامل و پاداش به هر کاربر، با توجه به سطح تعامل آنها و در راستای برنامه‌های تعامل هر Deed، به آنها اشاره می‌کند. در واقع، هر سند می‌تواند میزان امتیازهای داده شده برای هر نوع فعالیت را تنظیم کند. بنابراین، فشار دادن برخی از کدها در GitHub ممکن است برای یک فروشگاه فناوری اطلاعات 10 امتیاز داشته باشد، در حالی که یک آژانس دیجیتال ممکن است تنها 5 امتیاز را برای فشارهای GitHub نسبت دهد، اما 10 امتیاز را برای ریتوییت ارائه دهد.
+The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Hub's engagement programs. Indeed, each community can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
 
-به صورت دوره‌ای، موتور پاداش‌دهنده، نقاط تعامل را با توجه به بودجه‌ها و سایر قوانین توزیع به Meeds تبدیل می‌کند و در نهایت از طریق کیف پول به کاربران پاداش می‌دهد. سند برای توزیع Meeds مورد نیاز نیست و می‌تواند از سیستم تعامل برای فعال کردن شکل دیگری از برنامه جبران خسارت استفاده کند. با این حال، توزیع Meeds ظرفیت ضرب آن را بهبود می بخشد.
+Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Hub is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
 
-علاوه بر این، سند لزوماً نیازی به به دست آوردن Meeds برای توزیع آنها و تقویت برنامه های تعامل خود ندارد، زیرا Meeds را از مدل "mintium" که در زیر توضیح داده شده است، دریافت می کند.
+Moreover, the community does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
 
-علاوه بر Meeds، توزیع توکن‌های دیگر (مثلاً توکن‌های خود DAO) بر اساس همان مکانیسم تعامل نیز امکان‌پذیر خواهد بود. در آن صورت، توزیع مشمول 5% کارمزد تراکنش (در توکن DAO) برای انجمن Meeds خواهد بود.
+In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
 
 ## 2.6. مدل "مینتیوم" - مشارکت کاری را نشانه گذاری کنید
 
-با درگیر کردن کاربران خود در WoM، Deeds از طریق یک مدل ابتکاری مینتیوم جبران می شود.
+By engaging their users in the WoM, communities get compensated through an innovative mintium model.
 
-امتیازهای تعامل که توسط کاربران Deeds به دست می‌آید، در شاخص مشارکت جهانی که توسط انجمن Meeds محاسبه می‌شود، شرکت می‌کنند. شاخص از یک اصل برای همه Deeds استفاده می کند. حتی اگر سند می تواند تخصیص امتیازها را برای ارتقای یک اقدام نسبت به دیگری تغییر دهد، این تغییرات در محاسبه شاخص جهانی لحاظ نمی شود.
+Engagement points, gained by the Hubs’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Hubs. Even though the community can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
 
-هر هفته، مقدار معینی از Meeds به ضرب‌کاری جهانی WoM اختصاص می‌یابد. این به صورت هفتگی، به نسبت، در میان اسناد شرکت‌کننده محاسبه می‌شود. برخی از Deed ها بسته به نوعشان تقویت بیشتری دریافت می کنند. اعمالی که در طول هفته حقوق خود را مطالبه می کنند، آنها را دریافت می کنند. Meeds بی ادعا به مبلغ توزیع جهانی هفته بعد اضافه می شود.
+هر هفته، مقدار معینی از Meeds به ضرب‌کاری جهانی WoM اختصاص می‌یابد. It’s computed weekly, pro-rata, among the participating Hubs. Some Hubs get an additional boost depending on the type of Deed they use. The Hubs that claim their Meeds over the week, receive them. Meeds بی ادعا به مبلغ توزیع جهانی هفته بعد اضافه می شود.
 
 امتیاز تعامل _S_ یک سند تابعی از تعامل، تعداد کاربران درگیر و توزیع است:
 
@@ -94,19 +97,19 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 جایی که :
 
-- $A$ = _فعالیت_ - تعداد کل اقدامات جمع‌آوری شده توسط کاربران در طی هفته. (در سطح هر عمل، هر عمل به نقاط مشارکت تبدیل می‌شود که وزن برخی از اعمال بیشتر از سایرین است. در سطح شاخص، تمام اقدامات خطی می شوند).
+- $A$ = _Activity_ - total number of actions accumulated by users within the Hub over the week. (On a Hub, each action is converted into engagement points, some actions weighting more than others. در سطح شاخص، تمام اقدامات خطی می شوند).
 - $U$ = _کاربران درگیر_ - کاربرانی که در طول هفته، حداقل با یک اقدام به امتیازها کمک کردند.
-- $E_d$ = _نرخ مشارکت_ - اقدامات به ازای هر کاربر ($A/U$)
-- $E_w$ = _میانگین نرخ تعامل_ همه Deeds فعال در WoM.
-- $D_r$ = _نرخ توزیع_ - اگر سندی Meeds ضرب شده را برای دوره قبل دریافت کرده باشد، درصد Meeds که بین کاربرانش توزیع شده است. اگر توزیع به موقع به تاخیر بیفتد، درصد می تواند بالای 100 باشد.
-- $D_s$ = _پرداخت توزیع_ - اگر سندی Meeds را برای دوره قبل دریافت کرده باشد، درصد کاربرانی که Meeds را در مجموع کاربران دریافت کرده‌اند.
+- $E_d$ = _Engagement rate of the hub_ - actions per user ($A/U$)
+- $E_w$ = _Average engagement rate_ of all active Hubs in the WoM.
+- $D_r$ = _Distribution rate_ - if a Hub received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. اگر توزیع به موقع به تاخیر بیفتد، درصد می تواند بالای 100 باشد.
+- $D_s$ =  _Distribution spread_ - if a Hub received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
 - $M$ = _قدرت برش_ سند همانطور که در 2.3 تعریف شده است
 
 
-شاخص تعامل جهانی که برای توزیع Meeds ضرب شده در بین Deeds استفاده می شود، مجموع امتیازات مشارکت Deeds برای هفته است.
+The global engagement index used to distribute minted Meeds among the Hubs is the sum of all Hubs’ engagement scores for the week.
 
 
-فرمول بالا ساده است و برای حمایت از اعمال طراحی شده است:
+The formula above is simple and designed to favor hubs :
 
 - با تعداد زیادی از کاربران درگیر (درگیری)
 - که کل درآمد حاصل از ضربات (نرخ توزیع) را با کاربران خود به طور عادلانه تقسیم می کنند (پرداخت توزیع).
@@ -116,9 +119,9 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 - سازمان‌هایی که بیشترین مشارکت را دارند، صرف‌نظر از اندازه آنها (نرخ مشارکت در رابطه با WoM)
 - اعمال کمیاب تر
 
-> انجمن Meeds این حق را برای خود محفوظ می‌دارد که در صورت نیاز، فرمول را تغییر دهد - به عنوان مثال، در صورت بروز موارد استفاده خاص. این انجمن همچنین می‌تواند هر سندی را که فرمول را به نفع منحصر به فرد آن ربوده باشد، در لیست سیاه قرار دهد.
+> انجمن Meeds این حق را برای خود محفوظ می‌دارد که در صورت نیاز، فرمول را تغییر دهد - به عنوان مثال، در صورت بروز موارد استفاده خاص. The association can also blacklist any Hub that hijacks the formula to its unique benefit.
 
-از آنجایی که Deeds با Meeds پاداش می‌گیرد و انگیزه می‌شود تا آنها را به عنوان پاداش بین کاربرانشان در برابر مشارکت آن‌ها توزیع کنند - منافع هم Deeds و هم کاربران آنها در یک چرخه اشتراک درآمد با فضیلت قرار می‌گیرند. بنابراین، WoM یک مدل کاری جدید ارائه می دهد که رابطه کارفرما/کارمند را به عنوان یک مشارکت دوباره شکل می دهد. بنابراین، WoM یک مدل کاری جدید ارائه می دهد که رابطه کارفرما/کارمند را به عنوان یک مشارکت دوباره شکل می دهد.
+As the Hubs are rewarded with Meeds and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the communities and their users are aligned in the same virtuous revenue sharing cycle. بنابراین، WoM یک مدل کاری جدید ارائه می دهد که رابطه کارفرما/کارمند را به عنوان یک مشارکت دوباره شکل می دهد. بنابراین، WoM یک مدل کاری جدید ارائه می دهد که رابطه کارفرما/کارمند را به عنوان یک مشارکت دوباره شکل می دهد.
 
 مدل "مینتیوم" اولین نوع از آن است - از مدل سنتی فریمیوم فراتر می رود، زیرا نه تنها استفاده از خدمات رایگان است، بلکه هم سازمان ها و هم کاربران آنها برای استفاده از آنها پاداش دریافت می کنند. مدل "مینتیوم" اولین نوع از آن است - از مدل سنتی فریمیوم فراتر می رود، زیرا نه تنها استفاده از خدمات رایگان است، بلکه هم سازمان ها و هم کاربران آنها برای استفاده از آنها پاداش دریافت می کنند.
 
@@ -138,9 +141,9 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 | 6: Kushor   | 10 000 000  | اشموم + 64 ماه   | 6 000 000  | 3 000 000     | 999 998   | 2            |
 | 7: Hammon   | 100 000 000 | کوشور + 128 ماه  | 60 000 000 | 30 000 000    | 9 999 999 | 1            |
 
-شهر راهی برای گرد هم آمدن اعمال و ایجاد جامعه است. و در نتیجه، هویت خاصی را به دست آورید که با آن جامعه مرتبط است. این همچنین راهی برای ارائه ارزش اضافی به کاربران خود است - ارزشی که فراتر از توانایی های یک Deed یا ارزش ایجاد شده از طریق همکاری بین Deed است.
+A city is a way for the communities to come together and create a larger community. و در نتیجه، هویت خاصی را به دست آورید که با آن جامعه مرتبط است. It is also a way to provide additional value to its users - value that would go beyond one community’s capabilities or value created through cooperation between the communities.
 
-هر شهر حکومت خود را دارد و DAO مخصوص به خود را اداره می کند که در آن صاحبان اسناد شهر می توانند شورای شهر خود را انتخاب کنند، رای دهند و قوانین عملیاتی خود را ایجاد کنند، خدمات جدید اضافه کنند و شهر خود را به روشی که می خواهند شکل دهند و به گونه ای که میزان شهر را افزایش دهند. جذابیت شهر و ارزش اعمال مربوط به آن. هر شهر حکومت خود را دارد و DAO مخصوص به خود را اداره می کند که در آن صاحبان اسناد شهر می توانند شورای شهر خود را انتخاب کنند، رای دهند و قوانین عملیاتی خود را ایجاد کنند، خدمات جدید اضافه کنند و شهر خود را به روشی که می خواهند شکل دهند و به گونه ای که میزان شهر را افزایش دهند. جذابیت شهر و ارزش اعمال مربوط به آن.
+Each city has its own govenance and operates its own DAO where the city’s Deed owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
 
 به عنوان مثال، آنها می توانند یک نمایش دیجیتالی از شهر خود، همتایان فیزیکی مرتبط با شهر خود (به عنوان مثال اتاق های ملاقات در فضاهای فیزیکی همکاری) اضافه کنند، خدمات غذایی با قدرت Meeds، خدمات تعطیلات و غیره را اضافه کنند...
 
