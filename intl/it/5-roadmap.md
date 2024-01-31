@@ -1,14 +1,14 @@
-# 5. The WoM for ALL – sintesi della visione e tappe fondamentali
+# 5. WoM for ALL – sintesi della visione e tappe
 
-## 5.1. Obiettivo finale - web decentralizzato per tutti
+## 5.1. Obiettivo finale - Web decentralizzato per tutti
 
-Alla fine, il WoM è un mondo web decentrato per tutti - ogni persona e ogni organizzazione.
+Alla fine, il WoM è un mondo web decentrato per tutti – ogni persona e tutte le organizzazioni.
 
 Sarà popolato dagli utenti che agiscono attraverso le loro identità digitali **Xeeds** e accedono al mondo attraverso i loro metamask, per gli esperti di criptovalute o tramite login/password per i principianti. Le persone potrebbero allocare il loro impegno e riceverebbero premiate in modo equo, trasparente e decentralizzato. Avrebbero accesso al mondo decentralizzato e al mondo crittografico di domani in modo semplice e familiare - avrebbero strumenti semplici per utilizzare i loro gettoni nella loro vita o investirli per il loro futuro.
 
-Organizzazioni - **Deeds** sarebbe in grado di reperire talenti, sfogliando la WoM, per trovare le giuste competenze comprovate. Verrebbero ricompensati per la loro partecipazione al WoM, coniando token attraverso il coinvolgimento dei loro utenti (modello mintium). Ma soprattutto, beneficerebbero di un maggiore coinvolgimento e di una maggiore fedeltà da parte dei loro utenti.
+Le organizzazioni sarebbero in grado di generare talenti, navigando attraverso il WoM, per le competenze comprovate giuste. Verrebbero ricompensati per la loro partecipazione al WoM, coniando token attraverso il coinvolgimento dei loro utenti (modello mintium). Ma soprattutto, beneficerebbero di un maggiore coinvolgimento e di una maggiore fedeltà da parte dei loro utenti.
 
-La WoM avrebbe la sua propria valuta **Meeds** - sarebbe lì per spendere nei negozi, convertire in un'altra valuta, investire per un ritorno sull'investimento, affittare o acquistare ecc. La WoM faciliterebbe anche la distribuzione di altri gettoni e parteciperebbe all'ecosistema crittografico complessivo.
+Il WoM avrebbe la propria valuta **MEED** – che sarebbe lì da spendere nei negozi, convertire in un'altra valuta, investire per un rendimento sul capitale investito, locazione o acquisto, ecc. La WoM faciliterebbe anche la distribuzione di altri gettoni e parteciperebbe all'ecosistema crittografico complessivo.
 
 Poiché un'immagine vale più di mille parole, ecco un diagramma che descrive i flussi di WoM e Meeds
 
@@ -22,7 +22,7 @@ Ovviamente, i primi adottanti avrebbero notevoli vantaggi rispetto ai tardivi.
 
 In particolare, la WoM premia l'investimento a lungo termine nel versetto, ossia il riscatto della proprietà (Deeds). Il proprietario originale dell'Atto viene compensato attraverso il conio di impegni (uso attivo), attraverso il reddito passivo (affitto) e riceve un 1% a vita su qualsiasi transazione di vendita dell'Atto (a ogni cambio di proprietà, il riscattatore originale riceve una commissione sulla transazione).
 
-Credendo nel progetto, partecipando ai pool di liquidità, puntando i Meed, riscattandoli con i Deed... i primi investitori di tutte le dimensioni avrebbero guadagnato altri gettoni. Otterrebbero anche i primi diritti di voto e contribuirebbero a plasmare il WoM.
+By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. Otterrebbero anche i primi diritti di voto e contribuirebbero a plasmare il WoM.
 
 Le organizzazioni che acquistano, ma soprattutto utilizzano i Deeds per coinvolgere e premiare i loro dipendenti verrebbero compensate con Meeds coniati. Quanto più leale sarà il loro gioco, tanto più otterranno. Gli adottanti più precoci sarebbero associati alle prime città storiche e sarebbero identificati come i costruttori in seguito.
 
@@ -38,17 +38,17 @@ Il diagramma seguente rappresenta un esempio della strategia d'investimento di M
 
 ## 5.3. Il lancio
 
-La data di lancio ufficiale è fissata per il **1 maggio 2022** - la Giornata Internazionale dei Lavoratori, celebrata in molti paesi.
+The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
 
-A quel punto, il gettone Meed esiste già. È possibile acquistarlo e i pool di liquidità sono aperti per la partecipazione, sui network Polygon e Ethereum.
+At that time, the Meed token already exists. È possibile acquistarlo e i pool di liquidità sono aperti per la partecipazione, sui network Polygon e Ethereum.
 
 Tre membri dell'associazione Meeds utilizzano il sistema internamente per coinvolgere e premiare i loro utenti e migliorare il software Meeds.
 
 L'app degli investitori è disponibile su Ethereum Mainnet. Al momento del lancio, comprende la posta in gioco, le ricompense di liquidità, l'accumulo di punti e il rimborso di azioni.
 
-La comunità dei costruttori è attiva e funzionante sul software Meeds, aperta a chiunque voglia unirsi, testare e partecipare. È possibile effettuare il login con Metamask.
+The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. È possibile effettuare il login con Metamask.
 
-Questo documento è stato pubblicato il giorno del lancio. Dopo il lancio, il gettone sarà distribuito a molte persone della comunità crittografica.
+This paper was published on the launch day. Dopo il lancio, il gettone sarà distribuito a molte persone della comunità crittografica.
 
 ## 5.4. La comunità dei costruttori
 

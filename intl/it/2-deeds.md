@@ -1,21 +1,24 @@
 
-# 2. Atti NFT - Organizzazioni WoM
+# 2. Deeds NFT - WoM Organizations
 
-## 2.1. NFT - Deeds definito
+## 2.1. NFT – Deeds defined
 
-Un token non fungibile (NFT) è un token unico che rappresenta un bene. Nel WoM, l'atto viene utilizzato come titolo di proprietà. Ogni atto dà al suo proprietario il diritto di accedere a diversi servizi, come ad esempio l'accesso a un ufficio digitale, gestito dal software Meeds, e il diritto di coniare Meeds.
 
-Il WoM accoglie tutti i tipi di organizzazioni: DAO, aziende tradizionali, associazioni, think tank, partnership, compagnie teatrali, gruppi di progetto, scuole, ecc. The Deed rappresenta la loro esistenza digitale nel WoM.
+ NFTs (Non-Fungible Tokens) can be compared to deeds in the real world. Just as deeds signify ownership of a tangible property, NFTs provide proof of ownership for digital assets. This property right is registered and maintained on a blockchain, thus, assuring that the asset is unique and can't be replicated.
+
+ In the World of Meeds (WoM), a Deed is used as a core value of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a community hub, some hidden dynamic tools powered by the Meeds software and Mintium rewards (see 2.6).
+
+ The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital presence in the WoM.
 
 ## 2.2. Fornitura di atti
 
 Il WoM fornirà in definitiva una quantità limitata di Atti. Ogni Atto prevede un numero massimo predefinito di utenti e offre una capacità di Meeds ricompensante (Minting Power). Il termine "utente" designa qui e in seguito qualsiasi tipo di dipendente, lavoratore, libero professionista, volontario ecc.
 
-Esistono quattro tipi di Atti, ognuno dei quali fornisce capacità diverse in termini di numero di utenti, diritti di voto in una città (vedi. 2.7) o potere di conio dei Meeds; il più raro è il più potente:
+There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
 
 | **Tipo di atto** | **Utenti massimi** | **Potere di conio** | **Scarsità** | **Diritto di voto in città** |
 | ---------------- | ------------------ | ------------------- | ------------ | ---------------------------- |
-| Comune           | 100                | 1                   | ~ 90%        | 1                            |
+| Comune           | 100                | 1                   | ~ 90%        | uno                          |
 | Non comune       | 1000               | 1.1                 | ~ 9%         | 10                           |
 | Raro             | 10 000             | 1.3                 | ~ 1%         | 100                          |
 | Leggendario      | illimitato         | 2                   | < 0.1 %      | 1000                         |
@@ -24,69 +27,69 @@ Esistono quattro tipi di Atti, ognuno dei quali fornisce capacità diverse in te
 
 Un atto di proprietà conferisce al proprietario il diritto di utilizzarlo, affittarlo o venderlo.
 
-- USO - I proprietari dell'Atto possono utilizzarlo direttamente per la loro organizzazione, fornendo servizi ai suoi utenti.
-- AFFITTO - I proprietari dell'Atto possono anche affittare l'Atto a un'altra organizzazione per ottenere un reddito passivo.
-- VENDERE - Un atto può essere venduto su un mercato secondario come [OpenSea](https://opensea.io).
+- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
+- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
+- SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
 
-Essendo un detentore o affittuario attivo di un Atto, l'organizzazione viene ricompensata con i Meeds, attraverso un modello innovativo di "mintium" descritto di seguito (parte 2.6).
+Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
 
-## 2.4. Servizi di rogito, motore di fidanzamento/ricompensa
+## 2.4. Deeds services, engagement/rewards engine
 
-In un mercato sempre più competitivo, per attrarre e trattenere i talenti e massimizzare il loro contributo, le organizzazioni devono incentivare i propri utenti al di là del semplice compenso. Il WoM fornisce un quadro innovativo per raggiungere questo obiettivo, tokenizing l'impegno lavorativo.
+In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
 
-Il titolare o l'affittuario di ogni atto può fornire strumenti e servizi ai suoi utenti, che guadagnano punti di coinvolgimento che possono essere adattati alle priorità dell'atto. Periodicamente, i punti vengono convertiti in Meeds (e - per i DAO - potenzialmente in un altro token), in base al budget stabilito dell'Atto. In questo modo, l'impegno degli utenti in attività importanti per l'organizzazione viene premiato.
+Each Deed’s holder or renter can set and achieve fine-tuned organizational priorities by creating contribution programs for community members who earn engagement points that are Periodically converted into Meeds token (and - for DAOs - potentially another token), based on a predefined budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
 
-Per cominciare, i seguenti servizi gratuiti forniti dall'associazione Meeds possono essere utilizzati per premiare l'impegno:
+To begin with, the following free services provided by the Meeds association can be used to reward engagement:
 
-- **Motore di gamification** - le azioni automatiche all'interno della WoM hanno un peso in punti, che può essere regolato in base alle priorità dell'Atto tramite programmi di ingaggio personalizzabili.
-- **Sfide** - è possibile impostare sfide personalizzabili per rappresentare i risultati raggiunti. Le sfide sono preimpostate da una persona e possono essere riempite e annunciate come tali da un'altra. Le sfide hanno un peso in punti, nell'ambito di programmi di coinvolgimento personalizzabili.
-- **Programmi di coinvolgimento personalizzabili** - le organizzazioni possono creare i propri programmi di coinvolgimento in base agli obiettivi e alle priorità aziendali. I programmi sono associati ad azioni automatiche all'interno del sistema e a sfide impostate manualmente. Ogni programma ha un budget impostato Meeds. I punti guadagnati periodicamente da ogni utente attraverso azioni automatiche o annunciate in ogni programma di coinvolgimento vengono convertiti in Meed, in base al budget di quel programma.
-- **Kudos** - Il kudos possono essere assegnati dagli utenti gli uni agli altri, come ringraziamento e segno di riconoscimento. Poiché i riconoscimenti disponibili per la distribuzione sono limitati (un limite periodico prestabilito, ad esempio, 3 a settimana), sono rari e preziosi. Come le azioni, anche i riconoscimenti portano punti. In questo modo i dipendenti sono autorizzati a premiare i propri colleghi.
-- **Strumenti di collaborazione**, inseriti nel motore di ricompensa - spazi di lavoro, comunicazione asincrona, strumento di gestione delle attività e note - consentono alle persone di lavorare insieme sui progetti.
-- **Portafoglio** - gli utenti hanno a disposizione un portafoglio sicuro con tecnologia Ethereum per conservare i loro Meeds. In alternativa, per gli utenti più esperti, è possibile utilizzare un portafoglio Metamask.
-- **Negozio** - un negozio in cui i Meeds possono essere scambiati con vantaggi forniti dal titolare o dal locatario dell'Atto o dall'ecosistema Meeds.
-- **Analitica** - per analizzare e seguire l'impegno all'interno dell'Atto.
-- **Connettori**, collegati al motore di ricompensa: gli utenti ottengono punti di coinvolgimento tramite azioni in un altro software, ad esempio per il commit di codice in GitHub.
+- **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the organization’s priorities via customizable engagement programs.
+- **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
+- **Customizable engagement programs** - organizations can create their engagement programs to match their business goals and priorities. Programs are associated with automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatic or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
+- **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
+- **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
+- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
+- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
+- **Analytics** – to analyze and follow engagement within the Deed.
+- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
 
-Alcuni dei suddetti strumenti e servizi sono già decentralizzati, altri no. L'obiettivo finale è quello di fornire tutti i servizi in modo decentralizzato, che faremo gradualmente man mano che la tecnologia di base evolve.
+Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
 
-Nuovi servizi possono essere inseriti nel motore di ricompensa attraverso le API. Gli esempi sono innumerevoli e possono includere praticamente qualsiasi software o servizio:
+New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
 
-- Software CRM: i venditori otterrebbero punti di impegno per aver lavorato sulle opportunità.
-- Software di contabilità - i contabili otterrebbero punti di ingaggio per la tenuta dei libri contabili.
-- Terminale di blocco - l'operaio della fabbrica può ottenere punti per il tempo di lavoro in fabbrica.
-- Ecc.
+- CRM software – salespeople would get engagement points for working on opportunities.
+- Accounting software – accountants would get engagement points for keeping books.
+- Clocking terminal – factory worker can get points for factory work time.
+- Etc.
 
-Inoltre, l'impegno prodotto tramite il connettore partecipa al punteggio di impegno globale dell'organizzazione, che è un fattore della distribuzione del conio di Meeds, descritto di seguito. A tal fine, il connettore deve essere inserito nella whitelist dell'Associazione Meeds. L'associazione esamina il connettore, ne approva l'algoritmo e ne acquisisce la proprietà contro Meeds. Diventa quindi parte dei servizi gratuiti forniti dall'associazione e viene inserito nell'indice di coinvolgimento globale. Qualsiasi altro Atto può utilizzare lo stesso connettore e lo stesso algoritmo di ricompensa per i suoi sviluppatori.
+Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Hub can use the same connector and the same reward algorithm for its developers.
 
-Il titolare o l'affittuario dell'Atto può arricchire il proprio negozio con i propri vantaggi, collegarsi a un'offerta di vantaggi online, ecc. Ancora una volta le possibilità sono infinite:
+The organization can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
 
-- Corsi di formazione
-- Iscrizioni in palestra
-- Pacchetti vacanza
-- Pranzo con un leader dell'organizzazione
-- Spazio fisico dell'ufficio
-- Ecc.
+- Training courses
+- Gym memberships
+- Vacation packages
+- Lunch with a leader in the organization
+- Physical office space
+- Etc.
 
-Il negozio funziona attraverso l'uso dei Meeds, in modo che i Meeds siano parzialmente restituiti al Atto.
+The store functions through the use of Meeds so that Meeds are partially returned to the community.
 
-## 2.5. Ricompense - Meeds e altri gettoni
+## 2.5. Rewards – Meeds and other tokens
 
-Il WoM tokenize gli utenti coinvolgono, giocando strumenti di lavoro digitali, e attribuendo punti e Meeds in relazione all'impegno di lavoro. I servizi collegati al motore di coinvolgimento e ricompensa assegnano punti a ogni utente, in base al livello di coinvolgimento e in linea con i programmi di coinvolgimento di ogni azione. Infatti, ogni azione può affinare la quantità di punti assegnati per ogni tipo di attività. Di conseguenza, inviare del codice su GitHub può valere 10 punti per un'azienda IT, mentre un'agenzia digitale potrebbe assegnare solo 5 punti per le push su GitHub ma offrirebbe 10 punti per i retweet.
+The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Hub's engagement programs. Indeed, each community can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
 
-Periodicamente, il motore di ricompensa converte i punti di coinvolgimento in Meeds in base ai budget e ad altre regole di distribuzione e, infine, premia gli utenti attraverso i loro portafogli. L'azione non è obbligata a distribuire Meeds e può utilizzare il sistema di coinvolgimento per attivare altri programmi di compensazione. Tuttavia, la distribuzione di Meeds migliorerà la sua capacità di coniazione.
+Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Hub is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
 
-Inoltre, l'azione non ha necessariamente bisogno di acquisire Meeds per distribuirli e alimentare i suoi programmi di coinvolgimento, poiché otterrà Meeds dal modello "mintium", descritto di seguito.
+Moreover, the community does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
 
-Oltre ai Meeds, sarà anche possibile distribuire altri token (ad esempio i token della DAO stessa) sulla base del medesimo meccanismo di coinvolgimento. In quel caso, la distribuzione sarà soggetta a una commissione di transazione del 5% (in token DAO) per l'Associazione Meeds.
+In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
 
 ## 2.6. Il modello "mintium" - tokenizzare il coinvolgimento lavorativo
 
-Coinvolgendo i loro utenti nella WoM, le Azioni vengono compensate attraverso un innovativo modello di mintium.
+Coinvolgendo i propri utenti nel WoM, le comunità vengono ricompensate attraverso un modello mintium innovativo.
 
-I punti di coinvolgimento, guadagnati dagli utenti di Deeds, partecipano all'indice di coinvolgimento globale, calcolato dall'Associazione Meeds. L'indice utilizza lo stesso principio per tutti gli atti. Anche se il Deed può modificare l'allocazione dei punti per promuovere un'azione rispetto a un'altra, queste modifiche non saranno considerate nella computazione dell'indice globale.
+I punti di coinvolgimento, guadagnati dagli utenti degli Centro, partecipano all’indice di coinvolgimento globale, calcolato dall’Associazione Meeds. L'indice utilizza lo stesso principio per tutti gli Mozzi. Anche se la comunità può modificare l’assegnazione dei punti per promuovere un’azione rispetto a un’altra, tali cambiamenti non verranno presi in considerazione nel calcolo dell’indice globale.
 
-Ogni settimana, una certa quantità di Meeds viene assegnata al conio dell'impegno globale del WoM. Viene calcolato settimanalmente, pro-rata, tra gli Atti partecipanti. Alcune azioni ricevono una spinta aggiuntiva a seconda del loro tipo. Le Azioni che reclamano i loro Meeds durante la settimana, li ricevono. I Meeds non reclamati vengono aggiunti all'importo della distribuzione globale della settimana successiva.
+Ogni settimana, una certa quantità di Meeds viene assegnata al conio dell'impegno globale del WoM. Viene calcolato settimanalmente, pro rata, tra gli Mozzi partecipanti. Alcuni Mozzi ottengono un potenziamento aggiuntivo a seconda del tipo di Opera che utilizzano. Gli Centro che richiedono i loro Meed durante la settimana, li ricevono. I Meeds non reclamati vengono aggiunti all'importo della distribuzione globale della settimana successiva.
 
 Il punteggio di coinvolgimento _S_ di un'azione è una funzione del coinvolgimento, del numero di utenti coinvolti e della distribuzione:
 
@@ -94,19 +97,19 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Dove :
 
-- $A$ = _Attività_ - numero totale di azioni accumulate dagli utenti all'interno dell'Atto nel corso della settimana. (Al livello di ogni Atto, ogni azione viene convertita in punti impegno, e alcune azioni hanno un peso maggiore di altre. A livello di indice, tutte le azioni sono linearizzate).
+- $A$ = _Attività_: numero totale di azioni accumulate dagli utenti all'interno dell'Centro durante la settimana. (On a Hub, each action is converted into engagement points, some actions weighting more than others. A livello di indice, tutte le azioni sono linearizzate).
 - $U$ = _Utenti coinvolti_ - utenti che hanno contribuito ai punti durante la settimana, con almeno un'azione.
-- $E_d$ = _Tasso di coinvolgimento dell'azione_ - azioni per utente ($A/U$)
-- $E_w$ = _Tasso medio d'impregno_ di tutti gli Atti attivi nella WoM.
-- $D_r$ = _Tasso di distribuzione_ - se un Atto ha ricevuto Meeds coniati nel periodo precedente, la % dei Meeds distribuiti ai suoi utenti. La percentuale può essere superiore a 100 se la distribuzione è ritardata nel tempo.
-- $D_s$ = _Spread di distribuzione_ - se un Atto ha ricevuto Meeds coniati nel periodo precedente, la % degli utenti che hanno ricevuto Meeds sul totale degli utenti.
+- $E_d$ = _Engagement rate of the hub_ - actions per user ($A/U$)
+- $E_w$ = _Tasso di coinvolgimento medio_ di tutti gli Mozzi attivi nel WoM.
+- $D_r$ = _Tasso di distribuzione_ - se un Centro ha ricevuto Meed coniati per il periodo precedente, la percentuale di Meed che è stata distribuita ai suoi utenti. La percentuale può essere superiore a 100 se la distribuzione è ritardata nel tempo.
+- $D_s$ = _Distribuzione_ - se un Centro ha ricevuto Meed coniati per il periodo precedente, la percentuale di utenti che hanno ricevuto Meed nel pool totale di utenti.
 - $M$ = _Minting Power_ dell'Atto come definito in 2.3
 
 
-L'indice globale di coinvolgimento utilizzato per distribuire i Meeds coniati tra le azioni è la somma dei punteggi di coinvolgimento di tutte le azioni per la settimana.
+L’indice di coinvolgimento globale utilizzato per distribuire i Meed coniati tra gli Hub è la somma dei punteggi di coinvolgimento di tutti gli Centro per la settimana.
 
 
-La formula sopra è semplice e progettata per favorire le azioni:
+La formula sopra è semplice e pensata per favorire gli mozzi:
 
 - con molti utenti impregnati (impregno)
 - che dividono equamente la totalità dei proventi del conio (tasso di distribuzione) con i propri utenti (spread di distribuzione).
@@ -116,9 +119,9 @@ Inoltre, sono presenti booster per:
 - organizzazioni con il più alto coinvolgimento, indipendentemente dalle loro dimensioni (tasso di coinvolgimento in relazione alla WoM)
 - atti di scarcerazione
 
-> L'Associazione Meeds si riserva il diritto di modificare la formula se necessario - ad esempio in caso di casi d'uso specifici. L'associazione può anche inserire in lista nera qualsiasi azione che sfrutta la formula a proprio vantaggio unico.
+> L'Associazione Meeds si riserva il diritto di modificare la formula se necessario - ad esempio in caso di casi d'uso specifici. L’associazione può anche inserire nella lista nera qualsiasi Hub che dirotta la formula a suo esclusivo vantaggio.
 
-Poiché le azioni vengono premiate con i Meeds e incentivate a redistribuirli come premi ai loro utenti in funzione del loro coinvolgimento, gli interessi sia delle azioni che dei loro utenti sono allineati nello stesso ciclo virtuoso di condivisione delle entrate. Pertanto, la WoM offre un nuovo modello di lavoro che ridefinisce il rapporto datore di lavoro/dipendente come partnership.
+Poiché gli Centro vengono premiati con Meeds e incentivati ​​a ridistribuirli come ricompensa ai propri utenti in cambio del loro impegno, l’interesse sia delle comunità che dei loro utenti sono allineati nello stesso ciclo virtuoso di condivisione delle entrate. Pertanto, la WoM offre un nuovo modello di lavoro che ridefinisce il rapporto datore di lavoro/dipendente come partnership.
 
 Il modello "mintium" è il primo del suo genere: va oltre il tradizionale modello freemium, poiché non solo i servizi sono gratuiti da utilizzare, ma sia le organizzazioni che i loro utenti vengono premiati per utilizzarli.
 
@@ -138,9 +141,9 @@ Una città sarà considerata completa quando tutti i suoi Atti saranno stati con
 | 6: Kushor            | 10 000 000  | Eshmum + 64 mesi   | 6 000 000  | 3 000 000      | 999 998   | 2               |
 | 7: Hammon            | 100 000 000 | Kushor + 128 mesi  | 60 000 000 | 30 000 000     | 9 999 999 | 1               |
 
-Una città è un modo per i fatti di riunirsi e creare una comunità. E di conseguenza, acquisire una certa identità, associata a quella comunità. È anche un modo per fornire valore aggiuntivo ai propri utenti - valore che va oltre le capacità di una singola azione o valore creato attraverso la cooperazione tra le azioni.
+Una città è un modo per le comunità di riunirsi e creare una comunità più ampia. E di conseguenza, acquisire una certa identità, associata a quella comunità. È anche un modo per fornire valore aggiuntivo ai propri utenti: valore che andrebbe oltre le capacità di una comunità o valore creato attraverso la cooperazione tra le comunità.
 
-Ogni città ha la sua propria governance e gestisce la propria DAO in cui i proprietari delle azioni della città possono eleggere il loro consiglio comunale, votare e stabilire le proprie regole operative, aggiungere nuovi servizi e plasmare la loro città come desiderano e aumentare l'attrattiva della città e il valore delle azioni ad essa collegate.
+Ogni città ha la propria governance e gestisce la propria DAO in cui i proprietari dell'Atto della città possono eleggere il proprio consiglio comunale, votare e stabilire le proprie regole operative, aggiungere nuovi servizi e modellare la propria città nel modo che desiderano e in modo da aumentare il potere della città. attrattiva e il valore degli atti ad esso collegati.
 
 Ad esempio, potrebbero aggiungere una rappresentazione digitale della loro città, controparti fisiche associate alla loro città (sale riunioni in spazi fisici co-lavoro fisici, per esempio), aggiungere servizi alimentari alimentati da Meeds, servizi vacanze, ecc...
 
