@@ -1,14 +1,14 @@
 
-# 1. ミーズ協会とは？
+# 1. Who we are – the Meeds Association
 
-MEEDS協会 は、自由なデジタル世界、つまり一握りの中央集権型メガ企業によって制御されない分散型世界という共通のビジョンに基づいて、いくつかのオープン ソース ソフトウェア (OSS) コミュニティによって立ち上げられた非営利組織です。
+The Meeds association is a non-profit organization originally launched by several Open Source Software (OSS) communities around the common vision of a free digital world – a decentralized world that would not be controlled by a handful of centralized mega-corporations.
 
-Meeds協会は、スイスの法律に基づく非営利団体として、ジュネーブで法人化されています。
+The Meeds association is incorporated in Geneva, as a non-profit association under the Swiss law.
 
-同協会は、ユーティリティトークンとして認知されているERC20トークンであるMeeds通貨の発行を規制しています。
+The association regulates the issuance of the Meeds currency, an ERC20 token, recognized as a utility token.
 
-WoM と Meeds を構築するために、協会は Ethereum プラットフォームとそのエコシステムを活用し、すべてのユーザーがフレンドリーで費用対効果の高い方法でアクセスできるようにします。
+To build the WoM and Meeds, the association leverages the Ethereum platform and its ecosystem, making it accessible in a friendly and cost-effective way to all users.
 
-この協会は、Decentralized Autonomous Organization (DAO) として構成されており、ガバナンス トークン所有者は、毎年理事会の選出など、すべての重要な組織変更について投票します。
+The association is structured as a Decentralized Autonomous Organization (DAO) where the governance token holders vote on all important organizational changes such as electing the board every year.
 
-Meeds トークン管理に加えて、この協会は Meeds ソフトウェア [github.com/meeds-io](https://github.com/meeds-io) の知的財産 (IP) を保持しており、LGPL ライセンスの下で無料で配布されています。 後者には、ユーザーが Meeds の保存と取引に使用できる Ethereum ウォレット アプリが含まれています (詳細については、セクション 2.4 を参照してください)。 Meeds Association は、そのソフトウェアを活用したマルチテナント クラウド ホスティング サービスも運営しています。
+Besides Meeds token management, the association holds the Intellectual Property (IP) of the Meeds software [github.com/meeds-io](https://github.com/meeds-io), available under the LGPL license and distributed for free. The latter includes an Ethereum wallet app that users can use to store and transact their Meeds (see section 2.4 for more details). The Meeds Association also runs a multi-tenant cloud hosting service leveraging that software.
