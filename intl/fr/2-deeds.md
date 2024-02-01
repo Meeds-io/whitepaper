@@ -1,13 +1,13 @@
 
-# 2. Deeds - The Properties of the WoM
+# 2. Deeds - les propriétés du WoM
 
-## 2.1. Deed NFTs
+## 2.1. NFTs Deed
 
-In the digital realm, Non-Fungible Tokens (NFTs) serve a similar purpose to deeds in the physical world. Like a deed that confirms ownership of tangible property, NFTs establish indisputable ownership of digital assets. This ownership is securely recorded on a blockchain, ensuring that each asset is unique and non-replicable.
+Dans le domaine numérique, les jetons non-fongibles (FNP) servent un but similaire aux actes de propriété du monde physique. Comme un acte qui confirme la propriété de biens tangibles, les NFTs établissent une propriété incontestable des actifs numériques. Cette propriété est enregistrée de façon sécurisée sur une blockchain, garantissant que chaque actif est unique et non reproductible.
 
-Within the WoM, a Deed is conceptualized as an NFT, representing the foundational unit of ownership. Holding a Deed empowers its owner to manage a Community Hub and makes them eligible for receiving Mintium rewards, a form of recognition and incentive within the WoM ecosystem (further details in section 2.6).
+Au sein du WoM, un Deed est conçu comme un NFT, représentant l'unité fondamentale de propriété. Holding a Deed empowers its owner to manage a Community Hub and makes them eligible for receiving Mintium rewards, a form of recognition and incentive within the WoM ecosystem (further details in section 2.6).
 
-The WoM is designed to be a diverse and inclusive platform. It welcomes a wide array of organizations, from DAOs, traditional businesses, and associations to think tanks, theater companies, project groups, and educational institutions. In this digital landscape, a Deed symbolizes the organization's digital presence and footprint in WoM, functioning as a bridge between their real-world operations and their digital endeavors.
+Le WoM est conçu pour être une plateforme diversifiée et inclusive. It welcomes a wide array of organizations, from DAOs, traditional businesses, and associations to think tanks, theater companies, project groups, and educational institutions. Dans ce paysage numérique, un Deed symbolise la présence numérique et l'empreinte de l'organisation dans le WoM, fonctionnant comme passerelle entre leurs opérations réelles et leurs activités numériques.
 
 ## 2.2. Approvisionnement des Deeds
 

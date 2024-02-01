@@ -1,5 +1,5 @@
 
-# 1. About Us
+# 1. Qui sommes-nous?
 
 Meeds is a collaborative effort led by diverse Open Source Software (OSS) communities, dedicated to creating a decentralized digital world that resists centralized corporate control and fosters a free and open environment.
 
