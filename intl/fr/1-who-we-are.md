@@ -1,12 +1,12 @@
 
 # 1. Qui sommes-nous?
 
-Meeds is a collaborative effort led by diverse Open Source Software (OSS) communities, dedicated to creating a decentralized digital world that resists centralized corporate control and fosters a free and open environment.
+Meeds est un effort de collaboration mené par diverses communautés de logiciels libres (OSS) dédié à la création d'un monde numérique décentralisé qui résiste au contrôle centralisé de l'entreprise et favorise un environnement libre et ouvert.
 
-The legal entity behind Meeds is the _Meeds Association_, a non-profit organization incorporated under Swiss law in Geneva. It is responsible for regulating the issuance of the Meeds(MEED) token, an ERC20 token recognized as a utility token.
+L'entité juridique derrière Meeds est l'association _Meeds_, une organisation à but non lucratif constituée en vertu du droit suisse à Genève. Il est responsable de réglementer la délivrance du jeton Meeds(MEED), un jeton ERC20 reconnu comme jeton d'utilité.
 
-Functioning as a Decentralized Autonomous Organization (DAO), Meeds emphasizes on democratic governance, where token holders with governance rights participate in key decision making, such as annual board elections, ensuring transparency and community involvement in organizational changes.
+Fonctionnant en tant qu'organisation autonome décentralisée (DAO), Meeds met l'accent sur la gouvernance démocratique, où les détenteurs de jetons ayant des droits de gouvernance participent au processus décisionnel clé, comme les élections annuelles du conseil, assurant la transparence et la participation de la communauté aux changements organisationnels.
 
-The Meeds project utilizes the Ethereum ecosystem to implement the World of Meeds (WoM) and the Meeds token. This approach prioritizes security, accessibility, user-friendliness, and cost-effectiveness, making it appealing to a broad user base.
+Le projet Meeds utilise l’écosystème Ethereum pour mettre en œuvre le World of Meeds (WoM) et le jeton Meeds. Cette approche privilégie la sécurité, l'accessibilité, la convivialité et la rentabilité, ce qui la rend attrayante pour une large base d'utilisateurs.
 
-Meeds is an Open Source Software ([github.com/meeds-io](https://github.com/meeds-io)) operated in the cloud infrastructure by hosting partners of the Meeds Association.
+Meeds est un logiciel Open Source ([github.com/meeds-io](https://github.com/meeds-io)) opéré dans l'infrastructure du cloud en hébergeant des partenaires de l'association Meeds.
