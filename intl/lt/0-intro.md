@@ -4,7 +4,7 @@
 
 Šiandieninė darbo rinka nėra pakankamai veiksminga dėl didelių sandorių sąnaudų[^1][^2][^3] ir dažnų darbdavio ir darbuotojo interesų konfliktų.
 
-Darbo Metaverse (WoM) siūloma nauja paradigma, kuri sumažintų sandorių sąnaudas ir iš naujo išrastų darbo santykius, užpildydama atotrūkį tarp tradicinių korporacijų ir DAO.
+WoM (World of Meeds) siūlo naują paradigmą, kuri sumažintų sandorių išlaidas ir iš naujo išrastų darbo santykius, taip sumažinant atotrūkį tarp tradicinių korporacijų ir DAO.
 
 WoM tai daro įvesdama skaitmenines darbdavio ir darbuotojo tapatybes ir siūlydama novatorišką atlygio už įsitraukimą sistemą, kuri suderintų jų interesus.
 
@@ -33,7 +33,7 @@ Remiantis R. Coase'o darbais[^5], dauguma ekonomistų įmonės sąvoką sieja su
 
 Pirmosios DAO išlygina hierarchijas ir atveria nuosavybę. WoM šios logikos laikosi iš naujo išrasdama, o ne slopindama darbdavio ir darbuotojo santykius. Ji diegia skaidrią, objektyvią ir decentralizuotą atlygio paradigmą, kuri tvariai suderintų darbdavio ir darbuotojo interesus.
 
-Galiausiai Work Metaverse užpildo atotrūkį tarp korporacijų ir DAO. Viena vertus, ji įveda tradicines korporacijas į decentralizuotą pasaulį per lengvai pritaikomą atlygio už įsitraukimą paradigmą, kuri papildo jų atlygio sistemas. Kita vertus, ji siūlo tvarius DAO veiklos ir vertės kūrimo būdus. Galiausiai, WoM gali būti viena pirmųjų pagrindinių programų, demokratizuojančių blokų grandinės naudojimą kiekvienai įmonei ir kiekvienam darbuotojui - įskaitant ir tuos, kurie nėra skaitmeniniai.
+Galiausiai WoM užpildo atotrūkį tarp korporacijų ir DAO. Viena vertus, ji įveda tradicines korporacijas į decentralizuotą pasaulį per lengvai pritaikomą atlygio už įsitraukimą paradigmą, kuri papildo jų atlygio sistemas. Kita vertus, ji siūlo tvarius DAO veiklos ir vertės kūrimo būdus. Galiausiai, WoM gali būti viena pirmųjų pagrindinių programų, demokratizuojančių blokų grandinės naudojimą kiekvienai įmonei ir kiekvienam darbuotojui - įskaitant ir tuos, kurie nėra skaitmeniniai.
 
 Kaip ir bet kurio decentralizuoto projekto atveju, WoM pasiūlymo vertė didėja eksponentiškai, kai juo naudojasi daugiau žmonių. Dėl šios priežasties steigėjai labai stengėsi skatinti ilgalaikį susidomėjimą ir vengti WoM naudos monopolizavimo, nesvarbu, ar tai būtų trumpalaikė, ar ilgalaikė nauda. Tai yra atvira paradigma, kurią dar reikia sukurti ir kurioje gali aktyviai kūrybiškai dalyvauti visi.
 

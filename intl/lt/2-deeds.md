@@ -1,17 +1,19 @@
 
-# 2. Deeds NFT - Darbas metaverslo organizacijose
+# 2. Deeds - The Properties of the WoM
 
-## 2.1. NFT – apibrėžti veiksmai
+## 2.1. Deed NFTs
 
-Nepakeičiamasis žetonas (angl. non substible token, NFT) yra unikalus prekės simbolis. WoM kaip nuosavybės teisę patvirtinantis dokumentas naudojamas aktas. Kiekvienas dokumentas suteikia jo savininkui teisę naudotis keliomis paslaugomis, pavyzdžiui, prieiga prie skaitmeninio biuro, naudojančio Meeds programinę įrangą, ir teise kaldinti Meeds.
+In the digital realm, Non-Fungible Tokens (NFTs) serve a similar purpose to deeds in the physical world. Like a deed that confirms ownership of tangible property, NFTs establish indisputable ownership of digital assets. This ownership is securely recorded on a blockchain, ensuring that each asset is unique and non-replicable.
 
-"WoM" laukia visų rūšių organizacijų - DAO, tradicinių korporacijų, asociacijų, analitinių centrų, partnerysčių, teatro trupių, projektų grupių, mokyklų ir kt. Dokumentas atspindi jų skaitmeninę egzistenciją WoM.
+Within the WoM, a Deed is conceptualized as an NFT, representing the foundational unit of ownership. Holding a Deed empowers its owner to manage a Community Hub and makes them eligible for receiving Mintium rewards, a form of recognition and incentive within the WoM ecosystem (further details in section 2.6).
+
+The WoM is designed to be a diverse and inclusive platform. It welcomes a wide array of organizations, from DAOs, traditional businesses, and associations to think tanks, theater companies, project groups, and educational institutions. In this digital landscape, a Deed symbolizes the organization's digital presence and footprint in WoM, functioning as a bridge between their real-world operations and their digital endeavors.
 
 ## 2.2. Dokumentų teikimas
 
 "WoM" galiausiai suteiks ribotą skaičių darbų. Kiekviename akte yra iš anksto nustatytas maksimalus naudotojų skaičius ir siūloma atlygintinų midų galia (angl. Minting Power). Sąvoka "naudotojas" čia ir toliau reiškia bet kokio tipo darbuotoją, darbininką, laisvai samdomą darbuotoją, savanorį ir t. t.
 
-Yra keturių tipų aktai, kurių kiekvienas suteikia skirtingas galimybes, susijusias su naudotojų skaičiumi, balsavimo teisėmis mieste (žr. 2.7 skyrių) arba Meedų kaldinimo galia, o rečiausias iš jų yra galingiausias:
+There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or minting power, the rarest being the most powerful :
 
 | **Teisės akto tipas** | **Maksimalus naudotojų skaičius** | **Monetų kalimo galia** | **Trūkumas** | **Miesto balsavimo teisės** |
 | --------------------- | --------------------------------- | ----------------------- | ------------ | --------------------------- |
@@ -24,69 +26,61 @@ Yra keturių tipų aktai, kurių kiekvienas suteikia skirtingas galimybes, susij
 
 Dokumentas suteikia savininkui teisę juo naudotis, nuomoti arba parduoti.
 
-- NAUDOJIMAS - akto savininkai gali naudoti aktą tiesiogiai savo organizacijai, teikdami paslaugas jo naudotojams.
-- NUOMA – Akto savininkai taip pat gali išnuomoti Aktą kitai organizacijai, kad gautų pasyvių pajamų.
-- PARDUOTI - aktą galima parduoti antrinėje rinkoje, pavyzdžiui, [OpenSea](https://opensea.io).
+- USE – The owner can use the Deed to run a hub for his own organization.
+- RENT - The owner can also rent the Deed to another organization and earn passive income.
+- SELL - The owner can sell it on a secondary NFT marketplace such as [OpenSea](https://opensea.io).
 
-Būdama aktyvi akto turėtoja arba nuomininkė, organizacija gauna atlygį "Meedais" pagal naujovišką "mintium" modelį, aprašytą toliau (2.6 dalis).
+Being an active holder or renter of a Deed, the organization is entitled to MEED rewards according to the “mintium” model described below (see 2.6).
 
-## 2.4. Veiklos paslaugos, įsitraukimo / apdovanojimų sistema
+## 2.4. Community Hubs
 
-Vis labiau konkurencingoje rinkoje, norėdamos pritraukti ir išlaikyti talentus bei maksimaliai padidinti jų indėlį, organizacijos turi skatinti savo naudotojus ne tik paprastu atlygiu. "WoM" yra naujoviška sistema, leidžianti tai padaryti, nes įsitraukimas į darbą paverčiamas simboliais.
+In today's competitive market, organizations seek to attract and retain top talent not only through compensation but also by enhancing work engagement. The WoM addresses this challenge with a unique, tokenized reward system embodied in Community Hubs.
 
-Kiekvienas Deed turėtojas arba nuomininkas gali teikti įrankius ir paslaugas savo naudotojams, kurie renka įsitraukimo taškus, kuriuos galima tiksliai pritaikyti pagal Deed prioritetus. Periodiškai taškai konvertuojami į žetonus (o DAO atveju - galimai ir į kitą žetoną), atsižvelgiant į nustatytą akto biudžetą. Taip atlyginama už naudotojų įsitraukimą į organizacijai svarbią veiklą.
+Within these Hubs, community leaders can drive members engagement by offering a transparent menu of incentives for work items. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
 
-Pirmiausia galima pasinaudoti šiomis nemokamomis Meeds asociacijos teikiamomis paslaugomis, kad būtų atlyginta už įsitraukimą:
+Community Hubs offer a suite of tools and features designed to boost and manage contributor engagement:
 
-- **Gaminimo variklis** - automatiniai WoM veiksmai turi svorį taškais, kurį galima koreguoti pagal veiksmo prioritetus naudojant pritaikomas įsitraukimo programas.
-- **Iššūkiai** - galima nustatyti pritaikomus iššūkius pasiekimams atvaizduoti. Iššūkius iš anksto nustato vienas asmuo, o užpildyti ir paskelbti apie juos gali kitas asmuo. Pagal pritaikomas įsitraukimo programas iššūkiai vertinami taškais.
-- **Pritaikomos įsitraukimo programos** - organizacijos gali kurti savo įsitraukimo programas, atitinkančias jų verslo tikslus ir prioritetus. Programos yra susietos su automatiniais sistemos veiksmais ir rankiniu būdu nustatytais iššūkiais. Kiekvienai programai nustatytas Meeds biudžetas. Periodiškai taškai, kuriuos kiekvienas naudotojas uždirba atlikdamas automatinius ar paskelbtus veiksmus kiekvienoje įsitraukimo programoje, konvertuojami į Meeds, atsižvelgiant į tos programos biudžetą.
-- **Kudos** - naudotojai gali skirti vienas kitam pagyrimus kaip padėką ir pripažinimo ženklą. Kadangi Kudos galima platinti ribotai (iš anksto nustatytas periodinis limitas, pavyzdžiui, 3 per savaitę), jie yra reti ir vertingi. Kaip ir veiksmai, pagyrimai turi taškų. Taip darbuotojams suteikiama galimybė apdovanoti savo kolegas.
-- **Bendradarbiavimo** įrankiai, prijungti prie atlydžio variklio - darbo vietos, asinchroninis bendravimas, užduočių valdymo įrankis ir užrašai - leidžia žmonėms kartu dirbti su projektais.
-- **Piniginė** - naudotojams suteikiama saugi Ethereum technologijos piniginė, kurioje jie gali saugoti savo Meeds. Pažengusiems naudotojams galima naudoti ir Metamask piniginę.
-- **Parduotuvė** - parduotuvė, kurioje Meeds galima iškeisti į privilegijas, kurias suteikia akto turėtojas, nuomininkas arba Meed" ekosistema.
-- **Analizė** - analizuoti ir sekti įsitraukimą į aktą.
-- **Sujungimai**, prijungti prie atlygio sistemos - naudotojai gauna įsitraukimo taškų atlikdami veiksmus kitoje programinėje įrangoje, pavyzdžiui, atiduodami kodą GitHub.
+- **Actions**: Incentivized tasks guide contributors, aligning their efforts with organizational objectives and boosting motivation and direction.
+- **Gamification**: Leaderboards and badges transform work into a fun, competitive experience, enhancing engagement and enjoyment.
+- **Engagement Programs**: Customized programs with specific targets and rewards clarify organizational goals and fairly recognize contributor achievements.
+- **Kudos**: Immediate peer recognition boosts morale and fosters a culture of appreciation, enhancing team cohesion and motivation.
+- **Spaces**: Organized sub-groups and projects streamline communication and collaboration, increasing collective productivity.
+- **Wallet**: The Wallet app securely stores MEED rewards, representing user contributions, and enables easy transactions both within the Hub and on the broader network.
+- **Perks**: A variety of rewards, from gift cards to NFTs, incentivize ongoing engagement and foster loyalty within the organization’s ecosystem.
+- **Tasks**: Streamlined project and task management tools boost productivity by simplifying workflows and tracking progress.
+- **Notes**: A handy notebook app for documenting essential information like onboarding guides promotes knowledge sharing and organizational self-sufficiency.
+- **Branding**: Customizable Hub appearance attracts new contributors and strengthens their connection to the organization’s identity.
+- **Analytics**: Insightful analytics into community engagement enable leaders to identify effective strategies and make informed decisions for optimization.
 
-Kai kurios iš minėtų priemonių ir paslaugų jau yra decentralizuotos, kitos - ne. Galutinis tikslas - visas paslaugas teikti decentralizuotai, o tai darysime palaipsniui, tobulėjant pagrindinei technologijai.
 
-Naujos paslaugos gali būti prijungiamos prie atlygio variklio naudojant API. Pavyzdžių yra daugybė ir jie gali apimti beveik bet kokią programinę įrangą ar paslaugą:
+**Starting a Hub** Initiating a Hub is most seamless via meeds.io, which offers access to a cloud platform managed by the Meeds Association. This platform allows for quick setup and is maintained by the non-profit entity that stewards the WoM. However, the WoM caters to decentralization. As the Meeds software is open source and freely distributed, organizations have the option to self-host a Hub server and connect to the WoM network, granting them more control and customization in their Hub’s setup and management.
 
-- CRM programinė įranga - pardavėjai gautų įsitraukimo taškų už darbą su galimybėmis.
-- Apskaitos programinė įranga - buhalteriai gautų užduoties taškų už buhalterinės apskaitos tvarkymą.
-- Laikrodžių terminalas - gamyklos darbuotojas gali gauti taškų už gamyklos darbo laiką.
-- Ir t. t.
+**Capturing Work Signals** Hubs can integrate with various platforms like GitHub, Twitter, and Discord and are extendable via API to connect with services such as CRM software, accounting software, and clocking terminals. This allows for diverse professional contributions to be recognized and rewarded. All connectors undergo a whitelisting process by the Meeds Association to guarantee integrity and functionality.
 
-Be to, per jungtį sukurtas įsitraukimas dalyvauja organizacijos visuotiniame įsitraukimo balų skaičiuje, kuris yra Meeds monetų paskirstymo veiksnys, aprašytas toliau. Norint tai padaryti, Meeds asociacija turi įtraukti jungtį į baltąjį sąrašą. Asociacija peržiūri jungtį, patvirtina jos algoritmą ir įgyja ją nuosavybėn už Meeds. Tuomet jis tampa asociacijos teikiamų nemokamų paslaugų dalimi ir įtraukiamas į pasaulinį įsitraukimo indeksą. Bet kuris kitas veiksmas gali naudoti tą pačią jungtį ir tą patį atlygio algoritmą savo kūrėjams.
+**Enriching the Perks Store** Organizations can tailor the store with custom perks, including training courses and gym memberships, creating a self-reinforcing cycle of rewards and engagement. This not only incentivizes contributors but also fosters a deeper connection with the organization’s ecosystem.
 
-Dokumento turėtojas arba nuomininkas gali praturtinti savo parduotuvę savo privilegijomis, prisijungti prie internetinio privilegijų pasiūlymo ir t. t. Galimybės vėlgi yra neribotos:
+**Engagement and Rewards** Active participation in the Hub contributes to an organization’s global engagement score. This metric reflects the effectiveness of engagement strategies, considering factors like user activity levels and the equitable distribution of work and rewards. This publicly auditable score, entitles Hubs to a distribution of MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
 
-- Mokymo kursai
-- Sporto klubo narystė
-- Atostogų paketai
-- Pietūs su organizacijos vadovu
-- Fizinės biuro patalpos
-- Ir t. t.
+Looking ahead, Community Hubs in the WoM ecosystem are set to become central to community life, integrating internal communications, real-time interactions, governance, and various productivity tools. These enhancements will ensure that the Hubs remain interconnected with the best tools already employed by organizations. They stand as a powerful testament to Meeds' commitment to fostering a vibrant, engaged community.
 
-Parduotuvė veikia naudodama Meeds, todėl Meeds iš dalies grįžta į Deed.
 
-## 2.5. Apdovanojimai - žetonai ir kiti žetonai
+## 2.5. Rewarding Model
 
-WoM simbolizuos naudotojų įsitraukimą, nes skaitmeninės darbo priemonės bus žaidžiamos, o taškai ir Meeds bus skiriami atsižvelgiant į įsitraukimą į darbą. Paslaugos, prijungtos prie įsitraukimo ir atlygio sistemos, priskiria taškus kiekvienam naudotojui, atsižvelgiant į jo įsitraukimo lygį ir pagal kiekvieno Deed įsitraukimo programas. Iš tiesų, kiekvienas veiksmas gali tiksliai nustatyti už kiekvieną veiklos rūšį skiriamų taškų skaičių. Taigi, už tam tikro kodo perkėlimą į GitHub IT įmonė gali gauti 10 taškų, o skaitmeninė agentūra už kodo perkėlimą į GitHub gali skirti tik 5 taškus, tačiau už retušavimą - 10 taškų.
+In the WoM, user engagement across various work activities is incentivized and gamified, tailored to each community Hub's unique programs. Users earn points reflecting their active participation, with each community determining its own rules for point allocation.
 
-Apdovanojimų sistema periodiškai konvertuoja įsitraukimo taškus į Meeds pagal biudžetus ir kitas paskirstymo taisykles ir galiausiai apdovanoja naudotojus per jų pinigines. Aktas neprivalo paskirstyti Meeds ir gali naudoti įsitraukimo sistemą, kad būtų galima taikyti kitos formos kompensavimo programą. Tačiau platinant Meeds pagerės jos monetų kalimo pajėgumai.
+For example, an IT company might award 10 points for coding on GitHub, whereas a digital agency could place higher value on social media engagement, like retweets, with similar points.
 
-Be to, Deed nebūtinai turi įsigyti Meeds, kad galėtų juos platinti ir skatinti savo įsitraukimo programas, nes jis gaus Meeds iš toliau aprašyto mintium modelio.
+Regular distributions of rewards are based on the points accrued in each Hub. Typically, these are given in MEED tokens, delivered directly to users' wallets. While MEED tokens are the standard form of reward, Hubs have the flexibility to offer different types of compensation.
 
-Be Meeds, bus galima platinti ne tik Meeds, bet ir kitus žetonus (pavyzdžiui, pačios DAO žetonus), remiantis tuo pačiu įsitraukimo mechanizmu. Tokiu atveju Meeds asociacijai bus taikomas 5 % sandorio mokestis (DAO žetonais).
+When rewards are distributed in tokens other than MEED, a nominal fee of 5% is applied. This fee contributes to the Meeds treasury, playing a crucial role in maintaining the sustainability of the ecosystem.
 
 ## 2.6. Modelis mintium - įsitraukimas į darbą
 
-Už naudotojų įtraukimą į WoM Deeds gauna kompensaciją pagal naujovišką mintium modelį.
+Įtraukdamos savo vartotojus į WoM, bendruomenės gauna kompensaciją dėl naujoviško mintium modelio.
 
-Deeds naudotojų surinkti įsitraukimo taškai dalyvauja pasauliniame įsitraukimo indekse, kurį apskaičiuoja Meeds asociacija. Visiems aktams taikomas tas pats principas. Nors akte gali būti pakeistas taškų paskirstymas, kad vienas veiksmas būtų palankesnis už kitą, apskaičiuojant bendrąjį indeksą į šiuos pakeitimus nebus atsižvelgta.
+„Hubs“ naudotojų sukaupti įsitraukimo taškai dalyvauja pasauliniame įsitraukimo indekse, kurį apskaičiuoja „Meeds Association“. Indeksas naudoja tą patį principą visiems Hubams. Net jei bendruomenė gali pakeisti taškų paskirstymą, kad vienas veiksmas būtų didesnis už kitą, į šiuos pakeitimus nebus atsižvelgta apskaičiuojant visuotinį indeksą.
 
-Kiekvieną savaitę tam tikra Meeds suma skiriama visuotiniam WoM monetų kalimui. Jis proporcingai apskaičiuojamas kas savaitę dalyvaujančioms Deeds. Kai kuriems Deeds, priklausomai nuo jų tipo, suteikiamas papildomas postūmis. Aktai, kurie per savaitę pretenduoja į Meeds, juos gauna. Neatsiimti Meeds pridedami prie kitos savaitės visuotinio paskirstymo sumos.
+Kiekvieną savaitę tam tikra Meeds suma skiriama visuotiniam WoM monetų kalimui. Jis skaičiuojamas kas savaitę, proporcingai tarp dalyvaujančių centrų. Kai kurie koncentratoriai gauna papildomą postūmį, atsižvelgiant į naudojamo akto tipą. Centrai, kurie pareikalauja savo Meeds per savaitę, juos gauna. Neatsiimti Meeds pridedami prie kitos savaitės visuotinio paskirstymo sumos.
 
 Deeds įsitraukimo rezultatas _S_ yra įsitraukimo, įsitraukusių naudotojų skaičiaus ir pasiskirstymo funkcija :
 
@@ -94,19 +88,19 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Kur:
 
-- $A$ = _Aktyvumas_ - bendras per savaitę Deed naudotojų atliktų veiksmų skaičius. (Kiekviename Deed lygyje kiekvienas veiksmas perskaičiuojamas į įsitraukimo taškus, kai kurie veiksmai turi didesnį svorį nei kiti. Indekso lygmenyje visi veiksmai yra linijiniai).
+- $A$ = _Veikla_ – bendras per savaitę naudotojų „Hub“ sukauptų veiksmų skaičius. (On a Hub, each user action is converted into engagement points, some actions weighting more than others. Indekso lygmenyje visi veiksmai yra linijiniai).
 - $U$ = _Engaged users_ - naudotojai, kurie per savaitę bent vienu veiksmu prisidėjo prie taškų rinkimo.
-- $E_d$ = _Veiksmo įsitraukimo lygis_ - veiksmai, tenkantys vienam naudotojui ($A/U$)
-- $E_w$ = _Visų aktyvių WoM veiklų vidutinis įsitraukimo rodiklis_.
-- $D_r$ = _Paskirstymo rodiklis_ - jei per praėjusį laikotarpį Deed gavo iškaltų Meeds, % Meeds, kurie buvo paskirstyti jo naudotojams. % gali būti didesnis nei 100, jei paskirstymas vėluoja.
-- $D_s$ = _Pasiskirstymo sklaida_ - jei per praėjusį laikotarpį Deed gavo iškaltų Meeds, tai % naudotojų, gavusių Meeds, nuo bendro naudotojų skaičiaus.
+- $E_d$ = _Centro įtraukimo rodiklis_ – vieno naudotojo veiksmai ($A/U$)
+- $E_w$ = _Vidutinis įsitraukimo rodiklis_ visų aktyvių WoM centruose.
+- $D_r$ = _Platinimo rodiklis_ – jei Hub gavo nukaldintus Meeds už ankstesnį laikotarpį, naudotojams išplatintų duomenų procentas. % gali būti didesnis nei 100, jei paskirstymas vėluoja.
+- $D_s$ = _Paskirstymo skirtumai_ – jei Hub gavo nukaldintas Meeds už ankstesnį laikotarpį, vartotojų, gavusių Meeds, procentas iš viso vartotojų.
 - $M$ = _Minties galia_ Deeds, kaip apibrėžta 2.3 skyriuje
 
 
-Pasaulinis įsitraukimo indeksas, naudojamas paskirstant nukaldintus Meeds tarp Deeds, yra visų Deeds savaitės įsitraukimo balų suma.
+Pasaulinis įsitraukimo indeksas, naudojamas paskirstyti nukaldintas Meeds tarp centrų, yra visų centrų įsitraukimo balų per savaitę suma.
 
 
-Pirmiau pateikta formulė yra paprasta ir sukurta taip, kad būtų palanki poelgiams :
+Aukščiau pateikta formulė yra paprasta ir skirta koncentratoriams:
 
 - daug įsitraukusių naudotojų (įsitraukimas)
 - kurie su savo vartotojais sąžiningai dalijasi visomis kalyklos pajamomis (paskirstymo norma) (paskirstymo sklaida).
@@ -116,9 +110,9 @@ Be to, įrengti stiprintuvai, skirti :
 - labiausiai įsitraukusios organizacijos, neatsižvelgiant į jų dydį (įsitraukimo lygis, palyginti su WoM)
 - retesni Deeds
 
-> Meeds asociacija pasilieka teisę keisti formulę, jei to prireiktų, pavyzdžiui, iškilus tam tikriems specifiniams naudojimo atvejams. Asociacija taip pat gali įtraukti į juodąjį sąrašą bet kurį Deed, kuris pasisavina formulę savo naudai.
+> Meeds asociacija pasilieka teisę keisti formulę, jei to prireiktų, pavyzdžiui, iškilus tam tikriems specifiniams naudojimo atvejams. Asociacija taip pat gali įtraukti į juodąjį sąrašą bet kurį „Hub“, kuris užgrobia formulę, kad gautų unikalią naudą.
 
-Kadangi Deeds gauna atlygį Meeds ir yra skatinami perskirstyti jį kaip atlygį savo naudotojams už jų įsitraukimą - tiek Deeds, tiek jų naudotojų interesai yra suderinti tame pačiame naudingame pajamų pasidalijimo cikle. Taigi WoM siūlo naują darbo modelį, pagal kurį darbdavio ir darbuotojo santykiai pertvarkomi į partnerystę.
+Kadangi centrai apdovanojami „Meeds“ ir skatinami juos perskirstyti kaip atlygį savo naudotojams už jų įsitraukimą, tiek bendruomenių, tiek jų naudotojų interesai yra suderinti tame pačiame pelningame pajamų paskirstymo cikle. Taigi WoM siūlo naują darbo modelį, pagal kurį darbdavio ir darbuotojo santykiai pertvarkomi į partnerystę.
 
 Mintium modelis yra pirmasis toks modelis - jis žengia toliau nei tradicinis freemium modelis, nes paslaugomis ne tik galima naudotis nemokamai, bet ir organizacijos bei jų naudotojai gauna atlygį už naudojimąsi jomis.
 
@@ -138,9 +132,9 @@ Miestas bus laikomas užbaigtu, kai bus nukaldinti visi jo Deeds. Tada kiekviena
 | 6: Kushor              | 10 000 000  | Eshum + 64 mėnesiai    | 6 000 000  | 3 000 000     | 999 998   | 2              |
 | 7: Hammon              | 100 000 000 | Kushor + 128 mėnesiai  | 60 000 000 | 30 000 000    | 9 999 999 | 1              |
 
-Miestas - tai būdas Deedams susiburti ir sukurti bendruomenę. Ir dėl to įgyja tam tikrą tapatybę, susijusią su ta bendruomene. Tai taip pat yra būdas suteikti papildomą vertę savo naudotojams - vertę, kuri viršytų vienos Deed galimybes, arba vertę, sukurtą bendradarbiaujant Deeds.
+Miestas yra būdas bendruomenėms susiburti ir sukurti didesnę bendruomenę. Ir dėl to įgyja tam tikrą tapatybę, susijusią su ta bendruomene. Tai taip pat būdas suteikti savo vartotojams papildomos vertės – vertės, kuri viršytų vienos bendruomenės galimybes arba vertę, sukurtą bendradarbiaujant bendruomenėms.
 
-Kiekvienas miestas turi savo valdžią ir valdo savo DAO, kuriame miesto Deeds savininkai gali rinkti savo miesto tarybą, balsuoti ir nustatyti savo veiklos taisykles, teikti naujas paslaugas ir formuoti savo miestą taip, kaip jie nori, kad padidintų miesto patrauklumą ir su juo susijusių Deeds vertę.
+Kiekvienas miestas turi savo valdymą ir veikia savo DAO, kur miesto akto savininkai gali rinkti miesto tarybą, balsuoti ir nustatyti savo veiklos taisykles, pridėti naujų paslaugų ir formuoti savo miestą taip, kaip jie nori, ir taip padidinti miesto valdymą. patrauklumą ir su juo susijusių Darbų vertę.
 
 Pavyzdžiui, jie galėtų pridėti skaitmeninį savo miesto atvaizdą, fizinius partnerius, susijusius su jų miestu (pavyzdžiui, susitikimų kambarius fizinėse bendradarbystės erdvėse), pridėti "Meeds" maitinimo paslaugas, atostogų paslaugas ir t. t...
 
