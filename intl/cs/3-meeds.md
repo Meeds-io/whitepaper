@@ -35,9 +35,9 @@ Během mincovního období **30% mincovnych Meeds jsou přiděleny do asociaci M
 
 Bez členství každá organizace se může podílet na vytváření nového konektoru a být za to odměněna – nejprve prostřednictvím sdružení Meeds získání konektoru a poté těžbou přes tento konektor.
 
-Tato asociace provozuje vlastní komunitní centrum nazvané Huzub stavitelů, který vítá nadšence WoM, kteří chtějí přispět k vytvoření WoM. Asociace sponzoruje komunitu ze svého rozpočtu, čímž kompenzuje zapojení členů komunity.
+Sdružení provozuje svůj vlastní komunitní uzel s názvem _Meeds Builders Hub_ , který vítá nadšence, kteří chtějí přispět k vytvoření WoM. Asociace sponzoruje komunitu ze svého rozpočtu, kompenzuje zapojení členů komunity.
 
-Tedy centrum stavitelů bude fungovat jako živý příklad komunity zmocněné softwarem Meeds, nabízí standardní soubor služeb poskytovaných sdružením. Sdružení v sázce Meeds za účelem vykoupení listiny pro svou komunitu. Tudíž budova bude mít také prospěch z těžby jako kterékoliv jiné Hub podpořené činem.
+Tedy centrum stavitelů funguje jako živý příklad komunity zmocněné softwarem Meeds, nabízí standardní soubor služeb poskytovaných sdružením. Sdružení v sázce Meeds za účelem vykoupení listiny pro svou komunitu. Tudíž budova těží také v těžbě jako v jiném Hubu podpořeném listinou.
 
 Po skončení období ražby bude sdružení udržováno :
 
@@ -59,7 +59,7 @@ Každý člen má také právo přímo koupit velké množství Meeds za slevu. 
 
 **Staking / long-term investment** Pro povzbuzení dlouhodobých investic jsou zaseknuté Meeds odměněny. Když jsou Meeds zaseknuta, má štos několik xMeeds tokenů. Nově vytěžená krmiva se distribuují do klecí úměrně jejich chovům „Meeds“. V praxi jsou vytěžené Meeds ve skutečnosti přidávány do hospodářství chytré smlouvy xMeeds a distribuovány držiteli xMeeds v okamžiku, kdy jsou znehodnoceny.
 
-Tím, že si umí udělat, mohou investoři také odkoupit činy (a pak se podílet na těžbě prostřednictvím angažovanosti), čímž zvýší symbolickou poptávku. Každý vsadený Meeds (xMeeds) dává svému vlastníkovi několik bodů za den. Čím delší je rozhodné období, tím vyšší je počet bodů získaných na xMeeds. Každá listina se pak vyplatí výměnou za několik bodů.
+Pomocí Meeds mohou investoři také odkoupit Deed NFT (a pak se podílet na těžbě prostřednictvím zapojení), a tím zvýšit symbolickou poptávku. Každý vsadený Meeds (xMeeds) dává svému vlastníkovi několik bodů za den. Čím delší je rozhodné období, tím vyšší je počet bodů získaných na xMeeds. Každá listina se pak vyplatí výměnou za několik bodů.
 
 Body se vypočítávají podle níže uvedeného vzorce:
 
@@ -100,8 +100,8 @@ Jakoukoliv práci (ať už digitální či nikoli) lze hru hrůzit a jakoukoli a
 
 Kromě peněženky a obchodu, kde si mohou zakoupit výhody pro Meeds, plánujeme každému uživateli představit několik produktů pro koncové uživatele poháněných protokoly decentralizovaných financí, jako jsou:
 
-- Možnost sázet zetony Meeds a získávat výnosy (generovat příjmy).
-- Možnost používat mince Meeds jako zajištění k půjčování stabilních mincí, jako je USDC (pákový efekt nejprve a [Fuse pool](https://app.rari.capital/fuse) a poté registrovat Meeds token na [AAVE](https://aave.com/).
+- Schopnost podílet se na žetonech MEED a získat výnosy (vytvářet příjmy)
+- Schopnost používat MEED tokeny jako zajištění k půjčování stabilních mincí, jako je USDC (pákový efekt nejprve a [Fuse pool](https://app.rari.capital/fuse) a poté registrovat Meeds token na [AAVE](https://aave.com/).
 - Digitální karta, kterou lze přidat a používat prostřednictvím Apple Pay, Google pay nebo libovolného bankomatu. Ten může být poskytován prostřednictvím partnerství s VISA a bude využívat úvěrovou linku v USDC, zajištěnou sázkou Meeds. Tuto kartu by mohly využívat také organizace k financování peněženek zaměstnanců za účelem řízení zaměstnaneckých požitků, jako jsou restaurace, dopravu a jakýkoli druh výdajů.
 
 Takže nejen mnoho nových uživatelů objeví svět blockchainu, ale také objeví svět bez bank.
