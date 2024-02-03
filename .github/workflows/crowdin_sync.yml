@@ -5,7 +5,7 @@ on:
     inputs:
       locales:
         # Target languages https://developer.crowdin.com/language-codes/
-        default: '["ar", "cs", "de", "el", "es-ES", "et", "fa", "fil", "fr", "he", "hi", "hr", "id", "it", "ja", "ko", "lt", "nl", "no", "pl", "pt-PT", "pt-BR", "ro", "ru", "sk", "sl", "sv-SE", "th", "tr", "uk", "vi", "zh-CN", "zh-TW"]'
+        default: '["ar", "cs", "de", "el", "es-ES", "et", "fa", "fi", "fil", "fr", "he", "hi", "hr", "id", "it", "ja", "ko", "lt", "ms", "nl", "no", "pl", "pt-PT", "pt-BR", "ro", "ru", "sk", "sl", "sv-SE", "th", "tr", "uk", "vi", "zh-CN", "zh-TW"]'
         description: "Languages"
         required: true
   schedule: 
