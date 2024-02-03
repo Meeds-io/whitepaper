@@ -1,17 +1,19 @@
 
-# 2. Deeds NFT - WoM-organisaatiot
+# 2. Deeds - The Properties of the WoM
 
-## 2.1. NFT – Deeds määritetty
+## 2.1. Deed NFT:t
 
-Ei-fungible token (NFT) on ainutlaatuinen merkki, joka edustaa hyvä. Vuonna WoM on Deed käytetään omistusoikeuden nimi. Jokainen Deed antaa omistajalleen oikeuden käyttää useita palveluita - esimerkiksi, pääsy digitaaliseen toimistoon, joka toimii Meedes-ohjelmiston avulla ja jolla on oikeus lyödä Meeds-rahaa.
+Digitaalisessa maailmassa ei-Fungible Tokens (NFT) on samankaltainen tarkoitus kuin fyysisen maailman teot. Kuten teos, joka vahvistaa aineellisen omaisuuden omistusoikeuden, NFT:llä on kiistaton digitaalisten hyödykkeiden omistusoikeus. Tämä omistus kirjataan turvallisesti lohkoketjuun, ja sen avulla varmistetaan, että jokainen omaisuuserä on yksilöllinen ja ei-toisinnettavissa.
 
-WoM toivottaa tervetulleeksi kaikenlaisia organisaatioita - DAOs, perinteiset yhtiöt, yhdistykset, ajatushautomot, kumppanuudet, teatteriyhtiöt, projektiryhmät, koulut jne. The Deed edustaa niiden digitaalinen olemassaolo WoM.
+WoM:n sisällä Deed on käsitteellinen NFT, joka edustaa perustavaa omistuksen yksikköä. Deed-omistus valtuuttaa omistajansa hallinnoimaan yhteisön keskusta ja saa heidät oikeutetuiksi Mintiumin palkintoihin, WoM-ekosysteemiin liittyvä tunnustamisen ja kannustamisen muoto (lisätietoja kohdassa 2.6).
+
+WoM on suunniteltu monipuoliseksi ja osallistavaksi alustaksi. Se toivottaa tervetulleeksi laajan valikoiman organisaatioita, DAO:ista, perinteisistä yrityksistä ja yhdistyksistä ajatushautomoihin, teatteriyhtiöihin, hankeryhmiin ja oppilaitoksiin. Tässä digitaalisessa maisemassa, Deed symboloi organisaation digitaalinen läsnäolo ja jalanjälki WoM, joka toimii siltana niiden reaalimaailman toimintojen ja niiden digitaalisten pyrkimysten välillä.
 
 ## 2.2. Teosten tarjonta
 
 WoM toimittaa viime kädessä rajallisen määrän Deeds. Jokainen Deed sisältää ennalta enimmäismäärä käyttäjiä ja tarjoaa kapasiteetti Meeds palkitseva (Minting Power). Ilmaisulla ”käyttäjä” tässä ja myöhemmin nimetään kaikenlainen työntekijä, työntekijä, freelancer, vapaaehtoinen jne.
 
-On olemassa neljä erilaista Deeds, joista jokainen tarjoaa erilaisia valmiuksia määrän käyttäjiä, äänioikeus kaupungissa (ks. 2. ) tai Meeds minting teho, harvinaisinta on kaikkein tehokkain :
+On olemassa neljä erilaista Deeds, joista jokainen tarjoaa erilaisia valmiuksia määrän käyttäjiä, äänioikeus kaupungissa (ks. 2. ) tai minting teho, harvinaisinta on kaikkein tehokkain :
 
 | **Deed Type** | **Maksimäärä käyttäjiä** | **Minting power** | **Liikkeelle laskettava painos- tai lukumäärä** | **Kaupungin äänioikeus** |
 | ------------- | ------------------------ | ----------------- | ----------------------------------------------- | ------------------------ |
@@ -24,69 +26,61 @@ On olemassa neljä erilaista Deeds, joista jokainen tarjoaa erilaisia valmiuksia
 
 Deed antaa omistajalleen oikeuden käyttää sitä, vuokrata sitä tai SELLÄ sitä.
 
-- USE – Deedin omistajat voivat käyttää Deediä suoraan organisaatiossaan, joka tarjoaa palveluita sen käyttäjille.
-- RENT - Deedin omistajat voivat myös vuokrata Deed toiselle organisaatiolle saadakseen passiivisia tuloja.
-- SELL - A Deed voidaan myydä jälkimarkkinoilla, kuten [OpenSea](https://opensea.io).
+- USE – Omistaja voi käyttää Deed ajaa keskusta oman organisaation.
+- RENT - Omistaja voi myös vuokrata Deed toiselle organisaatiolle ja ansaita passiivisia tuloja.
+- SELL - Omistaja voi myydä sen jälkimarkkinoilla kuten [OpenSea](https://opensea.io).
 
-Koska organisaatio on aktiivinen omistaja tai vuokraamo, organisaatio palkitaan Meedsin avulla innovatiivisen “mintium”-mallin avulla jäljempänä (osa 2.6).
+Koska organisaatio on Deedin aktiivinen haltija tai vuokraaja, se on oikeutettu MEED palkkioihin jäljempänä kuvatun ”mintium”-mallin mukaisesti (ks. 2.6).
 
-## 2.4. Deeds services, sitoumus/palkinnot moottori
+## 2.4. Yhteisön Hubit
 
-Yhä kilpailukykyisemmillä markkinoilla, jotta voidaan houkutella ja säilyttää lahjakkuuksia ja maksimoida panoksensa, organisaatioiden on kannustettava käyttäjiään pelkkää korvausta pidemmälle. WoM tarjoaa innovatiivisen kehyksen tehdä sen tokenizing työn sitoutuminen.
+Nykypäivän kilpailukykyisillä markkinoilla organisaatiot pyrkivät houkuttelemaan ja säilyttämään huippulahjakkuuksia paitsi korvausten avulla myös lisäämällä työn sitoutumista. WoM käsittelee tätä haastetta ainutlaatuisella ja tunnustetulla palkitsemisjärjestelmällä, joka on osa yhteisön hubeja.
 
-Jokainen Deedin haltija tai vuokraaja voi tarjota työkaluja ja palveluita käyttäjille, jotka ansaitsevat sitoutumispisteitä, joita voidaan hienosäätää Deedin prioriteetteihin. Ajoittain pisteitä muunnetaan Meeds (ja - DAO - mahdollisesti toinen token), perustuu Deed’s asetetun budjetin. Tällä tavoin käyttäjien sitoutuminen organisaation kannalta tärkeisiin toimintoihin palkitaan.
+Näissä keskuksissa yhteisön johtajat voivat ohjata jäsenten sitoutumista tarjoamalla läpinäkyvän valikoiman kannustimia työkohteisiin. Osallistujat ansaitsevat sitoutumispisteitä ponnistuksistaan, jotka muunnetaan määräajoin MEED-rahakkeiksi tai mukautetuiksi vastaavaksi rahaksi ennalta määritetyn budjetin mukaisesti.
 
-Ensiksikin seuraavia Meeds-yhdistyksen tarjoamia ilmaisia palveluja voidaan käyttää palkitsemaan sitoutumista:
+Yhteisön keskukset tarjoavat joukon työkaluja ja ominaisuuksia, jotka on suunniteltu tehostamaan ja hallitsemaan osallistujien osallistumista:
 
-- **Liimat moottori** – automaattiset toiminnot WoM on painon pisteissä, joita voidaan hienosäätää Deedin prioriteetteihin räätälöitävien vaikuttamisohjelmien avulla.
-- **Challenges** – räätälöitäviä haasteita voidaan asettaa saavutusten edustamiseksi. Haasteet ovat esikoisia, ja ne voidaan täyttää täysimittaisesti ja ilmoittaa sellaisinaan toisella. Haasteissa on painoarvo pisteissä, sisällä muokattavissa vaikuttaminen ohjelmat.
-- **Mukautettavat sitoutumisohjelmat** - organisaatiot voivat luoda omia sitoutumisohjelmia, jotka vastaavat niiden liiketoiminnan tavoitteita ja prioriteetteja. Ohjelmat liittyvät järjestelmän automaattiseen toimintaan ja ne asettavat haasteita manuaalisesti. Jokaisella ohjelmalla on asetettu Meeds budjetti. Säännöllisesti pisteitä ansaitsee jokaisen käyttäjän kautta automatiikan tai ilmoitetut toimet kussakin vaikuttaminen ohjelma muunnetaan Meeds, joka perustuu kyseisen ohjelman budjetti.
-- **Kudos** - Kudos voi myöntää käyttäjille toisilleen, kuten kiitos ja tunnustuksen tunnustus. Koska jakeluun käytettävissä olevat kudos ovat rajallisia (ennalta määrätyn määräajan, esimerkiksi 3 viikossa), ne ovat harvinaisia ja arvokkaita. Toimien tavoin on otettava huomioon myös pisteet. Näin työntekijät voivat palkita kollegoitaan.
-- **Yhteistyö** työkalut, kytketty palkitsevaan moottoriin – työtilat, asynkroninen viestintä, tehtävänhallintatyökalu ja muistiinpanot – mahdollistaa ihmisten yhteistyön projekteissa.
-- **Wallet** – käyttäjille tarjotaan turvallinen Ethereum tekniikka lompakko tallentaa heidän Meeds. Vaihtoehtoisesti edistyneille käyttäjille voidaan käyttää Metamask-lompakkoa.
-- **Säilytä** – kauppa, jossa Meeds voidaan vaihtaa Deedin haltijan tai vuokraajan tai Meedsin ekosysteemin antamia etuoikeuksia.
-- **Analytics** – analysoida ja seurata sitoutumista sisällä Deed.
-- **Liittimet**, kytketty palkitsemismoottoriin – käyttäjät saavat sitoutumispisteitä toisen ohjelmiston toimien kautta – esimerkiksi koodaukseen GitHubissa.
+- **Toimet**: Kannustetut tehtävät ohjaavat osallistujia, sovittavat ponnistuksensa yhteen organisatoristen tavoitteiden kanssa sekä lisäävät motivaatiota ja ohjausta.
+- ****: Leaderboards ja merkit muuttavat työn hauskaksi, kilpailukokemukseksi, parantaen sitoutumista ja nautintoa.
+- **Sitoutumisohjelmat**: Räätälöidyt ohjelmat erityisillä tavoitteilla ja palkinnoilla selventävät organisaation tavoitteita ja tunnistavat oikeudenmukaisesti osallistujan saavutukset.
+- **Kudos**: Välitön vertaistunnustaminen lisää moraalia ja edistää arvostamisen kulttuuria, parantaa tiimien yhteenkuuluvuutta ja motivaatiota.
+- ****: Järjestäytyneet alaryhmät ja projektit virtaviivaistavat viestintää ja yhteistyötä, mikä lisää kollektiivista tuottavuutta.
+- **Wallet**: Lompakko-sovellus tallentaa turvallisesti MEED-palkinnot esittäen käyttäjäpanoksia, ja mahdollistaa helpon liiketoimen sekä Hubissa että laajemmassa verkossa.
+- **Perks**: Erilaisia palkintoja, lahjakorteista NFT:hen, kannustavat jatkuvaa sitoutumista ja edistävät uskollisuutta organisaation ekosysteemiin.
+- **Tehtävät**: Virtaviivaiset projekti- ja tehtävänhallintatyökalut lisäävät tuottavuutta yksinkertaistamalla työnkulkua ja seuraamalla edistymistä.
+- **Huomautukset**: Kätevä muistikirjasovellus olennaisten tietojen, kuten perehdytyksen oppaiden, dokumentointiin edistää tiedon jakamista ja organisaation omavaraisuutta.
+- **Branding**: Mukautettava Hub ulkonäkö houkuttelee uusia osallistujia ja vahvistaa niiden yhteyttä organisaation identiteettiä.
+- **Analytics**: Insightful analytics osaksi yhteisön vaikuttaminen mahdollistaa johtajat tunnistaa tehokkaita strategioita ja tehdä tietoon perustuvia päätöksiä optimointia.
 
-Jotkin edellä mainituista välineistä ja palveluista on jo hajautettu, toiset taas eivät. Perimmäisenä tavoitteena on tarjota kaikki palvelut hajautetusti, minkä teemme vähitellen kun taustalla oleva teknologia kehittyy.
 
-Uusia palveluja voidaan kytkeä palkitsemismoottoriin API: ien kautta. Esimerkkejä on lukemattomia, ja ne voivat sisältää lähes kaikki ohjelmistot tai palvelut:
+**Hubin käynnistäminen** Hubin käynnistäminen on saumattomampaa minun kauttani. o, joka tarjoaa pääsyn pilvialustaan, jota hallinnoi Meeds Association. Tämä foorumi mahdollistaa nopean asennuksen, ja sitä ylläpitää voittoa tavoittelematon yhteisö, joka hallinnoi WoM. WoM kuitenkin huolehtii hajauttamisesta. Koska Meeds-ohjelmisto on avoin lähdekoodi ja vapaasti levitetty, organisaatioilla on mahdollisuus itse isännöidä Hub-palvelinta ja muodostaa yhteys WoM-verkostoon, antaa heille enemmän valvontaa ja räätälöintiä niiden Hubin asennus ja hallinta.
 
-- CRM ohjelmistot – myyjät saisivat sitoutumispisteitä työskentelyyn mahdollisuuksia.
-- Kirjanpidollinen ohjelmisto – kirjanpitäjät saisivat sitoutumispisteitä kirjojen pitämiseen.
-- Terminaalin lukitus – tehtaan työntekijä voi saada pisteitä tehtaan työaikaa.
-- Jne.
+**Capturing Work Signals** Hubs voi integroida erilaisiin alustoihin, kuten GitHubiin, Twitteriin, ja Discord ja ovat laajennettavissa API yhteyden palveluihin, kuten CRM ohjelmisto, kirjanpito-ohjelmistot ja kellotuspäätteet. Tämä mahdollistaa erilaisten ammatillisten lahjoitusten tunnustamisen ja palkitsemisen. Kaikki liittimet käyvät läpi Meeds Associationin sallitun prosessin eheyden ja toiminnallisuuden takaamiseksi.
 
-Lisäksi Connectorin kautta tuotettu sitoutuminen osallistuu organisaation globaaliin sitoutumispisteeseen, joka on Meeds-lyöntijakelun tekijä, kuvattu alla. Jotta se olisi mahdollista, liittimen on oltava Meeds Associationin sallima listalla. Yhdistys tarkastelee liitintä, hyväksyy algoritminsa ja hankkii omistuksensa Meedsiä vastaan. Sen jälkeen siitä tulee osa yhdistyksen tarjoamia ilmaisia palveluja ja se sisältyy maailmanlaajuiseen sitoutumisindeksiin. Mikä tahansa muu Deed voi käyttää samaa liitintä ja samaa palkitsemisalgoritmia kehittäjilleen.
+**Perks Store** Organisaatiot voivat räätälöidä kaupan mukautetuilla eduilla, mukaan lukien koulutuskurssit ja kuntosalin jäsenyydet, itsevahvistavan palkkio- ja sitoutumissyklin luominen. Tämä ei ainoastaan rohkaise osallistujia vaan myös edistää syvällisempää yhteyttä organisaation ekosysteemiin.
 
-Deedin haltija tai vuokraaja voi rikastuttaa kauppaansa omilla etuoikeuksillaan, muodostaa yhteyden online-etuoikeustarjoukseen jne. Myös mahdollisuudet ovat loputtomat:
+**Sitoutuminen ja palkinnot** Aktiivinen osallistuminen Hubiin edistää organisaation globaalia vaikuttamista. Tämä mittari heijastaa vaikuttamisstrategioiden tehokkuutta, kun otetaan huomioon käyttäjien aktiivisuustasot sekä työn ja palkitsemisen tasapuolinen jakautuminen. Tämä julkisesti tarkastettavissa oleva pisteytys oikeuttaa Hubsin jakamaan MEED kuponkia mitettu protokollasta, niiden sitoutumisstrategioiden tehokkuuden mittana on sen tarjoaminen.
 
-- Kurssi
-- Kuntosalin jäsenyys
-- Loma paketit
-- Lounas organisaation johtajan kanssa
-- Fyysinen toimistotila
-- Jne.
+Tulevaisuudessa WoM-ekosysteemin yhteisön keskuksista on tarkoitus tulla keskeinen osa yhteisön elämää, sisäisen viestinnän, reaaliaikaisen vuorovaikutuksen, hallinnon ja erilaisten tuottavuusvälineiden yhdistäminen. Näillä parannuksilla varmistetaan, että Hubit ovat edelleen yhteydessä organisaatioiden jo käyttämiin parhaisiin työkaluihin. Ne ovat voimakas osoitus Meedsin sitoutumisesta elinvoimaisen ja sitoutuneen yhteisön vaalimiseen.
 
-Myymälä toimii Meedesin käytön kautta niin, että Meeds palautetaan osittain Deedille.
 
-## 2.5. Palkinnot – Meeds ja muut rahakkeet
+## 2.5. Palkinto Malli
 
-WoM hahmottelee käyttäjien sitoutumisen pelottelemalla digitaalisia työtyökaluja, ja varaamalla pisteitä ja Meeds suhteessa työn sitoutuminen. Palvelut, jotka liitetään sitoutuminen ja palkita moottorin määrite pistettä kullekin käyttäjälle, heidän sitoutumistasonsa mukaan ja kunkin Deedin vaikuttamisohjelman mukaisesti. Itse asiassa jokainen Deed voi hienosäätää määrän pisteitä annetaan kunkin tyyppistä toimintaa. Näin ollen jonkin koodin työntäminen GitHubissa voi olla arvoltaan 10 pistettä IT-kaupasta, kun taas digitaalinen toimisto voi asettaa vain 5 pistettä GitHub työntää, mutta tarjoaisi 10 pistettä uudelleentwiittejä.
+WoM:ssä käyttäjien sitoutumista erilaisiin työtoimintoihin kannustetaan ja peloitetaan, räätälöidään kunkin yhteisön Hubin ainutlaatuisiin ohjelmiin. Käyttäjät ansaitsevat pisteitä, jotka heijastavat heidän aktiivista osallistumistaan, ja kukin yhteisö määrittää omat pistejakosääntönsä.
 
-Ajoittain palkitseva moottori muuntaa sitoutumispisteet Meeds budjettien ja muiden jakelusääntöjen mukaisesti ja lopulta palkitsee käyttäjät lompakkojensa kautta. The Deed ei vaadi jakaa Meeds ja voi käyttää vaikuttamisjärjestelmä mahdollistaa jonkin muun korvausohjelman. Meedioiden jakelu kuitenkin parantaa sen kaivoskapasiteettia.
+Esimerkiksi IT-yritys voi myöntää 10 pistettä koodaukseen GitHubissa, kun taas digitaalivirasto voisi arvostaa enemmän sosiaalisen median sitoutumista, kuten uudelleentwiittejä, joilla on samankaltaisia kohtia.
 
-Lisäksi Deedin ei välttämättä tarvitse hankkia Meedes, jotta se voisi levittää ja polttoaineistaa sen sitoutumisohjelmia; kuten se saa Meeds “mintium” mallista, joka kuvataan jäljempänä.
+Säännölliset voitonjaot perustuvat kussakin Hubissa kertyneisiin pisteisiin. Tyypillisesti nämä annetaan MEED-kuponkeissa, jotka toimitetaan suoraan käyttäjien lompakoille. Vaikka MEED polkens on vakiomuotoinen palkkio, Hubeilla on mahdollisuus tarjota erityyppisiä korvauksia.
 
-Meedien lisäksi on mahdollista jakaa myös muita tunnisteita (esimerkiksi DAO: n omia tunnisteita), jotka perustuvat samaan sitoutumismekanismiin. Siinä tapauksessa jakelusta peritään 5 prosentin maksu, joka peritään Meeds Associationilta (DAO token).
+Kun palkkiot jaetaan muillakin kuin MEED:illä, sovelletaan nimellinen 5 prosentin maksua. Tämä maksu edistää Meedes-aarretta, jolla on keskeinen rooli ekosysteemin kestävyyden säilyttämisessä.
 
 ## 2.6. The “mintium” model – tokenize work engagement
 
-Harkitsemalla käyttäjiään WoM Deeds saavat korvauksen innovatiivisen mintiummallin kautta.
+Sitouttamalla käyttäjänsä WoMiin yhteisöt saavat korvauksen innovatiivisen mintium-mallin avulla.
 
-Deedsin käyttäjien saamat sitoumuspisteet ovat mukana Meeds Associationin laskemassa globaalin sitoutumisindeksissä. Indeksi käyttää samaa periaatetta kaikissa Deeds. Vaikka Deed voi muuttaa pisteiden määrärahoja, jotta voidaan edistää yhden toimen toteuttamista toisen kustannuksella. näitä muutoksia ei oteta huomioon maailmanlaajuisessa indeksin laskennassa.
+Keskusten käyttäjien keräämät sitoutumispisteet osallistuvat Meeds Associationin laskemaan maailmanlaajuiseen sitoutumisindeksiin. Indeksissä käytetään samaa periaatetta kaikissa keskuksissa. Vaikka yhteisö voi muuttaa pisteiden jakoa edistääkseen yhtä toimea toisen sijaan, näitä muutoksia ei oteta huomioon kokonaisindeksin laskennassa.
 
-Joka viikko tietty määrä Meeds on varattu WoM: n globaalin sitoutumisen kaivostoimintaan. Se on laskettu viikoittain, pro-rata, osallistuvien Deeds. Jotkut Deeds saada ylimääräistä vauhtia riippuen niiden tyypistä. The Deeds jotka vaativat heidän Meeds viikon aikana, vastaanottaa heidät. Lunastamattomat Meeds lisätään seuraavan viikon kokonaisjakelun määrään.
+Joka viikko tietty määrä Meeds on varattu WoM: n globaalin sitoutumisen kaivostoimintaan. Se lasketaan viikoittain suhteellisesti osallistuvien keskusten kesken. Jotkut Hubs saavat ylimääräistä vauhtia riippuen tyyppi Deed he käyttävät. Ne Hubit, jotka vaativat Meediä viikon aikana, saavat sen. Lunastamattomat Meeds lisätään seuraavan viikon kokonaisjakelun määrään.
 
 Tehtävän sitoutumispistemäärä _S_  on toimeksiannon funktio, siihen osallistuvien käyttäjien määrä ja jakautuminen:
 
@@ -94,58 +88,60 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Jossa :
 
-- $A$ = _Toiminta_ - Käyttäjien viikon aikana keräämien toimien kokonaismäärä. (At kunkin Deed’s taso, jokainen toimi muunnetaan sitoutumispisteiksi, jotkut toimet painotetaan enemmän kuin toiset. Indeksitasolla kaikki toiminnot ovat lineaarisia).
+- $A$ = _Toiminta_ - Käyttäjien viikon aikana keräämien toimien kokonaismäärä. (Hubissa jokainen käyttäjä toiminto muunnetaan sitoutumispisteiksi, jotkut toiminnot painotetaan enemmän kuin toiset. Indeksitasolla kaikki toiminnot ovat lineaarisia).
 - $U$ = _Osallistujat_ - käyttäjät, jotka osallistuivat pisteisiin viikon aikana, vähintään yhdellä toiminnolla.
-- $E_d$ = _Aktiivisuus teon_ - toiminnot per käyttäjä ($A/U$)
-- $E_w$ = _Keskimääräinen sitoutumisaste_ kaikista aktiivisista töistä WoM.
-- $D_r$ = _Jakeluaste_ - jos edelliseltä kaudelta saatu lyöty lyöty liha, Käyttäjille jaettujen Meeds -tuotteiden prosentuaalinen osuus. Prosenttiosuus voi olla yli 100, jos jakelu viivästyy ajoissa.
-- $D_s$ = _Jakeluaste_ - jos edelliseltä kaudelta saatu lyöty lyöty liha, Käyttäjille jaettujen Meeds -tuotteiden prosentuaalinen osuus.
+- $E_d$ = keskuksen sitoutumisaste - toimet käyttäjää kohti ($A/U$).
+- $E_w$ = kaikkien WoM:n aktiivisten keskusten keskimääräinen sitoutumisaste.
+- $D_r$ = jakeluprosentti - jos keskittymä sai lyötyjä meedejä edellisen jakson aikana, se prosenttiosuus meedeistä, joka jaettiin sen käyttäjille. Prosenttiosuus voi olla yli 100, jos jakelu viivästyy ajoissa.
+- $D_s$ = jakeluhajonta - jos keskus sai lyötyjä Meedejä edellisen jakson aikana, Meedejä saaneiden käyttäjien prosenttiosuus koko käyttäjäkunnasta.
 - $M$ = _Minting Power_ of the Deed sellaisena kuin se on määritelty 2.3
 
 
-Maailmanlaajuinen vaikuttamisindeksi, jota käytetään lyötyjen metallien jakamiseen Deedsin kesken, on kaikkien Deeds’ vaikuttamispisteiden summa viikolta.
+Globaali sitoutumisindeksi, jota käytetään jaettaessa lyötyjä Meedejä keskusten kesken, on kaikkien keskusten viikon sitoutumispisteiden summa.
 
 
-Kaava yllä on yksinkertainen ja suunniteltu suosimaan tekoja:
+Yllä oleva kaava on yksinkertainen ja suunniteltu suosimaan keskuksia :
 
 - jossa on paljon mukana olevia käyttäjiä (sitoutuminen)
-- kuka jakaa koko kaivostoiminnan tulot (jakeluaste) käyttäjien kanssa oikeudenmukaisesti (jakeluaste).
+- jotka jakavat koko rahapajatulon (jakeluprosentti) käyttäjiensä kanssa oikeudenmukaisesti (jakeluhajonta).
 
 Lisäksi vahvistimet ovat paikallaan :
 
 - organisaatiot, joilla on korkein sitoutumisaste niiden koosta riippumatta (sitoutumisaste suhteessa WoM)
 - arpia tekoja
 
-> The Meeds Association pidättää itsellään oikeuden muuttaa kaavaa tarvittaessa, jos esimerkiksi tietyt käyttötapaukset ilmenevät. Yhdistys voi myös mustalle listalle kaikki Deed joka kaappaa kaava sen ainutlaatuinen etu.
+> The Meeds Association pidättää itsellään oikeuden muuttaa kaavaa tarvittaessa, jos esimerkiksi tietyt käyttötapaukset ilmenevät. Yhdistys voi myös laittaa mustalle listalle minkä tahansa keskuksen, joka kaappaa kaavan omaksi edukseen.
 
-Koska Deeds palkitaan Meeds -palkinnolla ja sitä kannustetaan jakamaan ne uudelleen palkintona käyttäjille heidän sitoutumisellaan – sekä Deedsin että heidän käyttäjiensä etu on linjassa samassa hyveellisessä tulonjakosyklissä. WoM tarjoaa näin ollen uuden työmallin, joka muokkaa työnantajan ja työntekijän välistä suhdetta kumppanuutena.
+Kun keskukset palkitaan Meedeillä ja niitä kannustetaan jakamaan niitä uudelleen käyttäjilleen palkintoina heidän sitoutumistaan vastaan - sekä yhteisöjen että niiden käyttäjien edut ovat samassa tulonjakosyklissä. WoM tarjoaa siis uudenlaisen työmallin, jossa työnantajan ja työntekijän välinen suhde muotoillaan uudelleen kumppanuudeksi.
+
+Mintium-malli on ensimmäinen laatuaan - se menee perinteistä freemium-mallia pidemmälle, sillä sen lisäksi, että palveluiden käyttö on ilmaista, sekä organisaatiot että niiden käyttäjät palkitaan niiden käytöstä.
 
 ## 2.7. Kaupungit ja hallinto
 
-Vuonna WoM Deeds syntyy vähitellen sisällä virtuaaliset kaupungit. Vain ensimmäinen kaupunki on olemassa alusta alkaen. Muut rakennetaan vähitellen, yksi toisensa jälkeen. Koko WoM, koskaan on vain 7 kaupunkia, joista jokainen sisältää kiinteän määrän tekoja kunkin tyyppi.
+WoM:ssä tekoja luodaan vähitellen virtuaalikaupunkien sisällä. Vain ensimmäinen kaupunki on alusta alkaen olemassa. Muut rakennetaan vähitellen, yksi toisensa jälkeen. Koko WoM:ssä on aina vain 7 kaupunkia, joista kussakin on tietty määrä kunkin tyyppisiä tekoja.
 
-Kaupungin katsotaan olevan täydellinen, kun kaikki sen teokset on lyöty. Sitten jokaisen uuden kaupungin kaivostoiminta alkaa $2^n$ kuukausia sen jälkeen, kun $n-1$ kaupungin viimeinen kaivostoiminta oli lyöty.
+Kaupunkia pidetään täydellisenä, kun kaikki sen teot on lyöty. Kunkin uuden kaupungin lyöminen aloitetaan 2^n$ kuukautta sen jälkeen, kun $n-1$ kaupungin viimeinen kauppakirja on lyöty.
 
-| **Kaupungin nimi** | **Kuolema** | **Saatavilla**         | **Yhteinen** | **Epätavallinen** | **Harvinainen** | **Legendaarinen** |
-| ------------------ | ----------- | ---------------------- | ------------ | ----------------- | --------------- | ----------------- |
-| 1: Tanit           | 100         | T0                     | 50           | 30                | 13              | 7                 |
-| 2: Reshef          | 1 000       | Tanit + 4 months       | 600          | 300               | 94              | 6                 |
-| 3: Ashtarte        | 10 000      | Reshef + 8 kuukautta   | 6 000        | 3 000             | 995             | 5                 |
-| 4: Melqart         | 100 000     | Ashtarte + 16 months   | 60 000       | 30 000            | 9 996           | 4                 |
-| 5: Eshmun          | 1 000 000   | Ashtarte + 32 months   | 600 000      | 300 000           | 99 997          | 3                 |
-| 6: Kushor          | 10 000 000  | Reshef + 64 kuukautta  | 6 000 000    | 3 000 000         | 999 998         | 2                 |
-| 7: Hammon          | 100 000 000 | Reshef + 128 kuukautta | 60 000 000   | 30 000 000        | 9 999 999       | 1                 |
+| **Kaupungin nimi** | **Kuolema** | **Saatavissa**          | **Yhteinen** | **Epätavallinen** | **Harvinainen** | **Legendaarinen** |
+| ------------------ | ----------- | ----------------------- | ------------ | ----------------- | --------------- | ----------------- |
+| 1: Tanit           | 100         | T0                      | 50           | 30                | 13              | 7                 |
+| 2: Reshef          | 1 000       | Tanit + 4 kuukautta     | 600          | 300               | 94              | 6                 |
+| 3: Ashtarte        | 10 000      | Reshef + 8 kuukautta    | 6 000        | 3 000             | 995             | 5                 |
+| 4: Melqart         | 100 000     | Ashtarte + 16 kuukautta | 60 000       | 30 000            | 9 996           | 4                 |
+| 5: Eshmun          | 1 000 000   | Melqart + 32 kuukautta  | 600 000      | 300 000           | 99 997          | 3                 |
+| 6: Kushor          | 10 000 000  | Eshmum + 64 kuukautta   | 6 000 000    | 3 000 000         | 999 998         | 2                 |
+| 7: Hammon          | 100 000 000 | Kushor + 128 kuukautta  | 60 000 000   | 30 000 000        | 9 999 999       | 1                 |
 
-Kaupunki on tapa yhdistää tekoja ja luoda yhteisö. Ja näin ollen hankkia tietty identiteetti, joka liittyy kyseiseen yhteisöön. Se on myös tapa tarjota lisäarvoa sen käyttäjille - arvo, joka ylittäisi yhden Deedin kyvyt tai arvo, joka luotiin Deedsin yhteistyön kautta.
+Kaupunki on tapa, jolla yhteisöt voivat kokoontua yhteen ja luoda suuremman yhteisön. Sen seurauksena he saavat tietyn identiteetin, joka liittyy kyseiseen yhteisöön. Se on myös keino tarjota käyttäjilleen lisäarvoa - arvoa, joka ylittää yhden yhteisön valmiudet, tai arvoa, joka luodaan yhteisöjen välisellä yhteistyöllä.
 
-Jokaisella kaupungilla on oma govenance ja se operoi omaa DAO:ansa, jossa kaupungin Deedsin omistajat voivat valita kaupunkineuvostonsa, äänestää ja vahvistaa omat toimintasääntönsä, lisätä uusia palveluja ja muokata kaupunkinsa haluamallaan tavalla ja siten lisätä kaupungin houkuttelevuutta ja siihen liitettyjen tekojen arvoa.
+Jokaisella kaupungilla on oma hallituksensa, ja se ylläpitää omaa DAO:ta, jossa kaupungin Deed-omistajat voivat valita kaupunginvaltuuston, äänestää ja laatia omia toimintasääntöjään, lisätä uusia palveluita ja muokata kaupunkiaan haluamallaan tavalla niin, että kaupungin houkuttelevuus ja siihen liitettyjen Deedien arvo kasvaa.
 
-Ne voisivat esimerkiksi lisätä oman kaupunkinsa digitaalisen edustuksen, niiden kaupunkiin liittyvät fyysiset vastineet (kokoushuoneet esimerkiksi fyysisissä yhteistyötiloissa), lisätä Meeds powered Food Services, loma palvelut jne...
+He voisivat esimerkiksi lisätä digitaalisen esityksen kaupungistaan, kaupunkiinsa liittyviä fyysisiä vastineita (esimerkiksi kokoushuoneita fyysisissä työtiloissa), lisätä Meeds-käyttöisiä ruokapalveluja, lomapalveluja jne....
 
-Oletuksena (ellei kaupunki äänestä toisin), Teosten vuokrauksesta saatavat passiiviset tulot verotetaan kaupungin (5 %) ja yhdistyksen (3 %) tuottavan käytön edistämiseksi.
+Oletusarvoisesti (ellei kaupunki äänestä toisin) kaupunki (5 %) ja yhdistys (3 %) "verottavat" asiakirjojen vuokraamisesta saatavia passiivisia tuloja tuottavan käytön edistämiseksi.
 
-Omistussiirrot (Deedin myynti) verotetaan myös 6 %:
+Omistusoikeuskaupoista (kauppakirjojen myynnit) kannetaan myös 6 prosentin vero:
 
-- 2,5 % kaupungin osalta
-- 2,5 % yhdistyksen osalta
-- 1% alkuperäisen lompakon, joka lunasti Deed.
+- 2,5 prosenttia kaupungille,
+- 2,5 prosenttia yhdistyksen osalta,
+- 1 % alkuperäiselle lompakolle, joka lunasti kauppakirjan.

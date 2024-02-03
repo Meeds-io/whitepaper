@@ -1,14 +1,14 @@
-# 5. WoM for ALL – visio yhteenveto ja välitavoitteet
+# 5. WoM for ALL - yhteenveto visiosta ja välitavoitteet
 
-## 5.1. Ultimate tavoite - hajautettu verkko kaikille
+## 5.1. Perimmäinen tavoite - hajautettu verkko kaikille
 
-Loppujen lopuksi WoM on hajautettu verkkomaailma kaikille – jokaiselle ihmiselle ja jokaiselle organisaatiolle.
+Loppujen lopuksi WoM on hajautettu verkkomaailma kaikille - jokaiselle henkilölle ja kaikille organisaatioille.
 
 Se asennetaan käyttäjät, jotka toimivat digitaalisten identiteettien **Xeeds** kautta ja käyttävät maailmaa metamaskien kautta, krypto-savvies, tai kirjautuminen / salasana newbies. Ihmiset jakavat sitoutumisensa ja saavat palkintonsa oikeudenmukaisella, avoimella ja hajautetulla tavalla. He saisivat pääsyn hajautettuun maailmaan ja huomisen salausmaailmaan helposti ja tutulla tavalla - he saisivat yksinkertaisia työkaluja, joilla he voisivat käyttää rahakkeitaan elämäänsä tai sijoittaa ne tulevaisuuteensa.
 
-Organisaatiot - **Deeds** pystyisi hankkimaan lahjakkuuksia, selaamalla WoM: n läpi oikeita todistettuja taitoja. He saisivat palkita osallistumisestaan WoM, lyömällä kuponkia kautta käyttäjien sitoutuminen (mintium malli). Mutta ennen kaikkea he hyötyisivät korkeammasta sitoutumisesta ja lojaalisuudesta käyttäjiltään.
+Organizations would be able to source talents, browsing through the WoM, for the right proven skills. He saisivat palkita osallistumisestaan WoM, lyömällä kuponkia kautta käyttäjien sitoutuminen (mintium malli). Mutta ennen kaikkea he hyötyisivät korkeammasta sitoutumisesta ja lojaalisuudesta käyttäjiltään.
 
-WoM olisi oma valuutta **Meeds** – se olisi siellä viettää myymälöissä, muunnetaan toiseen valuuttaan, sijoitetaan sijoitetun pääoman tuottoa, vuokraa tai ostaa jne. WoM helpottaisi myös muiden rahakkeiden jakelua ja osallistuisi koko salausekosysteemiin.
+WoM:llä olisi oma valuuttansa MEED, jota voisi käyttää kaupoissa, vaihtaa toiseen valuuttaan, sijoittaa tuottoa saadakseen, vuokrata tai ostaa jne. WoM helpottaisi myös muiden rahakkeiden jakelua ja osallistuisi koko salausekosysteemiin.
 
 Koska kuva on arvoltaan tuhat sanaa, tässä on kaavio, joka kuvaa WoM ja Meeds virtaa
 
@@ -22,7 +22,7 @@ Varhaiset adoptoijat saisivat luonnollisesti huomattavia etuja myöhäisiin tulo
 
 Erityisesti WoM palkitsee pitkäaikaiset sijoitukset jakeen – se on omaisuuden lunastus (Deeds). Deedin alkuperäinen omistaja saa korvauksen sitoutumisen louhinnalla (aktiivinen käyttö) , passiivisten tulojen (vuokraus) kautta ja saada elinikäinen 1% kaikista myyntitapahtumista (jokaisessa omistuksen muutoksessa) , alkuperäinen lunastaja saa maksun tapahtumasta).
 
-Uskomalla hankkeeseen, osallistumalla likviditeettipooleihin, panostamalla Meeds, lunastamalla ne Deeds...kaikenkokoiset varhaiset sijoittajat lyöisivät ylimääräisiä kuponkia. He saisivat myös varhaisimmat äänioikeudet ja auttaisivat muokkaamaan WoM.
+Uskomalla hankkeeseen, osallistumalla likviditeettipooleihin, asettamalla MEED-kuponkia, lunastamalla ne Deeds...kaikenkokoisten varhaisten sijoittajien olisi lyödä ylimääräisiä kuponkia. He saisivat myös varhaisimmat äänioikeudet ja auttaisivat muokkaamaan WoM.
 
 Organisaatiot, jotka hankkivat mutta erityisesti käyttävät Deeds sitouttaakseen ja palkitseakseen työntekijöitään, saisivat korvauksia minted Meeds. Mitä oikeudenmukaisempaa he pelaavat, sitä enemmän he saavat. Aikaisemmat adoptoijat liitetään ensimmäisiin historiallisiin kaupunkeihin, ja heidät määritellään myöhemmin rakentajiksi.
 
@@ -38,17 +38,17 @@ Jäljempänä oleva kaavio on esimerkki pääoman haltijoiden noudattamasta Meed
 
 ## 5.3. Käynnistys
 
-Virallinen julkaisupäivä on asetettu **1 toukokuuta 2022** – kansainvälinen työntekijöiden päivä, jota vietetään monissa maissa.
+WoM:n virallinen lanseeraus oli **1. toukokuuta 2022** – kansainvälinen työntekijöiden päivä, jota juhlitaan monissa maissa.
 
-Siihen aikaan Meed-tunnus on jo olemassa. On mahdollista hankkia se ja likviditeetti poolit ovat avoimia osallistumista, monikulmio ja Ethereum verkoissa.
+Siihen aikaan MEED-tunnus oli jo olemassa. On mahdollista hankkia se ja likviditeetti poolit ovat avoimia osallistumista, monikulmio ja Ethereum verkoissa.
 
 Kolme Meeds-yhdistyksen jäsentä käyttää järjestelmää sisäisesti käyttääkseen ja palkitseakseen käyttäjiään ja parantaakseen Meeds-ohjelmistoa.
 
 Investor sovellus on saatavilla Ethereum Mainnetissa. Käynnistäminen, se sisältää panostaminen, likviditeettipalkkiot, pisteitä kertyminen ja lunastaa Deeds.
 
-Builders yhteisö on käytössä Meeds-ohjelmistolla, joka on avoin kaikille, jotka haluaisivat liittyä, testata ja osallistua. On mahdollista kirjautua sisään Metamaskilla.
+Builders yhteisö on käynnissä, avoin kaikille, jotka haluavat liittyä, testata ja osallistua. On mahdollista kirjautua sisään Metamaskilla.
 
-Tämä asiakirja on julkaistu käynnistämispäivänä. Kun käynnistäminen, merkki pudotetaan ilmaan monille ihmisille ympäri crypto yhteisöä.
+Tämä asiakirja julkaistiin alun perin käynnistyspäivänä. Kun käynnistäminen, merkki pudotetaan ilmaan monille ihmisille ympäri crypto yhteisöä.
 
 ## 5.4. Rakentajien yhteisö
 
