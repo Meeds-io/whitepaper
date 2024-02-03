@@ -22,7 +22,7 @@ Offensichtlich erhalten frühe Adopter erhebliche Vorteile gegenüber den späte
 
 Insbesondere belohnen die WoM langfristige Investitionen in das Verse - das bedeutet die Einlösung des Eigentums (Urkunden). Der ursprüngliche Besitzer der Urkunde wird durch Engagement-Prägung (aktiven Einsatz) sowie durch passive Einkünfte (Vermietung) entschädigt und erhält ein lebenslanges 1% bei jeder Verkaufstransaktion der Urkunde (bei jedem Besitzwechsel erhält der ursprüngliche Einlöser eine Gebühr auf der Transaktion).
 
-Indem sie an das Projekt glauben, an den Liquiditätspools teilnehmen, Meeds staken und gegen Urkunden einlösen, werden frühe Anleger jeder Größe zusätzliche Tokens prägen. Sie erhalten auch die frühesten Stimmrechte und können das WoM mitgestalten.
+Indem man an das Projekt glaubt, an die Liquiditätspools teilnimmt, MEED-Token einstecken und sie gegen Deeds eintauschen ... frühe Investoren aller Größen würden zusätzliche Tokens prägen. Sie erhalten auch die frühesten Stimmrechte und können das WoM mitgestalten.
 
 Organisationen, die Urkunden erwerben und insbesondere nutzen, um ihre Mitarbeiter zu engagieren und zu belohnen, werden in geprägten Meeds entschädigt. Je gerechter sie spielen, desto mehr werden sie erhalten. Frühe Adopter werden mit den ersten historischen Städten in Verbindung gebracht und später als Bauherren identifiziert.
 
@@ -38,17 +38,17 @@ Das folgende Diagramm stellt ein Beispiel für die Meeds Anlagestrategie für Ar
 
 ## 5.3. Der Start
 
-Der offizielle Starttermin ist der** 1. Mai 2022** - der internationale Tag der Arbeit, der in vielen Ländern gefeiert wird.
+Der offizielle Start des WoM war **1. Mai 2022** – der Internationale Arbeitstag, der in vielen Ländern gefeiert wurde.
 
-Zu dieser Zeit existiert der Meed Token bereits. Man kann es erwerben und Liquiditätspools stehen für die Teilnahme zur Verfügung, auf den Polygon- und Ethereum-Netzwerken.
+Damals existierte das MEED Token bereits. Man kann es erwerben und Liquiditätspools stehen für die Teilnahme zur Verfügung, auf den Polygon- und Ethereum-Netzwerken.
 
 Drei Mitglieder der Meeds-Vereinigung nutzen das System intern, um ihre Benutzer zu beteiligen und zu belohnen und die Meeds-Software zu verbessern.
 
 Die Investor-App ist auf dem Ethereum Mainnet verfügbar. Zum Start beinhaltet es das Einstecken, Liquiditätsbelohnungen, Punkteansammlung und Einlösung von Deeds.
 
-Die Builders-Community läuft auf der Meeds Software und ist für jeden offen, der beitreten, testen und teilnehmen möchte. Man kann sich mit Metamask anmelden.
+Die Builders Community ist in Betrieb, offen für alle, die beitreten wollen, testen und teilnehmen möchten. Man kann sich mit Metamask anmelden.
 
-Dieses Papier wurde am Tag der Einführung veröffentlicht. Nach dem Start wird das Token an viele Menschen in der Krypto-Community durch einen Air-Drop verteilt.
+Dieses Papier wurde zunächst am Starttag veröffentlicht. Nach dem Start wird das Token an viele Menschen in der Krypto-Community durch einen Air-Drop verteilt.
 
 ## 5.4. Die Gemeinschaft der Bauarbeiter
 

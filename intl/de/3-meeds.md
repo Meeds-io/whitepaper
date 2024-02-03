@@ -35,9 +35,9 @@ Die Vereinsmitglieder können dem Verein auf der Grundlage einer unterschriebene
 
 Ohne Mitglied zu sein, kann jeder Deed an der Erstellung eines neuen Konnektors teilnehmen und dafür belohnt werden - zunächst durch den Erwerb des Konnektors durch die Meeds Vereinigung und dann durch Prägung durch diesen Konnektor.
 
-Der Verein betreibt einen eigenen Community-Hub namens Builders' Hub, der WoM-Enthusiasten willkommen heißt, die zur Schaffung des WoM beitragen möchten. Die Vereinigung wird die Community aus ihrem Budget unterstützen und das Engagement der Community-Mitglieder entschädigen.
+Der Verein betreibt einen eigenen Community-Hub mit dem Namen _Meeds Builders Hub_ , der Enthusiasten willkommen heißt. die zur Schaffung der WoM beitragen wollen. Der Verein fördert die Gemeinschaft aus ihrem Budget und entschädigt das Engagement der Mitglieder der Gemeinschaft.
 
-. Die Vereinigung setzt Meeds ein, um ein Deed für die Gemeinschaft einzulösen. Daher wird die Hub des Baumeisters auch bei der Prägung des Engagements profitieren, wie jede andere Hub mit Unterstützung einer Tat.
+So fungiert der Hub der Bauarbeiter als lebendiges Beispiel für eine Gemeinschaft, die von Meeds Software unterstützt wird bietet ein Standardangebot an Dienstleistungen an, die von der Vereinigung angeboten werden. Die Vereinigung setzt Meeds ein, um ein Deed für die Gemeinschaft einzulösen. So profitiert auch die Hub des Baumeisters im Engagement wie jede andere Hub durch eine Urkunde.
 
 Nach dem Ende der Prägezeit wird der Verein durch :
 
@@ -59,7 +59,7 @@ Jedes Mitglied hat auch das Recht, eine große Menge an Meeds zu einem Rabatt di
 
 **Verankern / langfristige Investition** Um eine langfristige Investition zu fördern, werden verankerte Meeds belohnt. Wenn Meeds verankert werden, erhält der Staker einige xMeeds-Token. Neu geprägte Meeds werden den Stakern proportional zu ihren xMeeds-Beständen zugeteilt. In der Praxis werden die geprägten Meeds dem Bestand des xMeeds-Smart-Contracts hinzugefügt und an die xMeeds Inhaber verteilt, wenn sie die Freigabe erteilen.
 
-Durch den Einsatz von Meeds können Investoren auch Deeds einlösen (und dann durch ihr Engagement an der Münzprägung teilnehmen), wodurch die Nachfrage nach Token steigt. Jedes eingesetzte Meeds (xMeeds) gewährt seinem Besitzer eine bestimmte Anzahl von Punkten pro Tag. Je länger die festgelegte Periode ist, desto höher ist die Anzahl der Punkte pro xMeeds. Jede Urkunde wird dann gegen eine bestimmte Anzahl von Punkten eingelöst.
+Durch den Einsatz von Meeds können Anleger auch Deed NFTs einlösen (und sich dann durch Engagement an der Prägung beteiligen), wodurch die symbolische Nachfrage steigt. Jedes eingesetzte Meeds (xMeeds) gewährt seinem Besitzer eine bestimmte Anzahl von Punkten pro Tag. Je länger die festgelegte Periode ist, desto höher ist die Anzahl der Punkte pro xMeeds. Jede Urkunde wird dann gegen eine bestimmte Anzahl von Punkten eingelöst.
 
 Punkte werden mit folgender Formel berechnet:
 
@@ -100,8 +100,8 @@ In der Tat kann jede Arbeit (ob digital oder nicht) gamifiziert und jedes Engage
 
 Jenseits der Brieftasche und einem Geschäft, in dem sie Vergünstigungen für Meeds kaufen können, planen wir, jedem Benutzer mehrere Endnutzerprodukte vorzustellen, die von den dezentralen Finanzprotokollen angetrieben werden, wie zum Beispiel:
 
-- Die Möglichkeit, Meeds Token einzusetzen und Renditen zu erzielen (Einnahmen zu generieren)
-- Die Möglichkeit, Meeds Token als Sicherheit zu verwenden, um stabile Münzen wie USDC zu leihen (indem man zunächst einen [Fuse Pool](https://app.rari.capital/fuse) nutzt und dann den Meeds Token bei [AAVE](https://aave.com/) registriert.
+- Die Fähigkeit, MEED Token zu platzieren und Erträge zu erhalten (Einnahmen zu generieren)
+- Die Möglichkeit, MEED Token als Sicherheiten zu verwenden, um stabile Münzen wie USDC auszuleihen (zuerst einen [Sicherungspool](https://app.rari.capital/fuse) zu nutzen und dann den Meeds Token zu [AAVE](https://aave.com/) zu registrieren.
 - Eine digitale Karte, die über Apple Pay, Google Pay oder jeden Geldautomaten hinzugefügt und verwendet werden kann. Letzteres kann durch eine Partnerschaft mit VISA bereitgestellt werden und wird eine Kreditlinie in USDC nutzen, die durch verankerte Meeds gesichert ist. Diese Karte kann auch von Organisationen verwendet werden, um Geldbörsen von Mitarbeitern zu finanzieren, um Mitarbeitervorteile wie Restaurantbesuche, Verkehrsmittel und alle Arten von Ausgaben zu verwalten.
 
 So werden nicht nur viele neue Nutzer die Blockchain-Welt entdecken, sondern auch eine Welt ohne Banken.
