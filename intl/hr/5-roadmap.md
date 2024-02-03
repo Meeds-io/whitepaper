@@ -22,7 +22,7 @@ Očito, rani usvajači bi dobili značajne prednosti u odnosu na one koji se kas
 
 Posebno, WoM nagrađuje dugoročna ulaganja u svijetu - to jest, otkup imovine (Deeds). Izvorni vlasnik Deed-a dobiva nadoknadu kroz mintanje angažmana (aktivno korištenje), pasivni prihod (najam) i doživotni postotak od 1% na svakoj transakciji prodaje Deed-a (pri svakoj promjeni vlasništva, izvorni otkupitelj dobiva naknadu na transakciju).
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. Također bi dobili najranije pravo glasa i pomogli u oblikovanju WoM-a.
+By believing in the project, participating in the liquidity pools, staking MEED tokens, redeeming them against Deeds...early investors of all sizes would mint additional tokens. Također bi dobili najranije pravo glasa i pomogli u oblikovanju WoM-a.
 
 Organizacije koje nabavljaju, ali posebno koriste Deeds za angažiranje i nagrađivanje svojih zaposlenika bi dobile nadoknadu u mintanim Meeds-ima. Što će pravednije igrati, to će više dobiti. Rani usvajači bi bili povezani s prvom povijesnom gradovima i kasnije bi ih se identificiralo kao graditelje.
 
@@ -38,17 +38,17 @@ Dolje je prikazan primjer Meeds strategije ulaganja za radne držatelje:
 
 ## 5.3. Pokretanje
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+The official launch of the WoM was **May 1st, 2022** – the International Workers Day, celebrated in many countries.
 
-At that time, the Meed token already exists. Moguće je nabaviti Meed token i bazeni likvidnosti su otvoreni za sudjelovanje na Polygon i Ethereum mrežama.
+At that time, the MEED token already existed. Moguće je nabaviti Meed token i bazeni likvidnosti su otvoreni za sudjelovanje na Polygon i Ethereum mrežama.
 
 Tri člana Meeds udruge koriste sustav interno kako bi uključili i nagradili svoje korisnike i poboljšali Meeds softver.
 
 Investor aplikacija je dostupna na Ethereum Mainnet mreži. Prilikom lansiranja, Investor aplikacija uključuje staking, nagrade za likvidnost, akumuliranje bodova i otkup Deeds-a.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. Moguće je prijaviti se putem Metamask-a.
+The Builders community is up and running, open to anyone who would want to join, test and participate. Moguće je prijaviti se putem Metamask-a.
 
-This paper was published on the launch day. Nakon lansiranja, token će biti besplatno podijeljen (air-dropped) mnogim ljudima u kripto zajednici.
+This paper was initially published on the launch day. Nakon lansiranja, token će biti besplatno podijeljen (air-dropped) mnogim ljudima u kripto zajednici.
 
 ## 5.4. Zajednica graditelja
 
