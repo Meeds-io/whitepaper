@@ -1,20 +1,19 @@
 
-# 2. Deeds NFT - organizace WoM
+# 2. Listy - Vlastnosti WoM
 
-## 2.1. Identifikační kód právnické osoby (LEI)
+## 2.1. NFT listiny
 
+V digitální říši slouží neplodné tokeny (NFT) podobnému účelu jako činy ve fyzickém světě. Stejně jako čin, který potvrzuje vlastnictví hmotného majetku, zjišťují NFT nesporné vlastnictví digitálních aktiv. Toto vlastnictví je bezpečně zaznamenáno v blockchainu a zajišťuje, aby každé aktivum bylo jedinečné a neopakovatelné.
 
- NFT (Non-Fungibilní tokeny) lze porovnat s činy v reálném světě. Stejně jako listiny podepisují vlastnictví hmotného majetku, poskytuje NFT doklad o vlastnictví digitálních aktiv. Toto vlastnické právo je registrováno a udržováno na blockchainu, takže je zajištěno, že aktivum je unikátní a nemůže být replikováno.
+V rámci WoM je listina koncipována jako NFT, která představuje základní vlastnickou jednotku. Držení listiny zmocňuje svého vlastníka ke správě komunitního uzlu a činí je způsobilými pro příjem odměn za Mintium. formu uznání a pobídek v rámci ekosystému WoM (další podrobnosti v oddíle 2.6).
 
- Ve světě Meeds (WoM) se listina používá jako základní hodnota vlastnictví. Každá listina dává svému vlastníkovi právo na přístup k několika službám - například přístup k komunitnímu uzlu, některé skryté dynamické nástroje napájené softwarem Meeds a Mintium odměny (viz 2.6).
-
- WoM vítá všechny druhy organizací - DAO, tradiční korporace, sdružení, think tanky, partnerství, divadelní společnosti, projektové skupiny, školy atd. Listina představuje jejich digitální přítomnost ve vlně.
+WoM je navržen tak, aby byl rozmanitou a inkluzivní platformou. Vítá širokou škálu organizací, od DAO, tradičních firem a sdružení po think tanky, divadelní firmy, projektové skupiny a vzdělávací instituce. V tomto digitálním prostředí je digitální přítomnost a stopa organizace ve WoM symbolizována listinou, fungování mostu mezi jejich provozem v reálném světě a jejich digitálním úsilím.
 
 ## 2.2. Zásobování
 
 WoM nakonec dodá omezené množství činů. Každá listina obsahuje předem definovaný maximální počet uživatelů a nabízí kapacitu odměňování Meeds (těžební síla). Termín „uživatel“ zde a dále označuje jakýkoli druh zaměstnance, pracovníka, svobodného zaměstnání, dobrovolníka atd.
 
-Existují čtyři typy činů, z nichž každý poskytuje různé možnosti z hlediska počtu uživatelů, hlasovací práva ve městě (viz 2. ) nebo Meed the mining power (výkon těžby, rarest je nejúčinnější):
+Existují čtyři typy činů, z nichž každý poskytuje různé možnosti z hlediska počtu uživatelů, hlasovací práva ve městě (viz 2. ) nebo výkon těžby, nejtěžší je nejúčinnější:
 
 | **Typ Deed** | **Maximum uživatelů** | **Výkon mincovny** | **Nedostatek** | **Hlasovací práva města** |
 | ------------ | --------------------- | ------------------ | -------------- | ------------------------- |
@@ -27,61 +26,53 @@ Existují čtyři typy činů, z nichž každý poskytuje různé možnosti z hl
 
 Listina dává vlastníkovi právo užívat, pronajímat nebo prodávat nemovitost.
 
-- POUŽITÍ - Vlastníci Deed's mohou Deed využívat přímo pro svou organizaci, pokud služby jeho uživatelům.
-- PRONÁJEM - Vlastníci Deed's mohou listinu také pronajmout jiné organizaci, aby získali pasivní příjem.
-- PRODEJ - Deed lze prodat na sekundárním trhu, např.[OpenSea](https://opensea.io).
+- USE – Vlastník může použít listinu k provozu centra pro svou vlastní organizaci.
+- RENT - Vlastník může také pronajmout listinu jiné organizaci a získat pasivní příjem.
+- SELL - Vlastník jej může prodat na sekundárním NFT tržišti jako [OpenSea](https://opensea.io).
 
-Být aktivním držitelem nebo nájemcem Deed, organizace je odměňována společností Meeds prostřednictvím inovativního modelu "mintium", který je popsán níže (část 2.6).
+Být aktivním držitelem nebo rentem činu je organizace oprávněna odměňovat MEED podle níže popsaného modelu „mintium“ (viz 2.6).
 
-## 2.4. Zakázky na služby, stroj pro zapojení/odměny
+## 2.4. Centry komunity
 
-Na čím dál konkurenčnějším trhu musí organizace přilákat a udržet si talenty a maximalizovat své vstupy pobídnout své uživatele nad rámec prosté kompenzace. WoM poskytuje inovativní rámec, který to udělá, tím, že tokenizuje pracovní angažovanost.
+Na dnešním konkurenčním trhu se organizace snaží přilákat a udržet si špičkové talenty nejen prostřednictvím kompenzací, ale také zvýšením pracovního nasazení. WoM se touto výzvou zabývá jedinečným, tokenizovaným systémem odměn ztělesněným v komunitních centrech.
 
-Každý držitel či renter může nastavit a dosáhnout přesně vyladěných organizačních priorit vytvořením příspěvkových programů pro členy komunity, kteří vydělávají body zapojení, které jsou periodicky převáděny na Meeds token (a - pro DAOS - potenciálně další tok), na základě předem stanoveného rozpočtu. Tímto způsobem je odměňována angažovanost uživatelů v činnostech, které mají pro organizaci význam.
+V rámci těchto Hubů mohou vedoucí představitelé komunit motivovat k zapojení členů tím, že nabídnou transparentní nabídku pobídek pro pracovní položky. Účastníci získávají za své úsilí pracovní místa, která jsou pravidelně převáděna na žetony MEED nebo ekvivalent vlastního kapitálu, v souladu s předem stanoveným rozpočtem.
 
-Pro začátek lze k odměně za angažovanost využít následující bezplatné služby poskytované sdružením Meeds:
+Centry komunity nabízejí řadu nástrojů a funkcí určených k posílení a řízení zapojení přispěvatelů:
 
-- **Gamification engine** – automatické akce v rámci WoM mají váhu v bodech, které lze přesně přizpůsobit prioritám organizace prostřednictvím přizpůsobitelných programů zapojení.
-- **Výzvy** – nastavitelné výzvy mohou být nastaveny tak, aby reprezentovaly úspěchy. Výzvy jsou přednastaveny jednou osobou a mohou být plně vyplněny a jako takové oznámeny jiným. Výzvy nesou váhu v bodech, v rámci přizpůsobitelných programů zapojení.
-- **Přizpůsobitelné programy** - organizace mohou vytvářet své programy zapojení, aby odpovídaly jejich obchodním cílům a prioritám. Programy jsou spojeny s automatickými akcemi v rámci systému a manuálně nastavenými výzvami. Každý program má nastavený rozpočet Meed. Pravidelně se body získané každým uživatelem prostřednictvím automatických nebo ohlášených akcí v každém programu zapojení převádějí na Meeds, a to na základě rozpočtu tohoto programu.
-- **Kudos** - kudos může být uživateli udělen mezi sebou jako poděkování a žeton uznání. Vzhledem k tomu, že jsou kudos dostupný k distribuci omezený (například přednastavený pravidelný limit, 3 týdně), jsou vzácné a cenné. Stejně jako akce mají i kudos body. Tímto způsobem jsou zaměstnanci oprávněni odměňovat své kolegy.
-- **Nástroje spolupráce**, zapojené do odměňovacího motoru –pracovní prostory, asynchronní komunikace, nástroj pro správu úkolů a poznámky - umožňují lidem spolupracovat na projektech.
-- **Wallet** – uživatelé mají k dispozici bezpečnou peněženku technologie Ethereum pro uložení svých Meeds. Alternativně pro pokročilé uživatele lze použít peněženku Metamask.
-- **Obchod** – obchod, kde lze Meeds vyměnit za výhody poskytnuté držitelem nebo nájemcem Deedu nebo ekosystémem Meeds.
-- **Analýza** – analyzovat a sledovat zásnubyí v rámci Deed.
-- **Konektory**, připojen do správce odměn – uživatelé získávají body zapojení prostřednictvím akcí v jiném softwaru - například pro párování kódu v GitHubu.
+- **Akce**: Motivované úkoly vedou přispěvatele, spojují jejich úsilí s organizačními cíli a zvyšují motivaci a směr.
+- **Gamification**: Žebříčky a odznaky mění práci v zábavu, konkurenční zkušenost, zvýšení zapojení a zábavy.
+- **Zapojení programů**: Přizpůsobené programy s konkrétními cíli a odměnou objasnit organizační cíle a spravedlivě rozeznat úspěchy přispěvatelů.
+- **Kudos**: Okamžité vzájemné uznání zvyšuje morálku a podporuje kulturu oceňování, posiluje soudržnost týmu a motivaci.
+- **Skupina**: Organizované podskupiny a projekty zefektivňují komunikaci a spolupráci, zvyšují kolektivní produktivitu.
+- **Wallet**: Peněženka bezpečně ukládá MED odměny, které představují příspěvky uživatelů. a umožňuje snadné transakce jak v rámci Hubu, tak v širší síti.
+- **Perks**: Různé odměny, od dárkových karet po NFT, podněcují pokračující zapojení a posilují loajalitu v ekosystému organizace.
+- **Úkoly**: Vysílané nástroje pro řízení projektu a úkolů zvyšují produktivitu zjednodušením pracovních postupů a sledováním pokroku.
+- **Poznámky**: Šikovný notebook aplikace pro dokumentaci základních informací, jako jsou návody k nastupování, podporuje sdílení znalostí a organizační soběstačnost.
+- **Branding**: Přizpůsobitelný vzhled Hubu přitahuje nové přispěvatele a posiluje jejich připojení k identitě organizace.
+- **Analytics**: Pozorná analýza zapojení komunit umožňuje vedoucím představitelům identifikovat účinné strategie a činit informovaná rozhodnutí pro optimalizaci.
 
-Některé z výše uvedených nástrojů a služeb jsou již decentralizované, jiné nikoli. Konečným cílem je poskytovat všechny služby decentralizovaným způsobem, což budeme dělat postupně s vývojem základní technologie.
 
-Nové služby mohou být zapojeny do systému odměn prostřednictvím API. Příklady jsou bezpočet a mohou zahrnovat prakticky jakýkoli software nebo službu:
+**Založení Hubu** Založení Hubu je nejbezproblémovější přes meedy. , která nabízí přístup k cloudové platformě spravované sdružením Meeds Association. Tato platforma umožňuje rychlé nastavení a je udržována neziskovou entitou, která spravuje WoM. WoM však zajišťuje decentralizaci. Vzhledem k tomu, že software Meeds je open source a volně distribuovaný, organizace mají možnost hostit si Hub server a připojit se k síti WoM. poskytuje jim větší kontrolu a přizpůsobování v nastavení a managementu Hubu.
 
-- Software CRM – prodejci by získávali body za práci na příležitostech.
-- Účetní software - účetní by získali body za vedení účetnictví.
-- Taktování terminál - pracovník továrny může získat body za pracovní dobu v továrně.
-- Atd.
+**Snímání pracovních signálů** Huby se mohou integrovat s různými platformami, jako je GitHub, Twitter, a Discord a jsou rozšiřitelné přes API pro spojení se službami, jako je software CRM, účetní software a blokovací terminály. To umožňuje rozpoznat a odměňovat různé odborné příspěvky. Všechny konektory procházejí procesem povolených seznamů organizací Meeds Association s cílem zaručit integritu a funkčnost.
 
-Kromě toho se angažovanost vytvořená prostřednictvím konektoru podílí na celosvětovém skóre zapojení organizace, které je činitelem distribuce Meeds a která je popsána níže níže. Za tímto účelem musí být konektor na bílé listině organizací Meeds Association. Přidružení přezkoumává konektor, schvaluje jeho algoritmus a získává jeho vlastnictví proti Meeds. Pak se stává součástí bezplatných služeb poskytovaných sdružením a je zahrnuto do indexu globálních aktivit. Jakýkoliv jiný Hub může použít stejný konektor a stejný odměňovací algoritmus pro jeho vývojáře.
+**Obohacování Perks Store** organizace mohou obchod přizpůsobit vlastním výhodám, včetně vzdělávacích kurzů a členství v tělocvičnách, vytváření samočinného cyklu odměn a zapojení. Nejenže to podněcuje přispěvatele, ale také posiluje hlubší vazbu na ekosystém organizace.
 
-Organizace může svůj obchod obohatit svými vlastními výhodami, připojit se k online nabídce výhod, atd. Možnosti jsou opět nekonečné:
+**Zapojení a odměny** Aktivní účast v Hubu přispívá k celosvětovému skóre zapojení organizace. Tento ukazatel odráží účinnost strategií zapojení, přičemž bere v úvahu faktory, jako jsou úrovně činnosti uživatelů a spravedlivé rozdělení práce a odměny. Toto veřejně kontrolovatelné skóre opravňuje Hubs k distribuci žetonů MEED vytěžených z protokolu, Tyto prostředky jsou určeny na pokrytí závazků, které zbývá vypořádat z programového období 2007–2013.
 
-- Školicí kurzy
-- Členství v posilovně
-- Dárkové karty na dovolenou
-- Oběd s vůdcem organizace
-- Fyzické kancelářské prostory
-- Atd.
+Podíváme-li se dopředu, centra komunity v ekosystému WoM jsou nastavena tak, aby se stala ústředním prvkem společenského života, integrace interních komunikací, interakcí v reálném čase, řízení a různých nástrojů produktivity. Tato vylepšení zajistí, aby Huby zůstaly propojeny s nejlepšími nástroji, které organizace již používá. Jsou silným svědectvím Meedsova odhodlání pěstovat živou a angažovanou komunitu.
 
-Obchody fungují prostřednictvím používání Meeds tak, aby byla Meeds částečně vrácena komunitě.
 
-## 2.5. Odměny – krmení a jiné žetony
+## 2.5. Model odměn
 
-WoM bude tokenizovat zapojení uživatelů prostřednictvím gamování digitálních pracovních nástrojů a přiřazování bodů a Meeds ve vztahu k pracovnímu zapojení. Služby spojené se zapojením a odměňováním motoru ukazují každému uživateli, v souladu s jejich úrovní zapojení a v souladu s každým programem zapojení do Hubu. Každá komunita dokáže doladit množství bodů udaných pro každý druh činnosti. Odeslání kódu v GitHub tedy může mít hodnotu 10 bodů za IT obchod, zatímco digitální agentura může pro GitHub přiřadit pouze 5 bodů, ale nabízí 10 bodů pro retweety.
+V WoM je zapojení uživatelů do různých pracovních aktivit motivováno a analyzováno, šité na míru jedinečným programům Hubu. Uživatelé získávají body odrážející jejich aktivní účast, přičemž každá komunita určuje vlastní pravidla pro alokaci bodů.
 
-Odměňující se motor pravidelně mění body závazků na Meeds v souladu s rozpočty a jinými distribučními pravidly a nakonec odměňuje uživatele prostřednictvím jejich peněženek. Hubu není nutné distribuovat Meeds a může použít systém zapojení k umožnění jiné formy kompenzačního programu. Distribuce Meeds však zlepší její kapacitu těžby.
+Společnost IT může například udělit 10 bodů za kódování na GitHubu, vzhledem k tomu, že digitální agentura by mohla přikládat vyšší hodnotu zapojení sociálních médií, jako je retweet, s podobnými body.
 
-Navíc komunita nemusí nutně získávat Meeds, aby je distribuovala a rozvíjela své programy zapojování, jak získá Meeds z níže popsaného modelu „mintium“.
+Pravidelné rozdělování odměn je založeno na bodech narostlých v každém Hubu. Obvykle jsou poskytovány v žetonech MEED dodávaných přímo do peněženek uživatelů. Zatímco žetony MEED jsou standardní formou odměny, Hubs má možnost nabídnout různé druhy náhrad.
 
-Kromě Meeds bude také možné distribuovat další žetony (například vlastní žetony DAO) na základě stejného mechanismu zapojení. V takovém případě bude distribuce podléhat 5% transakčnímu poplatku (v symbolech DAO sdružení) pro Meeds Association.
+Pokud jsou odměny rozděleny do jiných tokenů než MEED, uplatní se nominální poplatek ve výši 5 %. Tento poplatek přispívá ke státní pokladně Meeds a hraje zásadní úlohu při zachování udržitelnosti ekosystému.
 
 ## 2.6. Model „mintium“ – tokenizace práce
 
@@ -97,7 +88,7 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Kde:
 
-- $A$ = _Aktivita_ - celkový počet akcí nahromaděných uživateli v rámci Hubu během týdne. (Na Hubu se každá akce převede na body angažovanosti, některé akce váží více než jiné. Na úrovni indexu jsou všechny akce lineární.
+- $A$ = _Aktivita_ - celkový počet akcí nahromaděných uživateli v rámci Hubu během týdne. (Na Hubu je každá akce uživatele převedena na body zapojení, některé akce váží více než jiné. Na úrovni indexu jsou všechny akce lineární.
 - $U$ = _Zapojení uživatelé_ - uživatelé, kteří přispěli k bodům během týdne, alespoň jednou akcí.
 - $E_d$ = _Míra zapojení centra_ - akce na uživatele ($A/U$)
 - $E_w$ = _Průměrná míra angažovanosti_ všech aktivních Hubů ve vlně.

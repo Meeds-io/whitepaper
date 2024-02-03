@@ -22,7 +22,7 @@ Je zřejmé, že včasní uživatelé by získali značné výhody oproti opozdi
 
 Konkrétně WoM odměňuje dlouhodobé investice na verše – to je umoření nemovitosti (listy). Původní vlastník listiny získá kompenzaci prostřednictvím těžby (aktivní použití), prostřednictvím pasivního příjmu (pronájem) a získejte celoživotně dlouhé 1% u každé prodejní transakce listiny (při každé změně vlastnictví), původní umořitel obdrží poplatek za transakci.
 
-Tím, že věří v tento projekt, zapojí se do fondů likvidity, házejí Meeds, umořují je proti Deeds... raní investoři všech velikostí by vymýšleli další tokeny. Získali by také první hlasovací práva a pomohli by utvářet WoM.
+Tím, že věří v tento projekt, zapojí se do likviditních fondů. Tím, že se v něm ocitnou žetony, je umořují proti Deeds... raní investoři všech velikostí by vymýšleli další žetony. Získali by také první hlasovací práva a pomohli by utvářet WoM.
 
 Organizace, které získají, ale zejména využívají činy k tomu, aby se zapojili a odměňovali své zaměstnance, by dostaly odměnu v zamotaných Meeds. Čím spravedlivější budou hrát, tím více získají. Dřívější adopci by byli spojeni s prvními historickými městy a byli by identifikováni jako stavitelé později.
 
@@ -38,17 +38,17 @@ Níže uvedený diagram představuje příklad investiční strategie společnos
 
 ## 5.3. Spuštění
 
-Oficiální datum zahájení je nastaveno na **1. května 2022** – Mezinárodní den dělníků, oslavovaný v mnoha zemích.
+Oficiálním zahájením WoM bylo **1. května 2022** – Mezinárodní den pracujících, který se v mnoha zemích slavil.
 
-V té době již Meed token existuje. Je možné ho získat a skupiny likvidity jsou otevřeny pro účast v sítích Polygon a Ethereum.
+V té době již MEED token existoval. Je možné ho získat a skupiny likvidity jsou otevřeny pro účast v sítích Polygon a Ethereum.
 
 Tři členové sdružení Meeds používají systém interně k zapojení a odměňování svých uživatelů a ke zlepšování softwaru Meeds.
 
 Aplikace Investor je k dispozici na Ethereum Mainnet. Při spuštění zahrnuje sázky, odměny za likviditu, hromadění bodů a umořování činů.
 
-Komunita Stavitelů je otevřena a běží na softwaru Meeds a je otevřena každému, kdo by se chtěl připojit, otestovat a zúčastnit. Je možné se přihlásit přes Metamask.
+Komunita Stavitelů je spuštěna a je otevřena každému, kdo by se chtěl připojit, otestovat a zúčastnit. Je možné se přihlásit přes Metamask.
 
-Tento dokument byl zveřejněn v den zahájení. Po spuštění bude token vyhozen mnoha lidem napříč krypto komunitou.
+Tento dokument byl původně zveřejněn v den zahájení. Po spuštění bude token vyhozen mnoha lidem napříč krypto komunitou.
 
 ## 5.4. Komunita stavitelů
 

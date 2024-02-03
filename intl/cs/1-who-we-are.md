@@ -1,14 +1,12 @@
 
-# 1. Kdo jsme – Sdružení Meeds
+# 1. O nás
 
-Sdružení Meeds je nezisková organizace původně založená několika komunitami Open Source Software (OSS) se společnou vizí svobodného digitálního světa – decentralizovaného světa, který by nebyl řízen hrstkou centralizovaných megakorporací.
+Meeds je společné úsilí vedené různými komunitami Open Source Software (OSS), věnuje se vytvoření decentralizovaného digitálního světa, který odolává centralizovanému firemnímu ovládání a podporuje svobodné a otevřené prostředí.
 
-Sdružení Meeds je zapsáno v Ženevě jako neziskové sdružení podle švýcarského práva.
+Právnickou osobou za Meeds je _Meeds Association_, nezisková organizace registrovaná podle švýcarského práva v Ženevě. Odpovídá za regulaci vydávání žetonu Meeds(MEED), žetonu ERC20 uznaného jako žeton pro veřejné služby.
 
-Asociace reguluje vydávání měny Meeds, tokenu ERC20, uznávaného jako pomocný token.
+Meeds zdůrazňuje demokratickou správu věcí veřejných, kde se na rozhodovacím procesu podílejí symboličtí držitelé práv na vládu, jako jsou každoroční volby ve správní radě, zajištění transparentnosti a zapojení společenství do organizačních změn.
 
-K vybudování WoM a Meeds využívá sdružení platformu Ethereum a její ekosystém, díky čemuž je přístupný přátelským a nákladově efektivním způsobem všem uživatelům.
+Projekt Meeds využívá ekosystém Ethereum k realizaci Světu měn (WoM) a tokenů Meeds. Tento přístup upřednostňuje bezpečnost, dostupnost, uživatelskou vstřícnost a efektivitu nákladů, takže je přitažlivý pro širokou uživatelskou základnu.
 
-Sdružení je strukturováno jako decentralizovaná autonomní organizace (DAO), kde držitelé tokenů řízení každý rok hlasují o všech důležitých organizačních změnách, jako je volba představenstva.
-
-Kromě správy tokenů Meeds je sdružení držitelem duševního vlastnictví (IP) softwaru Meeds [github.com/meeds-io](https://github.com/meeds-io), dostupný pod licencí LGPL a distribuovaný zdarma. Ten zahrnuje aplikaci peněženky Ethereum, kterou mohou uživatelé používat k ukládání a transakcím se svými Meedy (další podrobnosti viz část 2.4). Asociace Meeds také provozuje cloudovou hostingovou službu pro více nájemců využívající tento software.
+Meeds is a Open Source Software ([github.com/meeds-io](https://github.com/meeds-io)) provozovaný v cloudové infrastruktuře hostováním partnerů Meeds Association.
