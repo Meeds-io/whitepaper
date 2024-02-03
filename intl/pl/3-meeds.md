@@ -1,21 +1,21 @@
-# 3. Meeds token – waluta Work Metaverse
+# 3. Token Meeds-waluta WoM
 
-Przestrzeń Metaworka jest napędzana przez swoją walutę - token Meeds (MEED). Meeds służą do nagradzania użytkowników (poprzez programy zaangażowania), zakupów w sklepach, uzyskiwania aktów własności, uzyskiwania zwrotów finansowych z inwestycji itp.
+WoM jest zasilana przez swoją walutę - token Meeds (MEED). Meeds służą do nagradzania użytkowników (poprzez programy zaangażowania), zakupów w sklepach, uzyskiwania aktów własności, uzyskiwania zwrotów finansowych z inwestycji itp.
 
 ## 3.1. Tokenomika
 
 **Maksymalna podaż tokenów Meeds jest ograniczona do 100 milionów**, wybijanych stopniowo. **Meeds są wytwarzane w tempie 10 MEED na minutę**. Dlatego pełny horyzont wydobycia wynosi prawie 20 lat (ponieważ rocznie wydobywa się około 5 milionów Meeds, co wynosi około $10*60*24*365$).
 
-Do tej pory wyemitowano 5 milionów tokenów Meeds (5% całkowitej podaży). Z czego 4,5 mln zostało zamkniętych w kontrakcie skarbca z liniowym nabyciem uprawnień przez ponad 4 lata. Pre-minted ilość została głównie wykorzystana do nabycia oprogramowania IP, pokrycia kosztów związanych z emisją tokenów oraz usług hostingowych.
+Początkowo wybito 5 milionów meed (5% całkowitej podaży). Z czego 4,5 mln zostało zamkniętych w kontrakcie skarbca z liniowym nabyciem uprawnień przez ponad 4 lata. Wstępnie wybita kwota została wykorzystana głównie do nabycia Oprogramowania IP, opłacenia opłat prawnych token emission i usług hostingowych.
 
-Reszta stanowi część __funduszy Meeds DAO__ i zostanie wykorzystana na pokrycie kosztów usług oraz niektórych zachęt do uruchomienia, takich jak airdropy i kampanie poleceń.
+Reszta jest częścią__ meeds Dao funds < /0 > i zostanie wykorzystana na opłacenie usług i uruchomienie zachęt, takich jak zrzuty i kampanie polecające.</p>
 
 
 ## 3.2. Przydział mintowania
 
 Minted Meeds są przydzielane w celu zachęcenia do zaangażowania trzech kategorii interesariuszy - użytkowników, twórców i inwestorów:
 
-- Użytkownicy (użytkownicy i posiadacze/wynajmujący Deeds) otrzymują Meeds poprzez nagrody za zaangażowanie (model mintium).
+- Użytkownicy (użytkownicy i posiadacze czynności/renterów) otrzymują Meeds poprzez nagrody za zaangażowanie (model mintium).
 - Budowniczowie (członkowie stowarzyszenia i społeczności) otrzymują Meeds za pośrednictwem fundusze stowarzyszeniowe na budowę, obsługę i doskonalenie WoM.
 - Inwestorzy wytwarzają Meeds poprzez wynajem i zakup pul płynności oraz stawianie Meeds.
 
@@ -23,7 +23,7 @@ Na początku budowniczowie otrzymują 30% alokacji. Pozostałe 70% jest dzielone
 
 ## 3.3. Użytkownicy - wytwarzanie poprzez zaangażowanie
 
-Część stale wybitych meedów jest przydzielana kanałowi kopalni. Dystrybucja odbywa się co tydzień. W każdym końcu tygodnia obliczany jest indeks zaangażowania, a Deeds mogą ubiegać się o swoje nagrody w następnym tygodniu i otrzymać swoje Meeds. Nieprzyznane Meeds pozostają w funduszu i są dodawane do dystrybucji w kolejnym tygodniu. Model jest szczegółowo opisany w poprzednim rozdziale (część 2.6).
+Część stale wybitych meedów jest przydzielana kanałowi kopalni. Dystrybucja odbywa się co tydzień. Na koniec każdego tygodnia, indeks zaangażowania jest obliczany tak, aby liderzy centrów i właścicieli własności własności mogli otrzymać swoje nagrody w następnym tygodniu i zdobyć Meeds. Nieprzyznane Meeds pozostają w funduszu i są dodawane do dystrybucji w kolejnym tygodniu. Model jest szczegółowo opisany w poprzednim rozdziale (część 2.6).
 
 ## 3.4. Budowniczowie - Meeds stowarzyszenie DAO i społeczność budowniczych
 
@@ -33,11 +33,11 @@ Podczas okresu emisji, **30% wyemitowanych Meedsów jest przydzielane do stowarz
 
 Członkowie stowarzyszenia mogą świadczyć usługi dla stowarzyszenia na podstawie podpisanej umowy o świadczenie usług ustalającej stawkę dzienną. Usługi są płatne co miesiąc w Meeds, na podstawie ceny rynkowej. Przykłady usług obejmują - wzbogacanie oprogramowania Meeds, rozwijanie aplikacji WoM, tworzenie nowych łączników, obsługa usługi w chmurze, świadczenie usług finansowych i prawnych itp.
 
-Bez bycia członkiem, każdy Deed może wziąć udział w tworzeniu nowego łącznika i być za to nagradzany - najpierw poprzez nabycie łącznika przez stowarzyszenie Meeds, a następnie poprzez mintowanie przez ten łącznik.
+nie będąc członkiem, każda organizacja może uczestniczyć w tworzeniu nowego konektora i być za to wynagradzana – najpierw za pośrednictwem stowarzyszenia Meeds nabywającego konektor a następnie poprzez wybiór tego konektora.
 
-Towarzystwo zarządza społecznością Builders, która skupia entuzjastów WoM, którzy chcą przyczynić się do tworzenia WoM. Stowarzyszenie będzie sponsorować społeczność ze swojego budżetu, wynagradzając zaangażowanie członków społeczności.
+Stowarzyszenie obsługuje swoje własne centrum społecznościowe o nazwie _Meeds Builders Hub_ , które z zadowoleniem przyjmuje entuzjastów, którzy chcą przyczynić się do utworzenia WoM. Stowarzyszenie sponsoruje społeczność ze swojego budżetu, rekompensując zaangażowanie członków społeczności.
 
-Dlatego też społeczność będzie funkcjonować jako przykład Deed, oferując standardowy zestaw usług świadczonych przez stowarzyszenie. Stowarzyszenie stawia tokeny Meeds w celu wykupienia Deedu dla społeczności. Następnie społeczność będzie również uczestniczyć w wydobywaniu nagród za zaangażowanie, tak jak każdy inny Deed.
+Stąd też węzeł budowniczy funkcjonuje jako żywy przykład wspólnoty posiadającej uprawnienia dzięki oprogramowaniu Meeds, oferowanie standardowego zestawu usług świadczonych przez stowarzyszenie. Akcje stowarzyszenia Meeds w celu realizacji aktu własności dla swojej społeczności. W ten sposób Centrum Budownictwa korzysta również z wybiórczego zaangażowania, podobnie jak każde inne centrum poparte czynem.
 
 Po zakończeniu okresu emisji, stowarzyszenie będzie utrzymywane poprzez:
 
@@ -45,7 +45,7 @@ Po zakończeniu okresu emisji, stowarzyszenie będzie utrzymywane poprzez:
 - opodatkowanie dochodu ze sprzedaży (2,5% od sprzedaży Deedów)
 - pobieranie opłat za transakcje za korzystanie ze sklepów z rabatami
 - działając jako dostawca puli płynności
-- pobieranie opłat transakcyjnych za dystrybucję tokenów innego typu niż Meeds przez Deedy za pośrednictwem usług WoM.
+- postrzeganie opłat za transakcje, gdy centrum dystrybuuje tokeny inne niż Meeds za pośrednictwem usług WoM.
 - poprzez działalność operacyjną Deeds, które stworzyło stowarzyszenie w ciągu czasu.
 
 
@@ -59,7 +59,7 @@ Każdy członek ma również prawo do bezpośredniego zakupu dużej ilości Meed
 
 **Stawianie wkładów / inwestycja długoterminowa** Aby zachęcić do długoterminowej inwestycji, posiadacze zdeponowanych Meeds otrzymują nagrody. Kiedy Meeds są stakowane, staker otrzymuje pewną ilość tokenów xMeeds. Kiedy Meeds są stawkiowane, staker otrzymuje pewną ilość tokenów xMeeds. Nowo wyemitowane Meeds są dystrybuowane do stakerów proporcjonalnie do ich posiadanych xMeeds. W praktyce wybite Meedy są efektywnie dodawane do posiadanych przez kontrakt xMeeds i rozdzielane na posiadaczy xMeeds, gdy wycofają swoje stawki.
 
-Poprzez stawianie Meeds, inwestorzy mogą również wykupować Deeds (i następnie brać udział w mintingu poprzez engagement), co zwiększa popyt na tokeny. Każde złożone w depozycie Meeds (xMeeds) przysługuje jego właścicielowi określona liczba punktów dziennie. Im dłuższy okres, na jaki przypada przetrzymywana waluta, tym większa liczba punktów uzyskana na jeden xMeeds. Każdy Czyn uprawnia do uzyskania określonej liczby punktów.
+Dzięki udziałowi Meeds, inwestorzy mogą również wykupić NFT (a następnie uczestniczyć w kopaniu poprzez zaangażowanie), zwiększając tym samym popyt na token. Każde złożone w depozycie Meeds (xMeeds) przysługuje jego właścicielowi określona liczba punktów dziennie. Im dłuższy okres, na jaki przypada przetrzymywana waluta, tym większa liczba punktów uzyskana na jeden xMeeds. Każdy Czyn uprawnia do uzyskania określonej liczby punktów.
 
 Punkty są obliczane za pomocą poniższego wzoru:
 
@@ -94,14 +94,14 @@ Posiadacze tokenów Meeds muszą stawiać swoje tokeny, aby móc głosować w sp
 
 ## 3.7. Usługi użytkowników finansów zdecentralizowanych (DeFi)
 
-Work Metaverse wprowadzi świat blockchain do wielu osób, które dzisiaj go nie używają.
+WoM przedstawi świat blockchain wielu osobom, które nie używają go dzisiaj.
 
 W rzeczywistości, każda praca (czy to cyfrowa, czy nie) może zostać przekształcona w grę, a każde zaangażowanie - nagrodzone Meedami. Meeds są udostępnione użytkownikom poprzez łatwy w użyciu, oparty na blockchainie portfel, który "abstrahuje" jakąkolwiek złożoność świata kryptowalut dla przeciętnego użytkownika.
 
 Ponad portfelem i sklepem, w którym użytkownicy mogą kupować przywileje za Meeds, planujemy wprowadzić każdego użytkownika do kilku produktów końcowych zasilanych protokołami DeFi, takich jak:
 
-- Możliwość stawiania tokenów Meeds i uzyskiwania zysków (generowanie przychodów)
-- Możliwość ustanowienia depozytu Meeds i uzyskania zysków (generowanie przychodów) oraz używania tokenów Meeds jako zabezpieczenia do pożyczania stabilnych kryptowalut, takich jak USDC (poprzez wykorzystanie puli Fuse, a następnie zarejestrowanie tokena Meeds w AAVE).
+- Możliwość zakładania tokenów MEED i uzyskiwania zysków (generowanie przychodów)
+- Możliwość użycia tokenów MEED jako zabezpieczenia do pożyczenia stabilnych monet, takich jak USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) , a następnie rejestracja tokena Meeds do [AAVE](https://aave.com/).
 - Cyfrowa karta, która może być dodana i używana przez Apple Pay, Google Pay lub dowolny bankomat. Powyższe będzie możliwe dzięki partnerstwu z VISA i wykorzysta linię kredytową w USDC, zabezpieczoną przez stakowane Meeds. Ta karta mogłaby również być używana przez organizacje do zasilania portfeli pracowników w celu zarządzania korzyściami pracowniczymi, takimi jak posiłki w restauracjach, transport i wszelkiego rodzaju wydatki.
 
 Więc nie tylko wielu nowych użytkowników odkryje świat technologii blockchain, ale również odkryje świat pozbawiony banków.
