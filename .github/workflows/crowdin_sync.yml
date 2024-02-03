@@ -30,7 +30,7 @@ jobs:
             LOCALES='${{ inputs.locales }}'
           else
             LOCALES='["fr"]'
-            # LOCALES='["ar", "cs", "de", "el", "es-ES", "et", "fa", "fil", "fr", "he", "hi", "hr", "id", "it", "ja", "ko", "lt", "nl", "no", "pl", "pt-PT", "pt-BR", "ro", "ru", "sk", "sl", "sv-SE", "th", "tr", "uk", "vi", "zh-CN", "zh-TW"]'
+            # LOCALES='["ar", "cs", "de", "el", "es-ES", "et", "fa", "fi", "fil", "fr", "he", "hi", "hr", "id", "it", "ja", "ko", "lt", "ms", "nl", "no", "pl", "pt-PT", "pt-BR", "ro", "ru", "sk", "sl", "sv-SE", "th", "tr", "uk", "vi", "zh-CN", "zh-TW"]'
           fi
           echo "locales=${LOCALES}" >> $GITHUB_OUTPUT
 
