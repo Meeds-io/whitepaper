@@ -35,9 +35,9 @@ Assotsiatsiooni liikmed võivad pakkuda assotsiatsioonile teenuseid allkirjastat
 
 Ilma liikmeksolekuta saab iga organisatsioon osaleda uue konnektori loomises ja saada selle eest tasu – esmalt ühenduse Meeds kaudu, kes soetab konnektori ja seejärel vermides selle konnektori.
 
-The association operates a it's own community hub named the Builders's Hub that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
+The association operates its own community hub named the _Meeds Builders Hub_ that welcomes enthusiasts, who want to contribute to the creation of the WoM. The association sponsors the community out of its budget, compensating the engagement of community members.
 
-Thus, the builders' hub will function as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. Ühing panustab meets-i, et lunastada oma kogukonnale akt. Thus, the Builder's Hub will also benefit in the engagement minting like any other Hub backed by a Deed.
+Thus, the builders' hub functions as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. Ühing panustab meets-i, et lunastada oma kogukonnale akt. Thus, the Builder's Hub also benefits in the engagement minting like any other Hub backed by a Deed.
 
 Pärast rahapaigutusperioodi lõppu säilitab ühing :
 
@@ -59,7 +59,7 @@ Igal liikmel on ka õigus osta otse suures koguses Meeds'i soodushinnaga. Ühing
 
 **Pidamine / pikaajaline investeering** Pikaajalise investeerimise soodustamiseks premeeritakse panustatud meediume. Kui Meedid on panustatud, saab panustaja mõned xMeeds-märgid. Värskelt vermitud Meedid jaotatakse stäkkerite vahel proportsionaalselt nende xMeedide osakaaluga. Praktikas lisatakse vermitud Meedid tegelikult xMeeds'i aruka lepingu varudesse ja jaotatakse xMeeds'i omanikule, kui ta vabastab oma osaluse.
 
-By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. Iga panustatud Meeds (xMeeds) annab oma omanikule teatud arvu punkte päevas. Mida pikem on kehtivusaeg, seda rohkem punkte saadakse ühe xMeedi kohta. Iga Deed lunastatakse seejärel teatud arvu punktide vastu.
+By staking Meeds, investors can also redeem Deed NFTs (and then participate in minting through engagement), hence increasing the token demand. Iga panustatud Meeds (xMeeds) annab oma omanikule teatud arvu punkte päevas. Mida pikem on kehtivusaeg, seda rohkem punkte saadakse ühe xMeedi kohta. Iga Deed lunastatakse seejärel teatud arvu punktide vastu.
 
 Punktid arvutatakse alljärgneva valemiga :
 
@@ -100,8 +100,8 @@ Tõepoolest, mis tahes tööd (olgu see siis digitaalne või mitte) saab mängul
 
 Lisaks rahakotile ja kauplusele, kus nad saavad osta Meedide soodustusi, plaanime tutvustada igale kasutajale mitmeid lõppkasutaja tooteid, mis põhinevad detsentraliseeritud finantsprotokollidel, näiteks:
 
-- The ability to stake Meeds tokens and get yields (generate revenues)
-- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
+- The ability to stake MEED tokens and get yields (generate revenues)
+- The ability to use MEED tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
 - Digitaalne kaart, mida saab lisada ja kasutada Apple Pay, Google Pay või mis tahes sularahaautomaadi kaudu. Viimast saab pakkuda VISAga sõlmitud partnerluse kaudu ning see võimaldab kasutada USDC krediidiliini, mis on tagatud panustatud meediatega. Seda kaarti võivad organisatsioonid kasutada ka töötajate rahakoti rahastamiseks, et hallata töötajate soodustusi, nagu restoranid, transport ja mis tahes liiki kulud.
 
 Seega avastavad paljud uued kasutajad mitte ainult plokiahela maailma, vaid ka pangavaba maailma.
