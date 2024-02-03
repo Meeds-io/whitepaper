@@ -35,9 +35,9 @@ WoM و توکن Meeds توسط انجمن غیرانتفاعی Meeds DAO که د
 
 Without being a member, any organization can participate in the creation of a new connector and be rewarded for doing so – first through the Meeds association acquiring the connector and then by minting through this connector.
 
-The association operates a it's own community hub named the Builders's Hub that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
+The association operates its own community hub named the _Meeds Builders Hub_ that welcomes enthusiasts, who want to contribute to the creation of the WoM. The association sponsors the community out of its budget, compensating the engagement of community members.
 
-Thus, the builders' hub will function as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. The association stakes Meeds in order to redeem a Deed for its community. Thus, the Builder's Hub will also benefit in the engagement minting like any other Hub backed by a Deed.
+Thus, the builders' hub functions as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. The association stakes Meeds in order to redeem a Deed for its community. Thus, the Builder's Hub also benefits in the engagement minting like any other Hub backed by a Deed.
 
 پس از اتمام دوره ضرب، انجمن توسط:
 
@@ -59,7 +59,7 @@ Thus, the builders' hub will function as a live example of a community empowered
 
 **سرمایه گذاری بلندمدت / سرمایه گذاری** برای تشویق سرمایه‌گذاری بلندمدت، به Meedهای سهامدار پاداش داده می‌شود. هنگامی که Needs شرط بندی می شود، استاکر تعدادی توکن xMas دریافت می کند. Meedهای تازه ضرب شده به تناسب دارایی xMeeds بین سهامداران توزیع می شود. در عمل، Meeds ساخته شده به طور موثر به دارایی های قرارداد هوشمند xMeeds اضافه می شود و در صورت لغو سهام، بین دارنده xMeeds توزیع می شود.
 
-By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. هر Meeds شرط بندی شده (xMeeds) به صاحب خود تعدادی امتیاز در روز اعطا می کند. هرچه مدت زمان طولانی‌تر باشد، تعداد امتیازهای به‌دست‌آمده در هر xMeeds بیشتر می‌شود. سپس هر سند در ازای تعدادی امتیاز بازخرید می شود.
+By staking Meeds, investors can also redeem Deed NFTs (and then participate in minting through engagement), hence increasing the token demand. هر Meeds شرط بندی شده (xMeeds) به صاحب خود تعدادی امتیاز در روز اعطا می کند. هرچه مدت زمان طولانی‌تر باشد، تعداد امتیازهای به‌دست‌آمده در هر xMeeds بیشتر می‌شود. سپس هر سند در ازای تعدادی امتیاز بازخرید می شود.
 
 امتیازها با استفاده از فرمول زیر محاسبه می شوند:
 
@@ -100,8 +100,8 @@ The WoM will introduce the blockchain world to many people who do not use it tod
 
 فراتر از کیف پول و فروشگاهی که در آن می‌توانند هدیه‌هایی را برای Meeds خریداری کنند، ما قصد داریم به هر کاربر چندین محصول نهایی که توسط پروتکل‌های مالی غیرمتمرکز ارائه می‌شوند، معرفی کنیم، مانند:
 
-- The ability to stake Meeds tokens and get yields (generate revenues)
-- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
+- The ability to stake MEED tokens and get yields (generate revenues)
+- The ability to use MEED tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
 - کارت دیجیتالی که می تواند از طریق Apple Pay، Google pay یا هر دستگاه خودپرداز اضافه و استفاده شود. دومی می تواند از طریق مشارکت با VISA ارائه شود و از یک خط اعتباری در USDC استفاده می کند که توسط Meeds سهامدار تضمین می شود. این کارت همچنین می تواند توسط سازمان ها برای تامین مالی کیف پول کارکنان به منظور مدیریت مزایای کارکنان مانند رستوران ها، حمل و نقل و هر نوع هزینه استفاده شود.
 
 بنابراین نه تنها بسیاری از کاربران جدید دنیای بلاک چین را کشف خواهند کرد، بلکه دنیای بدون بانک را نیز کشف خواهند کرد.
