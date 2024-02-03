@@ -35,9 +35,9 @@ WoM ו-Meeds token מופעלים על ידי עמותת Meeds Association DAO, 
 
 מבלי להיות חבר, כל ארגון יכול להשתתף ביצירת מחבר חדש ולהיות מתוגמל על כך – תחילה באמצעות אגודת מידס רכישת המחבר ולאחר מכן על ידי טביעת דרך מחבר זה.
 
-The association operates a it's own community hub named the Builders's Hub that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
+The association operates its own community hub named the _Meeds Builders Hub_ that welcomes enthusiasts, who want to contribute to the creation of the WoM. The association sponsors the community out of its budget, compensating the engagement of community members.
 
-Thus, the builders' hub will function as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. האגודה מעמידה את מידס כדי לפדות חוזה עבור הקהילה שלה. Thus, the Builder's Hub will also benefit in the engagement minting like any other Hub backed by a Deed.
+Thus, the builders' hub functions as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. האגודה מעמידה את מידס כדי לפדות חוזה עבור הקהילה שלה. Thus, the Builder's Hub also benefits in the engagement minting like any other Hub backed by a Deed.
 
 לאחר סיום תקופת ההטבעה, העמותה תתקיים על ידי:
 
@@ -59,7 +59,7 @@ Thus, the builders' hub will function as a live example of a community empowered
 
 **השקעה / השקעה לטווח ארוך** כדי לעודד השקעות לטווח ארוך, Meeds בהימורים מתוגמלים. כאשר Meeds מוצמדים, המחזיק מקבל כמה אסימוני xMeeds. Meeds שהוטבעו לאחרונה מחולקים לבעלי עניין באופן יחסי להחזקות ה-xMeeds שלהם. בפועל, Meeds שנטבעו מתווספים למעשה להחזקות החוזה החכם של xMeeds ומחולקים למחזיק xMeeds כאשר הם מתבטלים.
 
-By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. כל Meeds בהימור (xMeeds) מעניק לבעליו מספר נקודות ביום. ככל שתקופת ההבשלה ארוכה יותר כך מספר הנקודות שהושג לכל xMeeds גבוה יותר. לאחר מכן כל Deed נפדה בתמורה למספר נקודות.
+By staking Meeds, investors can also redeem Deed NFTs (and then participate in minting through engagement), hence increasing the token demand. כל Meeds בהימור (xMeeds) מעניק לבעליו מספר נקודות ביום. ככל שתקופת ההבשלה ארוכה יותר כך מספר הנקודות שהושג לכל xMeeds גבוה יותר. לאחר מכן כל Deed נפדה בתמורה למספר נקודות.
 
 הנקודות מחושבות באמצעות הנוסחה שלהלן:
 
@@ -100,8 +100,8 @@ By staking Meeds, investors can also redeem Deeds (and then participate in minti
 
 מעבר לארנק ולחנות שבה הם יכולים לרכוש הטבות עבור Meeds, אנו מתכננים להציג לכל משתמש מספר מוצרי משתמש קצה המופעלים על ידי פרוטוקולי הפיננסים המבוזרים, כגון:
 
-- The ability to stake Meeds tokens and get yields (generate revenues)
-- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
+- The ability to stake MEED tokens and get yields (generate revenues)
+- The ability to use MEED tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
 - כרטיס דיגיטלי שניתן להוסיף ולהשתמש בו דרך Apple Pay, Google Pay או כל כספומט. את האחרון ניתן לספק באמצעות שותפות עם VISA וימנף מסגרת אשראי ב-USDC, המובטחת על ידי Meeds. כרטיס זה יכול לשמש גם ארגונים למימון ארנקי עובדים על מנת לנהל הטבות לעובדים כגון מסעדות, תחבורה וכל סוג של הוצאות.
 
 אז לא רק משתמשים חדשים רבים יגלו את עולם הבלוקצ'יין, הם גם יגלו עולם נטול בנק.

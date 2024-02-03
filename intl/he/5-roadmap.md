@@ -22,7 +22,7 @@ The WoM would have its own currency the **MEED** – that would be there to spen
 
 בפרט, ה-WoM מתגמל השקעה לטווח ארוך בפסוק - כלומר פדיון הנכס (Deeds). הבעלים המקורי של ה-Deed מקבל פיצוי באמצעות טביעת אירוסין (שימוש פעיל), באמצעות הכנסה פסיבית (השכרה) ומקבל 1% לכל החיים על כל עסקת מכירה של ה-Deed (בכל שינוי בעלות, הפואל המקורי מקבל עמלה על עִסקָה).
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. הם גם יקבלו את זכויות ההצבעה המוקדמות ביותר ויעזרו לעצב את WoM.
+By believing in the project, participating in the liquidity pools, staking MEED tokens, redeeming them against Deeds...early investors of all sizes would mint additional tokens. הם גם יקבלו את זכויות ההצבעה המוקדמות ביותר ויעזרו לעצב את WoM.
 
 ארגונים שרוכשים אך במיוחד משתמשים ב-Deeds כדי לעסוק ולתגמל את העובדים שלהם יקבלו פיצוי ב-Meeds שנטבעו. ככל שהם ישחקו יותר הוגנים, כך הם יקבלו יותר. המאמצים המוקדמים יותר ישויכו לערים ההיסטוריות הראשונות ויזוהו כבונים בהמשך.
 
@@ -38,17 +38,17 @@ By believing in the project, participating in the liquidity pools, staking Meeds
 
 ## 5.3. השיגור
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+The official launch of the WoM was **May 1st, 2022** – the International Workers Day, celebrated in many countries.
 
-At that time, the Meed token already exists. אפשר לרכוש אותו ומאגרי נזילות פתוחים להשתתפות, ברשתות Polygon ו-Ethereum.
+At that time, the MEED token already existed. אפשר לרכוש אותו ומאגרי נזילות פתוחים להשתתפות, ברשתות Polygon ו-Ethereum.
 
 שלושה חברי עמותת Meeds משתמשים במערכת באופן פנימי כדי לערב ולתגמל את המשתמשים שלהם ולשפר את תוכנת Meeds.
 
 אפליקציית המשקיעים זמינה ב-Ethereum Mainnet. בהשקה, הוא כולל הימור, תגמולי נזילות, צבירת נקודות ומימוש Deeds.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. אפשר להתחבר עם Metamask.
+The Builders community is up and running, open to anyone who would want to join, test and participate. אפשר להתחבר עם Metamask.
 
-This paper was published on the launch day. לאחר ההשקה, האסימון יונח באוויר לאנשים רבים ברחבי קהילת הקריפטו.
+This paper was initially published on the launch day. לאחר ההשקה, האסימון יונח באוויר לאנשים רבים ברחבי קהילת הקריפטו.
 
 ## 5.4. קהילת הבונים
 
