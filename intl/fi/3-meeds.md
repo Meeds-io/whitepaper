@@ -15,7 +15,7 @@ Loput ovat osa __ Meeds DAO-rahastoja__, ja niitä käytetään palveluiden maks
 
 Minted Meeds on suunnattu edistämään kolmen sidosryhmän – käyttäjien, rakentajien ja sijoittajien – osallistumista:
 
-- Käyttäjät (käyttäjät ja tekojen haltijat/vuokraajat) saavat Meeds sitoutumispalkinnoilla (mintiummalli).
+- Käyttäjät (käyttäjät ja Deedin haltijat/vuokraajat) saavat Meediä sitoutumispalkkioiden kautta (mintium-malli).
 - Rakentajat (yhdistyksen jäsenet ja yhteisö) saavat Meeds kautta yhdistyksen rahastojen rakentaa, käyttää ja parantaa WoM.
 - Sijoittajat rahapaja Meeds vuokraamalla ja ostamalla likviditeettipooleja ja panostamalla Meeds.
 
@@ -23,7 +23,7 @@ Alussa rakentajat saavat 30 % määrärahoista. Käyttäjät ja sijoittajat jaka
 
 ## 3.3. Käyttäjät – kaivostoiminta sitoutumisen kautta
 
-Osa jatkuvasti louhituista Meeds on osoitettu vaikuttavalle kaivoskanavalle. Jakelu on tehty viikoittain. Missä tahansa viikon lopussa sitoutumisindeksi lasketaan ja Deeds voi lunastaa palkkansa seuraavana viikolla ja saada Meedit. Lunastamattomat Meeds pysyvät rahastossa ja lisätään ensi viikon jakeluun. Malli on kuvattu yksityiskohtaisesti edellisessä luvussa (2.6 kohta).
+Osa jatkuvasti louhituista Meeds on osoitettu vaikuttavalle kaivoskanavalle. Jakelu on tehty viikoittain. Minkä tahansa viikon lopussa sitoutumisindeksi lasketaan, jotta keskusten johtajat ja Deedien omistajat voivat lunastaa palkintonsa seuraavalla viikolla ja saada Meedit. Lunastamattomat Meeds pysyvät rahastossa ja lisätään ensi viikon jakeluun. Malli on kuvattu yksityiskohtaisesti edellisessä luvussa (2.6 kohta).
 
 ## 3.4. Rakentajat – Meeds yhdistys DAO ja yhteisö rakentajat
 
@@ -33,11 +33,11 @@ Kaivostoiminnan aikana **30 % kaivostoiminnasta jaetaan Meeds Associationille**.
 
 Yhdistyksen jäsenet voivat tarjota palveluja yhdistykselle sellaisen allekirjoitetun palvelusopimuksen perusteella, jossa vahvistetaan päivämäärä. Palvelut maksetaan kuukausittain Meeds, perustuu markkinahintaan. Palveluvapauksia ovat muun muassa – rikastuttamalla Meeds-ohjelmistoa, kehittämällä WoM-sovellusta, uusien liitinten kehittäminen, pilvipalvelujen tarjoaminen, rahoitus- ja lakipalvelujen tarjoaminen jne.
 
-Ei ole jäsentä, kaikki Deed voi osallistua uuden liittimen luomiseen ja palkita siitä – ensin Meeds-liittimen hankkimisen kautta ja sitten lyömällä tämän liittimen läpi.
+Ilman jäsenyyttä mikä tahansa organisaatio voi osallistua uuden liittimen luomiseen ja saada siitä palkkion - ensin liittimen hankkivan Meeds-järjestön kautta ja sitten tämän liittimen kautta tapahtuvan rahanlyönnin kautta.
 
-Yhdistys ylläpitää Builders yhteisöä, joka toivottaa WoM harrastajat, jotka haluavat osallistua luomisen WoM. Yhdistys tukee yhteisöä sen talousarviosta, ja se korvaa yhteisön jäsenten sitoutumisen.
+Yhdistys ylläpitää omaa yhteisökeskustaan nimeltä _Meeds Builders Hub_ , joka toivottaa innokkaat tervetulleiksi, jotka haluavat osallistua WoM:n luomiseen. Yhdistys tukee yhteisöä sen talousarviosta, ja se korvaa yhteisön jäsenten sitoutumisen.
 
-Näin ollen yhteisö toimii esimerkkinä Deed -yrityksestä, joka tarjoaa yhdistyksen tarjoamat vakiomuotoiset palvelut. Yhdistys panokset Meeds jotta lunastaa Deed for the community. Yhteisö osallistuu sitten myös sitoutumisen kaivostoimintaan kuten mikä tahansa muu Deed.
+Näin ollen rakentajien keskus toimii live-esimerkkinä yhteisöstä, joka on valtuutettu Meeds-ohjelmistolla, tarjotaan yhdistyksen tarjoamia vakiomuotoisia palveluja, joita yhdistys tarjoaa. Yhdistys panostaa Meedeihin lunastaakseen yhteisölleen kauppakirjan. Näin ollen Builderin Hub hyötyy myös sitoutumisesta kaivostoimintaan kuten mikä tahansa muu Hub tukena Deed.
 
 Kun kaivostoiminta on ohi, yhdistys on jatkunut :
 
@@ -45,7 +45,7 @@ Kun kaivostoiminta on ohi, yhdistys on jatkunut :
 - myyntitulojen verottaminen (2,5 % Deeds -myynnistä)
 - maksutapahtumien palkkioiden hahmottaminen yli maksutapahtumien kaupan käytön
 - likviditeettipoolin tarjoajan toiminta
-- hahmottaa maksutapahtumamaksut, kun Deed jakaa non Meeds -kuponkia WoM palvelujen kautta.
+- transaktiomaksujen havaitseminen, kun keskittymä jakaa muita kuin Meedsin rahakkeita WoM-palvelujen kautta.
 - käyttämällä tekoja, jotka yhdistys on lyönyt ajan myötä.
 
 
@@ -59,7 +59,7 @@ Jokaisella jäsenellä on myös oikeus ostaa suoraan suuri määrä Meeds alennu
 
 **Staking / long-term investment** Panostaminen / pitkäaikainen sijoitus Panostaminen Meeds palkitaan. Kun Meeds on panostettu, staker saa joitakin xMeeds poletteja. Äskettäin louhittu liha jaetaan stakeille suhteessa niiden xMeeds tiloihin. Käytännössä minted Meeds -tuotteet lisätään tehokkaasti xMeedsin älykkään sopimuksen tiloihin ja jaetaan xMeedsin haltijalle, kun ne ovat vaakalaudalla.
 
-Panostamalla Meeds, sijoittajat voivat myös lunastaa Deeds (ja sitten osallistua kaivostoiminnan kautta sitoutuminen), mikä lisää tunnettua kysyntää. Jokainen panostettu Meeds (xMeeds) myöntää omistajalleen useita pisteitä päivässä. Mitä pidempi itseisaika on, sitä suurempi on xMeediä kohti saatujen pisteiden määrä. Jokainen Deed on sitten lunastetaan vastineeksi useita pistettä.
+Panostamalla Meeds, sijoittajat voivat myös lunastaa Deed NFTs (ja sitten osallistua kaivostoiminta kautta sitoutuminen), mikä lisää tunnettua kysyntää. Jokainen panostettu Meeds (xMeeds) myöntää omistajalleen useita pisteitä päivässä. Mitä pidempi itseisaika on, sitä suurempi on xMeediä kohti saatujen pisteiden määrä. Jokainen Deed on sitten lunastetaan vastineeksi useita pistettä.
 
 Pisteet lasketaan seuraavan kaavan avulla:
 
@@ -100,8 +100,8 @@ Itse asiassa mikä tahansa työ (digitaalinen tai ei) voidaan pelotella ja sitou
 
 Lompakon ulkopuolella ja kaupassa, jossa he voivat ostaa etuja Meeds, Aiomme ottaa käyttöön jokaisen käyttäjän useita loppukäyttäjän tuotteita, jotka on varustettu hajautetun rahoituksen protokollien avulla, kuten:
 
-- Kyky panostaa Meeds poletteja ja saada tuottoja (tuottaa tuloja)
-- Kyky käyttää Meeds poletteja vakuutena lainata vakaita kolikoita, kuten USDC (vipuvaikutus ensin [Fuse-poolin](https://app.rari.capital/fuse) ja rekisteröi Meeds polin [AAVE](https://aave.com/).
+- Mahdollisuus panostaa MEEDin rahakkeisiin ja saada tuottoja (tuottaa tuloja).
+- Kyky käyttää MEED kuponkia vakuutena lainata vakaita kolikoita, kuten USDC (vipuvaikutus ensin [Fuse-poolin](https://app.rari.capital/fuse) ja rekisteröi Meeds token [AAVE](https://aave.com/).
 - Digitaalinen kortti, joka voidaan lisätä ja käyttää Apple Payn, Googlen tai minkä tahansa ATM: n kautta. Jälkimmäistä voidaan tarjota VISAn kanssa solmitun kumppanuuden avulla, ja se tarjoaa USDC: n luottolimiittiä, jonka vakuutena ovat panostaneet Meedit. Organisaatiot voivat käyttää tätä korttia myös rahoittaakseen työntekijöiden lompakkoja, jotta voidaan hallinnoida työntekijöiden etuuksia, kuten ravintoloita, kuljetus ja kaikenlaiset kulut.
 
 Joten vain monet uudet käyttäjät löytävät blockchain maailma, he myös löytää pankkimaton maailma.

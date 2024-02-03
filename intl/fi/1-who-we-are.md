@@ -1,14 +1,12 @@
 
-# 1. Keitä me olemme – Meeds Association
+# 1. Tietoa Meistä
 
-Meeds-yhdistys on voittoa tavoittelematon järjestö, jonka käynnisti alun perin useita Open Source Software (OSS) -yhteisöjä, jotka ympäri yhteistä visiota vapaasta digitaalisesta maailmasta – hajautettu maailma, jota ei valvoisi kourallinen keskitettyjä megayhtiöitä.
+Meeds on monimuotoisten Open Source Software (OSS) -yhteisöjen johtama yhteistyöhanke, omistettu luomaan hajautettu digitaalinen maailma, joka vastustaa keskitettyä yritysvalvontaa ja edistää vapaata ja avointa ympäristöä.
 
-Meedes-yhdistys on sisällytetty Geneveen Sveitsin lainsäädännön mukaisena voittoa tavoittelemattomana yhdistyksenä.
+Meedsin takana oleva oikeussubjekti on _Meeds Association_, voittoa tavoittelematon järjestö, joka on perustettu Sveitsin lain mukaisesti Genevessä. Se on vastuussa Meeds(MEED) merkittyjen liikkeeseenlaskujen sääntelystä, ja ERC20-merkki, joka on tunnustettu hyödylliseksi tunnisteeksi.
 
-Yhdistys säätelee Meedes-valuutan liikkeeseenlaskua, joka on ERC20-merkki, joka on tunnustettu hyödylliseksi tunnisteeksi.
+Toiminta hajautettuna autonomisena järjestönä (DAO), Meeds korostaa demokraattista hallintotapaa, jossa hallinto-oikeudet omaavat tienomistajat osallistuvat keskeiseen päätöksentekoon, kuten hallituksen vuosivaalit, avoimuuden varmistaminen ja yhteisön osallistuminen organisaatiomuutoksiin.
 
-Rakentaa WoM ja Meeds, yhdistys hyödyntää Ethereum alustan ja sen ekosysteemin, sen tekeminen kaikkien käyttäjien ulottuville ystävällisellä ja kustannustehokkaalla tavalla.
+Meeds -hankkeessa hyödynnetään Ethereum ekosysteemiä, jonka avulla toteutetaan World of Meeds (WoM) ja Meeds token. Tässä lähestymistavassa asetetaan etusijalle turvallisuus, esteettömyys, käyttäjäystävällisyys ja kustannustehokkuus, mikä tekee siitä houkuttelevan laajan käyttäjäpohjan.
 
-Yhdistys on jäsennelty hajautettu Autonomous Organization (DAO) -järjestö, jossa hallinnon tunnuksen haltijat äänestävät kaikista tärkeistä organisaatiomuutoksista, kuten hallituksen valitsemisesta joka vuosi.
-
-Meeds token Managementin lisäksi yhdistyksellä on Meeds [github -ohjelmiston Intellectual Property (IP). om/meeds-io](https://github.com/meeds-io), saatavilla LGPL lisenssin nojalla ja jaetaan ilmaiseksi. Jälkimmäiseen sisältyy Ethereum lompakko-sovellus, jota käyttäjät voivat käyttää Meedsin tallentamiseen ja kaupankäyntiin (katso lisätietoja kohdassa 2.4). The Meeds Associationilla on myös monen vuokralaisen pilvipalvelun, joka hyödyntää tätä ohjelmistoa.
+Meeds on Open Source Software ([github.com/meeds-io](https://github.com/meeds-io)) toimii pilvessä isännöimällä Meeds Associationin yhteistyökumppaneita.
