@@ -8,7 +8,7 @@ Estará poblado por usuarios, actuando a través de sus identidades digitales **
 
 Las organizaciones podrían obtener talentos, navegando a través de la WoM, por las habilidades probadas correctamente. Serían recompensados por su participación en el Útero, acuñando tokens a través de la participación de sus usuarios (modelo mintium). Pero sobre todo, se beneficiarían de un mayor compromiso y lealtad de sus usuarios.
 
-La WoM tendría su propia moneda la **MUERTA** – que estaría ahí para gastar en tiendas, convertir en otra moneda, invertir para rentabilizar la inversión, alquilar, comprar, etc. El WoM también facilitaría la distribución de otros tokens y participaría en el ecosistema criptomonedas general.
+La WoM tendría su propia moneda la **MEED** – que estaría ahí para gastar en tiendas, convertir en otra moneda, invertir para rentabilizar la inversión, alquilar, comprar, etc. El WoM también facilitaría la distribución de otros tokens y participaría en el ecosistema criptomonedas general.
 
 Como una imagen vale más que mil palabras, he aquí un diagrama que describe los flujos WoM y Meeds
 
@@ -22,7 +22,7 @@ Obviamente, los primeros adoptantes tendrían ventajas considerables sobre los t
 
 En particular, el WoM recompensa la inversión a largo plazo en el verso, es decir, el rescate de la propiedad (Deeds). El propietario original de Deed recibe una compensación a través de la acuñación de compromisos (uso activo), a través de ingresos pasivos (alquiler) y obtiene un 1% de por vida sobre cualquier transacción de venta del Deed (en cada cambio de propietario, el canjeador original obtiene una comisión sobre la transacción).
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. También obtendrían los primeros derechos de voto y ayudarían a moldear a la mujer.
+Al creer en el proyecto, participando en los pozos de liquidez, apostando fichas MEED, redimiéndolas contra Deeds...los primeros inversores de todos los tamaños acuñarían fichas adicionales. También obtendrían los primeros derechos de voto y ayudarían a moldear a la mujer.
 
 Las organizaciones que adquieran, pero sobre todo que utilicen Deeds para comprometer y recompensar a sus empleados, recibirán una compensación en Meeds acuñados. Cuanto más justos jueguen, más ganarán. Tan pronto los adoptantes estarían asociados a las primeras ciudades históricas y serían identificados como los constructores más adelante.
 
@@ -38,17 +38,17 @@ El siguiente diagrama representa un ejemplo de la estrategia de inversión de Me
 
 ## 5.3. El lanzamiento
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+El lanzamiento oficial de la WoM fue **1 de mayo de 2022** – el Día Internacional de los Trabajadores, celebrado en muchos países.
 
-At that time, the Meed token already exists. Es posible adquirirlo y los pools de liquidez están abiertos a la participación, en las redes Polygon y Ethereum.
+En ese momento, el token MEED ya existía. Es posible adquirirlo y los pools de liquidez están abiertos a la participación, en las redes Polygon y Ethereum.
 
 Tres miembros de la asociación Meeds utilizan el sistema internamente para implicar y recompensar a sus usuarios y mejorar el software Meeds.
 
 La aplicación Investor está disponible en Ethereum Mainnet. En su lanzamiento, incluye apuestas, recompensas de liquidez, acumulación de puntos y canje de Deeds.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. Es posible acceder con Metamask.
+La comunidad de Construidores está en funcionamiento, abierta a cualquier persona que quiera unirse, probar y participar. Es posible acceder con Metamask.
 
-This paper was published on the launch day. Tras el lanzamiento, el token se distribuirá a muchas personas de la comunidad de criptomonedas.
+Este artículo fue publicado inicialmente el día de lanzamiento. Tras el lanzamiento, el token se distribuirá a muchas personas de la comunidad de criptomonedas.
 
 ## 5.4. La comunidad de builders
 

@@ -1,20 +1,19 @@
 
-# 2. Deeds NFT - WoM Organizations
+# 2. Acciones - Las Propiedades de la WoM
 
-## 2.1. NFT – Deeds defined
+## 2.1. NFTs de escritura
 
+En el ámbito digital, las fichas no funcionales (NFTs) tienen un propósito similar a las acciones en el mundo físico. Como un acto que confirma la propiedad de una propiedad tangible, los NFT establecen una propiedad indisputable de los activos digitales. Esta propiedad se registra de forma segura en una cadena de bloques, asegurándose de que cada activo sea único y no replicable.
 
- NFTs (Non-Fungible Tokens) can be compared to deeds in the real world. Just as deeds signify ownership of a tangible property, NFTs provide proof of ownership for digital assets. This property right is registered and maintained on a blockchain, thus, assuring that the asset is unique and can't be replicated.
+Dentro de la WoM, un Deed es conceptualizado como un NFT, representando la unidad fundacional de la propiedad. Tener un Deed faculta a su dueño para administrar un Hub de la Comunidad y hacerlos elegibles para recibir recompensas Mínimas, una forma de reconocimiento e incentivo dentro del ecosistema de WoM (más detalles en la sección 2.6).
 
- In the World of Meeds (WoM), a Deed is used as a core value of ownership. Each Deed gives its owner a right to access several services - for instance, an access to a community hub, some hidden dynamic tools powered by the Meeds software and Mintium rewards (see 2.6).
-
- The WoM welcomes all kinds of organizations - DAOs, traditional corporations, associations, think tanks, partnerships, theatre companies, project groups, schools etc. The Deed represents their digital presence in the WoM.
+El WoM está diseñado para ser una plataforma diversa e inclusiva. Acoge con satisfacción una amplia gama de organizaciones, desde DAO, empresas tradicionales y asociaciones para grupos de expertos, compañías de teatro, grupos de proyectos e instituciones educativas. En este panorama digital, un Deed simboliza la presencia digital de la organización y su huella en WoM, funciona como un puente entre sus operaciones en el mundo real y sus esfuerzos digitales.
 
 ## 2.2. Suministro de Deeds
 
 En última instancia, el WoM suministrará una cantidad limitada de Deeds. Cada Deed incluye un número máximo predefinido de usuarios y ofrece una capacidad de recompensa de Meeds (poder de acuñación). El término "usuario" designa aquí y en adelante a cualquier tipo de empleado, trabajador, autónomo, voluntario, etc.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or Meeds minting power, the rarest being the most powerful :
+Hay cuatro tipos de Escrituras, cada uno proporcionando diferentes capacidades en términos de número de usuarios, derechos de voto en una ciudad (ver 2. ) o poder de minta, siendo el más raro el más poderoso:
 
 | **Tipo de Deed** | **Usuarios máx.** | **Minting Power** | **Escaridad** | **Derechos de voto en la ciudad** |
 | ---------------- | ----------------- | ----------------- | ------------- | --------------------------------- |
@@ -27,61 +26,53 @@ There are four types of Deeds, each providing different capabilities in terms of
 
 Un Deed otorga a su propietario el derecho a UTILIZARLA, ALQUILARLA o VENDERLA.
 
-- USE – The Deed’s owners can use the Deed directly for their organization, providing services to its users.
-- RENT - The Deed’s owners can also rent the Deed to another organization in order to get passive income.
-- SELL - A Deed can be sold on a secondary market such as [OpenSea](https://opensea.io).
+- USE – El propietario puede usar el Deed para ejecutar un hub para su propia organización.
+- Alquilar - El propietario también puede alquilar el Deed a otra organización y ganar ingresos pasivos.
+- SELL - El propietario puede venderlo en un mercado secundario NFT como [OpenSea](https://opensea.io).
 
-Being an active holder or renter of a Deed, the organization is rewarded with Meeds, through an innovative “mintium” model described below (part 2.6).
+Siendo un titular activo o un arrendador de una Escritura, la organización tiene derecho a recompensas MEED de acuerdo con el modelo “mintium” descrito a continuación (ver 2.6).
 
-## 2.4. Deeds services, engagement/rewards engine
+## 2.4. Centros comunitarios
 
-In an increasingly competitive market, in order to attract and retain talents and maximize their input, organizations need to incentivize their users beyond simple compensation. The WoM provides an innovative framework to do that by tokenizing work engagement.
+En el mercado competitivo actual, las organizaciones buscan atraer y retener el talento más alto no sólo a través de la compensación, sino también mediante la mejora del compromiso laboral. La WoM aborda este desafío con un sistema de recompensas único y con tokenized embodied en Hubs comunitarios.
 
-Each Deed’s holder or renter can set and achieve fine-tuned organizational priorities by creating contribution programs for community members who earn engagement points that are Periodically converted into Meeds token (and - for DAOs - potentially another token), based on a predefined budget. In that manner, users’ engagement in activities that matter to the organization is rewarded.
+Dentro de estos Hubs, los líderes de la comunidad pueden impulsar el compromiso de los miembros ofreciendo un menú transparente de incentivos para los artículos de trabajo. Los participantes ganan puntos de compromiso por sus esfuerzos, que se convierten periódicamente en fichas MEED o en un equivalente personalizado, en línea con un presupuesto predeterminado.
 
-To begin with, the following free services provided by the Meeds association can be used to reward engagement:
+Community Hubs ofrecen un conjunto de herramientas y características diseñadas para impulsar y administrar el compromiso de los colaboradores:
 
-- **Gamification engine** – automatic actions within the WoM have a weight in points, that can be fine-tuned to the organization’s priorities via customizable engagement programs.
-- **Challenges** – customizable challenges can be set up to represent achievements. Challenges are preset by one person and can be full-filled and announced as such by another. Challenges carry a weight in points, within customizable engagement programs.
-- **Customizable engagement programs** - organizations can create their engagement programs to match their business goals and priorities. Programs are associated with automatic actions within the system and manually set challenges. Each program has a set Meeds budget. Periodically points earned by each user through automatic or announced actions in each engagement program are converted into Meeds, based on that program’s budget.
-- **Kudos** - kudos can be awarded by users to each other, as a thank you and a token of recognition. As kudos available to distribute are limited (a preset periodic limit, 3 per week for instance), they are rare and valuable. Like actions, kudos carry points. This way employees are empowered to reward their colleagues.
-- **Collaboration** tools, plugged into the rewarding engine – workspaces, asynchronous communication, a task management tool and notes – enable people to work together on projects.
-- **Wallet** – users are provided with a secure Ethereum technology wallet to store their Meeds. Alternatively, for advanced users, a Metamask wallet can be used.
-- **Store** – a store where Meeds can be exchanged against perks provided by the Deed’s holder or renter or by the Meeds ecosystem.
-- **Analytics** – to analyze and follow engagement within the Deed.
-- **Connectors**, plugged into the reward engine – users get engagement points via actions in another software - for instance for committing code in GitHub.
+- **Acciones**: Incentivizada las tareas guían a los colaboradores, alineando sus esfuerzos con los objetivos de la organización y potenciando la motivación y la dirección.
+- **Gamification**: Leaderboards y insignias transforman el trabajo en una experiencia divertida y competitiva, lo que aumenta el compromiso y el disfruto.
+- **Programas de compromiso**: Programas personalizados con objetivos específicos y recompensas clarifican las metas de la organización y reconocen de manera justa los logros de los colaboradores.
+- **Kudos**: El reconocimiento inmediato de los pares impulsa la moral y fomenta una cultura de apreciación, mejorando la cohesión del equipo y la motivación.
+- **Espacios**: Sub-grupos organizados y proyecta comunicación y colaboración en streamline, aumentando la productividad colectiva.
+- **Wallet**: The Wallet app securely stores MEED rewards, representing user contributions, and enables easy transactions both within the Hub and on the broader network.
+- **Beneficios**: Una variedad de recompensas, desde tarjetas de regalo hasta NFTs, fomente el compromiso continuo y fomente la lealtad dentro del ecosistema de la organización.
+- **Tasks**: Streamlined project and task management tools boost productivity by simplifying workflows and tracking progress.
+- **Notes**: A handy notebook app for documenting essential information like onboarding guides promotes knowledge sharing and organizational self-sufficiency.
+- **Branding**: Customizable Hub appearance attracts new contributors and strengthens their connection to the organization’s identity.
+- **Analytics**: Insightful analytics into community engagement enable leaders to identify effective strategies and make informed decisions for optimization.
 
-Some of the afore-mentioned tools and services are already decentralized, others are not. The ultimate goal is to provide all services in a decentralized manner, which we will do gradually as the underlying technology evolves.
 
-New services can be plugged into the reward engine through APIs. Examples are countless and can include virtually any software or service:
+**Starting a Hub** Initiating a Hub is most seamless via meeds.io, which offers access to a cloud platform managed by the Meeds Association. Esta plataforma permite una rápida configuración y es mantenida por la entidad sin fines de lucro que administra la WoM. Sin embargo, el WoM se encarga de la descentralización. Como el software de Meeds es de código abierto y distribuido libremente, las organizaciones tienen la opción de albergar un servidor Hub y conectarse a la red WoM, otorgarles un mayor control y personalización en la configuración y gestión de su Hub.
 
-- CRM software – salespeople would get engagement points for working on opportunities.
-- Accounting software – accountants would get engagement points for keeping books.
-- Clocking terminal – factory worker can get points for factory work time.
-- Etc.
+**Capturando señales de trabajo** Hubs pueden integrarse con varias plataformas como GitHub, Twitter, y Discord y son extensible a través de la API para conectarse con servicios tales como software CRM, software de contabilidad, y terminales de reloj. Esto permite reconocer y premiar diversas contribuciones profesionales. Todos los conectores son objeto de un proceso de lista blanca por parte de la Asociación de Medios para garantizar la integridad y la funcionalidad.
 
-Furthermore, engagement produced via the connector participates in the organization’s global engagement score which is a factor of the Meeds minting distribution, described below. In order to do that, the connector needs to be whitelisted by the Meeds Association. The association reviews the connector, approves of its algorithm and acquires its ownership against Meeds. It then becomes part of the free services provided by the association and is included in the global engagement index. Any other Hub can use the same connector and the same reward algorithm for its developers.
+**Enriching the Perks Store** Organizations can tailor the store with custom perks, incluyendo cursos de entrenamiento y membresías de Gimnasio, creando un ciclo de recompensas y compromiso autoreforzado. Esto no sólo alienta a los contribuidores, sino que también fomenta una conexión más profunda con el ecosistema de la organización.
 
-The organization can enrich its store with its own perks, connect to an online perks offer etc. There again the possibilities are endless:
+**Compromiso y Recompensas** La participación activa en el Hub contribuye a la puntuación de compromiso global de una organización. Esta métrica refleja la efectividad de las estrategias de compromiso, considerando factores como los niveles de actividad del usuario y la distribución equitativa de trabajo y recompensas. Esta puntuación pública auditable, autoriza a Hubs a una distribución de tokens MEED minted desde el protocolo, sirve como una medida de la efectividad de sus estrategias de compromiso.
 
-- Training courses
-- Gym memberships
-- Vacation packages
-- Lunch with a leader in the organization
-- Physical office space
-- Etc.
+Mirando hacia adelante, los centros comunitarios en el ecosistema de WoM están destinados a convertirse en el centro de la vida de la comunidad. integración de comunicaciones internas, interacciones en tiempo real, gobernanza y diversas herramientas de productividad. Estas mejoras asegurarán que los Hubs permanezcan interconectados con las mejores herramientas ya empleadas por las organizaciones. Son un poderoso testamento del compromiso de Meeds de fomentar una comunidad vibrante y comprometida.
 
-The store functions through the use of Meeds so that Meeds are partially returned to the community.
 
-## 2.5. Rewards – Meeds and other tokens
+## 2.5. Modelo de recompensa
 
-The WoM will tokenize users engagement, by gamifying digital work tools, and attributing points and Meeds in relation to work engagement. Services plugged into the engagement and reward engine attribute points to each user, according to their engagement level and in line with each Hub's engagement programs. Indeed, each community can fine-tune the amount of points given for each type of activity. Thus, pushing some code in GitHub may be worth 10 points for an IT shop, while a digital agency may attribute only 5 points for GitHub pushes but would offer 10 points for retweets.
+En la WoM, el compromiso de los usuarios a través de varias actividades de trabajo es asumido y gamiado, adaptado a los programas únicos de cada centro comunitario. Los usuarios ganan puntos reflejando su participación activa, y cada comunidad determina sus propias reglas para la asignación de puntos.
 
-Periodically, the rewarding engine converts engagement points into Meeds according to budgets and other distribution rules and ultimately rewards the users via their wallets. The Hub is not required to distribute Meeds and can use the engagement system to enable some other form of compensation program. However, distributing Meeds will improve its minting capacity.
+Por ejemplo, una empresa de TI podría otorgar 10 puntos por codificación en GitHub, mientras que una agencia digital podría dar mayor valor al compromiso con las redes sociales, como los retweets, con puntos similares.
 
-Moreover, the community does not necessarily need to acquire Meeds in order to distribute them and fuel its engagement programs, as it will get Meeds from the “mintium” model, described below.
+Las distribuciones regulares de recompensas se basan en los puntos acumulados en cada Hub. Por lo general, estos se dan en fichas MEED, entregados directamente a las carteras de los usuarios. Mientras que los tokens MEED son la forma estándar de recompensa, los Hubs tienen la flexibilidad para ofrecer diferentes tipos de compensación.
 
-In addition to Meeds, it will also be possible to distribute other tokens (for instance the DAO’s own tokens) based on the same engagement mechanism. In that case, the distribution will be subject to a 5% transaction fee (in DAO token) for the Meeds Association.
+Cuando las recompensas se distribuyen en fichas distintas de MEED, se aplica una cuota nominal del 5%. Esta tasa contribuye al tesoro de los Méedes, desempeñando un papel crucial en el mantenimiento de la sostenibilidad del ecosistema.
 
 ## 2.6. El modelo "mintium" - tokenizar el compromiso del trabajo
 
@@ -97,7 +88,7 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Dónde :
 
-- $A$ = _Actividad_ - número total de acciones acumuladas por los usuarios dentro del Hub a lo largo de la semana. (On a Hub, each action is converted into engagement points, some actions weighting more than others. A nivel de índice, todas las acciones están linealizadas).
+- $A$ = _Actividad_ - número total de acciones acumuladas por los usuarios dentro del Hub a lo largo de la semana. (En un Hub, cada acción de usuario se convierte en puntos de compromiso, algunas acciones que pesan más que otras. A nivel de índice, todas las acciones están linealizadas).
 - $U$ = _Usuarios comprometidos_ - usuarios que contribuyeron a los puntos durante la semana, mediante al menos una acción.
 - $E_d$ = _Tasa de compromiso del hub_ - acciones por usuario ($A/U$)
 - $E_w$ = _Tasa media de compromiso_ de todos los Hubs activos en el WoM.
