@@ -35,9 +35,9 @@ WoM と Meeds トークンは、上記で紹介した非営利の Meeds Associat
 
 メンバーになっていない あらゆる組織は、新しいコネクタの作成に参加し、そうすることで報酬を得ることができます – 最初にMeeds協会を通じてコネクタを取得し、次にこのコネクタを介してミントすることによって。
 
-The association operates a it's own community hub named the Builders's Hub that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
+この協会は、愛好家を歓迎する _Meeds Builders Hub_ という名前の独自のコミュニティハブを運営しています。 WoMの作成に貢献したい人。 協会は予算からコミュニティをスポンサーし、コミュニティメンバーの関与を補います。
 
-Thus, the builders' hub will function as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. 協会は、そのコミュニティのために証言を償還するためにミーズに賭けます。 Thus, the Builder's Hub will also benefit in the engagement minting like any other Hub backed by a Deed.
+したがって、ビルダーのハブはMeedsソフトウェアによって権限を与えられたコミュニティのライブ例として機能します。 協会が提供する標準的なサービスを提供しています 協会は、そのコミュニティのために証言を償還するためにミーズに賭けます。 このように、Builder's Hubは、Deedに裏打ちされた他のハブと同様にエンゲージメント鋳造にもメリットがあります。
 
 鋳造期間が終了した後、関連付けは以下によって維持されます。
 
@@ -59,7 +59,7 @@ Thus, the builders' hub will function as a live example of a community empowered
 
 **ステーキング / 長期投資** 長期投資を奨励するために、ステーキングされた Meeds には報酬が与えられます。 Meedsがステークされると、ステーカーはいくつかのxMeedトークンを取得します。 新たに作成された Meeds は、保有する xMeeds に比例してステーカーに分配されます。 実際には、造幣されたミードは事実上xMeedsスマートコントラクトの保有量に追加され、アンステーク時にxMeeds保有者に配布されます。
 
-By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. ステーキングされた Meeds (xMeeds) ごとに、所有者に 1 日あたりのポイント数が付与されます。 権利確定期間が長いほど、xMeeds あたりの獲得ポイント数が高くなります。 その後、各 Deed は多数のポイントと交換されます。
+Meedsに投資することで、投資家はDeed NFTs(そしてエンゲージメントを通じてミニングに参加する)を引き換えることができ、トークンの需要が増加します。 ステーキングされた Meeds (xMeeds) ごとに、所有者に 1 日あたりのポイント数が付与されます。 権利確定期間が長いほど、xMeeds あたりの獲得ポイント数が高くなります。 その後、各 Deed は多数のポイントと交換されます。
 
 ポイントは以下の式を使用して計算されます。
 
@@ -100,8 +100,8 @@ WoMは今日それを使用しない多くの人々にブロックチェーン�
 
 Meeds の特典を購入できるウォレットとストアを超えて、次のような分散型金融プロトコルによって強化されたいくつかのエンドユーザー製品をすべてのユーザーに紹介する予定です。
 
-- The ability to stake Meeds tokens and get yields (generate revenues)
-- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
+- MEEDトークンをステークして利回り(収益を生み出す)
+- The ability to use MEED tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
 - Apple Pay、Google Pay、または任意の ATM で追加して使用できるデジタル カード。 後者はVISAとの提携により提供され、ステークされたMeedを担保にしたUSDCでのクレジットラインを活用することが可能です。 このカードは、レストランや交通費など、従業員の福利厚生を管理するために、従業員の財布に充当することも可能です。
 
 ですから、多くの新しいユーザーがブロックチェーンの世界を発見するだけでなく、バンクレスの世界も発見することになります。
