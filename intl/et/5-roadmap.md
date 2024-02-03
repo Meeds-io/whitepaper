@@ -22,7 +22,7 @@ On selge, et varajased kasutuselevõtjad saavad märkimisväärseid eeliseid hil
 
 Eelkõige premeerib WoM pikaajalist investeerimist värssi - see tähendab vara lunastamist (Deeds). Deed'i algne omanik saab kompensatsiooni kaasamise kaudu (aktiivne kasutamine), passiivse tulu kaudu (rentimine) ja saab eluaegselt 1% Deed'i igast müügitehingust (iga omanikuvahetuse korral saab algne lunastaja tehingu eest tasu).
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. Nad saaksid ka varaseimad hääleõigused ja aitaksid kujundada WoM-i.
+By believing in the project, participating in the liquidity pools, staking MEED tokens, redeeming them against Deeds...early investors of all sizes would mint additional tokens. Nad saaksid ka varaseimad hääleõigused ja aitaksid kujundada WoM-i.
 
 Organisatsioonid, kes omandavad, kuid eelkõige kasutavad Deeds'i oma töötajate kaasamiseks ja premeerimiseks, saavad kompensatsiooni vermitud Meeds'idega. Mida õiglasemalt nad mängivad, seda rohkem nad saavad. Varasemad kasutuselevõtjad on seotud esimeste ajalooliste linnadega ja neid peetakse hiljem ehitajateks.
 
@@ -38,17 +38,17 @@ Alljärgnev diagramm on näide Meedsi investeerimisstrateegiast töövõtjate ja
 
 ## 5.3. Käivitamine
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+The official launch of the WoM was **May 1st, 2022** – the International Workers Day, celebrated in many countries.
 
-At that time, the Meed token already exists. Seda on võimalik omandada ja likviidsusbasseinid on osalemiseks avatud, Polygoni ja Ethereumi võrkudes.
+At that time, the MEED token already existed. Seda on võimalik omandada ja likviidsusbasseinid on osalemiseks avatud, Polygoni ja Ethereumi võrkudes.
 
 Kolm Meedsi ühingu liiget kasutavad süsteemi ettevõttesiseselt, et kaasata ja premeerida oma kasutajaid ning parandada Meedsi tarkvara.
 
 Investori rakendus on saadaval Ethereum Mainnetis. Käivitamisel sisaldab see panustamist, likviidsuspreemiaid, punktide kogumist ja Deeds'i lunastamist.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. Metamaskiga on võimalik sisse logida.
+The Builders community is up and running, open to anyone who would want to join, test and participate. Metamaskiga on võimalik sisse logida.
 
-This paper was published on the launch day. Pärast käivitamist antakse žetoon paljudele inimestele üle kogu krüptokogukonna.
+This paper was initially published on the launch day. Pärast käivitamist antakse žetoon paljudele inimestele üle kogu krüptokogukonna.
 
 ## 5.4. Ehitajate kogukond
 
