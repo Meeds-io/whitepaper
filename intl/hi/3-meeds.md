@@ -35,9 +35,9 @@
 
 सदस्य होने के बिना, कोई भी संगठन एक नए कनेक्टर के निर्माण में भाग ले सकता है और ऐसा करने के लिए पुरस्कृत किया जा सकता है – पहले मेड्स एसोसिएशन के माध्यम से कनेक्टर प्राप्त करना और फिर इस कनेक्टर के माध्यम से खनन करना ।
 
-The association operates a it's own community hub named the Builders's Hub that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
+The association operates its own community hub named the _Meeds Builders Hub_ that welcomes enthusiasts, who want to contribute to the creation of the WoM. The association sponsors the community out of its budget, compensating the engagement of community members.
 
-Thus, the builders' hub will function as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. एसोसिएशन अपने समुदाय के लिए एक विलेख को भुनाने के लिए दांव लगाता है । Thus, the Builder's Hub will also benefit in the engagement minting like any other Hub backed by a Deed.
+Thus, the builders' hub functions as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. एसोसिएशन अपने समुदाय के लिए एक विलेख को भुनाने के लिए दांव लगाता है । Thus, the Builder's Hub also benefits in the engagement minting like any other Hub backed by a Deed.
 
 मिंटिंग अवधि खत्म होने के बाद, संघ निम्न पर संरक्षित होगा:
 
@@ -59,7 +59,7 @@ Thus, the builders' hub will function as a live example of a community empowered
 
 **स्टेकिंग / लंबे समय के निवेश** लंबे समय के निवेश को प्रोत्साहित करने के लिए, स्टेक किए गए Meeds पुरस्कृत किए जाते हैं। जब Meeds स्टेक किए जाते हैं, तो स्टेकर कुछ xMeeds टोकन प्राप्त करता है। नए मीन्टेड Meeds xMeeds होल्डिंग्स के अनुपात अनुसार स्टेकरों को वितरित किए जाते हैं। प्रयोग में, मीन्टेड Meeds वास्तव में xMeeds स्मार्ट कॉन्ट्रैक्ट की होल्डिंग्स में जोड़े जाते हैं और xMeeds होल्डर को उनके अस्टेक करने पर वितरित किए जाते हैं।
 
-By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. प्रत्येक स्टेक्ड मीड्स (xMeeds) अपने मालिक को प्रति दिन कई अंक प्रदान करता है। वेस्टेड अवधि के लिए उच्च संख्या में प्वाइंट प्राप्त होते हैं। प्रत्येक डीड के लिए कुछ अंकों के विवरण में विवरण के लिए विवरण।
+By staking Meeds, investors can also redeem Deed NFTs (and then participate in minting through engagement), hence increasing the token demand. प्रत्येक स्टेक्ड मीड्स (xMeeds) अपने मालिक को प्रति दिन कई अंक प्रदान करता है। वेस्टेड अवधि के लिए उच्च संख्या में प्वाइंट प्राप्त होते हैं। प्रत्येक डीड के लिए कुछ अंकों के विवरण में विवरण के लिए विवरण।
 
 निम्नलिखित सूत्र का प्रयोग करके अंक की गणना की जाती है:
 
@@ -100,8 +100,8 @@ Meeds टोकन धारकों को Meeds DAO निर्णयों 
 
 मीड्स के लिए पर्कों की खरीद करने के लिए वॉलेट और एक स्टोर के बिना, हम हर उपयोगकर्ता को स्वतंत्र वित्त विधियों द्वारा पॉवर्ड एक कई प्रोडक्ट को पेश करने का योजना है, जैसे:
 
-- The ability to stake Meeds tokens and get yields (generate revenues)
-- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
+- The ability to stake MEED tokens and get yields (generate revenues)
+- The ability to use MEED tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
 - एप्पल पे, गूगल पे या कुछ भी ATM के माध्यम से जोड़ा और उपयोग किया जा सकने वाला एक डिजिटल कार्ड। दूसरे को वीजा के साथ एक भागीदारी के माध्यम से प्रदान किया जा सकता है और मीड्स के स्टेक द्वारा सुरक्षित होने वाले USDC में एक क्रेडिट लाइन का लेवरेज करेगा। इस कार्ड को संगठनों द्वारा कर्मचारियों के वॉलेट को वित्तीय सहायता प्रदान करने के लिए भी उपयोग किया जा सकता है, जैसे रेस्तों, परिवहन और कुछ भी व्ययों की प्रकार के।
 
 इसलिए केवल कई नए उपयोगकर्ता ब्लॉकचेन विश्व को खोजेंगे, वे एक बैंकलेस विश्व को भी खोजेंगे।
