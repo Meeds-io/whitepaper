@@ -22,7 +22,7 @@ The WoM would have its own currency the **MEED** – that would be there to spen
 
 به ویژه، WoM به سرمایه گذاری بلندمدت در آیه پاداش می دهد - که بازخرید مال است (قبالات). مالک اصلی Deed از طریق انعقاد قرارداد (استفاده فعال)، از طریق درآمد غیرفعال (اجاره) غرامت دریافت می کند و 1٪ مادام العمر در هر معامله فروش Deed دریافت می کند (در هر تغییر مالکیت، بازخریدکننده اصلی هزینه ای را دریافت می کند. معامله).
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the WoM.
+By believing in the project, participating in the liquidity pools, staking MEED tokens, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the WoM.
 
 سازمان‌هایی که اسنادی را به دست می‌آورند اما به‌ویژه از آنها برای مشارکت و پاداش دادن به کارکنان خود استفاده می‌کنند، در قالب Meeds غرامت دریافت می‌کنند. هرچه عادلانه تر بازی کنند، بیشتر به دست خواهند آورد. پذیرندگان اولیه با اولین شهرهای تاریخی مرتبط می شوند و بعداً به عنوان سازنده شناخته می شوند.
 
@@ -38,17 +38,17 @@ By believing in the project, participating in the liquidity pools, staking Meeds
 
 ## 5.3. راه اندازی
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+The official launch of the WoM was **May 1st, 2022** – the International Workers Day, celebrated in many countries.
 
-At that time, the Meed token already exists. امکان به دست آوردن آن وجود دارد و استخرهای نقدینگی برای مشارکت در شبکه های Polygon و Ethereum باز هستند.
+At that time, the MEED token already existed. امکان به دست آوردن آن وجود دارد و استخرهای نقدینگی برای مشارکت در شبکه های Polygon و Ethereum باز هستند.
 
 سه عضو انجمن Meeds از سیستم به صورت داخلی برای تعامل و پاداش دادن به کاربران خود و بهبود نرم افزار Meeds استفاده می کنند.
 
 اپلیکیشن Investor در اتریوم Mainnet در دسترس است. در زمان راه اندازی، شامل سهام بندی، پاداش نقدینگی، جمع آوری امتیاز و بازخرید اسناد می شود.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. امکان ورود با متامسک وجود دارد.
+The Builders community is up and running, open to anyone who would want to join, test and participate. امکان ورود با متامسک وجود دارد.
 
-This paper was published on the launch day. پس از راه‌اندازی، توکن برای بسیاری از افراد در سراسر جامعه کریپتو ارسال می‌شود.
+This paper was initially published on the launch day. پس از راه‌اندازی، توکن برای بسیاری از افراد در سراسر جامعه کریپتو ارسال می‌شود.
 
 ## 5.4. جامعه سازندگان
 
