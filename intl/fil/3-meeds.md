@@ -35,9 +35,9 @@ Ang mga miyembro ng asosasyon ay maaaring magbigay ng mga serbisyo sa asosasyon 
 
 Kung hindi isang miyembro, maaaring lumahok ang anumang organisasyon sa paglikha ng isang bagong connector at gagantimpalaan para sa paggawa nito - una sa pamamagitan ng Meeds association na nakakuha ng connector at pagkatapos ay sa pamamagitan ng pag-minting sa pamamagitan ng connector na ito.
 
-The association operates a it's own community hub named the Builders's Hub that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
+The association operates its own community hub named the _Meeds Builders Hub_ that welcomes enthusiasts, who want to contribute to the creation of the WoM. The association sponsors the community out of its budget, compensating the engagement of community members.
 
-Thus, the builders' hub will function as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. Itinataya ng asosasyon ang Meeds upang matubos ang isang Deed para sa komunidad nito. Thus, the Builder's Hub will also benefit in the engagement minting like any other Hub backed by a Deed.
+Thus, the builders' hub functions as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. Itinataya ng asosasyon ang Meeds upang matubos ang isang Deed para sa komunidad nito. Thus, the Builder's Hub also benefits in the engagement minting like any other Hub backed by a Deed.
 
 Pagkatapos ng panahon ng pagmimina, ang asosasyon ay masusustento ng:
 
@@ -59,7 +59,7 @@ Ang bawat miyembro ay may karapatan din na direktang bumili ng malaking halaga n
 
 **Staking / pangmatagalang pamumuhunan** Para hikayatin ang pangmatagalang pamumuhunan, ang mga staked na Meeds ay ginagantimpalaan. Kapag na-stakes ang Mga Pangangailangan, ang stalker ay makakakuha ng ilang xMas token. Ang mga bagong minted na Meeds ay ipinamamahagi sa mga staker nang proporsyonal sa kanilang mga xMeeds holdings. Sa pagsasagawa, ang minted Meeds ay mabisang idinaragdag sa mga hawak ng xMeeds smart contract at ipapamahagi sa xMeeds holder kapag sila ay nag-unstake.
 
-By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. Ang bawat staked Meeds (xMeeds) ay nagbibigay sa may-ari nito ng ilang puntos bawat araw. Kung mas mahaba ang vested period, mas mataas ang bilang ng mga puntos na nakuha sa bawat xMeeds. Ang bawat Deed ay tinutubos kapalit ng ilang puntos.
+By staking Meeds, investors can also redeem Deed NFTs (and then participate in minting through engagement), hence increasing the token demand. Ang bawat staked Meeds (xMeeds) ay nagbibigay sa may-ari nito ng ilang puntos bawat araw. Kung mas mahaba ang vested period, mas mataas ang bilang ng mga puntos na nakuha sa bawat xMeeds. Ang bawat Deed ay tinutubos kapalit ng ilang puntos.
 
 Ang mga puntos ay kinakalkula gamit ang formula sa ibaba:
 
@@ -100,8 +100,8 @@ Sa katunayan, ang anumang gawain ( maging digital o hindi ) ay maaaring gamified
 
 Higit pa sa pitaka at isang tindahan kung saan maaari silang bumili ng mga perks para sa Meeds, plano naming ipakilala ang bawat gumagamit sa maraming mga produkto ng end-user na pinalakas ng mga protocol ng Desentralisadong Pananalapi, tulad ng:
 
-- The ability to stake Meeds tokens and get yields (generate revenues)
-- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
+- The ability to stake MEED tokens and get yields (generate revenues)
+- The ability to use MEED tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
 - Isang digital card na maaaring maidagdag at magamit sa pamamagitan ng Apple Pay, Google pay o anumang ATM. Ang huli ay maaaring ibigay sa pamamagitan ng isang pakikipagtulungan sa VISA at gagamitin ang isang linya ng kredito sa USDC, na na-secure ng mga staked Meeds. Ang kard na ito ay maaari ring magamit ng mga organisasyon upang pondohan ang mga dompet ng empleyado upang pamahalaan ang mga benepisyo ng empleyado tulad ng mga restawran, transportasyon at anumang uri ng gastos.
 
 Kaya hindi lamang maraming mga bagong gumagamit ang matutuklasan ang mundo ng blockchain, matutuklasan din nila ang isang walang bangko na mundo.

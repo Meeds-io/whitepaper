@@ -22,7 +22,7 @@ Malinaw, ang mga maagang nag-aampon ay makakakuha ng malaking pakinabang sa mga 
 
 Sa partikular, ang WoM ay gantimpala ang pangmatagalang pamumuhunan sa taludtod – iyon ang pagtubos ng ari-arian ( Mga Binhi ). Ang orihinal na may-ari ng Deed ay nabayaran sa pamamagitan ng pakikipag-ugnay sa minting ( aktibong paggamit ), sa pamamagitan ng passive income ( pag-upa ) at makakuha ng isang buhay na 1% sa anumang nagbebenta ng transaksyon ng Deed ( sa bawat pagbabago ng pagmamay-ari, ang orihinal na tagapagtubos ay nakakakuha ng bayad sa transaksyon ).
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. Makukuha rin nila ang pinakamaagang mga karapatan sa pagboto at makakatulong sa paghubog ng WoM.
+By believing in the project, participating in the liquidity pools, staking MEED tokens, redeeming them against Deeds...early investors of all sizes would mint additional tokens. Makukuha rin nila ang pinakamaagang mga karapatan sa pagboto at makakatulong sa paghubog ng WoM.
 
 Ang mga samahan na nakukuha ngunit lalo na ang paggamit ng Deeds upang makisali at gantimpalaan ang kanilang mga empleyado ay makakakuha ng bayad sa minted Meeds. Ang patas na gagampanan nila, mas makakakuha sila. Ang mga naunang nag-aampon ay maiuugnay sa mga unang makasaysayang lungsod at makikilala bilang mga tagabuo sa susunod.
 
@@ -38,17 +38,17 @@ Ang diagram sa ibaba ay kumakatawan sa isang halimbawa ng diskarte sa pamumuhuna
 
 ## 5.3. Ang paglulunsad
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+The official launch of the WoM was **May 1st, 2022** – the International Workers Day, celebrated in many countries.
 
-At that time, the Meed token already exists. Posible na makuha ito at ang mga pool ng pagkatubig ay bukas para sa pakikilahok, sa mga network ng Polygon at Ethereum.
+At that time, the MEED token already existed. Posible na makuha ito at ang mga pool ng pagkatubig ay bukas para sa pakikilahok, sa mga network ng Polygon at Ethereum.
 
 Ang mga miyembro ng samahan ng Three Meeds ay gumagamit ng system sa loob upang makisali at gantimpalaan ang kanilang mga gumagamit at pagbutihin ang software ng Meeds.
 
 Magagamit ang Investor app sa Ethereum Mainnet. Sa paglulunsad, kasama nito ang staking, gantimpala ng pagkatubig, mga puntos na akumulasyon at pagtubos ng mga gawa.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. Posible na mag-login kasama ang Metamask.
+The Builders community is up and running, open to anyone who would want to join, test and participate. Posible na mag-login kasama ang Metamask.
 
-This paper was published on the launch day. Kasunod ng paglulunsad, ang token ay ibababa sa maraming tao sa buong pamayanan ng crypto.
+This paper was initially published on the launch day. Kasunod ng paglulunsad, ang token ay ibababa sa maraming tao sa buong pamayanan ng crypto.
 
 ## 5.4. Ang pamayanan ng mga tagabuo
 
