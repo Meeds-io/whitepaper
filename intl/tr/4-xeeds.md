@@ -1,4 +1,4 @@
-# 4. Xeeds - İş Metaverse Bireyler / kullanıcılar
+# 4. Xeeds - WoM Bireyler / kullanıcılar
 
 ## 4.1. Merkezi olmayan ve kendi kendine egemen modeller
 
@@ -6,41 +6,41 @@ WoM, gizliliği temel bir insan hakkı olarak kabul eder ve kullanıcıları ver
 
 Yaklaşımımız, merkezi olmayan ve kendi kendine egemen kimlik ilkelerine dayanmaktadır ve kullanıcıların hangi bilgileri kamuya açıklamak, kısıtlı bir grupla paylaşmak veya gizli tutmak istediklerini istedikleri zaman kontrol etmelerine olanak tanır.
 
-Kullanıcının WoM'daki etkinliği ve katılımı her zaman bir Deed ile bağlantılıdır. Bir Xeed, bir Deed'deki bir kullanıcının sanal kişiliğidir. Xeed herhangi bir KYC gerektirmez, kendi kendini beyan eder, ancak üçüncü taraf firmaların bu hizmeti sağladığını düşünebiliriz.
+Kullanıcının WoM'deki etkinliği ve katılımı her zaman bir topluluğa bağlıdır. Xeed, bir topluluktaki kullanıcının sanal kişiliğidir. Xeed herhangi bir KYC gerektirmez, kendi kendini beyan eder, ancak üçüncü taraf firmaların bu hizmeti sağladığını düşünebiliriz.
 
 ## 4.2. Rozetler ve kimlik bilgileri
 
-Rozetler ve Kimlik Bilgileri kullanıcılara Deed'e katılımlarının bir parçası olarak verilir. Sahibi bunları W3C Doğrulanabilir Kimlik Bilgileri[^7][^8] (diğer adıyla VC'ler) olarak indirebilir ve cüzdanında saklayabilir. Bu Mesleki Yeterlilik Belgeleri, belgeyi veren kuruluş tarafından onaylanmış bilgi/beceri kanıtıdır.
+Rozetler ve Kimlik Bilgileri kullanıcılara topluluğa katılımlarının bir parçası olarak verilir. Sahibi bunları W3C Doğrulanabilir Kimlik Bilgileri[^7][^8] (diğer adıyla VC'ler) olarak indirebilir ve cüzdanında saklayabilir. Bu Mesleki Yeterlilik Belgeleri, belgeyi veren kuruluş tarafından onaylanmış bilgi/beceri kanıtıdır.
 
 Günümüz dünyasında bir beceriyi önceden kanıtlamak zordur. İnsanlar kendilerini ağlarda tanıttıklarında, yöneticilerinin onlara tavsiye vereceğine güvenirler. İkincisi, yöneticinin belirli bir iyi niyete sahip olduğunu varsayar, ancak gelecekteki işveren tarafından mutlaka kanıt olarak değerlendirilmez.
 
-Work Metaverse, insanların yeteneklerini kazanmaları ve göstermeleri için daha şeffaf ve değişmez bir araç sağlar.
+WoM, insanların yeteneklerini kazanmaları ve sergilemeleri için daha şeffaf ve değişmez bir araç sağlar.
 
-Rozetler bir Deed içinde elde edilen başarıları temsil etmek için kullanılır. Bir dizi hedefi veya görevi tamamladıktan sonra kullanıcılara puan verilecektir. Rozetler, belirli kategorilerde belirli miktarlarda puan biriktirilerek açılabilir.
+Rozetler, bir topluluk içinde yapılan başarıları temsil etmek için kullanılır. Bir dizi hedefi veya görevi tamamladıktan sonra kullanıcılara puan verilecektir. Rozetler, belirli kategorilerde belirli miktarlarda puan biriktirilerek açılabilir.
 
-Rozetler kullanıcı tarafından indirildiğinde, bu özel başarı için Deed'deki puan sayısını ve sıralamasını dahil etmek mümkündür.
+Rozetler kullanıcı tarafından indirildiğinde, bu özel başarı için Merkezdeki puan sayısını ve rütbesini eklemek mümkündür.
 
-Kimlik bilgileri Rozetlere göre daha esnektir; bir akranın tavsiyesi, yılların uzmanlığını gösteren bir belge, bir eğitim veya sınavın tamamlanması veya Deed'e katılım olabilir. Bunlar Deed tarafından imzalanır ve bir eş kullanıcı tarafından imzalanabilir.
+Bunlar Hub tarafından imzalanır ve bir eş kullanıcının imzası da buna eşlik edebilir. Bunlar Hub tarafından imzalanır ve bir eş kullanıcının imzası da buna eşlik edebilir.
 
 ## 4.3. Dijital çalışma kimliği
 
 Yukarıdakilerin tümü, iş değiştirirken veya serbest çalışırken kullanıcı tarafından saklanabilecek ve kullanılabilecek kanıtlanmış dijital beceri setinin oluşturulmasına katkıda bulunur. Geleneksel çözümlerden daha güvenilir olacaktır, çünkü bunu kanıtlamak için sadece bir bireye değil, tüm bir topluluğa dayanmaktadır.
 
-Tıpkı Meeds cüzdanında olduğu gibi, kullanıcı bir Deed'den diğerine, bir şehirden diğerine, WoM'un herhangi bir yerine taşınırken Xeed'ini, Rozetlerini ve ona bağlı Kimlik Bilgilerini kimlik cüzdanında tutacaktır.
+Kullanıcı, tıpkı Meeds cüzdanında olduğu gibi, WoM aracılığıyla bir Merkezden diğerine, bir şehirden diğerine geçerken Xeed'ini, Rozetlerini ve Kimlik Bilgilerini kimlik cüzdanında tutacaktır.
 
-Kullanıcı, deneyimini vurgulamak için Xeed'ini, Rozetlerini ve Kimlik Bilgilerini diğer Deed'lerle, işe alım uzmanlarıyla veya ilginç bulduğu diğer hizmetlerle paylaşabilecektir.
+Kullanıcı, deneyimini vurgulamak için Xeed'ini, Rozetlerini ve Kimlik Bilgilerini diğer Merkezlere, işe alım görevlilerine veya ilgi çekici bulduğu diğer hizmetlere ifade edebilecektir.
 
 Bir kullanıcı WoM'da bir veya birden fazla dijital kimliğe sahip olabilir. Daha sonra bunları doğrulanmış sunumlar kullanarak birleşik bir şekilde sunabilir.
 
-Web 2'nin aksine, kullanıcı merkezi olmayan kimliklerinin tam sahibidir. İkincisi, katıldığı İşleri, kanıtlanmış becerilerini, iddia edilen becerilerini, birlikte çalıştığı diğer Xeed'leri (insanları), kendisinin dijital temsilini gösterebilir (ve kanıtlayabilir)... Güvenilir bir şekilde LinkedIn 3.0.
+Web 2'nin aksine, kullanıcı merkezi olmayan kimliklerinin tam sahibidir. İkincisi katıldığı toplulukları, kanıtlanmış becerilerini, iddia ettiği becerileri, birlikte çalıştığı diğer Xeed'leri (kişileri), kendisinin dijital temsilini gösterebilir (ve kanıtlayabilir)... Güvenilir bir şekilde LinkedIn 3.0.
 
-Kullanıcı, herhangi bir şeyi ifşa edip etmeyeceğini, hangi bilgileri sağlayacağını ve her pozisyon için hangi kimliklerin kullanılacağını seçebilecektir. İçerik (kanıtlanmış beceri, önceki Deeds, vb.) kurcalamaya karşı korumalıdır ve bu nedenle değiştirilemez. Herhangi bir kimliğin zaman içinde geliştirilmesi gerekecektir.
+Kullanıcı, herhangi bir şeyi ifşa edip etmeyeceğini, hangi bilgileri sağlayacağını ve her pozisyon için hangi kimliklerin kullanılacağını seçebilecektir. İçerik (kanıtlanmış beceri, önceki Hub'lar vb.) kurcalamaya karşı dayanıklıdır ve bu nedenle değiştirilemez. Herhangi bir kimliğin zaman içinde geliştirilmesi gerekecektir.
 
 ## 4.4. Adil iş piyasası
 
-Bu paradigma çerçevesinde geleceğin iş pazarı, kullanıcıların serbestçe hareket etmelerine ve işverenlerini değiştirerek fiziksel dünyada yaptıkları gibi Deed'ler arasında katılımlarını tahsis etmelerine / satmalarına olanak tanır. Ancak WoM'da katılımları somut olacak, ölçülecek ve adil bir şekilde ödüllendirilecektir. Benzer bir mantık izleyen sistemler arasında hareket ederek, oyunun kurallarını daha iyi anlayacak ve işverenleri adil bir şekilde değerlendireceklerdir - çim her zaman başka bir yerde daha yeşil değildir. Kullanıcılar hangi Deed'in daha iyi katılım ödülü koşulları sağladığını, daha çekici bir şehre ait olduğunu vb. seçebilecekler.
+Bu paradigma kapsamında geleceğin iş piyasası, fiziksel dünyada işverenleri değiştirerek yaptıkları gibi, kullanıcıların özgürce hareket etmelerine ve katılımlarını Hub'lar arasında tahsis etmelerine/satmalarına olanak tanıyor. Ancak WoM'da katılımları somut olacak, ölçülecek ve adil bir şekilde ödüllendirilecektir. Benzer bir mantık izleyen sistemler arasında hareket ederek, oyunun kurallarını daha iyi anlayacak ve işverenleri adil bir şekilde değerlendireceklerdir - çim her zaman başka bir yerde daha yeşil değildir. Kullanıcılar hangi Hub'ın daha iyi etkileşim ödülü koşulları sağladığını, daha çekici bir şehre ait olduğunu vb. görebilecek.
 
-Deeds sahipleri/kiracıları kendi taraflarında, WoM dijital iş kimlikleri ağını (kullanıcıların ifşa etmeye karar verdikleri) kullanarak ilgili becerileri arayabilirler. Kullanıcının iş geçmişi, iş becerileri ve katılım düzeyi hakkında doğrulanmış ve ayrıntılı bilgilere dayanarak becerileri daha etkili bir şekilde tedarik edebileceklerdir.
+Sonunda topluluk liderleri, WoM dijital çalışma kimlikleri ağını (kullanıcıların açıklamaya karar verdiği) kullanarak ilgili becerileri arayabilirler. Kullanıcının iş geçmişi, iş becerileri ve katılım düzeyi hakkında doğrulanmış ve ayrıntılı bilgilere dayanarak becerileri daha etkili bir şekilde tedarik edebileceklerdir.
 
 ## 4.5. Somut ve şeffaf tanınma
 
@@ -48,13 +48,13 @@ Bugün birçok işyerinde tazminat ve ikramiyelerle ilgili ayrıntılar belirsiz
 
 WoM, başarıların tanınması ve ödüllendirilmesi için objektif bir yol sunmaktadır.
 
-Katılım tanıma ve ödüllendirme mekanizması şeffaftır ve tüm kullanıcılara adil bir şekilde uygulanır, aynı açık kuralları izler, önceden kararlaştırılır ve Deed'in hedefleriyle uyumludur.
+Katılım tanıma ve ödüllendirme mekanizması şeffaftır ve aynı açık kuralları takip ederek, önceden kararlaştırılarak ve topluluk hedefleriyle uyumlu hale getirilerek tüm kullanıcılara adil bir şekilde uygulanır.
 
 Cüzdanlar bireysel ve blok zinciri tabanlıdır - kullanıcı bir ödül aldığında veya bir rozet kazandığında, geri alınamaz veya silinemez.
 
 ## 4.6. Web 3.0, kriptoekonomi ve DEFI hizmetlerine erişim
 
-Yukarıda tartışıldığı gibi, Work Metaverse kripto para ve merkezi olmayan web hizmetleri dünyasını temelde herkese açıyor - dijital alanla ilgisi olmayan çok geniş bir kullanıcı kitlesi.
+Yukarıda tartışıldığı gibi WoM, kripto para birimi ve merkezi olmayan web hizmetleri dünyasını temelde herkese, hatta muhtemelen dijital alanla ilgisi olmayan çok büyük bir kullanıcı popülasyonuna açar.
 
 Aslında, her türlü iş ilişkisi potansiyel olarak tokenize edilebilir. Aslında dünya 5G, iot, giyilebilir cihazlar ve benzeri trendlerle giderek dijitalleşiyor. Sonuç olarak, potansiyel olarak daha fazla sinyal yakalanabilir ve dijital olmayan mesleklerin katılımını belirtmek için analiz edilebilir. Meydan okumalar, fiziksel dünyadaki başarıları temsil ederek bunu simgelemek için hazır bir yol sağlar.
 
