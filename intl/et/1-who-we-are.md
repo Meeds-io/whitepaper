@@ -1,11 +1,11 @@
 
 # 1. Meist
 
-Meeds is a collaborative effort led by diverse Open Source Software (OSS) communities, dedicated to creating a decentralized digital world that resists centralized corporate control and fosters a free and open environment.
+Vajadused on mitmekesiste avatud lähtekoodiga tarkvara (OSS) kogukondade juhitud koostöö, mis on pühendatud detsentraliseeritud digitaalse maailma loomisele, mis peab vastu ettevõtte tsentraliseeritud kontrollile ja soodustab vaba ja avatud keskkonda.
 
 The legal entity behind Meeds is the _Meeds Association_, a non-profit organization incorporated under Swiss law in Geneva. It is responsible for regulating the issuance of the Meeds(MEED) token, an ERC20 token recognized as a utility token.
 
-Functioning as a Decentralized Autonomous Organization (DAO), Meeds emphasizes on democratic governance, where token holders with governance rights participate in key decision making, such as annual board elections, ensuring transparency and community involvement in organizational changes.
+Toimides detsentraliseeritud autonoomse organisatsioonina (DAO), rõhutab Meeds demokraatlikku valitsemistava, kus juhtimisõigustega märgiomanikud osalevad peamiste otsuste tegemisel, näiteks iga-aastastel juhatuse valimistel, tagades läbipaistvuse ja kogukonna osalemise organisatsioonilistes muudatustes.
 
 The Meeds project utilizes the Ethereum ecosystem to implement the World of Meeds (WoM) and the Meeds token. This approach prioritizes security, accessibility, user-friendliness, and cost-effectiveness, making it appealing to a broad user base.
 

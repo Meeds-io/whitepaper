@@ -3,17 +3,17 @@
 
 ## 2.1. Deed NFTs
 
-In the digital realm, Non-Fungible Tokens (NFTs) serve a similar purpose to deeds in the physical world. Like a deed that confirms ownership of tangible property, NFTs establish indisputable ownership of digital assets. This ownership is securely recorded on a blockchain, ensuring that each asset is unique and non-replicable.
+In the digital realm, Non-Fungible Tokens (NFTs) serve a similar purpose to deeds in the physical world. Nagu tegu, mis kinnitab materiaalse vara omandiõigust, loovad NFT-D digitaalsete varade vaieldamatu omandiõiguse. See omandiõigus registreeritakse turvaliselt plokiahelas, tagades, et iga vara on ainulaadne ja kordumatu.
 
-Within the WoM, a Deed is conceptualized as an NFT, representing the foundational unit of ownership. Holding a Deed empowers its owner to manage a Community Hub and makes them eligible for receiving Mintium rewards, a form of recognition and incentive within the WoM ecosystem (further details in section 2.6).
+Emakas on tegu kontseptualiseeritud kui NFT, mis esindab omandiõiguse põhiüksust. Akti omamine annab selle omanikule õiguse hallata Kogukonnakeskust ja muudab nad kõlblikuks Mintiumi preemiate saamiseks, mis on Wom-i ökosüsteemis tunnustamise ja stiimuli vorm (üksikasjad jaotises 2.6).
 
-The WoM is designed to be a diverse and inclusive platform. It welcomes a wide array of organizations, from DAOs, traditional businesses, and associations to think tanks, theater companies, project groups, and educational institutions. In this digital landscape, a Deed symbolizes the organization's digital presence and footprint in WoM, functioning as a bridge between their real-world operations and their digital endeavors.
+Uss on loodud mitmekesiseks ja kaasavaks platvormiks. See tervitab laia valikut organisatsioone, alates Dao-dest, traditsioonilistest ettevõtetest ja ühendustest kuni mõttekodade, teatriettevõtete, projektirühmade ja haridusasutusteni. Sellel digitaalsel maastikul sümboliseerib tegu organisatsiooni digitaalset kohalolekut ja jalajälge naistel, toimides sillana nende reaalse tegevuse ja digitaalsete ettevõtmiste vahel.
 
 ## 2.2. Deeds tarne
 
 WoM tarnib lõppkokkuvõttes piiratud hulga Deedeid. Iga Deed sisaldab ettemääratud maksimaalset kasutajate arvu ja pakub võimsust Meeds tasu (Minting Power). Mõiste "kasutaja" tähistab siin ja edaspidi mis tahes liiki töötajat, töötajat, vabakutselist, vabatahtlikku jne.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or minting power, the rarest being the most powerful :
+Tegusid on nelja tüüpi, millest igaüks pakub erinevaid võimalusi kasutajate arvu, linnas hääleõiguse (vt 2.7) või vermimisjõu osas, kõige haruldasem on kõige võimsam :
 
 | **Deed tüüp** | **Maksimaalsed kasutajad** | **Minting power** | **Puudus** | **Linna hääleõigus** |
 | ------------- | -------------------------- | ----------------- | ---------- | -------------------- |
@@ -26,40 +26,40 @@ There are four types of Deeds, each providing different capabilities in terms of
 
 Deed annab omanikule õiguse seda kasutada, rentida või müüa.
 
-- USE – The owner can use the Deed to run a hub for his own organization.
-- RENT - The owner can also rent the Deed to another organization and earn passive income.
-- SELL - The owner can sell it on a secondary NFT marketplace such as [OpenSea](https://opensea.io).
+- Kasutamine-omanik saab akti kasutada oma organisatsiooni Keskuse juhtimiseks.
+- Üür-omanik saab akti rentida ka teisele organisatsioonile ja teenida passiivset tulu.
+- Müüa-omanik saab seda müüa teisesel NFT turul, näiteks < 0 > OpenSea< / 0>.
 
-Being an active holder or renter of a Deed, the organization is entitled to MEED rewards according to the “mintium” model described below (see 2.6).
+Olles akti Aktiivne omanik või rentnik, on organisatsioonil õigus saada MEED preemiaid vastavalt allpool kirjeldatud mudelile "mintium" (vt 2.6).
 
-## 2.4. Community Hubs
+## 2.4. Ühenduse Sõlmpunktid
 
-In today's competitive market, organizations seek to attract and retain top talent not only through compensation but also by enhancing work engagement. The WoM addresses this challenge with a unique, tokenized reward system embodied in Community Hubs.
+Tänapäeva konkurentsiturul püüavad organisatsioonid meelitada ja säilitada tipptalente mitte ainult hüvitise, vaid ka tööalase kaasatuse suurendamise kaudu. WoM tegeleb selle väljakutsega ainulaadse, märgistatud preemiasüsteemiga, mis on kehastatud kogukonna sõlmpunktides.
 
-Within these Hubs, community leaders can drive members engagement by offering a transparent menu of incentives for work items. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
+Nendes jaoturites, kogukonna juhid saavad juhtida liikmete kaasamist, pakkudes tööobjektide jaoks läbipaistvat stiimulite menüüd. Osalejad teenivad oma jõupingutuste eest kaasamispunkte, mis konverteeritakse perioodiliselt VAJADUSMÄRKIDEKS või kohandatud ekvivalendiks vastavalt etteantud eelarvele.
 
-Community Hubs offer a suite of tools and features designed to boost and manage contributor engagement:
+Kogukonna jaoturid pakuvad tööriistade ja funktsioonide komplekti, mis on loodud kaastöötajate kaasamise suurendamiseks ja haldamiseks:
 
-- **Actions**: Incentivized tasks guide contributors, aligning their efforts with organizational objectives and boosting motivation and direction.
-- **Gamification**: Leaderboards and badges transform work into a fun, competitive experience, enhancing engagement and enjoyment.
-- **Engagement Programs**: Customized programs with specific targets and rewards clarify organizational goals and fairly recognize contributor achievements.
-- **Kudos**: Immediate peer recognition boosts morale and fosters a culture of appreciation, enhancing team cohesion and motivation.
-- **Spaces**: Organized sub-groups and projects streamline communication and collaboration, increasing collective productivity.
-- **Wallet**: The Wallet app securely stores MEED rewards, representing user contributions, and enables easy transactions both within the Hub and on the broader network.
-- **Perks**: A variety of rewards, from gift cards to NFTs, incentivize ongoing engagement and foster loyalty within the organization’s ecosystem.
-- **Tasks**: Streamlined project and task management tools boost productivity by simplifying workflows and tracking progress.
-- **Notes**: A handy notebook app for documenting essential information like onboarding guides promotes knowledge sharing and organizational self-sufficiency.
-- **Branding**: Customizable Hub appearance attracts new contributors and strengthens their connection to the organization’s identity.
-- **Analytics**: Insightful analytics into community engagement enable leaders to identify effective strategies and make informed decisions for optimization.
+- < 0 > tegevused< / 0>: stimuleeritud ülesanded suunavad kaasautoreid, viies nende jõupingutused vastavusse organisatsiooni eesmärkidega ning suurendades motivatsiooni ja suunda.
+- **Gamification< / 0>: edetabelid ja märgid muudavad töö lõbusaks, konkurentsivõimeliseks kogemuseks, suurendades kaasatust ja naudingut.</li>
+- < 0 > Kaasamisprogrammid< / 0>: konkreetsete eesmärkide ja hüvedega kohandatud programmid selgitavad organisatsiooni eesmärke ja tunnustavad õiglaselt kaastöötajate saavutusi.
+- < 0 > Kiitus< / 0>: kohene vastastikune tunnustamine suurendab moraali ja soodustab hindamiskultuuri, suurendades meeskonna ühtekuuluvust ja motivatsiooni.
+- **ruumid< / 0>: organiseeritud alarühmad ja projektid lihtsustavad suhtlemist ja koostööd, suurendades kollektiivset tootlikkust.</li>
+- < 0 > rahakott< / 0>: rahakoti rakendus salvestab turvaliselt MEED-preemiad, mis esindavad kasutajate sissemakseid, ja võimaldab hõlpsaid tehinguid nii keskuses kui ka laiemas võrgus.
+- **Perks< / 0>: Mitmesugused hüved, alates kinkekaartidest kuni NFT-Deni, stimuleerivad pidevat kaasamist ja soodustavad lojaalsust organisatsiooni ökosüsteemis.</li>
+- < 0 > ülesanded< / 0>: sujuvamad projekti-ja ülesannete haldamise tööriistad suurendavad tootlikkust, lihtsustades töövooge ja jälgides edusamme.
+- **märkused< / 0>: mugav sülearvuti rakendus olulise teabe dokumenteerimiseks, nagu onboarding juhendid, edendab teadmiste jagamist ja organisatsiooni iseseisvust.</li>
+- < 0 > Branding< / 0>: kohandatav jaoturi välimus meelitab uusi kaastöötajaid ja tugevdab nende sidet organisatsiooni identiteediga.
+- < 0 > Analytics< / 0>: insightful analytics arvesse kogukonna kaasamine võimaldab juhtidel tuvastada tõhusaid strateegiaid ja teha teadlikke otsuseid optimeerimine.</ul>
 
 
-**Starting a Hub** Initiating a Hub is most seamless via meeds.io, which offers access to a cloud platform managed by the Meeds Association. This platform allows for quick setup and is maintained by the non-profit entity that stewards the WoM. However, the WoM caters to decentralization. As the Meeds software is open source and freely distributed, organizations have the option to self-host a Hub server and connect to the WoM network, granting them more control and customization in their Hub’s setup and management.
+< 0 > Rummu käivitamine< / 0> Rummu algatamine on kõige sujuvam meeds.io, mis pakub juurdepääsu pilveplatvormile, mida haldab vajaduste Ühing. See platvorm võimaldab kiiret seadistamist ja seda haldab naist korrapidav mittetulundusühing. Kuid WoM näeb ette detsentraliseerimist. Kuna Meeds-tarkvara on avatud lähtekoodiga ja vabalt levitatav, on organisatsioonidel võimalus ise hostida jaoturi serverit ja luua ühendus WoM-võrguga, andes neile suurema kontrolli ja kohandamise oma jaoturi seadistamisel ja haldamisel.
 
-**Capturing Work Signals** Hubs can integrate with various platforms like GitHub, Twitter, and Discord and are extendable via API to connect with services such as CRM software, accounting software, and clocking terminals. This allows for diverse professional contributions to be recognized and rewarded. All connectors undergo a whitelisting process by the Meeds Association to guarantee integrity and functionality.
+**Töösignaalide Hõivamine** Jaoturid saavad integreeruda erinevate platvormidega, nagu GitHub, Twitter ja Discord, ning neid saab API kaudu laiendada, et luua ühendus selliste teenustega nagu CRM-tarkvara, raamatupidamistarkvara ja kellaterminalid. See võimaldab tunnustada ja premeerida mitmekesist professionaalset panust. Kõik pistikud läbivad ühenduse Meeds lubatud nimekirja lisamise protsessi, et tagada terviklikkus ja funktsionaalsus.
 
-**Enriching the Perks Store** Organizations can tailor the store with custom perks, including training courses and gym memberships, creating a self-reinforcing cycle of rewards and engagement. This not only incentivizes contributors but also fosters a deeper connection with the organization’s ecosystem.
+**Perks Store ' i rikastamine** Organisatsioonid saavad poodi kohandada kohandatud hüvedega, sealhulgas koolituskursused ja jõusaaliliikmed, luues ennast tugevdava preemiate ja kaasamise tsükli. See mitte ainult ei stimuleeri panustajaid, vaid soodustab ka sügavamat sidet organisatsiooni ökosüsteemiga.
 
-**Engagement and Rewards** Active participation in the Hub contributes to an organization’s global engagement score. This metric reflects the effectiveness of engagement strategies, considering factors like user activity levels and the equitable distribution of work and rewards. This publicly auditable score, entitles Hubs to a distribution of MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
+** kaasamine ja preemiad** Aktiivne osalemine keskuses aitab kaasa organisatsiooni globaalsele kaasamise skoorile. See mõõdik peegeldab kaasamisstrateegiate tõhusust, võttes arvesse selliseid tegureid nagu kasutajate aktiivsuse tase ning töö ja hüvede õiglane jaotus. See avalikult auditeeritav skoor annab jaoturitele õiguse jaotada protokollist vermitud VAJADUSMÄRGID, mis on nende kaasamisstrateegiate tõhususe mõõdupuuks.
 
 Looking ahead, Community Hubs in the WoM ecosystem are set to become central to community life, integrating internal communications, real-time interactions, governance, and various productivity tools. These enhancements will ensure that the Hubs remain interconnected with the best tools already employed by organizations. They stand as a powerful testament to Meeds' commitment to fostering a vibrant, engaged community.
 
