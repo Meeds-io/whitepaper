@@ -1,14 +1,14 @@
-# 5. WoM for ALL – tóm tắt tầm nhìn và các cột mốc quan trọng
+# 5. WoM for ALL – vision summary and milestones
 
-## 5.1. Mục tiêu cuối cùng - web phi tập trung cho mọi người
+## 5.1. Ultimate Goal - Decentralized web for everyone
 
-Cuối cùng, WoM là một thế giới web phi tập trung cho mọi người - mỗi người và mỗi tổ chức.
+In the end, the WoM is a decentralized web world for everyone – every person and all organizations.
 
 Nó sẽ được cư dân sử dụng thông qua danh tính kỹ thuật số của họ, **Xeeds**, và truy cập thế giới thông qua Metamask cho những người biết về tiền mã hóa hoặc đăng nhập / mật khẩu cho người mới. Mọi người sẽ phân bổ sự tham gia của họ và được thưởng một cách công bằng, minh bạch và phi tập trung. Họ sẽ được truy cập vào thế giới phi tập trung và thế giới tiền điện tử của tương lai một cách dễ dàng và quen thuộc - họ sẽ có các công cụ đơn giản để sử dụng mã thông báo của mình trong cuộc sống hoặc đầu tư cho tương lai của mình.
 
-Các tổ chức - **Deeds** sẽ có thể tìm kiếm tài năng, duyệt qua WoM, để tìm kiếm kỹ năng được chứng minh đúng. Họ sẽ nhận được phần thưởng khi tham gia WoM bằng cách đúc mã thông báo thông qua sự tham gia của người dùng (mô hình mintium). Nhưng hơn hết, họ sẽ được hưởng lợi từ sự tương tác và lòng trung thành cao hơn từ người dùng của họ.
+Organizations would be able to source talents, browsing through the WoM, for the right proven skills. Họ sẽ nhận được phần thưởng khi tham gia WoM bằng cách đúc mã thông báo thông qua sự tham gia của người dùng (mô hình mintium). Nhưng hơn hết, họ sẽ được hưởng lợi từ sự tương tác và lòng trung thành cao hơn từ người dùng của họ.
 
-WoM sẽ có đồng tiền riêng của nó **Meeds** - được sử dụng để mua sắm tại các cửa hàng, đổi sang đồng tiền khác, đầu tư để có lợi nhuận, thuê hoặc mua vv. WoM cũng sẽ thuận tiện cho việc phân phối các mã thông báo khác và tham gia vào hệ sinh thái tiền điện tử tổng thể.
+The WoM would have its own currency the **MEED** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. WoM cũng sẽ thuận tiện cho việc phân phối các mã thông báo khác và tham gia vào hệ sinh thái tiền điện tử tổng thể.
 
 Vì một bức tranh có thể nói nhiều hơn ngàn lời, đây là một biểu đồ mô tả luồng WoM và Meeds
 
@@ -22,7 +22,7 @@ Rõ ràng, những người sớm tiếp nhận sẽ nhận được những l�
 
 Đặc biệt, WoM thưởng cho những người đầu tư dài hạn vào thế giới ảo - đó là việc đổi lại tài sản (Điều lệ). Chủ sở hữu Điều lệ gốc sẽ được bồi thường thông qua việc đào tạo cam kết (sử dụng tích cực), thông qua thu nhập ch passive (cho thuê) và nhận được 1% suốt đời trên bất kỳ giao dịch bán Điều lệ nào (mỗi lần thay đổi sở hữu, người đổi Điều lệ gốc sẽ nhận được khoản phí trên giao dịch).
 
-Bằng cách tin vào dự án, tham gia vào các hồ chứa thanh khoản, đặt cược Meeds, đổi chúng lại Điều lệ... những nhà đầu tư sớm mọi kích thước sẽ đào thêm các mã thông báo. Họ cũng sẽ có được quyền biểu quyết sớm nhất và giúp định hình WoM.
+By believing in the project, participating in the liquidity pools, staking MEED tokens, redeeming them against Deeds...early investors of all sizes would mint additional tokens. Họ cũng sẽ có được quyền biểu quyết sớm nhất và giúp định hình WoM.
 
 Các tổ chức mua và đặc biệt là sử dụng Deeds để thu hút và thưởng cho nhân viên của họ sẽ được bồi thường bằng Meeds mới được sản xuất. Càng công bằng họ chơi, họ sẽ nhận được nhiều hơn. Những người đầu tiên sẽ được liên kết với các thành phố lịch sử đầu tiên và được xác định là những người xây dựng sau này.
 
@@ -38,17 +38,17 @@ Sơ đồ dưới đây mô tả một ví dụ về chiến lược đầu tư 
 
 ## 5.3. Các nhà tổ chức ra mắt
 
-Ngày ra mắt chính thức được đặt vào ngày **1 tháng 5 năm 2022** - Ngày Quốc tế Lao động, được kỷ niệm ở nhiều quốc gia.
+The official launch of the WoM was **May 1st, 2022** – the International Workers Day, celebrated in many countries.
 
-Tại thời điểm đó, token Meed đã tồn tại. Bạn có thể mua nó và các hồ chứa thanh khoản đang mở để tham gia, trên các mạng Polygon và Ethereum.
+At that time, the MEED token already existed. Bạn có thể mua nó và các hồ chứa thanh khoản đang mở để tham gia, trên các mạng Polygon và Ethereum.
 
 Ba thành viên của Hiệp hội Meeds sử dụng hệ thống nội bộ để tương tác và thưởng người dùng của họ và cải tiến phần mềm Meeds.
 
 Ứng dụng Nhà đầu tư có sẵn trên Ethereum Mainnet. Khi ra mắt, nó bao gồm staking, phần thưởng thanh khoản, tích lũy điểm và đổi Deeds.
 
-Cộng đồng Builders đã chạy trên phần mềm Meeds, mở cho bất kỳ ai muốn tham gia, kiểm tra và tham gia. Có thể đăng nhập với Metamask để tham gia.
+The Builders community is up and running, open to anyone who would want to join, test and participate. Có thể đăng nhập với Metamask để tham gia.
 
-Bài báo này được xuất bản vào ngày ra mắt. Sau khi ra mắt, token sẽ được phân phát miễn phí cho nhiều người trong cộng đồng crypto.
+This paper was initially published on the launch day. Sau khi ra mắt, token sẽ được phân phát miễn phí cho nhiều người trong cộng đồng crypto.
 
 ## 5.4. Cộng đồng xây dựng
 
