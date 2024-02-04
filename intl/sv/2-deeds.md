@@ -1,17 +1,19 @@
 
-# 2. Handlingar NFT - Metaverse organisationer för arbete
+# 2. Handlingar - Egenskaper för WoM
 
-## 2.1. NFT – gärningar definierade
+## 2.1. Deed NFTs
 
-En icke fungible token (NFT) är ett unikt tecken som representerar ett bra tecken. I WoM används en gärning som äganderätt. Varje handling ger sin ägare rätt att få tillgång till flera tjänster - till exempel en tillgång till ett digitalt kontor, som drivs av Meeds programvara och rätten att mint Meeds.
+I den digitala världen tjänar icke-materiella Tokens (NFTs) ett liknande syfte som handlingar i den fysiska världen. Som en gärning som bekräftar äganderätten till materiella tillgångar etablerar NFTs obestridligt ägande av digitala tillgångar. Detta ägande registreras säkert på en blockchain, vilket säkerställer att varje tillgång är unik och icke-replikerbar.
 
-WoM välkomnar alla typer av organisationer - DAO:er, traditionella företag, föreningar, tankesmedjor, partnerskap, teaterföretag, projektgrupper, skolor etc. Handlingen representerar deras digitala existens i WoM.
+Inom WoM, en gärning konceptualiseras som en NFT, som representerar den grundläggande enheten för ägande. Att hålla en bragd ger sin ägare möjlighet att hantera en gemenskapshubb och gör dem berättigade till Mintium belöningar, en form av erkännande och incitament inom WoM-ekosystemet (ytterligare detaljer i avsnitt 2.6).
+
+WoM är utformad för att vara en mångsidig och inkluderande plattform. Det välkomnar ett brett spektrum av organisationer, från DAO:er, traditionella företag och föreningar för att tänka tankar, teaterföretag, projektgrupper och utbildningsinstitutioner. I detta digitala landskap symboliserar en dåd organisationens digitala närvaro och fotavtryck i WoM, fungerar som en bro mellan deras verkliga verksamhet och deras digitala strävanden.
 
 ## 2.2. Handlar försörjning
 
 WoM kommer i slutändan leverera en begränsad mängd gärningar. Varje gärning innehåller ett fördefinierat maximalt antal användare och erbjuder en kapacitet av Meeds belönande (Minting Power). Begreppet "användare" här och nedan betecknar någon typ av anställd, arbetstagare, frilansare, volontär etc.
 
-Det finns fyra typer av Deeds, som var och en ger olika möjligheter när det gäller antal användare, rösträtt i en stad (se 2.7) eller Meeds mynträtt, där den mest sällsynta är den mest kraftfulla:
+Det finns fyra typer av gärningar, var och en ger olika möjligheter när det gäller antalet användare, rösträtt i en stad (se 2. ) eller minting makt, den ovanligaste är den mest kraftfulla :
 
 | **Deed Typ** | **Max antal användare** | **Minting effekt** | **Scarcity** | **Stadens rösträtt** |
 | ------------ | ----------------------- | ------------------ | ------------ | -------------------- |
@@ -24,69 +26,61 @@ Det finns fyra typer av Deeds, som var och en ger olika möjligheter när det g�
 
 En Deed ger ägaren rätt att använda den, hyra ut den eller sälja den.
 
-- ANVÄNDNING - Deed:s ägare kan använda Deed direkt för sin organisation och tillhandahålla tjänster till användarna.
-- UTHYRNING - Dee-ägarna kan också hyra ut Deed till en annan organisation för att få en passiv inkomst.
-- SELL - En Deed kan säljas på en andrahandsmarknad som [OpenSea](https://opensea.io).
+- ANVÄND – Ägaren kan använda Deed för att driva ett nav för sin egen organisation.
+- RENT - Ägaren kan också hyra gärningen till en annan organisation och tjäna passiv inkomst.
+- SELL - Ägaren kan sälja den på en sekundär NFT marknadsplats som [OpenSea](https://opensea.io).
 
-Om organisationen är en aktiv innehavare eller hyresgäst av en Deed belönas den med Meeds genom en innovativ "mintium"-modell som beskrivs nedan (del 2.6).
+Eftersom organisationen är en aktiv innehavare eller hyrare av en gärning har den rätt till MEED belöningar enligt den ”mintium”-modell som beskrivs nedan (se 2.6).
 
-## 2.4. Handlar tjänster, engagemang/belöningar motor
+## 2.4. Gemenskapshubbar
 
-På en allt mer konkurrensutsatt marknad måste organisationer för att attrahera och behålla talanger och maximera sina insatser, uppmuntra sina användare till mer än bara kompensation. WoM ger en innovativ ram för att göra det genom att tokenizing arbete engagemang.
+På dagens konkurrensutsatta marknad strävar organisationer efter att attrahera och behålla topptalanger inte bara genom kompensation utan också genom att öka engagemanget. WoM tar itu med denna utmaning med ett unikt, symboliserat belöningssystem förkroppsligat i Community Hubs.
 
-Varje handling innehavare eller hyresgäst kan tillhandahålla verktyg och tjänster till sina användare, som tjänar engagemangspoäng som kan finjusteras till handlingens prioriteringar. Periodiskt omvandlas poäng till Meeds (och - för DAOs - potentiellt en annan token), baserat på handlingens fastställda budget. På så sätt belönas användarnas engagemang i aktiviteter som är viktiga för organisationen.
+Inom dessa Hubbar kan samhällsledare driva medlemmarnas engagemang genom att erbjuda en transparent meny med incitament för arbetsposter. Deltagarna tjänar engagemangspoäng för sina insatser, som periodvis omvandlas till MEED tokens eller en anpassad motsvarighet, i linje med en förutbestämd budget.
 
-Till att börja med kan följande kostnadsfria tjänster som tillhandahålls av Meeds-föreningen användas för att belöna engagemang:
+Community Hubs erbjuder en svit av verktyg och funktioner som syftar till att öka och hantera bidragsgivarens engagemang:
 
-- **Spelifieringsmotor** - automatiska åtgärder inom WoM har en vikt i poäng, som kan finjusteras till Deed prioriteringar via anpassningsbara engagemangsprogram.
-- **Utmaningar** – anpassningsbara utmaningar kan ställas in för att representera prestationer. Utmaningarna är förinställda av en person och kan fyllas i och tillkännages som sådana av en annan. Utmaningar bära en vikt i poäng, inom anpassningsbara engagemangsprogram.
-- **Anpassningsbara engagemangsprogram** - organisationer kan skapa egna engagemangsprogram som matchar deras affärsmål och prioriteringar. Program är kopplade till automatiska åtgärder inom systemet och manuellt ställa in utmaningar. Varje program har en uppsättning Meeds budget. Periodiskt intjänade poäng av varje användare genom automatik eller aviserade åtgärder i varje engagemangsprogram omvandlas till Meeds, baserat på programmets budget.
-- **Kudos** - kudos kan delas ut av användare till varandra, som ett tack och ett tecken på erkännande. Eftersom högskolepoäng finns att distribuera är begränsade (en förinställd periodisk gräns, 3 per vecka till exempel), är de sällsynta och värdefulla. Liksom handlingar, högskolepoäng bär poäng. På så sätt får medarbetarna möjlighet att belöna sina kollegor.
-- **Samarbetsverktyg, som är kopplade till den givande motorn - arbetsutrymmen, asynkron kommunikation, ett verktyg för uppgiftshantering och anteckningar - gör det möjligt för människor att arbeta tillsammans i projekt.
-- **Wallet** – användare är försedda med en säker Ethereum teknik plånbok för att lagra sina Meeds. Alternativt kan en Metamask-plånbok användas för avancerade användare.
-- **Store** - en butik där Meeds kan bytas mot förmåner som tillhandahålls av innehavaren eller uthyraren av Deed:n eller av Meeds-ekosystemet.
-- **Analytics** - för att analysera och följa engagemanget inom Deed.
-- **Connectors**, anslutna till belöningsmotorn - användare får engagemangspoäng via åtgärder i en annan programvara - till exempel för att lägga in kod i GitHub.
+- **Åtgärder**: Inciterade uppgifter vägleder bidragsgivare, anpassa sina insatser till organisatoriska mål och öka motivation och riktning.
+- **Gamification**: Ledartavlor och märken förvandlar arbete till en rolig, konkurrenskraftig upplevelse, öka engagemang och njutning.
+- **Engagement Program**: Anpassade program med specifika mål och belöningar klargöra organisatoriska mål och rättvist erkänna bidragsgivare.
+- **Kudos**: Omedelbart erkännande ökar moralen och främjar en kultur av uppskattning, öka sammanhållningen och motivationen för teamet.
+- **Spaces**: Organiserade undergrupper och projekt effektiviserar kommunikation och samarbete, vilket ökar den kollektiva produktiviteten.
+- **Wallet**: Plånboksappen lagrar säkert MEED belöningar som representerar användarnas bidrag, och möjliggör enkla transaktioner både inom navet och på det bredare nätverket.
+- **Perks**: En mängd olika belöningar, från presentkort till NFTs, sporra pågående engagemang och främja lojalitet inom organisationens ekosystem.
+- **Uppgifter**: Strömlinjeformade verktyg för projekt- och uppgiftshantering ökar produktiviteten genom att förenkla arbetsflöden och spåra framsteg.
+- **Notes**: En praktisk anteckningsbok app för att dokumentera viktig information som onboarding guider främjar kunskapsdelning och organisatorisk självförsörjning.
+- **Branding**: Anpassningsbart Hub-utseende lockar nya bidragsgivare och stärker deras koppling till organisationens identitet.
+- **Analytics**: Insiktsfull analys i gemenskapen engagemang gör det möjligt för ledare att identifiera effektiva strategier och fatta välgrundade beslut för optimering.
 
-Vissa av de tidigare nämnda verktygen och tjänsterna är redan decentraliserade, andra inte. Det slutliga målet är att tillhandahålla alla tjänster på ett decentraliserat sätt, vilket vi kommer att göra gradvis allteftersom den underliggande tekniken utvecklas.
 
-Nya tjänster kan anslutas till belöningsmotorn via API:er. Exempel är otaliga och kan omfatta praktiskt taget alla program eller tjänster:
+**Starta ett nav** Att initiera ett nav är mest sömlöst via meeds. o, som erbjuder tillgång till en molnplattform som hanteras av Meeds Association. Denna plattform möjliggör snabb installation och underhålls av den ideella enheten som förvaltar WoM. Men WoM vänder sig till decentralisering. Eftersom Meeds programvara är öppen källkod och fritt distribueras, organisationer har möjlighet att själv värd en Hub-server och ansluta till WoM-nätverket, bevilja dem mer kontroll och anpassning i sin hubb inställning och hantering.
 
-- CRM-programvara - säljare skulle få engagemangspoäng för att arbeta med möjligheter.
-- Bokföringsprogram - revisorer skulle få engagemangspoäng för att föra bokföring.
-- Klockterminal - Fabriksarbetaren kan få poäng för arbetstiden i fabriken.
-- Etc.
+**Att fånga arbetssignaler** Hubbar kan integreras med olika plattformar som GitHub, Twitter, och Discord och kan utökas via API för att ansluta till tjänster som CRM-program, bokföringsprogram och klockterminaler. Detta gör det möjligt för olika professionella bidrag att erkännas och belönas. Alla kontakter genomgår en vitlistningsprocess av Meeds Association för att garantera integritet och funktionalitet.
 
-Dessutom deltar engagemang som produceras via kontakten i organisationens globala engagemangspoäng som är en faktor av Meeds utjämning fördelning, beskrivs nedan. För att göra det, måste kontakten vara vitlistad av Meeds Association. Föreningen granskar kontakten, godkänner sin algoritm och förvärvar sitt ägande mot Meeds. Det blir sedan en del av de fria tjänster som tillhandahålls av föreningen och ingår i det globala engagemangsindex. Alla andra gärningar kan använda samma kontakt och samma belöningsalgoritm för sina utvecklare.
+**Att berika Perks Store** Organisationer kan skräddarsy butiken med anpassade förmåner, inklusive utbildningar och gym medlemskap, skapa en självförstärkande cykel av belöningar och engagemang. Detta stimulerar inte bara bidragsgivare utan främjar också en djupare koppling till organisationens ekosystem.
 
-Gärningens innehavare eller uthyrare kan berika sin butik med egna förmåner, ansluta till en online förmåner erbjudande etc. Återigen möjligheterna är oändliga:
+**Engagemang och belöningar** Aktivt deltagande i navet bidrar till en organisations globala engagemangspoäng. Detta mått återspeglar effektiviteten i engagemangsstrategier, med tanke på faktorer som användaraktivitetsnivåer och rättvis fördelning av arbete och belöningar. Denna offentligt granskningsbara poäng, berättigar Hubbar till en fördelning av MEED tokens präglade från protokollet, fungera som ett mått på effektiviteten i deras engagemangsstrategier.
 
-- Utbildningskurser
-- Gym-anslutningar
-- Semesterpaket
-- Lunch med en ledare i organisationen
-- Fysiska kontorsutrymmen
-- Etc.
+Framöver kommer Gemenskapshubbar i WoM-ekosystemet att bli centrala för samhällslivet, integrera intern kommunikation, interaktioner i realtid, styrning och olika produktivitetsverktyg. Dessa förbättringar kommer att se till att Hubs förblir sammankopplade med de bästa verktyg som redan används av organisationer. De står som ett kraftfullt bevis på Meeds engagemang för att främja en levande och engagerad gemenskap.
 
-Butiken fungerar genom att använda Meeds så att Meeds delvis återförs till Deed.
 
-## 2.5. Belöningar – Meeds och andra tokens
+## 2.5. Belöning Modell
 
-WoM kommer att tokenize användare engagemang, genom att gamifying digitala arbetsverktyg, och tillskriva poäng och Meeds i förhållande till arbete engagemang. Tjänster kopplade till förlovnings- och belöningsmotorns attributpunkter för varje användare, enligt deras engagemangsnivå och i linje med respektive gärnings engagemangsprogram. Faktum är att varje handling kan finjustera mängden poäng som ges för varje typ av aktivitet. Således, driva lite kod i GitHub kan vara värt 10 poäng för en IT-butik, medan en digital byrå kan tillskriva endast 5 poäng för GitHub skjuter men skulle erbjuda 10 poäng för retweets.
+I WoM stimuleras och gamifieras användarnas engagemang över olika arbetsaktiviteter, skräddarsydda för varje gemenskap Hub's unika program. Användarna tjänar poäng som återspeglar deras aktiva deltagande, där varje gemenskap bestämmer sina egna regler för punktfördelning.
 
-Periodiskt, den givande motorn omvandlar engagemangspunkter till Meeds enligt budgetar och andra distributionsregler och i slutändan belöna användarna via sina plånböcker. Handlingen är inte skyldig att distribuera Meeds och kan använda engagemangssystemet för att möjliggöra någon annan form av kompensationsprogram. Men distribuera Meeds kommer att förbättra sin malningskapacitet.
+Till exempel kan ett IT-företag tilldela 10 poäng för kodning på GitHub, Medan en digital byrå kunde placera högre värde på sociala medier engagemang, som retweets, med liknande punkter.
 
-Dessutom behöver Deed inte nödvändigtvis förvärva Meeds för att distribuera dem och ge bränsle till sina engagemangsprogram, eftersom den kommer att få Meeds från "mintium"-modellen, som beskrivs nedan.
+Regelbundna fördelningar av belöningar är baserade på de poäng som samlats i varje hub. Vanligtvis ges dessa i MEED tokens, levereras direkt till användarnas plånböcker. Medan MEED tokens är standard form av belöning, Hubs har flexibilitet att erbjuda olika typer av ersättning.
 
-Förutom Meeds, kommer det också att vara möjligt att distribuera andra tokens (till exempel DAO:s egna tokens) baserat på samma engagemangsmekanism. I så fall kommer distributionen att vara föremål för en 5% transaktionsavgift (i DAO token) för Meeds Association.
+När belöningar fördelas i andra polletter än MEED tillämpas en nominell avgift på 5 %. Avgiften bidrar till Meeds statskassa och spelar en avgörande roll för att bevara ekosystemets hållbarhet.
 
 ## 2.6. Den “mintium” modellen – tokenize arbete engagemang
 
-Genom att engagera sina användare i WoM får Deeds ersättning genom en innovativ mintiummodell.
+Genom att engagera sina användare i WoM, samhällen kompenseras genom en innovativ mintium modell.
 
-Engagemangspoäng, som görs av gärningarnas användare, deltar i det globala engagemangsindex, som Meeds Association har räknat. Indexet använder samma princip för alla handlingar. Även om gärningen kan ändra punkternas fördelning för att främja en åtgärd över en annan, dessa förändringar kommer inte att beaktas i den globala indexberäkningen.
+Engagemangspoäng, som Hubs användare får, deltar i det globala engagemangsindex, som Meeds Association räknat. Indexet använder samma princip för alla hubbar. Även om samhället kan ändra punkternas fördelning för att främja en åtgärd över en annan, dessa förändringar kommer inte att beaktas i den globala indexberäkningen.
 
-Varje vecka fördelas en viss mängd Meeds till den globala engagemang prägling av WoM. Det beräknas veckovis, pro-rata, bland de deltagande gärningar. Vissa gärningar får en extra boost beroende på deras typ. De gärningar som gör anspråk på sina Meeds över veckan, ta emot dem. De outtagna Meeds läggs till följande veckas globala distributionsbelopp.
+Varje vecka fördelas en viss mängd Meeds till den globala engagemang prägling av WoM. Det beräknas veckovis, pro-rata, bland de deltagande hubbar. Vissa hubbar får en extra boost beroende på vilken typ av gärning de använder. De Hubbar som hävdar sina Meeds över veckan, ta emot dem. De outtagna Meeds läggs till följande veckas globala distributionsbelopp.
 
 Engagemangspoängen _S_ för en Deed är en funktion av engagemanget, antalet engagerade användare och fördelningen :
 
@@ -94,19 +88,19 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Var :
 
-- $A$ = _Aktivitet_ - totalt antal åtgärder som ackumulerats av användare inom bragden under veckan. (På varje handlings nivå omvandlas varje handling till engagemangspunkter, vissa åtgärder som väger mer än andra. På indexnivån är alla åtgärder linjäriserade).
+- $A$ = __ - totalt antal åtgärder som ackumulerats av användare inom navet under veckan. (På en hubb omvandlas varje användares åtgärder till engagemangspunkter, vissa åtgärder som väger mer än andra. På indexnivån är alla åtgärder linjäriserade).
 - $U$ = _Engagerade användare_ - användare som bidrog till poäng under veckan genom minst en åtgärd.
-- $E_d$ = _Aktivitetsgrad för handlingen_ - åtgärder per användare ($A/U$)
-- $E_w$ = _Genomsnittlig engagemangshastighet_ för alla aktiva handlingar i WoM.
-- $D_r$ = _Distributionshastighet_ - om en Deed mottog präglade Meeds för föregående period, den % av Meeds som delades ut till sina användare. % kan vara över 100 om fördelningen försenas i tid.
-- $D_s$ = _Distributionsspridning_ - om en Deed fick präglade Meeds under föregående period, % av användarna som fick Meeds i den totala gruppen användare.
+- $E_d$ = _Engagemangshastigheten för navet_ - åtgärder per användare ($A/U$)
+- $E_w$ = _Genomsnittlig engagemangshastighet_ för alla aktiva Hubbar i WoM.
+- $D_r$ = _Distributionshastighet_ - om ett nav fick präglade Meeds för den föregående perioden, den % av Meeds som delades ut till sina användare. % kan vara över 100 om fördelningen försenas i tid.
+- $D_s$ =  _Distribution spread_ - om ett nav fick präglade Meeds för den föregående perioden, % av de användare som tog emot Meeds i den totala poolen av användare.
 - $M$ = _Myntaffekt_ för Deed enligt definitionen i 2.3.
 
 
-Det globala indexet för engagemang som används för att fördela de nya Meeds bland Deeds är summan av alla Deeds engagemangspoäng för veckan.
+Det globala engagemangsindexet som används för att distribuera präglade Meeds bland Hubs är summan av alla Hubs engagemangspoäng för veckan.
 
 
-Formeln ovan är enkel och utformad för att gynna handlingar :
+Formeln ovan är enkel och utformad för att gynna nav :
 
 - med många engagerade användare (engagemang)
 - som delar hela myntningsinkomsten (fördelningsgrad) med sina användare på ett rättvist sätt (fördelningsspridning).
@@ -116,9 +110,9 @@ Dessutom finns det boosters på plats för :
 - Organisationer med det högsta engagemanget, oavsett storlek (engagemang i förhållande till WoM).
 - knappa gärningar
 
-> Föreningen Meeds förbehåller sig rätten att ändra formeln om det behövs – om vissa specifika användningsfall uppstår till exempel. Föreningen kan också svartlista alla gärningar som kapar formeln till sin unika fördel.
+> Föreningen Meeds förbehåller sig rätten att ändra formeln om det behövs – om vissa specifika användningsfall uppstår till exempel. Föreningen kan också svartlista alla Hub som kapar formeln till sin unika fördel.
 
-Allteftersom gärningarna belönas med Meeds och stimuleras till att omfördela dem som belöningar till sina användare mot deras engagemang – är intresset för både gärningar och deras användare i linje med samma dygdiga intäktsdelningscykel. WoM erbjuder alltså en ny arbetsmodell som omformar anställningsförhållandet som ett partnerskap.
+Som Hubs belönas med Meeds och stimuleras att omfördela dem som belöningar till sina användare mot deras engagemang - intresserar både samhället och deras användare är i linje med samma dygdiga intäktsdelningscykel. WoM erbjuder alltså en ny arbetsmodell som omformar anställningsförhållandet som ett partnerskap.
 
 Mintium-modellen är den första i sitt slag - den går längre än den traditionella freemium-modellen, eftersom tjänsterna inte bara är gratis att använda utan både organisationerna och användarna belönas för att använda dem.
 
@@ -138,9 +132,9 @@ En stad kommer att anses vara fullständig, när väl alla dess gärningar har b
 | 6: Kushor    | 10 000 000     | Reshef + 64 månader   | 6 000 000   | 3 000 000   | 999 998      | 2               |
 | 7: Hammon    | 100 000 000    | Reshef + 128 månader  | 60 000 000  | 30 000 000  | 9 999 999    | 1               |
 
-En stad är ett sätt för gärningarna att komma samman och skapa en gemenskap. Och som en konsekvens får en viss identitet, associerad med den gemenskapen. Det är också ett sätt att tillföra sina användare mervärde - värde som skulle gå utöver en handlings kapacitet eller värde som skapats genom samarbete mellan handlingarna.
+En stad är ett sätt för samhällena att komma samman och skapa ett större samhälle. Och som en konsekvens får en viss identitet, associerad med den gemenskapen. Det är också ett sätt att tillföra sina användare mervärde - värde som skulle gå utöver en gemenskaps kapacitet eller värde som skapats genom samarbete mellan samhällena.
 
-Varje stad har sitt eget styre och driver sin egen DAO där stadens Deed-ägare kan välja sitt stadsfullmäktige, rösta och fastställa sina egna driftsregler, lägga till nya tjänster och utforma sin stad på det sätt som de vill för att öka stadens attraktionskraft och värdet av de Deeds som är knutna till den.
+Varje stad har sin egen govenance och driver sin egen DAO där stadens bragd ägare kan välja sitt kommunfullmäktige, rösta och fastställa egna verksamhetsregler, lägga till nya tjänster och forma deras stad på det sätt som de vill ha och för att öka stadens attraktivitet och värdet av de gärningar som är knutna till den.
 
 De kan till exempel lägga till en digital representation av sin stad, fysiska motsvarigheter som är kopplade till staden (mötesrum i fysiska samarbetsutrymmen till exempel), lägga till Meeds-drivna mat- och semestertjänster, etc...
 
