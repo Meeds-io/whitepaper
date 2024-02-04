@@ -5,7 +5,7 @@
 Dagens arbetsmarknad saknar effektivitet på grund av höga transaktionskostnader\[^1\]\[^2\]<sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</5></sup> och frekventa intressekonflikter mellan arbetsgivaren och arbetstagaren.</p> 
 
 <p spaces-before="0">
-  Work Metaverse (WoM) föreslår ett nytt paradigm som skulle sänka transaktionskostnaderna och återuppfinna anställningsförhållandet, och överbrygga klyftan mellan traditionella företag och DAO.
+  WoM (World of Meeds) föreslår ett nytt paradigm som skulle sänka transaktionskostnaderna och återuppfinna anställningsförhållandet, överbrygga klyftan mellan traditionella företag och Dao.
 </p>
 
 <p spaces-before="0">
@@ -66,7 +66,7 @@ Dagens arbetsmarknad saknar effektivitet på grund av höga transaktionskostnade
 </p>
 
 <p spaces-before="0">
-  Slutligen överbryggar Metaverse arbetet klyftan mellan företag och DAO:er. Å ena sidan introducerar man traditionella företag i den decentraliserade världen genom ett lättanvänt engagemang som belönar paradigmet och kompletterar deras kompensationssystem. Å andra sidan föreslår man hållbara sätt att arbeta och skapa värde för DAO:er. I slutändan, WoM kan vara en av de första konventionella tillämpningarna för att demokratisera användningen av blockchain för varje företag och varje anställd – inklusive icke-digitala sådana.
+  Finalmente, el WoM cierra la brecha entre las corporaciones y los DAOs. Å ena sidan introducerar man traditionella företag i den decentraliserade världen genom ett lättanvänt engagemang som belönar paradigmet och kompletterar deras kompensationssystem. Å andra sidan föreslår man hållbara sätt att arbeta och skapa värde för DAO:er. I slutändan, WoM kan vara en av de första konventionella tillämpningarna för att demokratisera användningen av blockchain för varje företag och varje anställd – inklusive icke-digitala sådana.
 </p>
 
 <p spaces-before="0">
