@@ -1,17 +1,19 @@
 
-# 2. Deeds NFT - WoM organisaties
+# 2. Deeds - De Eigenschappen van de WoM
 
-## 2.1. Beloningen - Meeds en andere penningen
+## 2.1. Toegediende NFT's
 
-Een niet-vervalsbaar token (NFT) is een uniek token dat een goed vertegenwoordigt. In de WoM wordt een Deed gebruikt als eigendomstitel. Elke Deed geeft zijn eigenaar recht op toegang tot verschillende diensten - bijvoorbeeld een toegang tot een digitaal kantoor, aangedreven door de Meeds-software en het recht om Meeds te slaan.
+In de digitale realm dienen niet-fungibele Tokens (NFT's) een soortgelijk doel voor daden in de fysieke wereld. Net als een daad die het eigendom van tastbare eigendom bevestigt, vestigen NFT's onbetwistbaar eigendom van digitale activa. Deze eigendom wordt veilig opgeslagen op een blockchain, zorg ervoor dat elke asset uniek en niet-repliceerbaar is.
 
-De WoM verwelkomt alle soorten organisaties - DAO's, traditionele bedrijven, verenigingen, denktanks, partnerschappen, theatergezelschappen, projectgroepen, scholen enz. De Deed vertegenwoordigt hun digitaal bestaan in het WoM.
+Binnen de WoM wordt een Deed beschouwd als een NFT, die de fundamentele eenheid van eigendom vertegenwoordigt. Het bezit van een Deed geeft de eigenaar het recht om een Community Hub te beheren en zorgt ervoor dat ze in aanmerking komen voor Mintium beloningen, een vorm van erkenning en aanmoediging binnen het ecosysteem WoM (meer details in paragraaf 2.6).
+
+Het WoM is ontworpen om een divers en inclusief platform te zijn. Het verwelkomt een groot aantal organisaties, van DAO's, traditionele bedrijven en verenigingen tot denktanks, theaterbedrijven, projectgroepen en onderwijsinstellingen. In dit digitale landschap symboliseert een Deed de digitale aanwezigheid en voetafdruk van de organisatie in WoM, werken als een brug tussen hun operaties in de echte wereld en hun digitale doelen.
 
 ## 2.2. Deeds leveringspunt
 
 De WoM zal uiteindelijk een beperkte hoeveelheid Deeds leveren. Elke Deed omvat een vooraf vastgesteld maximum aantal gebruikers en biedt een capaciteit aan Meeds die worden beloond (Muntkracht). De term "gebruiker" duidt hier en hierna elk type werknemer, arbeider, freelancer, vrijwilliger enz. aan.
 
-Er zijn vier soorten Deeds, die elk verschillende mogelijkheden bieden in termen van aantal gebruikers, stemrecht in een stad (zie 2.7) of muntkracht van Meeds, waarbij de zeldzaamste de krachtigste is:
+Er zijn vier soorten Deeds, elk biedt verschillende mogelijkheden in termen van aantal gebruikers, stemrecht in een stad (zie 2. ) of mijnbouw macht, de zeldzaamheid is de krachtigste :
 
 | **Deed Type** | **Maximale gebruikers** | **Muntkracht** | **Schaarste** | **Stad stemrecht** |
 | ------------- | ----------------------- | -------------- | ------------- | ------------------ |
@@ -24,69 +26,61 @@ Er zijn vier soorten Deeds, die elk verschillende mogelijkheden bieden in termen
 
 Een Deed geeft de eigenaar het recht het te GEBRUIKEN, te VERHUREN of te VERKOPEN.
 
-- GEBRUIK - De eigenaars van de Deed kunnen de Deed rechtstreeks voor hun organisatie gebruiken en diensten verlenen aan de gebruikers ervan.
-- HUREN - De eigenaars van de Deed kunnen de Deed ook verhuren aan een andere organisatie om passief inkomen te krijgen.
-- VERKOOP - Een Deed kan worden verkocht op een secundaire markt zoals [OpenSea](https://opensea.io).
+- GEBRUIK – De eigenaar kan de Deed gebruiken om een hub voor zijn eigen organisatie uit te voeren.
+- RENT - De eigenaar kan ook de Deed huren van een andere organisatie en een passief inkomen verdienen.
+- SELL - De eigenaar kan het verkopen op een secundaire NFT marktplaats zoals [OpenSea](https://opensea.io).
 
-Als actieve houder of huurder van een Deed wordt de organisatie beloond met Meeds, via een innovatief "mintium" model dat hieronder wordt beschreven (deel 2.6).
+Als actieve houder of huid van een Deed, heeft de organisatie recht op MEED-beloningen volgens het "mintium" model hieronder beschreven (zie 2.6).
 
-## 2.4. Diensten voor Deeds, betrokkenheid/beloningenmotor
+## 2.4. Gemeenschap Hubs
 
-In een steeds concurrerender markt moeten organisaties, om talenten aan te trekken en te behouden en hun inzet te maximaliseren, hun gebruikers meer stimuleren dan alleen compensatie. De WoM biedt een innovatief kader om dat te doen door werkbetrokkenheid te tokenen.
+Op de huidige concurrerende markt proberen organisaties het toptalent aan te trekken en te behouden, niet alleen door compensatie maar ook door het vergroten van de arbeidsbetrekking. De WoM pakt deze uitdaging aan met een uniek, tokenisisoir beloningensysteem dat is belichaamd in de Community Hubs.
 
-De houder of huurder van elk Deed kan tools en diensten leveren aan zijn gebruikers, die daarmee engagementpunten verdienen die kunnen worden afgestemd op de prioriteiten van het Deed. Periodiek worden de punten omgezet in Meeds (en - voor DAO's - mogelijk een ander token), op basis van het vastgestelde budget van de Deed. Op die manier wordt de betrokkenheid van gebruikers bij activiteiten die van belang zijn voor de organisatie beloond.
+Binnen deze Hubs kunnen gemeenschapsleiders de leden betrokkenheid stimuleren door een transparant menu van stimulansen voor werkitems aan te bieden. Deelnemers verdienen engagement punten voor hun inspanningen, die periodiek worden omgezet in MEED tokens of een aangepast equivalent, in overeenstemming met een vooraf bepaald budget.
 
-Om te beginnen kunnen de volgende gratis diensten van de Meeds-vereniging worden gebruikt om engagement te belonen:
+Community Hubs bieden een pakket van tools en functies ontworpen om de betrokkenheid van bijdragers te vergroten en te beheren:
 
-- **Gamification engine** – - automatische acties binnen de WoM hebben een gewicht in punten, dat kan worden afgestemd op de prioriteiten van de Deed via aanpasbare engagementprogramma's.
-- **Uitdagingen** - aanpasbare uitdagingen kunnen worden ingesteld om prestaties weer te geven. Uitdagingen worden vooraf ingesteld door één persoon en kunnen worden ingevuld en aangekondigd door een ander. Uitdagingen hebben gewicht in punten, in aanpasbare engagement programma's.
-- **Aanpasbare engagement programma's** - organisaties kunnen hun eigen engagementprogramma's maken die passen bij hun bedrijfsdoelstellingen en prioriteiten. Programma's zijn gekoppeld aan automatische acties binnen het systeem en handmatig ingestelde uitdagingen. Elk programma heeft een vast Meeds-budget. Periodiek worden de punten die elke gebruiker verdient met automatische of aangekondigde acties in elk engagementprogramma omgezet in Meeds, gebaseerd op het budget van dat programma.
-- **Kudos** - kudos kunnen door gebruikers aan elkaar worden toegekend, als dank en blijk van erkenning. Aangezien de uit te delen kudos beperkt zijn (een vooraf ingestelde periodieke limiet, bijvoorbeeld 3 per week), zijn ze zeldzaam en waardevol. Net als aan acties zijn aan kudo's punten verbonden. Zo worden medewerkers in staat gesteld hun collega's te belonen.
-- **Samenwerking** gekoppeld aan de beloningsmotor - workspaces, asynchrone communicatie, een tool voor taakbeheer en notities - stellen mensen in staat om samen aan projecten te werken.
-- **Portemonnee** – gebruikers krijgen een veilige portemonnee met Ethereum-technologie om hun Meeds in op te slaan. Als alternatief, voor gevorderde gebruikers, kan een Metamask wallet worden gebruikt.
-- **Winkel** – een winkel waar Meeds kunnen worden ingewisseld tegen perks die door de Deed-houder of -huurder of door het Meeds-ecosysteem worden verstrekt.
-- **Analytics** – om betrokkenheid binnen de Deed te analyseren en te volgen.
-- **Connectors**, aangesloten op de beloningsmotor - gebruikers krijgen engagementpunten via acties in andere software - bijvoorbeeld voor het committen van code in GitHub.
+- **acties**: Geïncentialiseerde taken gidsen van medewerkers, het afstemmen van hun inspanningen op organisatorische doelstellingen en het stimuleren van motivatie en richting.
+- **Gamification**: Leaderboards and badges transformeren werk in een leuke, concurrerende ervaring, verhoogt betrokkenheid en plezier.
+- **Betrokkingsprogramma's**: Aangepaste programma's met specifieke doelen en beloningen verhelderen organisatorische doelen en herken de prestaties van bijdragers.
+- **Kudos**: Onmiddellijke peer herkenning verhoogt de moraal en stimuleert een cultuur van waardering, versterking van de teamcohesie en motivatie.
+- **ruimten**: Georganiseerde subgroepen en projecten stroomlijnen communicatie en samenwerking, verhogen de collectieve productiviteit.
+- **Portemonnee**: De Portemonnee app slaat MEED beloningen op, vertegenwoordigt gebruiker bijdragen, en maakt gemakkelijke transacties mogelijk, zowel binnen de Hub als op het bredere netwerk.
+- **Voordelen**: Een verscheidenheid aan beloningen, van cadeaubonnen tot NFT's, stimuleert voortdurende betrokkenheid en stimuleert loyaliteit binnen het ecosysteem van de organisatie.
+- **Taken**: Gestroomlijnd project en taakbeheer tools verhogen de productiviteit door werkstromen te vereenvoudigen en de voortgang te volgen.
+- **Notities**: Een handige notitieboek-app voor het documenteren van essentiële informatie zoals onboardinghandleidingen bevordert het delen van kennis en het zelfvoorzienend maken van organisaties.
+- **Branding**: Aanpasbare Hub uiterlijk trekt nieuwe bijdragers aan en versterkt hun verbinding met de identiteit van de organisatie.
+- **Analytics**: Insightful analytics into community engagement stelt leiders in staat om effectieve strategieën te identificeren en geïnformeerde beslissingen te nemen voor optimalisatie.
 
-Sommige van de bovengenoemde hulpmiddelen en diensten zijn al gedecentraliseerd, andere niet. Het uiteindelijke doel is om alle diensten op een gedecentraliseerde manier aan te bieden, wat we geleidelijk zullen doen naarmate de onderliggende technologie evolueert.
 
-Nieuwe diensten kunnen via API's op de beloningsmotor worden aangesloten. De voorbeelden zijn legio en kunnen vrijwel elke software of dienst omvatten:
+**Het starten van een Hub** het initiëren van een Hub is de meeste naadloos via een Leid. o, welke toegang biedt tot een cloud platform beheerd door de Vereniging Meeds Dit platform maakt snelle installatie mogelijk en wordt onderhouden door de non-profit entiteit die de WoM stuurt. Het WoM-programma heeft echter betrekking op decentralisatie. Omdat de Meeds software open source is en vrij wordt verspreid, hebben organisaties de mogelijkheid om zelf een Hub server te organiseren en verbinding te maken met het WoM-netwerk, geeft ze meer controle en aanpassing in de instellingen en beheer van hun Hub.
 
-- CRM-software - verkopers zouden engagementpunten krijgen voor het werken aan opportuniteiten.
-- Boekhoudsoftware - accountants zouden engagementpunten krijgen voor het bijhouden van een boekhouding.
-- Clocking terminal - fabrieksarbeider kan punten krijgen voor werktijd in de fabriek.
-- Enz.
+**Werk Signalen Vastleggen** Hubs kunnen integreren met verschillende platforms zoals GitHub, Twitter, en Discord en zijn uitschuifbaar via API om te verbinden met services zoals CRM-software, boekhoudsoftware en klokterminals. Hierdoor kunnen diverse professionele bijdragen worden herkend en beloond. Alle connectoren ondergaan een whitelisting proces door de Meeds Association om de integriteit en functionaliteit te garanderen.
 
-Bovendien neemt de via de connector geproduceerde betrokkenheid deel aan de globale betrokkenheidsscore van de organisatie die een factor is van de Meeds muntverdeling, die hieronder wordt beschreven. Om dat te kunnen doen, moet de connector worden gewhitelist door de Meeds Association. De vereniging beoordeelt de connector, keurt het algoritme ervan goed en verwerft het eigendom ervan bij Meeds. Vervolgens wordt hij onderdeel van de gratis diensten van de vereniging en wordt hij opgenomen in de wereldwijde engagementsindex. Elke andere Deed kan dezelfde connector en hetzelfde beloningsalgoritme gebruiken voor zijn ontwikkelaars.
+**Het verrijken van de Voordelen Store** Organisaties kunnen de winkel afstemmen op aangepaste voordelen, inclusief trainingscursussen en sportschoollidmaatschap, het creëren van een zelfversterkende cyclus van beloningen en betrokkenheid. Dit stimuleert niet alleen bijdragers maar stimuleert ook een diepere verbinding met het ecosysteem van de organisatie.
 
-De houder of huurder van de Deed kan zijn winkel verrijken met zijn eigen perks, aansluiten op een online perks aanbod enz. Ook daar zijn de mogelijkheden eindeloos:
+**Betrokkenheid en Beloningen** Actieve deelname in de Hub draagt bij aan de wereldwijde engagement score van een organisatie. Deze metriek weerspiegelt de effectiviteit van inzetstrategieën, waarbij factoren als het niveau van gebruikersactiviteiten en de billijke verdeling van werk en beloningen worden meegenomen. Deze openbaar controleerbare score, geeft Hubs recht op een distributie van MEED tokens gemunt uit het protocol, als maatstaf voor de effectiviteit van hun verlofstrategieën.
 
-- Training Cursussen
-- Lidmaatschap van een gymclub
-- Vakantie pakketten
-- Lunch met een leider in de organisatie
-- Fysieke kantoorruimte
-- Enz.
+Vooruitkijkend zullen de communautaire Hubs in het ecosysteem van WoM centraal komen te staan in het gemeenschapsleven. integratie van interne communicatie, real-time interacties, governance en verschillende productiviteitsinstrumenten. Deze verbeteringen zullen ervoor zorgen dat de Hubs verbonden blijven met de beste instrumenten die al door organisaties worden gebruikt. Ze staan als een krachtig bewijs van het engagement van Meeds om een levendige, betrokken gemeenschap te bevorderen.
 
-De winkel functioneert door het gebruik van Meeds, zodat Meeds gedeeltelijk worden teruggegeven aan de Deed.
 
-## 2.5. Beloningen - Meeds en andere penningen
+## 2.5. Beloning Model
 
-De WoM zal gebruikersbetrokkenheid tokenen, door digitale werkinstrumenten te gamificeren en punten en Meeds toe te kennen in relatie tot werkbetrokkenheid. Diensten die zijn aangesloten op de engagement- en beloningsmotor kennen punten toe aan elke gebruiker, afhankelijk van hun engagementsniveau en in overeenstemming met de engagementprogramma's van elke Deed. Elke Deed kan namelijk het aantal punten voor elk type activiteit nauwkeurig afstemmen. Zo kan het pushen van wat code in GitHub 10 punten waard zijn voor een IT-shop, terwijl een digitaal agentschap slechts 5 punten kan toekennen voor GitHub pushes, maar 10 punten voor retweets.
+In de WoM, is gebruiker engagement over verschillende werkactiviteiten gestimuleerd en gegamied, aangepast aan de unieke programma's van Hub. Gebruikers verdienen punten die hun actieve deelname weerspiegelen, waarbij elke gemeenschap zijn eigen regels voor puntenverdeling bepaalt.
 
-Periodiek zet de beloningsmotor engagementpunten om in Meeds volgens budgetten en andere distributieregels en beloont uiteindelijk de gebruikers via hun portemonnee. De Deed is niet verplicht Meeds te verdelen en kan het engagementsysteem gebruiken om een andere vorm van compensatieprogramma mogelijk te maken. De distributie van Meeds zal echter haar muntcapaciteit verbeteren.
+Een IT-bedrijf kan bijvoorbeeld 10 punten toekennen voor codering op GitHub, terwijl een digitaal agentschap meer waarde zou kunnen hechten aan maatschappelijke media-betrokkenheid, zoals tweets, met vergelijkbare punten.
 
-Bovendien hoeft de Deed niet noodzakelijk Meeds te verwerven om ze te verdelen en zijn engagementprogramma's te voeden, aangezien hij Meeds zal krijgen van het "mintium"-model, dat hieronder wordt beschreven.
+Regelmatige verdeling van beloningen is gebaseerd op de punten die in elke Hub zijn verzameld. Meestal worden deze verstrekt in MEED tokens, geleverd direct aan de portemonnees van gebruikers. Hoewel MEED tokens de standaardvorm van beloning zijn, hebben Hubs de flexibiliteit om verschillende soorten compensatie aan te bieden.
 
-Naast Meeds zullen ook andere tokens (bijvoorbeeld de eigen tokens van de DAO) kunnen worden verdeeld op basis van hetzelfde engagementmechanisme. In dat geval zal de distributie onderworpen zijn aan een transactievergoeding van 5% (in DAO-tokens) voor de vereniging van Meeds.
+Wanneer de beloningen worden verdeeld in andere tokens dan MEED, wordt een nominale vergoeding van 5% toegepast. Deze vergoeding draagt bij aan de schatkist Meeds en speelt een cruciale rol bij het behoud van de duurzaamheid van het ecosysteem.
 
 ## 2.6. Het "mintium" model – tokeniseer werkbetrokkenheid
 
-Door hun gebruikers bij de WoM te betrekken, worden Deeds gecompenseerd via een innovatief muntmodel.
+Door gebruik te maken van gebruikers in de WoM, worden gemeenschappen gecompenseerd door middel van een innovatief mintiummodel.
 
-Betrokkenheidspunten, verkregen door de gebruikers van de Deeds, nemen deel aan de globale betrokkenheidsindex, berekend door de Meeds Association. De index gebruikt hetzelfde principe voor alle Deeds. Ook al kan de Deed de puntenverdeling veranderen om de ene actie boven de andere te bevorderen, die veranderingen worden niet meegenomen in de berekening van de globale index.
+Betrokkingspunten, verkregen door gebruikers van de Hubs, nemen deel aan de globale engagement index, berekend door de Meeds Associatie. De index gebruikt hetzelfde principe voor alle Hubs. Ook al kan de gemeenschap de toewijzing van punten wijzigen om de ene actie naar de andere te promoten. deze wijzigingen zullen niet in de rekening worden meegenomen in de globale index berekening.
 
-Elke week wordt een bepaalde hoeveelheid Meeds toegewezen aan de globale inzet van de WoM. Het wordt wekelijks berekend, pro-rata, onder de deelnemende Deeds. Sommige Deeds krijgen een extra boost, afhankelijk van hun type. De Deeds die hun Meeds in de loop van de week opeisen, krijgen ze. De niet opgeëiste Meeds worden toegevoegd aan het totale bedrag van de volgende week.
+Elke week wordt een bepaalde hoeveelheid Meeds toegewezen aan de globale inzet van de WoM. Het wordt wekelijks, pro-rata, berekend onder de deelnemende Hubs. Sommige Hubs krijgen een extra boost afhankelijk van het type Deed dat ze gebruiken. De Hubs die hun brood claimen door de week, ontvangen ze. De niet opgeëiste Meeds worden toegevoegd aan het totale bedrag van de volgende week.
 
 De betrokkenheidsscore _S_  van een Deed is een functie van de betrokkenheid, het aantal betrokken gebruikers en de distributie :
 
@@ -94,19 +88,19 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Waar :
 
-- $A$ = _Activiteit_ - totaal aantal acties van gebruikers in de Deed gedurende de week. (Op het level van elke Deed wordt elke actie omgezet in engagementspunten, waarbij sommige acties zwaarder wegen dan andere. Op indexniveau zijn alle acties gelineariseerd).
+- $A$ = _Activiteit_ - totaal aantal acties die door gebruikers binnen de Hub zijn verzameld gedurende de week. (Op een Hub wordt elke gebruikers-actie omgezet in betrokkenheid punten, sommige acties wegen meer dan anderen. Op indexniveau zijn alle acties gelineariseerd).
 - $U$ = _Betrokken gebruikers_ - gebruikers die gedurende de week hebben bijgedragen aan punten, door ten minste één actie.
-- $E_d$ = _Betrokkenheid van de deed_ - acties per gebruiker ($A/U$)
-- $E_w$ = _Gemiddelde betrokkenheid_ van alle actieve Deeds in de WoM.
-- $D_r$ = _Uitkeringspercentage_ - indien een Deed voor de voorafgaande periode geslagen Meeds heeft ontvangen, het % van de Meeds dat aan zijn gebruikers is uitgedeeld. Het % kan hoger zijn dan 100 als de distributie vertraging heeft opgelopen.
-- $D_s$ = _Distributiespreiding_ - indien een Deed voor de voorafgaande periode geslagen Meeds heeft ontvangen, het % van de gebruikers dat Meeds heeft ontvangen in de totale pool van gebruikers.
+- $E_d$ = _Betrokkingsgraad van de hub_ - acties per gebruiker ($A/U$)
+- $E_w$ = _Gemiddelde engagement snelheid_ van alle actieve Hubs in het WoM.
+- $D_r$ = _Distribution rate_ - als een Hub ontvangen Meeds voor de vorige periode gemined is de % van de middelen die aan de gebruikers werd uitgegeven. Het % kan hoger zijn dan 100 als de distributie vertraging heeft opgelopen.
+- $D_s$ =  _Distributie_ - als een Hub ontving van meel voor de vorige periode, de % van de gebruikers die Meeds hebben ontvangen in de totale groep gebruikers.
 - $M$ = _Muntkracht_ van de Deed zoals gedefinieerd in 2.3
 
 
-De globale engagementsindex die wordt gebruikt om geslagen Meeds te verdelen onder de Deeds is de som van de engagementscores van alle Deeds voor de week.
+De wereldwijde engagement index die wordt gebruikt om de minted Meeds te verdelen onder de Hubs is de som van alle engagement scores van alle Hubs deze week.
 
 
-De bovenstaande formule is eenvoudig en ontworpen om deeds te begunstigen :
+De bovenstaande formule is eenvoudig en ontworpen om de hubs te begunstigen:
 
 - met veel betrokken gebruikers (betrokken)
 - die het geheel van de muntinkomsten (uitkeringspercentage) eerlijk delen met hun gebruikers (uitkeringsspreiding).
@@ -116,9 +110,9 @@ Bovendien zijn er boosters voor :
 - organisaties met de hoogste betrokkenheid, ongeacht hun grootte (betrokkenheid in relatie tot de WoM)
 - schaarsere deeds
 
-> De Meeds vereniging behoudt zich het recht voor om de formule te wijzigen indien nodig - als zich bijvoorbeeld bepaalde specifieke gebruiksgevallen voordoen. De vereniging kan ook een zwarte lijst opstellen van Deed's die de formule misbruiken voor hun eigen voordeel.
+> De Meeds vereniging behoudt zich het recht voor om de formule te wijzigen indien nodig - als zich bijvoorbeeld bepaalde specifieke gebruiksgevallen voordoen. De vereniging kan ook elke Hub die de formule kapt tot haar eigen voordeel op de zwarte lijst zetten.
 
-Aangezien de Deeds beloond worden met Meeds en gestimuleerd worden om die als beloning door te geven aan hun gebruikers tegen hun engagement - zijn de belangen van zowel de Deeds als hun gebruikers op één lijn gebracht in dezelfde virtueuze cyclus van inkomstenverdeling. De WoM biedt dus een nieuw werkmodel, dat de relatie tussen werkgever en werknemer omvormt tot een partnerschap.
+Omdat de Hubs worden beloond met Meeds en worden aangemoedigd om ze te herverdelen als beloningen aan hun gebruikers tegen hun inzet - de belangen van zowel de gemeenschappen als hun gebruikers worden gelijk weergegeven in dezelfde deugdzame inkomstendelingscyclus. De WoM biedt dus een nieuw werkmodel, dat de relatie tussen werkgever en werknemer omvormt tot een partnerschap.
 
 Het "mintium"-model is het eerste in zijn soort - het gaat verder dan het traditionele freemiummodel, aangezien niet alleen de diensten gratis te gebruiken zijn, maar zowel de organisaties als hun gebruikers worden beloond voor het gebruik ervan.
 
@@ -138,9 +132,9 @@ Een stad wordt als compleet beschouwd, zodra alle Deeds zijn geslagen. Dan zal h
 | 6: Kushor     | 10 000 000  | Eshmum + 64 maanden   | 6 000 000    | 3 000 000    | 999 998      | 2                |
 | 7: Hammon     | 100 000 000 | Kushor + 128 maanden  | 60 000 000   | 30 000 000   | 9 999 999    | 1                |
 
-Een stad is een manier voor de Deeds om samen te komen en een gemeenschap te creëren. En als gevolg daarvan, een bepaalde identiteit verwerven, geassocieerd met die gemeenschap. Het is ook een manier om extra waarde te bieden aan haar gebruikers - waarde die verder gaat dan de mogelijkheden van één Deed of waarde die wordt gecreëerd door samenwerking tussen de Deeds.
+Een stad is een manier voor de gemeenschappen om samen te komen en een grotere gemeenschap te creëren. En als gevolg daarvan, een bepaalde identiteit verwerven, geassocieerd met die gemeenschap. Het is ook een manier om extra waarde te bieden aan zijn gebruikers - waarde die verder zou gaan dan de mogelijkheden of waarde die één gemeenschap heeft gecreëerd door samenwerking tussen de gemeenschappen.
 
-Elke stad heeft haar eigen bestuur en beheert haar eigen DAO waar de eigenaars van de Deeds van de stad hun gemeenteraad kunnen kiezen, stemmen en hun eigen werkingsregels kunnen vaststellen, nieuwe diensten kunnen toevoegen en hun stad vorm kunnen geven op de manier die zij willen en om de aantrekkelijkheid van de stad en de waarde van de eraan verbonden Deeds te verhogen.
+Elke stad heeft zijn eigen Verdrag en beheert zijn eigen DAO waar de Deed eigenaren van de stad hun gemeenteraad kunnen kiezen, stem en stel hun eigen bedrijfsregels vast voeg nieuwe diensten toe en organiseer hun stad op de manier die ze willen en om de aantrekkelijkheid van de stad en de waarde van de daaraan verbonden partijen te vergroten.
 
 Zij kunnen bijvoorbeeld een digitale voorstelling van hun stad toevoegen, fysieke tegenhangers die met hun stad verbonden zijn (vergaderzalen in fysieke co-working ruimtes bijvoorbeeld), door Meeds aangedreven voedingsdiensten, vacatiediensten, enz...
 

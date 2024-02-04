@@ -1,14 +1,14 @@
-# 5. De WoM voor iedereen – Samenvatting van visie en mijlpalen
+# 5. WoM voor ALL – overzicht en mijlpalen in visie
 
-## 5.1. Einddoel - gedecentraliseerd web voor iedereen
+## 5.1. Ultieme Goal - Gedecentraliseerd web voor iedereen
 
-Uiteindelijk is de WoM een gedecentraliseerde webwereld voor iedereen - elke persoon en elke organisatie.
+Uiteindelijk is de WoM een gedecentraliseerde webwereld voor iedereen, voor elke persoon en voor alle organisaties.
 
 Het zal bevolkt worden door gebruikers, die handelen via hun digitale identiteiten **Xeeds** en toegang hebben tot de wereld via hun metamasks, voor crypto-savvies, of login/wachtwoord voor de nieuwelingen. Mensen zouden hun engagement toewijzen en beloond worden op een eerlijke, transparante en gedecentraliseerde manier. Ze zouden toegang krijgen tot de gedecentraliseerde wereld en de cryptowereld van morgen op een gemakkelijke en vertrouwde manier - ze zouden eenvoudige hulpmiddelen krijgen om hun tokens in hun leven te gebruiken of ze te investeren voor hun toekomst.
 
-Organisaties - **Deeds** zouden talenten kunnen bronnen en door de WoM bladeren voor de juiste bewezen vaardigheden. Zij zouden beloond worden voor hun participatie in de WoM bij het verminten van tokens door hun gebruikersbetrokkenheid (mintiummodel). Maar bovenal zouden ze profiteren van een hogere betrokkenheid en loyaliteit van hun gebruikers.
+Organisaties zouden talenten kunnen inbrengen en op zoek kunnen gaan naar de juiste bewezen vaardigheden. Zij zouden beloond worden voor hun participatie in de WoM bij het verminten van tokens door hun gebruikersbetrokkenheid (mintiummodel). Maar bovenal zouden ze profiteren van een hogere betrokkenheid en loyaliteit van hun gebruikers.
 
-De WoM zou zijn eigen munt **Meeds** hebben - die zou er zijn om uit te geven in winkels, om te zetten in een andere munt, te investeren voor een rendement, te huren of te kopen enz. De WoM zou ook andere tokens distributie vergemakkelijken en deelnemen aan het totale crypto ecosysteem.
+De WoM zou zijn eigen valuta hebben de **MEED** - dat zou er zijn in winkels, omwisselen naar een andere valuta, beleggen voor rendement op investering, huur of koop etc. De WoM zou ook andere tokens distributie vergemakkelijken en deelnemen aan het totale crypto ecosysteem.
 
 Omdat een beeld meer zegt dan duizend woorden, is hier een diagram dat de stromen van de WoM en Meeds beschrijft
 
@@ -22,7 +22,7 @@ Het is duidelijk dat early adopters aanzienlijke voordelen krijgen ten opzichte 
 
 In het bijzonder beloont de WoM langetermijninvesteringen in het vers - dat is het verzilveren van de eigendom (Deeds). De oorspronkelijke eigenaar van de Deed wordt gecompenseerd door engagement (actief gebruik), door passief inkomen (verhuur) en krijgt levenslang 1% op elke verkooptransactie van de Deed (bij elke eigendomsoverdracht krijgt de oorspronkelijke inwisselaar een vergoeding op de transactie).
 
-Door in het project te geloven, deel te nemen aan de liquiditeitspools, Meeds in te zetten, ze in te wisselen tegen Deeds... zouden vroege investeerders van elke omvang extra tokens verdienen. Zij zouden ook de eerste kiesrechten hebben en helpen met de vorming van de WoM.
+Door te geloven in het project, deel te nemen aan de liquiditeit pools, zouden MEED tokens te staken, ze te verzilveren tegen Doden... vroege beleggers van alle maten zouden extra tokens munten. Zij zouden ook de eerste kiesrechten hebben en helpen met de vorming van de WoM.
 
 Organisaties die Deeds verwerven, maar vooral gebruiken om hun werknemers te betrekken en te belonen, zouden gecompenseerd worden in geslagen Meeds. Hoe eerlijker ze spelen, hoe meer ze krijgen. De vroegere adoptievelingen zouden worden geassocieerd met de eerste historische steden en zouden later worden geïdentificeerd als de bouwers.
 
@@ -38,17 +38,17 @@ Onderstaand diagram geeft een voorbeeld van de Meeds-investeringsstrategie voor 
 
 ## 5.3. De lancering
 
-De officiële lanceringsdatum is vastgesteld **Mei 1,2022** - de Internationale Dag van de Arbeider, die in veel landen wordt gevierd.
+De officiële lancering van de WoM was **1 mei 2022** - de Internationale Dag van de Arbeid werd in veel landen gevierd.
 
-Op dat moment bestaat de gemiddelde token al. Het is mogelijk om het te verwerven en liquiditeitspools zijn open voor deelname, op Polygon en Ethereum netwerken.
+Op dat moment bestond het MEED-token al. Het is mogelijk om het te verwerven en liquiditeitspools zijn open voor deelname, op Polygon en Ethereum netwerken.
 
 Drie leden van de Meeds-vereniging gebruiken het systeem intern om hun gebruikers te betrekken en te belonen en de Meeds-software te verbeteren.
 
 De Investor-app is beschikbaar op Ethereum Mainnet. Bij de lancering omvat het staking, liquiditeitsbeloningen, het verzamelen van punten en het inwisselen van Deeds.
 
-De community van Bouwers is actief op Meeds software, open voor iedereen die wil toetreden, testen en deelnemen. Het is mogelijk om in te loggen met Metamask.
+De community van Builders is actief, open voor iedereen die deel wil nemen, testen en deelnemen. Het is mogelijk om in te loggen met Metamask.
 
-Dit document is gepubliceerd op de dag van de lancering. Na de lancering zal het token worden gedropt naar veel mensen in de cryptogemeenschap.
+Dit document werd in eerste instantie op de startdag gepubliceerd. Na de lancering zal het token worden gedropt naar veel mensen in de cryptogemeenschap.
 
 ## 5.4. De bouwers gemeenschap
 
