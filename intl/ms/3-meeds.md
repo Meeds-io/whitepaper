@@ -1,63 +1,63 @@
-# 3. Meeds token – the currency of the WoM
+# 3. Meeds token-mata wang WoM
 
-The WoM is powered by its currency – the Meeds (MEED) token. Meeds are used to reward users (through engagement programs), purchase in stores, get Deeds, get financial returns on investments etc.
+WoM dikuasakan oleh mata wangnya – Token Meeds (MEED). Meeds digunakan untuk memberi ganjaran kepada pengguna (melalui program penglibatan), membeli di kedai, mendapatkan Deeds, mendapatkan pulangan kewangan atas pelaburan Dll.
 
-## 3.1. Tokenomics
+## 3.1. Tokenomik
 
-The Meeds **maximum supply is limited to 100 million tokens**, minted progressively. **Meeds are minted at the rate of 10 MEED per minute**. Therefore, the full minting horizon is close to 20 years (as around $10*60*24*365 = 5M$ Meeds are minted per year).
+Bekalan maksimum Meeds**terhad kepada 100 juta token **, dicetak secara progresif. <**Meeds dicetak pada kadar 10 MEED per minit **. Oleh itu, cakrawala pencetakan penuh hampir 20 tahun (seperti sekitar $10*60*24*365 = 5m $ Meeds dicetak setahun).
 
-5 Million Meeds (5% of the total supply) were pre-minted initially. Of which, 4.5M have been locked in a vault contract with a linear vesting over 4 years. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees, and host services.
+5 Juta Meed (5% daripada jumlah bekalan) telah dicetak pada mulanya. Daripadanya, 4.5 M telah dikunci dalam kontrak peti besi dengan peletakan linear selama 4 tahun. Jumlah yang telah dicetak digunakan terutamanya untuk memperoleh IP perisian, membayar yuran undang-undang pelepasan token, dan perkhidmatan tuan rumah.
 
-The rest is part of the __Meeds DAO funds__ and will be used to pay for services and launch incentives such as airdrops and referral campaigns.
-
-
-## 3.2. Minting allocation
-
-Minted Meeds are allocated to encourage involvement of the three categories of stakeholders - the users, the builders and the investors:
-
-- The users (users and Deed holders/renters) get Meeds through engagement rewards (mintium model).
-- Builders (members of the association and community) get Meeds through the association funds to build, operate and improve the WoM.
-- Investors mint Meeds through renting and buying of liquidity pools and staking Meeds.
-
-At the beginning, the builders get 30% of the allocation. The 70% are shared between the users and the investors. This allocation proportion will be reviewed on a regular basis, through the Meeds association DAO vote.
-
-## 3.3. Users – minting through engagement
-
-Part of the continuously minted Meeds is allocated to the engagement minting channel. The distribution is done weekly. At any given week end, the engagement index is calculated so that Hubs leaders and Deed owners can claim their rewards the following week and get their Meeds. Unclaimed Meeds stay in the fund and are added to the next week’s distribution. The model is described in detail in the previous chapter (part 2.6).
-
-## 3.4. Builders – Meeds association DAO and community of builders
-
-The WoM and the Meeds token are operated by the non-profit Meeds Association DAO, introduced above. A multisig contract called the _Meeds DAO Funds_ is used to manage the association's operating expenses.
-
-During the minting period, **30% of the minted Meeds are allocated to the Meeds association**.
-
-Association members can provide services to the association on the basis of a signed services convention establishing the man-day rate. Services are paid monthly in Meeds, based on the market price. Exemples of services include – enriching the Meeds software, developing the WoM app, developing new connectors, operating the cloud service, providing financial and legal services etc.
-
-Without being a member, any organization can participate in the creation of a new connector and be rewarded for doing so – first through the Meeds association acquiring the connector and then by minting through this connector.
-
-The association operates its own community hub named the _Meeds Builders Hub_ that welcomes enthusiasts, who want to contribute to the creation of the WoM. The association sponsors the community out of its budget, compensating the engagement of community members.
-
-Thus, the builders' hub functions as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. The association stakes Meeds in order to redeem a Deed for its community. Thus, the Builder's Hub also benefits in the engagement minting like any other Hub backed by a Deed.
-
-After the minting period is over, the association will be sustained by :
-
-- taxing passive income (3% on Deeds renting)
-- taxing selling income (2.5% on Deeds sales)
-- perceiving transaction fees over the use of the perks stores
-- acting as a liquidity pool provider
-- perceiving transaction fees when a Hub distributes non Meeds tokens via WoM services.
-- by operating the Deeds that the association minted over time.
+Selebihnya adalah sebahagian daripada dana__ Meeds DAO __ dan akan digunakan untuk membayar perkhidmatan dan melancarkan insentif seperti airdrops dan kempen rujukan.
 
 
-## 3.5. Investors
+## 3.2. Peruntukan perlombongan
 
-Investors help creating the WoM by providing liquidity and by staking Meeds and thus stabilizing its price level during the construction period. Both are encouraged through minting.
+Meeds yang dicetak diperuntukkan untuk menggalakkan penglibatan tiga kategori pihak berkepentingan-pengguna, pembina dan pelabur:
 
-**Liquidity providers** Currency liquidity management is key to the success of the project and several DeFi strategies will be used to optimize capital efficiency. We will start with incentives for staking MeedS/ETH LP pool tokens and will progressively introduce bonds to move towards a protocol owned liquidity. The latter would contribute to the association’s long term sustainability - as mentioned above, transaction fees will fund the association operating expenses such as cloud hosting.
+- Pengguna (pengguna dan pemegang Akta/penyewa) mendapat Meed melalui ganjaran penglibatan (model minimum).
+- Pembina (anggota Persatuan dan masyarakat) Meeds makanan melalui dana Persatuan untuk membina, mengendalikan dan meningkatkan wanita.
+- Pelabur mencari makanan melalui menyewa dan membeli kumpulan kecairan dan mempertaruhkan Meeds.
 
-Every member also has the right to directly purchase a large amount of Meeds at a discount. The amount wired to the association account is converted to ETH and added along with the equivalent value of Meeds to the Liquidity Pool.
+Pada mulanya, pembina mendapat 30% daripada peruntukan. 70% dikongsi antara pengguna dan pelabur. Ini bahagian peruntukan akan dikaji semula secara tetap, melalui Persatuan Meeds DAO undi.
 
-**Staking / long-term investment** To encourage long term investment, staked Meeds are rewarded. When Meeds are staked, the staker gets some xMeeds tokens. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings. In practice, minted Meeds are effectively added to the holdings of the xMeeds smart contract and distributed to the xMeeds holder when they unstake.
+## 3.3. Pengguna-mencetak melalui penglibatan
+
+Sebahagian daripada yang terus dicetak Meeds diperuntukkan kepada saluran pencetakan pertunangan. Pengedaran dilakukan setiap minggu. Pada hujung minggu tertentu, indeks penglibatan dikira supaya pemimpin Hub dan pemilik Meeds boleh menuntut ganjaran mereka pada minggu berikutnya dan mendapatkan makanan Meeds. Meeds yang tidak dituntut kekal dalam dana dan ditambah kepada pengedaran minggu depan. Model ini diterangkan secara terperinci dalam bab sebelumnya (bahagian 2.6).
+
+## 3.4. Persatuan Pembina-Meeds DAO dan komuniti pembina
+
+Token Worm dan Meeds dikendalikan oleh Persatuan MEEDS bukan keuntungan DAO, diperkenalkan di atas. Kontrak multisig yang dipanggil_ Meeds DAO Funds _ digunakan untuk menguruskan perbelanjaan operasi Persatuan.
+
+Semasa tempoh pencetakan, **30% daripada Meeds yang dicetak diperuntukkan kepada Persatuan Meeds**.
+
+Ahli persatuan boleh menyediakan perkhidmatan kepada Persatuan berdasarkan konvensyen perkhidmatan yang ditandatangani yang menetapkan kadar hari lelaki. Perkhidmatan dibayar setiap bulan dalam Meed, berdasarkan harga pasaran. Contoh perkhidmatan termasuk memperkaya perisian Meeds, membangunkan aplikasi wom, membangunkan penyambung baru, mengendalikan perkhidmatan awan, menyediakan perkhidmatan kewangan dan undang-undang dll.
+
+Tanpa menjadi ahli, mana – mana organisasi boleh mengambil bahagian dalam penciptaan penyambung baru dan diberi ganjaran untuk melakukannya-pertama melalui Persatuan Meeds memperoleh penyambung dan kemudian dengan mencetak melalui penyambung ini.
+
+Persatuan ini mengendalikan pusat komuniti sendiri yang dinamakan_ Meeds Builders Hub _ yang mengalu-alukan peminat, yang ingin menyumbang kepada penciptaan WoM. Persatuan itu menaja komuniti dari bajetnya, mengimbangi penglibatan ahli komuniti.
+
+Oleh itu, hab pembina berfungsi sebagai contoh langsung komuniti yang diberi kuasa oleh perisian Meeds, menawarkan satu set perkhidmatan standard yang disediakan oleh Persatuan. Persatuan itu mempertaruhkan Meeds untuk menebus Akta untuk komunitinya. Oleh itu, Hab pembina juga mendapat manfaat dalam pencetakan pertunangan seperti hab lain yang disokong oleh Deed.
+
+Selepas tempoh perlombongan berakhir, Persatuan akan dikekalkan oleh :
+
+- cukai pendapatan pasif (3% ke atas surat ikatan sewa)
+- pendapatan jualan cukai (2.5% ke atas jualan Deeds)
+- melihat yuran transaksi ke atas penggunaan kedai perks
+- bertindak sebagai pembekal kolam kecairan
+- melihat yuran transaksi apabila hab mengedarkan token bukan Meeds melalui perkhidmatan wom.
+- dengan mengendalikan Deeds yang dicetak oleh persatuan dari masa ke masa.
+
+
+## 3.5. Pelabur
+
+Pelabur membantu mewujudkan WoM dengan menyediakan kecairan dan dengan mempertaruhkan Meeds dan dengan itu menstabilkan tahap harganya semasa tempoh pembinaan. Kedua-duanya digalakkan melalui pencetakan.
+
+**pembekal kecairan ** Pengurusan kecairan mata wang adalah kunci kejayaan projek dan beberapa strategi DeFi akan digunakan untuk mengoptimumkan kecekapan modal. Kami akan bermula dengan insentif untuk mempertaruhkan Token kolam MeedS/ETH LP dan secara beransur-ansur akan memperkenalkan bon untuk bergerak ke arah kecairan yang dimiliki oleh protokol. Yang terakhir akan menyumbang kepada kemampanan jangka panjang persatuan - seperti yang dinyatakan di atas, yuran transaksi akan membiayai perbelanjaan operasi persatuan seperti hosting awan.
+
+Setiap ahli juga berhak untuk membeli secara langsung sejumlah besar Meeds dengan diskaun. Jumlah yang disambungkan ke akaun Persatuan ditukar kepada ETH dan ditambah bersama dengan nilai setara Meeds ke kumpulan kecairan.
+
+** Staking / pelaburan jangka panjang ** Untuk menggalakkan pelaburan jangka panjang, Meed yang dipertaruhkan diberi ganjaran. When Meeds are staked, the staker gets some xMeeds tokens. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings. In practice, minted Meeds are effectively added to the holdings of the xMeeds smart contract and distributed to the xMeeds holder when they unstake.
 
 By staking Meeds, investors can also redeem Deed NFTs (and then participate in minting through engagement), hence increasing the token demand. Each staked Meeds (xMeeds) grants its owner a number of points per day. The longer the vested period the higher the number of points obtained per xMeeds. Each Deed is then redeemed in exchange for a number of points.
 
