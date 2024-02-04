@@ -1,14 +1,12 @@
 
-# 1. ผู้ที่เราเป็น – สมาคม Meeds
+# 1. About Us
 
-สมาคม Meeds เป็นองค์กรไม่แสวงหาผลกำไรที่เริ่มต้นจากชุมชนซอฟต์แวร์โอเพ่นซอร์ส (OSS) หลายแห่งที่มีวิสัยทัศน์ร่วมกันเพื่อสร้างโลกดิจิทัลฟรี - โลกแบบไม่มีการควบคุมโดยบริษัทใหญ่ที่ควบคุมโดยกลุ่มน้อย
+Meeds is a collaborative effort led by diverse Open Source Software (OSS) communities, dedicated to creating a decentralized digital world that resists centralized corporate control and fosters a free and open environment.
 
-สมาคม Meeds จดทะเบียนที่เจนีวาเป็นสมาคมไม่แสวงหาผลกำไรตามกฎหมายสวิส
+The legal entity behind Meeds is the _Meeds Association_, a non-profit organization incorporated under Swiss law in Geneva. It is responsible for regulating the issuance of the Meeds(MEED) token, an ERC20 token recognized as a utility token.
 
-สมาคมกำหนดกฎการออกสกุลเงิน Meeds ซึ่งเป็นโทเค็น ERC20 ที่รับรู้ว่าเป็นโทเค็นเพื่อใช้ประโยชน์
+Functioning as a Decentralized Autonomous Organization (DAO), Meeds emphasizes on democratic governance, where token holders with governance rights participate in key decision making, such as annual board elections, ensuring transparency and community involvement in organizational changes.
 
-เพื่อสร้าง WoM และ Meeds สมาคมใช้แนวคิด Ethereum และระบบนั้นเพื่อให้เข้าถึงได้อย่างเป็นมิตรและมีความมีประสิทธิภาพสูงสุดสำหรับผู้ใช้ทุกคน
+The Meeds project utilizes the Ethereum ecosystem to implement the World of Meeds (WoM) and the Meeds token. This approach prioritizes security, accessibility, user-friendliness, and cost-effectiveness, making it appealing to a broad user base.
 
-สมาคมมีโครงสร้างเป็นองค์กรอิสระภายใต้การควบคุมแบบ DAO (Decentralized Autonomous Organization) โดยเจ้าของโทเค็นผู้มีสิทธิ์ออกเสียงโหวตในการเปลี่ยนแปลงองค์กรที่สำคัญเช่นการเลือกคณะกรรมการทุกปี
-
-นอกจากการจัดการโทเค็น Meeds สมาคมยังครอบครองทรัพย์สินทางปัญญา (IP) ของซอฟต์แวร์ Meeds [github.com/meeds-io](https://github.com/meeds-io) ที่มีให้ใช้งานฟรีภายใต้ใบอนุญาต LGPL ส่วนหลังรวมถึงแอปกระเป๋าเงิน Ethereum ที่ผู้ใช้สามารถใช้เพื่อเก็บเงิน Meeds และทำธุรกรรม (ดูส่วน 2.4 เพื่อข้อมูลเพิ่มเติม). ส่วนหลังรวมถึงแอปกระเป๋าเงิน Ethereum ที่ผู้ใช้สามารถใช้เพื่อเก็บเงิน Meeds และทำธุรกรรม (ดูส่วน 2.4 เพื่อข้อมูลเพิ่มเติม). สมาคม Meeds ยังมีการเปิดให้บริการโฮสติ้งคลาวด์ multi-tenant โดยใช้ซอฟต์แวร์นั้น
+Meeds is an Open Source Software ([github.com/meeds-io](https://github.com/meeds-io)) operated in the cloud infrastructure by hosting partners of the Meeds Association.
