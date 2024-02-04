@@ -1,17 +1,19 @@
 
-# 2. Gjør NFT - Arbeid Metaverse Organisasjoner
+# 2. Avvik - Egenskaper ved WoM
 
-## 2.1. NFT – Avvik definert
+## 2.1. Avgitte FT'er
 
-Et ikke-smittsom token (NFT) er et unikt tegn som representerer et godt. I WoM brukes en Deed som en tittel for eierskap. Hver depot gir eieren rett til å få tilgang til flere tjenester - for eksempel en tilgang til en digital kontor, drevet av virker-programvaren og retten til gruvedrift Meeds.
+I det digitale realmen, som er ikke-fusk Tokens (NFTs) har samme formål som man finner i den fysiske verden. Som en gjerde som bekrefter eierskap til materiell eiendom, fastsetter NFTs tvistelig eierskap til digitale aktiva. Dette eierskapet regnskapsføres på en sikker blokkjede, som sikrer at hver eiendel er unikt og ikke-replikerbart.
 
-WoM ønsker alle typer organisasjoner – DAOs, tradisjonelle aksjeselskaper, tenketanker, partnerskap, teaterselskap, prosjektgrupper, skoler osv. Avhandlet representerer den digitale eksistensen i WoM.
+Innenfor WoM blir et Deed konseptualisert som en NFT, som representerer fundamenteringsenheten for eierskap. Å beholde en dÃ¸de empowerer sin eier til å administrere en Community HU2b og gjøre dem kvalifisert for å motta Mintiumbelønninger, en form for gjenkjennelse og insentiv i WoM-økosystemet (nærmere opplysninger i avsnitt 2.6).
+
+WoM er konstruert for å være en mangfoldig og inkluderende plattform. Det ønsker velkommen et bredt utvalg av organisasjoner, fra DAO-er, tradisjonelle bedrifter og foreninger til å tenke tanker, teaterbedrifter, prosjektgrupper og utdanningsinstitusjoner. I dette digitale landskapet symboliserer et «Deed symboliss» organisasjonens digitale nærvær og «fotavtrykk» i WoM, fungerer som en bro mellom en virkelighet i verden og deres digitale tiltak.
 
 ## 2.2. Skjøt forsyninger
 
 WoM vil til slutt levere et begrenset antall Deeds. Hver utkontrahering har et forhåndsdefinert maksimalt antall brukere og har en kapasitet av kjøttbelønning (preging av kraft). Begrepet «bruker» her og heretter utpeker alle typer ansatte, arbeidstaker, frilanse, frivillig osv.
 
-Det er fire typer skjøter, som hver gir forskjellige funksjoner når det gjelder antall brukere, stemmerett i en by (se 2.7) eller Meeds pregekraft, den sjeldneste er den mektigste:
+Det er fire typer Deeds, med ulike evner når det gjelder antall brukere, stemmerettigheter i en by (se 2.). ) eller gruvedriften, hvor sjeldnen er den sterkeste
 
 | **Type Type** | **Max brukere** | **Minting power** | **Skarby** | **By stemmerett** |
 | ------------- | --------------- | ----------------- | ---------- | ----------------- |
@@ -24,69 +26,61 @@ Det er fire typer skjøter, som hver gir forskjellige funksjoner når det gjelde
 
 Et skjøte gir sin eier rett til å BRUKE det, LEIE det eller SELGE det.
 
-- BRUK – Skjøtens eiere kan bruke skjøtet direkte for sin organisasjon, og tilby tjenester til brukerne.
-- LEIE - Skjøteets eiere kan også leie skjøtet til en annen organisasjon for å få passiv inntekt.
-- SELG - Et skjøte kan selges på et annenhåndsmarked som [OpenSea](https://opensea.io).
+- BRUK – Eieren kan bruke Deed til å drive en klemme for sin egen organisasjon.
+- RENT - Eieren kan også leie den bortførte til en annen organisasjon og tjene passiv inntekt.
+- SELL - Eieren kan selge den på en sekundær markedsplass som [OpenSea](https://opensea.io).
 
-Den belønnes med en aktiv innehaver av en omforent organisasjon, gjennom en innovativ "mintium"-modell beskrevet nedenfor (del 2.6).
+Den har rett til MEED-belønninger i henhold til modellen «mintium» som er beskrevet nedenfor, (se 2.6).
 
-## 2.4. Avgjørende tjenester, engasjement/belønnings motor
+## 2.4. Community Hubs
 
-I et stadig stadig mer konkurransedyktig marked for å tiltrekke seg og beholde talenter og maksimere sine innsatsfaktorer, må organisasjoner motivere sine brukere til å kompenseres mer enn det de har gjort for enkelt. WoM gir et innovativt rammeverk for å gjøre det gjennom å engasjere seg.
+I dagens konkurransepregede marked søker organisasjoner å tiltrekke seg og beholde den øverste talenten, ikke bare gjennom kompensasjon, men også ved å styrke engasjementet. WoM adresserer denne utfordringen med en unik, tokenisert belønningssystem som har lagd i Community Hubs.
 
-Hver avtaleinnehaver eller renter kan tilby verktøy og tjenester til brukerne, som tjener engasjementspoeng som er finstyrt for Deedes prioriteringer. Periodically, poeng blir konvertert til Meeds (og - for DAOs - potensielt en annen token), basert på Deedes fastsatte budsjett. På den måten blir brukernes engasjement i aktiviteter som gjelder organisasjonen, belønnet.
+Innenfor disse Hubene kan samfunnslederne drive medlemmer engasjere seg ved å tilby en gjennomsiktig meny av insentiver til arbeidspunkter. Deltakerne utnytter engasjementspunkter for deres innsats, som ved periodisk konverteres til MEED-tokens eller en tilpasset ekvivalent, i tråd med et forhåndsfastsatt budsjett.
 
-Til å begynne med kan følgende gratistjenester levert av Meeds-foreningen brukes til å belønne engasjement:
+Community Hubs tilbyr en rekke verktøy og funksjoner som er utformet for å øke og håndtere engasjement fra bidragsytere:
 
-- **Gamification engine** - automatiske handlinger i WoM har en vekt i poeng, som kan finjusteres til handlingens prioriteringer via tilpassbare engasjementsprogrammer.
-- **Challenges** – skreddersydde utfordringer kan settes opp for å representere prestasjoner. Utfordringer er forhåndsinnstilt av en person og kan fylles ut og annonseres av en annen. Utfordringer utgjør en vekt i poeng innenfor tilpassede engasjementsprogrammer.
-- **Tilpassbare samarbeidsprogrammer** - organisasjoner kan lage sine egne engasjementsprogrammer som matcher sine forretningsmål og prioriteringer. Programmer er knyttet til automatiske handlinger i systemet og setter utfordringer manuelt. Hvert program har et eget måltid budsjett. Punkter som hver bruker har opptjent gjennom automatiske eller annonserte tiltak i hvert engasjementsprogram blir konvertert til mellomrom, basert på programmets budsjett.
-- **Kudos** - kudos kan tildeles av hverandre, som en takk og en token på gjenkjenning. Siden kudoer som er tilgjengelige for distribusjon er begrenset (en forhåndsinnstilt periodisk grense, 3 per uke for eksempel), er de sjeldne og verdifulle. Som handler, bærer kudos poeng. På denne måten har de ansatte myndighet til å belønne sine kolleger.
-- **Samarbeid** verktøy, koblet til den givende motoren - arbeidsområder, asynkron kommunikasjon, et oppgavehåndteringsverktøy og notater - gjør det mulig for folk å jobbe sammen på prosjekter.
-- **Lommebok** - brukere leveres med en sikker Ethereum teknologi lommebok for å lagre deres Meeds. Alternativt kan en Metamask lommebok brukes for avanserte brukere.
-- **Lagre** - en butikk der Meeds kan byttes mot fordeler som tilbys av Deeds-innehaveren eller -leieren eller av Meeds-økosystemet.
-- **Analyser** - å analysere og følge engasjementet i Deed.
-- **Koblinger**, koblet til belønningsmotoren - brukerne får engasjementspoeng via handlinger i en annen programvare - for eksempel for å legge inn kode i GitHub.
+- **Handlinger**: Inspirerte oppgaver veileder bidragsytere, innrettet deres innsats med organisasjonens mål og styrke motivasjonen og retningen.
+- **Gamification**: Ledertavler og distinksjoner forvandler seg til en morsom, konkurransedyktig erfaring, styrking av engasjement og nytte.
+- **Engagement Programmer**: Tilpasset programmer med spesifikke mål og belønning tydeliggjør organisasjonens mål og ganske gjenkjenne bidragsytere.
+- **Kudos**: Immediate peer recognition boosts morale and fosters a culture of appreciation, enhancing team cohesion and motivation.
+- **Spaces**: Organiserte undergrupper og prosjekter effektiviserer kommunikasjon og samarbeid, øker den kollektive produktiviteten.
+- **Lommebok**: Lommebok appen lagrer sikkert MEED belønninger, som representerer brukerbidrag, og aktiverer enkle transaksjoner både i HUB-en og på det bredere nettverket.
+- **Perks**: En rekke premier, fra gavekort til FT, incentivifiser pågående engasjement og fosterlojalitet innenfor organisasjonens økosystem.
+- **oppgaver**: Effektiviserte prosjekt- og oppgaveledelsesverktøy øker produktiviteten ved å forenkle arbeidsprosesser og spore fremgang.
+- **merknad**: En håndlagt notatbok for dokumentasjon av viktig informasjon, som onboarding-guider fremmer kunnskapsdeling og egenforsyning til organisasjonen.
+- **Merke**: Tilpasselig HUB-utseende attrår nye bidragsytere og styrker forbindelsen til organisasjonens identitet.
+- **Analytics**: Insightful analytiker med hensyn til samfunnsengasjement gjør det mulig for lederne å identifisere effektive strategier og ta informerte beslutninger for å optimalisere utviklingen.
 
-Noen av de nevnte verktøyene og tjenestene er allerede desentralisert, andre er ikke det. Det overordnede målet er å levere alle tjenester på en desentralisert måte, som vi skal gjøre gradvis etter hvert som den underliggende teknologien utvikles.
 
-Nye tjenester kan plugges inn i belønningsmotoren gjennom APIer. Eksempler er utallige og kan omfatte praktisk talt all programvare eller tjeneste:
+**Å starte et hub** ved å starte en HUB er det meste sømløst via meeds. o, which offers access to a cloud platform managed by the Meeds Association. Denne plattformen åpner for rask oppsett og vedlikeholdes av den ideelle enheten som styrer WoM. Imidlertid er WoM catatorene for å desentralisere. Siden programvaren er åpen kildekode og fritt distribuert, har organisasjoner mulighet til å selv være en HUB-server og koble seg til WoM-nettverket. Å gi dem mer kontroll og tilpasning i deres Hub's oppsett og ledelse.
 
-- CRM-programvare – selgere vil få engasjementspoeng for å jobbe med muligheter.
-- Regnskapsprogramvare - regnskapsførere vil få engasjementspoeng for å føre bøker.
-- Klokketerminal – fabrikkarbeider kan få poeng for fabrikkarbeidstid.
-- etc.
+**Capturing Work Signals** Hubs kan integrere med ulike plattformer som GitHub, Twitter, og Discord er utvidbare via API for å koble til tjenester som CRM-programvare, regnskapsprogramvare og clocking terminaler. Det gir mulighet for mangfoldige faglige bidrag til å bli anerkjent og belønnet. Alle koblinger gjennomgår en hvitelistingsprosess av Innenforeningen for å garantere integritet og funksjonalitet.
 
-I tillegg deltar engasjement produsert via Connector i organisasjonens globale innsats-poeng, som er en faktor for den globale innsatsfordelingen, som beskrives nedenfor. For å gjøre det, må koblingen være hvitlistet av Meeds Association. assosiert går gjennom deltakeren, godkjenner algoritmen og innhenter eierskap mot Meeds. Den blir da en del av de frie tjenestene som selskapet yter, og inngår i den globale innsatsindeksen. Eventuelle andre utviklere kan bruke den samme koblingen og den samme belønnings algoritmen for utviklerne.
+**befester Perks Store** organisasjoner kan skreddersy butikken med egendefinerte perks, inkludere opplæringskurs og treningsmedlemskap som danner en selvforsterkende kningsperiode for belønninger og engasjement. Dette er ikke bare incentivizes bidragsytere, men kan også få et dypere samkvem med organisasjonens økosystem.
 
-Deedes innehaver eller renter har mulighet til å formidle sine egne fordeler og tilkoble seg et nettbasert tilbud osv. Det er igjen uendelige muligheter:
+**Engagement og Premier** Aktiv deltakelse i hub bidrar til en organisasjons globale engasjementskår. Måltallet gjenspeiler effektiviteten av engasjementsstrategier, og tar hensyn til faktorer som brukeraktivitetsnivå og rettferdig fordeling av arbeid og belønninger. This publicly auditable score, entitles Hubs to a distribution of MEED tokens minet from protocol, å tjene som et mål på effektiviteten til sine engasjementsstrategier.
 
-- Treningskurs
-- Medlemskap på treningssenter
-- Gavekort til ferier
-- Lunsj med en leder i organisasjonen
-- Fysisk kontorplass
-- Osv.
+Fremover er Community Hubs in the WoM ecosystem satt til å bli sentral for samfunnslivet, integrering av interne kommunikasjoner, sanntids samhandlinger, styring og ulike produktivitetsverktøy. Disse forbedringene vil sikre at Hubene fortsatt er koblet sammen med de beste verktøyene som allerede er ansatt i organisasjoner. De står som en kraftfull testament til Meeds' engasjement for å fremme et levende, engasjert samfunn.
 
-Butikken fungerer gjennom bruk av Meeds slik at Meeds delvis returneres til Deed.
 
-## 2.5. Belønninger – Vekter og andre tokens
+## 2.5. Belønnings modell
 
-WoM vil bidra til å engasjere brukerne, ved å spille inn digitale arbeidsverktøy og tilordne poeng og møtes i forhold til involvering. Tjenester plugget til engasjement og belønne motoregenskaper til hver bruker, ut fra deres engasjementsnivå og i tråd med Deedes engasjementsprogrammer. Faktisk kan hvert enkelt felt finjustere antall punkter som er angitt for hver type aktivitet. Dermed kan det være verdt å sende noe kode i GitHub for en IT-butikk, mens et digitalt organ kan bare tilskrive 5 poeng for GitHub presser, men vil tilby 10 poeng for retweets.
+I WoM er brukerengasjement over ulike arbeidsaktiviteter incentivifisert og gamified, tilpasset hver av community Hubs unike programmer. Brukere får poeng som gjenspeiler deres aktive deltakelse, og hvert fellesskap fastsetter sine egne regler for punktfordeling.
 
-Periodikalt, den givende motoren omgjør engasjementspunkter til Meeds etter budsjetter og andre distribusjonsregler og belønner til slutt brukerne via veggene. Deed er ikke nødvendig for å distribuere Meeds og kan bruke systemet for å muliggjøre en eller annen form for kompensasjonsprogram. Men distribusjon av Meeds kapasitet vil gi bedre utvinningsevne.
+For eksempel kan et IT-selskap tildele 10 poeng for koding på GitHub, Mens en digital etat kan gi større verdi på engasjementet i sosiale medier, som retweets, med lignende punkter.
 
-Dessuten trenger ikke Deed nødvendigvis å anskaffe Meeds for å distribuere dem og gi energi til engasjementsprogrammene, siden den vil få Meeds fra "mintium"-modellen, beskrevet nedenfor.
+Regelmessige distribusjoner av belønninger er basert på poeng fra hver Hub. Ofte blir disse gitt i MEED-token, levert direkte til brukernes vegger. Mens MEED tokens er standardformulert, har Hubs fleksibilitet til å kunne tilby ulike typer kompensasjon.
 
-I tillegg til Meeds, vil det også være mulig å distribuere andre tokens (for eksempel DAO-egne tokens) basert på samme engasjementsmekanisme. I så fall vil distribusjonen bli gjenstand for 5 % transaksjonsgebyr (i DAO token) for Meeds Association.
+Når belønningen blir distribuert utover MEED, legges det til en nominell avgift på 5% av beløpet. Denne avgiften bidrar til at vi kan spille en avgjørende rolle i å opprettholde bærekraften i økosystemet.
 
 ## 2.6. Modellen ”mintium” – symbolisere arbeidsengasjement
 
-Ved å engasjere brukerne i WoM får Deeds kompensasjon gjennom en innovativ mintiummodell.
+Ved å engasjerere sine brukere i WoM kompenseres lokalsamfunnene gjennom en innovativ mintiummodell.
 
-Engagement points, gained by Deeds’ users, participate in the global engagement index, calculated by the Meeds Association. Indeksen benytter samme prinsipp for alle dekker. Selv om den utsatte ordningen kan endre punktenes tildeling for å fremme den ene handlingen over den andre. disse endringene vil ikke bli tatt med i beregningen av den globale indeksen.
+Engagement points, fra Hubs’ users, deltar i den globale engasjementsindeksen, beregnet av Meeds Association. Indeksen benytter samme prinsipp for alle Hubs. Selv om samfunnet kan endre punktenes allokering for å fremme en handling over en annen, disse endringene vil ikke bli tatt med i beregningen av den globale indeksen.
 
-Hver uke blir en bestemt mengde Meeds allokert til det globale engasjementet i WoM. Det er beregnet ukentlig, pro-rata, blant de deltakende Deeds. Noen fordypninger får en ekstra boost avhengig av type. De som hevder deres Meeds over uken, skal motta dem. De ikke-tilståtte møtene legges til følgende ukes globale distribusjonsmengde.
+Hver uke blir en bestemt mengde Meeds allokert til det globale engasjementet i WoM. Det er beregnet ukentlig, pro-rata, blant de deltagende Hubs. Noen Hubs får en ekstra boost avhengig av hvilken type dekt de bruker. Hubene som hevder deres Meeds over uken, mottar dem. De ikke-tilståtte møtene legges til følgende ukes globale distribusjonsmengde.
 
 Engasjementspoengsummen _S_ til et skjøte er en funksjon av engasjementet, antall engasjerte brukere og distribusjonen:
 
@@ -94,19 +88,19 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Hvor:
 
-- $A$ = _Aktivitet_ - totalt antall handlinger samlet av brukere i samme periode i uken. (På hvert dekkets nivå omgjøres hvert tiltak til engasjementspunkter, og noen tiltak veies mer enn andre. På indeksnivå er alle handlinger linearigerte).
+- $A$ = _aktivitet_ - totalt antall handlinger akkumulert av brukere i HUB-en i løpet av uken. (På en Hub, blir hver brukerhandling konvertert til engasjementspunkter, noen handlinger som veier mer enn andre. På indeksnivå er alle handlinger linearigerte).
 - $U$ = _Engasjerte brukere_ – brukere som bidro til poeng i løpet av uken, ved minst én handling.
-- E_d$ = _Engasjement for handlingen_ - handlinger per bruker ($A/U$)
-- $E_w$ = _Gjennomsnittlig engasjementsgrad_ for alle aktive Deeds i WoM.
-- $D_r$ = _Distribusjonsrate_ - dersom et nedsatt mottatt forbruk for perioden før, Meeds % of the Meeds distribuert til sine brukere. Pro- % kan ligge over 100 hvis fordelingen er forsinket i tide.
-- $D_s$ =  _Distribusjonsspredning_ - hvis en Deed mottok utstedte Meeds for den foregående perioden, % av brukerne som mottok Meeds i den totale brukergruppen.
+- $E_d$ = _Engagement rate for hub_ - handlinger per bruker ($A/U$)
+- $E_w$ = _Gjennomsnittlig aktiveringsrate_ for alle aktive Hubs i WoM.
+- $D_r$ = _Distribusjonsrate_ - hvis et hub fikk utvunnet systemer for foregående periode, Meeds % of the Meeds distribuert til sine brukere. Pro- % kan ligge over 100 hvis fordelingen er forsinket i tide.
+- $D_s$ =  _Distribusjonsspredning_ - hvis et hub mottok minerte systemer for foregående periode, prosentandelen av brukere som fikk kjøtt i den totale mengden av brukere.
 - $M$ = _Minting Power_ av Deed som definert i 2.3
 
 
-Den globale engasjementsindeksen som brukes til å fordele myntede Meeds blant Deeds, er summen av alle Deeds' engasjementspoeng for uken.
+Den globale engasjementsindeksen brukt til å distribuere herjede Meeds for Hubs er summen av alle Hubs engagement score for denne uken.
 
 
-Formelen ovenfor er enkel og designet for å favorisere gjerninger:
+Formelen ovenfor er enkel og utformet for å favorisere knutepunktene:
 
 - med mange engasjerte brukere (engasjement)
 - som deler hele pregeinntekten (fordelingsgrad) med brukerne rettferdig (fordelingsspredning).
@@ -116,9 +110,9 @@ I tillegg er boostere på plass for :
 - organisasjoner med høyest engasjement, uavhengig av størrelse (engasjementrate i forhold til WoM)
 - knappere gjerninger
 
-> Innskjermingen forbeholder seg retten til å endre formelen etter behov – dersom det for eksempel oppstår konkrete brukssaker. Foreningen kan også svarteliste et hvilket som helst utfall som skjuler formelen til dens unike fordel.
+> Innskjermingen forbeholder seg retten til å endre formelen etter behov – dersom det for eksempel oppstår konkrete brukssaker. Foreningen kan også svarteliste alle HUL som hijefer formelen til den unike fordelen.
 
-Ettersom avgangene belønnes med kost og insentiver for å redistribuere dem som belønning til brukerne sine mot sitt engasjement – så er interessen til både debetene og brukerne deres tilpasset til den samme virtuelle inntektsdelingssyklusen. Dermed tilbyr WoM en ny arbeidsmodell, som omformer forholdet til arbeidsgiver/arbeidstakere som partnerskap.
+Hubene belønnes med kjøtt og insentiver for å omfordele dem som belønning til brukerne sine mot deres engasjement – interessen til både samfunnene og brukerne deres er tilpasset den samme virtuelle inntektsdelingssyklusen. Dermed tilbyr WoM en ny arbeidsmodell, som omformer forholdet til arbeidsgiver/arbeidstakere som partnerskap.
 
 "Mintium"-modellen er den første av sitt slag - den går lenger enn den tradisjonelle freemium-modellen, siden ikke bare tjenestene er gratis å bruke, men både organisasjonene og brukerne deres blir belønnet for å bruke dem.
 
@@ -138,9 +132,9 @@ En by vil bli regnet som fullstendig og når alle dens departementer er tatt opp
 | 6: Kushor   | 10 000 000  | Eshmum + 64 måneder   | 6 000 000  | 3 000 000   | 999 998     | 2               |
 | 7: Hammon   | 100 000 000 | Kushor + 128 måneder  | 60 000 000 | 30 000 000  | 9 999 999   | 1               |
 
-En by er en måte å komme sammen på Deeds på for å lage et fellesskap. Og som en konsekvens av dette er at vi får en viss identitet knyttet til fellesskapet. I tillegg er det en måte å gi en merverdi til brukerne - en verdi som vil gå ut over en Deedes kapasitet, eller verdi skapt gjennom et samarbeid mellom Deeds.
+En by er en måte lokalsamfunnene kommer sammen og skape et større fellesskap. Og som en konsekvens av dette er at vi får en viss identitet knyttet til fellesskapet. I tillegg er det en måte å gi merverdi til brukerne - en verdi som vil gå ut over ett samfunns yteevne eller verdi gjennom samarbeid mellom fellesskapet.
 
-Hver by har sin egen styring og driver sin egen DAO der byens Deeds-eiere kan velge sitt bystyre, stemme og etablere sine egne driftsregler, legge til nye tjenester og forme byen sin på den måten de ønsker og for å øke byens attraktivitet og verdien av skjøtene knyttet til den.
+Hver by har sitt eget mål og opererer sin egen DAO der byens depote eiere kan velge bystyret. stemme og etablere egne samarbeidsregler, Legg til nye tjenester og forme byen med den måten de ønsker på, og for å øke byens attraktivitet og verdien på forpliktelsene som ligger i selskapet.
 
 De kan for eksempel legge til en digital representasjon av byen deres, fysiske motstykker knyttet til byen deres (for eksempel møterom i fysiske samarbeidsrom), legge til Meeds-drevne mattjenester, ferietjenester osv.
 

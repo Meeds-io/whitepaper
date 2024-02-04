@@ -1,14 +1,12 @@
 
-# 1. Hvem vi er – Meeds Association
+# 1. Om oss
 
-Meeds er en ideell organisasjon som opprinnelig ble lansert av flere Open Source Software (OSS)-fellesskap rundt den felles visjonen om en fri digital verden -  en desentralisert verden som ikke ville bli kontrollert av en håndfull sentraliserte megaselskaper.
+Meeds is a collaborative effort led av diverse Open Source Software (OSS) communities, dedikert til å skape en desentralisert digital verden som tåler sentralisert selskapskontroll, og som gir et fritt og åpent miljø.
 
-Meeds-foreningen er registrert i Genève,  som en ideell forening i henhold til sveitsisk lov.
+Den juridiske enheten bak Meeds er _Meeds Association_, en ideell organisasjon som er innlemmet i sveitsiske lover i Geneve. Det er ansvarlig for å regulere utstedelsen av Meeds(MEED) token, en ERC20 token som er anerkjent som "utility token".
 
-Foreningen regulerer utstedelsen av Meeds-valutaen, et ERC20-token, anerkjent som et nyttetoken.
+Funksjon som en desentralisert autonomous Organization (DAO) vektlegger demokratisk styring, der token som er rettighetshavere med styresettrettigheter deltar i sentrale beslutninger, for eksempel årlige styrevalg og sørge for åpenhet og samfunnsinvolvering i organisatoriske endringer.
 
-For å bygge WoM og Meeds utnytter foreningen Ethereum-plattformen og dens økosystem,  noe som gjør den tilgjengelig på en vennlig og kostnadseffektiv måte for alle brukere.
+Meeds project bruker det økosystem Ethereum to implement the World of Meeds (WoM) og the Meeds token. Denne tilnærmingen prioriterer sikkerhet, tilgjengelighet, brukervennlighet og kostnadseffektivitet, noe som gjør den til et bredt brukerbase.
 
-Foreningen er strukturert som en Desentralisert Autonom Organisasjon (DAO) der innehaverne av styringstokener stemmer over alle viktige organisatoriske endringer,  for eksempel valg av styre hvert år.
-
-I tillegg til tokenadministrasjon holder foreningen Intellectual Property (IP) of the Meeds software [github. om/meeds-io](https://github.com/meeds-io)tilgjengelig under LGPL lisensen og distribuert gratis. Sistnevnte har en Ethereum lommebok-app som brukere kan bruke til å lagre og transformere deres Meeds (se avsnitt 2.4 for mer informasjon). Meeds Association driver også en multi-tenant sky hostingstjeneste som tilbyr denne programvaren.
+Innretninger er en åpen kildekode programvare ([github.com/meeds-io](https://github.com/meeds-io)) driftet i sky infrastrukturen ved å arrangere partnere i Meeds Association.
