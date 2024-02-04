@@ -1,14 +1,12 @@
 
-# 1. 우리는 누구인가 – Meeds Association
+# 1. About Us
 
-Meeds 협회는 소수의 중앙 집중식 거대 기업에 의해 통제되지 않는 분산된 세계인 무료 디지털 세계라는 공통 비전을 중심으로 여러 오픈 소스 소프트웨어(OSS) 커뮤니티가 시작한 비영리 조직입니다.
+Meeds is a collaborative effort led by diverse Open Source Software (OSS) communities, dedicated to creating a decentralized digital world that resists centralized corporate control and fosters a free and open environment.
 
-Meeds 협회는 스위스 법에 따라 비영리 협회로 Geneva에 설립되었습니다.
+The legal entity behind Meeds is the _Meeds Association_, a non-profit organization incorporated under Swiss law in Geneva. It is responsible for regulating the issuance of the Meeds(MEED) token, an ERC20 token recognized as a utility token.
 
-협회는 유틸리티 토큰으로 인정받는 ERC20 토큰인 미즈 화폐의 발행을 규제합니다.
+Functioning as a Decentralized Autonomous Organization (DAO), Meeds emphasizes on democratic governance, where token holders with governance rights participate in key decision making, such as annual board elections, ensuring transparency and community involvement in organizational changes.
 
-WoM 및 Meeds를 구축하기 위해 협회는 이더리움 플랫폼과 생태계를 활용하여 모든 사용자에게 친숙하고 비용 효율적인 방식으로 액세스할 수 있도록 합니다.
+The Meeds project utilizes the Ethereum ecosystem to implement the World of Meeds (WoM) and the Meeds token. This approach prioritizes security, accessibility, user-friendliness, and cost-effectiveness, making it appealing to a broad user base.
 
-협회는 거버넌스 토큰 보유자가 매년 이사회 선출과 같은 모든 중요한 조직 변경에 투표하는 Decentralized Autonomous Organization(DAO)로 구성됩니다.
-
-Meeds 토큰 관리 외에도 협회는 LGPL 라이선스에 따라 사용 가능하고 무료로 배포되는 Meeds 소프트웨어 [github.com/meeds-io](https://github.com/meeds-io)의 지적 재산(IP)을 보유하고 있습니다. 후자는 사용자가 Meeds를 저장하고 거래하는 데 사용할 수 있는 이더리움 지갑 앱을 포함합니다(자세한 내용은 섹션 2.4 참조). Meeds Association은 또한 해당 소프트웨어를 활용하는 다중 테넌트 클라우드 호스팅 서비스를 실행합니다.
+Meeds is an Open Source Software ([github.com/meeds-io](https://github.com/meeds-io)) operated in the cloud infrastructure by hosting partners of the Meeds Association.
