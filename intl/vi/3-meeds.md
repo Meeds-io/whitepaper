@@ -6,16 +6,16 @@ WoM được hỗ trợ bởi loại tiền tệ của nó – mã thông báo M
 
 Có thể dịch sang tiếng Việt là "Tổng cung của Meeds **bị giới hạn tối đa là 100 triệu đồng token**, được sản xuất theo tiến độ. có thể dịch sang tiếng Việt là "**Meeds được sản xuất với tốc độ 10 MEED mỗi phút**. Vì thế, giới hạn đặt mệnh giá đầy đủ gần 20 năm (khi khoảng $10*60*24*365 = 5M$ Meeds được đặt mệnh mỗi năm).
 
-Cho đến nay, 5 triệu Meed (5% tổng nguồn cung) đã được đúc sẵn. Trong đó, 4,5 triệu đơn vị đã được khóa trong hợp đồng két sắt với một chu kỳ vận dụng tuyến tính trong vòng 4 năm. Số tiền được in trước chủ yếu được sử dụng để mua bản quyền phần mềm, thanh toán chi phí pháp lý cho việc phát hành token.
+5 Million Meeds (5% of the total supply) were pre-minted initially. Trong đó, 4,5 triệu đơn vị đã được khóa trong hợp đồng két sắt với một chu kỳ vận dụng tuyến tính trong vòng 4 năm. The pre-minted amount was mainly used to acquire software IP, pay for token emission’s legal fees, and host services.
 
-Phần còn lại là một phần của __Quỹ Meeds DAO__ và sẽ được sử dụng để trả cho các dịch vụ cũng như một số khuyến mãi khởi đầu như airdrops và chiến dịch giới thiệu.
+The rest is part of the __Meeds DAO funds__ and will be used to pay for services and launch incentives such as airdrops and referral campaigns.
 
 
 ## 3.2. Phân bổ giấy tiền
 
 Minted Meeds được phân bổ để hỗ trợ tham gia của ba loại nhà quản lý - người dùng, nhà xây dựng và nhà đầu tư:
 
-- Người dùng (người dùng và chủ sở hữu/thuê của Deeds) nhận được Meeds qua phần thưởng tích cực (mô hình Mintium).
+- The users (users and Deed holders/renters) get Meeds through engagement rewards (mintium model).
 - Nhà xây dựng (thành viên của hiệp hội và cộng đồng) nhận được Meeds từ quỹ hiệp hội để xây dựng, hoạt động và cải thiện WoM.
 - Nhà đầu tư đánh giá Meeds qua việc thuê và mua các hồ nước lưu chuyển và gắn cổ Meeds.
 
@@ -23,7 +23,7 @@ Minted Meeds được phân bổ để hỗ trợ tham gia của ba loại nhà 
 
 ## 3.3. Người dùng - xuất bản qua sự tích cực
 
-Một phần của Meeds được đồng xuất liên tục được phân bổ cho kênh đồng xuất tích cực. Phân phối được thực hiện hàng tuần. Vào bất kỳ cuối tuần nào, chỉ số tương tác được tính toán và Deeds có thể yêu cầu phần thưởng của họ vào tuần sau và nhận được Meeds của họ. Các Meeds chưa được yêu cầu sẽ giữ trong quỹ và được thêm vào phân phối tuần sau. Mô hình được mô tả chi tiết trong chương trước (phần 2.6).
+Một phần của Meeds được đồng xuất liên tục được phân bổ cho kênh đồng xuất tích cực. Phân phối được thực hiện hàng tuần. At any given week end, the engagement index is calculated so that Hubs leaders and Deed owners can claim their rewards the following week and get their Meeds. Các Meeds chưa được yêu cầu sẽ giữ trong quỹ và được thêm vào phân phối tuần sau. Mô hình được mô tả chi tiết trong chương trước (phần 2.6).
 
 ## 3.4. Xây dựng viên - Hiệp hội Meeds DAO và cộng đồng xây dựng
 
@@ -33,11 +33,11 @@ Trong thời gian đồng kim, **30% của Meeds được đồng kim được g
 
 Các thành viên Hiệp hội có thể cung cấp dịch vụ cho Hiệp hội dựa trên một thỏa thuận dịch vụ đã ký xác định tỷ lệ ngày làm việc. Dịch sang tiếng Việt: Dịch vụ được trả hàng tháng trong Meeds, dựa trên giá thị trường. Ví dụ các dịch vụ bao gồm - phục vụ phần mềm Meeds, phát triển ứng dụng WoM, phát triển các kết nối mới, hoạt động dịch vụ điện toán đám mây, cung cấp dịch vụ tài chính và pháp lý v. v.
 
-Không cần là một thành viên, bất kỳ Hợp đồng nào cũng có thể tham gia tạo một kết nối mới và được phần thưởng cho việc làm như vậy - trước qua Hiệp hội Meeds mua lại kết nối và sau đó bằng cách xuất dẫn thông qua kết nối này.
+Without being a member, any organization can participate in the creation of a new connector and be rewarded for doing so – first through the Meeds association acquiring the connector and then by minting through this connector.
 
-Hội tục hoạt động một cộng đồng Nhà xây dựng mà chào đón những người yêu thích WoM, muốn đóng góp vào sự tạo ra của WoM. Hội sẽ tài trợ cộng đồng từ ngân sách của mình, bồi thường tích cực của thành viên cộng đồng.
+The association operates its own community hub named the _Meeds Builders Hub_ that welcomes enthusiasts, who want to contribute to the creation of the WoM. The association sponsors the community out of its budget, compensating the engagement of community members.
 
-Vì vậy, cộng đồng sẽ hoạt động như một ví dụ của một Hiệp định, cung cấp một tập hợp các dịch vụ tiêu chuẩn được cung cấp bởi tổ chức. Hội đồng đánh cờ Meeds để trả lại giấy tờ cho cộng đồng. Cộng đồng sẽ sau đó cũng tham gia vào quá trình làm đồng tiền tương tự như bất kỳ Deed khác.
+Thus, the builders' hub functions as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. The association stakes Meeds in order to redeem a Deed for its community. Thus, the Builder's Hub also benefits in the engagement minting like any other Hub backed by a Deed.
 
 Sau khi thời gian đánh tiền kết thúc, hiệp hội sẽ được duy trì bởi:
 
@@ -45,7 +45,7 @@ Sau khi thời gian đánh tiền kết thúc, hiệp hội sẽ được duy tr
 - thuế bán hàng thu nhập (2,5% trên bán hàng ghi trên giấy)
 - dịch câu này sang tiếng Việt: Thấy phí giao dịch qua sử dụng cửa hàng tiện ích
 - hoạt động như một nhà cung cấp hồ nước tiền tệ
-- dịch câu này sang tiếng Việt: Nhận thấy phí giao dịch khi một Hiệp Định phân phối Token non-Meeds qua dịch vụ WoM.
+- perceiving transaction fees when a Hub distributes non Meeds tokens via WoM services.
 - bằng cách hoạt động các Hợp Đồng mà Hiệp Hội đã đặt ra qua thời gian.
 
 
@@ -59,7 +59,7 @@ Mỗi thành viên cũng có quyền mua trực tiếp một lượng lớn Meed
 
 **Giữ cổ phần / đầu tư dài hạn** Để hỗ trợ đầu tư dài hạn, các cổ phần đã giữ sẽ được thưởng. Khi Meeds được gắn cổ, người gắn cổ sẽ nhận được một số xMeeds tokens. Các Meeds mới được phát hành cho các stakers theo tỷ lệ tương ứng với số lượng xMeeds của họ. Trong thực tế, Meeds được đồng xuất xuất thực sự được thêm vào số lượng tài sản của hợp đồng thông minh xMeeds và được phân phối cho chủ nhân xMeeds khi họ giải nắm.
 
-Bằng cách đầu tư Meeds, các nhà đầu tư cũng có thể hoàn lại Deeds (và sau đó tham gia sản xuất qua tương tác), tức tăng nhu cầu cho token. Mỗi Meeds (xMeeds) được gắn cổ cho chủ sở hữu một số điểm mỗi ngày. Càng lâu thời gian hạn chế, số điểm được nhận được mỗi xMeeds sẽ cao hơn. Mỗi hành động được hoàn lại thay cho một số điểm.
+By staking Meeds, investors can also redeem Deed NFTs (and then participate in minting through engagement), hence increasing the token demand. Mỗi Meeds (xMeeds) được gắn cổ cho chủ sở hữu một số điểm mỗi ngày. Càng lâu thời gian hạn chế, số điểm được nhận được mỗi xMeeds sẽ cao hơn. Mỗi hành động được hoàn lại thay cho một số điểm.
 
 Các điểm được tính sử dụng công thức dưới đây:
 
@@ -100,8 +100,8 @@ Thật vậy, bất kỳ công việc nào (có hoặc không có liên quan đ�
 
 Ngoài ví và cửa hàng mua phúc lợi bằng Meeds, chúng tôi có kế hoạch giới thiệu cho mỗi người dùng một số sản phẩm cuối cùng được cung cấp bởi các giao thức Tài chính Phi tập trung, chẳng hạn như:
 
-- Khả năng đặt cược token Meeds và có lợi nhuận (tạo doanh thu)
-- Khả năng sử dụng token Meeds làm tài sản thế chấp để vay tiền đồng ổn định như USDC (tận dụng trước một [Hồ chứa phụ kiện.](https://app.rari.capital/fuse)au đó đăng ký mã thông báo Meeds để.[AAVE](https://aave.com/).
+- The ability to stake MEED tokens and get yields (generate revenues)
+- The ability to use MEED tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
 - Một thẻ số có thể được thêm và sử dụng thông qua Apple Pay, Google Pay hoặc bất kỳ máy ATM nào. Thẻ số này có thể được cung cấp thông qua đối tác VISA và sử dụng một dòng tín dụng trong USDC, bảo đảm bởi Meeds được stake. Thẻ này cũng có thể được sử dụng bởi các tổ chức để tài trợ cho ví của nhân viên, nhằm quản lý các khoản phúc lợi nhân viên như nhà hàng, phương tiện giao thông và bất kỳ loại chi phí nào.
 
 Một thẻ số có thể được thêm và sử dụng thông qua Apple Pay, Google Pay hoặc bất kỳ máy Atm nào.
