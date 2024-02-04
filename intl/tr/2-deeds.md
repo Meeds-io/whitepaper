@@ -1,17 +1,19 @@
 
-# 2. Deeds NFT - İş Metaverse Kuruluşları
+# 2. Tapular - WoM'un Özellikleri
 
-## 2.1. NFT - Deeds Tanımlanmış
+## 2.1. Tapu NFT'leri
 
-Değiştirilemez bir token (NFT), bir malı temsil eden benzersiz bir token'dır. WoM'da Deed, mülkiyet unvanı olarak kullanılır. Her Deed, sahibine çeşitli hizmetlere erişim hakkı verir - örneğin, Meeds yazılımı tarafından desteklenen dijital bir ofise erişim ve Mint Meeds hakkı.
+Dijital alanda, Değiştirilemez Tokenlar (NFT'ler), fiziksel dünyadaki eylemlere benzer bir amaca hizmet eder. Maddi mülkiyetin sahipliğini doğrulayan bir senet gibi, NFT'ler de dijital varlıkların mülkiyetinin tartışılmaz olmasını sağlar. Bu sahiplik, her bir varlığın benzersiz ve kopyalanamaz olmasını sağlayacak şekilde bir blok zincirine güvenli bir şekilde kaydedilir.
 
-WoM her türlü kuruluşa açıktır - DAO'lar, geleneksel şirketler, dernekler, düşünce kuruluşları, ortaklıklar, tiyatro şirketleri, proje grupları, okullar vb. Deed, onların WoM'daki dijital varlıklarını temsil eder.
+WoM'de bir Tapu, mülkiyetin temel birimini temsil eden bir NFT olarak kavramsallaştırılır. Bir Tapu sahibi olmak, sahibine bir Topluluk Merkezini yönetme yetkisi verir ve onları WoM ekosistemi içinde bir takdir ve teşvik biçimi olan Mintium ödüllerini almaya uygun hale getirir (daha fazla ayrıntı bölüm 2.6'dadır).
+
+WoM, çeşitli ve kapsayıcı bir platform olacak şekilde tasarlanmıştır. DAO'lardan geleneksel işletmelere ve derneklerden düşünce kuruluşlarına, tiyatro şirketlerine, proje gruplarına ve eğitim kurumlarına kadar çok çeşitli kuruluşları memnuniyetle karşılamaktadır. Bu dijital ortamda bir Tapu, kuruluşun WoM'deki dijital varlığını ve ayak izini sembolize eder ve gerçek dünyadaki operasyonları ile dijital çabaları arasında bir köprü görevi görür.
 
 ## 2.2. Deed temini
 
 WoM nihayetinde sınırlı miktarda Deed sağlayacaktır. Her Deed önceden tanımlanmış maksimum sayıda kullanıcı içerir ve Meeds ödüllendirme (Darphane Gücü) kapasitesi sunar. Burada ve bundan sonra 'kullanıcı' terimi her türlü çalışan, işçi, serbest meslek sahibi, gönüllü vb. anlamına gelmektedir.
 
-Her biri kullanıcı sayısı, bir şehirdeki oy hakları (bkz. 2.7) veya Meeds basma gücü açısından farklı yetenekler sağlayan dört tür Deed vardır, en nadir olanı en güçlü olanıdır:
+Her biri kullanıcı sayısı, bir şehirdeki oy hakları (bkz. 2.7) veya basım gücü açısından farklı yetenekler sağlayan dört tür Tapu vardır; en nadir olanı en güçlü olanıdır:
 
 | **Deed Türü**  | **Maksimum kullanıcı** | **Darphane gücü** | **Kıtlık** | **Şehir oy hakları** |
 | -------------- | ---------------------- | ----------------- | ---------- | -------------------- |
@@ -24,69 +26,61 @@ Her biri kullanıcı sayısı, bir şehirdeki oy hakları (bkz. 2.7) veya Meeds 
 
 Bir Deed, sahibine onu KULLANMA, KİRALAMA veya SATMA hakkı verir.
 
-- KULLANIM - Deed sahipleri, doğrudan kendi kuruluşları için kullanabilir ve kullanıcılarına hizmet sağlayabilir.
-- KİRALAMA - Deed sahipleri pasif gelir elde etmek için Deed başka bir kuruluşa da kiralayabilir.
-- SAT - Bir Deed [OpenSea](https://opensea.io) gibi ikincil bir piyasada satılabilir.
+- KULLANIM – Mülk sahibi, kendi organizasyonu için bir merkez işletmek amacıyla Tapuyu kullanabilir.
+- KİRA - Sahibi ayrıca Tapuyu başka bir kuruluşa kiralayarak pasif gelir elde edebilir.
+- SAT - Sahibi bunu [OpenSea](https://opensea.io) gibi ikincil bir NFT pazarında satabilir.
 
-Bir Deed aktif sahibi veya kiracısı olan kuruluş, aşağıda açıklanan yenilikçi bir "mintium" modeli aracılığıyla Meed'lerle ödüllendirilir (bölüm 2.6).
+Bir Tapunun aktif sahibi veya kiracısı olan kuruluş, aşağıda açıklanan "mintium" modeline göre MEED ödüllerine hak kazanır (bkz. 2.6).
 
-## 2.4. Deed hizmetleri, nişan/ödül motoru
+## 2.4. Topluluk Merkezleri
 
-Rekabetin giderek arttığı bir piyasada, yetenekleri çekmek ve elde tutmak ve girdilerini en üst düzeye çıkarmak için, kuruluşların kullanıcılarını basit bir ücretin ötesinde teşvik etmeleri gerekir. WoM, iş katılımını tokenize ederek bunu yapmak için yenilikçi bir çerçeve sunmaktadır.
+Günümüzün rekabetçi pazarında kuruluşlar, yalnızca ücretlendirme yoluyla değil aynı zamanda işe bağlılığı artırarak en iyi yetenekleri çekmeyi ve elde tutmayı amaçlamaktadır. WoM, bu zorluğu Topluluk Merkezlerinde yer alan benzersiz, tokenleştirilmiş bir ödül sistemiyle ele alıyor.
 
-Her Deed sahibi veya kiracısı, Deed'in önceliklerine göre ince ayarlanabilen etkileşim puanları kazanan kullanıcılarına araçlar ve hizmetler sağlayabilir. Periyodik olarak puanlar, Deed'in belirlenen bütçesine göre Meed'lere (ve - DAO'lar için - potansiyel olarak başka bir token'a) dönüştürülür. Bu şekilde, kullanıcıların kurum için önemli olan faaliyetlere katılımı ödüllendirilir.
+Bu Merkezlerde topluluk liderleri, çalışma öğeleri için şeffaf bir teşvik menüsü sunarak üyelerin katılımını artırabilir. Katılımcılar, önceden belirlenmiş bir bütçe doğrultusunda periyodik olarak MEED tokenlarına veya özel bir eşdeğere dönüştürülen çabaları karşılığında katılım puanları kazanırlar.
 
-Başlangıç olarak, Meeds derneği tarafından sağlanan aşağıdaki ücretsiz hizmetler katılımı ödüllendirmek için kullanılabilir:
+Topluluk Merkezleri, katkıda bulunanların katılımını artırmak ve yönetmek için tasarlanmış bir dizi araç ve özellik sunar:
 
-- **Oyunlaştırma motoru** - WoM içindeki otomatik eylemlerin puan cinsinden bir ağırlığı vardır ve özelleştirilebilir angajman programları aracılığıyla Deed'in önceliklerine göre ince ayar yapılabilir.
-- **Zorluklar** - başarıları temsil etmek için özelleştirilebilir zorluklar ayarlanabilir. Meydan okumalar bir kişi tarafından önceden belirlenir ve bir başkası tarafından doldurulabilir ve bu şekilde ilan edilebilir. Zorluklar, özelleştirilebilir katılım programları dahilinde puan olarak bir ağırlık taşır.
-- **Özelleştirilebilir katılım programları** - kuruluşlar iş hedeflerine ve önceliklerine uygun kendi katılım programlarını oluşturabilirler. Programlar, sistem içindeki otomatik eylemlerle ve manuel olarak ayarlanan zorluklarla ilişkilendirilir. Her programın belirli bir Meeds bütçesi vardır. Her bir katılım programında otomatik veya duyurulan eylemler yoluyla her bir kullanıcı tarafından kazanılan puanlar, o programın bütçesine göre periyodik olarak Meed'lere dönüştürülür.
-- **Kudos** - kudos, teşekkür ve takdir göstergesi olarak kullanıcılar tarafından birbirlerine verilebilir. Dağıtılabilecek kudos sınırlı olduğundan (önceden belirlenmiş bir periyodik limit, örneğin haftada 3), nadir ve değerlidirler. Eylemler gibi, övgüler de puan taşır. Bu şekilde çalışanlar, iş arkadaşlarını ödüllendirme konusunda yetkilendirilmiş olurlar.
-- Ödüllendirme motoruna takılan **İşbirliği** araçları - çalışma alanları, eşzamansız iletişim, bir görev yönetim aracı ve notlar - insanların projeler üzerinde birlikte çalışmasını sağlar.
-- **Cüzdan** - kullanıcılara Meed'lerini saklamaları için güvenli bir Ethereum teknolojisi cüzdanı sağlanır. Alternatif olarak, ileri düzey kullanıcılar için bir Metamask cüzdanı kullanılabilir.
-- **Mağaza** - Meeds'in Tapu sahibi veya kiracısı ya da Meeds ekosistemi tarafından sağlanan avantajlarla takas edilebildiği bir mağaza.
-- **Analitik** - Deed içindeki etkileşimi analiz etmek ve takip etmek için.
-- **Bağlayıcılar**, ödül motoruna takılıdır - kullanıcılar başka bir yazılımdaki eylemler aracılığıyla etkileşim puanları alır - örneğin GitHub'da kod işlemek için.
+- **Eylemler**: Teşvik edilen görevler, katkıda bulunanlara rehberlik eder, çabalarını kurumsal hedeflerle uyumlu hale getirir ve motivasyonu ve yönlendirmeyi artırır.
+- **Oyunlaştırma**: Liderlik tabloları ve rozetler, işi eğlenceli ve rekabetçi bir deneyime dönüştürerek etkileşimi ve keyfi artırır.
+- **Katılım Programları**: Belirli hedefleri ve ödülleri olan özelleştirilmiş programlar, kurumsal hedefleri netleştirir ve katkıda bulunanların başarılarını adil bir şekilde tanır.
+- **Tebrikler**: Akranların anında tanınması morali yükseltir ve takdir kültürünü teşvik ederek ekip bütünlüğünü ve motivasyonunu artırır.
+- **Alanlar**: Organize alt gruplar ve projeler, iletişimi ve işbirliğini kolaylaştırarak kolektif üretkenliği artırır.
+- **Cüzdan**: Cüzdan uygulaması, kullanıcı katkılarını temsil eden MEED ödüllerini güvenli bir şekilde saklar ve hem Merkez içinde hem de daha geniş ağ üzerinde kolay işlemlere olanak tanır.
+- **Avantajlar**: Hediye kartlarından NFT'lere kadar çeşitli ödüller, kuruluşun ekosistemi içinde sürekli etkileşimi teşvik eder ve sadakati artırır.
+- **Görevler**: Kolaylaştırılmış proje ve görev yönetimi araçları, iş akışlarını basitleştirerek ve ilerlemeyi takip ederek üretkenliği artırır.
+- **Notlar**: İlk katılım kılavuzları gibi temel bilgileri belgeleyen kullanışlı bir not defteri uygulaması, bilgi paylaşımını ve kurumsal kendi kendine yeterliliği destekler.
+- **Markalaştırma**: Özelleştirilebilir Merkez görünümü, yeni katkıda bulunanların ilgisini çeker ve onların kuruluşun kimliğiyle olan bağlarını güçlendirir.
+- **Analizler**: Topluluk katılımına ilişkin anlayışlı analizler, liderlerin etkili stratejiler belirlemesine ve optimizasyon için bilinçli kararlar almasına olanak tanır.
 
-Yukarıda bahsedilen araç ve hizmetlerden bazıları zaten merkezi olmayan yapıdadır, diğerleri ise değildir. Nihai hedef, tüm hizmetleri merkezi olmayan bir şekilde sağlamaktır; bunu, temel teknoloji geliştikçe kademeli olarak yapacağız.
 
-API'ler aracılığıyla ödül motoruna yeni hizmetler eklenebilir. Örnekler sayısızdır ve hemen hemen her yazılım veya hizmeti içerebilir:
+**Hub Başlatma** Bir Hub başlatmak, Meeds Association tarafından yönetilen bir bulut platformuna erişim sunan meeds.io aracılığıyla en sorunsuz şekilde gerçekleşir. Bu platform hızlı kuruluma olanak tanır ve WoM'yi yöneten kar amacı gütmeyen kuruluş tarafından korunur. Ancak WoM ademi merkeziyetçiliğe hitap ediyor. Meeds yazılımı açık kaynak olduğundan ve ücretsiz olarak dağıtıldığından, kuruluşlar bir Hub sunucusunu kendi kendilerine barındırma ve WoM ağına bağlanma seçeneğine sahiptir, bu da onlara Hub'larının kurulumunda ve yönetiminde daha fazla kontrol ve özelleştirme olanağı sağlar.
 
-- CRM yazılımı - satış elemanları fırsatlar üzerinde çalıştıkları için etkileşim puanları alırlar.
-- Muhasebe yazılımı - muhasebeciler defter tutmak için nişan puanları alacaklardır.
-- Saatli terminal – fabrika işçisi fabrika çalışma süresi için puan alabilir.
-- Vesaire.
+**Çalışma Sinyallerini Yakalama** Hub'lar GitHub, Twitter ve Discord gibi çeşitli platformlarla entegre olabilir ve CRM yazılımı, muhasebe yazılımı ve saat ölçümü gibi hizmetlere bağlanmak için API aracılığıyla genişletilebilir. Bu, çeşitli profesyonel katkıların tanınmasına ve ödüllendirilmesine olanak tanır. Bütün konektörler, bütünlüğü ve işlevselliği garanti etmek için Meeds Association tarafından beyaz listeye alma sürecinden geçer.
 
-Ayrıca, bağlayıcı aracılığıyla üretilen bağlılık, kuruluşun küresel bağlılık puanına katılır ve bu da Meeds basım dağılımının bir faktörüdür. aşağıda. Bunu yapabilmek için konektörün Meeds Association tarafından beyaz listeye alınması gerekir. Dernek konektörü inceler, algoritmasını onaylar ve Meeds'e karşı mülkiyetini alır. Daha sonra dernek tarafından sağlanan ücretsiz hizmetlerin bir parçası haline gelir ve küresel katılım endeksine dahil edilir. Başka herhangi bir Deed, geliştiricileri için aynı bağlayıcıyı ve aynı ödül algoritmasını kullanabilir.
+**Perks Mağazasını Zenginleştirme** Kuruluşlar, mağazayı eğitim kursları ve spor salonu üyelikleri dahil olmak üzere özel avantajlarla özelleştirebilir ve kendi kendini güçlendiren bir ödül ve katılım döngüsü yaratabilir. Bu yalnızca katkıda bulunanları teşvik etmekle kalmaz, aynı zamanda kuruluşun ekosistemi ile daha derin bir bağlantıyı da teşvik eder.
 
-Deed sahibi veya kiracısı, mağazasını kendi avantajlarıyla zenginleştirebilir, çevrimiçi bir avantaj teklifine bağlanabilir vb. Burada da olasılıklar sonsuzdur:
+**Katılım ve Ödüller** Merkeze aktif katılım, bir kuruluşun küresel katılım puanına katkıda bulunur. Bu ölçüm, kullanıcı aktivite seviyeleri ve iş ve ödüllerin adil dağıtımı gibi faktörleri dikkate alarak katılım stratejilerinin etkinliğini yansıtır. Kamuya açık olarak denetlenebilen bu puan, Hub'lara protokolden basılan MEED tokenlarının dağıtımını yapma hakkı verir ve katılım stratejilerinin etkinliğinin bir ölçüsü olarak hizmet eder.
 
-- Eğitim kursları
-- Spor salonu üyelikleri
-- Tatil paketleri
-- Organizasyondaki bir liderle öğle yemeği
-- Fiziksel ofis alanı
-- Vesaire.
+İleriye baktığımızda, WoM ekosistemindeki Topluluk Merkezleri, iç iletişimi, gerçek zamanlı etkileşimleri, yönetişimi ve çeşitli üretkenlik araçlarını entegre ederek topluluk yaşamının merkezi haline gelecek. Bu geliştirmeler, Hub'ların halihazırda kuruluşlar tarafından kullanılan en iyi araçlarla birbirine bağlı kalmasını sağlayacaktır. Bunlar, Meeds'in canlı ve katılımcı bir topluluk oluşturma konusundaki kararlılığının güçlü bir kanıtıdır.
 
-Mağaza Meed'lerin kullanımıyla çalışır, böylece Meed'ler kısmen Deed'e iade edilir.
 
-## 2.5. Ödüller - Meedler ve diğer simgeler
+## 2.5. Ödüllendirme Modeli
 
-WoM, dijital çalışma araçlarını oyunlaştırarak ve işe katılımla ilgili olarak puanlar ve Meedler atfederek kullanıcıların katılımını tokenize edecektir. Etkileşim ve ödül motoruna bağlanan hizmetler, her kullanıcıya etkileşim seviyelerine göre ve her Tapunun etkileşim programları doğrultusunda puanlar atfeder. Aslında, her bir Deed, her bir faaliyet türü için verilen puan miktarında ince ayar yapabilir. Dolayısıyla, GitHub'da bir miktar kod yayınlamak bir BT mağazası için 10 puan değerinde olabilirken, bir dijital ajans GitHub yayınları için yalnızca 5 puan atfedebilir, ancak retweetler için 10 puan sunabilir.
+WoM'de, çeşitli çalışma etkinliklerine kullanıcı katılımı teşvik edilir ve oyunlaştırılır, her topluluk Merkezinin benzersiz programlarına göre uyarlanır. Kullanıcılar, her topluluğun puan tahsisi için kendi kurallarını belirlemesiyle, aktif katılımlarını yansıtan puanlar kazanırlar.
 
-Ödüllendirme motoru, periyodik olarak, bütçelere ve diğer dağıtım kurallarına göre etkileşim puanlarını Meed'lere dönüştürür ve nihayetinde kullanıcıları cüzdanları aracılığıyla ödüllendirir. Deed'in Meed dağıtması gerekmez ve angajman sistemini başka bir tazminat programını etkinleştirmek için kullanabilir. Bununla birlikte, Meedlerin dağıtılması darphane kapasitesini artıracaktır.
+Örneğin, bir BT şirketi GitHub'da kodlama için 10 puan verebilirken, bir dijital ajans, benzer puanlarla retweetler gibi sosyal medya etkileşimine daha yüksek değer verebilir.
 
-Ayrıca, Deed'in Meed'leri dağıtmak ve katılım programlarını beslemek için Meed'leri satın alması gerekmemektedir, çünkü Meed'leri aşağıda açıklanan "mintium" modelinden alacaktır.
+Ödüllerin düzenli dağıtımları her Merkezde biriken puanlara göre yapılır. Genellikle bunlar doğrudan kullanıcıların cüzdanlarına teslim edilen MEED tokenleri halinde verilir. MEED tokenleri standart ödül biçimi olsa da Hub'lar farklı türde tazminat sunma esnekliğine sahiptir.
 
-Meeds'e ek olarak, aynı angajman mekanizmasına dayalı olarak diğer tokenlerin (örneğin DAO'nun kendi tokenleri) dağıtılması da mümkün olacaktır. Bu durumda, dağıtım Meeds Derneği için %5 işlem ücretine (DAO token cinsinden) tabi olacaktır.
+Ödüller MEED dışındaki tokenlarla dağıtıldığında %5 nominal ücret uygulanır. Bu ücret Meeds hazinesine katkıda bulunarak ekosistemin sürdürülebilirliğinin korunmasında önemli bir rol oynuyor.
 
 ## 2.6. "Mintium" modeli - işe bağlılığı simgeleştirin
 
-Deeds, kullanıcılarını WoM'a dahil ederek yenilikçi bir mintium modeli aracılığıyla tazminat alıyor.
+Topluluklar, kullanıcılarını WoM'ye dahil ederek yenilikçi bir mintium modeliyle karşılığını alıyor.
 
-Deeds kullanıcıları tarafından kazanılan etkileşim puanları, Meeds Derneği tarafından hesaplanan küresel etkileşim endeksine katılmaktadır. Endeks tüm Deed'ler için aynı prensibi kullanmaktadır. Her ne kadar Deed bir eylemi diğerine tercih etmek için puan dağılımını değiştirebilse de, bu değişiklikler global endeks hesaplamasında dikkate alınmayacaktır.
+Hub kullanıcılarının kazandığı etkileşim puanları, Meeds Association tarafından hesaplanan küresel etkileşim endeksine katılıyor. Endeks tüm Hub'lar için aynı prensibi kullanır. Topluluk, bir eylemi diğerine tercih etmek için puan tahsisini değiştirebilse de, bu değişiklikler küresel endeks hesaplamasında dikkate alınmayacaktır.
 
-Her hafta belirli miktarda Meed, WoM'un küresel nişan basımına tahsis edilir. Katılımcı Deed'ler arasında haftalık olarak orantılı bir şekilde hesaplanır. Bazı Deed'ler türlerine bağlı olarak ek bir destek alır. Hafta boyunca Meed'lerini talep eden Deed'ler onları alırlar. Talep edilmeyen Meedler bir sonraki haftanın küresel dağıtım miktarına eklenir.
+Her hafta belirli miktarda Meed, WoM'un küresel nişan basımına tahsis edilir. Katılımcı Merkezler arasında haftalık olarak orantılı olarak hesaplanır. Bazı Merkezler, kullandıkları Tapu türüne bağlı olarak ek bir destek alır. Hafta boyunca Meed'lerini talep eden Merkezler bunları alır. Talep edilmeyen Meedler bir sonraki haftanın küresel dağıtım miktarına eklenir.
 
 Bir Deed'in etkileşim puanı _S_, etkileşimin, etkileşimde bulunan kullanıcı sayısının ve dağılımın bir fonksiyonudur:
 
@@ -94,19 +88,19 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Nerede :
 
-- $A$ = _Etkinlik_ - hafta boyunca Deed içinde kullanıcılar tarafından biriktirilen toplam eylem sayısı. (Her Deed seviyesinde, her eylem angajman puanlarına dönüştürülür ve bazı eylemler diğerlerinden daha fazla ağırlık kazanır. Dizin düzeyinde tüm eylemler doğrusallaştırılır).
+- $A$ = _Etkinlik_ - kullanıcıların Hub'da hafta boyunca gerçekleştirdiği toplam işlem sayısı. (Bir Hub'da her kullanıcı eylemi etkileşim noktalarına dönüştürülür; bazı eylemler diğerlerinden daha fazla ağırlık kazanır. Dizin düzeyinde tüm eylemler doğrusallaştırılır).
 - $U$ = _Engaged users_ - hafta boyunca en az bir eylemle puanlara katkıda bulunan kullanıcılar.
-- $E_d$ = _Deed'in katılım oranı_ - kullanıcı başına eylem ($A/U$)
+- $E_d$ = _Merkezin etkileşim oranı_ - kullanıcı başına işlemler ($A/U$)
 - $E_w$ = _WoM'daki tüm aktif Tapuların ortalama katılım oranı_.
-- $D_r$ = _Dağıtım oranı_ - eğer bir Deed önceki dönem için basılmış Meedleri aldıysa, kullanıcılarına dağıtılan Meedlerin yüzdesi. Dağıtım zaman içinde gecikirse % 100'ün üzerinde olabilir.
-- $D_s$ = _Dağıtım yayılımı_ - bir DeEd önceki dönem için basılmış Meed aldıysa, toplam kullanıcı havuzunda Meed alan kullanıcıların yüzdesi.
+- $D_r$ = _Dağıtım oranı_ - eğer bir Merkez önceki dönem için basılan Meed'leri aldıysa, kullanıcılarına dağıtılan Meed'lerin yüzdesi. Dağıtım zaman içinde gecikirse % 100'ün üzerinde olabilir.
+- $D_s$ = _Dağıtım dağılımı_ - eğer bir Merkez önceki dönem için basılan Meed'leri aldıysa, toplam kullanıcı havuzunda Meed alan kullanıcıların yüzdesi.
 - $M$ = 2.3'te tanımlandığı gibi Deed'in _Minting Gücü_
 
 
-Basılan Meed'leri Deed'ler arasında dağıtmak için kullanılan global etkileşim endeksi, tüm Deed'lerin o haftaki etkileşim puanlarının toplamıdır.
+Üretilen Meed'leri Merkezler arasında dağıtmak için kullanılan küresel katılım endeksi, Merkezlerin haftadaki tüm katılım puanlarının toplamıdır.
 
 
-Yukarıdaki formül basittir ve deed'leri desteklemek için tasarlanmıştır:
+Yukarıdaki formül basittir ve merkezleri tercih edecek şekilde tasarlanmıştır:
 
 - çok sayıda etkileşimli kullanıcı ile (etkileşim)
 - darphane gelirinin tamamını (dağıtım oranı) kullanıcılarıyla adil bir şekilde paylaşan (dağıtım yayılımı).
@@ -116,9 +110,9 @@ Buna ek olarak, güçlendiriciler :
 - büyüklüklerine bakılmaksızın en yüksek katılıma sahip kuruluşlar (WoM'a göre katılım oranı)
 - daha az deed
 
-> Meeds derneği, gerektiğinde - örneğin bazı özel kullanım durumları ortaya çıkarsa - formülü değiştirme hakkını saklı tutar. Dernek ayrıca formülü kendi çıkarları doğrultusunda kullanan herhangi bir Deed'i kara listeye alabilir.
+> Meeds derneği, gerektiğinde - örneğin bazı özel kullanım durumları ortaya çıkarsa - formülü değiştirme hakkını saklı tutar. Dernek aynı zamanda formülü kendi yararına kullanan herhangi bir Hub'ı da kara listeye alabilir.
 
-Deed'ler Meed'lerle ödüllendirildikçe ve bunları kullanıcılarına katılımları karşılığında ödül olarak yeniden dağıtmaya teşvik edildikçe, hem Deed'lerin hem de kullanıcılarının çıkarları aynı erdemli gelir paylaşımı döngüsünde hizalanır. Böylece WoM, işveren/çalışan ilişkisini bir ortaklık olarak yeniden şekillendiren yeni bir çalışma modeli sunmaktadır.
+Hub'lar Meed'lerle ödüllendirildikçe ve bunları kullanıcılarına katılımları karşılığında ödül olarak yeniden dağıtmaya teşvik edildikçe, hem toplulukların hem de kullanıcılarının çıkarları aynı verimli gelir paylaşımı döngüsünde hizalanıyor. Böylece WoM, işveren/çalışan ilişkisini bir ortaklık olarak yeniden şekillendiren yeni bir çalışma modeli sunmaktadır.
 
 "Mintium" modeli türünün ilk örneğidir - geleneksel freemium modelinden daha ileri gider, çünkü yalnızca hizmetlerin kullanımı ücretsiz olmakla kalmaz, aynı zamanda hem kuruluşlar hem de kullanıcıları bunları kullandıkları için ödüllendirilir.
 
@@ -138,7 +132,7 @@ Bir şehir, tüm Deed'leri basıldıktan sonra tamamlanmış sayılacaktır. Ard
 | 6: Kushor     | 10 000 000  | Eshmum + 64 ay   | 6 000 000  | 3 000 000          | 999 998   | 2            |
 | 7: Hammon     | 100 000 000 | Kushor + 128 ay  | 60 000 000 | 30 000 000         | 9 999 999 | 1            |
 
-Şehir, Deed'lerin bir araya gelerek bir topluluk oluşturmasının bir yoludur. Ve sonuç olarak, o toplulukla ilişkili belirli bir kimlik edinirler. Aynı zamanda kullanıcılarına ek değer sağlamanın bir yoludur - bir Deed'in kapasitesinin ötesine geçecek değer veya Deed'ler arasında işbirliği yoluyla yaratılan değer.
+Şehir, toplulukların bir araya gelip daha büyük bir topluluk yaratmasının bir yoludur. Ve sonuç olarak, o toplulukla ilişkili belirli bir kimlik edinirler. Aynı zamanda kullanıcılarına ek değer sağlamanın da bir yoludur; bir topluluğun yeteneklerinin ötesine geçen bir değer veya topluluklar arasındaki işbirliği yoluyla yaratılan değer.
 
 Her şehrin kendi yönetimi vardır ve şehrin Deed'lerinin sahiplerinin şehir konseyini seçebildiği, oy kullanabildiği ve kendi işletim kurallarını oluşturabildiği, yeni hizmetler ekleyebildiği ve şehirlerini istedikleri şekilde şekillendirebildiği ve böylece şehrin çekiciliğini ve ona bağlı Deed'lerin değerini artırabildiği kendi DAO'sunu işletir.
 
