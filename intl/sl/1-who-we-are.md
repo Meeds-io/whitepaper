@@ -1,14 +1,12 @@
 
-# 1. Kdo smo - Združenje Meeds
+# 1. About Us
 
-Združenje Meeds je neprofitna organizacija, ki jo je prvotno ustanovilo več skupnosti Odprtokodne Programske Opreme (OSS) s skupno vizijo svobodnega digitalnega sveta - decentraliziranega sveta, ki ne bi bil pod nadzorom peščice centraliziranih megakorporacij.
+Meeds is a collaborative effort led by diverse Open Source Software (OSS) communities, dedicated to creating a decentralized digital world that resists centralized corporate control and fosters a free and open environment.
 
-Združenje Meeds je registrirano v Ženevi kot neprofitno združenje v skladu s švicarsko zakonodajo.
+The legal entity behind Meeds is the _Meeds Association_, a non-profit organization incorporated under Swiss law in Geneva. It is responsible for regulating the issuance of the Meeds(MEED) token, an ERC20 token recognized as a utility token.
 
-Združenje ureja izdajanje valute Meeds, žetona ERC20, ki je priznan kot žeton uporabnosti.
+Functioning as a Decentralized Autonomous Organization (DAO), Meeds emphasizes on democratic governance, where token holders with governance rights participate in key decision making, such as annual board elections, ensuring transparency and community involvement in organizational changes.
 
-Za izgradnjo WoM in Meeds združenje uporablja platformo Ethereum in njen ekosistem, ki je na prijazen in stroškovno učinkovit način dostopen vsem uporabnikom.
+The Meeds project utilizes the Ethereum ecosystem to implement the World of Meeds (WoM) and the Meeds token. This approach prioritizes security, accessibility, user-friendliness, and cost-effectiveness, making it appealing to a broad user base.
 
-Združenje je strukturirano kot decentralizirana avtonomna organizacija (Decentralized Autonomous Organization - DAO), v kateri imetniki žetonov za upravljanje glasujejo o vseh pomembnih organizacijskih spremembah, kot so vsakoletne volitve upravnega odbora.
-
-Poleg upravljanja žetonov Meeds ima združenje v lasti tudi intelektualno lastnino (IP) programske opreme Meeds [github.com/meeds-io](https://github.com/meeds-io), ki je na voljo pod licenco LGPL in se distribuira brezplačno. Slednja vključuje aplikacijo denarnice Ethereum, ki jo lahko uporabniki uporabljajo za shranjevanje in transakcije s sredstvi Meeds (za več podrobnosti glejte poglavje 2.4). Združenje Meeds Association upravlja tudi večnamensko storitev gostovanja v oblaku, ki temelji na tej programski opremi.
+Meeds is an Open Source Software ([github.com/meeds-io](https://github.com/meeds-io)) operated in the cloud infrastructure by hosting partners of the Meeds Association.
