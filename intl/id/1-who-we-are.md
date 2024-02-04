@@ -1,12 +1,12 @@
 
 # 1. Tentang Kami
 
-Meeds is a collaborative effort led by diverse Open Source Software (OSS) communities, dedicated to creating a decentralized digital world that resists centralized corporate control and fosters a free and open environment.
+Meeds adalah upaya kolaboratif yang dipimpin oleh beragam komunitas Perangkat Lunak Sumber Terbuka (OSS), yang didedikasikan untuk menciptakan dunia digital terdesentralisasi yang menolak kontrol perusahaan terpusat dan mendorong lingkungan yang bebas dan terbuka.
 
-The legal entity behind Meeds is the _Meeds Association_, a non-profit organization incorporated under Swiss law in Geneva. It is responsible for regulating the issuance of the Meeds(MEED) token, an ERC20 token recognized as a utility token.
+Badan hukum di balik Meeds adalah Meeds Association, sebuah organisasi nirlaba yang didirikan berdasarkan hukum Swiss di Geneva. Ini bertanggung jawab untuk mengatur penerbitan token Meeds (MEED), token ERC 20 yang diakui sebagai token utilitas.
 
-Functioning as a Decentralized Autonomous Organization (DAO), Meeds emphasizes on democratic governance, where token holders with governance rights participate in key decision making, such as annual board elections, ensuring transparency and community involvement in organizational changes.
+Berfungsi sebagai Organisasi Otonom Terdesentralisasi (DAO), Meeds menekankan pada tata kelola yang demokratis, di mana pemegang token dengan hak tata kelola berpartisipasi dalam pengambilan keputusan utama, seperti pemilihan dewan tahunan, memastikan transparansi, dan keterlibatan masyarakat dalam perubahan organisasi.
 
-The Meeds project utilizes the Ethereum ecosystem to implement the World of Meeds (WoM) and the Meeds token. This approach prioritizes security, accessibility, user-friendliness, and cost-effectiveness, making it appealing to a broad user base.
+Proyek Meeds memanfaatkan ekosistem Ethereum untuk mengimplementasikan World of Meeds (Women) dan token Needs. Pendekatan ini memprioritaskan keamanan, aksesibilitas, keramahan pengguna, dan efektivitas biaya, menjadikannya menarik bagi basis pengguna yang luas.
 
-Meeds is an Open Source Software ([github.com/meeds-io](https://github.com/meeds-io)) operated in the cloud infrastructure by hosting partners of the Meeds Association.
+Meeds adalah Perangkat Lunak Sumber Terbuka (github.com/meeds-io) dioperasikan dalam infrastruktur cloud oleh mitra hosting dari Asosiasi Meeds.
