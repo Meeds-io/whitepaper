@@ -1,17 +1,19 @@
 
-# 2. 资产 NFT - 工作元宇宙中的组织
+# 2. Deeds - The Properties of the WoM
 
-## 2.1. NFT – 契约定义
+## 2.1. Deed NFTs
 
-不可替代代幣 (NFT) 是代表商品的獨特代幣。 在 WoM 中，契約被用作所有權的名稱。 每份契約都賦予其所有者訪問多項服務的權利——例如，訪問由 Meeds 軟件提供支持的數字辦公室以及鑄造 Meeds 的權利。
+In the digital realm, Non-Fungible Tokens (NFTs) serve a similar purpose to deeds in the physical world. Like a deed that confirms ownership of tangible property, NFTs establish indisputable ownership of digital assets. This ownership is securely recorded on a blockchain, ensuring that each asset is unique and non-replicable.
 
-WoM 歡迎各種組織——DAO、傳統公司、協會、智庫、合作夥伴、劇院公司、項目組、學校等。 契據代表他們在 WoM 中的數字存在。
+Within the WoM, a Deed is conceptualized as an NFT, representing the foundational unit of ownership. Holding a Deed empowers its owner to manage a Community Hub and makes them eligible for receiving Mintium rewards, a form of recognition and incentive within the WoM ecosystem (further details in section 2.6).
+
+The WoM is designed to be a diverse and inclusive platform. It welcomes a wide array of organizations, from DAOs, traditional businesses, and associations to think tanks, theater companies, project groups, and educational institutions. In this digital landscape, a Deed symbolizes the organization's digital presence and footprint in WoM, functioning as a bridge between their real-world operations and their digital endeavors.
 
 ## 2.2. 契約供應
 
 WoM 最終將提供有限數量的契據。 每個 Deed 都包含預定義的最大用戶數，並提供 Meeds 獎勵能力（Minting Power）。 此處和下文中的“用戶”一詞指代任何類型的僱員、工人、自由職業者、志願者等。
 
-有四種類型的 Deeds，每種在用戶數量、城市投票權（見 2.7）或 Meeds 鑄幣權方面提供不同的能力，最稀有的是最強大的：
+There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or minting power, the rarest being the most powerful :
 
 | **契約類型** | **最大用戶數** | **造幣權** | **稀缺性** | **城市投票權** |
 | -------- | --------- | ------- | ------- | --------- |
@@ -24,69 +26,61 @@ WoM 最終將提供有限數量的契據。 每個 Deed 都包含預定義的最
 
 Deed 賦予其所有者使用、出租或出售的權利。
 
-- 使用——Deed 的所有者可以直接為他們的組織使用契約，為其用戶提供服務。
-- 租金 - Deed 的所有者也可以將契約出租給另一個組織以獲得被動收入。
-- 出售 - Deed 可以在二級市場上出售，例如 [OpenSea](https://opensea.io)。
+- USE – The owner can use the Deed to run a hub for his own organization.
+- RENT - The owner can also rent the Deed to another organization and earn passive income.
+- SELL - The owner can sell it on a secondary NFT marketplace such as [OpenSea](https://opensea.io).
 
-作為契約的積極持有人或承租人，該組織通過下文描述的創新“mintium”模型（第 2.6 部分）獲得 Meeds 獎勵。
+Being an active holder or renter of a Deed, the organization is entitled to MEED rewards according to the “mintium” model described below (see 2.6).
 
-## 2.4. 契約服務、參與/獎勵引擎
+## 2.4. Community Hubs
 
-在競爭日益激烈的市場中，為了吸引和留住人才並最大化他們的投入，組織需要激勵他們的用戶，而不僅僅是簡單的補償。 WoM 提供了一個創新的框架，通過標記工作參與來做到這一點。
+In today's competitive market, organizations seek to attract and retain top talent not only through compensation but also by enhancing work engagement. The WoM addresses this challenge with a unique, tokenized reward system embodied in Community Hubs.
 
-每個 Deed 的持有人或承租人都可以為其用戶提供工具和服務，他們可以獲得可以根據契約的優先級進行微調的參與度。 根據 Deed 的設定預算，點數會定期轉換為 Meeds（並且 - 對於 DAOs - 可能是另一種代幣）。 以這種方式，用戶參與對組織重要的活動會得到獎勵。
+Within these Hubs, community leaders can drive members engagement by offering a transparent menu of incentives for work items. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
 
-首先，Meeds 協會提供的以下免費服務可用於獎勵參與：
+Community Hubs offer a suite of tools and features designed to boost and manage contributor engagement:
 
-- **遊戲化引擎** – WoM 中的自動操作具有權重，可以通過可定制的參與程序根據契約的優先級進行微調。
-- **挑戰** – 可以設置可定制的挑戰來代表成就。 挑戰由一個人預設，可以由另一個人填寫和宣布。 在可定制的參與計劃中，挑戰具有重要意義。
-- **可定制的參與計劃** - 組織可以根據其業務目標和優先事項創建自己的參與計劃。 程序與系統內的自動操作相關聯並手動設置挑戰。 每個項目都有一套 Meeds 預算。 根據該計劃的預算，每個用戶通過自動或宣布的每個參與計劃中的行動定期獲得的積分將轉換為 Meeds。
-- **榮譽** - 用戶可以互相授予榮譽，作為感謝和認可的象徵。 由於可分發的榮譽是有限的（預設的周期性限制，例如每週 3 個），因此它們是稀有且有價值的。 與行動一樣，榮譽也能加分。 通過這種方式，員工有權獎勵他們的同事。
-- **插入獎勵引擎的<0>協作**工具 - 工作區、異步通信、任務管理工具和註釋 - 使人們能夠在項目上協同工作。
-- **錢包** – 為用戶提供了一個安全的以太坊技術錢包來存儲他們的 Meeds。 或者，對於高級用戶，可以使用 Metamask 錢包。
-- **商店** – 可以將 Meeds 與契約持有人或承租人或 Meeds 生態系統提供的津貼進行交換的商店。
-- **分析** – 分析和跟踪契約中的參與。
-- **連接器**，插入獎勵引擎 - 用戶通過在另一個軟件中的操作獲得參與點 - 例如在 GitHub 中提交代碼。
+- **Actions**: Incentivized tasks guide contributors, aligning their efforts with organizational objectives and boosting motivation and direction.
+- **Gamification**: Leaderboards and badges transform work into a fun, competitive experience, enhancing engagement and enjoyment.
+- **Engagement Programs**: Customized programs with specific targets and rewards clarify organizational goals and fairly recognize contributor achievements.
+- **Kudos**: Immediate peer recognition boosts morale and fosters a culture of appreciation, enhancing team cohesion and motivation.
+- **Spaces**: Organized sub-groups and projects streamline communication and collaboration, increasing collective productivity.
+- **Wallet**: The Wallet app securely stores MEED rewards, representing user contributions, and enables easy transactions both within the Hub and on the broader network.
+- **Perks**: A variety of rewards, from gift cards to NFTs, incentivize ongoing engagement and foster loyalty within the organization’s ecosystem.
+- **Tasks**: Streamlined project and task management tools boost productivity by simplifying workflows and tracking progress.
+- **Notes**: A handy notebook app for documenting essential information like onboarding guides promotes knowledge sharing and organizational self-sufficiency.
+- **Branding**: Customizable Hub appearance attracts new contributors and strengthens their connection to the organization’s identity.
+- **Analytics**: Insightful analytics into community engagement enable leaders to identify effective strategies and make informed decisions for optimization.
 
-上述一些工具和服務已經是去中心化的，而另一些則不是。 最終目標是以去中心化的方式提供所有服務，我們將隨著底層技術的發展逐步做到這一點。
 
-可以通過 API 將新服務插入獎勵引擎。 例子數不勝數，幾乎可以包括任何軟件或服務：
+**Starting a Hub** Initiating a Hub is most seamless via meeds.io, which offers access to a cloud platform managed by the Meeds Association. This platform allows for quick setup and is maintained by the non-profit entity that stewards the WoM. However, the WoM caters to decentralization. As the Meeds software is open source and freely distributed, organizations have the option to self-host a Hub server and connect to the WoM network, granting them more control and customization in their Hub’s setup and management.
 
-- CRM 軟件——銷售人員會因處理機會而獲得參與度。
-- 會計軟件——會計師會因為記賬而獲得參與度。
-- 打卡終端——工廠工人可以獲得工廠工作時間的積分。
-- 等
+**Capturing Work Signals** Hubs can integrate with various platforms like GitHub, Twitter, and Discord and are extendable via API to connect with services such as CRM software, accounting software, and clocking terminals. This allows for diverse professional contributions to be recognized and rewarded. All connectors undergo a whitelisting process by the Meeds Association to guarantee integrity and functionality.
 
-此外，通過連接器產生的參與參與組織的全球參與評分，這是 Meeds 鑄幣分佈的一個因素，如下所述。 為此，連接器需要被 Meeds 協會 列入白名單。 該協會審查連接器，批准其算法並獲得其對 Meeds 的所有權。 然後它成為協會提供的免費服務的一部分，並包含在全球參與指數中。 任何其他 Deed 都可以為其開發人員使用相同的連接器和相同的獎勵算法。
+**Enriching the Perks Store** Organizations can tailor the store with custom perks, including training courses and gym memberships, creating a self-reinforcing cycle of rewards and engagement. This not only incentivizes contributors but also fosters a deeper connection with the organization’s ecosystem.
 
-Deed 的持有人或承租人可以通過自己的福利來豐富其商店，連接到在線福利優惠等。 可能性又是無窮無盡的：
+**Engagement and Rewards** Active participation in the Hub contributes to an organization’s global engagement score. This metric reflects the effectiveness of engagement strategies, considering factors like user activity levels and the equitable distribution of work and rewards. This publicly auditable score, entitles Hubs to a distribution of MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
 
-- 訓練課程
-- 健身房會員資格
-- 度假套餐
-- 與組織領導共進午餐
-- 實體辦公空間
-- 等
+Looking ahead, Community Hubs in the WoM ecosystem are set to become central to community life, integrating internal communications, real-time interactions, governance, and various productivity tools. These enhancements will ensure that the Hubs remain interconnected with the best tools already employed by organizations. They stand as a powerful testament to Meeds' commitment to fostering a vibrant, engaged community.
 
-商店通過使用 Meeds 發揮作用，以便將 Meeds 部分返回給 Deed。
 
-## 2.5. 奖励 – Meeds 和其他代币
+## 2.5. Rewarding Model
 
-WoM 將通過對數字工作工具進行遊戲化以及將與工作參與度相關的積分和 Meeds 歸因於用戶參與度來標記用戶參與度。 根據每個用戶的參與程度和每個 Deed 的參與計劃，插入參與和獎勵引擎屬性的服務指向每個用戶。 實際上，每個 Deed 都可以微調為每種類型的活動提供的點數。 因此，在 GitHub 中推送一些代碼對於 IT 商店來說可能值 10 分，而數字機構可能只為 GitHub 推送賦予 5 分，但會為轉發提供 10 分。
+In the WoM, user engagement across various work activities is incentivized and gamified, tailored to each community Hub's unique programs. Users earn points reflecting their active participation, with each community determining its own rules for point allocation.
 
-定期，獎勵引擎根據預算和其他分配規則將參與點轉換為 Meeds，並最終通過他們的錢包獎勵用戶。 Deed 不需要分發 Meeds，並且可以使用參與系統來啟用其他形式的補償計劃。 但是，分發 Meeds 將提高其鑄幣能力。
+For example, an IT company might award 10 points for coding on GitHub, whereas a digital agency could place higher value on social media engagement, like retweets, with similar points.
 
-此外，Deed 不一定需要獲取 Meeds 才能分發它們並推動其參與計劃，因為它將從“mintium”模型中獲取 Meeds，如下所述。
+Regular distributions of rewards are based on the points accrued in each Hub. Typically, these are given in MEED tokens, delivered directly to users' wallets. While MEED tokens are the standard form of reward, Hubs have the flexibility to offer different types of compensation.
 
-除了 Meeds 之外，還可以基於相同的參與機制分發其他代幣（例如 DAO 自己的代幣）。 在這種情況下，分配將對 Meeds 協會收取 5% 的交易費（以 DAO 代幣計）。
+When rewards are distributed in tokens other than MEED, a nominal fee of 5% is applied. This fee contributes to the Meeds treasury, playing a crucial role in maintaining the sustainability of the ecosystem.
 
 ## 2.6. “mintium” 模型——代币化工作参与
 
-通過讓用戶參與 WoM，Deeds 通過創新的 mintium 模型獲得補償。
+透過讓使用者參與 WoM，社群可以透過創新的 mintium 模式獲得補償。
 
-Deed 用戶獲得的參與點參與由 Meeds 協會計算的全球參與指數。 該索引對所有 Deeds 使用相同的原則。 即使 Deed 可以更改點數分配以促進一項行動優於另一項行動，但這些更改不會在全局指數計算中考慮在內。
+Hubs 用戶獲得的參與度積分參與由 Meeds Association 計算的全球參與度指數。 此指數對所有集線器採用相同的原則。 儘管社群可以更改積分分配以促進一項行動優於另一項行動，但這些變更不會考慮到全域指數計算。
 
-每週，一定數量的 Meeds 被分配給 WoM 的全球參與鑄造。 它在參與的 Deeds 中每週按比例計算。 某些 Deeds 會根據其類型獲得額外的提升。 在一周內領取他們的 Meeds 的 Deeds，接收他們。 無人認領的 Meeds 將添加到下週的全球分發數量中。
+每週，一定數量的 Meeds 被分配給 WoM 的全球參與鑄造。 它在參與的中心之間按比例每週計算一次。 一些中心根據他們使用的契約類型獲得額外的提升。 在一周內領取 Meeds 的中心將會收到它們。 無人認領的 Meeds 將添加到下週的全球分發數量中。
 
 契约的参与度分数 _S_ 是参与度、参与用户数和分布的函数：
 
@@ -94,19 +88,19 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 在哪裡 ：
 
-- $A$ = _活動_ - 用戶在一周內在契約中累積的操作總數。 （在每個 Deed 的級別，每個動作都被轉換為參與點數，一些動作比其他動作更重要。 在索引級別，所有操作都被線性化）。
+- $A$ = _活動_ - 一週內使用者在 Hub 內累積的操作總數。 (On a Hub, each user action is converted into engagement points, some actions weighting more than others. 在索引級別，所有操作都被線性化）。
 - $U$ = _參與用戶_ - 在一周內通過至少一項操作貢獻積分的用戶。
-- $E_d$ = _行為的參與率_ - 每個用戶的操作（$A/U$）
-- $E_w$ = WoM 中所有活動契約的_平均參與率_。
-- $D_r$ = _配送率_ - 如果 Deed 在前一時期收到鑄造的 Meeds，則分配給其用戶的 Meeds 的百分比。 如果分發時間延遲，則 % 可以高於 100。
-- $D_s$ = _分佈價差_ - 如果 Deed 在前一時期收到了鑄造的 Meeds，則收到 Meeds 的用戶在總用戶群中的百分比。
+- $E_d$ = _中心的參與率_ - 每位使用者的操作 ($A/U$)
+- $E_w$ = WoM 中所有活躍中心的_平均參與率_。
+- $D_r$ = _分配率_ - 如果集線器收到前一時期鑄造的 Meeds，則分配給其用戶的 Meeds 的百分比。 如果分發時間延遲，則 % 可以高於 100。
+- $D_s$ = _分發分佈_ - 如果集線器在前一時期收到了鑄造的 Meeds，則收到 Meeds 的用戶佔總用戶池的百分比。
 - $M$ = 2.3 中定義的契約的_鑄幣權_
 
 
-用於在 Deeds 中分配鑄造的 Meeds 的全球參與指數是本週所有 Deeds 參與分數的總和。
+用於在中心之間分配鑄造 Meed 的全球參與度指數是本週所有中心參與分數的總和。
 
 
-上面的公式很簡單，旨在支持 Deeds ：
+上面的公式很簡單，旨在支援集線器：
 
 - 有很多參與的用戶（參與）
 - 誰與他們的用戶公平地分享全部鑄幣收入（分配率）（分配價差）。
@@ -116,9 +110,9 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 - 參與度最高的組織，無論其規模如何（與 WoM 相關的參與率)
 - 稀缺行為
 
-> 如果需要，Meeds 協會保留更改公式的權利——例如，如果出現某些特定的用例。 該協會還可以將任何劫持該公式以獲得其獨特利益的 Deed 列入黑名單。
+> 如果需要，Meeds 協會保留更改公式的權利——例如，如果出現某些特定的用例。 該協會還可以將任何劫持該配方以獲取其獨特利益的中心列入黑名單。
 
-由於 Deeds 獲得了 Meeds 獎勵，並被激勵將它們作為對用戶參與的獎勵重新分配——Deeds 及其用戶的利益在同一個良性收入共享循環中保持一致。 因此，WoM 提供了一種新的工作模式，將雇主/僱員關係重塑為夥伴關係。
+由於中心會獲得 Meeds 獎勵，並被激勵將其重新分配為用戶參與的獎勵 - 社群及其用戶的利益在同一個良性收入共享循環中保持一致。 因此，WoM 提供了一種新的工作模式，將雇主/僱員關係重塑為夥伴關係。
 
 “mintium”模式是同類中的第一個——它比傳統的免費增值模式走得更遠，因為不僅服務是免費使用的，而且組織和他們的用戶都會因使用它們而獲得獎勵。
 
@@ -138,9 +132,9 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 | 6: Kushor   | 10 000 000  | Eshmum + 64 個月   | 6 000 000  | 3 000 000  | 999 998   | 2       |
 | 7: Hammon   | 100 000 000 | Kushor  + 128 個月 | 60 000 000 | 30 000 000 | 9 999 999 | 1       |
 
-城市是讓 Deeds 聚集在一起並創建社區的一種方式。 因此，獲得與該社區相關的特定身份。 這也是一種為其用戶提供額外價值的方式——價值將超出一個契約的能力或通過 Deeds 之間的合作創造的價值。
+城市是社區聚集在一起並創造更大社區的一種方式。 因此，獲得與該社區相關的特定身份。 它也是為使用者提供額外價值的一種方式——超越社群能力的價值或透過社群之間的合作所創造的價值。
 
-每個城市都有自己的治理並運營自己的 DAO，城市的 Deeds 所有者可以在其中選舉他們的市議會，投票並製定自己的運營規則，添加新服務並以他們想要的方式塑造他們的城市，從而增加城市的 吸引力和附加的 Deeds 的價值。
+每個城市都有自己的治理並運作自己的DAO，城市的契約所有者可以選舉自己的市議會、投票並製定自己的營運規則、添加新服務並按照自己想要的方式塑造城市，從而提高城市的價值吸引力及其所附行為的價值。
 
 例如，他們可以添加他們城市的數字表示、與他們城市相關的物理對應物（例如物理合作空間中的會議室）、添加由 Meeds 提供支持的食品服務、假期服務等......
 
