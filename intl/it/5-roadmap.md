@@ -22,7 +22,7 @@ Ovviamente, i primi adottanti avrebbero notevoli vantaggi rispetto ai tardivi.
 
 In particolare, la WoM premia l'investimento a lungo termine nel versetto, ossia il riscatto della proprietà (Deeds). Il proprietario originale dell'Atto viene compensato attraverso il conio di impegni (uso attivo), attraverso il reddito passivo (affitto) e riceve un 1% a vita su qualsiasi transazione di vendita dell'Atto (a ogni cambio di proprietà, il riscattatore originale riceve una commissione sulla transazione).
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. Otterrebbero anche i primi diritti di voto e contribuirebbero a plasmare il WoM.
+Credendo nel progetto, partecipando ai pool di liquidità, punteggiando i gettoni MEED, riscattandoli contro Deeds...primi investitori di tutte le dimensioni avrebbero coniato gettoni aggiuntivi. Otterrebbero anche i primi diritti di voto e contribuirebbero a plasmare il WoM.
 
 Le organizzazioni che acquistano, ma soprattutto utilizzano i Deeds per coinvolgere e premiare i loro dipendenti verrebbero compensate con Meeds coniati. Quanto più leale sarà il loro gioco, tanto più otterranno. Gli adottanti più precoci sarebbero associati alle prime città storiche e sarebbero identificati come i costruttori in seguito.
 
@@ -38,17 +38,17 @@ Il diagramma seguente rappresenta un esempio della strategia d'investimento di M
 
 ## 5.3. Il lancio
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+The official launch of the WoM was **May 1st, 2022** – the International Workers Day, celebrated in many countries.
 
-At that time, the Meed token already exists. È possibile acquistarlo e i pool di liquidità sono aperti per la partecipazione, sui network Polygon e Ethereum.
+A quel tempo, il token MEED esisteva già. È possibile acquistarlo e i pool di liquidità sono aperti per la partecipazione, sui network Polygon e Ethereum.
 
 Tre membri dell'associazione Meeds utilizzano il sistema internamente per coinvolgere e premiare i loro utenti e migliorare il software Meeds.
 
 L'app degli investitori è disponibile su Ethereum Mainnet. Al momento del lancio, comprende la posta in gioco, le ricompense di liquidità, l'accumulo di punti e il rimborso di azioni.
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. È possibile effettuare il login con Metamask.
+La comunità dei costruttori è attiva, aperta a chiunque voglia partecipare, testare e partecipare. È possibile effettuare il login con Metamask.
 
-This paper was published on the launch day. Dopo il lancio, il gettone sarà distribuito a molte persone della comunità crittografica.
+Questo documento è stato inizialmente pubblicato il giorno del lancio. Dopo il lancio, il gettone sarà distribuito a molte persone della comunità crittografica.
 
 ## 5.4. La comunità dei costruttori
 
