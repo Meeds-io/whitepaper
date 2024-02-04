@@ -35,9 +35,9 @@ Tijekom razdoblja kovanja, **30% iskovanih Meeds dodjeljuje se udruzi Meeds**.
 
 Bez članstva, bilo koja organizacija može sudjelovati u stvaranju novog konektora i za to biti nagrađena – prvo putem udruge Meeds koja kupuje konektor, a zatim kovanjem preko ovog konektora.
 
-The association operates a it's own community hub named the Builders's Hub that welcomes WoM enthusiasts, who want to contribute to the creation of the WoM. The association will sponsor the community out of its budget, compensating the engagement of community members.
+The association operates its own community hub named the _Meeds Builders Hub_ that welcomes enthusiasts, who want to contribute to the creation of the WoM. The association sponsors the community out of its budget, compensating the engagement of community members.
 
-Thus, the builders' hub will function as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. Udruga ulaže Meeds kako bi otkupila djelo za svoju zajednicu. Thus, the Builder's Hub will also benefit in the engagement minting like any other Hub backed by a Deed.
+Thus, the builders' hub functions as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. Udruga ulaže Meeds kako bi otkupila djelo za svoju zajednicu. Thus, the Builder's Hub also benefits in the engagement minting like any other Hub backed by a Deed.
 
 Nakon završetka razdoblja kovanja, udrugu će održavati:
 
@@ -59,7 +59,7 @@ Potonje bi doprinijelo dugoročnoj održivosti udruge - kao što je gore spomenu
 
 **Ulog / dugoročna investicija** Kako bi se potaknulo dugoročno ulaganje, uloženi Meeds se nagrađuju. Kad se ulože potrebe, uhoda dobiva nekoliko božićnih žetona. Novo iskovani Meedovi se distribuiraju ulagačima proporcionalno njihovim xMeeds posjedima. U praksi, iskovani Meeds efektivno se dodaju fondovima xMeeds pametnog ugovora i distribuiraju xMeeds nositelju kada povuku ulog.
 
-By staking Meeds, investors can also redeem Deeds (and then participate in minting through engagement), hence increasing the token demand. Svaki uloženi Meeds (xMeeds) svom vlasniku daje određeni broj bodova dnevno. Što je duže stečeno razdoblje, veći je broj bodova dobiven po xMeedsu. Svaki Deed se zatim otkupljuje u zamjenu za određeni broj bodova.
+By staking Meeds, investors can also redeem Deed NFTs (and then participate in minting through engagement), hence increasing the token demand. Svaki uloženi Meeds (xMeeds) svom vlasniku daje određeni broj bodova dnevno. Što je duže stečeno razdoblje, veći je broj bodova dobiven po xMeedsu. Svaki Deed se zatim otkupljuje u zamjenu za određeni broj bodova.
 
 Bodovi se izračunavaju prema donjoj formuli:
 
@@ -100,8 +100,8 @@ Doista, bilo koji rad (bilo digitalni ili ne) može se igrificirati, a svaki ang
 
 Osim novčanika i trgovine u kojoj mogu kupiti pogodnosti za Meeds, planiramo upoznati svakog korisnika s nekoliko proizvoda za krajnje korisnike koji se pokreću protokolima decentraliziranog financiranja, kao što su:
 
-- The ability to stake Meeds tokens and get yields (generate revenues)
-- The ability to use Meeds tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
+- The ability to stake MEED tokens and get yields (generate revenues)
+- The ability to use MEED tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
 - Digitalna kartica koja se može dodati i koristiti putem Apple Paya, Google Paya ili bilo kojeg bankomata. Potonje se može osigurati kroz partnerstvo s VISA-om i iskoristit će kreditnu liniju u USDC-u, koju osigurava uloženi Meeds. Ovu karticu također mogu koristiti organizacije za financiranje novčanika zaposlenika kako bi upravljale beneficijama zaposlenika kao što su restorani, prijevoz i bilo koje vrste troškova.
 
 Dakle, ne samo da će mnogi novi korisnici otkriti svijet blockchaina, već će otkriti i svijet bez banaka.
