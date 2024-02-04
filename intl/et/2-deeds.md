@@ -61,18 +61,18 @@ Kogukonna jaoturid pakuvad tööriistade ja funktsioonide komplekti, mis on lood
 
 ** kaasamine ja preemiad** Aktiivne osalemine keskuses aitab kaasa organisatsiooni globaalsele kaasamise skoorile. See mõõdik peegeldab kaasamisstrateegiate tõhusust, võttes arvesse selliseid tegureid nagu kasutajate aktiivsuse tase ning töö ja hüvede õiglane jaotus. See avalikult auditeeritav skoor annab jaoturitele õiguse jaotada protokollist vermitud VAJADUSMÄRGID, mis on nende kaasamisstrateegiate tõhususe mõõdupuuks.
 
-Looking ahead, Community Hubs in the WoM ecosystem are set to become central to community life, integrating internal communications, real-time interactions, governance, and various productivity tools. These enhancements will ensure that the Hubs remain interconnected with the best tools already employed by organizations. They stand as a powerful testament to Meeds' commitment to fostering a vibrant, engaged community.
+Tulevikku vaadates on Ussiökosüsteemi kogukonnakeskused muutunud kogukonna elus keskseks, integreerides sisekommunikatsiooni, reaalajas suhtlemist, juhtimist ja erinevaid tootlikkuse tööriistu. Need täiustused tagavad, et jaoturid on endiselt ühendatud parimate tööriistadega, mida organisatsioonid juba kasutavad. Need on võimas tunnistus vajaduste pühendumusest elujõulise ja kaasatud kogukonna edendamisele.
 
 
-## 2.5. Rewarding Model
+## 2.5. Rahuldust Mudel
 
-In the WoM, user engagement across various work activities is incentivized and gamified, tailored to each community Hub's unique programs. Users earn points reflecting their active participation, with each community determining its own rules for point allocation.
+WoM-is stimuleeritakse ja mängitakse kasutajate seotust erinevate tööalaste tegevustega, mis on kohandatud iga kogukonnakeskuse ainulaadsete programmide jaoks. Kasutajad teenivad punkte, mis kajastavad nende aktiivset osalemist, kusjuures iga kogukond määrab punktide jaotamiseks oma reeglid.
 
-For example, an IT company might award 10 points for coding on GitHub, whereas a digital agency could place higher value on social media engagement, like retweets, with similar points.
+Näiteks võib IT-ettevõte anda GitHubis kodeerimise eest 10 punkti, samas kui digitaalne agentuur võiks sarnaste punktidega sotsiaalmeedia kaasamisele, näiteks retweetidele, suuremat väärtust anda.
 
-Regular distributions of rewards are based on the points accrued in each Hub. Typically, these are given in MEED tokens, delivered directly to users' wallets. While MEED tokens are the standard form of reward, Hubs have the flexibility to offer different types of compensation.
+Regulaarsed preemiate jaotused põhinevad igas jaoturis kogunenud punktidel. Tavaliselt antakse need MEED-märkidena, mis toimetatakse otse kasutajate rahakotti. Kui MEED-märgid on tasu standardvorm, siis jaoturitel on paindlikkus pakkuda erinevat tüüpi hüvitisi.
 
-When rewards are distributed in tokens other than MEED, a nominal fee of 5% is applied. This fee contributes to the Meeds treasury, playing a crucial role in maintaining the sustainability of the ecosystem.
+Kui preemiaid jagatakse muudes žetoonides kui MEED, rakendatakse nominaalset tasu 5%. See tasu aitab kaasa Meedsi riigikassale, mängides olulist rolli ökosüsteemi jätkusuutlikkuse säilitamisel.
 
 ## 2.6. "Mintiumi" mudel - tööga tegelemise sümboliseerimine
 
@@ -88,7 +88,7 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Kus :
 
-- $A$ = _Tegevus_ – keskuse kasutajate poolt nädala jooksul kogunenud toimingute koguarv. (On a Hub, each user action is converted into engagement points, some actions weighting more than others. Indeksi tasandil on kõik tegevused lineariseeritud).
+- $A$ = _Tegevus_ – keskuse kasutajate poolt nädala jooksul kogunenud toimingute koguarv. (Jaoturis teisendatakse iga kasutaja toiming kaasamispunktideks, mõned toimingud kaaluvad rohkem kui teised. Indeksi tasandil on kõik tegevused lineariseeritud).
 - $U$ = _Engaged users_ - kasutajad, kes panustasid nädala jooksul vähemalt ühe tegevusega punktide kogumisse.
 - $E_d$ = _Jaoturi kaasamismäär_ – toimingud kasutaja kohta ($A/U$)
 - $E_w$ = kõigi WoM-i aktiivsete jaoturite _keskmine kaasamismäär_.
