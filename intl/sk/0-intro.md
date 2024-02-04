@@ -4,7 +4,7 @@
 
 Dnešný trh práce nie je dostatočne efektívny kvôli vysokým transakčným nákladoms[^1][^2][^3] a časté konflikty záujmov medzi zamestnávateľom a zamestnancom.
 
-Work Metaverse (WoM) navrhuje novú paradigmu, ktorá by znížila transakčné náklady a znovuobjavila pracovný pomer, čím by preklenula priepasť medzi tradičnými korporáciami a DAO.
+WoM (World of Meeds) navrhuje novú paradigmu, ktorá by znížila transakčné náklady a znovu objavila zamestnanecký vzťah, čím by preklenula priepasť medzi tradičnými korporáciami a DAO.
 
 WoM to robí tak, že zavádza digitálne identity pre zamestnávateľa aj zamestnanca a ponúka inovatívny systém odmeňovania za angažovanosť, ktorý by zosúladil ich záujmy.
 
@@ -33,7 +33,7 @@ V nadväznosti na práce R. Coasea[^5], väčšina ekonómov spája pojem podnik
 
 Prvé DAO splošťujú hierarchie a otvárajú vlastníctvo. WoM sleduje túto logiku tým, že vzťah medzi zamestnávateľom a zamestnancom nie potláča, ale znovu objavuje. Zavádza transparentnú, objektívnu a decentralizovanú paradigmu odmeňovania, ktorá by trvalo zosúladila záujmy zamestnávateľa a zamestnancov.
 
-Work Metaverse napokon preklenuje priepasť medzi korporáciami a DAOs. Na jednej strane uvádza tradičné korporácie do decentralizovaného sveta prostredníctvom ľahko aplikovateľnej paradigmy odmeňovania za angažovanosť, ktorá dopĺňa ich systémy odmeňovania. Na druhej strane navrhuje udržateľné spôsoby fungovania a vytvárania hodnoty pre DAO. V konečnom dôsledku by WoM mohol byť jednou z prvých mainstreamových aplikácií, ktoré demokratizujú používanie blockchainu pre každú spoločnosť a každého zamestnanca - vrátane tých, ktorí nie sú digitálni.
+Napokon, WoM premosťuje priepasť medzi korporáciami a DAO. Na jednej strane uvádza tradičné korporácie do decentralizovaného sveta prostredníctvom ľahko aplikovateľnej paradigmy odmeňovania za angažovanosť, ktorá dopĺňa ich systémy odmeňovania. Na druhej strane navrhuje udržateľné spôsoby fungovania a vytvárania hodnoty pre DAO. V konečnom dôsledku by WoM mohol byť jednou z prvých mainstreamových aplikácií, ktoré demokratizujú používanie blockchainu pre každú spoločnosť a každého zamestnanca - vrátane tých, ktorí nie sú digitálni.
 
 Ako každý decentralizovaný podnik, aj návrh WoM získava exponenciálne na hodnote, keď ho používa viac ľudí. Z tohto dôvodu zakladatelia veľmi dbali na to, aby podporili dlhodobý záujem a zabránili monopolizácii výhod WoM, či už krátkodobých alebo dlhodobých. Je to otvorená paradigma, ktorá sa ešte len bude budovať a je otvorená aktívnej tvorivej účasti všetkých.
 
