@@ -22,7 +22,7 @@ WoMには、 **MEED** 独自の通貨があります。 別の通貨に変換し
 
 特に、WoM は詩の長期的な投資に報います - それは財産 (Deeds) の償還です。 Deed の元の所有者は、エンゲージメント ミンティング (積極的な使用) や受動的収入 (賃貸) を通じて補償を受け、Deed の販売取引に対して生涯にわたって 1% を受け取ります (所有権が変更されるたびに、元の償還者は、 取引）。
 
-By believing in the project, participating in the liquidity pools, staking Meeds, redeeming them against Deeds...early investors of all sizes would mint additional tokens. 彼らはまた、最も初期の議決権を取得し、WoMを形作るのを助けるでしょう。
+プロジェクトを信じることによって、流動性プールに参加し、MEEDトークンをステーキングし、Deeds...あらゆる規模の初期投資家は追加トークンを鋳造するでしょう。 彼らはまた、最も初期の議決権を取得し、WoMを形作るのを助けるでしょう。
 
 Deeds を取得するが、特に Deeds を使用して従業員を雇用し、報酬を与える組織は、発行された Meeds で補償されます。 彼らが公平にプレーすればするほど、彼らはより多くを得ることができます。 先に採用した人は、最初の歴史的な都市に関連付けられ、後に建設者として認識されることになるのだろう。
 
@@ -38,17 +38,17 @@ Deeds を取得するが、特に Deeds を使用して従業員を雇用し、�
 
 ## 5.3. 起動
 
-The official launch date is set as for **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+WoMの正式な立ち上げは、多くの国で祝われた国際労働者デーである **2022年5月1日** でした。
 
-At that time, the Meed token already exists. Polygon および Ethereum ネットワーク上で、それを取得することが可能であり、流動性プールが参加可能です。
+当時、MEED トークンは既に存在していました。 Polygon および Ethereum ネットワーク上で、それを取得することが可能であり、流動性プールが参加可能です。
 
 Meeds 協会の 3 つのメンバーは、このシステムを社内で使用して、ユーザーに関与して報酬を与え、Meeds ソフトウェアを改善しています。
 
 インベスター アプリは Ethereum Mainnet で利用できます。 開始時には、ステーキング、流動性報酬、ポイントの蓄積、Deeds の償還が含まれます。
 
-The Builders community is up and running on Meeds software, open to anyone who would want to join, test and participate. Metamaskでログインできます。
+Builders communityは、参加、テスト、参加を希望するすべての人に開放されています。 Metamaskでログインできます。
 
-This paper was published on the launch day. 打ち上げ後、トークンは暗号コミュニティ全体の多くの人々にエアドロップされます。
+この論文は当初打ち上げ日に掲載されました。 打ち上げ後、トークンは暗号コミュニティ全体の多くの人々にエアドロップされます。
 
 ## 5.4. ビルダーズコミュニティ
 
