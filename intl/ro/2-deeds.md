@@ -1,17 +1,19 @@
 
-# 2. Face NFT - lucrează Organizații Metaverse
+# 2. Acțiuni - Proprietățile Lemnului
 
-## 2.1. NFT – fapte definite
+## 2.1. NFT-uri de fapt
 
-Un token nefungibil (NFT) este un jeton unic, care reprezintă un bun. În Lemn, o faptă este folosită ca un titlu de proprietar. Fiecare proprietate conferă proprietarului său dreptul de a accesa mai multe servicii - de exemplu, accesul la un birou digital, alimentat de software-ul Meeds și dreptul de a minți Meeds.
+În domeniul digital, Token-urile nefondate au un scop similar cu cel al faptelor din lumea fizică. Ca și un act care confirmă proprietatea asupra bunurilor corporale, operațiunile de finanțare prin instrumente financiare instituie o proprietate incontestabilă asupra activelor digitale. Acest drept de proprietate este înregistrat în siguranță pe un blockchain, asigurându-se că fiecare activ este unic și nereplicabil.
 
-WoM salută toate tipurile de organizații - DAO, corporații tradiționale, asociații, grupuri de reflecție, parteneriate, societăți de teatru, grupuri de proiect, școli etc. Dealul reprezintă existența lor digitală în WoM.
+În cadrul Lemnului, un Deed este conceptualizat ca NFT, reprezentând unitatea fundamentală de proprietate. Deţinerea unui acord împuterniceşte proprietarul acestuia să gestioneze o Platformă Comunitară şi să le facă eligibile pentru primirea recompenselor de la Minţiu, o formă de recunoaștere și de stimulare în cadrul ecosistemului LMM (detalii suplimentare în secțiunea 2.6).
+
+Lemnul este proiectat pentru a fi o platformă diversificată și incluzivă. Acesta salută o gamă largă de organizații, de la DAO, întreprinderi tradiționale și asociații la grupuri de reflecție, societăți de teatru, grupuri de proiect și instituții de învățământ. În acest peisaj digital, un Deed simbolizează prezența digitală și amprenta organizației în WoM, funcționarea ca punte de legătură între operațiunile din lumea reală și demersurile lor digitale.
 
 ## 2.2. Furnizare de facturi
 
 Lemnul va furniza, în cele din urmă, o cantitate limitată de fapte. Fiecare faptă include un număr maxim predefinit de utilizatori și oferă o capacitate de recompensă de Meeds (putere de intemperi). Termenul „utilizator” de aici și de mai jos desemnează orice tip de angajat, lucrător independent, voluntar etc.
 
-Există patru tipuri de Deeds, fiecare oferind capacități diferite în ceea ce privește numărul de utilizatori, drepturile de vot într-un oraș (a se vedea 2.7) sau puterea de batere a Meeds, cel mai rar fiind cel mai puternic :
+Există patru tipuri de creații, fiecare oferind capacități diferite în ceea ce privește numărul de utilizatori, dreptul de vot într-un oraș (a se vedea punctul 2. ) sau puterea de mentă, rarele fiind cele mai puternice:
 
 | **Tip de Deed** | **Utilizatori Maximi** | **Putere de batere a monedei** | **Scarsitate** | **Drepturile de vot ale orașului** |
 | --------------- | ---------------------- | ------------------------------ | -------------- | ---------------------------------- |
@@ -24,69 +26,61 @@ Există patru tipuri de Deeds, fiecare oferind capacități diferite în ceea ce
 
 Un Deed conferă proprietarului său dreptul de a-l UTILIZA, de a-l ÎNCHIRIE sau de a-l VINDE.
 
-- UTILIZARE - Proprietarii Deed-ului pot utiliza Deed-ul în mod direct pentru organizația lor, furnizând servicii utilizatorilor săi.
-- Închiriere - Proprietarii Deed-ului pot, de asemenea, să închirieze Deed-ul unei alte organizații pentru a obține un venit pasiv.
-- VÂNZARE - Un Deed poate fi vândut pe o piață secundară, cum ar fi [OpenSea](https://opensea.io).
+- USE - Proprietarul poate folosi Deed pentru a rula un nod pentru propria organizație.
+- REDUCERE - Proprietarul poate închiria, de asemenea, Dorința unei alte organizații și poate câștiga venituri pasive.
+- SELL - Proprietarul îl poate vinde pe o piață NFT secundară, cum ar fi [OpenSea](https://opensea.io).
 
-Fiind un deținător sau un chiriaș activ al unui Deed, organizația este recompensată cu Meeds, printr-un model inovator de "mintium" descris mai jos (partea 2.6).
+Fiind deținător activ sau închiriat al unui MEED, organizația are dreptul la recompensele MEED conform modelului "mintium" descris mai jos (vezi 2.6).
 
-## 2.4. Servicii de fapte, motor de angajare/recompense
+## 2.4. Platforme comunitare
 
-Pe o piață din ce în ce mai competitivă, pentru a atrage și a păstra talentele și pentru a-și maximiza contribuțiile, organizațiile trebuie să își stimuleze utilizatorii dincolo de simpla compensație. WoM oferă un cadru inovator pentru a face acest lucru prin tokenizarea implicării în muncă.
+În cadrul pieței competitive actuale, organizațiile încearcă să atragă și să păstreze talentele de vârf nu numai prin compensații, ci și prin consolidarea implicării profesionale. WoM abordează această provocare cu un sistem de recompensă unic și tokenizat încorporat în centrele Comunității.
 
-Fiecare deținător de proprietate sau renter poate furniza instrumente și servicii utilizatorilor săi, care câștigă puncte de angajament care pot fi ajustate la prioritățile proiectului. Periodic, punctele sunt convertite în Meeds (și - pentru DAOs - potențial un alt token), pe baza bugetului stabilit de Deed. În acest mod, se recompensează implicarea utilizatorilor în activități care contează pentru organizație.
+În cadrul acestor platforme, liderii comunității pot stimula membrii să se implice oferindu-le un meniu transparent de stimulente pentru articole de muncă. Participanții câștigă puncte de angajament pentru eforturile lor, care sunt convertite periodic în jetoane MEED sau un echivalent vamal, în conformitate cu un buget predeterminat.
 
-Pentru început, următoarele servicii gratuite oferite de asociația Meeds pot fi folosite pentru a recompensa angajamentul:
+Platformele comunitare oferă o serie de instrumente și caracteristici concepute pentru a stimula și a gestiona implicarea contribuitorilor:
 
-- **Motorul de Gamificare** - acțiunile automate din cadrul WoM au o pondere în puncte, care poate fi ajustată în funcție de prioritățile din Deed prin intermediul unor programe de angajament personalizabile.
-- **Provocări** – provocări personalizabile pot fi create pentru a reprezenta realizări. Provocările sunt presetate de o persoană și pot fi completate și anunțate ca atare de alta. Provocările au o pondere în puncte, în cadrul programelor de angajament personalizabile.
-- **Programe personalizate de implicare** - organizațiile își pot crea propriile programe de angajare care să corespundă obiectivelor și priorităților lor de afaceri. Programele sunt asociate acțiunilor automate din cadrul sistemului și setează manual provocările. Fiecare program are un buget stabilit pentru Meeds. Punctele periodice câștigate de fiecare utilizator prin automatizare sau acțiuni anunțate în fiecare program de angajare sunt convertite în Meeds, pe baza bugetului acelui program.
-- **Kudos** - Kudos poate fi atribuit de către utilizatori unul altuia, ca un semn de mulțumire și un simbol de recunoaștere. Deoarece kudo-urile disponibile pentru distribuire sunt limitate (limită periodică prestabilită, de exemplu, 3 pe săptămână), acestea sunt rare și valoroase. Asemenea acțiunilor, kudos poartă puncte. Astfel, angajaţii sunt împuterniciţi să îşi recompenseze colegii.
-- **Instrumentele de colaborare**, conectate la motorul de recompensare - spații de lucru, comunicare asincronă, un instrument de gestionare a sarcinilor și note - permit oamenilor să lucreze împreună la proiecte.
-- **Portofel** - utilizatorii au la dispoziție un portofel sigur pentru tehnologia Ethereum pentru a-și stoca Meeds. Alternativ, pentru utilizatorii avansați, un portofel Metamask poate fi utilizat.
-- **Magazin** - un magazin în care Meeds pot fi schimbate contra unor avantaje oferite de deținătorul sau locatarul actului sau de ecosistemul Meeds.
-- **Analize** - pentru a analiza și urmări implicarea în cadrul Deed-ului.
-- **Conectori** conectați la motorul de recompensă - utilizatorii primesc puncte de angajament prin acțiuni în alt software - de exemplu, pentru comiterea de cod în GitHub.
+- **Acțiuni**: Sarcinile integrate ghidează contribuitorii, aliniindu-și eforturile cu obiectivele organizaționale și stimulând motivația și direcția.
+- **Gamification**: Leaderboard-urile și insignele transformă munca într-o experiență distractivă, competitivă, consolidând angajamentul și bucuria.
+- **Programele de Implicare**: Programe personalizate cu ținte specifice și recompense clarifică obiectivele organizaționale și recunosc corect realizările contributorilor.
+- **Kudos**: Recunoașterea imediată inter pares stimulează moralul și promovează o cultură a aprecierii, îmbunătățind coeziunea și motivarea echipei.
+- **Spații**: subgrupuri și proiecte organizate eficientizează comunicarea și colaborarea, crescând productivitatea colectivă.
+- **Wallet**: Aplicația Wallet stochează în siguranță premii MEED, reprezentând contribuțiile utilizatorilor, și permite tranzacții ușoare, atât în cadrul platformei, cât și în cadrul unei rețele mai largi.
+- **Perks**: O varietate de recompense, de la carduri cadou la NFT, stimulează angajamentul continuu și încurajează loialitatea în cadrul ecosistemului organizației.
+- **Sarcinile**: Simplificarea proiectului și a instrumentelor de gestionare a sarcinilor sporește productivitatea prin simplificarea fluxurilor de lucru și urmărirea progresului.
+- **Notele**: O aplicație utilă pentru documentarea informațiilor esențiale precum ghidurile de înregistrare promovează schimbul de cunoștințe și autonomia organizațională.
+- **Branding**: Customizable Hub appearance atrage contributori noi și consolidează conexiunea lor la identitatea organizației.
+- **Analytics**: Analiza impresionanta in implicarea comunitatii permite liderilor sa identifice strategii eficiente si sa ia decizii informate pentru optimizare.
 
-Unele dintre instrumentele şi serviciile menţionate anterior sunt deja descentralizate, altele nu. Scopul final este să furnizăm toate serviciile într-un mod descentralizat, ceea ce vom face treptat pe măsură ce tehnologia de bază evoluează.
 
-Serviciile noi pot fi conectate la motorul de recompensă prin API-uri. Exemple sunt nenumărate și pot include practic orice software sau serviciu:
+**Începerea unui Hub** Inițierea unui Hub este fără probleme prin carne. o, care oferă acces la o platformă cloud gestionată de Asociația Meeds. Această platformă permite configurarea rapidă și este menținută de entitatea non-profit care administrează WoM. Cu toate acestea, WoM admite descentralizarea. Cum software-ul Meeds este open source și distribuit liber, organizațiile au opțiunea de a găzdui un server Hub și de a se conecta la rețeaua WoM, acordarea unui control și a unei personalizări mai mari în ceea ce privește organizarea și gestionarea platformelor respective.
 
-- Software CRM - vânzătorii ar primi puncte de angajament pentru că lucrează la oportunități.
-- Software de contabilitate - contabilii ar primi puncte de angajament pentru că țin evidența contabilă.
-- Terminal de pontaj - muncitorul din fabrică poate obține puncte pentru timpul de lucru în fabrică.
-- Etc
+**Capturarea semnalelor de lucru** Hub-uri se pot integra cu diferite platforme precum GitHub, Twitter, și Discord sunt extinse prin API pentru a se conecta cu servicii precum software-ul CRM, software-ul de contabilitate și terminalele de ceas. Acest lucru permite recunoașterea și recompensarea diverselor contribuții profesionale. Toți conectorii sunt supuși unui proces de whitelisting de către Asociația Meeds pentru a garanta integritatea și funcționalitatea.
 
-Mai mult, angajamentul produs prin intermediul conectorului participă la scorul global de angajament al organizației, care este un factor al distribuției de monetărie Meeds, descris mai jos. Pentru a face acest lucru, conectorul trebuie să fie whitelistat de către Asociaţia Cărbunilor. Asociaţia revizuieşte conectorul, aprobă algoritmul său şi îşi achiziţionează dreptul de proprietate asupra Meeds. Acesta devine apoi parte a serviciilor gratuite furnizate de asociație și este inclus în indicele global de implicare. Orice alt Deed poate folosi același conector și același algoritm de recompensă pentru dezvoltatorii săi.
+**Îmbogățirea Perks Store** Organizațiile pot adapta magazinul cu avantaje personalizate, includerea unor cursuri de formare și a unor membri de gimnaziu, prin crearea unui ciclu de recompense și angajament care să se sprijine pe cont propriu. Acest lucru nu numai că stimulează contribuitorii, ci stimulează și o conexiune mai profundă cu ecosistemul organizației.
 
-Deținătorul sau renter-ul Deed-ului își poate îmbogăți magazinul cu propriile avantaje, se poate conecta la o ofertă online de avantaje etc. Încă o dată, posibilitățile sunt nesfârșite:
+**Angajarea și Premiile** Participarea activă în cadrul platformei contribuie la scorul global al unei organizații. Această măsurătoare reflectă eficacitatea strategiilor de angajare, luând în considerare factori precum nivelul de activitate al utilizatorilor și distribuția echitabilă a muncii și a recompenselor. Acest scor auditoriu public dă dreptul platformelor Hubs la o distribuție a MEED bătută din protocol, care să servească drept măsură a eficacității strategiilor lor de implicare.
 
-- Cursuri de formare
-- Abonamente la săli de sport
-- Tichete cadou de vacanță
-- Prânz cu un lider din organizație
-- Spațiu fizic de birouri
-- Etc
+Privind în viitor, platformele comunitare din ecosistemul WoM vor deveni un element central al vieţii comunităţii, integrarea comunicării interne, a interacțiunilor în timp real, a guvernanței și a diverselor instrumente de productivitate. Aceste îmbunătățiri vor asigura faptul că platformele speculative rămân interconectate cu cele mai bune instrumente deja utilizate de organizații. Ei reprezintă o dovadă puternică a angajamentului Meed-ului faţă de încurajarea unei comunităţi vibrante şi angajate.
 
-Magazinul funcționează prin utilizarea Meed-urilor, astfel încât Meed-urile sunt parțial returnate către Deed.
 
-## 2.5. Recompense - Meeds and other tokens
+## 2.5. Model de recompensă
 
-WoM va tokeniza implicarea utilizatorilor, prin gamifierea instrumentelor de lucru digitale și atribuirea de puncte și de Meeds în raport cu implicarea de lucru. Servicii conectate la punctele de atribut motor de angajament și recompensă pentru fiecare utilizator, în funcție de nivelul lor de angajament și în conformitate cu programele de implicare ale fiecărui proiect. Într-adevăr, fiecare Deed poate ajusta numărul de puncte date pentru fiecare tip de activitate. Astfel, împingerea unui cod în GitHub poate valora 10 puncte pentru un magazin IT, în timp ce o agenție digitală poate atribui doar 5 puncte pentru GitHub pushes, dar ar oferi 10 puncte pentru retweets.
+În cadrul programului WoM, implicarea utilizatorilor în diverse activități de lucru este stimulată și jucată, adaptată programelor unice ale fiecărei comunități. Utilizatorii câştigă puncte reflectând participarea lor activă, fiecare comunitate determinându-şi propriile reguli de alocare a punctelor.
 
-Periodic, motorul de recompensă transformă punctele de angajament în Meeds în funcție de bugete și alte reguli de distribuție și, în cele din urmă, recompensează utilizatorii cu ajutorul portofelelor lor. Deed-ul nu este necesar pentru a distribui Meeds și poate folosi sistemul de angajare pentru a activa o altă formă de program de compensare. Cu toate acestea, distribuţia de seminţe de seminţe îşi va îmbunătăţi capacitatea de broscuţă.
+De exemplu, o companie IT ar putea acorda 10 puncte pentru codificare pe GitHub, În timp ce o agenție digitală ar putea să acorde o valoare mai mare implicării platformelor de comunicare socială, cum ar fi retușurile, cu puncte similare.
 
-Mai mult, Deed nu trebuie neapărat să achiziționeze Meeds pentru a le distribui și pentru a-și alimenta programele de angajare, deoarece va obține Meeds din modelul "mintium", descris mai jos.
+Distribuirile regulate de recompense se se bazează pe punctele acumulate în fiecare Hub. De obicei, acestea sunt oferite în tokeni MEED, livrați direct în portofelele utilizatorilor. În timp ce jetoanele MEED sunt forma standard de recompensă, platformele de comunicare au flexibilitatea de a oferi diferite tipuri de despăgubiri.
 
-Pe lângă Meeds, va fi posibilă și distribuirea altor jetoane (de exemplu, tokenurile OAD) bazate pe același mecanism de implicare. În acest caz, distribuirea va fi supusă unei taxe de tranzacție de 5% (în DAO token) pentru Asociația de Coniacee.
+Atunci când recompensele sunt distribuite în jetoane altele decât MEED, se aplică o taxă nominală de 5%. Această taxă contribuie la trezoreria semințelor, jucând un rol crucial în menținerea sustenabilității ecosistemului.
 
 ## 2.6. Modelul „mintium” – tokenize work engagement
 
-Angajându-și utilizatorii în WoM, Deeds este compensat printr-un model inovator de mintium.
+Prin implicarea utilizatorilor lor în WoM, comunitățile primesc compensații prin intermediul unui model inovator de mințiu.
 
-Punctele de implicare, câștigate de utilizatorii Deeds, participă la indicele global de implicare, calculat de Asociația Cadrelor de Cărințe. Indicele folosește același principiu pentru toate design-urile. Deși fapta poate modifica alocarea punctelor pentru a promova o acțiune în detrimentul altuia, aceste modificări nu vor fi luate în considerare în calculul global al indicilor.
+Puncte de implicare, câștigate de utilizatorii platformelor, participă la indicele global de implicare, calculat de Asociația de Măsări. Indicele folosește același principiu pentru toate platformele. Deși comunitatea poate schimba alocarea punctelor pentru a promova o acțiune în detrimentul celeilalte, aceste modificări nu vor fi luate în considerare în calculul global al indicilor.
 
-În fiecare săptămână, o anumită cantitate de Meeds este alocată pentru o balustradă angajată la nivel global a WoM. Este calculat săptămânal, pro-rata, printre acţiunile participante. Unele fapte primesc un impuls suplimentar în funcție de tipul lor. Actele care pretind că vor primi trupele lor în cursul săptămânii. Semințele nesolicitate sunt adăugate la valoarea distribuției globale a săptămânii următoare.
+În fiecare săptămână, o anumită cantitate de Meeds este alocată pentru o balustradă angajată la nivel global a WoM. Este calculat săptămânal, pro-rata, printre platformele participante. Unele noduri primesc un impuls suplimentar în funcție de tipul de Deed pe care îl folosesc. Platformele care pretind că vor primi trupele lor în cursul săptămânii. Semințele nesolicitate sunt adăugate la valoarea distribuției globale a săptămânii următoare.
 
 Scorul de implicare _S_ al unei Acțiuni este o funcție de implicare, de numărul de utilizatori implicați și de distribuție :
 
@@ -94,19 +88,19 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Unde :
 
-- $A$ = _Activitate_ - numărul total de acțiuni acumulate de către utilizatorii din cadrul acțiunii de-a lungul săptămânii. (La nivelul fiecărui eveniment, fiecare acțiune este convertită în puncte de angajament, unele acțiuni ponderând mai mult decât altele. La nivelul indicilor, toate acțiunile sunt liniare).
+- $A$ = _Activitatea_ - numărul total de acțiuni acumulate de utilizatori în cadrul platformei în cursul săptămânii. (Pe un Hub, fiecare acțiune de utilizator este convertită în puncte de angajament, unele acțiuni ponderând mai mult decât altele. La nivelul indicilor, toate acțiunile sunt liniare).
 - $U$ = _Utilizatori implicați_ - utilizatori care au contribuit la puncte pe parcursul săptămânii, prin cel puțin o acțiune.
-- $E_d$ = _Rata de angajare a deed_- acțiuni per utilizator ($A/U$)
-- $E_w$ = _Rata medie de implicare_ a tuturor Deeds active din WoM.
-- $D_r$ = _Rata de distribuţie_ - dacă o faptă a primit seminţe cu mentă pentru perioada precedentă, procentul de seminţe care a fost distribuit utilizatorilor săi. Procentul poate fi mai mare de 100 dacă distribuţia este întârziată în timp.
-- $D_s$ = _Răspândirea distribuției_ - în cazul în care un Deed a primit Meeds bătute pentru perioada precedentă, procentul de utilizatori care au primit Meeds din totalul utilizatorilor.
+- $E_d$ = _Rata de implicare a hub_ - acțiuni per utilizator ($A/U$)
+- $E_w$ = _Rata medie de angajare_ a tuturor platformelor active din WoM.
+- $D_r$ = _Rata de distribuție_ - dacă un Hub a primit seminţe mentate pentru perioada precedentă, procentul de seminţe care a fost distribuit utilizatorilor săi. Procentul poate fi mai mare de 100 dacă distribuţia este întârziată în timp.
+- $D_s$ =  _Distribution spread_ - dacă un Hub a primit seminţe mentate pentru perioada precedentă, procentul de utilizatori care au primit seminţe din numărul total de utilizatori.
 - $M$ = _Puterea de batere_ a Deed-ului, astfel cum este definită la punctul 2.3
 
 
-Indicele global de implicare utilizat pentru a distribui Meed-urile bătute între Deeds este suma scorurilor de implicare ale tuturor Deeds-urilor pentru săptămâna respectivă.
+Indicele global de implicare folosit pentru a distribui Meeds pe hubs este suma scorurilor de angajare ale Hubs pentru această săptămână.
 
 
-Formula de mai sus este simplă și este concepută pentru a favoriza deeds :
+Formula de mai sus este simplă și concepută pentru a favoriza nodurile principale:
 
 - cu o mulțime de utilizatori angajați (angajare)
 - care împart în mod echitabil între utilizatorii lor (rata de distribuire) întregul venit din minting (rata de distribuire).
@@ -116,9 +110,9 @@ Formula de mai sus este simplă și este concepută pentru a favoriza deeds :
 - organizațiile cu cea mai mare implicare, indiferent de mărimea lor (rata de implicare în raport cu WoM)
 - deeds de spargere
 
-> Asociaţia de seminţe îşi rezervă dreptul de a modifica formula, dacă este necesar, – în cazul în care apar cazuri de utilizare specifică. Asociaţia poate de asemenea să enumere pe lista neagră orice acţiune care deturnează formula în beneficiul său unic.
+> Asociaţia de seminţe îşi rezervă dreptul de a modifica formula, dacă este necesar, – în cazul în care apar cazuri de utilizare specifică. Asociaţia poate de asemenea să enumere pe lista neagră orice Hub care deturnează formula în beneficiul său unic.
 
-Pe măsură ce faptele sunt răsplătite cu corzi și stimulate să le redistribuie ca recompense utilizatorilor lor în raport cu angajamentul lor – atât interesul faptelor, cât și cel al utilizatorilor lor sunt aliniate la același ciclu virtuos de partajare a veniturilor. Astfel, WoM oferă un nou model de lucru, care remodelează relația angajator/angajat ca parteneriat.
+Pe măsură ce hub-urile sunt răsplătite cu seminţe şi stimulate să le redistribuie ca recompense utilizatorilor lor în raport cu angajamentul lor – atât interesul comunităţilor, cât şi al utilizatorilor lor sunt aliniate la acelaşi ciclu virtuos de împărţire a veniturilor. Astfel, WoM oferă un nou model de lucru, care remodelează relația angajator/angajat ca parteneriat.
 
 Modelul "mintium" este primul de acest fel - merge mai departe decât cel tradițional freemium, deoarece nu numai că serviciile sunt gratuite, dar atât organizațiile, cât și utilizatorii lor sunt recompensați pentru utilizarea lor.
 
@@ -138,9 +132,9 @@ Un oraş va fi considerat complet, de îndată ce toate acţiunile sale vor fi b
 | 6: Kushor   | 10 000 000  | Eshmum + 64 luni   | 6 000 000  | 3 000 000     | 999 998    | 2            |
 | 7: Hammon   | 100 000 000 | Kushor + 128 luni  | 60 000 000 | 30 000 000    | 9 999 999  | 1            |
 
-Un oraș este o modalitate pentru ca faptele să se unească și să creeze o comunitate. În consecință, dobândiți o anumită identitate, asociată cu acea comunitate. Aceasta este, de asemenea, o modalitate de a oferi valoare suplimentară utilizatorilor săi – valoare care ar depăși capacitățile sau valoarea unui Deed, creată prin cooperarea dintre Deeds.
+Un oraș este o modalitate prin care comunitățile se reunesc și creează o comunitate mai mare. În consecință, dobândiți o anumită identitate, asociată cu acea comunitate. Aceasta este, de asemenea, o modalitate de a oferi valoare suplimentară utilizatorilor săi – valoare care ar depăși capacitățile sau valoarea unei comunități create prin cooperarea între comunități.
 
-Fiecare oraș are propria guvernanță și își operează propriul DAO, unde proprietarii de Deeds din oraș pot alege consiliul municipal, pot vota și stabili propriile reguli de funcționare, pot adăuga noi servicii și își pot modela orașul în modul în care doresc și astfel încât să crească atractivitatea orașului și valoarea Deeds-urilor atașate acestuia.
+Fiecare oraş are propriul său guvern şi operează propriul DAO, unde patronii de afaceri ai oraşului îşi pot alege consiliul urban, votul şi stabilirea propriilor reguli de funcţionare; să adauge noi servicii și să își modeleze orașul în modul pe care îl doresc, astfel încât să sporească atractivitatea orașului și valoarea faptelor atașate acestuia.
 
 De exemplu, acestea ar putea adăuga o reprezentare digitală a orașului lor, omologii fizici asociați orașului (de exemplu, camere în spații fizice de coactivitate), adaugă serviciile alimentare alimentate cu semințe etc...
 
