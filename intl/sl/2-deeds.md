@@ -1,13 +1,13 @@
 
-# 2. Deeds - The Properties of the WoM
+# 2. Dejanja-lastnosti ženske
 
-## 2.1. Deed NFTs
+## 2.1. Deed NFT
 
-In the digital realm, Non-Fungible Tokens (NFTs) serve a similar purpose to deeds in the physical world. Like a deed that confirms ownership of tangible property, NFTs establish indisputable ownership of digital assets. This ownership is securely recorded on a blockchain, ensuring that each asset is unique and non-replicable.
+V digitalnem svetu imajo nezamenljivi žetoni (NFT) podoben namen kot dejanja v fizičnem svetu. Tako kot listina, ki potrjuje lastništvo materialne lastnine, tudi NFT vzpostavljajo nesporno lastništvo digitalnih sredstev. To lastništvo je varno zabeleženo v verigi blokov, kar zagotavlja, da je vsako sredstvo edinstveno in ga ni mogoče ponoviti.
 
-Within the WoM, a Deed is conceptualized as an NFT, representing the foundational unit of ownership. Holding a Deed empowers its owner to manage a Community Hub and makes them eligible for receiving Mintium rewards, a form of recognition and incentive within the WoM ecosystem (further details in section 2.6).
+V vom je listina konceptualizirana kot NFT, ki predstavlja temeljno enoto lastništva. Če ima lastnik listino, lahko upravlja središče skupnosti in je upravičen do prejemanja nagrad Mintium, ki so oblika priznanja in spodbude v ekosistemu svetovne skupnosti (več podrobnosti v oddelku 2.6).
 
-The WoM is designed to be a diverse and inclusive platform. It welcomes a wide array of organizations, from DAOs, traditional businesses, and associations to think tanks, theater companies, project groups, and educational institutions. In this digital landscape, a Deed symbolizes the organization's digital presence and footprint in WoM, functioning as a bridge between their real-world operations and their digital endeavors.
+Vom je zasnovan kot raznolika in vključujoča platforma. Pozdravlja široko paleto organizacij, od Dao, tradicionalnih podjetij in združenj do raziskovalnih centrov, gledaliških družb, projektnih skupin in izobraževalnih ustanov. V tej digitalni pokrajini dejanje simbolizira digitalno prisotnost in odtis organizacije v vom, ki deluje kot most med njihovimi operacijami v resničnem svetu in njihovimi digitalnimi prizadevanji.
 
 ## 2.2. Zagotavljanje Deeds
 
