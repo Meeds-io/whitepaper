@@ -1,13 +1,13 @@
 
-# 2. Deeds - The Properties of the WoM
+# 2. การกระทำ-คุณสมบัติของผู้หญิง
 
-## 2.1. Deed NFTs
+## 2.1. มูลนิธิ
 
-In the digital realm, Non-Fungible Tokens (NFTs) serve a similar purpose to deeds in the physical world. Like a deed that confirms ownership of tangible property, NFTs establish indisputable ownership of digital assets. This ownership is securely recorded on a blockchain, ensuring that each asset is unique and non-replicable.
+ในดินแดนดิจิทัล, สัญญาณที่ไม่ก่อตัวขึ้น(เอ็นเอฟทีเอส) ให้บริการวัตถุประสงค์คล้ายกับการกระทำในโลกทางกายภาพ. ยืนยันความเป็นเจ้าของทรัพย์สินที่มีตัวตน, เอ็นเอฟทีเอสสร้างความเป็นเจ้าของที่เถียงไม่ได้ กรรมสิทธิ์นี้ได้รับการบันทึกอย่างปลอดภัยบนบล็อกเชนเพื่อให้มั่นใจว่าสินทรัพย์แต่ละชิ้นมีเอกลักษณ์และไม่สามารถจำลองแบบได้
 
-Within the WoM, a Deed is conceptualized as an NFT, representing the foundational unit of ownership. Holding a Deed empowers its owner to manage a Community Hub and makes them eligible for receiving Mintium rewards, a form of recognition and incentive within the WoM ecosystem (further details in section 2.6).
+ในครรภ์โฉนดเป็นแนวคิดที่เป็นเอ็นเอฟซึ่งเป็นตัวแทนของหน่วยรากฐานของการเป็นเจ้าของ. รางวัลขั้นต่ำรูปแบบของการรับรู้และแรงจูงใจภายในระบบนิเวศหญิง(รายละเอียดเพิ่มเติม
 
-The WoM is designed to be a diverse and inclusive platform. It welcomes a wide array of organizations, from DAOs, traditional businesses, and associations to think tanks, theater companies, project groups, and educational institutions. In this digital landscape, a Deed symbolizes the organization's digital presence and footprint in WoM, functioning as a bridge between their real-world operations and their digital endeavors.
+หนอนถูกออกแบบมาเพื่อเป็นแพลตฟอร์มที่หลากหลายและรวม รกิจแบบดั้งเดิมและสมาคมที่จะคิดว่ารถถังบริษัทโรงละครกลุ่มโครงการและสถาบันการศึ ในภูมิทัศน์ดิจิตอลนี้การกระทำที่เป็นสัญลักษณ์ขององค์กรการแสดงตนดิจิตอลและรอยเท้าใ
 
 ## 2.2. Deeds จัดหาแทนสิ่งดี
 
@@ -26,61 +26,61 @@ There are four types of Deeds, each providing different capabilities in terms of
 
 เอกสารสิทธิ์ให้เจ้าของมีสิทธิ์ในการใช้งาน ให้เช่า หรือขาย
 
-- USE – The owner can use the Deed to run a hub for his own organization.
-- RENT - The owner can also rent the Deed to another organization and earn passive income.
-- SELL - The owner can sell it on a secondary NFT marketplace such as [OpenSea](https://opensea.io).
+- ใช้-เจ้าของสามารถใช้โฉนดเพื่อเรียกใช้ฮับสำหรับองค์กรของเขาเอง
+- เช่า-เจ้าของยังสามารถเช่าโฉนดให้กับองค์กรอื่นและได้รับรายได้เรื่อยๆ
+- ขาย-เจ้าของสามารถขายได้ในตลาดรองเช่น[โอเพนซี](https://opensea.io)
 
-Being an active holder or renter of a Deed, the organization is entitled to MEED rewards according to the “mintium” model described below (see 2.6).
+น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส
 
-## 2.4. Community Hubs
+## 2.4. ฮับชุมชน
 
-In today's competitive market, organizations seek to attract and retain top talent not only through compensation but also by enhancing work engagement. The WoM addresses this challenge with a unique, tokenized reward system embodied in Community Hubs.
+ในตลาดการแข่งขันในปัจจุบันองค์กรพยายามที่จะดึงดูดและรักษาความสามารถด้านบนไม่ ผู้หญิงที่อยู่ในความท้าทายนี้ด้วยที่ไม่ซ้ำกัน, ระบบรางวัลโทเค็นตัวเป็นตนในศูนย์กลางชุมชน.
 
-Within these Hubs, community leaders can drive members engagement by offering a transparent menu of incentives for work items. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
+Withinผลักดันการมีส่วนร่วมของสมาชิกโดยนำเสนอเมนูโปร่งใสของแรงจูงใจสำหรับรายการ น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส
 
-Community Hubs offer a suite of tools and features designed to boost and manage contributor engagement:
+ศูนย์กลางชุมชนมีชุดเครื่องมือและคุณลักษณะที่ออกแบบมาเพื่อเพิ่มและจัดการการมีส่วนร่ว:
 
-- **Actions**: Incentivized tasks guide contributors, aligning their efforts with organizational objectives and boosting motivation and direction.
-- **Gamification**: Leaderboards and badges transform work into a fun, competitive experience, enhancing engagement and enjoyment.
-- **Engagement Programs**: Customized programs with specific targets and rewards clarify organizational goals and fairly recognize contributor achievements.
-- **Kudos**: Immediate peer recognition boosts morale and fosters a culture of appreciation, enhancing team cohesion and motivation.
-- **Spaces**: Organized sub-groups and projects streamline communication and collaboration, increasing collective productivity.
-- **Wallet**: The Wallet app securely stores MEED rewards, representing user contributions, and enables easy transactions both within the Hub and on the broader network.
-- **Perks**: A variety of rewards, from gift cards to NFTs, incentivize ongoing engagement and foster loyalty within the organization’s ecosystem.
-- **Tasks**: Streamlined project and task management tools boost productivity by simplifying workflows and tracking progress.
-- **Notes**: A handy notebook app for documenting essential information like onboarding guides promotes knowledge sharing and organizational self-sufficiency.
-- **Branding**: Customizable Hub appearance attracts new contributors and strengthens their connection to the organization’s identity.
-- **Analytics**: Insightful analytics into community engagement enable leaders to identify effective strategies and make informed decisions for optimization.
-
-
-**Starting a Hub** Initiating a Hub is most seamless via meeds.io, which offers access to a cloud platform managed by the Meeds Association. This platform allows for quick setup and is maintained by the non-profit entity that stewards the WoM. However, the WoM caters to decentralization. As the Meeds software is open source and freely distributed, organizations have the option to self-host a Hub server and connect to the WoM network, granting them more control and customization in their Hub’s setup and management.
-
-**Capturing Work Signals** Hubs can integrate with various platforms like GitHub, Twitter, and Discord and are extendable via API to connect with services such as CRM software, accounting software, and clocking terminals. This allows for diverse professional contributions to be recognized and rewarded. All connectors undergo a whitelisting process by the Meeds Association to guarantee integrity and functionality.
-
-**Enriching the Perks Store** Organizations can tailor the store with custom perks, including training courses and gym memberships, creating a self-reinforcing cycle of rewards and engagement. This not only incentivizes contributors but also fosters a deeper connection with the organization’s ecosystem.
-
-**Engagement and Rewards** Active participation in the Hub contributes to an organization’s global engagement score. This metric reflects the effectiveness of engagement strategies, considering factors like user activity levels and the equitable distribution of work and rewards. This publicly auditable score, entitles Hubs to a distribution of MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
-
-Looking ahead, Community Hubs in the WoM ecosystem are set to become central to community life, integrating internal communications, real-time interactions, governance, and various productivity tools. These enhancements will ensure that the Hubs remain interconnected with the best tools already employed by organizations. They stand as a powerful testament to Meeds' commitment to fostering a vibrant, engaged community.
+- **การดำเนินการ**: แรงจูงใจงานคู่มือผู้ร่วมสอดคล้องความพยายามของพวกเขากับวัตถุประ
+- **เกมมิฟิเคชั่น**: กระดานผู้นำและป้ายเปลี่ยนงานให้เป็นประสบการณ์ที่สนุกประสบการณ์การแข่งขันการเสริมสร้างการมีส่วนร่วมและความเพลิดเพลิน
+- น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส
+- **รุ่งโรจน์**: การรับรู้ของเพื่อนทันทีช่วยเพิ่มกำลังใจในการทำงานและส่งเสริมวัฒนธรรมขอ
+- **ช่องว่าง**: จัดกลุ่มย่อยและโครงการปรับปรุงการสื่อสารและการทำงานร่วมกันเพิ่มผลผลิต
+- **กระเป๋าสตางค์**: การตรวจสอบกระเป๋าสตางค์อย่างปลอดภัยเก็บรางวัลประชุมเป็นตัวแท
+- น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส
+- **งาน**: โครงการคล่องตัวและเครื่องมือการจัดการงานเพิ่มผลผลิตโดยการลดความซับซ้อน
+- **หมายเหตุ**: แอปโน้ตบุ๊คที่มีประโยชน์สำหรับการบันทึกข้อมูลที่จำเป็นเช่นคู่มือออนบอร์ดส่ง
+- **การสร้างแบรนด์**: ลักษณะฮับที่ปรับแต่งได้ดึงดูดผู้ให้ข้อมูลใหม่และเสริมสร้างการเชื่อมต่
+- **การวิเคราะห์**: การวิเคราะห์เชิงลึกเกี่ยวกับการมีส่วนร่วมของชุมชนช่วยให้ผู้นำสามารถระบุกลยุทธ์ที่มีประสิทธิภาพและตัดสินใจอย่างมีข้อมูลเพื่อเพิ่มประสิทธิภาพ
 
 
-## 2.5. Rewarding Model
+**เริ่มต้นฮับ** การเริ่มต้นศูนย์กลางเป็นไปอย่างราบรื่นที่สุดผ่าน meeds.io ซึ่งมีการเข้าถึงแพลตฟอร์มเมฆจัดการโดยสมาคมความต้องการ น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส อย่างไรก็ตามผู้หญิงมีความสำคัญในการกระจายอำนาจ. การควบคุมและการปรับแต่งมากขึ้นในการตั้งค่าและการจัดการฮับของพวกเขา
 
-In the WoM, user engagement across various work activities is incentivized and gamified, tailored to each community Hub's unique programs. Users earn points reflecting their active participation, with each community determining its own rules for point allocation.
+**จับสัญญาณการทำงาน** มต่อกับบริการเช่นซอฟต์แวร์ระบบบริหารความสัมพันธ์ลูกค้า, ซอฟต์แวร์บัญชี, และขั้วตอกเครื่อ รรับรู้และได้รับรางวัล. การเชื่อมต่อทั้งหมดผ่านกระบวนการที่อนุญาตโดยสมาคมแพทย์เพื่อรับประกันความสมบูรณ์แ
 
-For example, an IT company might award 10 points for coding on GitHub, whereas a digital agency could place higher value on social media engagement, like retweets, with similar points.
+**เพิ่มคุณค่าของร้านค้าสิทธิพิเศษ** องค์กรสามารถปรับแต่งร้านค้าที่มีสิทธิพิเศษที่กำหนดเองรวมทั้งหลักสูตรการฝึกอบรมและ งสร้างการเชื่อมต่อที่ลึกซึ้งกับระบบนิเวศขององค์กร.
 
-Regular distributions of rewards are based on the points accrued in each Hub. Typically, these are given in MEED tokens, delivered directly to users' wallets. While MEED tokens are the standard form of reward, Hubs have the flexibility to offer different types of compensation.
+**การมีส่วนร่วมและรางวัล** การมีส่วนร่วมอย่างแข็งขันในศูนย์กลางมีส่วนช่วยในการให้คะแนนการมีส่วนร่วมระดับโลกขององค์กร ตัวชี้วัดนี้สะท้อนให้เห็นถึงประสิทธิภาพของกลยุทธ์การมีส่วนร่วมพิจารณาปัจจัยเช่นระดับกิจ งการขององค์กรทีเ่กีย่วข้องกับองค์กรทีเ่กีย่วข้องกับองค์กรทีเ่กีย่วข้องกับองค์กรทีเ่กีย่วข้องกั
 
-When rewards are distributed in tokens other than MEED, a nominal fee of 5% is applied. This fee contributes to the Meeds treasury, playing a crucial role in maintaining the sustainability of the ecosystem.
+มองไปข้างหน้า, ฮับชุมชนในระบบนิเวศหนอนมีการตั้งค่าที่จะกลายเป็นศูนย์กลางของชีวิตชุม การปรับปรุงเหล่านี้จะให้แน่ใจว่าฮับยังคงเชื่อมต่อกับเครื่องมือที่ดีที่สุดที่ใช้แล้วโดยองค์ก พวกเขายืนเป็นเครื่องพิสูจน์ที่มีประสิทธิภาพเพื่อความต้องการความมุ่งมั่นที่จะส่งเสริมให้
+
+
+## 2.5. รูปแบบที่คุ้มค่า
+
+ในครรภ์การมีส่วนร่วมของผู้ใช้ในกิจกรรมการทำงานต่างๆเป็นแรงจูงใจและเกมที่เหมาะกั ผู้ใช้จะได้รับคะแนนสะท้อนให้เห็นถึงการมีส่วนร่วมอย่างแข็งขันของพวกเขากับแต่ละชุมช
+
+Users will receive points reflecting their active participation with each community.
+
+น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส
+
+น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส
 
 ## 2.6. โมเดล "mintium" - ทำเป็นโทเค็นเพื่อสร้างความมีส่วนร่วม
 
-By engaging their users in the WoM, communities get compensated through an innovative mintium model.
+น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส
 
-Engagement points, gained by the Hubs’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Hubs. Even though the community can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
+น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส
 
-ทุกสัปดาห์จะมีจำนวนที่กำหนดของเมดส์ที่จะจัดสรรให้กับการเจาะระบบโลหะของ WoM It’s computed weekly, pro-rata, among the participating Hubs. Some Hubs get an additional boost depending on the type of Deed they use. The Hubs that claim their Meeds over the week, receive them. เมดส์ที่ไม่ได้รับการเรียกเก็บจะถูกเพิ่มเข้ากับจำนวนการกระจายทั่วโลกของสัปดาห์ถัดไป
+ทุกสัปดาห์จะมีจำนวนที่กำหนดของเมดส์ที่จะจัดสรรให้กับการเจาะระบบโลหะของ WoM น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส เมดส์ที่ไม่ได้รับการเรียกเก็บจะถูกเพิ่มเข้ากับจำนวนการกระจายทั่วโลกของสัปดาห์ถัดไป
 
 คะแนนการเข้าร่วม _S_ ของ Deed เป็นฟังก์ชันของการเข้าร่วม จำนวนผู้ใช้ที่มีส่วนร่วมและการกระจาย :
 
@@ -88,19 +88,19 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 ที่ :
 
-- $A$ = _Activity_ - total number of actions accumulated by users within the Hub over the week. (On a Hub, each user action is converted into engagement points, some actions weighting more than others. ในระดับดัชนี การกระทำทั้งหมดจะถูกเปลี่ยนเป็นเส้นตรงโดยทั่วไป)
+- น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส ในระดับดัชนี การกระทำทั้งหมดจะถูกเปลี่ยนเป็นเส้นตรงโดยทั่วไป)
 - $U$ = _ผู้ใช้ที่มีส่วนร่วมโดยการทำกิจกรรมอย่างน้อยหนึ่งครั้งภายในสัปดาห์_
-- $E_d$ = _Engagement rate of the hub_ - actions per user ($A/U$)
-- $E_w$ = _Average engagement rate_ of all active Hubs in the WoM.
-- $D_r$ = _Distribution rate_ - if a Hub received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. เปอร์เซ็นต์สามารถเกิน 100 หากการกระจายได้เลื่อนเวลาไป
-- $D_s$ =  _Distribution spread_ - if a Hub received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
+- น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส
+- น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส
+- น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส เปอร์เซ็นต์สามารถเกิน 100 หากการกระจายได้เลื่อนเวลาไป
+- น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส
 - $M$ = _กำลังการเมือง_ ของกิจกรรมตามที่กำหนดไว้ใน 2.3
 
 
-The global engagement index used to distribute minted Meeds among the Hubs is the sum of all Hubs’ engagement scores for the week.
+น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส
 
 
-The formula above is simple and designed to favor hubs :
+น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส
 
 - โดยผู้ใช้ที่มีผู้ใช้ที่มีส่วนร่วมมาก (การ)
 - ใครที่แบ่งปันรายได้จากการเก็บเงินดังกล่าว (อัตราการกระจาย) กับผู้ใช้ของพวกเขาอย่างเป็นธรรม (การกระจายโดยเท่าเทียม)
@@ -110,9 +110,9 @@ The formula above is simple and designed to favor hubs :
 - องค์กรที่มีอัตราการส่งเสริมการติดต่อสื่อสารสูงที่สุดไม่ว่าจะเป็นขนาดใหญ่หรือเล็ก (อัตราการส่งเสริมการติดต่อสื่อสารสูงในเชิงสัมพันธ์กับ WoM)
 - การกระทำที่น้อยขึ้น
 
-> สมาคม Meeds สงวนสิทธิ์ในการเปลี่ยนสูตรหากจำเป็น – หากเกิดกรณีใช้งานที่เฉพาะเจาะจง เช่น สมาคมสามารถเพิกถอนสิทธิ์การใช้สูตรของ Deed ใดๆที่เหลือเชื่อว่ามีประโยชน์ต่อตนเอง The association can also blacklist any Hub that hijacks the formula to its unique benefit.
+> สมาคม Meeds สงวนสิทธิ์ในการเปลี่ยนสูตรหากจำเป็น – หากเกิดกรณีใช้งานที่เฉพาะเจาะจง เช่น สมาคมสามารถเพิกถอนสิทธิ์การใช้สูตรของ Deed ใดๆที่เหลือเชื่อว่ามีประโยชน์ต่อตนเอง น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส
 
-As the Hubs are rewarded with Meeds and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the communities and their users are aligned in the same virtuous revenue sharing cycle. ดังนั้น WoM มีรูปแบบการทำงานใหม่ซึ่งทำให้เกิดการเปลี่ยนแปลงในความสัมพันธ์ระหว่างนายจ้างและพนักงานให้กลายเป็นพันธมิตร
+น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส ดังนั้น WoM มีรูปแบบการทำงานใหม่ซึ่งทำให้เกิดการเปลี่ยนแปลงในความสัมพันธ์ระหว่างนายจ้างและพนักงานให้กลายเป็นพันธมิตร
 
 โมเดล "mintium" เป็นโมเดลแรกของประเภทนี้ - มันไปไกลกว่าโมเดลฟรีเมียมทั่วไปเนื่องจากไม่เพียงแค่บริการฟรีที่สามารถใช้ได้แต่ทั้งองค์กรและผู้ใช้ของพวกเขาจะได้รับการรา
 
@@ -132,9 +132,9 @@ As the Hubs are rewarded with Meeds and incentivized to redistribute them as rew
 | 6: Kushor     | 10 000 000  | Eshmum + 64 เดือน   | 6 000 000  | 3 000 000     | 999 998   | 2         |
 | 7: Hammon     | 100 000 000 | Kushor + 128 เดือน  | 60 000 000 | 30 000 000    | 9 999 999 | 1         |
 
-A city is a way for the communities to come together and create a larger community. และเป็นผลเนื่องมาจากการได้รับเอกลักษณ์บางอย่างที่เกี่ยวข้องกับชุมชนนั้น It is also a way to provide additional value to its users - value that would go beyond one community’s capabilities or value created through cooperation between the communities.
+น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส และเป็นผลเนื่องมาจากการได้รับเอกลักษณ์บางอย่างที่เกี่ยวข้องกับชุมชนนั้น น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส
 
-Each city has its own govenance and operates its own DAO where the city’s Deed owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
+น, บริษัทไอทีอาจได้รับรางวัล 10 คะแนนสำหรับการเขียนโค้ดบนกิทับ, ในขณะที่เอเจนซี่ดิจิตอลส
 
 ตัวอย่างเช่นพวกเขาสามารถเพิ่มการแสดงผลดิจิทัลของเมืองของพวกเขา พาร์ทเนอร์ทางกายภาพที่เกี่ยวข้องกับเมืองของพวกเขา (ห้องประชุมในช่องทำงานร่วมกันทางกายภาพเช่นนั้น) เพิ่มบริการอาหารที่มีพลังงาน Meeds บริการวันหยุดพักผ่อน ฯลฯ...
 
