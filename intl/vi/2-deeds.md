@@ -3,17 +3,17 @@
 
 ## 2.1. Deed NFTs
 
-In the digital realm, Non-Fungible Tokens (NFTs) serve a similar purpose to deeds in the physical world. Like a deed that confirms ownership of tangible property, NFTs establish indisputable ownership of digital assets. This ownership is securely recorded on a blockchain, ensuring that each asset is unique and non-replicable.
+Trong lĩnh vực kỹ thuật số, Các Mã Thông báo Không Thể Thay thế (Nft) phục vụ mục đích tương tự như các hành động trong thế giới vật chất. Giống như một chứng thư xác nhận quyền sở hữu tài sản hữu hình, Nft thiết lập quyền sở hữu không thể chối cãi đối với tài sản kỹ thuật số. Quyền sở hữu này được ghi lại một cách an toàn trên một blockchain, đảm bảo rằng mỗi tài sản là duy nhất và không thể sao chép.
 
-Within the WoM, a Deed is conceptualized as an NFT, representing the foundational unit of ownership. Holding a Deed empowers its owner to manage a Community Hub and makes them eligible for receiving Mintium rewards, a form of recognition and incentive within the WoM ecosystem (further details in section 2.6).
+Trong WoM, Một Chứng thư được khái niệm hóa như MỘT NFT, đại diện cho đơn vị sở hữu cơ bản. Giữ Một Chứng thư trao quyền cho chủ sở hữu của Nó để quản lý Một Trung tâm Cộng Đồng và làm cho họ đủ điều kiện nhận Phần Thưởng Mintium, một hình thức công nhận và khuyến khích trong Hệ sinh thái WoM (chi tiết thêm trong phần 2.6).
 
-The WoM is designed to be a diverse and inclusive platform. It welcomes a wide array of organizations, from DAOs, traditional businesses, and associations to think tanks, theater companies, project groups, and educational institutions. In this digital landscape, a Deed symbolizes the organization's digital presence and footprint in WoM, functioning as a bridge between their real-world operations and their digital endeavors.
+WoM được thiết kế để trở thành một nền tảng đa dạng và toàn diện. Nó chào đón một loạt các tổ chức, Từ Dao, các doanh nghiệp truyền thống và các hiệp hội để nghĩ rằng xe tăng, các công ty nhà hát, các nhóm dự án, và các tổ chức giáo dục. Trong bối cảnh kỹ thuật số này, Một Chứng thư tượng trưng cho sự hiện diện và dấu chân kỹ thuật số của tổ chức Trong WoM, hoạt động như một cầu nối giữa các hoạt động trong thế giới thực và nỗ lực kỹ thuật số của họ.
 
 ## 2.2. Deeds cung cấp
 
 WoM cuối cùng sẽ cung cấp một số lượng hạn chế của Tài sản. Mỗi hành động bao gồm số lượng người dùng tối đa đã xác định trước và cung cấp khả năng thưởng cho Meeds (Khả năng Minting). Từ "người dùng" ở đây và sau này chỉ định bất kỳ loại nhân viên, công nhân, tự do, tình nguyện viên, v. v.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or minting power, the rarest being the most powerful :
+Có bốn Loại Hành động, mỗi Loại cung cấp các khả năng khác nhau về số lượng người dùng, quyền biểu quyết trong một thành phố (xem 2.7) hoặc quyền lực đúc, hiếm nhất là quyền lực nhất :
 
 | **Deed Kiểu**  | **Số người dùng tối đa** | **Sức mỏ đúc** | **Sự khan hiếm** | **Quyền bỏ phiếu của thành phố** |
 | -------------- | ------------------------ | -------------- | ---------------- | -------------------------------- |
@@ -26,59 +26,59 @@ There are four types of Deeds, each providing different capabilities in terms of
 
 Một Giấy Chứng Nhận cho chủ sở hữu quyền sử dụng nó, cho thuê hoặc bán nó.
 
-- USE – The owner can use the Deed to run a hub for his own organization.
-- RENT - The owner can also rent the Deed to another organization and earn passive income.
-- SELL - The owner can sell it on a secondary NFT marketplace such as [OpenSea](https://opensea.io).
+- SỬ dụng-chủ sở hữu có thể sử dụng Chứng thư để điều hành một trung tâm cho tổ chức của riêng mình.
+- THUÊ-chủ sở hữu cũng có thể thuê Chứng thư cho một tổ chức khác và kiếm thu nhập thụ động.
+- BÁN-chủ sở hữu có thể bán nó trên thị trường nft thứ cấp như [OpenSea](https://opensea.io).
 
 Being an active holder or renter of a Deed, the organization is entitled to MEED rewards according to the “mintium” model described below (see 2.6).
 
 ## 2.4. Community Hubs
 
-In today's competitive market, organizations seek to attract and retain top talent not only through compensation but also by enhancing work engagement. The WoM addresses this challenge with a unique, tokenized reward system embodied in Community Hubs.
+Trong thị trường cạnh tranh ngày nay, các tổ chức tìm cách thu hút và giữ chân nhân tài hàng đầu không chỉ thông qua bồi thường mà còn bằng cách tăng cường sự tham gia của công việc. WoM giải quyết thách thức này bằng một hệ thống phần thưởng độc đáo, được mã hóa được thể hiện trong Các Trung tâm Cộng đồng.
 
-Within these Hubs, community leaders can drive members engagement by offering a transparent menu of incentives for work items. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
+Trong Các Trung tâm này, các nhà lãnh đạo cộng đồng có thể thúc đẩy sự tham gia của các thành viên bằng cách cung cấp một thực đơn minh bạch về các ưu đãi cho các hạng mục công việc. Những người tham gia kiếm được điểm tương tác cho những nỗ lực của họ, được định kỳ chuyển đổi THÀNH MÃ THÔNG BÁO CẦN HOẶC tương đương tùy chỉnh, phù hợp với ngân sách được xác định trước.
 
-Community Hubs offer a suite of tools and features designed to boost and manage contributor engagement:
+Các trung tâm cộng đồng cung cấp một bộ công cụ và tính năng được thiết kế để tăng cường và quản lý sự tham gia của người đóng góp:
 
-- **Actions**: Incentivized tasks guide contributors, aligning their efforts with organizational objectives and boosting motivation and direction.
-- **Gamification**: Leaderboards and badges transform work into a fun, competitive experience, enhancing engagement and enjoyment.
-- **Engagement Programs**: Customized programs with specific targets and rewards clarify organizational goals and fairly recognize contributor achievements.
-- **Kudos**: Immediate peer recognition boosts morale and fosters a culture of appreciation, enhancing team cohesion and motivation.
-- **Spaces**: Organized sub-groups and projects streamline communication and collaboration, increasing collective productivity.
-- **Wallet**: The Wallet app securely stores MEED rewards, representing user contributions, and enables easy transactions both within the Hub and on the broader network.
-- **Perks**: A variety of rewards, from gift cards to NFTs, incentivize ongoing engagement and foster loyalty within the organization’s ecosystem.
-- **Tasks**: Streamlined project and task management tools boost productivity by simplifying workflows and tracking progress.
-- **Notes**: A handy notebook app for documenting essential information like onboarding guides promotes knowledge sharing and organizational self-sufficiency.
-- **Branding**: Customizable Hub appearance attracts new contributors and strengthens their connection to the organization’s identity.
-- **Analytics**: Insightful analytics into community engagement enable leaders to identify effective strategies and make informed decisions for optimization.
-
-
-**Starting a Hub** Initiating a Hub is most seamless via meeds.io, which offers access to a cloud platform managed by the Meeds Association. This platform allows for quick setup and is maintained by the non-profit entity that stewards the WoM. However, the WoM caters to decentralization. As the Meeds software is open source and freely distributed, organizations have the option to self-host a Hub server and connect to the WoM network, granting them more control and customization in their Hub’s setup and management.
-
-**Capturing Work Signals** Hubs can integrate with various platforms like GitHub, Twitter, and Discord and are extendable via API to connect with services such as CRM software, accounting software, and clocking terminals. This allows for diverse professional contributions to be recognized and rewarded. All connectors undergo a whitelisting process by the Meeds Association to guarantee integrity and functionality.
-
-**Enriching the Perks Store** Organizations can tailor the store with custom perks, including training courses and gym memberships, creating a self-reinforcing cycle of rewards and engagement. This not only incentivizes contributors but also fosters a deeper connection with the organization’s ecosystem.
-
-**Engagement and Rewards** Active participation in the Hub contributes to an organization’s global engagement score. This metric reflects the effectiveness of engagement strategies, considering factors like user activity levels and the equitable distribution of work and rewards. This publicly auditable score, entitles Hubs to a distribution of MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
-
-Looking ahead, Community Hubs in the WoM ecosystem are set to become central to community life, integrating internal communications, real-time interactions, governance, and various productivity tools. These enhancements will ensure that the Hubs remain interconnected with the best tools already employed by organizations. They stand as a powerful testament to Meeds' commitment to fostering a vibrant, engaged community.
+- ** Hành Động **: các nhiệm vụ Được Khuyến khích hướng dẫn những người đóng góp, điều chỉnh nỗ lực của họ với các mục tiêu của tổ chức và thúc đẩy động lực và định hướng.
+- ** Gamification **: Leaderboards và phù hiệu chuyển đổi công việc thành một niềm vui, kinh nghiệm cạnh tranh, tăng cường sự tham gia và hưởng thụ.
+- ** Chương Trình Tương tác **: Các chương trình Tùy chỉnh với các mục tiêu và phần thưởng cụ thể làm rõ các mục tiêu của tổ chức và công bằng nhận ra thành tích của người đóng góp.
+- ** Kudos **: sự công nhận ngang Hàng Ngay lập tức thúc đẩy tinh thần và thúc đẩy văn hóa đánh giá cao, tăng cường sự gắn kết và động lực của nhóm.
+- ** Spaces **: Các nhóm Và dự án Có Tổ chức hợp lý hóa giao tiếp và hợp tác, tăng năng suất tập thể.
+- ** Wallet **: Ứng dụng Wallet lưu TRỮ PHẦN Thưởng MEED MỘT cách an toàn, đại diện cho sự đóng góp của người dùng và cho phép giao dịch dễ dàng cả Trong Trung tâm và trên mạng rộng hơn.
+- ** Perks **: một loạt các phần thưởng, từ thẻ quà tặng Đến Nft, khuyến khích sự tham gia liên tục và thúc đẩy lòng trung thành trong hệ sinh thái của tổ chức.
+- ** Nhiệm Vụ **: các công cụ quản lý dự án và công việc được Sắp xếp hợp lý tăng năng suất bằng cách đơn giản hóa quy trình làm việc và tiến trình theo dõi.
+- ** Ghi Chú **: một ứng dụng máy tính xách tay tiện dụng để ghi lại thông tin cần thiết như hướng dẫn giới thiệu thúc đẩy chia sẻ kiến thức và tự cung tự cấp tổ chức.
+- ** Xây Dựng Thương Hiệu **: xuất hiện Trung tâm Tùy chỉnh thu hút những người đóng góp mới và tăng cường kết nối của họ với danh tính của tổ chức.
+- ** Analytics **: phân tích Sâu sắc vào sự tham gia của cộng đồng cho phép các nhà lãnh đạo xác định các chiến lược hiệu quả và đưa ra quyết định sáng suốt để tối ưu hóa.
 
 
-## 2.5. Rewarding Model
+**Bắt đầu Một Trung tâm** Bắt đầu Một Trung tâm là liền mạch nhất thông qua meeds.io, cung cấp quyền truy cập vào nền tảng đám mây do Hiệp hội Nhu cầu quản lý. Nền tảng này cho phép thiết lập nhanh chóng và được duy trì bởi tổ chức phi lợi nhuận quản Lý WoM. Tuy nhiên, WoM phục vụ cho việc phân cấp. Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ.
 
-In the WoM, user engagement across various work activities is incentivized and gamified, tailored to each community Hub's unique programs. Users earn points reflecting their active participation, with each community determining its own rules for point allocation.
+Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ. Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ. Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ.
 
-For example, an IT company might award 10 points for coding on GitHub, whereas a digital agency could place higher value on social media engagement, like retweets, with similar points.
+Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ. Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ.
 
-Regular distributions of rewards are based on the points accrued in each Hub. Typically, these are given in MEED tokens, delivered directly to users' wallets. While MEED tokens are the standard form of reward, Hubs have the flexibility to offer different types of compensation.
+Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ. Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ. Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ.
 
-When rewards are distributed in tokens other than MEED, a nominal fee of 5% is applied. This fee contributes to the Meeds treasury, playing a crucial role in maintaining the sustainability of the ecosystem.
+Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ. Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ. Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ.
+
+
+## 2.5. Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ.
+
+Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ. Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ.
+
+Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ.
+
+Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ. Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ. Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ.
+
+Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ. Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ.
 
 ## 2.6. "Mô hình "mintium" - chia công việc tích hợp"
 
-By engaging their users in the WoM, communities get compensated through an innovative mintium model.
+Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ.
 
-Engagement points, gained by the Hubs’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Hubs. Even though the community can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
+Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ. Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ. Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ.
 
 Mỗi tuần, một số lượng Meeds được gán cho việc xuất bản tiếp cận toàn cầu của WoM. It’s computed weekly, pro-rata, among the participating Hubs. Some Hubs get an additional boost depending on the type of Deed they use. The Hubs that claim their Meeds over the week, receive them. Các Meeds chưa được yêu cầu sẽ được thêm vào số lượng phân phối toàn cầu trong tuần sau.
 
@@ -92,15 +92,15 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 - $U$ = _Người dùng đã đóng góp_ - người dùng đã đóng góp điểm trong tuần bằng ít nhất một hành động.
 - $E_d$ = _Engagement rate of the hub_ - actions per user ($A/U$)
 - $E_w$ = _Average engagement rate_ of all active Hubs in the WoM.
-- $D_r$ = _Distribution rate_ - if a Hub received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. Phần trăm có thể vượt quá 100 nếu phân phối bị hoãn trong thời gian.
+- Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ. Phần trăm có thể vượt quá 100 nếu phân phối bị hoãn trong thời gian.
 - $D_s$ =  _Distribution spread_ - if a Hub received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
 - $M$ = _Sức cán ký_ của Giấy tờ theo xác định trong 2.3
 
 
-The global engagement index used to distribute minted Meeds among the Hubs is the sum of all Hubs’ engagement scores for the week.
+Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ.
 
 
-The formula above is simple and designed to favor hubs :
+Vì Phần mềm Meeds là mã nguồn mở và được phân phối tự do, các tổ chức có tùy chọn tự lưu trữ máy chủ Trung tâm và kết nối với mạng WoM, cho phép họ kiểm soát và tùy chỉnh nhiều hơn trong thiết lập và quản lý Trung tâm của họ.
 
 - với nhiều người dùng tích cực (tích cực)
 - ai chia đều tổng thu nhập từ việc đồng xuất bản (tỷ lệ phân phối) với người dùng công bằng (trả phần phụ).
