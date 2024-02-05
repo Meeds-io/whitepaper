@@ -1,19 +1,19 @@
 
-# 2. Deeds - The Properties of the WoM
+# 2. कर्म-महिला के गुण
 
-## 2.1. Deed NFTs
+## 2.1. डीड एनएफटी
 
-In the digital realm, Non-Fungible Tokens (NFTs) serve a similar purpose to deeds in the physical world. Like a deed that confirms ownership of tangible property, NFTs establish indisputable ownership of digital assets. This ownership is securely recorded on a blockchain, ensuring that each asset is unique and non-replicable.
+In the digital realm, Non-Fungible Tokens (NFTs) serve a similar purpose to deeds in the physical world. Like a deed that confirms ownership of tangible property, NFTs establish indisputable ownership of digital assets. यह स्वामित्व सुरक्षित रूप से एक ब्लॉकचेन पर दर्ज किया गया है, यह सुनिश्चित करता है कि प्रत्येक संपत्ति अद्वितीय और गैर-प्रतिकृति है ।
 
-Within the WoM, a Deed is conceptualized as an NFT, representing the foundational unit of ownership. Holding a Deed empowers its owner to manage a Community Hub and makes them eligible for receiving Mintium rewards, a form of recognition and incentive within the WoM ecosystem (further details in section 2.6).
+गर्भ के भीतर, एक विलेख को एनएफटी के रूप में अवधारणा दी जाती है, जो स्वामित्व की मूलभूत इकाई का प्रतिनिधित्व करता है ।  एक विलेख धारण करना उसके मालिक को एक सामुदायिक केंद्र का प्रबंधन करने का अधिकार देता है और उन्हें मिंटियम पुरस्कार प्राप्त करने के लिए पात्र बनाता है, डब्ल्यूओएम पारिस्थितिकी तंत्र के भीतर मान्यता और प्रोत्साहन का एक रूप (धारा 2.6 में अधिक विवरण) ।
 
-The WoM is designed to be a diverse and inclusive platform. It welcomes a wide array of organizations, from DAOs, traditional businesses, and associations to think tanks, theater companies, project groups, and educational institutions. In this digital landscape, a Deed symbolizes the organization's digital presence and footprint in WoM, functioning as a bridge between their real-world operations and their digital endeavors.
+कृमि को एक विविध और समावेशी मंच बनाया गया है ।  यह डीएओ, पारंपरिक व्यवसायों और संगठनों से लेकर थिंक टैंक, थिएटर कंपनियों, परियोजना समूहों और शैक्षणिक संस्थानों तक संगठनों की एक विस्तृत श्रृंखला का स्वागत करता है ।  इस डिजिटल परिदृश्य में, एक विलेख महिलाओं में संगठन की डिजिटल उपस्थिति और पदचिह्न का प्रतीक है, जो उनके वास्तविक दुनिया के संचालन और उनके डिजिटल प्रयासों के बीच एक सेतु के रूप में कार्य करता है ।
 
 ## 2.2. काम की आपूर्ति
 
 WoM अंत से सीमित मात्रा में Deeds प्रदान करेगा। प्रत्येक काम में पहले से निर्धारित अधिकतम सदस्यों की संख्या शामिल होती है और एक क्षमता के साथ सम्मानित करने की पेशकश की प्रस्ताव करती है (मिंटिंग पावर)। यहाँ और इसके बाद के समय में 'उपयोगकर्ता' शब्द किसी भी प्रकार के कर्मचारी, कामकाजी, स्वतंत्रकारी, स्वयंसेवक आदि को परिभाषित करता है.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or minting power, the rarest being the most powerful :
+चार प्रकार के कर्म हैं, प्रत्येक उपयोगकर्ताओं की संख्या, एक शहर में मतदान के अधिकार (2.7 देखें) या खनन शक्ति के संदर्भ में अलग-अलग क्षमताएं प्रदान करता है, सबसे दुर्लभ सबसे शक्तिशाली है :
 
 | **कार्य प्रकार** | **अधिकतम उपयोगकर्ता** | **सम्पन्न शक्ति** | **कमता** | **शहर के मतदान के अधिकार** |
 | ---------------- | --------------------- | ----------------- | -------- | -------------------------- |
@@ -26,53 +26,53 @@ There are four types of Deeds, each providing different capabilities in terms of
 
 एक कर्म उसके मालिक को इसका उपयोग करने, इसे किराये पर देने या इसे बेचने के अधिकार देता है
 
-- USE – The owner can use the Deed to run a hub for his own organization.
-- RENT - The owner can also rent the Deed to another organization and earn passive income.
-- SELL - The owner can sell it on a secondary NFT marketplace such as [OpenSea](https://opensea.io).
+- उपयोग-मालिक अपने संगठन के लिए हब चलाने के लिए विलेख का उपयोग कर सकता है ।
+- किराया-मालिक किसी अन्य संगठन को विलेख किराए पर भी ले सकता है और निष्क्रिय आय अर्जित कर सकता है ।
+- बेचना-मालिक इसे द्वितीयक एनएफटी मार्केटप्लेस पर बेच सकता है जैसे < 0 > ओपनसी</a>
 
-Being an active holder or renter of a Deed, the organization is entitled to MEED rewards according to the “mintium” model described below (see 2.6).
+एक सक्रिय धारक या एक विलेख के किराएदार होने के नाते, संगठन नीचे वर्णित "मिंटियम" मॉडल के अनुसार एमईडी पुरस्कारों का हकदार है (देखें 2.6) ।
 
-## 2.4. Community Hubs
+## 2.4. सामुदायिक हब
 
-In today's competitive market, organizations seek to attract and retain top talent not only through compensation but also by enhancing work engagement. The WoM addresses this challenge with a unique, tokenized reward system embodied in Community Hubs.
+आज के प्रतिस्पर्धी बाजार में, संगठनों को आकर्षित करने और मुआवजे के माध्यम से, लेकिन यह भी काम सगाई बढ़ाने के द्वारा न केवल शीर्ष प्रतिभा को बनाए रखने के लिए की तलाश. डब्ल्यूओएम इस चुनौती को सामुदायिक केंद्रों में सन्निहित एक अद्वितीय, टोकन इनाम प्रणाली के साथ संबोधित करता है
 
-Within these Hubs, community leaders can drive members engagement by offering a transparent menu of incentives for work items. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
+इन केंद्रों के भीतर, सामुदायिक नेता कार्य वस्तुओं के लिए प्रोत्साहन के पारदर्शी मेनू की पेशकश करके सदस्यों की सगाई कर सकते हैं ।  प्रतिभागी अपने प्रयासों के लिए सगाई अंक अर्जित करते हैं, जो समय-समय पर पूर्व निर्धारित बजट के अनुरूप टोकन या कस्टम समकक्ष की आवश्यकता में परिवर्तित हो जाते हैं ।
 
-Community Hubs offer a suite of tools and features designed to boost and manage contributor engagement:
+सामुदायिक हब योगदानकर्ता सगाई को बढ़ावा देने और प्रबंधित करने के लिए डिज़ाइन किए गए टूल और सुविधाओं का एक सूट प्रदान करते हैं:
 
-- **Actions**: Incentivized tasks guide contributors, aligning their efforts with organizational objectives and boosting motivation and direction.
-- **Gamification**: Leaderboards and badges transform work into a fun, competitive experience, enhancing engagement and enjoyment.
-- **Engagement Programs**: Customized programs with specific targets and rewards clarify organizational goals and fairly recognize contributor achievements.
-- **Kudos**: Immediate peer recognition boosts morale and fosters a culture of appreciation, enhancing team cohesion and motivation.
-- **Spaces**: Organized sub-groups and projects streamline communication and collaboration, increasing collective productivity.
-- **Wallet**: The Wallet app securely stores MEED rewards, representing user contributions, and enables easy transactions both within the Hub and on the broader network.
-- **Perks**: A variety of rewards, from gift cards to NFTs, incentivize ongoing engagement and foster loyalty within the organization’s ecosystem.
-- **Tasks**: Streamlined project and task management tools boost productivity by simplifying workflows and tracking progress.
-- **Notes**: A handy notebook app for documenting essential information like onboarding guides promotes knowledge sharing and organizational self-sufficiency.
-- **Branding**: Customizable Hub appearance attracts new contributors and strengthens their connection to the organization’s identity.
-- **Analytics**: Insightful analytics into community engagement enable leaders to identify effective strategies and make informed decisions for optimization.
-
-
-**Starting a Hub** Initiating a Hub is most seamless via meeds.io, which offers access to a cloud platform managed by the Meeds Association. This platform allows for quick setup and is maintained by the non-profit entity that stewards the WoM. However, the WoM caters to decentralization. As the Meeds software is open source and freely distributed, organizations have the option to self-host a Hub server and connect to the WoM network, granting them more control and customization in their Hub’s setup and management.
-
-**Capturing Work Signals** Hubs can integrate with various platforms like GitHub, Twitter, and Discord and are extendable via API to connect with services such as CRM software, accounting software, and clocking terminals. This allows for diverse professional contributions to be recognized and rewarded. All connectors undergo a whitelisting process by the Meeds Association to guarantee integrity and functionality.
-
-**Enriching the Perks Store** Organizations can tailor the store with custom perks, including training courses and gym memberships, creating a self-reinforcing cycle of rewards and engagement. This not only incentivizes contributors but also fosters a deeper connection with the organization’s ecosystem.
-
-**Engagement and Rewards** Active participation in the Hub contributes to an organization’s global engagement score. This metric reflects the effectiveness of engagement strategies, considering factors like user activity levels and the equitable distribution of work and rewards. This publicly auditable score, entitles Hubs to a distribution of MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
-
-Looking ahead, Community Hubs in the WoM ecosystem are set to become central to community life, integrating internal communications, real-time interactions, governance, and various productivity tools. These enhancements will ensure that the Hubs remain interconnected with the best tools already employed by organizations. They stand as a powerful testament to Meeds' commitment to fostering a vibrant, engaged community.
+- ** क्रियाएं < /0>: प्रोत्साहन कार्य योगदानकर्ताओं का मार्गदर्शन करते हैं, संगठनात्मक उद्देश्यों के साथ उनके प्रयासों को संरेखित करते हैं और प्रेरणा और दिशा को बढ़ाते हैं । </li>
+- ** गेमिफिकेशन**: लीडरबोर्ड और बैज काम को एक मजेदार, प्रतिस्पर्धी अनुभव में बदल देते हैं, सगाई और आनंद को बढ़ाते हैं ।
+- ** सगाई कार्यक्रम**: विशिष्ट लक्ष्यों और पुरस्कारों के साथ अनुकूलित कार्यक्रम संगठनात्मक लक्ष्यों को स्पष्ट करते हैं और योगदानकर्ता उपलब्धियों को काफी पहचानते हैं ।
+- **यश < /0>: तत्काल सहकर्मी मान्यता मनोबल को बढ़ाती है और प्रशंसा की संस्कृति को बढ़ावा देती है, टीम सामंजस्य और प्रेरणा को बढ़ाती है । </li>
+- **रिक्त स्थान < /0>: संगठित उप-समूह और परियोजनाएं संचार और सहयोग को सुव्यवस्थित करती हैं, जिससे सामूहिक उत्पादकता बढ़ती है । </li>
+- < 0>वॉलेट< / 0>: वॉलेट ऐप सुरक्षित रूप से मेड पुरस्कारों को संग्रहीत करता है, उपयोगकर्ता योगदान का प्रतिनिधित्व करता है, और हब के भीतर और व्यापक नेटवर्क पर आसान लेनदेन को सक्षम बनाता है ।
+- ** भत्तों**: उपहार कार्ड से लेकर एनएफटी तक विभिन्न प्रकार के पुरस्कार, संगठन के पारिस्थितिकी तंत्र के भीतर चल रही सगाई और पालक वफादारी को प्रोत्साहित करते हैं ।
+- ** कार्य**: सुव्यवस्थित परियोजना और कार्य प्रबंधन उपकरण वर्कफ़्लो को सरल बनाकर और प्रगति को ट्रैक करके उत्पादकता को बढ़ावा देते हैं ।
+- **टिप्पणियाँ < /0>: ऑनबोर्डिंग गाइड जैसी आवश्यक जानकारी का दस्तावेजीकरण करने के लिए एक आसान नोटबुक ऐप ज्ञान साझाकरण और संगठनात्मक आत्मनिर्भरता को बढ़ावा देता है । </li>
+- ** ब्रांडिंग < /0>: अनुकूलन हब उपस्थिति नए योगदानकर्ताओं को आकर्षित करती है और संगठन की पहचान के लिए उनके संबंध को मजबूत करती है । </li>
+- **विश्लेषिकी < /0>: सामुदायिक जुड़ाव में व्यावहारिक विश्लेषण नेताओं को प्रभावी रणनीतियों की पहचान करने और अनुकूलन के लिए सूचित निर्णय लेने में सक्षम बनाता है । </li> </ul>
 
 
-## 2.5. Rewarding Model
+< 0 > हब शुरू करना</strong> हब शुरू करना सबसे सहज है meeds.io, जो नीड्स एसोसिएशन द्वारा प्रबंधित क्लाउड प्लेटफॉर्म तक पहुंच प्रदान करता है ।  यह प्लेटफ़ॉर्म त्वरित सेटअप की अनुमति देता है और इसे गैर-लाभकारी संस्था द्वारा बनाए रखा जाता है जो महिला का प्रबंधन करती है ।  हालांकि, डब्ल्यूओएम विकेंद्रीकरण को पूरा करता है ।  चूंकि मेड्स सॉफ्टवेयर खुला स्रोत है और स्वतंत्र रूप से वितरित किया जाता है, संगठनों के पास हब सर्वर को स्वयं होस्ट करने और डब्ल्यूओएम नेटवर्क से कनेक्ट करने का विकल्प होता है, जिससे उन्हें अपने हब के सेटअप और प्रबंधन में अधिक नियंत्रण और अनुकूलन मिलता है ।
 
-In the WoM, user engagement across various work activities is incentivized and gamified, tailored to each community Hub's unique programs. Users earn points reflecting their active participation, with each community determining its own rules for point allocation.
+**कार्य संकेतों को कैप्चर करना < / 0 > हब गिटहब, ट्विटर और डिस्कॉर्ड जैसे विभिन्न प्लेटफार्मों के साथ एकीकृत हो सकते हैं और सीआरएम सॉफ्टवेयर, अकाउंटिंग सॉफ्टवेयर और क्लॉकिंग टर्मिनलों जैसी सेवाओं से जुड़ने के लिए एपीआई के माध्यम से विस्तार योग्य हैं ।  यह विविध पेशेवर योगदानों को पहचानने और पुरस्कृत करने की अनुमति देता है ।  सभी कनेक्टर अखंडता और कार्यक्षमता की गारंटी के लिए मेड्स एसोसिएशन द्वारा एक श्वेतसूची प्रक्रिया से गुजरते हैं ।</p>
 
-For example, an IT company might award 10 points for coding on GitHub, whereas a digital agency could place higher value on social media engagement, like retweets, with similar points.
+**भत्तों की दुकान को समृद्ध करना** संगठन प्रशिक्षण पाठ्यक्रम और जिम सदस्यता सहित कस्टम भत्तों के साथ स्टोर को दर्जी कर सकते हैं, पुरस्कार और सगाई का एक आत्म-मजबूत चक्र बना सकते हैं । यह न केवल योगदानकर्ताओं को प्रोत्साहित करता है बल्कि संगठन के पारिस्थितिकी तंत्र के साथ गहरे संबंध को भी बढ़ावा देता है ।
 
-Regular distributions of rewards are based on the points accrued in each Hub. Typically, these are given in MEED tokens, delivered directly to users' wallets. While MEED tokens are the standard form of reward, Hubs have the flexibility to offer different types of compensation.
+**सगाई और पुरस्कार ** हब में सक्रिय भागीदारी एक संगठन के वैश्विक जुड़ाव स्कोर में योगदान करती है । यह मीट्रिक सगाई की रणनीतियों की प्रभावशीलता को दर्शाता है, उपयोगकर्ता गतिविधि के स्तर और काम और पुरस्कारों के समान वितरण जैसे कारकों पर विचार करता है । यह सार्वजनिक रूप से ऑडिटेबल स्कोर, प्रोटोकॉल से खनन किए गए टोकन की आवश्यकता के वितरण के लिए हब का अधिकार देता है, जो उनकी सगाई की रणनीतियों की प्रभावशीलता के उपाय के रूप में कार्य करता है ।
 
-When rewards are distributed in tokens other than MEED, a nominal fee of 5% is applied. This fee contributes to the Meeds treasury, playing a crucial role in maintaining the sustainability of the ecosystem.
+आगे देखते हुए, वर्म पारिस्थितिकी तंत्र में सामुदायिक केंद्र सामुदायिक जीवन के लिए केंद्रीय बनने के लिए तैयार हैं, आंतरिक संचार, वास्तविक समय की बातचीत, शासन और विभिन्न उत्पादकता उपकरणों को एकीकृत करते हैं । ये संवर्द्धन यह सुनिश्चित करेंगे कि हब संगठनों द्वारा पहले से नियोजित सर्वोत्तम उपकरणों के साथ जुड़े रहें । वे एक जीवंत, लगे हुए समुदाय को बढ़ावा देने के लिए प्रतिबद्धता की आवश्यकता के लिए एक शक्तिशाली वसीयतनामा के रूप में खड़े हैं ।
+
+
+## 2.5. पुरस्कृत मॉडल
+
+गर्भ में, विभिन्न कार्य गतिविधियों में उपयोगकर्ता जुड़ाव को प्रोत्साहित किया जाता है और प्रत्येक सामुदायिक हब के अद्वितीय कार्यक्रमों के अनुरूप बनाया जाता है । उपयोगकर्ता अपनी सक्रिय भागीदारी को दर्शाते हुए अंक अर्जित करते हैं, प्रत्येक समुदाय बिंदु आवंटन के लिए अपने स्वयं के नियम निर्धारित करता है ।
+
+उदाहरण के लिए, एक आईटी कंपनी गिटहब पर कोडिंग के लिए 10 अंक प्रदान कर सकती है, जबकि एक डिजिटल एजेंसी सोशल मीडिया सगाई पर उच्च मूल्य रख सकती है, जैसे रीट्वीट, समान बिंदुओं के साथ ।
+
+पुरस्कारों का नियमित वितरण प्रत्येक हब में अर्जित अंकों पर आधारित होता है । आमतौर पर, ये मेड टोकन में दिए जाते हैं, जो सीधे उपयोगकर्ताओं के पर्स में दिए जाते हैं । जबकि मीड टोकन इनाम का मानक रूप है, हब में विभिन्न प्रकार के मुआवजे की पेशकश करने की लचीलापन है ।
+
+जब पुरस्कार एमईईडी के अलावा अन्य टोकन में वितरित किए जाते हैं, तो 5% का मामूली शुल्क लागू होता है । यह शुल्क पारिस्थितिकी तंत्र की स्थिरता को बनाए रखने में महत्वपूर्ण भूमिका निभाते हुए जरूरतों के खजाने में योगदान देता है ।
 
 ## 2.6. मिंटियम" मॉडल - कार्य सम्बन्धी तक्ता
 
