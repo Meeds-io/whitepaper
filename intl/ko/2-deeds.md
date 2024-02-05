@@ -1,19 +1,19 @@
 
-# 2. Deeds - The Properties of the WoM
+# 2. 증서-웜의 속성
 
-## 2.1. Deed NFTs
+## 2.1. 증서
 
-In the digital realm, Non-Fungible Tokens (NFTs) serve a similar purpose to deeds in the physical world. Like a deed that confirms ownership of tangible property, NFTs establish indisputable ownership of digital assets. This ownership is securely recorded on a blockchain, ensuring that each asset is unique and non-replicable.
+디지털 영역에서, 대체 불가능한 토큰은 물리적 세계의 행위와 비슷한 목적을 가지고 있습니다. 유형 자산의 소유권을 확인하는 증서와 마찬가지로 디지털 자산의 확실한 소유권을 확립합니다. 이 소유권은 블록 체인에 안전하게 기록되어 각 자산이 고유하고 복제 할 수 없도록합니다.
 
-Within the WoM, a Deed is conceptualized as an NFT, representing the foundational unit of ownership. Holding a Deed empowers its owner to manage a Community Hub and makes them eligible for receiving Mintium rewards, a form of recognition and incentive within the WoM ecosystem (further details in section 2.6).
+이 경우, 증서는 소유권의 기본 단위를 나타내는 것으로 개념화됩니다. 증서를 보유하면 소유자가 커뮤니티 허브를 관리할 수 있게 되고, 커뮤니티 생태계 내에서 인정과 인센티브의 한 형태인 민티움 보상을 받을 수 있게 됩니다.(더 자세한 내용은 2.6 절)
 
-The WoM is designed to be a diverse and inclusive platform. It welcomes a wide array of organizations, from DAOs, traditional businesses, and associations to think tanks, theater companies, project groups, and educational institutions. In this digital landscape, a Deed symbolizes the organization's digital presence and footprint in WoM, functioning as a bridge between their real-world operations and their digital endeavors.
+웜은 다양하고 포괄적인 플랫폼으로 설계되었습니다. 다오스, 전통 기업, 협회, 싱크탱크, 연극회, 프로젝트 그룹, 교육 기관 등 다양한 조직을 환영합니다. 이 디지털 환경에서, 행위는 조직의 디지털 존재와 발자국을 상징하며, 실제 운영과 디지털 노력 사이의 다리 역할을 합니다.
 
 ## 2.2. 증서 공급
 
 WoM은 궁극적으로 제한된 양의 Deeds를 공급할 것입니다. 각 Deed에는 미리 정의된 최대 사용자 수가 포함되어 있으며 Meeds 보상 용량(Minting Power)을 제공합니다. 여기서 '이용자'라는 용어는 직원, 근로자, 프리랜서, 자원봉사자 등 모든 유형을 지칭합니다.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or minting power, the rarest being the most powerful :
+네 가지 유형의 행위가 있으며, 각각 사용자 수, 도시에서의 투표권(2.7 참조) 또는 주조권 측면에서 다른 기능을 제공하며, 가장 희귀한 것은 가장 강력합니다. :
 
 | **Deed 유형** | **최대 사용자** | **채굴 능력** | **희소성** | **시 투표권** |
 | ----------- | ---------- | --------- | ------- | --------- |
@@ -26,53 +26,53 @@ There are four types of Deeds, each providing different capabilities in terms of
 
 Deed는 소유자에게 사용, 임대 또는 판매할 수 있는 권리를 부여합니다.
 
-- USE – The owner can use the Deed to run a hub for his own organization.
-- RENT - The owner can also rent the Deed to another organization and earn passive income.
+- 사용-소유자는 증서를 사용하여 자신의 조직의 허브를 실행할 수 있습니다.
+- 임대-소유자는 또한 증서를 다른 조직에 임대하고 수동 소득을 얻을 수 있습니다.
 - SELL - The owner can sell it on a secondary NFT marketplace such as [OpenSea](https://opensea.io).
 
 Being an active holder or renter of a Deed, the organization is entitled to MEED rewards according to the “mintium” model described below (see 2.6).
 
 ## 2.4. Community Hubs
 
-In today's competitive market, organizations seek to attract and retain top talent not only through compensation but also by enhancing work engagement. The WoM addresses this challenge with a unique, tokenized reward system embodied in Community Hubs.
+미즈 소프트웨어는 오픈 소스이며 자유롭게 배포되기 때문에 조직은 허브 서버를 자체 호스팅하고 네트워크에 연결하여 허브의 설정 및 관리에 더 많은 제어 및 사용자 정의를 부여 할 수 있습니다. 미즈 소프트웨어는 오픈 소스이며 자유롭게 배포되기 때문에 조직은 허브 서버를 자체 호스팅하고 네트워크에 연결하여 허브의 설정 및 관리에 더 많은 제어 및 사용자 정의를 부여 할 수 있습니다.
 
-Within these Hubs, community leaders can drive members engagement by offering a transparent menu of incentives for work items. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
+이러한 허브 내에서 커뮤니티 리더는 작업 항목에 대한 투명한 인센티브 메뉴를 제공하여 구성원 참여를 유도 할 수 있습니다. 미즈 소프트웨어는 오픈 소스이며 자유롭게 배포되기 때문에 조직은 허브 서버를 자체 호스팅하고 네트워크에 연결하여 허브의 설정 및 관리에 더 많은 제어 및 사용자 정의를 부여 할 수 있습니다.
 
-Community Hubs offer a suite of tools and features designed to boost and manage contributor engagement:
+미즈 소프트웨어는 오픈 소스이며 자유롭게 배포되기 때문에 조직은 허브 서버를 자체 호스팅하고 네트워크에 연결하여 허브의 설정 및 관리에 더 많은 제어 및 사용자 정의를 부여 할 수 있습니다.
 
-- **Actions**: Incentivized tasks guide contributors, aligning their efforts with organizational objectives and boosting motivation and direction.
-- **Gamification**: Leaderboards and badges transform work into a fun, competitive experience, enhancing engagement and enjoyment.
-- **Engagement Programs**: Customized programs with specific targets and rewards clarify organizational goals and fairly recognize contributor achievements.
-- **Kudos**: Immediate peer recognition boosts morale and fosters a culture of appreciation, enhancing team cohesion and motivation.
+- 미즈 소프트웨어는 오픈 소스이며 자유롭게 배포되기 때문에 조직은 허브 서버를 자체 호스팅하고 네트워크에 연결하여 허브의 설정 및 관리에 더 많은 제어 및 사용자 정의를 부여 할 수 있습니다.
+- 미즈 소프트웨어는 오픈 소스이며 자유롭게 배포되기 때문에 조직은 허브 서버를 자체 호스팅하고 네트워크에 연결하여 허브의 설정 및 관리에 더 많은 제어 및 사용자 정의를 부여 할 수 있습니다.
+- 미즈 소프트웨어는 오픈 소스이며 자유롭게 배포되기 때문에 조직은 허브 서버를 자체 호스팅하고 네트워크에 연결하여 허브의 설정 및 관리에 더 많은 제어 및 사용자 정의를 부여 할 수 있습니다.
+- 미즈 소프트웨어는 오픈 소스이며 자유롭게 배포되기 때문에 조직은 허브 서버를 자체 호스팅하고 네트워크에 연결하여 허브의 설정 및 관리에 더 많은 제어 및 사용자 정의를 부여 할 수 있습니다.
 - **Spaces**: Organized sub-groups and projects streamline communication and collaboration, increasing collective productivity.
-- **Wallet**: The Wallet app securely stores MEED rewards, representing user contributions, and enables easy transactions both within the Hub and on the broader network.
-- **Perks**: A variety of rewards, from gift cards to NFTs, incentivize ongoing engagement and foster loyalty within the organization’s ecosystem.
-- **Tasks**: Streamlined project and task management tools boost productivity by simplifying workflows and tracking progress.
-- **Notes**: A handy notebook app for documenting essential information like onboarding guides promotes knowledge sharing and organizational self-sufficiency.
-- **Branding**: Customizable Hub appearance attracts new contributors and strengthens their connection to the organization’s identity.
-- **Analytics**: Insightful analytics into community engagement enable leaders to identify effective strategies and make informed decisions for optimization.
+- **월렛**: 월렛 앱은 사용자 기여를 나타내는 보상금을 안전하게 저장하고 허브 내 및 광범위한 네트워크에서 쉽게 거래 할 수 있습니다.
+- 미즈 소프트웨어는 오픈 소스이며 자유롭게 배포되기 때문에 조직은 허브 서버를 자체 호스팅하고 네트워크에 연결하여 허브의 설정 및 관리에 더 많은 제어 및 사용자 정의를 부여 할 수 있습니다.
+- 미즈 소프트웨어는 오픈 소스이며 자유롭게 배포되기 때문에 조직은 허브 서버를 자체 호스팅하고 네트워크에 연결하여 허브의 설정 및 관리에 더 많은 제어 및 사용자 정의를 부여 할 수 있습니다.
+- 미즈 소프트웨어는 오픈 소스이며 자유롭게 배포되기 때문에 조직은 허브 서버를 자체 호스팅하고 네트워크에 연결하여 허브의 설정 및 관리에 더 많은 제어 및 사용자 정의를 부여 할 수 있습니다.
+- 미즈 소프트웨어는 오픈 소스이며 자유롭게 배포되기 때문에 조직은 허브 서버를 자체 호스팅하고 네트워크에 연결하여 허브의 설정 및 관리에 더 많은 제어 및 사용자 정의를 부여 할 수 있습니다.
+- 미즈 소프트웨어는 오픈 소스이며 자유롭게 배포되기 때문에 조직은 허브 서버를 자체 호스팅하고 네트워크에 연결하여 허브의 설정 및 관리에 더 많은 제어 및 사용자 정의를 부여 할 수 있습니다.
 
 
-**Starting a Hub** Initiating a Hub is most seamless via meeds.io, which offers access to a cloud platform managed by the Meeds Association. This platform allows for quick setup and is maintained by the non-profit entity that stewards the WoM. However, the WoM caters to decentralization. As the Meeds software is open source and freely distributed, organizations have the option to self-host a Hub server and connect to the WoM network, granting them more control and customization in their Hub’s setup and management.
+**허브 시작** 허브를 시작하는 것은 다음을 통해 가장 원활합니다 meeds.io,니즈 협회가 관리하는 클라우드 플랫폼에 대한 액세스를 제공합니다. 이 플랫폼은 빠른 설정을 가능하게 하고 여성을 관리하는 비영리 단체가 유지합니다. 그러나, 웜은 분권화를 충족시켜줍니다. 미즈 소프트웨어는 오픈 소스이며 자유롭게 배포되기 때문에 조직은 허브 서버를 자체 호스팅하고 네트워크에 연결하여 허브의 설정 및 관리에 더 많은 제어 및 사용자 정의를 부여 할 수 있습니다.
 
-**Capturing Work Signals** Hubs can integrate with various platforms like GitHub, Twitter, and Discord and are extendable via API to connect with services such as CRM software, accounting software, and clocking terminals. This allows for diverse professional contributions to be recognized and rewarded. All connectors undergo a whitelisting process by the Meeds Association to guarantee integrity and functionality.
+**작업 신호 캡처** 이 웹 브라우저는 줌을 할 때 자동 워드랩을 갖고 있어 사용자는 긴 문장을 끊임없이 스크롤하지 않고도 쉽게 읽을 수 있습니다 이를 통해 다양한 전문적 기여를 인정하고 보상 할 수 있습니다. 모든 커넥터는 무결성과 기능을 보장하기 위해 미즈 협회에 의해 화이트리스트 프로세스를 거칩니다.
 
-**Enriching the Perks Store** Organizations can tailor the store with custom perks, including training courses and gym memberships, creating a self-reinforcing cycle of rewards and engagement. This not only incentivizes contributors but also fosters a deeper connection with the organization’s ecosystem.
+**특전 저장소를 풍부하게** 조직은 교육 과정 및 체육관 멤버십을 포함하여 맞춤형 특전으로 상점을 맞춤화하여 보상과 참여의 자체 강화 사이클을 만들 수 있습니다. 이것은 기여자를 장려할 뿐만 아니라 조직의 생태계와 더 깊은 연결을 촉진합니다.
 
-**Engagement and Rewards** Active participation in the Hub contributes to an organization’s global engagement score. This metric reflects the effectiveness of engagement strategies, considering factors like user activity levels and the equitable distribution of work and rewards. This publicly auditable score, entitles Hubs to a distribution of MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
+**참여 및 보상** 허브에 적극적으로 참여하는 것은 조직의 글로벌 참여 점수에 기여합니다. 이 메트릭은 사용자 활동 수준 및 작업 및 보상의 공평한 분배와 같은 요소를 고려하여 참여 전략의 효과를 반영합니다. 이 공개적으로 감사할 수 있는 점수는 허브에게 프로토콜에서 발행된 필요 토큰의 배포를 허용하며, 그들의 참여 전략의 효과를 측정하는 역할을 합니다.
 
-Looking ahead, Community Hubs in the WoM ecosystem are set to become central to community life, integrating internal communications, real-time interactions, governance, and various productivity tools. These enhancements will ensure that the Hubs remain interconnected with the best tools already employed by organizations. They stand as a powerful testament to Meeds' commitment to fostering a vibrant, engaged community.
+앞으로 웜 생태계의 커뮤니티 허브는 내부 커뮤니케이션, 실시간 상호 작용, 거버넌스 및 다양한 생산성 도구를 통합하여 커뮤니티 생활의 중심이 될 예정입니다. 이러한 개선은 허브가 이미 조직에서 사용하는 최고의 도구와 상호 연결된 상태를 유지하도록 보장합니다. 그들은 활기차고 참여하는 공동체를 육성하기 위한 니즈의 헌신에 대한 강력한 증거로 서 있습니다.
 
 
-## 2.5. Rewarding Model
+## 2.5. 보람 있는 모델
 
-In the WoM, user engagement across various work activities is incentivized and gamified, tailored to each community Hub's unique programs. Users earn points reflecting their active participation, with each community determining its own rules for point allocation.
+자궁에서 다양한 작업 활동에 대한 사용자 참여는 각 커뮤니티 허브의 고유 한 프로그램에 맞게 장려되고 게임화됩니다. 사용자는 자신의 적극적인 참여를 반영하여 포인트를 획득하며, 각 커뮤니티는 포인트 할당에 대한 자체 규칙을 결정합니다.
 
-For example, an IT company might award 10 points for coding on GitHub, whereas a digital agency could place higher value on social media engagement, like retweets, with similar points.
+디지털 에이전시는 리트윗과 같은 소셜 미디어 참여에 비슷한 점수를 부여할 수 있습니다.
 
-Regular distributions of rewards are based on the points accrued in each Hub. Typically, these are given in MEED tokens, delivered directly to users' wallets. While MEED tokens are the standard form of reward, Hubs have the flexibility to offer different types of compensation.
+보상의 정기적인 분배는 각 허브에서 누적된 포인트를 기반으로 합니다. 미즈 소프트웨어는 오픈 소스이며 자유롭게 배포되기 때문에 조직은 허브 서버를 자체 호스팅하고 네트워크에 연결하여 허브의 설정 및 관리에 더 많은 제어 및 사용자 정의를 부여 할 수 있습니다. 미즈 소프트웨어는 오픈 소스이며 자유롭게 배포되기 때문에 조직은 허브 서버를 자체 호스팅하고 네트워크에 연결하여 허브의 설정 및 관리에 더 많은 제어 및 사용자 정의를 부여 할 수 있습니다.
 
-When rewards are distributed in tokens other than MEED, a nominal fee of 5% is applied. This fee contributes to the Meeds treasury, playing a crucial role in maintaining the sustainability of the ecosystem.
+미즈 소프트웨어는 오픈 소스이며 자유롭게 배포되기 때문에 조직은 허브 서버를 자체 호스팅하고 네트워크에 연결하여 허브의 설정 및 관리에 더 많은 제어 및 사용자 정의를 부여 할 수 있습니다. 미즈 소프트웨어는 오픈 소스이며 자유롭게 배포되기 때문에 조직은 허브 서버를 자체 호스팅하고 네트워크에 연결하여 허브의 설정 및 관리에 더 많은 제어 및 사용자 정의를 부여 할 수 있습니다.
 
 ## 2.6. "mintium" 모델 – 작업 참여 토큰화
 
@@ -88,7 +88,7 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 장소:
 
-- $A$ = _활동_ - 일주일 동안 허브 내에서 사용자가 누적한 총 활동 수입니다. (On a Hub, each user action is converted into engagement points, some actions weighting more than others. 인덱스 수준에서는 모든 작업이 선형화됩니다).
+- $A$ = _활동_ - 일주일 동안 허브 내에서 사용자가 누적한 총 활동 수입니다. (허브에서 각 사용자 작업은 참여 포인트로 변환되며, 일부 작업은 다른 작업보다 더 가중됩니다. 인덱스 수준에서는 모든 작업이 선형화됩니다).
 - $U$ = _참여한 사용자_ - 한 주 동안 적어도 하나의 작업으로 포인트에 기여한 사용자입니다.
 - $E_d$ = _허브의 참여율_ - 사용자당 액션($A/U$)
 - $E_w$ = _WoM에 있는 모든 활성 허브의 평균 참여율_입니다.
