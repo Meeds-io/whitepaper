@@ -57,53 +57,53 @@ Pelabur membantu mewujudkan WoM dengan menyediakan kecairan dan dengan mempertar
 
 Setiap ahli juga berhak untuk membeli secara langsung sejumlah besar Meeds dengan diskaun. Jumlah yang disambungkan ke akaun Persatuan ditukar kepada ETH dan ditambah bersama dengan nilai setara Meeds ke kumpulan kecairan.
 
-** Staking / pelaburan jangka panjang ** Untuk menggalakkan pelaburan jangka panjang, Meed yang dipertaruhkan diberi ganjaran. When Meeds are staked, the staker gets some xMeeds tokens. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings. In practice, minted Meeds are effectively added to the holdings of the xMeeds smart contract and distributed to the xMeeds holder when they unstake.
+** Staking / pelaburan jangka panjang ** Untuk menggalakkan pelaburan jangka panjang, Meed yang dipertaruhkan diberi ganjaran. Apabila Meeds dipertaruhkan, staker mendapat beberapa token xMeeds. Meeds yang baru dicetak diedarkan kepada pembesar suara secara proporsyen dengan pegangan xMeeds mereka. Dalam praktiknya, Meeds yang dicetak secara berkesan ditambahkan ke pegangan kontrak pintar xMeeds dan diedarkan kepada pemegang xMeeds apabila mereka tidak mengambil.
 
-By staking Meeds, investors can also redeem Deed NFTs (and then participate in minting through engagement), hence increasing the token demand. Each staked Meeds (xMeeds) grants its owner a number of points per day. The longer the vested period the higher the number of points obtained per xMeeds. Each Deed is then redeemed in exchange for a number of points.
+Dengan mempertaruhkan Meeds, pelabur juga boleh menebus NFT Deed (dan kemudian mengambil bahagian dalam pencetakan melalui penglibatan), dengan itu meningkatkan permintaan token. Setiap meeds yang dipertaruhkan (xMeeds) memberikan pemiliknya beberapa mata setiap hari. Semakin lama tempoh yang diperuntukkan semakin tinggi bilangan mata yang diperolehi setiap xMeeds. Setiap Deed kemudian ditebus sebagai pertukaran untuk beberapa mata.
 
-Points are calculated using the formula below :
+Mata dikira menggunakan formula di bawah :
 
  $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
 
- where :
+ di mana :
 
-- $xMeeds$ : xMeeds balance  with no decimals
-- $T$ : Time elapsed in milliseconds
+- $ xMeeds$: baki xmeeds tanpa perpuluhan
+- $T$: masa berlalu dalam milisaat
 
-The formula avoids favoring large holders in order to distribute Deeds more efficiently and more equitably. For example, the formula gives the following rates :
+Formula ini mengelakkan memihak kepada pemegang besar untuk mengedarkan Deeds dengan lebih cekap dan lebih adil. Sebagai contoh, formula memberikan kadar berikut :
 
-| **Holder Size** | **Holdings**   | **Accrue Rate** |
-| --------------- | -------------- | --------------- |
-| Small           | 1 000 xMeeds   | 28 pts/day      |
-| Medium          | 10 000 xMeeds  | 164 pts/day     |
-| Large           | 100 000 xMeeds | 321 pts/day     |
+| **Saiz Pemegang** | **Holdings**   | **Kadar Terakru** |
+| ----------------- | -------------- | ----------------- |
+| Kecil             | 1 000 xMeeds   | 28 mata / hari    |
+| Sederhana         | 10 000 xMeeds  | 164 mata / hari   |
+| Besar             | 100 000 xMeeds | 321 Mata / Hari   |
 
 
-which leads to the following holding time for each class of holder :
+yang membawa kepada masa memegang berikut untuk setiap kelas pemegang :
 
-| **Card Type** | **Cost**    | **Large Holder** | **Medium Holder** | **Small Holder** |
-| ------------- | ----------- | ---------------- | ----------------- | ---------------- |
-| Common        | 8 000 pts   | 25 days          | 49 days           | 9 months         |
-| Uncommon      | 32 000 pts  | 100 days         | 6 months          | 3 years          |
-| Rare          | 50 000 pts  | 156 days         | 10 months         | 5 years          |
-| Legendary     | 100 000 pts | 311 days         | 20 months         | 10 years         |
+| **Jenis Kad**  | **Kos**     | **Pemegang Besar** | **Pemegang Sederhana** | **Pemegang Kecil** |
+| -------------- | ----------- | ------------------ | ---------------------- | ------------------ |
+| Biasa          | 8 000 pts   | 25 hari            | 49 hari                | 9 bulan            |
+| Tidak biasa    | 32 000 pts  | 100 hari           | 6 bulan                | 6 bulan            |
+| Jarang berlaku | 50 000 pts  | 156 hari           | 10 bulan               | 5 tahun            |
+| Legenda        | 100 000 pts | 311 hari           | 20 bulan               | 10 tahun           |
 
-## 3.6. Meeds DAO governance
+## 3.6. Meeds Dao governance
 
-Meeds token holders need to stake tokens in order to vote on the Meeds DAO decisions such as managing the minting budget or electing DAO board members (annual mandate).
+Pemegang token Meeds perlu mempertaruhkan token untuk mengundi keputusan DAO Meeds seperti menguruskan bajet pencetakan atau memilih ahli lembaga Dao (mandat tahunan).
 
-## 3.7. Decentralized finance (DeFi) user services
+## 3.7. Perkhidmatan Pengguna kewangan terdesentralisasi (DeFi)
 
-The WoM will introduce the blockchain world to many people who do not use it today.
+WoM akan memperkenalkan dunia blockchain kepada ramai orang yang tidak menggunakannya hari ini.
 
-Indeed, any work (whether digital or not) can be gamified and any engagement - rewarded with Meeds. Meeds are rendered available to users through an easy to use, blockchain based, wallet that “abstracts” any complexity of the crypto world to an average user.
+Sesungguhnya, apa - apa kerja (sama ada digital atau tidak) boleh gamified dan apa-apa penglibatan-ganjaran dengan Meeds. Meeds disediakan untuk pengguna melalui dompet berasaskan blockchain yang mudah digunakan yang" mengaburkan " kerumitan dunia crypto kepada pengguna biasa.
 
-Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
+Di luar dompet dan kedai di mana mereka boleh membeli faedah untuk Meeds, kami merancang untuk memperkenalkan setiap pengguna kepada beberapa produk pengguna akhir yang dikuasakan oleh protokol kewangan yang terdesentralisasi, seperti:
 
-- The ability to stake MEED tokens and get yields (generate revenues)
-- The ability to use MEED tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
-- A digital card that can be added and used through Apple Pay, Google pay or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. This card could also be used by organizations to fund employee wallets in order to manage employee benefits such as restaurants, transportation and any type of expenses.
+- Keupayaan untuk mempertaruhkan token MEED dan mendapatkan hasil (menjana pendapatan)
+- Keupayaan untuk menggunakan token NEED sebagai cagaran untuk meminjam syiling stabil seperti USDC (memanfaatkan dahulu [Fusepool](https://app.rari.capital/fuse) kemudian mendaftarkan token Meeds kepada [AAVE](https://aave.com/).
+- Kad digital yang boleh ditambah dan digunakan melalui Apple Pay, Google pay atau mana-mana ATM. Yang terakhir boleh disediakan melalui perkongsian dengan VISA dan akan memanfaatkan garis kredit di USDC, yang dijamin oleh Meeds yang dipertaruhkan. Kad ini juga boleh digunakan oleh organisasi untuk membiayai dompet pekerja untuk menguruskan faedah pekerja seperti restoran, pengangkutan dan apa-apa jenis perbelanjaan.
 
-So not only many new users will discover the blockchain world, they will also discover a bankless world.
+Jadi bukan sahaja ramai pengguna baru akan menemui dunia blockchain, mereka juga akan menemui dunia tanpa bank.
 
  

@@ -1,69 +1,69 @@
-# 5. WoM for ALL – vision summary and milestones
+# 5. WOM untuk semua – ringkasan visi dan pencapaian
 
-## 5.1. Ultimate Goal - Decentralized web for everyone
+## 5.1. Matlamat utama - Web terdesentralisasi untuk semua orang
 
-In the end, the WoM is a decentralized web world for everyone – every person and all organizations.
+Pada akhirnya, WoM adalah dunia web yang terdesentralisasi untuk semua orang – setiap orang dan semua organisasi.
 
-It will be populated by users, acting through their digital identities **Xeeds** and accessing the world through their metamasks, for crypto-savvies, or login/password for the newbies. People would allocate their engagement and get rewarded in a fair, transparent and decentralized way. They would get access to the decentralized world and the cryptoworld of tomorrow in an easy and familiar way - they would get simple tools to use their tokens in their lives or invest them for their future.
+Ia akan dihuni oleh pengguna, bertindak melalui identiti digital mereka** Xed ** dan mengakses Dunia melalui metamasks mereka, untuk crypto-savvies, atau log masuk/kata laluan untuk pemula. Orang akan memperuntukkan penglibatan mereka dan mendapat ganjaran dengan cara yang adil, telus dan terdesentralisasi. Mereka akan mendapat akses ke dunia yang terdesentralisasi dan cryptoworld of tomorrow dengan cara yang mudah dan biasa - mereka akan mendapat alat mudah untuk menggunakan token mereka dalam kehidupan mereka atau melaburkannya untuk masa depan mereka.
 
-Organizations would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the WoM, by minting tokens through their users engagement (mintium model). But most of all, they would benefit from a higher engagement and loyalty from their users.
+Organisasi akan dapat mencari bakat, melayari WoM, untuk kemahiran yang terbukti dengan betul. Mereka akan mendapat ganjaran untuk penyertaan mereka dalam rahim, dengan mencetak token melalui penglibatan pengguna mereka (model minimum). Tetapi yang paling penting, mereka akan mendapat manfaat daripada penglibatan dan kesetiaan yang lebih tinggi daripada pengguna mereka.
 
-The WoM would have its own currency the **MEED** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
+WOM akan mempunyai mata wang sendiri** MEED ** yang akan berada di sana untuk dibelanjakan di kedai, menukar ke mata wang lain, melabur untuk pulangan pelaburan, menyewa atau membeli dan lain – lain. WoM juga akan memudahkan pengedaran token lain dan mengambil bahagian dalam ekosistem crypto keseluruhan.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
+Sebagai gambar bernilai seribu perkataan, berikut adalah gambarajah yang menggambarkan aliran yang dipakai dan Meeds
 
 ![WoM and Meeds flows](en/img/wom-flows.png)
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
+Sebagai gambar bernilai seribu perkataan, berikut adalah gambarajah yang menggambarkan aliran yang dipakai dan Meeds.
 
-## 5.2. What’s in it for early adopters
+## 5.2. Apa yang ada di dalamnya untuk pengguna awal
 
-Obviously, early adopters would get considerable advantages over the late comers.
+Jelas sekali, pengguna awal akan mendapat kelebihan yang besar berbanding pendatang lewat.
 
-In particular, the WoM rewards long-term investment in the verse – that is the redeeming of the property (Deeds). The Deed’s original owner get compensated through engagement minting (active use), through passive income (renting) and get a life-long 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer gets a fee on the transaction).
+Khususnya, WoM memberi ganjaran pelaburan jangka panjang dalam ayat – iaitu penebusan harta (perbuatan). Pemilik asal Deed mendapat pampasan melalui pencetakan pertunangan (penggunaan aktif), melalui pendapatan pasif (sewa) dan mendapat 1% seumur hidup pada sebarang transaksi penjualan Deed (pada setiap perubahan pemilikan, Penebus asal mendapat bayaran pada transaksi).
 
-By believing in the project, participating in the liquidity pools, staking MEED tokens, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the WoM.
+Dengan mempercayai projek itu, mengambil bahagian dalam kumpulan kecairan, mempertaruhkan token MEED, menebusnya terhadap perbuatan...pelabur awal dari semua saiz akan mencetak token tambahan. Mereka juga akan mendapat hak mengundi paling awal dan membantu membentuk WoM.
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
+Organisasi yang memperoleh tetapi terutamanya menggunakan Akta untuk melibatkan dan memberi ganjaran kepada pekerja mereka akan mendapat pampasan dalam makanan yang dicetak. Lebih adil mereka akan bermain, lebih banyak mereka akan mendapat. Pengguna awal akan dikaitkan dengan bandar-bandar bersejarah pertama dan akan dikenal pasti sebagai pembina kemudian.
 
-The diagram below represents an example of the Meeds investment strategy for capital holders :
+Rajah di bawah menunjukkan contoh strategi pelaburan Meeds untuk pemegang modal :
 
 ![Meeds investment strategy for capital holders](en/img/invest-capital.png)
 
-Organizations can of course participate in liquidity pools, but also join the community of builders and get additional engagement rewards there.
+Organisasi tentu saja boleh mengambil bahagian dalam kumpulan kecairan, tetapi juga bergabung dengan komuniti pembina dan mendapat ganjaran penglibatan tambahan di sana.
 
-The diagram below represents an example of the Meeds investment strategy for work holders :
+Rajah di bawah menunjukkan contoh strategi pelaburan Meeds untuk pemegang kerja :
 
 ![Meeds investment strategy for work holders](en/img/invest-work.png)
 
-## 5.3. The launch
+## 5.3. Pelancaran
 
-The official launch of the WoM was **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+Pelancaran rasmi WoM ialah ** 1 Mei 2022** – Hari Pekerja Antarabangsa, disambut di banyak negara.
 
-At that time, the MEED token already existed. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
+Pada masa itu, token MEED sudah wujud. Adalah mungkin untuk memperolehnya dan kolam kecairan terbuka untuk penyertaan, pada rangkaian Polygon dan Ethereum.
 
-Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
+Tiga ahli Persatuan Meeds menggunakan sistem ini secara dalaman untuk melibatkan dan memberi ganjaran kepada pengguna mereka dan meningkatkan perisian Meeds.
 
-The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
+Aplikasi pelabur boleh didapati di Ethereum Main net. Pada pelancaran, ia termasuk staking, ganjaran kecairan, pengumpulan mata dan penebusan Deeds.
 
-The Builders community is up and running, open to anyone who would want to join, test and participate. It is possible to login with Metamask.
+Komuniti pembina adalah dan berjalan, terbuka kepada sesiapa sahaja yang ingin menyertai, menguji dan mengambil bahagian. Ia adalah mungkin untuk log masuk dengan Metamark.
 
-This paper was initially published on the launch day. Following the launch, the token will be air-dropped to many people across the crypto community.
+Kertas ini pada mulanya diterbitkan pada hari pelancaran. Berikutan pelancaran itu, token itu akan diturunkan kepada ramai orang di seluruh komuniti crypto.
 
-## 5.4. The builders community
+## 5.4. Komuniti pembina
 
-We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the WoM. The association would reward builders engagement with Meeds, from its marketing budget.
+Kami melancarkan komuniti pembina pada perisian Meeds dan Discord. Masyarakat mengalu-alukan sesiapa sahaja yang ingin mengambil bahagian dalam pembinaan WoM. Persatuan itu akan memberi ganjaran kepada pembina yang terlibat dengan Meeds, dari bajet pemasarannya.
 
-The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
+Persatuan itu juga merancang untuk mempertaruhkan beberapa Meed untuk memperoleh (menebus) Akta untuk komuniti pembina. Komuniti kemudian akan mencetak Meed dengan penglibatan, melalui model minimum, dan mengedarkannya kepada pengguna yang terlibat.
 
-## 5.5. Roadmap and milestones
+## 5.5. Peta jalan dan pencapaian
 
-Our roadmap would follow the priority order below:
+Pelan tindakan kami akan mengikut urutan keutamaan di bawah:
 
-- Engagement index and minting through engagement
-- Enable Deeds renting
-- Xeed creation
-- Badges improvement and credentials development
+- Indeks penglibatan dan perlombongan melalui penglibatan
+- Membolehkan perbuatan menyewa
+- Penciptaan Xeed
+- Peningkatan lencana dan pembangunan kelayakan
 - DeFi services – in the wallet, credit cards partnership
 
 We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the WoM by providing relevant engagement programs to their people, on top of their current traditional compensation plans.
