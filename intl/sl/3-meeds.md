@@ -35,9 +35,9 @@ V obdobju kovanja se **30 % kovanih žetonov Meeds dodeli združenju Meeds**.
 
 Brez članstva lahko vsaka organizacija sodeluje pri ustvarjanju novega priključka in je za to nagrajena - najprej prek združenja Meeds, ki pridobi priključek, nato pa z rudarjenjem prek tega priključka.
 
-The association operates its own community hub named the _Meeds Builders Hub_ that welcomes enthusiasts, who want to contribute to the creation of the WoM. The association sponsors the community out of its budget, compensating the engagement of community members.
+Združenje upravlja lastno središče skupnosti, imenovano _Meeds Builders Hub_, ki pozdravlja navdušence, ki želijo prispevati k ustvarjanju WoM. Društvo sponzorira skupnost iz svojega proračuna in s tem nadomesti angažiranje članov skupnosti.
 
-Thus, the builders' hub functions as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. Združenje zastavi zemljišča, da bi odkupilo listino za svojo skupnost. Thus, the Builder's Hub also benefits in the engagement minting like any other Hub backed by a Deed.
+Tako gradbeno središče deluje kot živi primer skupnosti, ki jo podpira programska oprema Meeds in ponuja standardni nabor storitev, ki jih zagotavlja združenje. Združenje zastavi zemljišča, da bi odkupilo listino za svojo skupnost. Tako ima Builder's Hub tudi koristi pri zaročnem kovanju kot vsako drugo središče, podprto z listino.
 
 Po izteku obdobja kovanja bo združenje vzdrževalo :
 
@@ -59,7 +59,7 @@ Vsak član ima tudi pravico do neposrednega nakupa večje količine žetonov Mee
 
 **Stave / dolgoročne naložbe** Da bi spodbudili dolgoročne naložbe, se nagrajujejo vložki Meeds. Ko je žeton Meeds postavljen, dobi postavljavec nekaj žetonov xMeeds. Novo izkovani žetoni Meeds se razdeljujejo vlagateljem sorazmerno z njihovim imetjem žetonov xMeeds. V praksi se izkovani žetoni Meeds dejansko dodajo imetjem pametne pogodbe xMeeds in se razdelijo imetniku žetona xMeeds, ko ta razveljavi zastavo.
 
-By staking Meeds, investors can also redeem Deed NFTs (and then participate in minting through engagement), hence increasing the token demand. Vsak zastavljeni Meeds (xMeeds) svojemu lastniku podeli določeno število točk na dan. Daljše kot je obdobje stegovanja, večje je število točk, ki se pridobijo na xMeeds. Vsak Deed se nato unovči v zameno za določeno število točk.
+Z vložkom Meedsa lahko vlagatelji tudi unovčijo Deed NFT (in nato sodelujejo pri kovanju prek sodelovanja), s čimer se poveča povpraševanje po žetonih. Vsak zastavljeni Meeds (xMeeds) svojemu lastniku podeli določeno število točk na dan. Daljše kot je obdobje stegovanja, večje je število točk, ki se pridobijo na xMeeds. Vsak Deed se nato unovči v zameno za določeno število točk.
 
 Točke se izračunajo po spodnji formuli :
 
@@ -100,8 +100,8 @@ Vsako delo (digitalno ali ne) je namreč mogoče igrificirati in vsako sodelovan
 
 Poleg denarnice in trgovine, v kateri lahko kupijo ugodnosti za Meeds, nameravamo vsakemu uporabniku predstaviti več izdelkov za končne uporabnike, ki jih poganjajo Decentralizirani Finančni protokoli, kot so npr:
 
-- The ability to stake MEED tokens and get yields (generate revenues)
-- The ability to use MEED tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
+- Možnost vlaganja žetonov MEED in pridobivanja donosov (ustvarjanje prihodkov)
+- Možnost uporabe žetonov MEED kot zavarovanja za izposojo stabilnih kovancev, kot je USDC (najprej izkoristite [Fuse pool](https://app.rari.capital/fuse) in nato registrirajte žeton Meeds na< 1>AAVE/1>.
 - Digitalna kartica, ki jo lahko dodate in uporabite prek storitev Apple Pay, Google pay ali katerega koli bankomata. Slednja je lahko zagotovljena prek partnerstva z družbo VISA in bo uporabljala kreditno linijo v USDC, zavarovano z zastavljenimi Meedov. To kartico bi lahko uporabljale tudi organizacije za financiranje denarnic zaposlenih za upravljanje ugodnosti za zaposlene, kot so restavracije, prevozi in vse vrste stroškov.
 
 Tako bodo številni novi uporabniki odkrili ne le svet veriženja blokov, temveč tudi svet brez bank.

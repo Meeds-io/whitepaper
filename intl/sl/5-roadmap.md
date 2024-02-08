@@ -22,7 +22,7 @@ Očitno bi imeli zgodnji uporabniki precejšnjo prednost pred poznimi.
 
 Zlasti WoM nagrajuje dolgoročno naložbo v verz - to je odkup premoženja (Deeds). Prvotni lastnik Deedov dobi nadomestilo z izklicem angažmaja (aktivna uporaba), s pasivnim dohodkom (najem) in dobi doživljenjski 1 % na vsako transakcijo prodaje Deeds (ob vsaki spremembi lastništva prvotni odkupovalec dobi provizijo na transakcijo).
 
-By believing in the project, participating in the liquidity pools, staking MEED tokens, redeeming them against Deeds...early investors of all sizes would mint additional tokens. Prav tako bi dobili najzgodnejše volilne pravice in pomagali oblikovati žensko.
+Z vero v projekt, sodelovanjem v likvidnostnih skladih, vlaganjem žetonov MEED, njihovim unovčenjem proti Deeds... bi prvi vlagatelji vseh velikosti kovali dodatne žetone. Prav tako bi dobili najzgodnejše volilne pravice in pomagali oblikovati žensko.
 
 Organizacije, ki bi pridobivale, zlasti pa uporabljale žetone Deeds za vključevanje in nagrajevanje svojih zaposlenih, bi dobile nadomestilo v izkopanih žetonih Meeds. Čim bolj pošteno bodo igrale, tem več bodo dobile. Zgodnejši uporabniki bi bili povezani s prvimi zgodovinskimi mesti in bi bili pozneje prepoznani kot graditelji.
 
@@ -38,17 +38,17 @@ Spodnji diagram predstavlja primer Meeds naložbene strategije za imetnike dela 
 
 ## 5.3. Začetek
 
-The official launch of the WoM was **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+Uradna uvedba WoM je bila **1. maj 2022** – mednarodni dan delavcev, ki ga praznujejo številne države.
 
-At that time, the MEED token already existed. Mogoče ga je pridobiti, odprti pa so tudi likvidnostni bazeni v omrežjih Polygon in Ethereum.
+Takrat je žeton MEED že obstajal. Mogoče ga je pridobiti, odprti pa so tudi likvidnostni bazeni v omrežjih Polygon in Ethereum.
 
 Trije člani združenja Meeds sistem uporabljajo interno, da bi vključili in nagradili svoje uporabnike ter izboljšali programsko opremo Meeds.
 
 Aplikacija za vlagatelje je na voljo v glavnem omrežju Ethereum. Ob zagonu vključuje stave, likvidnostne nagrade, zbiranje točk in unovčevanje Deedov.
 
-The Builders community is up and running, open to anyone who would want to join, test and participate. Mogoče se je prijaviti z Metamask.
+Skupnost Builders deluje in je odprta za vse, ki bi se želeli pridružiti, testirati in sodelovati. Mogoče se je prijaviti z Metamask.
 
-This paper was initially published on the launch day. Po uvedbi bo žeton v zraku prejelo veliko ljudi v kriptografski skupnosti.
+Ta dokument je bil prvotno objavljen na dan predstavitve. Po uvedbi bo žeton v zraku prejelo veliko ljudi v kriptografski skupnosti.
 
 ## 5.4. Skupnost gradbenikov
 

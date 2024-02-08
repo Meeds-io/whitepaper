@@ -13,7 +13,7 @@ Vom je zasnovan kot raznolika in vključujoča platforma. Pozdravlja široko pal
 
 WoM bo na koncu zagotovil omejeno število Deedy. Vsaka Deed vključuje vnaprej določeno največje število uporabnikov in ponuja zmogljivost nagrajevanja Meeds (Minting Power). Izraz "uporabnik" tukaj in v nadaljevanju označuje katero koli vrsto zaposlenega, delavca, samostojnega podjetnika, prostovoljca itd.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or minting power, the rarest being the most powerful :
+Obstajajo štiri vrste listin, od katerih vsaka zagotavlja različne zmogljivosti glede na število uporabnikov, glasovalne pravice v mestu (glejte 2.7) ali moč kovanja, pri čemer so najredkejše najmočnejše:
 
 | **Vrsta Deed** | **Max uporabnikov** | **Menjalna moč** | **Pomanjkanje** | **Glasovalne pravice mesta** |
 | -------------- | ------------------- | ---------------- | --------------- | ---------------------------- |
@@ -26,53 +26,53 @@ There are four types of Deeds, each providing different capabilities in terms of
 
 Deed o lastništvu daje lastniku pravico, da jo UPORABLJA, ODDAJA v NAJEM ali proda.
 
-- USE – The owner can use the Deed to run a hub for his own organization.
-- RENT - The owner can also rent the Deed to another organization and earn passive income.
+- UPORABA – Lastnik lahko uporabi listino za vodenje središča za lastno organizacijo.
+- UPORABA – Lastnik lahko uporabi listino za vodenje središča za lastno organizacijo.
 - SELL - The owner can sell it on a secondary NFT marketplace such as [OpenSea](https://opensea.io).
 
-Being an active holder or renter of a Deed, the organization is entitled to MEED rewards according to the “mintium” model described below (see 2.6).
+Ker je organizacija aktivni imetnik ali najemnik listine, je upravičena do nagrad MEED v skladu z modelom »mintium«, ki je opisan spodaj (glejte 2.6).
 
-## 2.4. Community Hubs
+## 2.4. Središča skupnosti
 
-In today's competitive market, organizations seek to attract and retain top talent not only through compensation but also by enhancing work engagement. The WoM addresses this challenge with a unique, tokenized reward system embodied in Community Hubs.
+Na današnjem konkurenčnem trgu si organizacije prizadevajo pritegniti in obdržati vrhunske talente ne le s plačilom, ampak tudi s povečanjem delovne angažiranosti. WoM obravnava ta izziv z edinstvenim, tokeniziranim sistemom nagrajevanja, utelešenim v središčih skupnosti.
 
-Within these Hubs, community leaders can drive members engagement by offering a transparent menu of incentives for work items. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
+Znotraj teh središč lahko vodje skupnosti spodbudijo sodelovanje članov s ponudbo preglednega menija spodbud za delovne elemente. Udeleženci si za svoja prizadevanja prislužijo angažirane točke, ki se občasno pretvorijo v žetone MEED ali enakovredno po meri v skladu z vnaprej določenim proračunom.
 
-Community Hubs offer a suite of tools and features designed to boost and manage contributor engagement:
+Središča skupnosti ponujajo nabor orodij in funkcij, namenjenih spodbujanju in upravljanju angažiranosti sodelavcev:
 
-- **Actions**: Incentivized tasks guide contributors, aligning their efforts with organizational objectives and boosting motivation and direction.
-- **Gamification**: Leaderboards and badges transform work into a fun, competitive experience, enhancing engagement and enjoyment.
-- **Engagement Programs**: Customized programs with specific targets and rewards clarify organizational goals and fairly recognize contributor achievements.
-- **Kudos**: Immediate peer recognition boosts morale and fosters a culture of appreciation, enhancing team cohesion and motivation.
-- **Spaces**: Organized sub-groups and projects streamline communication and collaboration, increasing collective productivity.
-- **Wallet**: The Wallet app securely stores MEED rewards, representing user contributions, and enables easy transactions both within the Hub and on the broader network.
-- **Perks**: A variety of rewards, from gift cards to NFTs, incentivize ongoing engagement and foster loyalty within the organization’s ecosystem.
-- **Tasks**: Streamlined project and task management tools boost productivity by simplifying workflows and tracking progress.
-- **Notes**: A handy notebook app for documenting essential information like onboarding guides promotes knowledge sharing and organizational self-sufficiency.
-- **Branding**: Customizable Hub appearance attracts new contributors and strengthens their connection to the organization’s identity.
-- **Analytics**: Insightful analytics into community engagement enable leaders to identify effective strategies and make informed decisions for optimization.
-
-
-**Starting a Hub** Initiating a Hub is most seamless via meeds.io, which offers access to a cloud platform managed by the Meeds Association. This platform allows for quick setup and is maintained by the non-profit entity that stewards the WoM. However, the WoM caters to decentralization. As the Meeds software is open source and freely distributed, organizations have the option to self-host a Hub server and connect to the WoM network, granting them more control and customization in their Hub’s setup and management.
-
-**Capturing Work Signals** Hubs can integrate with various platforms like GitHub, Twitter, and Discord and are extendable via API to connect with services such as CRM software, accounting software, and clocking terminals. This allows for diverse professional contributions to be recognized and rewarded. All connectors undergo a whitelisting process by the Meeds Association to guarantee integrity and functionality.
-
-**Enriching the Perks Store** Organizations can tailor the store with custom perks, including training courses and gym memberships, creating a self-reinforcing cycle of rewards and engagement. This not only incentivizes contributors but also fosters a deeper connection with the organization’s ecosystem.
-
-**Engagement and Rewards** Active participation in the Hub contributes to an organization’s global engagement score. This metric reflects the effectiveness of engagement strategies, considering factors like user activity levels and the equitable distribution of work and rewards. This publicly auditable score, entitles Hubs to a distribution of MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
-
-Looking ahead, Community Hubs in the WoM ecosystem are set to become central to community life, integrating internal communications, real-time interactions, governance, and various productivity tools. These enhancements will ensure that the Hubs remain interconnected with the best tools already employed by organizations. They stand as a powerful testament to Meeds' commitment to fostering a vibrant, engaged community.
+- **Dejanja**: Spodbujene naloge vodijo sodelavce, usklajujejo njihova prizadevanja z organizacijskimi cilji ter povečujejo motivacijo in usmeritev.
+- **Gamification**: Lestvice najboljših in značke spremenijo delo v zabavno, tekmovalno izkušnjo, ki povečuje angažiranost in užitek.
+- **Programi angažiranja**: Prilagojeni programi s posebnimi cilji in nagradami pojasnjujejo organizacijske cilje in pravično priznavajo dosežke sodelavcev.
+- **Pohvala**: Takojšnje priznanje vrstnikov dvigne moralo in spodbuja kulturo spoštovanja ter izboljša povezanost in motivacijo ekipe.
+- **Prostori**: Organizirane podskupine in projekti poenostavljajo komunikacijo in sodelovanje ter povečujejo kolektivno produktivnost.
+- **Wallet**: Aplikacija Wallet varno shranjuje nagrade MEED, ki predstavljajo prispevke uporabnikov, in omogoča enostavne transakcije tako znotraj središča kot v širšem omrežju.
+- **Perks**: Različne nagrade, od darilnih kartic do NFT-jev, spodbujajo stalno sodelovanje in spodbujajo zvestobo v ekosistemu organizacije.
+- **Tasks**: poenostavljena orodja za upravljanje projektov in opravil povečujejo produktivnost s poenostavitvijo delovnih tokov in sledenjem napredku.
+- **Opombe**: Priročna aplikacija za beležnice za dokumentiranje bistvenih informacij, kot so vodniki za vkrcanje, spodbuja izmenjavo znanja in organizacijsko samozadostnost.
+- **Branding**: Prilagodljiv videz središča pritegne nove sodelavce in okrepi njihovo povezavo z identiteto organizacije.
+- **Analitika**: pronicljiva analitika sodelovanja skupnosti omogoča vodjem, da prepoznajo učinkovite strategije in sprejemajo informirane odločitve za optimizacijo.
 
 
-## 2.5. Rewarding Model
+**Zagon vozlišča** Zagon vozlišča je najbolj enostaven prek meeds.io, ki ponuja dostop do platforme v oblaku, ki jo upravlja Meeds Association. Ta platforma omogoča hitro nastavitev in jo vzdržuje neprofitni subjekt, ki upravlja WoM. Vendar WoM skrbi za decentralizacijo. Ker je programska oprema Meeds odprtokodna in se prosto distribuira, imajo organizacije možnost, da same gostijo strežnik Hub in se povežejo z omrežjem WoM, kar jim omogoča več nadzora in prilagajanja pri nastavitvi in ​​upravljanju njihovega Huba.
 
-In the WoM, user engagement across various work activities is incentivized and gamified, tailored to each community Hub's unique programs. Users earn points reflecting their active participation, with each community determining its own rules for point allocation.
+0>Zajemanje delovnih signalov/0> Vozlišča se lahko integrirajo z različnimi platformami, kot so GitHub, Twitter in Discord, in jih je mogoče razširiti prek API-ja za povezavo s storitvami, kot so programska oprema CRM, računovodska programska oprema in terminali za merjenje časa. To omogoča priznavanje in nagrajevanje raznolikih strokovnih prispevkov. Vsi priključki so podvrženi postopku dodajanja na seznam dovoljenih s strani Meeds Association, da se zagotovi celovitost in funkcionalnost.
 
-For example, an IT company might award 10 points for coding on GitHub, whereas a digital agency could place higher value on social media engagement, like retweets, with similar points.
+0>Obogatitev trgovine z ugodnostmi/0> Organizacije lahko prilagodijo trgovino z ugodnostmi po meri, vključno s tečaji usposabljanja in članstvom v telovadnici, s čimer ustvarijo samookrepljujoč cikel nagrad in sodelovanja. To ne le spodbuja sodelavce, temveč spodbuja tudi globljo povezavo z ekosistemom organizacije.
 
-Regular distributions of rewards are based on the points accrued in each Hub. Typically, these are given in MEED tokens, delivered directly to users' wallets. While MEED tokens are the standard form of reward, Hubs have the flexibility to offer different types of compensation.
+0>Udeležba in nagrade/0> Aktivna udeležba v središču prispeva k globalnemu rezultatu angažiranosti organizacije. Ta metrika odraža učinkovitost strategij angažiranja, pri čemer upošteva dejavnike, kot so stopnje aktivnosti uporabnikov ter pravična porazdelitev dela in nagrad. Ta javno revidirana ocena daje vozliščem pravico do distribucije žetonov MEED, kovanih iz protokola, ki služijo kot merilo učinkovitosti njihovih strategij sodelovanja.
 
-When rewards are distributed in tokens other than MEED, a nominal fee of 5% is applied. This fee contributes to the Meeds treasury, playing a crucial role in maintaining the sustainability of the ecosystem.
+Če pogledamo naprej, naj bi vozlišča skupnosti v ekosistemu WoM postala osrednja v življenju skupnosti, saj bodo vključevala notranje komunikacije, interakcije v realnem času, upravljanje in različna orodja za produktivnost. Te izboljšave bodo zagotovile, da bodo središča ostala medsebojno povezana z najboljšimi orodji, ki jih organizacije že uporabljajo. Stojijo kot močan dokaz Meedsove zavezanosti spodbujanju živahne, angažirane skupnosti.
+
+
+## 2.5. Model za nagrajevanje
+
+V WoM je vključevanje uporabnikov v različne delovne dejavnosti spodbujeno in igrificirano, prilagojeno edinstvenim programom vsakega središča skupnosti. Uporabniki zaslužijo točke, ki odražajo njihovo aktivno sodelovanje, pri čemer vsaka skupnost določi svoja pravila za dodeljevanje točk.
+
+IT-podjetje bi lahko na primer podelilo 10 točk za kodiranje na GitHubu, medtem ko bi lahko digitalna agencija s podobnimi točkami dala večjo vrednost sodelovanju v družbenih medijih, kot so ponovni tviti.
+
+Redna razdelitev nagrad temelji na točkah, zbranih v posameznem središču. Običajno so ti podani v žetonih MEED, dostavljenih neposredno v denarnice uporabnikov. Medtem ko so žetoni MEED standardna oblika nagrajevanja, imajo vozlišča prilagodljivost, da ponujajo različne vrste nadomestil.
+
+Ko%20nagrade%20so%20razdeljene%20v%20žetonih%20drugih%20kot%20MEED,%20se%20uporabi%20nominalna%20provizija%20%205%%20. Ta pristojbina prispeva v zakladnico Meeds in igra ključno vlogo pri ohranjanju trajnosti ekosistema.
 
 ## 2.6. Model "mintium" - ponotranjenje delovne zavzetosti
 
@@ -88,7 +88,7 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Kje :
 
-- $A$ = Aktivnost - skupno število akcij, ki so jih uporabniki v vozlišču opravili v enem tednu. (On a Hub, each user action is converted into engagement points, some actions weighting more than others. Na ravni indeksa so vsa dejanja linearizirana).
+- $A$ = Aktivnost - skupno število akcij, ki so jih uporabniki v vozlišču opravili v enem tednu. (V vozlišču se vsako dejanje uporabnika pretvori v točke sodelovanja, pri čemer imajo nekatera dejanja večjo težo kot druga. Na ravni indeksa so vsa dejanja linearizirana).
 - $U$ = _Angažirani uporabniki_ - uporabniki, ki so med tednom prispevali k točkam z vsaj enim dejanjem.
 - $E_d$ = stopnja vključenosti vozlišča - akcije na uporabnika ($A/U$)
 - $E_w$ = povprečna stopnja vključenosti vseh aktivnih vozlišč v WoM
