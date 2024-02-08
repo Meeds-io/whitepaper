@@ -15,7 +15,7 @@
 
 Meeds מוטבעים מוקצים כדי לעודד מעורבות של שלוש הקטגוריות של בעלי עניין - המשתמשים, הבונים והמשקיעים:
 
-- The users (users and Deed holders/renters) get Meeds through engagement rewards (mintium model).
+- המשתמשים (משתמשים ובעלי מעשים/שוכרים) מקבלים צרכים באמצעות תגמולי מעורבות (מודל מינימלי).
 - בונים (חברי האגודה והקהילה) מקבלים מידס דרך כספי האגודה כדי לבנות, להפעיל ולשפר את ה-WoM.
 - משקיעים מטביעים Meeds באמצעות השכרה וקנייה של מאגרי נזילות והחזקה של Meeds.
 
@@ -23,7 +23,7 @@ Meeds מוטבעים מוקצים כדי לעודד מעורבות של שלוש
 
 ## 3.3. משתמשים - טביעה באמצעות מעורבות
 
-חלק מה-Meeds המוטבעים ברציפות מוקצה לערוץ הטבעת האירוסין. החלוקה מתבצעת מדי שבוע. At any given week end, the engagement index is calculated so that Hubs leaders and Deed owners can claim their rewards the following week and get their Meeds. Meeds שלא נתבעו נשארים בקרן ומתווספים להפצה של השבוע הבא. המודל מתואר בהרחבה בפרק הקודם (חלק 2.6).
+חלק מה-Meeds המוטבעים ברציפות מוקצה לערוץ הטבעת האירוסין. החלוקה מתבצעת מדי שבוע. בכל סוף שבוע נתון, מדד המעורבות מחושב כך שמנהיגי הרכזות ובעלי העבודות יוכלו לתבוע את התגמולים שלהם בשבוע שלאחר מכן ולקבל את התרופות שלהם. Meeds שלא נתבעו נשארים בקרן ומתווספים להפצה של השבוע הבא. המודל מתואר בהרחבה בפרק הקודם (חלק 2.6).
 
 ## 3.4. בונים – עמותת Meeds DAO וקהילת בונים
 
@@ -35,9 +35,9 @@ WoM ו-Meeds token מופעלים על ידי עמותת Meeds Association DAO, 
 
 מבלי להיות חבר, כל ארגון יכול להשתתף ביצירת מחבר חדש ולהיות מתוגמל על כך – תחילה באמצעות אגודת מידס רכישת המחבר ולאחר מכן על ידי טביעת דרך מחבר זה.
 
-The association operates its own community hub named the _Meeds Builders Hub_ that welcomes enthusiasts, who want to contribute to the creation of the WoM. The association sponsors the community out of its budget, compensating the engagement of community members.
+The association operates its own community hub named the _Meeds Builders Hub_ that welcomes enthusiasts, who want to contribute to the creation of the WoM. האגודה מממן את הקהילה מחוץ לתקציב שלה, ומפצה על מעורבותם של חברי הקהילה.
 
-Thus, the builders' hub functions as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. האגודה מעמידה את מידס כדי לפדות חוזה עבור הקהילה שלה. Thus, the Builder's Hub also benefits in the engagement minting like any other Hub backed by a Deed.
+לפיכך, רכזת הבונים מתפקדת כדוגמה חיה לקהילה המוסמכת על ידי תוכנת צרכים, ומציעה מערך שירותים סטנדרטי הניתן על ידי העמותה. האגודה מעמידה את מידס כדי לפדות חוזה עבור הקהילה שלה. Thus, the Builder's Hub also benefits in the engagement minting like any other Hub backed by a Deed.
 
 לאחר סיום תקופת ההטבעה, העמותה תתקיים על ידי:
 

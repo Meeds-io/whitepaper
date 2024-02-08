@@ -61,18 +61,18 @@ Community Hubs offer a suite of tools and features designed to boost and manage 
 
 **Engagement and Rewards** Active participation in the Hub contributes to an organization’s global engagement score. This metric reflects the effectiveness of engagement strategies, considering factors like user activity levels and the equitable distribution of work and rewards. This publicly auditable score, entitles Hubs to a distribution of MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
 
-Looking ahead, Community Hubs in the WoM ecosystem are set to become central to community life, integrating internal communications, real-time interactions, governance, and various productivity tools. These enhancements will ensure that the Hubs remain interconnected with the best tools already employed by organizations. They stand as a powerful testament to Meeds' commitment to fostering a vibrant, engaged community.
+Looking ahead, Community Hubs in the WoM ecosystem are set to become central to community life, integrating internal communications, real-time interactions, governance, and various productivity tools. שיפורים אלה יבטיחו כי רכזות להישאר מחוברים עם הכלים הטובים ביותר כבר מועסקים על ידי ארגונים. הם עומדים כעדות חזקה למחויבות הצרכים לטיפוח קהילה תוססת ומעורבת.
 
 
-## 2.5. Rewarding Model
+## 2.5. מודל מתגמל
 
-In the WoM, user engagement across various work activities is incentivized and gamified, tailored to each community Hub's unique programs. Users earn points reflecting their active participation, with each community determining its own rules for point allocation.
+ברחם, מעורבות המשתמשים בפעילויות עבודה שונות היא תמריץ ומשחקית, מותאמת לתוכניות הייחודיות של כל מרכז קהילתי. משתמשים מרוויחים נקודות המשקפות את השתתפותם הפעילה, כאשר כל קהילה קובעת את הכללים שלה להקצאת נקודות.
 
-For example, an IT company might award 10 points for coding on GitHub, whereas a digital agency could place higher value on social media engagement, like retweets, with similar points.
+לדוגמה, חברת מחשוב עשויה להעניק 10 נקודות עבור קידוד בגית ' וב, ואילו סוכנות דיגיטלית יכולה לתת ערך גבוה יותר למעורבות ברשתות החברתיות, כמו ציוצים מחדש, עם נקודות דומות.
 
-Regular distributions of rewards are based on the points accrued in each Hub. Typically, these are given in MEED tokens, delivered directly to users' wallets. While MEED tokens are the standard form of reward, Hubs have the flexibility to offer different types of compensation.
+חלוקות קבועות של תגמולים מבוססות על הנקודות שנצברו בכל רכזת. בדרך כלל, אלה ניתנים באסימוני מיד, המועברים ישירות לארנקים של המשתמשים. בעוד אסימוני מיד הם הצורה הסטנדרטית של תגמול, לרכזות יש את הגמישות להציע סוגים שונים של פיצויים.
 
-When rewards are distributed in tokens other than MEED, a nominal fee of 5% is applied. This fee contributes to the Meeds treasury, playing a crucial role in maintaining the sustainability of the ecosystem.
+כאשר תגמולים מופצים באסימונים שאינם מיד, מוחל תשלום סמלי של 5%. עמלה זו תורמת לאוצר הצרכים, וממלאת תפקיד מכריע בשמירה על קיימות המערכת האקולוגית.
 
 ## 2.6. מודל ה-"mintium" - סמל מעורבות בעבודה
 
@@ -88,7 +88,7 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 איפה :
 
-- $ א $ = _פעילות< / 0> - המספר הכולל של פעולות שנצברו על ידי משתמשים בתוך הרכזת במהלך השבוע. (On a Hub, each user action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).</li>
+- $ א $ = _פעילות< / 0> - המספר הכולל של פעולות שנצברו על ידי משתמשים בתוך הרכזת במהלך השבוע. (במרכז, כל פעולה של משתמש הופכת לנקודות מעורבות, פעולות מסוימות משקלות יותר מאחרות. At the index level, all actions are linearized).</li>
 - $U$ = _משתמשים מעורבים_ - משתמשים שתרמו לנקודות במהלך השבוע, בפעולה אחת לפחות.
 - $ א_ד $ = _שיעור מעורבות של המרכז_ - פעולות למשתמש ($א / א)
 - $ $ $ = <0 > שיעור מעורבות ממוצע</0 > של כל המרכזים הפעילים ברחם.
