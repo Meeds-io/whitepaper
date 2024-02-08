@@ -36,41 +36,41 @@ Being an active holder or renter of a Deed, the organization is entitled to MEED
 
 In today's competitive market, organizations seek to attract and retain top talent not only through compensation but also by enhancing work engagement. The WoM addresses this challenge with a unique, tokenized reward system embodied in Community Hubs.
 
-Within these Hubs, community leaders can drive members engagement by offering a transparent menu of incentives for work items. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
+Sa loob ng mga Hub na ito, ang mga pinuno ng komunidad ay maaaring humimok ng pakikipag-ugnayan ng mga miyembro sa pamamagitan ng pag-aalok ng isang transparent na menu ng mga insentibo para sa mga item sa trabaho. Ang mga kalahok ay nakakakuha ng mga punto ng pakikipag-ugnayan para sa kanilang mga pagsisikap, na pana-panahong kino-convert sa mga token ng MEED o isang custom na katumbas, alinsunod sa isang paunang natukoy na badyet.
 
-Community Hubs offer a suite of tools and features designed to boost and manage contributor engagement:
+Nag-aalok ang Community Hubs ng hanay ng mga tool at feature na idinisenyo upang palakasin at pamahalaan ang pakikipag-ugnayan ng contributor:
 
-- **Actions**: Incentivized tasks guide contributors, aligning their efforts with organizational objectives and boosting motivation and direction.
-- **Gamification**: Leaderboards and badges transform work into a fun, competitive experience, enhancing engagement and enjoyment.
-- **Engagement Programs**: Customized programs with specific targets and rewards clarify organizational goals and fairly recognize contributor achievements.
-- **Kudos**: Immediate peer recognition boosts morale and fosters a culture of appreciation, enhancing team cohesion and motivation.
-- **Spaces**: Organized sub-groups and projects streamline communication and collaboration, increasing collective productivity.
-- **Wallet**: The Wallet app securely stores MEED rewards, representing user contributions, and enables easy transactions both within the Hub and on the broader network.
-- **Perks**: A variety of rewards, from gift cards to NFTs, incentivize ongoing engagement and foster loyalty within the organization’s ecosystem.
-- **Tasks**: Streamlined project and task management tools boost productivity by simplifying workflows and tracking progress.
-- **Notes**: A handy notebook app for documenting essential information like onboarding guides promotes knowledge sharing and organizational self-sufficiency.
-- **Branding**: Customizable Hub appearance attracts new contributors and strengthens their connection to the organization’s identity.
-- **Analytics**: Insightful analytics into community engagement enable leaders to identify effective strategies and make informed decisions for optimization.
-
-
-**Starting a Hub** Initiating a Hub is most seamless via meeds.io, which offers access to a cloud platform managed by the Meeds Association. This platform allows for quick setup and is maintained by the non-profit entity that stewards the WoM. However, the WoM caters to decentralization. As the Meeds software is open source and freely distributed, organizations have the option to self-host a Hub server and connect to the WoM network, granting them more control and customization in their Hub’s setup and management.
-
-**Capturing Work Signals** Hubs can integrate with various platforms like GitHub, Twitter, and Discord and are extendable via API to connect with services such as CRM software, accounting software, and clocking terminals. This allows for diverse professional contributions to be recognized and rewarded. All connectors undergo a whitelisting process by the Meeds Association to guarantee integrity and functionality.
-
-**Enriching the Perks Store** Organizations can tailor the store with custom perks, including training courses and gym memberships, creating a self-reinforcing cycle of rewards and engagement. This not only incentivizes contributors but also fosters a deeper connection with the organization’s ecosystem.
-
-**Engagement and Rewards** Active participation in the Hub contributes to an organization’s global engagement score. This metric reflects the effectiveness of engagement strategies, considering factors like user activity levels and the equitable distribution of work and rewards. This publicly auditable score, entitles Hubs to a distribution of MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
-
-Looking ahead, Community Hubs in the WoM ecosystem are set to become central to community life, integrating internal communications, real-time interactions, governance, and various productivity tools. These enhancements will ensure that the Hubs remain interconnected with the best tools already employed by organizations. They stand as a powerful testament to Meeds' commitment to fostering a vibrant, engaged community.
+- **Mga Pagkilos**: Ang mga insentibo na gawain ay gumagabay sa mga nag-aambag, na iniayon ang kanilang mga pagsisikap sa mga layunin ng organisasyon at nagpapalakas ng pagganyak at direksyon.
+- **Gamification**: Binabago ng mga leaderboard at badge ang trabaho sa isang masaya, mapagkumpitensyang karanasan, nagpapahusay ng pakikipag-ugnayan at kasiyahan.
+- **Mga Programa sa Pakikipag-ugnayan**: Ang mga na-customize na programa na may mga partikular na target at gantimpala ay nililinaw ang mga layunin ng organisasyon at medyo kinikilala ang mga nakamit ng nag-aambag.
+- **Kudos**: Ang agarang pagkilala sa peer ay nagpapalakas ng moral at nagpapaunlad ng kultura ng pagpapahalaga, pagpapahusay ng pagkakaisa at pagganyak ng koponan.
+- **Spaces**: Ang mga organisadong sub-grupo at proyekto ay nag-streamline ng komunikasyon at pakikipagtulungan, na nagpapataas ng sama-samang produktibidad.
+- **Wallet**: Ang Wallet app ay ligtas na nag-iimbak ng mga reward sa MEED, na kumakatawan sa mga kontribusyon ng user, at nagbibigay-daan sa mga madaling transaksyon sa loob ng Hub at sa mas malawak na network.
+- **Perks**: Ang iba't ibang mga reward, mula sa mga gift card hanggang sa mga NFT, ay nagbibigay-insentibo sa patuloy na pakikipag-ugnayan at nagpapatibay ng katapatan sa loob ng ecosystem ng organisasyon.
+- **Mga Gawain**: Ang mga naka-streamline na tool sa pamamahala ng proyekto at gawain ay nagpapalakas ng pagiging produktibo sa pamamagitan ng pagpapasimple sa mga daloy ng trabaho at pagsubaybay sa pag-unlad.
+- **Mga Tala**: Ang isang madaling gamiting notebook app para sa pagdodokumento ng mahahalagang impormasyon tulad ng mga gabay sa onboarding ay nagpo-promote ng pagbabahagi ng kaalaman at pagsasarili ng organisasyon.
+- **Branding**: Nakakaakit ng mga bagong contributor ang nako-customize na hitsura ng Hub at pinapalakas ang kanilang koneksyon sa pagkakakilanlan ng organisasyon.
+- **Analytics**: Ang insightful na analytics sa pakikipag-ugnayan sa komunidad ay nagbibigay-daan sa mga lider na matukoy ang mga epektibong diskarte at gumawa ng matalinong mga desisyon para sa pag-optimize.
 
 
-## 2.5. Rewarding Model
+**Pagsisimula ng Hub** Ang pagsisimula ng Hub ay pinaka-walang putol sa pamamagitan ng meeds.io, na nag-aalok ng access sa isang cloud platform na pinamamahalaan ng Meeds Association. Nagbibigay-daan ang platform na ito para sa mabilis na pag-setup at pinapanatili ng non-profit na entity na nangangasiwa sa WoM. Gayunpaman, ang WoM ay tumutugon sa desentralisasyon. Dahil ang software ng Meeds ay open source at malayang ipinamamahagi, may opsyon ang mga organisasyon na mag-self-host ng Hub server at kumonekta sa WoM network, na nagbibigay sa kanila ng higit na kontrol at pag-customize sa setup at pamamahala ng kanilang Hub.
 
-In the WoM, user engagement across various work activities is incentivized and gamified, tailored to each community Hub's unique programs. Users earn points reflecting their active participation, with each community determining its own rules for point allocation.
+**Pagkuha ng Mga Signal sa Trabaho** Maaaring isama ang mga hub sa iba't ibang platform tulad ng GitHub, Twitter, at Discord at mapapalawig sa pamamagitan ng API upang kumonekta sa mga serbisyo tulad ng CRM software, accounting software, at clocking terminal. Nagbibigay-daan ito para sa iba't ibang propesyonal na kontribusyon na kilalanin at gantimpalaan. Ang lahat ng connector ay sumasailalim sa proseso ng whitelisting ng Meeds Association upang magarantiya ang integridad at functionality.
 
-For example, an IT company might award 10 points for coding on GitHub, whereas a digital agency could place higher value on social media engagement, like retweets, with similar points.
+**Pagpapayaman sa Perks Store** Maaaring iakma ng mga organisasyon ang tindahan gamit ang mga custom na perk, kabilang ang mga kurso sa pagsasanay at membership sa gym, na lumilikha ng self-reinforcing cycle ng mga reward at pakikipag-ugnayan. Hindi lamang nito binibigyang-insentibo ang mga nag-aambag ngunit pinalalakas din nito ang mas malalim na koneksyon sa ecosystem ng organisasyon.
 
-Regular distributions of rewards are based on the points accrued in each Hub. Typically, these are given in MEED tokens, delivered directly to users' wallets. While MEED tokens are the standard form of reward, Hubs have the flexibility to offer different types of compensation.
+**Pakikipag-ugnayan at Mga Gantimpala** Ang aktibong pakikilahok sa Hub ay nakakatulong sa pandaigdigang marka ng pakikipag-ugnayan ng isang organisasyon. Sinasalamin ng sukatang ito ang pagiging epektibo ng mga diskarte sa pakikipag-ugnayan, na isinasaalang-alang ang mga salik tulad ng mga antas ng aktibidad ng user at ang pantay na pamamahagi ng trabaho at mga reward. Ang markang ito na naa-audit ng publiko, ay nagbibigay ng karapatan sa Hubs sa pamamahagi ng mga token ng MEED na ginawa mula sa protocol, na nagsisilbing sukatan ng pagiging epektibo ng kanilang mga diskarte sa pakikipag-ugnayan.
+
+Sa hinaharap, ang mga Community Hub sa WoM ecosystem ay nakatakdang maging sentro sa buhay ng komunidad, pagsasama-sama ng mga panloob na komunikasyon, real-time na pakikipag-ugnayan, pamamahala, at iba't ibang mga tool sa pagiging produktibo. Ang mga pagpapahusay na ito ay titiyakin na ang mga Hub ay mananatiling magkakaugnay sa pinakamahusay na mga tool na ginagamit na ng mga organisasyon. Naninindigan sila bilang isang makapangyarihang testamento sa pangako ng Meeds sa pagpapaunlad ng isang masigla, nakatuong komunidad.
+
+
+## 2.5. Rewarding Modelo
+
+Sa WoM, ang pakikipag-ugnayan ng user sa iba't ibang aktibidad sa trabaho ay binibigyang inspirasyon at ginagawa, na iniayon sa mga natatanging programa ng bawat Hub ng komunidad. Ang mga gumagamit ay nakakakuha ng mga puntos na nagpapakita ng kanilang aktibong pakikilahok, na ang bawat komunidad ay nagpapasiya ng sarili nitong mga panuntunan para sa paglalaan ng puntos.
+
+Halimbawa, ang isang kumpanya ng IT ay maaaring magbigay ng 10 puntos para sa coding sa GitHub, samantalang ang isang digital na ahensya ay maaaring maglagay ng mas mataas na halaga sa pakikipag-ugnayan sa social media, tulad ng mga retweet, na may mga katulad na puntos.
+
+Ang mga regular na pamamahagi ng mga reward ay nakabatay sa mga puntos na naipon sa bawat Hub. Karaniwan, ang mga ito ay ibinibigay sa mga token ng MEED, na direktang inihahatid sa mga wallet ng mga user. While MEED tokens are the standard form of reward, Hubs have the flexibility to offer different types of compensation.
 
 When rewards are distributed in tokens other than MEED, a nominal fee of 5% is applied. This fee contributes to the Meeds treasury, playing a crucial role in maintaining the sustainability of the ecosystem.
 
