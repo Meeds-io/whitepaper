@@ -22,7 +22,7 @@ Je zrejmé, že skorí používatelia by získali značné výhody oproti onesko
 
 WoM odmeňuje najmä dlhodobé investície do veršov - teda odkúpenie majetku (Deeds). Pôvodný vlastník Deedu dostáva kompenzáciu prostredníctvom záväzkového mincovníctva (aktívne využívanie), prostredníctvom pasívneho príjmu (prenájom) a dostáva doživotne 1 % z každej transakcie predaja Deedu (pri každej zmene vlastníka dostáva pôvodný vykupujúci poplatok z transakcie).
 
-By believing in the project, participating in the liquidity pools, staking MEED tokens, redeeming them against Deeds...early investors of all sizes would mint additional tokens. Získali by tiež prvé hlasovacie práva a pomohli by formovať WoM.
+Verením v projekt, účasťou na fondoch likvidity, vkladaním tokenov MEED, ich spätným odkupom za Deeds... skorí investori všetkých veľkostí by razili ďalšie tokeny. Získali by tiež prvé hlasovacie práva a pomohli by formovať WoM.
 
 Organizácie, ktoré získavajú, ale najmä využívajú Deeds na zapojenie a odmeňovanie svojich zamestnancov, by dostávali kompenzáciu v razených Meedow. Čím spravodlivejšie budú hrať, tým viac získajú. Skorší osvojitelia by boli priradení k prvým historickým mestám a neskôr by boli identifikovaní ako budovatelia.
 
@@ -38,17 +38,17 @@ Nižšie uvedený diagram predstavuje príklad investičnej stratégie Meeds pre
 
 ## 5.3. Spustenie
 
-The official launch of the WoM was **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+Oficiálne spustenie WoM bolo 0>1. máj 2022/0> – Medzinárodný deň pracujúcich, ktorý sa oslavuje v mnohých krajinách.
 
-At that time, the MEED token already existed. Je možné ho získať a sú otvorené pooly likvidity na účasť, v sieťach Polygon a Ethereum.
+V tom čase už existoval token MEED. Je možné ho získať a sú otvorené pooly likvidity na účasť, v sieťach Polygon a Ethereum.
 
 Traja členovia združenia Meeds ho interne používajú na zapojenie a odmeňovanie svojich používateľov a na zlepšovanie softvéru Meeds.
 
 Aplikácia Investor je dostupná v sieti Ethereum Mainnet. Pri spustení zahŕňa stávkovanie, odmeny za likviditu, zhromažďovanie bodov a výmenu Deedow.
 
-The Builders community is up and running, open to anyone who would want to join, test and participate. Je možné sa prihlásiť pomocou aplikácie Metamask.
+Komunita Builders je spustená a otvorená pre každého, kto by sa chcel pripojiť, otestovať a zúčastniť sa. Je možné sa prihlásiť pomocou aplikácie Metamask.
 
-This paper was initially published on the launch day. Po spustení bude token letecky rozoslaný mnohým ľuďom v celej kryptografickej komunite.
+Tento dokument bol pôvodne publikovaný v deň spustenia. Po spustení bude token letecky rozoslaný mnohým ľuďom v celej kryptografickej komunite.
 
 ## 5.4. Komunita staviteľov
 
