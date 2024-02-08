@@ -35,9 +35,9 @@ Počas obdobia razby sa **30 % vyrazených Meedov prideľuje združeniu Meeds**.
 
 Akákoľvek organizácia sa môže podieľať na vytváraní nového konektora bez toho, aby bola členom, a byť za to odmenená – najprv prostredníctvom združenia Meeds za získanie konektora a potom razením prostredníctvom tohto konektora.
 
-The association operates its own community hub named the _Meeds Builders Hub_ that welcomes enthusiasts, who want to contribute to the creation of the WoM. The association sponsors the community out of its budget, compensating the engagement of community members.
+Združenie prevádzkuje svoje vlastné komunitné centrum s názvom 0>Meeds Builders Hub/0>, ktoré víta nadšencov, ktorí chcú prispieť k vytvoreniu WoM. Združenie sponzoruje komunitu zo svojho rozpočtu, čím kompenzuje angažovanosť členov komunity.
 
-Thus, the builders' hub functions as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. Asociácia vsádza Meeds, aby vykúpila listinu pre svoju komunitu. Thus, the Builder's Hub also benefits in the engagement minting like any other Hub backed by a Deed.
+Centrum staviteľov teda funguje ako živý príklad komunity podporovanej softvérom Meeds, ktorý ponúka štandardný súbor služieb poskytovaných asociáciou. Asociácia vsádza Meeds, aby vykúpila listinu pre svoju komunitu. Builder's Hub teda profituje aj z razby zásnub ako ktorýkoľvek iný Hub podporovaný Listinou.
 
 Po skončení obdobia razenia bude združenie udržiavané :
 
@@ -59,7 +59,7 @@ Každý člen má tiež právo priamo nakupovať veľké množstvo Meeds so zľa
 
 **Stávky / dlhodobé investíciet**S cieľom podporiť dlhodobé investície sa odmeňujú stávky Meeds. Keď sú Meeds vsadené, stávkujúci dostane niekoľko žetónov xMeeds. Novo vyrazené Meeds sa rozdeľujú stakerom úmerne k ich držbe xMeeds. V praxi sa vyťažené Meeds v skutočnosti pridávajú do držby inteligentnej zmluvy xMeeds a distribuujú sa držiteľom xMeeds, keď ich odklepnú.
 
-By staking Meeds, investors can also redeem Deed NFTs (and then participate in minting through engagement), hence increasing the token demand. Každý stavený Meeds (xMeeds) dáva svojmu majiteľovi určitý počet bodov za deň. Čím dlhšie je obdobie nároku, tým vyšší je počet bodov získaných za xMeeds. Každy Deed sa potom vymení za určitý počet bodov.
+Vsadením Meeds môžu investori tiež vyplatiť Deed NFT (a potom sa podieľať na razení prostredníctvom zapojenia), čím sa zvyšuje dopyt po tokenoch. Každý stavený Meeds (xMeeds) dáva svojmu majiteľovi určitý počet bodov za deň. Čím dlhšie je obdobie nároku, tým vyšší je počet bodov získaných za xMeeds. Každy Deed sa potom vymení za určitý počet bodov.
 
 Body sa vypočítajú podľa nasledujúceho vzorca :
 
@@ -100,8 +100,8 @@ Akákoľvek práca (či už digitálna alebo nie) môže byť skutočne gamifiko
 
 Okrem peňaženky a obchodu, v ktorom si môžu zakúpiť výhody pre Meeds, plánujeme každému používateľovi predstaviť niekoľko produktov pre koncových používateľov využívajúcich protokoly decentralizovaných financií, ako napr:
 
-- The ability to stake MEED tokens and get yields (generate revenues)
-- The ability to use MEED tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
+- Schopnosť vkladať tokeny MEED a získavať výnosy (generovať výnosy)
+- Schopnosť používať tokeny MEED ako kolaterál na požičanie stabilných mincí, ako je USDC (najskôr využiť 0>Fuse pool/0> a potom zaregistrovať token Meeds do 1>AAVE/1>.
 - Digitálna karta, ktorú možno pridať a používať prostredníctvom Apple Pay, Google pay alebo akéhokoľvek bankomatu. Tá môže byť poskytnutá prostredníctvom partnerstva so spoločnosťou VISA a bude využívať úverovú linku v USDC, zabezpečenú založenými Meeds. Túto kartu môžu organizácie používať aj na financovanie peňaženiek zamestnancov, aby mohli spravovať zamestnanecké výhody, ako sú reštaurácie, doprava a akékoľvek výdavky.
 
 Svet blockchainu tak objaví nielen mnoho nových používateľov, ale aj svet bez bánk.
