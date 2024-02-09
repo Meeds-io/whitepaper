@@ -35,9 +35,9 @@ WoM 和 Meeds 代幣由上文介紹的非營利性 Meeds Association DAO 運營�
 
 即使不是會員，任何組織都可以參與新連接器的創建，並因此獲得獎勵——首先透過 Meeds 協會獲取連接器，然後透過該連接器鑄造。
 
-The association operates its own community hub named the _Meeds Builders Hub_ that welcomes enthusiasts, who want to contribute to the creation of the WoM. The association sponsors the community out of its budget, compensating the engagement of community members.
+該協會經營自己的社區中心，名為 _Meeds Builders Hub_，歡迎希望為 WoM 的創建做出貢獻的愛好者。 該協會從其預算中資助社區，補償社區成員的參與。
 
-Thus, the builders' hub functions as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. 該協會質押 Meeds 是為了為其社區贖回契約。 Thus, the Builder's Hub also benefits in the engagement minting like any other Hub backed by a Deed.
+因此，建築商中心充當 Meeds 軟體支援的社區的活生生的例子，提供協會提供的一套標準服務。 該協會質押 Meeds 是為了為其社區贖回契約。 因此，與契約支持的任何其他中心一樣，建造者中心也能從參與鑄幣中受益。
 
 鑄幣期結束後，協會將通過以下方式維持：
 
@@ -59,7 +59,7 @@ Thus, the builders' hub functions as a live example of a community empowered by 
 
 **質押/長期投資** 為了鼓勵長期投資，質押的 Meeds 會得到獎勵。 當 Meeds 被抵押時，跟踪者會得到一些 xMeeds 代幣。 新鑄造的 Meeds 會根據他們持有的 xMeeds 按比例分配給 stakers。 在實踐中，鑄造的 Meeds 被有效地添加到 xMeeds 智能合約的持有中，並在 xMeeds 持有者取消質押時分發給他們。
 
-By staking Meeds, investors can also redeem Deed NFTs (and then participate in minting through engagement), hence increasing the token demand. 每個質押的 Meeds (xMeeds) 每天都會為其所有者提供一定數量的積分。 既定期限越長，每個 xMeeds 獲得的點數就越高。 然後兌換每個 Deed 以換取一定數量的積分。
+透過質押 Meeds，投資者還可以贖回 Deed NFT（然後透過參與參與鑄幣），從而增加代幣需求。 每個質押的 Meeds (xMeeds) 每天都會為其所有者提供一定數量的積分。 既定期限越長，每個 xMeeds 獲得的點數就越高。 然後兌換每個 Deed 以換取一定數量的積分。
 
 積分使用以下公式計算：
 
@@ -100,8 +100,8 @@ WoM 將向許多今天尚未使用區塊鏈的人介紹區塊鏈世界。
 
 除了錢包和可以為 Meeds 購買額外津貼的商店之外，我們還計劃向每位用戶介紹幾種由去中心化金融協議提供支持的最終用戶產品，例如：
 
-- The ability to stake MEED tokens and get yields (generate revenues)
-- The ability to use MEED tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
+- 能夠質押 MEED 代幣並獲得收益（產生收入）
+- 能夠使用 MEED 代幣作為抵押品借入 USDC 等穩定幣（首先利用[保險絲池](https://app.rari.capital/fuse)，然後將 Meeds 代幣註冊到[AAVE](https://aave.com/)。
 - 可以通過 Apple Pay、Google Pay 或任何 ATM 添加和使用的數字卡。 後者可以通過與 VISA 的合作夥伴關係提供，並將利用由質押的 Meeds 擔保的 USDC 信用額度。 這張卡也可以被組織用來為員工錢包提供資金，以管理員工福利，如餐廳、交通和任何類型的費用。
 
 所以不僅很多新用戶會發現區塊鏈的世界，他們也會發現一個沒有銀行的世界。

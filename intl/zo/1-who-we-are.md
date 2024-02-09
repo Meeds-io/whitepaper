@@ -1,12 +1,12 @@
 
 # 1. 關於我們
 
-Meeds is a collaborative effort led by diverse Open Source Software (OSS) communities, dedicated to creating a decentralized digital world that resists centralized corporate control and fosters a free and open environment.
+Meeds 是由不同開源軟體 (OSS) 社群領導的協作項目，致力於創建一個去中心化的數位世界，抵制中心化的企業控制並培育自由開放的環境。
 
-The legal entity behind Meeds is the _Meeds Association_, a non-profit organization incorporated under Swiss law in Geneva. It is responsible for regulating the issuance of the Meeds(MEED) token, an ERC20 token recognized as a utility token.
+Meeds 背後的法人實體是 _Meeds Association_，這是一個根據瑞士法律在日內瓦成立的非營利組織。 它負責監管 Meeds（MEED）代幣的發行，Meeds(MEED) 代幣是一種被認可為實用代幣的 ERC20 代幣。
 
-Functioning as a Decentralized Autonomous Organization (DAO), Meeds emphasizes on democratic governance, where token holders with governance rights participate in key decision making, such as annual board elections, ensuring transparency and community involvement in organizational changes.
+Meeds 作為一個去中心化自治組織 (DAO)，強調民主治理，擁有治理權的代幣持有者參與關鍵決策，例如年度董事會選舉，確保透明度和社區參與組織變革。
 
-The Meeds project utilizes the Ethereum ecosystem to implement the World of Meeds (WoM) and the Meeds token. This approach prioritizes security, accessibility, user-friendliness, and cost-effectiveness, making it appealing to a broad user base.
+Meeds 計畫利用以太坊生態系統來實現 World of Meeds (WoM) 和 Meeds 代幣。 這種方法優先考慮安全性、可訪問性、用戶友善性和成本效益，從而吸引了廣泛的用戶群。
 
-Meeds is an Open Source Software ([github.com/meeds-io](https://github.com/meeds-io)) operated in the cloud infrastructure by hosting partners of the Meeds Association.
+Meeds 是一款開源軟體 ([github.com/meeds-io](https://github.com/meeds-io))，由 Meeds Association 的託管合作夥伴在雲端基礎設施中運作。

@@ -1,19 +1,19 @@
 
-# 2. Deeds - The Properties of the WoM
+# 2. 事蹟 - 口碑的屬性
 
-## 2.1. Deed NFTs
+## 2.1. 契約 NFT
 
-In the digital realm, Non-Fungible Tokens (NFTs) serve a similar purpose to deeds in the physical world. Like a deed that confirms ownership of tangible property, NFTs establish indisputable ownership of digital assets. This ownership is securely recorded on a blockchain, ensuring that each asset is unique and non-replicable.
+在數位領域，不可取代代幣 (NFT) 的用途與現實世界中的行為類似。 就像確認有形財產所有權的契約一樣，NFT 建立了數位資產無可爭議的所有權。 這種所有權被安全地記錄在區塊鏈上，確保每項資產都是唯一且不可複製的。
 
-Within the WoM, a Deed is conceptualized as an NFT, representing the foundational unit of ownership. Holding a Deed empowers its owner to manage a Community Hub and makes them eligible for receiving Mintium rewards, a form of recognition and incentive within the WoM ecosystem (further details in section 2.6).
+在 WoM 中，契約被概念化為 NFT，代表所有權的基本單位。 持有契約使其所有者能夠管理社區中心，並使他們有資格獲得 Mintium 獎勵，這是 WoM 生態系統內的一種認可和激勵形式 (更多詳細資訊請參閱第 2.6 節)。
 
-The WoM is designed to be a diverse and inclusive platform. It welcomes a wide array of organizations, from DAOs, traditional businesses, and associations to think tanks, theater companies, project groups, and educational institutions. In this digital landscape, a Deed symbolizes the organization's digital presence and footprint in WoM, functioning as a bridge between their real-world operations and their digital endeavors.
+WoM 旨在成為一個多元化和包容性的平台。 它歡迎各種各樣的組織，從 DAO、傳統企業和協會到智庫、劇院公司、專案小組和教育機構。 在這個數位環境中，契約象徵著組織在 WoM 中的數位存在和足跡，充當其現實世界運作和數位化努力之間的橋樑。
 
 ## 2.2. 契約供應
 
 WoM 最終將提供有限數量的契據。 每個 Deed 都包含預定義的最大用戶數，並提供 Meeds 獎勵能力（Minting Power）。 此處和下文中的“用戶”一詞指代任何類型的僱員、工人、自由職業者、志願者等。
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or minting power, the rarest being the most powerful :
+契約有四種類型，每種都在用戶數量、城市投票權 (見 2.7) 或鑄幣權方面提供不同的功能，最稀有的是最強大的：
 
 | **契約類型** | **最大用戶數** | **造幣權** | **稀缺性** | **城市投票權** |
 | -------- | --------- | ------- | ------- | --------- |
@@ -26,53 +26,53 @@ There are four types of Deeds, each providing different capabilities in terms of
 
 Deed 賦予其所有者使用、出租或出售的權利。
 
-- USE – The owner can use the Deed to run a hub for his own organization.
-- RENT - The owner can also rent the Deed to another organization and earn passive income.
-- SELL - The owner can sell it on a secondary NFT marketplace such as [OpenSea](https://opensea.io).
+- 使用 – 所有者可以使用契約為其自己的組織運作中心。
+- 出租 - 所有者還可以將契約出租給另一個組織並賺取被動收入。
+- 出售 - 所有者可以在二級 NFT 市場（例如 [OpenSea](https://opensea.io)）上出售它。
 
-Being an active holder or renter of a Deed, the organization is entitled to MEED rewards according to the “mintium” model described below (see 2.6).
+作為契約的積極持有者或承租人，組織有權根據下文所述的「mintium」模型獲得 MEED 獎勵 (見 2.6)。
 
-## 2.4. Community Hubs
+## 2.4. 社區中心
 
-In today's competitive market, organizations seek to attract and retain top talent not only through compensation but also by enhancing work engagement. The WoM addresses this challenge with a unique, tokenized reward system embodied in Community Hubs.
+在當今競爭激烈的市場中，組織不僅透過薪酬，還透過提高工作投入度來吸引和留住頂尖人才。 WoM 透過社群中心中體現的獨特的代幣化獎勵系統來應對這項挑戰。
 
-Within these Hubs, community leaders can drive members engagement by offering a transparent menu of incentives for work items. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
+在這些中心內，社區領導者可以透過提供透明的工作項目激勵菜單來提高成員的參與度。 參與者透過他們的努力獲得參與積分，這些積分會根據預定的預算定期轉換為 MEED 代幣或自訂等價物。
 
-Community Hubs offer a suite of tools and features designed to boost and manage contributor engagement:
+社區中心提供了一套工具和功能，旨在提高和管理貢獻者的參與度：
 
-- **Actions**: Incentivized tasks guide contributors, aligning their efforts with organizational objectives and boosting motivation and direction.
-- **Gamification**: Leaderboards and badges transform work into a fun, competitive experience, enhancing engagement and enjoyment.
-- **Engagement Programs**: Customized programs with specific targets and rewards clarify organizational goals and fairly recognize contributor achievements.
-- **Kudos**: Immediate peer recognition boosts morale and fosters a culture of appreciation, enhancing team cohesion and motivation.
-- **Spaces**: Organized sub-groups and projects streamline communication and collaboration, increasing collective productivity.
-- **Wallet**: The Wallet app securely stores MEED rewards, representing user contributions, and enables easy transactions both within the Hub and on the broader network.
-- **Perks**: A variety of rewards, from gift cards to NFTs, incentivize ongoing engagement and foster loyalty within the organization’s ecosystem.
-- **Tasks**: Streamlined project and task management tools boost productivity by simplifying workflows and tracking progress.
-- **Notes**: A handy notebook app for documenting essential information like onboarding guides promotes knowledge sharing and organizational self-sufficiency.
-- **Branding**: Customizable Hub appearance attracts new contributors and strengthens their connection to the organization’s identity.
-- **Analytics**: Insightful analytics into community engagement enable leaders to identify effective strategies and make informed decisions for optimization.
-
-
-**Starting a Hub** Initiating a Hub is most seamless via meeds.io, which offers access to a cloud platform managed by the Meeds Association. This platform allows for quick setup and is maintained by the non-profit entity that stewards the WoM. However, the WoM caters to decentralization. As the Meeds software is open source and freely distributed, organizations have the option to self-host a Hub server and connect to the WoM network, granting them more control and customization in their Hub’s setup and management.
-
-**Capturing Work Signals** Hubs can integrate with various platforms like GitHub, Twitter, and Discord and are extendable via API to connect with services such as CRM software, accounting software, and clocking terminals. This allows for diverse professional contributions to be recognized and rewarded. All connectors undergo a whitelisting process by the Meeds Association to guarantee integrity and functionality.
-
-**Enriching the Perks Store** Organizations can tailor the store with custom perks, including training courses and gym memberships, creating a self-reinforcing cycle of rewards and engagement. This not only incentivizes contributors but also fosters a deeper connection with the organization’s ecosystem.
-
-**Engagement and Rewards** Active participation in the Hub contributes to an organization’s global engagement score. This metric reflects the effectiveness of engagement strategies, considering factors like user activity levels and the equitable distribution of work and rewards. This publicly auditable score, entitles Hubs to a distribution of MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
-
-Looking ahead, Community Hubs in the WoM ecosystem are set to become central to community life, integrating internal communications, real-time interactions, governance, and various productivity tools. These enhancements will ensure that the Hubs remain interconnected with the best tools already employed by organizations. They stand as a powerful testament to Meeds' commitment to fostering a vibrant, engaged community.
+- **行動**：激勵性任務指導貢獻者，使他們的努力與組織目標保持一致，並增強動力和方向。
+- **行動**：激勵性任務指導貢獻者，使他們的努力與組織目標保持一致，並增強動力和方向。
+- **參與計畫**：具有具體目標和獎勵的客製化計畫明確了組織目標並公平地認可貢獻者的成就。
+- **榮譽**：同儕的直接認可可以提高士氣，培養欣賞文化，增強團隊凝聚力和動力。
+- **空間**：有組織的小組和專案簡化了溝通和協作，提高了集體生產力。
+- **錢包**：錢包應用程式安全地儲存代表用戶貢獻的 MEED 獎勵，並支援 Hub 內和更廣泛的網路上的輕鬆交易。
+- **福利**：從禮品卡到 NFT 等各種獎勵，可以激勵組織生態系統內的持續參與並培養忠誠度。
+- **任務**：簡化的專案和任務管理工具透過簡化工作流程和追蹤進度來提高工作效率。
+- **註釋**：一款方便的筆記本應用程序，用於記錄入職指南等基本信息，促進知識共享和組織自給自足。
+- **品牌**：可自訂的中心外觀吸引新的貢獻者並加強他們與組織身份的聯繫。
+- **分析**：對社區參與度的深入分析使領導者能夠確定有效的策略並做出明智的最佳化決策。
 
 
-## 2.5. Rewarding Model
+**啟動中心** 透過 meeds.io 啟動 Hub 是最無縫的，它提供對由 Meeds Association 管理的雲端平台的存取。 該平台允許快速設置，並由管理 WoM 的非營利實體維護。 然而，WoM 迎合的是權力下放。 由於 Meeds 軟體是開源且免費分發的，組織可以選擇自行託管 Hub 伺服器並連接到 WoM 網絡，從而在 Hub 的設定和管理中賦予他們更多的控制和自訂能力。
 
-In the WoM, user engagement across various work activities is incentivized and gamified, tailored to each community Hub's unique programs. Users earn points reflecting their active participation, with each community determining its own rules for point allocation.
+**捕捉工作訊號** Hubs 可與 GitHub、Twitter 和 Discord 等各種平台集成，並可透過 API 擴充以連接 CRM 軟體、會計軟體和時鐘終端機等服務。 這使得多樣化的專業貢獻得到認可和獎勵。 所有連接器均經過 Meeds Association 的白名單流程，以確保完整性和功能性。
 
-For example, an IT company might award 10 points for coding on GitHub, whereas a digital agency could place higher value on social media engagement, like retweets, with similar points.
+**豐富福利店** 組織可以為商店提供客製化福利，包括培訓課程和健身房會員資格，從而創建一個自我強化的獎勵和參與循環。 <這不僅激勵了貢獻者，也促進了與組織生態系統的更深層次的連結。
 
-Regular distributions of rewards are based on the points accrued in each Hub. Typically, these are given in MEED tokens, delivered directly to users' wallets. While MEED tokens are the standard form of reward, Hubs have the flexibility to offer different types of compensation.
+**參與度和獎勵** 積極參與該中心有助於提高組織的全球參與度得分。 此指標反映了參與策略的有效性，考慮了用戶活動水平以及工作和獎勵的公平分配等因素。 這個可公開審核的分數使中心有權分配由該協議鑄造的 MEED 代幣，作為衡量其參與策略有效性的指標。
 
-When rewards are distributed in tokens other than MEED, a nominal fee of 5% is applied. This fee contributes to the Meeds treasury, playing a crucial role in maintaining the sustainability of the ecosystem.
+展望未來，WoM 生態系統中的社區中心將成為社區生活的中心，整合內部通訊、即時互動、治理和各種生產力工具。 這些增強功能將確保中心與組織已使用的最佳工具保持互連。 它們有力地證明了 Meeds 致力於培育一個充滿活力、積極參與的社區。
+
+
+## 2.5. 獎勵模式
+
+在 WoM 中，使用者在各種工作活動中的參與都是經過激勵和遊戲化的，是根據每個社區中心的獨特計劃量身定制的。 使用者賺取的積分反映了他們的積極參與，每個社區確定自己的積分分配規則。
+
+例如，IT 公司可能會因在 GitHub 上編碼而獲得 10 分，而數位代理商可能會更加重視社群媒體參與度（例如轉發），並獲得類似的分數。
+
+獎勵的定期分配是基於每個中心累積的積分。 通常，這些以 MEED 代幣形式給出，直接交付到用戶的錢包。 雖然 MEED 代幣是標準的獎勵形式，但中心可以靈活地提供不同類型的補償。
+
+當獎勵以 MEED 以外的代幣形式分配時，將象徵性地收取 5% 的費用。 這筆費用將捐獻給 Meeds 金庫，在維持生態系統的可持續性方面發揮著至關重要的作用。
 
 ## 2.6. “mintium” 模型——代币化工作参与
 
@@ -88,7 +88,7 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 在哪裡 ：
 
-- $A$ = _活動_ - 一週內使用者在 Hub 內累積的操作總數。 (On a Hub, each user action is converted into engagement points, some actions weighting more than others. 在索引級別，所有操作都被線性化）。
+- $A$ = _活動_ - 一週內使用者在 Hub 內累積的操作總數。 （在 Hub 上，每個使用者操作都會轉換為參與點，某些操作的權重高於其他操作。 在索引級別，所有操作都被線性化）。
 - $U$ = _參與用戶_ - 在一周內通過至少一項操作貢獻積分的用戶。
 - $E_d$ = _中心的參與率_ - 每位使用者的操作 ($A/U$)
 - $E_w$ = WoM 中所有活躍中心的_平均參與率_。

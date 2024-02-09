@@ -22,7 +22,7 @@ WoM 將擁有自己的貨幣 **MEED** - 可以在商店中消費、兌換成另�
 
 特別是，WoM 獎勵長期投資的詩句——即財產（Deeds）的贖回。 Deed 的原始所有者通過參與鑄幣（主動使用）、被動收入（租賃）獲得補償，並在 Deed 的任何銷售交易中獲得 1% 的終生收益（每次所有權變更時，原始贖回者都會獲得費用 交易）。
 
-By believing in the project, participating in the liquidity pools, staking MEED tokens, redeeming them against Deeds...early investors of all sizes would mint additional tokens. 他們還將獲得最早的投票權並幫助塑造輿論。
+透過相信該項目、參與流動性池、質押 MEED 代幣、用契約贖回它們……各種規模的早期投資者都會鑄造額外的代幣。 他們還將獲得最早的投票權並幫助塑造輿論。
 
 獲取但特別是使用 Deeds 來吸引和獎勵其員工的組織將獲得鑄造的 Meeds 的補償。 他們玩得越公平，他們得到的就越多。 較早的採用者將與第一批歷史名城相關聯，並在以後被確定為建設者。
 
@@ -38,17 +38,17 @@ By believing in the project, participating in the liquidity pools, staking MEED 
 
 ## 5.3. 發射，市場投入
 
-The official launch of the WoM was **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+WoM 於**2022 年 5 月 1 日**正式啟動，這一天是許多國家慶祝的國際勞動節。
 
-At that time, the MEED token already existed. 可以在 Polygon 和 Ethereum 網絡上獲取它，並且流動資金池開放供參與。
+當時，MEED 代幣已經存在。 可以在 Polygon 和 Ethereum 網絡上獲取它，並且流動資金池開放供參與。
 
 三個 Meeds 協會成員在內部使用該系統來吸引和獎勵他們的用戶並改進 Meeds 軟件。
 
 Investor 應用程序可在以太坊主網上使用。 在推出時，它包括質押、流動性獎勵、積分積累和契約贖回。
 
-The Builders community is up and running, open to anyone who would want to join, test and participate. 可以使用 Metamask 登錄。
+Builders 社群已啟動並運行，向任何想要加入、測試和參與的人開放。 可以使用 Metamask 登錄。
 
-This paper was initially published on the launch day. 發布後，代幣將空投給加密社區的許多人。
+本文最初於發布當天發表。 發布後，代幣將空投給加密社區的許多人。
 
 ## 5.4. 建設者社區
 
