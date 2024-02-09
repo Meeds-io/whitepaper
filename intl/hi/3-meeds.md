@@ -35,7 +35,7 @@
 
 सदस्य होने के बिना, कोई भी संगठन एक नए कनेक्टर के निर्माण में भाग ले सकता है और ऐसा करने के लिए पुरस्कृत किया जा सकता है – पहले मेड्स एसोसिएशन के माध्यम से कनेक्टर प्राप्त करना और फिर इस कनेक्टर के माध्यम से खनन करना ।
 
-The association operates its own community hub named the _Meeds Builders Hub_ that welcomes enthusiasts, who want to contribute to the creation of the WoM. The association sponsors the community out of its budget, compensating the engagement of community members.
+एसोसिएशन _मीड्स बिल्डर्स हब_ नाम से अपना स्वयं का सामुदायिक केंद्र संचालित करता है जो उन उत्साही लोगों का स्वागत करता है, जो WoM के निर्माण में योगदान देना चाहते हैं। The association sponsors the community out of its budget, compensating the engagement of community members.
 
 Thus, the builders' hub functions as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. एसोसिएशन अपने समुदाय के लिए एक विलेख को भुनाने के लिए दांव लगाता है । Thus, the Builder's Hub also benefits in the engagement minting like any other Hub backed by a Deed.
 
@@ -101,7 +101,7 @@ Meeds टोकन धारकों को Meeds DAO निर्णयों 
 मीड्स के लिए पर्कों की खरीद करने के लिए वॉलेट और एक स्टोर के बिना, हम हर उपयोगकर्ता को स्वतंत्र वित्त विधियों द्वारा पॉवर्ड एक कई प्रोडक्ट को पेश करने का योजना है, जैसे:
 
 - The ability to stake MEED tokens and get yields (generate revenues)
-- The ability to use MEED tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
+- USDC जैसे स्थिर सिक्कों को उधार लेने के लिए संपार्श्विक के रूप में MEED टोकन का उपयोग करने की क्षमता (पहले [फ्यूज पूल](https://app.rari.capital/fuse) का लाभ उठाना और फिर Meeds टोकन को [AAVE](https://aave.com/) में पंजीकृत करना)।
 - एप्पल पे, गूगल पे या कुछ भी ATM के माध्यम से जोड़ा और उपयोग किया जा सकने वाला एक डिजिटल कार्ड। दूसरे को वीजा के साथ एक भागीदारी के माध्यम से प्रदान किया जा सकता है और मीड्स के स्टेक द्वारा सुरक्षित होने वाले USDC में एक क्रेडिट लाइन का लेवरेज करेगा। इस कार्ड को संगठनों द्वारा कर्मचारियों के वॉलेट को वित्तीय सहायता प्रदान करने के लिए भी उपयोग किया जा सकता है, जैसे रेस्तों, परिवहन और कुछ भी व्ययों की प्रकार के।
 
 इसलिए केवल कई नए उपयोगकर्ता ब्लॉकचेन विश्व को खोजेंगे, वे एक बैंकलेस विश्व को भी खोजेंगे।
