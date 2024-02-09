@@ -36,7 +36,7 @@ Being an active holder or renter of a Deed, the organization is entitled to MEED
 
 In today's competitive market, organizations seek to attract and retain top talent not only through compensation but also by enhancing work engagement. The WoM addresses this challenge with a unique, tokenized reward system embodied in Community Hubs.
 
-Within these Hubs, community leaders can drive members engagement by offering a transparent menu of incentives for work items. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens (Meeds) or a custom equivalent, in line with a predetermined budget.
+Within these Hubs, community leaders can drive members engagement by offering a transparent menu of incentives for work items. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
 
 Community Hubs offer a suite of tools and features designed to boost and manage contributor engagement:
 
@@ -96,12 +96,12 @@ Where :
 - $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
 - $E_d$ = _Engagement rate of the hub_ - actions per user ($A/U$)
 - $E_w$ = _Average engagement rate_ of all active Hubs in the WoM. 
-- $D_r$ = _Distribution rate_ - if a Hub received minted MEED for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
-- $D_s$ =  _Distribution spread_ - if a Hub received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
+- $D_r$ = _Distribution rate_ - if a Hub received minted MEED for the preceding period, the % of MEED that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
+- $D_s$ =  _Distribution spread_ - if a Hub received minted MEED tokens for the preceding period, the % of the users that received MEED in the total pool of users.
 - $M$ = _Minting Power_ of the Deed as defined in 2.3
 
 
-The global engagement index used to distribute minted Meeds among the Hubs is the sum of all Hubs’ engagement scores for the week.
+The global engagement index used to distribute minted MEED among the Hubs is the sum of all Hubs’ engagement scores for the week.
 
 
 The formula above is simple and designed to favor hubs :
@@ -114,9 +114,9 @@ Additionnally boosters are in place for :
 - organizations with the highest engagement, regardless of their size (engagement rate in relation to the WoM)
 - scarcer deeds
 
-> The Meeds association reserves the right to change the formula if required – if some specific use cases arise for instance. The association can also blacklist any Hub that hijacks the formula to its unique benefit.
+> The Meeds Association reserves the right to change the formula if required – if some specific use cases arise for instance. The association can also blacklist any Hub that hijacks the formula to its unique benefit.
 
-As the Hubs are rewarded with Meeds and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the communities and their users are aligned in the same virtuous revenue sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
+As the Hubs are rewarded with MEED and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the communities and their users are aligned in the same virtuous revenue sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
 
 The “mintium” model is the first of a kind - it goes further than the traditional freemium one, as not only the services are free to use but both the organizations and their users are rewarded for using them.
 
@@ -141,7 +141,7 @@ It is also a way to provide additional value to its users - value that would go 
 
 Each city has its own govenance and operates its own DAO where the city’s Deed owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
 
-For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add Meeds powered food services, vacations services, etc...
+For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add food services, vacations services, etc...
 
 By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
 

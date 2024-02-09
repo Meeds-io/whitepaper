@@ -3,7 +3,7 @@
 
 Meeds is a collaborative effort led by diverse open-source software (OSS) communities dedicated to creating a decentralized digital world that resists centralized corporate control and promotes a free and open environment.
 
-The Meeds project uses the Ethereum ecosystem to implement the WoM protocols and manage the supply of the Meeds token (MEED). This approach has helped in prioritizing security, accessibility, usability, and cost-effectiveness, making it attractive to a broad user base. However, the WoM is designed to be an autonomous and self-sustaining public good, aiming to become multi-chain. 
+The Meeds project uses the Ethereum ecosystem to implement the WoM protocols and manage the supply of the MEED token. This approach has helped in prioritizing security, accessibility, usability, and cost-effectiveness, making it attractive to a broad user base. However, the WoM is designed to be an autonomous and self-sustaining public good, aiming to become multi-chain. 
 
 The legal entity behind Meeds is the _Meeds Association_, a non-profit organization registered under Swiss law in Geneva. It is responsible for regulating the issuance of MEED tokens and contracting with service providers. 
 

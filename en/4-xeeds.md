@@ -63,4 +63,4 @@ As discussed above, the WoM opens the world of cryptocurrency and decentralized 
 
 Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
 
-Any user can get Meeds and use a Meeds wallet to get access to new age services without any special training.
+Any user can get MEED and use a Meeds wallet to get access to new age services without any special training.

@@ -11,11 +11,11 @@ Organizations would be able to source talents, browsing through the WoM, for the
 
 The WoM would have its own currency the **MEED** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. The WoM would also facilitate other tokens distribution and participate in the overall crypto ecosystem.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and Meeds flows
+As a picture is worth a thousand words, here is a diagram that describes the WoM and MEED token flows
 
 ![WoM and Meeds flows](en/img/wom-flows.png)
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds association and the Cities.
+The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds Association and the Cities.
 
 ## 5.2. What’s in it for early adopters
 
@@ -25,7 +25,7 @@ In particular, the WoM rewards long-term investment in the verse – that is the
 
 By believing in the project, participating in the liquidity pools, staking MEED tokens, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the WoM.
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted Meeds. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
+Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted MEED. The fairer they will play, the more they will get. The earlier adopters would be associated to the first historic cities and would be identified as the builders later on.
 
 The diagram below represents an example of the Meeds investment strategy for capital holders : 
 
@@ -43,7 +43,7 @@ The official launch of the WoM was **May 1st, 2022** – the International Worke
 
 At that time, the MEED token already existed. It is possible to acquire it and liquidity pools are open for participation, on Polygon and Ethereum networks.
 
-Three Meeds association members use the system internally to engage and reward their users and improve the Meeds software.
+Three Meeds Association members use the system internally to engage and reward their users and improve the Meeds software.
 
 The Investor app is available on Ethereum Mainnet. At launch, it includes staking, liquidity rewards, points accumulation and redeeming of Deeds.
 
@@ -55,7 +55,7 @@ This paper was initially published on the launch day. Following the launch, the 
 
 We are launching the builders community on the Meeds software and on Discord. The community welcomes anyone who wants to take part in the building of the WoM. The association would reward builders engagement with Meeds, from its marketing budget.
 
-The association plans also to stake some Meeds in order to acquire (redeem) a Deed for the builders community. The community will then mint Meeds by engagement, through the mintium model, and distribute them to engaged users.
+The association plans also to stake some MEED in order to acquire (redeem) a Deed for the builders community. The community will then mint MEED by engagement, through the mintium model, and distribute them to engaged users.
 
 ## 5.5. Roadmap and milestones
 
@@ -69,7 +69,7 @@ Our roadmap would follow the priority order below:
 
 We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the WoM by providing relevant engagement programs to their people, on top of their current traditional compensation plans.
 
-Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature ecosystem, having spread to many organizations and many users globally.
+MEED minting spans a 20 year period. By that time, we aspire to have achieved building a mature ecosystem, having spread to many organizations and many users globally.
 
 ## 5.6. What you can do right now
 
@@ -82,6 +82,6 @@ What can you do right now to participate?
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
 - Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
+- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some MEED engagement rewards
 
 **\*\*\* The WoM - let’s build this crazy future world together. \*\*\***

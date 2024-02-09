@@ -1,6 +1,6 @@
 # 3. The MEED token – the currency of the WoM
 
-The Meeds token (MEED) is the currency that powers the WoM. Users are rewarded with MEED (through engagement programs), purchase in stores, get Deeds, get financial returns on investments, and more.
+The MEED token (pronouced "Meeds") is the currency that powers the WoM. Users are rewarded with MEED (through engagement programs), purchase in stores, get Deeds, get financial returns on investments, and more.
 
 ## 3.1. Tokenomics
 
@@ -26,7 +26,7 @@ Each category of stakeholders receives a share of the MEED supply, which is subj
 
 ## 3.3. Users
 
-Part of the continuously minted Meeds is allocated to sponsor user engagement through the Mintium model (see 2.6). A global engagement index is calculated periodically across all Hubs of the WoM to allocate MEED rewards to the Hubs. Mintium rewards are claimable by Hub leaders and Deed owners.
+Part of the continuously minted MEED tokens is allocated to sponsor user engagement through the Mintium model (see 2.6). A global engagement index is calculated periodically across all Hubs of the WoM to allocate MEED rewards to the Hubs. Mintium rewards are claimable by Hub leaders and Deed owners.
 
 ## 3.4. Builders
 
@@ -37,7 +37,7 @@ The Meed DAO Funds receive **30% of the minted MEED** to support Builders**.
 
 The Meeds Association is entitled to hire service provider companies on behalf of the Meeds DAO to cover legal fees, development, and hosting costs using the Meeds DAO Funds.
 
-Organizations and individuals not members of the Meeds Association may still contribute through the _Meeds Builders Hub_  - a community hub that welcomes enthusiasts who want to participate in creating and promoting the WoM. The _Meeds DAO Funds_ also rewards for the contributions on the Meeds Builders Hub.
+Organizations and individuals not members of the Meeds Association may still contribute through the _Meeds Builders Hub_  - a community hub that welcomes enthusiasts who want to participate in creating and promoting the WoM. The _Meeds DAO Funds_ also rewards for the contributions on the Builders Hub.
 
 The Builders Hub also receives Mintium rewards like any other hub. 
 
@@ -68,20 +68,20 @@ xMEED is the token used for voting on DAO proposals.
 
 Additionally, xMEED holders earn minting points that entitle them to mint Deed NFTs. This mechanism increases the demand for MEED tokens. Minting points accrue over time as long as the stakeholder maintains his stake. The formula below allows you to calculate minting points :
 
- $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
+ $$ P = xMEED / (xMEED + 12000) * T / 240 $$
 
  Where:
 
-- $xMeeds$: xMeeds balance  with no decimals
+- $xMEED$: xMEED balance  with no decimals
 - $T$: Time elapsed in milliseconds
 
 The formula avoids favoring large holders to distribute Deeds more efficiently and equitably. For example, the formula gives the following rates :
 
 | **Holder Size** | **Holdings** | **Accrue Rate**   | 
 | --- | --- | --- |
-| Small | 1 000 xMeeds | 28 pts/day |
-| Medium | 10 000 xMeeds | 164 pts/day |
-| Large | 100 000 xMeeds | 321 pts/day |
+| Small | 1 000 xMEED | 28 pts/day |
+| Medium | 10 000 xMEED | 164 pts/day |
+| Large | 100 000 xMEED | 321 pts/day |
 
 
 These accrue rates lead to the following holding time for each class of holder :
@@ -101,13 +101,13 @@ xMEED token holders can freely participate in the governance of the Meeds DAO by
 
 The WoM will introduce the blockchain world to many people who do not use it today.
 
-Indeed, Meeds can gamify and set a monetary value on any contribution (whether it is digital or not) and reward it with MEED tokens. This has be made possible by an easy-to-use, blockchain-based wallet app that simplifies access to the crypto world for an average user, rewards are tangible.
+Indeed, Meeds software can gamify and set a monetary value on any contribution (whether it is digital or not) and reward it with MEED tokens. This has be made possible by an easy-to-use, blockchain-based wallet app that simplifies access to the crypto world for an average user, rewards are tangible.
 
-Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
+Beyond the wallet and a store where they can purchase perks for MEED tokens, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
 
 - The ability to stake MEED tokens and get yields (generate revenues)
-- The ability to use MEED tokens as collateral to borrow stablecoins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
-- A digital card can be added and used through Apple Pay, Google Pay, or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by staked Meeds. Organizations could also use this card to fund employee wallets to manage employee benefits such as restaurants, transportation, and other expenses.
+- The ability to use MEED tokens as collateral to borrow stablecoins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the MEED token to [AAVE](https://aave.com/).
+- A digital card can be added and used through Apple Pay, Google Pay, or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by xMEED. Organizations could also use this card to fund employee wallets to manage employee benefits such as restaurants, transportation, and other expenses.
 
 So, not only will many new users discover the blockchain world, but they will also discover a bankless world.
 
