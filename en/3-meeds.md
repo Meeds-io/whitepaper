@@ -57,7 +57,7 @@ Investors support the WoM by providing liquidity and staking MEED tokens, which 
 
 **Liquidity providers**
 Currency liquidity management is crucial to the project's success. The Meeds DAO employs various DeFi mechanisms to optimize its capital efficiency. For instance, incentives allow liquidity providers to farm yields by renting their LP tokens. 
-Also, there are plans to introduce bonds and move towards protocol-owned liquidity progressively. The latter would contribute to the project's long-term sustainability - as mentioned above, transaction fees will fund the operating expenses.
+Also, there are plans to introduce bonds and move towards protocol-owned liquidity progressively. The latter will contribute to the project's long-term sustainability - as mentioned above, transaction fees will fund the operating expenses.
 
 Additionally, on behalf of the Meeds DAO, the Meeds Association is entitled to facilitate OTC (off-the-shelf) purchases of more extensive amounts of MEED tokens.
 
