@@ -1,12 +1,12 @@
-# 5. WoM for ALL – vision summary and milestones
+# 5. WoM for ALL – סיכום חזון ואבני דרך
 
-## 5.1. Ultimate Goal - Decentralized web for everyone
+## 5.1. מטרה אולטימטיבית - אינטרנט מבוזר לכולם
 
-In the end, the WoM is a decentralized web world for everyone – every person and all organizations.
+בסופו של דבר, ה-Wom הוא עולם אינטרנט מבוזר לכולם - לכל אדם ולכל הארגונים.
 
 הוא יאוכלס על ידי משתמשים, שיפעלו באמצעות הזהויות הדיגיטליות שלהם **Xeeds** וייגשו לעולם דרך המטא-מסכות שלהם, לידע קריפטו, או כניסה/סיסמה למתחילים. אנשים היו מקצים את המעורבות שלהם ומקבלים תגמול בצורה הוגנת, שקופה ומבוזרת. הם יקבלו גישה לעולם המבוזר ולעולם הקריפטו של המחר בצורה קלה ומוכרת - הם יקבלו כלים פשוטים להשתמש באסימונים שלהם בחייהם או להשקיע אותם למען עתידם.
 
-Organizations would be able to source talents, browsing through the WoM, for the right proven skills. הם יקבלו תגמול על השתתפותם ב-WoM, על ידי הטבעת אסימונים באמצעות מעורבות המשתמשים שלהם (מודל מינטיום). אבל יותר מכל, הם יפיקו תועלת ממעורבות ונאמנות גבוהה יותר מהמשתמשים שלהם.
+ארגונים יוכלו למצוא כישרונות, לדפדף דרך WoM, עבור הכישורים המוכחים הנכונים. הם יקבלו תגמול על השתתפותם ב-WoM, על ידי הטבעת אסימונים באמצעות מעורבות המשתמשים שלהם (מודל מינטיום). אבל יותר מכל, הם יפיקו תועלת ממעורבות ונאמנות גבוהה יותר מהמשתמשים שלהם.
 
 The WoM would have its own currency the **MEED** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. ה-WoM יקל גם על הפצת אסימונים אחרים וישתתף במערכת האקולוגית הכוללת של הקריפטו.
 
@@ -22,7 +22,7 @@ The WoM would have its own currency the **MEED** – that would be there to spen
 
 בפרט, ה-WoM מתגמל השקעה לטווח ארוך בפסוק - כלומר פדיון הנכס (Deeds). הבעלים המקורי של ה-Deed מקבל פיצוי באמצעות טביעת אירוסין (שימוש פעיל), באמצעות הכנסה פסיבית (השכרה) ומקבל 1% לכל החיים על כל עסקת מכירה של ה-Deed (בכל שינוי בעלות, הפואל המקורי מקבל עמלה על עִסקָה).
 
-By believing in the project, participating in the liquidity pools, staking MEED tokens, redeeming them against Deeds...early investors of all sizes would mint additional tokens. הם גם יקבלו את זכויות ההצבעה המוקדמות ביותר ויעזרו לעצב את WoM.
+על ידי אמונה בפרויקט, השתתפות במאגרי הנזילות, החזקה של אסימוני MEED, פדיון נגד Deeds... משקיעים מוקדמים מכל הגדלים יטביעו אסימונים נוספים. הם גם יקבלו את זכויות ההצבעה המוקדמות ביותר ויעזרו לעצב את WoM.
 
 ארגונים שרוכשים אך במיוחד משתמשים ב-Deeds כדי לעסוק ולתגמל את העובדים שלהם יקבלו פיצוי ב-Meeds שנטבעו. ככל שהם ישחקו יותר הוגנים, כך הם יקבלו יותר. המאמצים המוקדמים יותר ישויכו לערים ההיסטוריות הראשונות ויזוהו כבונים בהמשך.
 
@@ -38,17 +38,17 @@ By believing in the project, participating in the liquidity pools, staking MEED 
 
 ## 5.3. השיגור
 
-The official launch of the WoM was **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+ההשקה הרשמית של WoM הייתה **1 במאי 2022** - יום העובדים הבינלאומי, שנחגג במדינות רבות.
 
-At that time, the MEED token already existed. אפשר לרכוש אותו ומאגרי נזילות פתוחים להשתתפות, ברשתות Polygon ו-Ethereum.
+באותו זמן, אסימון MEED כבר היה קיים. אפשר לרכוש אותו ומאגרי נזילות פתוחים להשתתפות, ברשתות Polygon ו-Ethereum.
 
 שלושה חברי עמותת Meeds משתמשים במערכת באופן פנימי כדי לערב ולתגמל את המשתמשים שלהם ולשפר את תוכנת Meeds.
 
 אפליקציית המשקיעים זמינה ב-Ethereum Mainnet. בהשקה, הוא כולל הימור, תגמולי נזילות, צבירת נקודות ומימוש Deeds.
 
-The Builders community is up and running, open to anyone who would want to join, test and participate. אפשר להתחבר עם Metamask.
+קהילת הבונים פועלת, פתוחה לכל מי שירצה להצטרף, לבדוק ולהשתתף. אפשר להתחבר עם Metamask.
 
-This paper was initially published on the launch day. לאחר ההשקה, האסימון יונח באוויר לאנשים רבים ברחבי קהילת הקריפטו.
+מאמר זה פורסם לראשונה ביום ההשקה. לאחר ההשקה, האסימון יונח באוויר לאנשים רבים ברחבי קהילת הקריפטו.
 
 ## 5.4. קהילת הבונים
 
