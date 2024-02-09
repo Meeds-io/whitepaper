@@ -22,7 +22,7 @@ Tentu pengguna awal akan mendapatkan banyak keuntungan dibanding dengan pendatan
 
 Secara khusus, keuntungan yang diberikan WoM adalah investasi jangka panjang - yang bisa mengganti properti (Deeds). Pemilik asli Deeds mendapat kompensasi dari keterlibatannya dalam lahirnya (pengguna aktif), lewat pendapatan pasif (menyewakan), dan keuntungan 1% sepanjang masa dai transaksi penjualan Deeds (pada setiap perubahan kepemilikan, penebus aslinya memperoleh dana dari biaya transaksi).
 
-By believing in the project, participating in the liquidity pools, staking MEED tokens, redeeming them against Deeds...early investors of all sizes would mint additional tokens. He saisivat myös aikaisimman äänioikeuden ja auttaisivat muokkaamaan naista.
+Dengan mempercayai proyek ini, berpartisipasi dalam kumpulan likuiditas, mempertaruhkan token MEED, menebusnya dengan Akta... investor awal dari semua ukuran akan mencetak token tambahan. He saisivat myös aikaisimman äänioikeuden ja auttaisivat muokkaamaan naista.
 
 Perusahaan mendapatkan, utamanya yang menggunakan Deed, untuk terlibat dan memberikan pekerja mereka imbalan, akan mendapatkan kompensasi Meeds yang mereka terbitkan. Semakin adil mereka bekerja, semakin banyak yang mereka peroleh. Para pengguna awal akan dikaitkan dengan sejarah kota-kota dan kelak akan disebut sebagai orang-orang yang membangun.
 
@@ -40,15 +40,15 @@ Diagram di bawah ini menunjukkan contoh strategi investasi Meeds untuk pemilik p
 
 The official launch of the WoM was **May 1st, 2022** – the International Workers Day, celebrated in many countries.
 
-At that time, the MEED token already existed. Ini memungkinkan untuk mendapatkan token tersebut dan likuiditas bersama bisa diikuti, di jaringan Polygon dan Ethereum.
+Saat itu, token MEED sudah ada. Ini memungkinkan untuk mendapatkan token tersebut dan likuiditas bersama bisa diikuti, di jaringan Polygon dan Ethereum.
 
 Tiga anggota asosiasi Meed menggunakan sistem internal untuk terlibat dan memberikan pengunanya dan mengembangkan perangkat lunak Meeds.
 
 Aplikasi investor sudah tersedia di Jaringan Utama Ethereum. Saat peluncuran, termasuk staking, imbalan likuiditas, akumulasi poin, dan penebusan Deed.
 
-The Builders community is up and running, open to anyone who would want to join, test and participate. Anda bisa masuk dan bergabung menggunakan Metamask.
+Komunitas Builders sudah aktif dan berjalan, terbuka bagi siapa saja yang ingin bergabung, menguji, dan berpartisipasi Anda bisa masuk dan bergabung menggunakan Metamask.
 
-This paper was initially published on the launch day. Menindaklanjuti dari peluncuran, token ini akan disebarkan kepada orang-orang di komunitas kripto.
+Makalah ini awalnya diterbitkan pada hari peluncuran. Menindaklanjuti dari peluncuran, token ini akan disebarkan kepada orang-orang di komunitas kripto.
 
 ## 5.4. Komunitas Pembangun
 
