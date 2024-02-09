@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
+Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee. And for this reason, advanced means of financial transactions should be adopted.
 
 The WoM (World of Meeds) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs (Decentralized Autonomous Organizations).
 

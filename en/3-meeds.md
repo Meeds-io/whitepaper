@@ -1,6 +1,6 @@
-# 3. MEED token – the currency of the WoM
+# 3. The MEED token – the currency of the WoM
 
-Its currency powers the WoM – the Meeds (MEED) token. Users are rewarded with MEED tokens (through engagement programs), purchase in stores, get Deeds, get financial returns on investments, and more.
+The Meeds token (MEED) is the currency that powers the WoM. Users are rewarded with MEED (through engagement programs), purchase in stores, get Deeds, get financial returns on investments, and more.
 
 ## 3.1. Tokenomics
 
