@@ -45,7 +45,7 @@ WoM 最终将提供有限数量的契据。 每个契约都包含一个预定义
 - **参与方案**：具有具体目标和奖励的定制方案澄清了组织目标和公允地表彰贡献者的成就。
 - **Kudos**: 立即的对等体认能提高士气，培养一种欣赏文化，增强团队凝聚力和积极性。
 - **空格**：有组织的分组和项目简化了沟通与合作，提高了集体生产力。
-- **Wallet**: The Wallet app securely stores MEED rewards, representing user contributions, and enables easy transactions both within the Hub and on the broader network.
+- **钱包**：钱包应用程序安全地存储 MEED 奖励，代表用户贡献，并支持在中心内和更广泛的网络上轻松进行交易。
 - **Perks**: 从礼品卡到NFT, 激励正在进行的参与并在组织系统内培养忠诚度的各种奖励。
 - **任务**: 简化项目和任务管理工具通过简化工作流程和跟踪进度来提高生产率。
 - **备注**: 一个记录基本信息的便捷笔记本应用程序，如登载指南，可促进知识共享和组织上的自给自足。
@@ -57,9 +57,9 @@ WoM 最终将提供有限数量的契据。 每个契约都包含一个预定义
 
 **抓取工作信号** Hubs 可以与各种平台集成，如GitHub 、Twitter， 和 Discord 可以通过 API 延伸，连接到 CRM 软件、会计软件和时钟终端等服务。 这使得各种专业贡献得到承认和奖励。 所有连接器都经过Meeds协会的白名单程序，以保证完整性和功能。
 
-**Enriching the Perks Store** Organizations can tailor the store with custom perks, including training courses and gym memberships, creating a self-reinforcing cycle of rewards and engagement. 这不仅激励贡献者，而且还促进与组织生态系统的更深入的联系。
+**丰富特权商店** 组织可以通过定制福利（包括培训课程和健身房会员资格）来定制商店，从而创建一个自我强化的奖励和参与循环。 这不仅激励贡献者，而且还促进与组织生态系统的更深入的联系。
 
-**Engagement and Rewards** Active participation in the Hub contributes to an organization’s global engagement score. 这一尺度反映了雇用战略的有效性，考虑到用户活动水平以及工作和报酬的公平分配等因素。 这个可公开审计的分数使Hubs有权分配从协议中找到的MEED 代币。 作为衡量其参与战略有效性的尺度。
+**参与和奖励** 积极参与该中心有助于提高组织的全球参与度得分。 这一尺度反映了雇用战略的有效性，考虑到用户活动水平以及工作和报酬的公平分配等因素。 这个可公开审计的分数使Hubs有权分配从协议中找到的MEED 代币。 作为衡量其参与战略有效性的尺度。
 
 展望未来，WOM生态系统中的社区枢纽将成为社区生活的核心。 整合内部通信、实时互动、治理和各种生产工具。 这些改进措施将确保各中心仍然与各组织已经使用的最佳工具相互联系。 它们有力地证明了我致力于培养一个生机勃勃的、有参与性的社区。
 
