@@ -35,9 +35,9 @@ Anggota asosiasi bisa menyediakan layanan kepada asosiasi berdasar pada perjanji
 
 Tanpa menjadi anggota, organisasi mana pun dapat berpartisipasi dalam pembuatan konektor baru dan diberi penghargaan karena melakukannya – pertama melalui asosiasi Meeds yang memperoleh konektor tersebut dan kemudian dengan mencetak melalui konektor ini.
 
-The association operates its own community hub named the _Meeds Builders Hub_ that welcomes enthusiasts, who want to contribute to the creation of the WoM. The association sponsors the community out of its budget, compensating the engagement of community members.
+The association operates its own community hub named the _Meeds Builders Hub_ that welcomes enthusiasts, who want to contribute to the creation of the WoM. Asosiasi mensponsori komunitas dari anggarannya, memberikan kompensasi atas keterlibatan anggota komunitas.
 
-Thus, the builders' hub functions as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. Asosiasi mempertaruhkan Meeds untuk menebus Akta untuk komunitasnya. Thus, the Builder's Hub also benefits in the engagement minting like any other Hub backed by a Deed.
+Dengan demikian, hub pembangun berfungsi sebagai contoh nyata dari komunitas yang diberdayakan oleh perangkat lunak Meeds, yang menawarkan serangkaian layanan standar yang disediakan oleh asosiasi. Asosiasi mempertaruhkan Meeds untuk menebus Akta untuk komunitasnya. Dengan demikian, Hub Pembangun juga mendapat manfaat dalam pembuatan perjanjian seperti Hub lainnya yang didukung oleh Akta.
 
 Setelah masa penerbitan selesai, asosiasi akan dibiayai dari :
 
@@ -59,7 +59,7 @@ Setiap anggota juga berhak membeli Meed secara langsung dalam jumlah besar denga
 
 **Deposito/investasi jangka panjang** Untuk menarik investasi jangka panjang, Meed yang didepositokan akan diberi imbal hasil. Ketika Meed didepositokan, deposan akan mendapatkan token xMeed. Meed yang baru diterbitkan didistribusikan kepada deposan secara proporsional menjadi xMeed mereka. Dalam praktiknya, Meed yang diterbitkan secara efektif dimasukkan ke dalam kontrak pintar xMeed dan didistribusikan kepada pemegang xMeed saat mereka menarik depositonya.
 
-By staking Meeds, investors can also redeem Deed NFTs (and then participate in minting through engagement), hence increasing the token demand. Tiap Meed yang didepositokan (xMeed) membuat pemiliknya menerima sejumlah poin tiap harinya. Semakin lama mereka mendepositokannya, maka semakin besar poin yang mereka peroleh untuk tiap xMeed. Tiap Deed, lalu bisa ditukar menjadi sejumlah poin.
+Dengan mempertaruhkan Meeds, investor juga dapat menukarkan Akta NFT (dan kemudian berpartisipasi dalam pencetakan melalui keterlibatan), sehingga meningkatkan permintaan token. Tiap Meed yang didepositokan (xMeed) membuat pemiliknya menerima sejumlah poin tiap harinya. Semakin lama mereka mendepositokannya, maka semakin besar poin yang mereka peroleh untuk tiap xMeed. Tiap Deed, lalu bisa ditukar menjadi sejumlah poin.
 
 Poin dihitung berdasar rumus berikut :
 
@@ -100,7 +100,7 @@ Maka, setiap karya (entah digital atau bukan) bisa digamifiikasi dan segala kete
 
 Selain dompet dan toko di mana pengguna bisa membeli barang untuk Meed, kami berencana mengenalkan semua pengguna produk-produk akhir yang disokong protokol Decentralized Finance, seperti:
 
-- The ability to stake MEED tokens and get yields (generate revenues)
+- Kemampuan untuk mempertaruhkan token MEED dan mendapatkan hasil (menghasilkan pendapatan)
 - The ability to use MEED tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
 - Kartu digital yang bisa dimasukan atau digunakan dengan Apple Pay, Google pay, atau lewat ATM. Untuk ATM, bisa dilakukan dengan bekerja sama dengan VISA dan akan memanfaatkan batas kredit dalam USDC, dijamin dengan mendepositokan Meed. Kartu ini bisa juga digunakan oleh organisasi untuk mendanai dompet karyawan untuk pemberian tunjangan seperti makan di restoran, transportasi, segala jenis pengeluaran.
 
