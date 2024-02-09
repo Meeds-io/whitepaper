@@ -12,7 +12,7 @@ WOM akan mempunyai mata wang sendiri** MEED ** yang akan berada di sana untuk di
 
 Sebagai gambar bernilai seribu perkataan, berikut adalah gambarajah yang menggambarkan aliran yang dipakai dan Meeds
 
-![WoM and Meeds flows](en/img/wom-flows.png)
+![Wom dan meeds mengalir](en/img/wom-flows.png)
 
 Sebagai gambar bernilai seribu perkataan, berikut adalah gambarajah yang menggambarkan aliran yang dipakai dan Meeds.
 
@@ -28,13 +28,13 @@ Organisasi yang memperoleh tetapi terutamanya menggunakan Akta untuk melibatkan 
 
 Rajah di bawah menunjukkan contoh strategi pelaburan Meeds untuk pemegang modal :
 
-![Meeds investment strategy for capital holders](en/img/invest-capital.png)
+![Strategi pelaburan Meeds untuk pemegang modal](en/img/invest-capital.png)
 
 Organisasi tentu saja boleh mengambil bahagian dalam kumpulan kecairan, tetapi juga bergabung dengan komuniti pembina dan mendapat ganjaran penglibatan tambahan di sana.
 
 Rajah di bawah menunjukkan contoh strategi pelaburan Meeds untuk pemegang kerja :
 
-![Meeds investment strategy for work holders](en/img/invest-work.png)
+![Strategi pelaburan Meeds untuk pemegang kerja](en/img/invest-work.png)
 
 ## 5.3. Pelancaran
 
@@ -64,23 +64,23 @@ Pelan tindakan kami akan mengikut urutan keutamaan di bawah:
 - Membolehkan perbuatan menyewa
 - Penciptaan Xeed
 - Peningkatan lencana dan pembangunan kelayakan
-- DeFi services – in the wallet, credit cards partnership
+- Perkhidmatan DeFi – dalam wallet, perkongsian kad kredit
 
-We are counting on the early adopters from the DAOs and tech-savvy companies during the building stage. We should also have some early adopters from traditional companies that gain immediate value from the WoM by providing relevant engagement programs to their people, on top of their current traditional compensation plans.
+Kami mengharapkan pengguna awal dari DAO dan syarikat yang celik teknologi semasa peringkat bangunan. Kita juga harus mempunyai beberapa pengguna awal dari syarikat tradisional yang mendapat nilai segera dari WoM dengan menyediakan program penglibatan yang relevan kepada orang-orang mereka, di atas rancangan pampasan tradisional mereka sekarang.
 
-Meeds minting spans a 20 year period. By that time, we aspire to have achieved building a mature ecosystem, having spread to many organizations and many users globally.
+Meeds minting merangkumi tempoh 20 tahun. Pada masa itu, kami bercita-cita untuk mencapai pembangunan ekosistem yang matang, setelah merebak ke banyak organisasi dan banyak pengguna di seluruh dunia.
 
-## 5.6. What you can do right now
+## 5.6. Apa yang boleh anda lakukan sekarang
 
-What can you do right now to participate?
+Apa yang boleh anda lakukan sekarang untuk mengambil bahagian?
 
-- Spread this paper to those who would be interested
-- Visit our website [meeds.io](https://www.meeds.io/)
-- Check out the [Investor app](https://meeds.io/investors)
-- Contribute to the existing liquidity pools here :
+- Sebarkan artikel ini kepada mereka yang berminat
+- Lawati laman web kami [meeds.io ](https://www.meeds.io/)
+- Lihat aplikasi [ pelabur ](https://meeds.io/investors)
+- Menyumbang kepada kolam kecairan sedia ada di sini:
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
-- Join our [Discord](https://discord.com/invite/hAuADSq3) community to be kept in the loop
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some Meeds engagement rewards
+- Sertai komuniti [ Discord ](https://discord.com/invite/hAuADSq3) kami untuk disimpan dalam gelung
+- Sertai komuniti [Builders ](https://meeds.io/builders) kami untuk menguji perisian Meeds, melibatkan diri dan mendapatkan beberapa ganjaran penglibatan Meeds
 
-**\*\*\* The WoM - let’s build this crazy future world together. \*\*\***
+**\*\*\* WoM-mari kita bina dunia masa depan yang gila ini bersama-sama. \*\*\***

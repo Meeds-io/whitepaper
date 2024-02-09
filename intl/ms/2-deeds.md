@@ -61,87 +61,87 @@ Hab Komuniti menawarkan set alatan dan ciri yang direka untuk meningkatkan dan m
 
 **Penglibatan dan Ganjaran** Penyertaan aktif dalam Hab menyumbang kepada skor penglibatan global organisasi. Metrik ini menggambarkan keberkesanan strategi penglibatan, dengan mengambil kira faktor seperti tahap aktiviti pengguna dan pengagihan kerja dan ganjaran yang saksama. Skor boleh diaudit secara terbuka ini, memberi hak kepada Hab kepada pengedaran token MEED yang dihasilkan daripada protokol, yang berfungsi sebagai ukuran keberkesanan strategi penglibatan mereka.
 
-Looking ahead, Community Hubs in the WoM ecosystem are set to become central to community life, integrating internal communications, real-time interactions, governance, and various productivity tools. These enhancements will ensure that the Hubs remain interconnected with the best tools already employed by organizations. They stand as a powerful testament to Meeds' commitment to fostering a vibrant, engaged community.
+Ke depan, hab komuniti dalam ekosistem WoM akan menjadi pusat kehidupan masyarakat, mengintegrasikan komunikasi dalaman, interaksi masa nyata, tadbir urus, dan pelbagai alat produktiviti. Peningkatan ini akan memastikan bahawa Hub tetap saling berkaitan dengan alat terbaik yang sudah digunakan oleh organisasi. Mereka berdiri sebagai bukti kuat komitmen Meeds untuk memupuk komuniti yang bersemangat dan terlibat.
 
 
-## 2.5. Rewarding Model
+## 2.5. Model Ganjaran
 
-In the WoM, user engagement across various work activities is incentivized and gamified, tailored to each community Hub's unique programs. Users earn points reflecting their active participation, with each community determining its own rules for point allocation.
+They stand as strong evidence of Meeds ' commitment to fostering a vibrant and engaged community. Pengguna memperoleh mata yang mencerminkan penyertaan aktif mereka, dengan setiap komuniti menentukan peraturan sendiri untuk peruntukan mata.
 
-For example, an IT company might award 10 points for coding on GitHub, whereas a digital agency could place higher value on social media engagement, like retweets, with similar points.
+Sebagai contoh, syarikat IT mungkin memberikan 10 mata untuk pengekodan pada GitHub, manakala agensi digital boleh meletakkan nilai yang lebih tinggi pada penglibatan media sosial, seperti tweet semula, dengan mata yang serupa.
 
-Regular distributions of rewards are based on the points accrued in each Hub. Typically, these are given in MEED tokens, delivered directly to users' wallets. While MEED tokens are the standard form of reward, Hubs have the flexibility to offer different types of compensation.
+Pembahagian ganjaran secara berkala berdasarkan mata yang terkumpul di setiap hab. Biasanya, ini diberikan dalam token MEED, dihantar terus ke dompet pengguna. Walaupun token MEED adalah bentuk ganjaran standard, Hub mempunyai fleksibiliti untuk menawarkan pelbagai jenis pampasan.
 
-When rewards are distributed in tokens other than MEED, a nominal fee of 5% is applied. This fee contributes to the Meeds treasury, playing a crucial role in maintaining the sustainability of the ecosystem.
+Apabila ganjaran diedarkan dalam token selain MEED, bayaran nominal 5% dikenakan. Yuran ini menyumbang kepada Perbendaharaan Meeds, memainkan peranan penting dalam mengekalkan kelestarian ekosistem.
 
-## 2.6. The “mintium” model – tokenize work engagement
+## 2.6. Model" mintium " – tokenize penglibatan kerja
 
-By engaging their users in the WoM, communities get compensated through an innovative mintium model.
+Dengan melibatkan pengguna mereka dalam WoM, komuniti mendapat pampasan melalui model minimum yang inovatif.
 
-Engagement points, gained by the Hubs’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Hubs. Even though the community can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
+Mata penglibatan, yang diperoleh oleh pengguna Hub, mengambil bahagian dalam indeks penglibatan global, yang dikira oleh Persatuan Meeds. Indeks menggunakan prinsip yang sama untuk semua hab. Indeks menggunakan prinsip yang sama untuk semua hab.
 
-Each week, a certain amount of Meeds is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Hubs. Some Hubs get an additional boost depending on the type of Deed they use. The Hubs that claim their Meeds over the week, receive them. The unclaimed Meeds are added to the following week’s global distribution amount.
+Setiap minggu, sejumlah Meed diperuntukkan untuk pencetakan penglibatan global WoM. Ia dikira setiap minggu, pro rata, antara hab yang mengambil bahagian. Sesetengah hab mendapat rangsangan tambahan bergantung pada jenis surat ikatan yang mereka gunakan. Hab yang menuntut Meeds mereka sepanjang minggu, menerima mereka. Meed yang tidak dituntut ditambah kepada jumlah pengedaran global minggu berikutnya.
 
-The engagement score _S_  of a Deed is a function of the engagement, the number of engaged users and the distribution :
+Skor penglibatan _S_ Surat Ikatan ialah fungsi penglibatan, bilangan pengguna terlibat dan pengedaran :
 
 $$S = (E_d / E_w) * D_r * D_s * M$$
 
-Where :
+Di mana:
 
-- $A$ = _Activity_ - total number of actions accumulated by users within the Hub over the week. (On a Hub, each user action is converted into engagement points, some actions weighting more than others. At the index level, all actions are linearized).
-- $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
-- $E_d$ = _Engagement rate of the hub_ - actions per user ($A/U$)
-- $E_w$ = _Average engagement rate_ of all active Hubs in the WoM.
-- $D_r$ = _Distribution rate_ - if a Hub received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
-- $D_s$ =  _Distribution spread_ - if a Hub received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
-- $M$ = _Minting Power_ of the Deed as defined in 2.3
-
-
-The global engagement index used to distribute minted Meeds among the Hubs is the sum of all Hubs’ engagement scores for the week.
+- $A$ = _Aktiviti_ - jumlah bilangan tindakan yang terkumpul oleh pengguna dalam Hab sepanjang minggu. (Pada Hab, setiap tindakan pengguna ditukar kepada titik interaksi, sesetengah tindakan lebih berat daripada yang lain. Pada peringkat indeks, semua tindakan adalah linear).
+- $U$ = _Pengguna yang terlibat_ - pengguna yang menyumbang kepada mata sepanjang minggu, dengan sekurang-kurangnya satu tindakan.
+- $E_d$ = _Kadar interaksi hab_ - tindakan setiap pengguna ($A/U$)
+- $E_w$ = _Kadar penglibatan purata_ semua Hab aktif dalam WoM.
+- $D_r$ = _Kadar pengedaran_ - jika Hab menerima Meeds yang ditempa untuk tempoh sebelumnya, % daripada Meeds yang telah diedarkan kepada penggunanya. % boleh melebihi 100 jika pengedaran ditangguhkan dalam masa.
+- $D_s$ = _Sebaran pengedaran_ - jika Hab menerima Meeds yang ditempa untuk tempoh sebelumnya, % pengguna yang menerima Meeds dalam kumpulan pengguna keseluruhan.
+- $M$ = _Kuasa Tempa_ Surat Ikatan seperti yang ditakrifkan dalam 2.3
 
 
-The formula above is simple and designed to favor hubs :
+Indeks penglibatan global yang digunakan untuk mengedarkan Meeds yang dicetak di kalangan Hab ialah jumlah semua markah penglibatan Hab untuk minggu tersebut.
 
-- with lots of engaged users (engagement)
-- who share the whole of the minting income (distribution rate) with their users fairly (distribution spread).
 
-Additionnally boosters are in place for :
+Formula di atas adalah mudah dan direka bentuk untuk memihak kepada hab :
 
-- organizations with the highest engagement, regardless of their size (engagement rate in relation to the WoM)
-- scarcer deeds
+- dengan ramai pengguna yang terlibat (engagement)
+- yang berkongsi keseluruhan pendapatan mencetak (kadar pengagihan) dengan pengguna mereka secara adil (tebaran agihan).
 
-> The Meeds association reserves the right to change the formula if required – if some specific use cases arise for instance. The association can also blacklist any Hub that hijacks the formula to its unique benefit.
+Selain itu penggalak disediakan untuk:
 
-As the Hubs are rewarded with Meeds and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the communities and their users are aligned in the same virtuous revenue sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
+- organisasi dengan penglibatan tertinggi, tanpa mengira saiz mereka (kadar penglibatan berhubung dengan WoM)
+- perbuatan yang lebih terhad
 
-The “mintium” model is the first of a kind - it goes further than the traditional freemium one, as not only the services are free to use but both the organizations and their users are rewarded for using them.
+> Persatuan Meeds berhak untuk menukar formula jika diperlukan - jika beberapa kes penggunaan tertentu timbul sebagai contoh. Persatuan itu juga boleh menyenaraihitamkan mana-mana Hab yang merampas formula untuk faedah uniknya.
 
-## 2.7. Cities and governance
+Memandangkan Hab diberi ganjaran dengan Meeds dan diberi insentif untuk mengagihkannya semula sebagai ganjaran kepada pengguna mereka terhadap penglibatan mereka – minat kedua-dua komuniti dan pengguna mereka diselaraskan dalam kitaran perkongsian hasil yang sama. Oleh itu, WoM menawarkan model kerja baharu, yang membentuk semula hubungan majikan/pekerja sebagai perkongsian.
 
-In the WoM, Deeds will be generated gradually inside virtual cities. Only the first city will exist from the start. The others will be built gradually, one after the other. Di seluruh WoM, hanya akan ada 7 bandar, setiap satu termasuk bilangan Perbuatan tetap bagi setiap jenis.
+Oleh itu, WoM menawarkan model kerja baharu, yang membentuk semula hubungan majikan/pekerja sebagai perkongsian.
+
+## 2.7. 2.5% untuk Persatuan,
+
+Di WoM, perbuatan akan dihasilkan secara beransur-ansur di dalam bandar maya. Hanya bandar pertama yang akan wujud dari awal. Yang lain akan dibina secara beransur-ansur, satu demi satu. Di seluruh WoM, hanya akan ada 7 bandar, setiap satu termasuk bilangan Perbuatan tetap bagi setiap jenis.
 
 Sebuah bandar akan dianggap lengkap, apabila semua Aktanya telah ditempa. Kemudian, penempaan setiap bandar baharu akan bermula $2^n$ bulan selepas Surat Ikatan terakhir bandar $n-1$ ditempa.
 
-| **City name** | **Deeds**   | **Available**        | **Common** | **Uncommon** | **Rare**  | **Legendary** |
-| ------------- | ----------- | -------------------- | ---------- | ------------ | --------- | ------------- |
-| 1: Tanit      | 100         | T0                   | 50         | 30           | 13        | 7             |
-| 2: Reshef     | 1 000       | Tanit + 4 months     | 600        | 300          | 94        | 6             |
-| 3: Ashtarte   | 10 000      | Reshef + 8 months    | 6 000      | 3 000        | 995       | 5             |
-| 4: Melqart    | 100 000     | Ashtarte + 16 months | 60 000     | 30 000       | 9 996     | 4             |
-| 5: Eshmun     | 1 000 000   | Melqart + 32 months  | 600 000    | 300 000      | 99 997    | 3             |
-| 6: Kushor     | 10 000 000  | Eshmum + 64 months   | 6 000 000  | 3 000 000    | 999 998   | 2             |
-| 7: Hammon     | 100 000 000 | Kushor + 128 months  | 60 000 000 | 30 000 000   | 9 999 999 | 1             |
+| **Nama bandar** | **Perbuatan** | **Tersedia**        | **Biasa**  | **Luar biasa** | **Jarang** | **Legenda** |
+| --------------- | ------------- | ------------------- | ---------- | -------------- | ---------- | ----------- |
+| 1: Tanit        | 100           | T0                  | 50         | 30             | 13         | 7           |
+| 2: Reshef       | 1 000         | Tanit + 4 bulan     | 600        | 300            | 94         | 6           |
+| 3: Ashtarte     | 10 000        | Reshef + 8 bulan    | 6 000      | 3 000          | 995        | 5           |
+| 4: Melqart      | 100 000       | Ashtarte + 16 bulan | 60 000     | 30 000         | 9 996      | 4           |
+| 5: Eshmun       | 1 000 000     | Melqart + 32 bulan  | 600 000    | 300 000        | 99 997     | 3           |
+| 6: Kushor       | 10 000 000    | Eshmum + 64 bulan   | 6 000 000  | 3 000 000      | 999 998    | 2           |
+| 7: Hammon       | 100 000 000   | Kushor + 128 bulan  | 60 000 000 | 30 000 000     | 9 999 999  | 1           |
 
 Bandar ialah satu cara untuk komuniti berkumpul dan mewujudkan komuniti yang lebih besar. Dan sebagai akibatnya, dapatkan identiti tertentu, yang dikaitkan dengan komuniti itu. Ia juga merupakan satu cara untuk memberikan nilai tambahan kepada penggunanya - nilai yang akan melangkaui keupayaan atau nilai komuniti yang dicipta melalui kerjasama antara komuniti.
 
 Setiap bandar mempunyai tadbir urus sendiri dan mengendalikan DAO sendiri di mana pemilik Surat Ikatan bandar boleh memilih majlis bandar mereka, mengundi dan mewujudkan peraturan operasi mereka sendiri, menambah perkhidmatan baharu dan membentuk bandar mereka mengikut cara yang mereka mahukan dan untuk meningkatkan bandar raya itu. daya tarikan dan nilai Akta yang dilampirkan padanya.
 
-For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add Meeds powered food services, vacations services, etc...
+Sebagai contoh, mereka boleh menambah perwakilan digital bandar mereka, rakan-rakan fizikal yang berkaitan dengan bandar mereka (bilik mesyuarat di ruang kerja bersama fizikal misalnya), menambah perkhidmatan makanan bertenaga Meeds, Perkhidmatan percutian, dll...
 
-By default (unless the city votes otherwise), passive income from renting out Deeds will be “taxed” by the city (5%) and the Association (3%) to encourage productive use.
+Secara lalai (kecuali bandar mengundi sebaliknya), pendapatan pasif dari menyewa Akta akan "dikenakan cukai" oleh bandar (5%) dan Persatuan (3%) untuk menggalakkan penggunaan produktif.
 
-Ownsership transactions (Deed’s sales) will also be taxed 6% :
+Transaksi pemilikan (penjualan Akta) juga akan dikenakan cukai 6% :
 
-- 2.5% for the City,
-- 2.5% for the Association,
-- 1% for the original wallet that redeemed the Deed.
+- 2.5% untuk bandar,
+- 2.5% untuk Persatuan,
+- 2.5% untuk Persatuan,.
