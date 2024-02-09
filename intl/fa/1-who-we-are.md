@@ -1,12 +1,12 @@
 
-# 1. About Us
+# 1. درباره ما
 
-Meeds is a collaborative effort led by diverse Open Source Software (OSS) communities, dedicated to creating a decentralized digital world that resists centralized corporate control and fosters a free and open environment.
+Meeds یک تلاش مشترک است که توسط جوامع مختلف نرم‌افزار منبع باز (OSS) رهبری می‌شود و به ایجاد دنیای دیجیتال غیرمتمرکز اختصاص داده شده است که در برابر کنترل متمرکز شرکت مقاومت می‌کند و محیطی آزاد و باز را تقویت می‌کند.
 
-The legal entity behind Meeds is the _Meeds Association_, a non-profit organization incorporated under Swiss law in Geneva. It is responsible for regulating the issuance of the Meeds(MEED) token, an ERC20 token recognized as a utility token.
+The legal entity behind Meeds is the _Meeds Association_, a non-profit organization incorporated under Swiss law in Geneva. این توکن مسئول تنظیم صدور توکن Meeds (MEED) است، یک توکن ERC20 که به عنوان یک توکن کاربردی شناخته می شود.
 
-Functioning as a Decentralized Autonomous Organization (DAO), Meeds emphasizes on democratic governance, where token holders with governance rights participate in key decision making, such as annual board elections, ensuring transparency and community involvement in organizational changes.
+میدز که به عنوان یک سازمان غیرمتمرکز خودمختار (DAO) عمل می کند، بر حکومت دموکراتیک تأکید می کند، جایی که دارندگان توکن با حقوق حاکمیتی در تصمیم گیری های کلیدی، مانند انتخابات سالانه هیئت مدیره، تضمین شفافیت و مشارکت جامعه در تغییرات سازمانی شرکت می کنند.
 
-The Meeds project utilizes the Ethereum ecosystem to implement the World of Meeds (WoM) and the Meeds token. This approach prioritizes security, accessibility, user-friendliness, and cost-effectiveness, making it appealing to a broad user base.
+پروژه Meeds از اکوسیستم اتریوم برای پیاده سازی World of Meeds (WoM) و توکن Meeds استفاده می کند. این رویکرد امنیت، دسترسی، کاربرپسندی و مقرون به صرفه بودن را در اولویت قرار می‌دهد و آن را برای یک پایگاه گسترده کاربر جذاب می‌کند.
 
 Meeds is an Open Source Software ([github.com/meeds-io](https://github.com/meeds-io)) operated in the cloud infrastructure by hosting partners of the Meeds Association.
