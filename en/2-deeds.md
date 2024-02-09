@@ -11,7 +11,7 @@ The WoM is designed to be a diverse and inclusive platform. It welcomes a wide a
 
 ## 2.2. Deeds supply
 
-The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of Meeds rewarding (Minting Power). The term ‘user’ here and hereafter designates any type of employee, worker, freelancer, volunteer etc.
+The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of rewarding (Minting Power). The term ‘user’ here and hereafter designates any type of employee, worker, freelancer, volunteer etc.
 
 There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or minting power, the rarest being the most powerful :
 
@@ -36,7 +36,7 @@ Being an active holder or renter of a Deed, the organization is entitled to MEED
 
 In today's competitive market, organizations seek to attract and retain top talent not only through compensation but also by enhancing work engagement. The WoM addresses this challenge with a unique, tokenized reward system embodied in Community Hubs.
 
-Within these Hubs, community leaders can drive members engagement by offering a transparent menu of incentives for work items. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
+Within these Hubs, community leaders can drive members engagement by offering a transparent menu of incentives for work items. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens (Meeds) or a custom equivalent, in line with a predetermined budget.
 
 Community Hubs offer a suite of tools and features designed to boost and manage contributor engagement:
 
@@ -84,7 +84,7 @@ By engaging their users in the WoM, communities get compensated through an innov
 
 Engagement points, gained by the Hubs’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Hubs. Even though the community can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
 
-Each week, a certain amount of Meeds is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Hubs. Some Hubs get an additional boost depending on the type of Deed they use. The Hubs that claim their Meeds over the week, receive them. The unclaimed Meeds are added to the following week’s global distribution amount.
+Each week, a certain amount of MEED is allocated to the global engagement minting of the WoM. It’s computed weekly, pro-rata, among the participating Hubs. Some Hubs get an additional boost depending on the type of Deed they use. The Hubs that claim their MEED tokens over the week, receive them. The unclaimed MEED tokens are added to the following week’s global distribution amount.
 
 The engagement score _S_  of a Deed is a function of the engagement, the number of engaged users and the distribution :
 
@@ -96,7 +96,7 @@ Where :
 - $U$ = _Engaged users_ - users that contributed to points during the week, by at least one action.
 - $E_d$ = _Engagement rate of the hub_ - actions per user ($A/U$)
 - $E_w$ = _Average engagement rate_ of all active Hubs in the WoM. 
-- $D_r$ = _Distribution rate_ - if a Hub received minted Meeds for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
+- $D_r$ = _Distribution rate_ - if a Hub received minted MEED for the preceding period, the % of the Meeds that was distributed to its users. The % can be above 100 if the distribution is delayed in time.
 - $D_s$ =  _Distribution spread_ - if a Hub received minted Meeds for the preceding period, the % of the users that received Meeds in the total pool of users.
 - $M$ = _Minting Power_ of the Deed as defined in 2.3
 
