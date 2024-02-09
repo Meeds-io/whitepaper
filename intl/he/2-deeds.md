@@ -1,19 +1,19 @@
 
-# 2. Deeds - The Properties of the WoM
+# 2. מעשים - תכונות ה- WoM
 
-## 2.1. Deed NFTs
+## 2.1. פעולות NFT
 
-In the digital realm, Non-Fungible Tokens (NFTs) serve a similar purpose to deeds in the physical world. Like a deed that confirms ownership of tangible property, NFTs establish indisputable ownership of digital assets. This ownership is securely recorded on a blockchain, ensuring that each asset is unique and non-replicable.
+בתחום הדיגיטלי, Tokens Non-Fungible (NFT) משרתים מטרה דומה למעשים בעולם הפיזי. כמו שטר המאשר בעלות על רכוש מוחשי, NFTs קובעים בעלות בלתי ניתנת לערעור על נכסים דיגיטליים. בעלות זו מתועדת בצורה מאובטחת בבלוקצ'יין, מה שמבטיח שכל נכס הוא ייחודי ואינו ניתן לשכפול.
 
-Within the WoM, a Deed is conceptualized as an NFT, representing the foundational unit of ownership. Holding a Deed empowers its owner to manage a Community Hub and makes them eligible for receiving Mintium rewards, a form of recognition and incentive within the WoM ecosystem (further details in section 2.6).
+בתוך WoM, Deed מושג כ-NFT, המייצג את יחידת הבעלות הבסיסית. אחזקת שטר מסמיך את בעליו לנהל מרכז קהילה והופך אותם לזכאים לקבלת תגמולי Mintium, סוג של הכרה ותמריץ בתוך המערכת האקולוגית של WoM (פרטים נוספים בסעיף 2.6).
 
-The WoM is designed to be a diverse and inclusive platform. It welcomes a wide array of organizations, from DAOs, traditional businesses, and associations to think tanks, theater companies, project groups, and educational institutions. In this digital landscape, a Deed symbolizes the organization's digital presence and footprint in WoM, functioning as a bridge between their real-world operations and their digital endeavors.
+ה-Wom נועד להיות פלטפורמה מגוונת וכוללת. הוא מקבל בברכה מגוון רחב של ארגונים, החל מ-DAOs, עסקים מסורתיים ועמותות ועד צוותי חשיבה, חברות תיאטרון, קבוצות פרויקטים ומוסדות חינוך. בנוף דיגיטלי זה, מעשה מסמל את הנוכחות הדיגיטלית של הארגון וטביעת הרגל ב-Wom, ומתפקדת כגשר בין פעילותם בעולם האמיתי לבין מאמציהם הדיגיטליים.
 
 ## 2.2. אספקת Deeds
 
 ה-WoM יספק בסופו של דבר כמות מוגבלת של Deeds. כל Deed כולל מספר מקסימלי מוגדר מראש של משתמשים ומציע קיבולת של Meeds rewarding (Minting Power). המונח 'משתמש' כאן ולהלן מציין כל סוג של עובד, עובד, פרילנסר, מתנדב וכו'.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or minting power, the rarest being the most powerful :
+ישנם ארבעה סוגים של מעשים, כל אחד מספק יכולות שונות מבחינת מספר משתמשים, זכויות הצבעה בעיר (ראה 2.7) או כוח טביעה, הנדיר ביותר הוא החזק ביותר:
 
 | **סוג Deed** | **מקסימום משתמשים** | **כוח טביעה** | **מַחְסוֹר** | **זכויות הצבעה בעירייה** |
 | ------------ | ------------------- | ------------- | ------------ | ------------------------ |
@@ -26,42 +26,42 @@ There are four types of Deeds, each providing different capabilities in terms of
 
 Deed נותן לבעליו את הזכות להשתמש בו, לשכור אותו או למכור אותו.
 
-- USE – The owner can use the Deed to run a hub for his own organization.
-- RENT - The owner can also rent the Deed to another organization and earn passive income.
+- שימוש - הבעלים יכול להשתמש ב-Deed כדי להפעיל רכזת עבור הארגון שלו.
+- שכר דירה - הבעלים יכול גם להשכיר את ה-Deed לארגון אחר ולהרוויח הכנסה פסיבית.
 - SELL - The owner can sell it on a secondary NFT marketplace such as [OpenSea](https://opensea.io).
 
-Being an active holder or renter of a Deed, the organization is entitled to MEED rewards according to the “mintium” model described below (see 2.6).
+בהיותו מחזיק או שוכר פעיל של שטר, הארגון זכאי לתגמולי MEED על פי מודל "מינטיום" המתואר להלן (ראה 2.6).
 
-## 2.4. Community Hubs
+## 2.4. רכזות קהילה
 
-In today's competitive market, organizations seek to attract and retain top talent not only through compensation but also by enhancing work engagement. The WoM addresses this challenge with a unique, tokenized reward system embodied in Community Hubs.
+בשוק התחרותי של היום, ארגונים שואפים למשוך ולשמר כישרונות מובילים לא רק באמצעות תגמול אלא גם על ידי הגברת המעורבות בעבודה. ה-Wom מתמודד עם אתגר זה באמצעות מערכת תגמול ייחודית, אסימון, המגולמת במרכזי הקהילה.
 
-Within these Hubs, community leaders can drive members engagement by offering a transparent menu of incentives for work items. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
+בתוך רכזות אלה, מנהיגי קהילה יכולים לעודד מעורבות של חברים על ידי הצעת תפריט שקוף של תמריצים לפריטי עבודה. המשתתפים זוכים בנקודות מעורבות עבור מאמציהם, המומרות מעת לעת לאסימוני MEED או מקבילה מותאמת אישית, בהתאם לתקציב שנקבע מראש.
 
-Community Hubs offer a suite of tools and features designed to boost and manage contributor engagement:
+רכזות קהילה מציעות חבילה של כלים ותכונות שנועדו להגביר ולנהל את מעורבות התורמים:
 
-- **Actions**: Incentivized tasks guide contributors, aligning their efforts with organizational objectives and boosting motivation and direction.
-- **Gamification**: Leaderboards and badges transform work into a fun, competitive experience, enhancing engagement and enjoyment.
-- **Engagement Programs**: Customized programs with specific targets and rewards clarify organizational goals and fairly recognize contributor achievements.
-- **Kudos**: Immediate peer recognition boosts morale and fosters a culture of appreciation, enhancing team cohesion and motivation.
-- **Spaces**: Organized sub-groups and projects streamline communication and collaboration, increasing collective productivity.
-- **Wallet**: The Wallet app securely stores MEED rewards, representing user contributions, and enables easy transactions both within the Hub and on the broader network.
-- **Perks**: A variety of rewards, from gift cards to NFTs, incentivize ongoing engagement and foster loyalty within the organization’s ecosystem.
-- **Tasks**: Streamlined project and task management tools boost productivity by simplifying workflows and tracking progress.
-- **Notes**: A handy notebook app for documenting essential information like onboarding guides promotes knowledge sharing and organizational self-sufficiency.
-- **Branding**: Customizable Hub appearance attracts new contributors and strengthens their connection to the organization’s identity.
-- **Analytics**: Insightful analytics into community engagement enable leaders to identify effective strategies and make informed decisions for optimization.
+- **פעולות**: משימות מעודדות מנחות את התורמים, מיישרות את מאמציהם עם היעדים הארגוניים ומגבירות את המוטיבציה והכיוון.
+- **Gamification**: Leaderboards ותגים הופכים את העבודה לחוויה מהנה ותחרותית, משפרים את המעורבות וההנאה.
+- **תוכניות מעורבות**: תוכניות מותאמות אישית עם יעדים ותגמולים ספציפיים מבהירות יעדים ארגוניים ומכירים בצורה הוגנת בהישגי התורמים.
+- **כל הכבוד**: הכרה מיידית של עמיתים מגבירה את המורל ומטפחת תרבות של הערכה, משפרת את הלכידות הצוות והמוטיבציה.
+- **מרחבים**: תת-קבוצות ופרויקטים מאורגנות מייעלים את התקשורת ושיתוף הפעולה, ומגדילים את הפרודוקטיביות הקולקטיבית.
+- **ארנק**: אפליקציית הארנק מאחסנת באופן מאובטח תגמולי MEED, המייצגים תרומות של משתמשים, ומאפשרת עסקאות קלות הן בתוך ה-Hub והן ברשת הרחבה יותר.
+- **הטבות**: מגוון תגמולים, מכרטיסי מתנה ועד NFTs, מעודדים מעורבות מתמשכת ומטפחים נאמנות בתוך המערכת האקולוגית של הארגון.
+- **משימות**: כלים יעילים לניהול פרויקטים ומשימות מגבירים את הפרודוקטיביות על ידי פישוט זרימות העבודה ומעקב אחר ההתקדמות.
+- **הערות**: אפליקציית מחברת שימושית לתיעוד מידע חיוני כמו מדריכי כניסה למטוס מקדמת שיתוף ידע ויכולת ארגונית עצמית.
+- **מיתוג**: מראה ה-hub הניתן להתאמה אישית מושך תורמים חדשים ומחזק את הקשר שלהם לזהות הארגון.
+- **אנליטיקה**: ניתוחי תובנות לגבי מעורבות קהילתית מאפשרים למנהיגים לזהות אסטרטגיות יעילות ולקבל החלטות מושכלות לצורך אופטימיזציה.
 
 
-**Starting a Hub** Initiating a Hub is most seamless via meeds.io, which offers access to a cloud platform managed by the Meeds Association. This platform allows for quick setup and is maintained by the non-profit entity that stewards the WoM. However, the WoM caters to decentralization. As the Meeds software is open source and freely distributed, organizations have the option to self-host a Hub server and connect to the WoM network, granting them more control and customization in their Hub’s setup and management.
+**הפעלת רכזת** הפעלת Hub היא חלקה ביותר באמצעות meeds.io, המציע גישה לפלטפורמת ענן המנוהלת על ידי עמותת Meeds. פלטפורמה זו מאפשרת הגדרה מהירה ומתוחזקת על ידי הישות ללא מטרות רווח שמנהלת את WoM. עם זאת, ה- WoM מטפלת בביזור. מכיוון שתוכנת Meeds היא קוד פתוח ומופצת באופן חופשי, לארגונים יש אפשרות לארח בעצמם שרת Hub ולהתחבר לרשת WoM, מה שמעניק להם יותר שליטה והתאמה אישית בהגדרה ובניהול של Hub שלהם.
 
-**Capturing Work Signals** Hubs can integrate with various platforms like GitHub, Twitter, and Discord and are extendable via API to connect with services such as CRM software, accounting software, and clocking terminals. This allows for diverse professional contributions to be recognized and rewarded. All connectors undergo a whitelisting process by the Meeds Association to guarantee integrity and functionality.
+**לכידת אותות עבודה** רכזות יכולות להשתלב עם פלטפורמות שונות כמו GitHub, Twitter ו-Discord וניתנות להרחבה באמצעות API כדי להתחבר לשירותים כגון תוכנת CRM, תוכנת הנהלת חשבונות ומסופי שעון. זה מאפשר להכיר ולתגמל תרומות מקצועיות מגוונות. כל המחברים עוברים תהליך רשימת היתרים על ידי עמותת Meeds כדי להבטיח שלמות ופונקציונליות.
 
-**Enriching the Perks Store** Organizations can tailor the store with custom perks, including training courses and gym memberships, creating a self-reinforcing cycle of rewards and engagement. This not only incentivizes contributors but also fosters a deeper connection with the organization’s ecosystem.
+**העשרת חנות ההטבות** ארגונים יכולים להתאים את החנות עם הטבות מותאמות אישית, כולל קורסי הדרכה ומנויים לחדר כושר, יצירת מעגל מחזק את עצמו של תגמולים ומעורבות. זה לא רק מעודד תורמים אלא גם מטפח קשר עמוק יותר עם המערכת האקולוגית של הארגון.
 
-**Engagement and Rewards** Active participation in the Hub contributes to an organization’s global engagement score. This metric reflects the effectiveness of engagement strategies, considering factors like user activity levels and the equitable distribution of work and rewards. This publicly auditable score, entitles Hubs to a distribution of MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
+**מעורבות ותגמולים** השתתפות פעילה ב-Hub תורמת לציון המעורבות הגלובלית של הארגון. מדד זה משקף את האפקטיביות של אסטרטגיות מעורבות, בהתחשב בגורמים כמו רמות פעילות המשתמשים וחלוקה הוגנת של עבודה ותגמולים. הציון הניתן לביקורת ציבורית, מזכה את Hubs להפצה של אסימוני MEED שנטבעו מהפרוטוקול, המשמשים כמדד לאפקטיביות של אסטרטגיות ההתקשרות שלהם.
 
-Looking ahead, Community Hubs in the WoM ecosystem are set to become central to community life, integrating internal communications, real-time interactions, governance, and various productivity tools. שיפורים אלה יבטיחו כי רכזות להישאר מחוברים עם הכלים הטובים ביותר כבר מועסקים על ידי ארגונים. הם עומדים כעדות חזקה למחויבות הצרכים לטיפוח קהילה תוססת ומעורבת.
+במבט קדימה, רכזות קהילה במערכת האקולוגית של WoM אמורים להפוך למרכזיים בחיי הקהילה, תוך שילוב תקשורת פנימית, אינטראקציות בזמן אמת, ממשל וכלי פרודוקטיביות שונים. שיפורים אלה יבטיחו כי רכזות להישאר מחוברים עם הכלים הטובים ביותר כבר מועסקים על ידי ארגונים. הם עומדים כעדות חזקה למחויבות הצרכים לטיפוח קהילה תוססת ומעורבת.
 
 
 ## 2.5. מודל מתגמל
