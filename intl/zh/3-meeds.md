@@ -101,7 +101,7 @@ Meeds代币持有人需要将代币入股，以便对Meeds DAO的决策进行投
 除了钱包和可以为 Meeds 购买额外津贴的商店之外，我们还计划向每位用户介绍几种由去中心化金融协议提供支持的最终用户产品，例如：
 
 - 能够对中间体代币进行投资并获得产量(创造收入)
-- The ability to use MEED tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
+- 能够使用 MEED 代币作为抵押品来借入 USDC 等稳定币（首先利用 [Fuse 池](https://app.rari.capital/fuse)然后将 Meeds 代币注册到 [AAVE](https://aave.com/)。
 - 可以通过 Apple Pay、Google Pay 或任何 ATM 添加和使用的数字卡。 后者可以通过与 VISA 的合作伙伴关系提供，并将利用由质押的 Meeds 担保的 USDC 信用额度。 这张卡也可以被组织用来资助员工的钱包，以管理员工的福利，如餐厅、交通和任何类型的费用。
 
 所以不仅很多新用户会发现区块链的世界，他们也会发现一个没有银行的世界。
