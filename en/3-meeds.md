@@ -24,11 +24,11 @@ The Token Factory also rules the allocation of minted MEED tokens to  three cate
 
 Each category of stakeholders receives a share of the MEED supply, which is subject to votes by the DAO.
 
-## 3.3. Users – minting through engagement
+## 3.3. Users
 
 Part of the continuously minted Meeds is allocated to sponsor user engagement through the Mintium model (see 2.6). A global engagement index is calculated periodically across all Hubs of the WoM to allocate MEED rewards to the Hubs. Mintium rewards are claimable by Hub leaders and Deed owners.
 
-## 3.4. Builders – Earn for building the WoM
+## 3.4. Builders
 
 The Meeds DAO operates the WoM and the MEED token supply. 
 A multi-sig smart contract called the _Meeds DAO Funds_ manages the operating expenses.
