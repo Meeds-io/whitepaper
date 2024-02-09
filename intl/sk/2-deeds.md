@@ -28,7 +28,7 @@ Deed dáva jej majiteľovi právo ju UŽÍVAŤ, PRENAJÍMAŤ alebo PREDAŤ.
 
 - POUŽÍVANIE – Vlastník môže listinu použiť na prevádzkovanie centra pre svoju vlastnú organizáciu.
 - PRENÁJOM - Vlastník môže Listinu aj prenajať inej organizácii a získať pasívny príjem.
-- SELL - The owner can sell it on a secondary NFT marketplace such as [OpenSea](https://opensea.io).
+- PREDAŤ - Majiteľ ho môže predať na sekundárnom trhu NFT, ako je [OpenSea](https://opensea.io).
 
 Organizácia, ktorá je aktívnym držiteľom alebo prenajímateľom Listiny, má nárok na odmeny MEED podľa modelu „mintium“ opísaného nižšie (pozri 2.6).
 
@@ -40,10 +40,10 @@ V rámci týchto centier môžu lídri komunít podnietiť zapojenie členov tý
 
 ItKomunitné centrá ponúkajú súbor nástrojov a funkcií navrhnutých na zvýšenie a riadenie zapojenia prispievateľov
 
-- **Actions**: Incentivized tasks guide contributors, aligning their efforts with organizational objectives and boosting motivation and direction.
-- **Gamification**: Leaderboards and badges transform work into a fun, competitive experience, enhancing engagement and enjoyment.
-- **Engagement Programs**: Customized programs with specific targets and rewards clarify organizational goals and fairly recognize contributor achievements.
-- **Kudos**: Immediate peer recognition boosts morale and fosters a culture of appreciation, enhancing team cohesion and motivation.
+- **Akcie**: Motivované úlohy usmerňujú prispievateľov, zosúlaďujú ich úsilie s organizačnými cieľmi a zvyšujú motiváciu a smerovanie.
+- **Gamifikácia**: Rebríčky a odznaky premieňajú prácu na zábavný a súťaživý zážitok, čím zvyšujú angažovanosť a radosť.
+- **Engagement Programs**: Prispôsobené programy s konkrétnymi cieľmi a odmenami objasňujú organizačné ciele a spravodlivo uznávajú úspechy prispievateľov.
+- **Kudos**: Okamžité vzájomné uznanie zvyšuje morálku a podporuje kultúru uznania, zvyšuje súdržnosť a motiváciu tímu.
 - 0>Spaces/0>: Organizované podskupiny a projekty zefektívňujú komunikáciu a spoluprácu a zvyšujú kolektívnu produktivitu.
 - 0>Peňaženka/0>: Aplikácia Peňaženka bezpečne ukladá odmeny MEED, ktoré predstavujú príspevky používateľov, a umožňuje jednoduché transakcie v rámci centra aj v širšej sieti.
 - 0>Výhody/0>: Rôzne odmeny, od darčekových kariet až po NFT, podnecujú neustálu angažovanosť a podporujú lojalitu v rámci ekosystému organizácie.
@@ -59,7 +59,7 @@ ItKomunitné centrá ponúkajú súbor nástrojov a funkcií navrhnutých na zv�
 
 0>Obohacovanie obchodu s výhodami/0> Organizácie môžu prispôsobiť obchod pomocou vlastných výhod, vrátane tréningových kurzov a členstva v posilňovni, čím sa vytvorí cyklus odmien a angažovanosti. To nielen stimuluje prispievateľov, ale podporuje aj hlbšie prepojenie s ekosystémom organizácie.
 
-**Engagement and Rewards** Active participation in the Hub contributes to an organization’s global engagement score. Táto metrika odráža efektívnosť stratégií zapojenia, pričom zohľadňuje faktory, ako je úroveň aktivity používateľov a spravodlivé rozdelenie práce a odmien. Toto verejne kontrolovateľné skóre oprávňuje Hubs na distribúciu tokenov MEED vyrazených z protokolu, ktoré slúžia ako meradlo účinnosti ich stratégií zapojenia.
+**Angažovanosť a odmeny** Aktívna účasť v centre prispieva k globálnemu skóre angažovanosti organizácie. Táto metrika odráža efektívnosť stratégií zapojenia, pričom zohľadňuje faktory, ako je úroveň aktivity používateľov a spravodlivé rozdelenie práce a odmien. Toto verejne kontrolovateľné skóre oprávňuje Hubs na distribúciu tokenov MEED vyrazených z protokolu, ktoré slúžia ako meradlo účinnosti ich stratégií zapojenia.
 
 Pri pohľade do budúcnosti sa komunitné centrá v ekosystéme WoM stanú ústredným bodom života komunity, integrujú internú komunikáciu, interakcie v reálnom čase, správu a rôzne nástroje produktivity. Tieto vylepšenia zabezpečia, že rozbočovače zostanú prepojené s najlepšími nástrojmi, ktoré už organizácie používajú. Sú silným dôkazom záväzku spoločnosti Meeds podporovať živú a angažovanú komunitu.
 
