@@ -38,7 +38,7 @@ By believing in the project, participating in the liquidity pools, staking MEED 
 
 ## 5.3. प्रक्षेपण
 
-The official launch of the WoM was **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+WoM का आधिकारिक लॉन्च **1 मई, 2022** था - अंतर्राष्ट्रीय श्रमिक दिवस, जो कई देशों में मनाया जाता है।
 
 At that time, the MEED token already existed. इसे प्राप्त करना संभव है और Polygon और Ethereum नेटवर्क पर भागीदारी के लिए तरलता पूल खुले हैं।
 
