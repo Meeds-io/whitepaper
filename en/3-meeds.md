@@ -101,7 +101,7 @@ xMEED token holders can freely participate in the governance of the Meeds DAO by
 
 The WoM will introduce the blockchain world to many people who do not use it today.
 
-Indeed, Meeds can gamify and set a monetary value on any work (whether digital or not) and reward it with MEED tokens. Thanks to an easy-to-use, blockchain-based wallet app that simplifies access to the crypto world for an average user, rewards are tangible.
+Indeed, Meeds can gamify and set a monetary value on any contribution (whether it is digital or not) and reward it with MEED tokens. This has be made possible by an easy-to-use, blockchain-based wallet app that simplifies access to the crypto world for an average user, rewards are tangible.
 
 Beyond the wallet and a store where they can purchase perks for Meeds, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
 
