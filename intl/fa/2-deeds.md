@@ -1,19 +1,19 @@
 
-# 2. Deeds - The Properties of the WoM
+# 2. اعمال - خواص WoM
 
-## 2.1. Deed NFTs
+## 2.1. سند NFT
 
-In the digital realm, Non-Fungible Tokens (NFTs) serve a similar purpose to deeds in the physical world. Like a deed that confirms ownership of tangible property, NFTs establish indisputable ownership of digital assets. This ownership is securely recorded on a blockchain, ensuring that each asset is unique and non-replicable.
+در قلمرو دیجیتال، توکن‌های غیرقابل تعویض (NFT) هدفی مشابه اعمال در دنیای فیزیکی دارند. مانند سندی که مالکیت اموال مشهود را تأیید می کند، NFT ها مالکیت غیرقابل انکار دارایی های دیجیتال را ایجاد می کنند. این مالکیت به طور ایمن بر روی یک بلاک چین ثبت می‌شود و تضمین می‌کند که هر دارایی منحصربه‌فرد و غیرقابل تکرار است.
 
-Within the WoM, a Deed is conceptualized as an NFT, representing the foundational unit of ownership. Holding a Deed empowers its owner to manage a Community Hub and makes them eligible for receiving Mintium rewards, a form of recognition and incentive within the WoM ecosystem (further details in section 2.6).
+در WoM، یک سند به عنوان یک NFT مفهوم‌سازی می‌شود که نشان‌دهنده واحد بنیادی مالکیت است. برگزاری یک سند به مالک آن اجازه می‌دهد تا یک مرکز اجتماعی را مدیریت کند و آنها را واجد شرایط دریافت جوایز Mintium می‌کند که نوعی شناسایی و انگیزه در اکوسیستم WoM است (جزئیات بیشتر در بخش 2.6).
 
-The WoM is designed to be a diverse and inclusive platform. It welcomes a wide array of organizations, from DAOs, traditional businesses, and associations to think tanks, theater companies, project groups, and educational institutions. In this digital landscape, a Deed symbolizes the organization's digital presence and footprint in WoM, functioning as a bridge between their real-world operations and their digital endeavors.
+WoM طوری طراحی شده است که یک پلتفرم متنوع و فراگیر باشد. این سازمان از طیف گسترده ای از سازمان ها، از DAO، مشاغل سنتی و انجمن ها گرفته تا اتاق های فکر، شرکت های تئاتر، گروه های پروژه و موسسات آموزشی استقبال می کند. در این چشم انداز دیجیتال، یک سند نماد حضور و ردپای دیجیتالی سازمان در WoM است که به عنوان پلی بین عملیات دنیای واقعی و تلاش های دیجیتال آنها عمل می کند.
 
 ## 2.2. عمل
 
 Wom در نهایت مقدار محدودی از اعمال را تأمین می کند. هر عمل شامل حداکثر تعداد از کاربران از پیش تعریف شده است و ظرفیت پاداش Meeds (قدرت مینینگ) را ارائه می دهد. اصطلاح "کاربر" در اینجا و از این پس هر نوع کارمند ، کارگر ، آزادکار ، داوطلب و غیره را تعیین می کند.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or minting power, the rarest being the most powerful :
+چهار نوع سند وجود دارد که هر کدام از نظر تعداد کاربران، حق رای در یک شهر (نگاه کنید به 2.7) یا قدرت ضرب، قابلیت‌های متفاوتی را ارائه می‌دهند که نادرترین آنها قدرتمندترین است:
 
 | **نوع سند** | **حداکثر کاربران** | **قدرت ضرب** | **کمبود** | **حق رای شهر** |
 | ----------- | ------------------ | ------------ | --------- | -------------- |
@@ -26,36 +26,36 @@ There are four types of Deeds, each providing different capabilities in terms of
 
 سند به صاحبش این حق را می دهد که از آن استفاده کند، آن را اجاره کند یا بفروشد.
 
-- USE – The owner can use the Deed to run a hub for his own organization.
-- RENT - The owner can also rent the Deed to another organization and earn passive income.
-- SELL - The owner can sell it on a secondary NFT marketplace such as [OpenSea](https://opensea.io).
+- استفاده - مالک می تواند از سند برای اجرای یک مرکز برای سازمان خود استفاده کند.
+- RENT - مالک همچنین می تواند سند را به سازمان دیگری اجاره کند و درآمد غیرفعال کسب کند.
+- فروش - مالک می تواند آن را در یک بازار NFT ثانویه مانند [OpenSea](https://opensea.io) بفروشد.
 
-Being an active holder or renter of a Deed, the organization is entitled to MEED rewards according to the “mintium” model described below (see 2.6).
+به عنوان دارنده یا اجاره کننده فعال یک سند، سازمان مستحق دریافت پاداش های MEED طبق مدل "mintium" شرح داده شده در زیر است (نگاه کنید به 2.6).
 
-## 2.4. Community Hubs
+## 2.4. کانون های انجمن
 
-In today's competitive market, organizations seek to attract and retain top talent not only through compensation but also by enhancing work engagement. The WoM addresses this challenge with a unique, tokenized reward system embodied in Community Hubs.
+در بازار رقابتی امروز، سازمان‌ها به دنبال جذب و حفظ استعدادهای برتر نه تنها از طریق پرداخت پاداش، بلکه از طریق افزایش مشارکت کاری هستند. WoM این چالش را با یک سیستم پاداش منحصربه‌فرد و نمادین که در Hubs جامعه تجسم یافته است، برطرف می‌کند.
 
-Within these Hubs, community leaders can drive members engagement by offering a transparent menu of incentives for work items. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
+در این هاب، رهبران جامعه می‌توانند با ارائه منوی شفاف مشوق‌ها برای موارد کاری، مشارکت اعضا را افزایش دهند. شرکت‌کنندگان برای تلاش‌های خود امتیازهای تعامل به دست می‌آورند، که به صورت دوره‌ای به توکن‌های MEED یا معادل سفارشی، مطابق با بودجه از پیش تعیین‌شده، تبدیل می‌شوند.
 
-Community Hubs offer a suite of tools and features designed to boost and manage contributor engagement:
+انجمن هاب مجموعه ای از ابزارها و ویژگی های طراحی شده برای تقویت و مدیریت تعامل مشارکت کنندگان را ارائه می دهد:
 
-- **Actions**: Incentivized tasks guide contributors, aligning their efforts with organizational objectives and boosting motivation and direction.
-- **Gamification**: Leaderboards and badges transform work into a fun, competitive experience, enhancing engagement and enjoyment.
-- **Engagement Programs**: Customized programs with specific targets and rewards clarify organizational goals and fairly recognize contributor achievements.
-- **Kudos**: Immediate peer recognition boosts morale and fosters a culture of appreciation, enhancing team cohesion and motivation.
-- **Spaces**: Organized sub-groups and projects streamline communication and collaboration, increasing collective productivity.
-- **Wallet**: The Wallet app securely stores MEED rewards, representing user contributions, and enables easy transactions both within the Hub and on the broader network.
-- **Perks**: A variety of rewards, from gift cards to NFTs, incentivize ongoing engagement and foster loyalty within the organization’s ecosystem.
-- **Tasks**: Streamlined project and task management tools boost productivity by simplifying workflows and tracking progress.
-- **Notes**: A handy notebook app for documenting essential information like onboarding guides promotes knowledge sharing and organizational self-sufficiency.
-- **Branding**: Customizable Hub appearance attracts new contributors and strengthens their connection to the organization’s identity.
-- **Analytics**: Insightful analytics into community engagement enable leaders to identify effective strategies and make informed decisions for optimization.
+- **اقدامات**: وظایف مشوق، مشارکت کنندگان را راهنمایی می کند، تلاش های آنها را با اهداف سازمانی هماهنگ می کند و انگیزه و جهت را تقویت می کند.
+- **گیمیفیکیشن**: تابلوهای امتیازات و نشان‌ها کار را به تجربه‌ای سرگرم‌کننده و رقابتی تبدیل می‌کنند و تعامل و لذت را افزایش می‌دهند.
+- **برنامه‌های تعامل**: برنامه‌های سفارشی‌شده با اهداف و پاداش‌های خاص، اهداف سازمانی را روشن می‌کنند و دستاوردهای مشارکت‌کنندگان را نسبتاً تشخیص می‌دهند.
+- **تقدیر**: شناسایی فوری همتایان روحیه را تقویت می کند و فرهنگ قدردانی را تقویت می کند، انسجام و انگیزه تیم را افزایش می دهد.
+- **فضاها**: گروه‌ها و پروژه‌های فرعی سازمان‌یافته ارتباطات و همکاری را ساده می‌کنند و بهره‌وری جمعی را افزایش می‌دهند.
+- **کیف پول**: برنامه Wallet به‌طور ایمن پاداش‌های MEED را ذخیره می‌کند، که نشان‌دهنده مشارکت‌های کاربر است، و تراکنش‌های آسان را هم در Hub و هم در شبکه گسترده‌تر امکان‌پذیر می‌کند.
+- **هدیه‌ها**: انواع جوایز، از کارت‌های هدیه گرفته تا NFT، انگیزه تعامل مداوم و تقویت وفاداری در اکوسیستم سازمان است.
+- **وظایف**: ابزارهای ساده مدیریت پروژه و کار با ساده کردن گردش کار و ردیابی پیشرفت، بهره‌وری را افزایش می‌دهند.
+- **یادداشت‌ها**: یک برنامه نوت بوک مفید برای مستند کردن اطلاعات ضروری مانند راهنماهای سوار شدن، به اشتراک گذاری دانش و خودکفایی سازمانی را ارتقا می‌دهد.
+- **برندینگ**: ظاهر هاب قابل تنظیم، مشارکت کنندگان جدید را جذب می کند و ارتباط آنها را با هویت سازمان تقویت می کند.
+- **تجزیه و تحلیل**: تجزیه و تحلیل روشنگر در تعامل با جامعه، رهبران را قادر می‌سازد تا استراتژی‌های مؤثر را شناسایی کرده و تصمیمات آگاهانه برای بهینه‌سازی بگیرند.
 
 
-**Starting a Hub** Initiating a Hub is most seamless via meeds.io, which offers access to a cloud platform managed by the Meeds Association. This platform allows for quick setup and is maintained by the non-profit entity that stewards the WoM. However, the WoM caters to decentralization. As the Meeds software is open source and freely distributed, organizations have the option to self-host a Hub server and connect to the WoM network, granting them more control and customization in their Hub’s setup and management.
+**راه اندازی هاب**راه‌اندازی هاب از طریق meeds.io بی‌نظیر است، که دسترسی به پلتفرم ابری تحت مدیریت انجمن Meeds را ارائه می‌دهد. این پلتفرم امکان راه اندازی سریع را فراهم می کند و توسط نهاد غیرانتفاعی که سرپرست WoM است نگهداری می شود. با این حال، WoM به تمرکززدایی کمک می کند. از آنجایی که نرم‌افزار Meeds منبع باز است و به‌صورت رایگان توزیع می‌شود، سازمان‌ها این گزینه را دارند که سرور Hub خود را میزبانی کنند و به شبکه WoM متصل شوند و به آنها کنترل و سفارشی‌سازی بیشتری در راه‌اندازی و مدیریت Hub خود بدهند.
 
-**Capturing Work Signals** Hubs can integrate with various platforms like GitHub, Twitter, and Discord and are extendable via API to connect with services such as CRM software, accounting software, and clocking terminals. This allows for diverse professional contributions to be recognized and rewarded. All connectors undergo a whitelisting process by the Meeds Association to guarantee integrity and functionality.
+**گرفتن سیگنال های کاری**هاب ها می توانند با پلتفرم های مختلفی مانند GitHub، Twitter و Discord یکپارچه شوند و از طریق API برای اتصال با سرویس هایی مانند نرم افزار CRM، نرم افزار حسابداری و پایانه های ساعت قابل تمدید هستند. این اجازه می دهد تا مشارکت های حرفه ای مختلف شناخته شده و پاداش داده شود. همه کانکتورها تحت یک فرآیند لیست سفید توسط انجمن Meeds قرار می گیرند تا یکپارچگی و عملکرد را تضمین کنند.
 
 **Enriching the Perks Store** Organizations can tailor the store with custom perks, including training courses and gym memberships, creating a self-reinforcing cycle of rewards and engagement. This not only incentivizes contributors but also fosters a deeper connection with the organization’s ecosystem.
 
