@@ -10,11 +10,11 @@ Organizations would be able to source talents, browsing through the WoM, for the
 
 The WoM would have its own currency the **MEED** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. WoM همچنین توزیع توکن های دیگر را تسهیل می کند و در اکوسیستم کلی کریپتو مشارکت می کند.
 
-از آنجایی که یک تصویر هزار کلمه ارزش دارد، در اینجا نموداری وجود دارد که جریان های WoM و Meeds را توصیف می کند
+As a picture is worth a thousand words, here is a diagram that describes the WoM and MEED token flows
 
 ![WoM و Meeds جریان می یابد](en/img/wom-flows.png)
 
-نگهداری و پایداری جهانی در دراز مدت از طریق مالیات های مشترک بین انجمن Meeds و شهرها تضمین می شود.
+The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds Association and the Cities.
 
 ## 5.2. آنچه در آن برای پذیرندگان اولیه وجود دارد
 
@@ -24,7 +24,7 @@ The WoM would have its own currency the **MEED** – that would be there to spen
 
 By believing in the project, participating in the liquidity pools, staking MEED tokens, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the WoM.
 
-سازمان‌هایی که اسنادی را به دست می‌آورند اما به‌ویژه از آنها برای مشارکت و پاداش دادن به کارکنان خود استفاده می‌کنند، در قالب Meeds غرامت دریافت می‌کنند. هرچه عادلانه تر بازی کنند، بیشتر به دست خواهند آورد. پذیرندگان اولیه با اولین شهرهای تاریخی مرتبط می شوند و بعداً به عنوان سازنده شناخته می شوند.
+Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted MEED. هرچه عادلانه تر بازی کنند، بیشتر به دست خواهند آورد. پذیرندگان اولیه با اولین شهرهای تاریخی مرتبط می شوند و بعداً به عنوان سازنده شناخته می شوند.
 
 نمودار زیر نمونه ای از استراتژی سرمایه گذاری Meeds را برای دارندگان سرمایه نشان می دهد:
 
@@ -38,11 +38,11 @@ By believing in the project, participating in the liquidity pools, staking MEED 
 
 ## 5.3. راه اندازی
 
-The official launch of the WoM was **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+راه اندازی رسمی WoM **1 مه 2022** بود - روز جهانی کارگر که در بسیاری از کشورها جشن گرفته می شود.
 
 At that time, the MEED token already existed. امکان به دست آوردن آن وجود دارد و استخرهای نقدینگی برای مشارکت در شبکه های Polygon و Ethereum باز هستند.
 
-سه عضو انجمن Meeds از سیستم به صورت داخلی برای تعامل و پاداش دادن به کاربران خود و بهبود نرم افزار Meeds استفاده می کنند.
+Three Meeds Association members use the system internally to engage and reward their users and improve the Meeds software.
 
 اپلیکیشن Investor در اتریوم Mainnet در دسترس است. در زمان راه اندازی، شامل سهام بندی، پاداش نقدینگی، جمع آوری امتیاز و بازخرید اسناد می شود.
 
@@ -54,7 +54,7 @@ This paper was initially published on the launch day. پس از راه‌اند�
 
 ما در حال راه‌اندازی جامعه سازندگان در نرم‌افزار Meeds و Discord هستیم. The community welcomes anyone who wants to take part in the building of the WoM. این انجمن به مشارکت سازندگان با Meeds از بودجه بازاریابی آن پاداش می دهد.
 
-این انجمن همچنین قصد دارد برخی Meeds را برای به دست آوردن (بازخرید) یک سند برای جامعه سازندگان به اشتراک بگذارد. سپس جامعه Meeds را با تعامل، از طریق مدل مینتیوم، ضرب می‌کند و آنها را بین کاربران درگیر توزیع می‌کند.
+The association plans also to stake some MEED in order to acquire (redeem) a Deed for the builders community. The community will then mint MEED by engagement, through the mintium model, and distribute them to engaged users.
 
 ## 5.5. نقشه راه و نقاط عطف
 
@@ -68,7 +68,7 @@ This paper was initially published on the launch day. پس از راه‌اند�
 
 ما در مرحله ساخت بر روی پذیرندگان اولیه از DAO ها و شرکت های متبحر در زمینه فناوری حساب می کنیم. We should also have some early adopters from traditional companies that gain immediate value from the WoM by providing relevant engagement programs to their people, on top of their current traditional compensation plans.
 
-ضرابخانه Meeds یک دوره 20 ساله را در بر می گیرد. By that time, we aspire to have achieved building a mature ecosystem, having spread to many organizations and many users globally.
+MEED minting spans a 20 year period. By that time, we aspire to have achieved building a mature ecosystem, having spread to many organizations and many users globally.
 
 ## 5.6. کاری که الان می توانید انجام دهید
 
@@ -81,6 +81,6 @@ This paper was initially published on the launch day. پس از راه‌اند�
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
 - به انجمن [Discord](https://discord.com/invite/hAuADSq3) ما بپیوندید تا در جریان باشید
-- به انجمن [Builders](https://meeds.io/builders) ما بپیوندید تا نرم افزار Meeds را آزمایش کنید، درگیر شوید و برخی از جوایز تعامل Meeds را به دست آورید.
+- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some MEED engagement rewards
 
 **\*\*\* The WoM - let’s build this crazy future world together. \*\*\***

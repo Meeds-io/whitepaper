@@ -18,9 +18,9 @@ The WoM provides a more transparent and immutable means for people to acquire an
 
 Badges are used to represent accomplishments made within a community. پس از تکمیل مجموعه ای از اهداف یا چالش ها، به کاربران امتیاز تعلق می گیرد. نشان ها را می توان با جمع آوری مقادیر مشخصی از امتیازها در دسته های خاص باز کرد.
 
-When badges are downloaded by the user, it is possible to include the number of points and his rank in the Hub for this specific accomplishment.
+When the user downloads badges, it is possible to include the number of points and his rank in the Hub for this specific accomplishment.
 
-Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the space. These are signed by the Hub and can be accompanied by a signature by a peer user.
+Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the space. The Hub signs these and can be accompanied by a signature by a peer user.
 
 ## 4.3. هویت کاری دیجیتال
 
@@ -32,7 +32,7 @@ The user will be able to express his Xeed, Badges, and Credentials towards other
 
 یک کاربر می تواند یک یا چند هویت دیجیتال در WoM داشته باشد. او بعداً می‌تواند آنها را با استفاده از ارائه‌های تأیید شده به روشی یکپارچه ارائه کند.
 
-برخلاف وب 2، کاربر مالکیت کامل هویت غیرمتمرکز خود را دارد. The latter can show (and prove) the communities he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... به شیوه ای قابل اعتماد لینکدین 3.0.
+برخلاف وب 2، کاربر مالکیت کامل هویت غیرمتمرکز خود را دارد. The latter can show (and prove) the communities he participated in, their proven skills, their claimed skills, the people whom they worked with, and their digital representation of themselves... به شیوه ای قابل اعتماد لینکدین 3.0.
 
 کاربر می‌تواند انتخاب کند که آیا چیزی را فاش کند یا نه، چه اطلاعاتی را ارائه کند و از چه هویت‌هایی برای هر موقعیت استفاده کند. The content (proven skill, previous Hubs, etc.) is tamper proof and so could not be modified. هر هویتی باید در طول زمان ایجاد شود.
 
@@ -58,7 +58,7 @@ As discussed above, the WoM opens the world of cryptocurrency and decentralized 
 
 در واقع، هر تعامل کاری به طور بالقوه می تواند نشانه گذاری شود. در واقع جهان با روندهایی مانند 5G، iot، پوشیدنی ها و غیره به طور فزاینده ای دیجیتالی می شود. در نتیجه، سیگنال‌های بالقوه بیشتری را می‌توان دریافت و تجزیه و تحلیل کرد تا تعامل حرفه‌های غیر دیجیتال را به‌عنوان نشانه‌گذاری کند. چالش ها با نمایش دستاوردها در دنیای فیزیکی، راهی آماده برای نمادسازی آن فراهم می کنند.
 
-هر کاربری می تواند نیازها را دریافت کند و از کیف پول Needs برای دسترسی به خدمات عصر جدید بدون آموزش خاصی استفاده کند.
+Any user can get MEED and use a Meeds wallet to get access to new age services without any special training.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Verifiable Credentials Data Model
