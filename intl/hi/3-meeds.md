@@ -1,85 +1,82 @@
-# 3. डीड एनएफटी-डब्ल्यूओएम संगठन
+# 3. The MEED token – the currency of the WoM
 
-डीड एनएफटी-डब्ल्यूओएम संगठन मीड का उपयोग उपयोगकर्ताओं को पुरस्कृत करने (जुड़ाव कार्यक्रमों के माध्यम से), दुकानों में खरीदारी करने, डीड प्राप्त करने, निवेश पर वित्तीय रिटर्न प्राप्त करने आदि के लिए किया जाता है।
+The MEED token (pronounced "Meeds") is the currency that powers the WoM. Users are rewarded with MEED (through engagement programs), purchase in stores, get Deeds, get financial returns on investments, and more.
 
 ## 3.1. टोकनोमिक्स
 
-मीड्स **अधिकतम आपूर्ति 100 मिलियन टोकन तक सीमित है**, उत्तरोत्तर ढाला गया। **मीड्स मिन्ट के दर पर 10 मीड्स मिंट करने के रूप में मिन्ट किए जाते हैं**। इसलिए, पूर्ण मिन्टिंग हॉरिजन पर्यंत 20 वर्षों तक करने के लिए नजदीक है (क्योंकि वर्ष में 10 *60*24*365 = 5M मीड्स मिन्ट किए जाते हैं)।
+The **maximum supply of MEED is limited to 100 million tokens**, minted progressively.
 
-डीड एनएफटी-डब्ल्यूओएम संगठन जिनमें से, 4.5M 4 वर्षों के लगातार वेस्टिंग के साथ वॉल्ट कंट्रैक्ट में तालू किये गए हैं। पूर्व-खनन राशि का उपयोग मुख्य रूप से सॉफ्टवेयर आईपी प्राप्त करने, टोकन उत्सर्जन की कानूनी फीस और मेजबान सेवाओं के लिए भुगतान करने के लिए किया जाता था ।
+The Meeds Association has minted 5 Million MEED (5% of the total supply) at the start to acquire software IP from the funding members, pay for token emission legal fees, and hosting services. Then, it locked 4.5 Million in a vault contract with a linear vesting over four years.
 
-बाकी __ मेड्स डीएओ फंड</0 > का हिस्सा है और इसका उपयोग सेवाओं के लिए भुगतान करने और एयरड्रॉप्स और रेफरल अभियानों जैसे प्रोत्साहन लॉन्च करने के लिए किया जाएगा ।</p>
+Since then, a smart contract called **the __Token Factory__ performs minting of **MEED tokens at a constant rate**.
 
+The minting rate is a parameter of the Token Factory, set at *10 MEED per minute* at the start. A vote of the DAO may change this rate in the future. At such rate, the Token Factory mints around 5 Million MEED yearly (10*60*24*365); thus, the minting horizon is nearly 20 years.
 
 ## 3.2. मिंटिंग आवंटन
 
-मिंटेड मीड्स तीन श्रृंखले के सदस्यों, निर्माताओं और निवेशकों की भागीदारी को प्रोत्साहित करने के लिए अनुकूलित किये जाते हैं:
+The Token Factory also rules the allocation of minted MEED tokens to  three categories of stakeholders :
 
-- उपयोगकर्ता (उपयोगकर्ता और डीड धारक/किराएदार) सगाई पुरस्कार (न्यूनतम मॉडल) के माध्यम से मेड प्राप्त करते हैं ।
-- निर्माताओं (समूह और समुदाय के सदस्य) वॉम को निर्मित, चलाने और सुधारने के लिए समूह फंड के माध्यम से Meeds प्राप्त करते हैं।
-- निवेशकों द्वारा शून्यता तकनीकों के किराये और खरीद के माध्यम से Meeds को छोड़ने और Meeds को स्थिर करने से Meeds मिंट करते हैं
+- **Builders**: Contributors of the Meeds DAO that help build and run the WoM
+- **Users**: Members in all communities of the WoM earn MEED as rewards for their contributions
+- **Investors**: The Meeds DAO incentivizes MEED token owners to stake MEED or provide liquidity for the Meeds economy
 
-शुरुआत में, निर्माताओं को आवंटन के 30% मिलते हैं। 70% उपयोगकर्ताओं और निवेशकों के बीच साझा किये जाते हैं। इस वितरण अनुपात को मीड्स संघ DAO वोट के माध्यम से नियमित विवरण के माध्यम से समीक्षित किया जाएगा।
+Each category of stakeholders receives a share of the MEED supply, which is subject to votes by the DAO.
 
-## 3.3. उपयोगकर्ता - इंगेजमेंट के माध्यम से मिन्टिंग
+## 3.3. Users
 
-निरंतर मिंटेड Meeds का हिस्सा engagement minting channel के लिए आवंटित किया जाता है। वितरण साप्ताहिक किया जाता है। किसी भी सप्ताहांत में, सगाई सूचकांक की गणना की जाती है ताकि हब लीडर और डीड मालिक अगले सप्ताह अपने पुरस्कारों का दावा कर सकें और अपना मेड प्राप्त कर सकें । मांगे न गए मीड्स फंड में रहते हैं और अगले हफ्ते के वितरण में जोड़े जाते हैं। मॉडल पिछले अध्याय (भाग 2.6) में विस्तृत रूप से वर्णित किया गया है।
+Part of the continuously minted MEED tokens is allocated to sponsor user engagement through the Mintium model (see 2.6). A global engagement index is calculated periodically across all Hubs of the WoM to allocate MEED rewards to the Hubs. Mintium rewards are claimable by Hub leaders and Deed owners.
 
-## 3.4. निर्माताएं - मीड्स समूह डीएओ और निर्माताओं की समूह
+## 3.4. Builders
 
-वर्क मेटावर्स और मीड्स टोकन उपरोक्त पेश की गई गैर-लाभकारी मीड्स समूह डीएओ द्वारा प्रवर्तित होते हैं। एसोसिएशन के परिचालन खर्चों को प्रबंधित करने के लिए _मीड्स डीएओ फंड्स_ नामक मल्टीसिग अनुबंध का उपयोग किया जाता है।
+The Meeds DAO operates the WoM and the MEED token supply. A multi-sig smart contract called the _Meeds DAO Funds_ manages the operating expenses. It receives **30% of the minted MEED** to support Builders.
 
-मिंटिंग अवधि के दौरान, मिंटेड मीड्स का **30% मीड्स समूह के लिए सामने रखा जाता है**।
+The Meeds Association is entitled to hire service provider companies on behalf of the Meeds DAO to cover legal fees, development, and hosting costs using the Meeds DAO Funds.
 
-समूह के सदस्य एक हस्ताक्षरित सेवाओं कॉन्वेंशन के आधार पर समूह को सेवाएं प्रदान कर सकते हैं, जो मन-दिवस दर को स्थापित करती है। सेवाएं मार्केट की मूल्य के आधार पर मासिक रूप से मीड्स में भुगतान की जाती हैं। सेवाओं के उदाहरण- मीड्स सॉफ्टवेयर को उत्पन्न करना, WoM एप्लीकेशन के विकास, नए कनेक्टरों के विकास, क्लाउड सेवा का प्रबंधन, वित्तीय और कानूनी सेवाएं आदि।
+Organizations and individuals not members of the Meeds Association may still contribute through the _Meeds Builders Hub_  - a community hub that welcomes enthusiasts who want to participate in creating and promoting the WoM. The <0>Meeds DAO Funds</0> also reward for contributions to the Builders Hub.
 
-सदस्य होने के बिना, कोई भी संगठन एक नए कनेक्टर के निर्माण में भाग ले सकता है और ऐसा करने के लिए पुरस्कृत किया जा सकता है – पहले मेड्स एसोसिएशन के माध्यम से कनेक्टर प्राप्त करना और फिर इस कनेक्टर के माध्यम से खनन करना ।
+The Builders Hub also receives Mintium rewards like any other hub.
 
-एसोसिएशन _मीड्स बिल्डर्स हब_ नाम से अपना स्वयं का सामुदायिक केंद्र संचालित करता है जो उन उत्साही लोगों का स्वागत करता है, जो WoM के निर्माण में योगदान देना चाहते हैं। The association sponsors the community out of its budget, compensating the engagement of community members.
-
-Thus, the builders' hub functions as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. एसोसिएशन अपने समुदाय के लिए एक विलेख को भुनाने के लिए दांव लगाता है । Thus, the Builder's Hub also benefits in the engagement minting like any other Hub backed by a Deed.
-
-मिंटिंग अवधि खत्म होने के बाद, संघ निम्न पर संरक्षित होगा:
+After the minting period is over, the operational costs of the Meeds DAO will be supported by :
 
 - निष्क्रिय आय कर (कर्तव्यों की किराये पर 3%)
 - विक्रय आय कर (कर्तव्यों के बिक्री पर 2.5%
 - फायदों की दुकानों का उपयोग पर लेनदेन शुल्क लेते हुए।
 - तकनीकी पूल प्रदाता के रूप में काम करने की।
-- लेन-देन शुल्क को समझना जब एक हब डब्ल्यूओएम सेवाओं के माध्यम से गैर-मेड टोकन वितरित करता है ।
-- समय-समय पर संघ द्वारा मिंट किए गए कर्तव्यों के संचालन से।
+- perceiving transaction fees when a Hub distributes alternative tokens on their Hubs
+- renting and selling the Deeds that the DAO minted over time.
 
 
 ## 3.5. निवेशक
 
-निवेशक तकनीकी पूल प्रदान करके और Meeds को स्थिर करके WoM को निर्मित करने में मदद करते हैं और इसलिए निर्माण अवधि के दौरान उसकी मूल्य स्तर को स्थिर करते हैं। दोनों को मिंटिंग के माध्यम से प्रोत्साहित किया जाता है।
+Investors support the WoM by providing liquidity and staking MEED tokens, which helps stabilize the price level during the building phase. Incentives are in place for both:
 
-**तकनीकी पूल प्रदाता** मुद्रा तकनीकी प्रबंधन परियोजना के सफलता के लिए महत्वपूर्ण है और कई DeFi रणनीतियों का उपयोग किसीमती शक्ति को ऑप्टिमाइज करने के लिए किया जाएगा। हम MeedS/ETH LP pool टोकन के स्टेकिंग के लिए इन्सेंटिव्स से शुरू करेंगे और प्रोटोकॉल स्वामित्ववतीय शिल्पकर्ता की ओर जाने के लिए बॉन्ड लगातार पेश करेंगे। यह उसके दौरान संघ के लंबे समय वित्तीय सुरक्षा - उपर उल्लिखित कर दिया गया है, लेनदेन शुल्क संघ की ऑपरेटिंग खर्चों जैसे क्लाउड होस्टिंग को धनरश्मी करेंगे।
+**Liquidity providers** Currency liquidity management is crucial to the project's success. The Meeds DAO employs various DeFi mechanisms to optimize its capital efficiency. For instance, incentives allow liquidity providers to farm yields by renting their LP tokens. Also, there are plans to introduce bonds and move towards protocol-owned liquidity progressively. The latter will contribute to the project's long-term sustainability - as mentioned above, transaction fees will fund the operating expenses.
 
-हर सदस्य को भी छूट के साथ बड़ी मात्रा में Meeds खरीदने का सीधा अधिकार है। संघ खाते में जमा की गई राशि ETH में परिवर्तित और Meeds के समान मूल्य के साथ शिल्पकर्ता पूल में जोड़ी जाती है।
+Additionally, on behalf of the Meeds DAO, the Meeds Association is entitled to facilitate OTC (off-the-shelf) purchases of more extensive amounts of MEED tokens.
 
-**स्टेकिंग / लंबे समय के निवेश** लंबे समय के निवेश को प्रोत्साहित करने के लिए, स्टेक किए गए Meeds पुरस्कृत किए जाते हैं। जब Meeds स्टेक किए जाते हैं, तो स्टेकर कुछ xMeeds टोकन प्राप्त करता है। नए मीन्टेड Meeds xMeeds होल्डिंग्स के अनुपात अनुसार स्टेकरों को वितरित किए जाते हैं। प्रयोग में, मीन्टेड Meeds वास्तव में xMeeds स्मार्ट कॉन्ट्रैक्ट की होल्डिंग्स में जोड़े जाते हैं और xMeeds होल्डर को उनके अस्टेक करने पर वितरित किए जाते हैं।
+**Staking / long-term investment** Meeds DAO rewards loyal investors who want to support Meeds long-term. Anyone can stake their unused MEED tokens to earn yields and xMEED tokens.
 
-By staking Meeds, investors can also redeem Deed NFTs (and then participate in minting through engagement), hence increasing the token demand. प्रत्येक स्टेक्ड मीड्स (xMeeds) अपने मालिक को प्रति दिन कई अंक प्रदान करता है। वेस्टेड अवधि के लिए उच्च संख्या में प्वाइंट प्राप्त होते हैं। प्रत्येक डीड के लिए कुछ अंकों के विवरण में विवरण के लिए विवरण।
+Staking reults in the minting of xMEED tokens in proportion of the MEED tokens deposited. The xMEED token is Meeds governance token, which is used for voting on DAO proposals.
 
-निम्नलिखित सूत्र का प्रयोग करके अंक की गणना की जाती है:
+Additionally, xMEED holders earn minting points that entitle them to mint Deed NFTs. This mechanism increases the demand for MEED tokens. Minting points accrue over time as long as the stakeholder maintains his stake. The formula below allows you to calculate minting points :
 
- $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
+ $$ P = xMEED / (xMEED + 12000) * T / 240 $$
 
- जहां:
+ Where:
 
-- $xMeeds$: xMeeds बैलेंस, कोई दशमलव नहीं।
-- $T$ : मिलीसेकंड में बिते हुए समय
+- $xMEED$: xMEED balance  with no decimals
+- $T$: Time elapsed in milliseconds
 
-फार्मूला मेंग लगभग मात्राओं को प्रदर्शित करने और इन्हें त्यागी ढंग से वितरित करने के लिए वह व्यक्तियों को प्रफुर्म करते हैं, जो वहाँ बड़े होल्डर होते हैं। उदाहरण के लिए, फॉर्मूला निम्नलिखित दरों देता है:
+The formula avoids favoring large holders to distribute Deeds more efficiently and equitably. उदाहरण के लिए, फॉर्मूला निम्नलिखित दरों देता है:
 
-| **होल्डर साइज** | **होल्डिंग**   | **अक्रू दर**     |
-| --------------- | -------------- | ---------------- |
-| छोट             | 1 000 xMeeds   | २८ प्रति दिन     |
-| मध्यम           | 10 000 xMeeds  | 164 प्रतिदिन अंक |
-| बड              | 100 000 xMeeds | 321 पॉइंट्स/दिन  |
+| **होल्डर साइज** | **होल्डिंग**  | **अक्रू दर**     |
+| --------------- | ------------- | ---------------- |
+| छोट             | 1 000 xMEED   | २८ प्रति दिन     |
+| मध्यम           | 10 000 xMEED  | 164 प्रतिदिन अंक |
+| बड              | 100 000 xMEED | 321 पॉइंट्स/दिन  |
 
 
-जो निम्नलिखित होल्डर के हर क्लास के लिए निम्नलिखित रखरखाव सम
+These accrue rates lead to the following holding time for each class of holder :
 
 | **कार्ड प्रकार** | **लागत**       | **बड़ा धाग** | **मीडियम होल्डर** | **छोटे होल्डर** |
 | ---------------- | -------------- | ------------ | ----------------- | --------------- |
@@ -90,20 +87,20 @@ By staking Meeds, investors can also redeem Deed NFTs (and then participate in m
 
 ## 3.6. Meeds DAO प्रशासन
 
-Meeds टोकन धारकों को Meeds DAO निर्णयों पर वोट करने के लिए, जैसे मिंटिंग बजट का प्रबंधन या DAO बोर्ड सदस्यों के निर्वाचन (वार्षिक मंडेट), टोकनों को स्थान देना होगा।
+xMEED token holders can freely participate in the governance of the Meeds DAO by voting with their tokens on decisions such as managing the budget allocation or electing DAO board members.
 
 ## 3.7. स्वतंत्र वित्तीय (DeFi) उपयोगकर्ता सेवाएं
 
 डब्ल्यूओएम ब्लॉकचेन दुनिया को कई लोगों से परिचित कराएगा जो आज इसका उपयोग नहीं करते हैं ।
 
-वास्तव में, कुछ भी काम (डिजिटल हो या नहीं) गेमीफाइड किया जा सकता है और कोई भी प्रतिनिधित्व - Meeds के साथ इनामित किया जा सकता है। मीड्स उपयोगकर्ताओं को एक आसान उपयोग करने वाले, ब्लॉकचेन आधारित, वॉलेट के माध्यम से उपलब्ध करते हुए, जो क्रिप्टो विश्व की कुछ कॉम्प्लेक्सिटी को औसत उपयोगकर्ता के लिए पैदल बनाते हैं।
+Indeed, Meeds software can gamify and set a monetary value on any contribution (whether it is digital or not) and reward it with MEED tokens. This has be made possible by an easy-to-use, blockchain-based wallet app that simplifies access to the crypto world for an average user, rewards are tangible.
 
-मीड्स के लिए पर्कों की खरीद करने के लिए वॉलेट और एक स्टोर के बिना, हम हर उपयोगकर्ता को स्वतंत्र वित्त विधियों द्वारा पॉवर्ड एक कई प्रोडक्ट को पेश करने का योजना है, जैसे:
+Beyond the wallet and a store where they can purchase perks for MEED tokens, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
 
-- The ability to stake MEED tokens and get yields (generate revenues)
-- USDC जैसे स्थिर सिक्कों को उधार लेने के लिए संपार्श्विक के रूप में MEED टोकन का उपयोग करने की क्षमता (पहले [फ्यूज पूल](https://app.rari.capital/fuse) का लाभ उठाना और फिर Meeds टोकन को [AAVE](https://aave.com/) में पंजीकृत करना)।
-- एप्पल पे, गूगल पे या कुछ भी ATM के माध्यम से जोड़ा और उपयोग किया जा सकने वाला एक डिजिटल कार्ड। दूसरे को वीजा के साथ एक भागीदारी के माध्यम से प्रदान किया जा सकता है और मीड्स के स्टेक द्वारा सुरक्षित होने वाले USDC में एक क्रेडिट लाइन का लेवरेज करेगा। इस कार्ड को संगठनों द्वारा कर्मचारियों के वॉलेट को वित्तीय सहायता प्रदान करने के लिए भी उपयोग किया जा सकता है, जैसे रेस्तों, परिवहन और कुछ भी व्ययों की प्रकार के।
+- MEED टोकन को दांव पर लगाने और प्रतिफल प्राप्त करने (राजस्व उत्पन्न करने) की क्षमता
+- The ability to use MEED tokens as collateral to borrow stablecoins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the MEED token to [AAVE](https://aave.com/).
+- A digital card can be added and used through Apple Pay, Google Pay, or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by xMEED. Organizations could also use this card to fund employee wallets to manage employee benefits such as restaurants, transportation, and other expenses.
 
-इसलिए केवल कई नए उपयोगकर्ता ब्लॉकचेन विश्व को खोजेंगे, वे एक बैंकलेस विश्व को भी खोजेंगे।
+So, not only will many new users discover the blockchain world, but they will also discover a bankless world.
 
  
