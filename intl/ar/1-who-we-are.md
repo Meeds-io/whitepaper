@@ -1,12 +1,15 @@
 
 # 1. نبذة عنا
 
-برنامج ”Meeds جهد تعاوني تقوده مختلف المجتمعات المحلية لبرمجيات المصدر المفتوح“. مكرسة لإنشاء عالم رقمي لامركزي يقاوم السيطرة المركزية للشركات ويعزز بيئة حرة ومفتوحة.
+Meeds is a collaborative effort led by diverse open-source software (OSS) communities dedicated to creating a decentralized digital world that resists centralized corporate control and promotes a free and open environment.
 
-الكيان القانوني وراء منظمة Meeds هو رابطة _Meeds_وهي منظمة لا تستهدف الربح تأسست بموجب القانون السويسري في جنيف. وهي مسؤولة عن تنظيم إصدار رمز Meeds(MEED) وهو رمز ERC20 معترف به كرمز للفائدة.
+The Meeds project uses the Ethereum ecosystem to implement the WoM protocols and manage the supply of the MEED token. This approach has helped prioritize security, accessibility, usability, and cost-effectiveness, making it attractive to a broad user base. However, the WoM is designed to be an autonomous and self-sufficient public good, aiming to become multichain.
 
-وإذ تعمل منظمة ميدز بوصفها منظمة لا مركزية مستقلة، فإنها تشدد على الحكم الديمقراطي، حيث يشارك أصحاب الرموز الذين يتمتعون بحقوق الحكم الرشيد في صنع القرار الرئيسي، مثل انتخابات المجالس السنوية، وضمان الشفافية ومشاركة المجتمعات المحلية في التغييرات التنظيمية.
+The legal entity behind Meeds is the _Meeds Association_, a non-profit organization registered under Swiss law in Geneva. It is responsible for regulating the issuance of MEED tokens and contracting with service providers.
 
-ويستخدم مشروع مقياس الأداء النظام الإيكولوجي لإيثيريوم لتنفيذ برنامج عالم الحبوب (WoM) وبرنامج Meeds token. ويعطي هذا النهج الأولوية للأمن، وإمكانية الوصول، وسهولة الاستعمال، والفعالية من حيث التكلفة، مما يجعله جذابا لقاعدة واسعة من المستعملين.
+The Meeds Association intends to progressively hand over control of the Meeds protocol and treasuries to the _Meeds DAO_, which is the decentralized autonomous organization that represents the decentralized governance arm of the Meeds ecosystem, empowering the community to participate in decision-making, proposal voting, and protocol upgrades.
 
-برنامج Meeds هو برنامج مفتوح المصدر ([github.com/meeds-io](https://github.com/meeds-io)يشتغل في البنية التحتية للسحابة من قبل الشركاء المضيفين لرابطة Meeds.
+The relationship between the Meeds Association and Meeds DAO involves how they operate in the real world. Meeds Association is a traditional organization that have members, a board of directors, and operates under specific legal and regulatory frameworks. In the real world, Meeds Association may engage in activities such as organizing events, providing services, and advocating for its members. It may also have a physical office and staff members. Meeds DAO, on the other hand, operates without a central authority and make decisions through consensus of its members using blockchain-based voting mechanisms. It may also engage in activities such as funding projects, managing assets, and making decisions through smart contracts.
+
+تم إنشاء WoM كبرنامج مفتوح المصدر (0>github.com/meeds-io/0>) ويتم استضافته بواسطة شركاء تم اختيارهم بواسطة Meeds Association نيابة عن Meeds DAO.
+
