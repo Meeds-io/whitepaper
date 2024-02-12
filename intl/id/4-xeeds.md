@@ -18,9 +18,9 @@ WoM memberikan sarana yang lebih transparan dan tidak dapat diubah bagi masyarak
 
 Lencana digunakan untuk mewakili pencapaian yang dibuat dalam komunitas. Setelah menyelesaikan sekumpulan tujuan atau tantangan, pengguna akan diberikan poin. Lencana dapat terbuka dengan mengumpulkan jumlah poin tertentu dalam kategori tertentu.
 
-Lencana digunakan untuk mewakili pencapaian yang dibuat dalam komunitas.
+When the user downloads badges, it is possible to include the number of points and his rank in the Hub for this specific accomplishment.
 
-Kredensial lebih fleksibel dibandingkan Lencana; rekomendasi tersebut dapat berupa rekomendasi dari rekan kerja, yang menunjukkan pengalaman bertahun-tahun, penyelesaian pelatihan atau ujian, atau keterlibatan dalam bidang tersebut. Ini ditandatangani oleh Hub dan dapat disertai dengan tanda tangan oleh pengguna rekan.
+Kredensial lebih fleksibel dibandingkan Lencana; rekomendasi tersebut dapat berupa rekomendasi dari rekan kerja, yang menunjukkan pengalaman bertahun-tahun, penyelesaian pelatihan atau ujian, atau keterlibatan dalam bidang tersebut. The Hub signs these and can be accompanied by a signature by a peer user.
 
 ## 4.3. Identitas Kerja Digital
 
@@ -32,7 +32,7 @@ Pengguna akan dapat mengekspresikan Xeed, Lencana, dan Kredensialnya terhadap Hu
 
 Seorang pengguna dapat memiliki satu atau beberapa identitas digital dalam WoM. Dia bisa nantinya menyajikan mereka dengan cara terpadu menggunakan presentasi yang terverifikasi.
 
-Berlawanan dengan web 2, pengguna memiliki kepemilikan penuh atas identitas terdesentralisasinya. Yang terakhir dapat menunjukkan (dan membuktikan) komunitas tempat dia berpartisipasi, keterampilannya yang telah terbukti, keterampilan yang diklaimnya, Xeed (orang) lain yang bekerja dengannya, representasi digital dirinya... Dengan cara yang dapat dipercaya LinkedIn 3.0.
+Berlawanan dengan web 2, pengguna memiliki kepemilikan penuh atas identitas terdesentralisasinya. The latter can show (and prove) the communities he participated in, their proven skills, their claimed skills, the people whom they worked with, and their digital representation of themselves... Dengan cara yang dapat dipercaya LinkedIn 3.0.
 
 Pengguna akan dapat memilih apakah akan mengungkapkan sesuatu atau tidak, informasi apa yang akan diberikan, dan identitas apa yang akan digunakan untuk setiap posisi. Konten (keterampilan yang telah terbukti, Hub sebelumnya, dll.) merupakan bukti kerusakan sehingga tidak dapat diubah. Setiap identitas harus dikembangkan dalam waktu yang panjang.
 
@@ -58,7 +58,7 @@ Seperti dibahas di atas, WoM membuka dunia mata uang kripto dan layanan web terd
 
 Benar-benar, setiap keterlibatan pekerjaan dapat potensial tertokenisasi. Faktanya, dunia semakin menjadi digital dengan tren seperti 5G, IoT, wearables dan seterusnya. Sebagai akibatnya, potensial semakin banyak sinyal dapat ditangkap dan dianalisis untuk menerjemahkan engagement profesi non-digital. Tantangan memberikan cara siap pakai untuk meng-token-kan hal tersebut dengan mewakili prestasi di dunia fisik.
 
-Setiap pengguna dapat mendapatkan Meeds dan menggunakan dompet Meeds untuk mendapatkan akses ke layanan zaman baru tanpa pelatihan khusus.
+Any user can get MEED and use a Meeds wallet to get access to new age services without any special training.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Verifiable Credentials Data Model
