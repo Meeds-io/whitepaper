@@ -11,7 +11,7 @@ Il WoM è progettato per essere una piattaforma diversificata e inclusiva. Accog
 
 ## 2.2. Fornitura di atti
 
-Il WoM fornirà in definitiva una quantità limitata di Atti. Ogni Atto prevede un numero massimo predefinito di utenti e offre una capacità di Meeds ricompensante (Minting Power). Il termine "utente" designa qui e in seguito qualsiasi tipo di dipendente, lavoratore, libero professionista, volontario ecc.
+Il WoM fornirà in definitiva una quantità limitata di Atti. Each Deed includes a predefined maximum number of users and offers a capacity of rewarding (Minting Power). Il termine "utente" designa qui e in seguito qualsiasi tipo di dipendente, lavoratore, libero professionista, volontario ecc.
 
 Ci sono quattro tipi di fatti, ciascuno che fornisce diverse capacità in termini di numero di utenti, diritti di voto in una città (vedi 2. ) o il potere di coniazione, il più raro è il più potente:
 
@@ -36,7 +36,7 @@ Essendo un titolare attivo o un renter di un atto, l'organizzazione ha diritto a
 
 Nel mercato competitivo di oggi, le organizzazioni cercano di attrarre e mantenere i migliori talenti non solo attraverso la compensazione, ma anche migliorando l'impegno di lavoro. Il WoM affronta questa sfida con un unico sistema di ricompense tokenized incarnato in Community Hubs.
 
-All'interno di questi Hubs, i leader della comunità possono guidare l'impegno dei membri offrendo un menu trasparente di incentivi per gli oggetti di lavoro. I partecipanti guadagnano punti di impegno per i loro sforzi, che vengono periodicamente convertiti in token MEED o un equivalente personalizzato, in linea con un budget predeterminato.
+All'interno di questi Hubs, i leader della comunità possono guidare l'impegno dei membri offrendo un menu trasparente di incentivi per gli oggetti di lavoro. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
 
 Community Hubs offre una serie di strumenti e funzionalità progettati per aumentare e gestire il coinvolgimento dei collaboratori:
 
@@ -80,7 +80,7 @@ Coinvolgendo i propri utenti nel WoM, le comunità vengono ricompensate attraver
 
 I punti di coinvolgimento, guadagnati dagli utenti degli Centro, partecipano all’indice di coinvolgimento globale, calcolato dall’Associazione Meeds. L'indice utilizza lo stesso principio per tutti gli Mozzi. Anche se la comunità può modificare l’assegnazione dei punti per promuovere un’azione rispetto a un’altra, tali cambiamenti non verranno presi in considerazione nel calcolo dell’indice globale.
 
-Ogni settimana, una certa quantità di Meeds viene assegnata al conio dell'impegno globale del WoM. Viene calcolato settimanalmente, pro rata, tra gli Mozzi partecipanti. Alcuni Mozzi ottengono un potenziamento aggiuntivo a seconda del tipo di Opera che utilizzano. Gli Centro che richiedono i loro Meed durante la settimana, li ricevono. I Meeds non reclamati vengono aggiunti all'importo della distribuzione globale della settimana successiva.
+Each week, a certain amount of MEED is allocated to the global engagement minting of the WoM. Viene calcolato settimanalmente, pro rata, tra gli Mozzi partecipanti. Alcuni Mozzi ottengono un potenziamento aggiuntivo a seconda del tipo di Opera che utilizzano. The Hubs that claim their MEED tokens over the week, receive them. The unclaimed MEED tokens are added to the following week’s global distribution amount.
 
 Il punteggio di coinvolgimento _S_ di un'azione è una funzione del coinvolgimento, del numero di utenti coinvolti e della distribuzione:
 
@@ -92,12 +92,12 @@ Dove :
 - $U$ = _Utenti coinvolti_ - utenti che hanno contribuito ai punti durante la settimana, con almeno un'azione.
 - $E_d$ = _Engagement rate of the hub_ - actions per user ($A/U$)
 - $E_w$ = _Tasso di coinvolgimento medio_ di tutti gli Mozzi attivi nel WoM.
-- $D_r$ = _Tasso di distribuzione_ - se un Centro ha ricevuto Meed coniati per il periodo precedente, la percentuale di Meed che è stata distribuita ai suoi utenti. La percentuale può essere superiore a 100 se la distribuzione è ritardata nel tempo.
-- $D_s$ = _Distribuzione_ - se un Centro ha ricevuto Meed coniati per il periodo precedente, la percentuale di utenti che hanno ricevuto Meed nel pool totale di utenti.
+- $D_r$ = _Distribution rate_ - if a Hub received minted MEED for the preceding period, the % of MEED that was distributed to its users. La percentuale può essere superiore a 100 se la distribuzione è ritardata nel tempo.
+- $D_s$ =  _Distribution spread_ - if a Hub received minted MEED tokens for the preceding period, the % of the users that received MEED in the total pool of users.
 - $M$ = _Minting Power_ dell'Atto come definito in 2.3
 
 
-L’indice di coinvolgimento globale utilizzato per distribuire i Meed coniati tra gli Hub è la somma dei punteggi di coinvolgimento di tutti gli Centro per la settimana.
+The global engagement index used to distribute minted MEED among the Hubs is the sum of all Hubs’ weekly engagement scores.
 
 
 La formula sopra è semplice e pensata per favorire gli mozzi:
@@ -110,9 +110,9 @@ Inoltre, sono presenti booster per:
 - organizzazioni con il più alto coinvolgimento, indipendentemente dalle loro dimensioni (tasso di coinvolgimento in relazione alla WoM)
 - atti di scarcerazione
 
-> L'Associazione Meeds si riserva il diritto di modificare la formula se necessario - ad esempio in caso di casi d'uso specifici. L’associazione può anche inserire nella lista nera qualsiasi Hub che dirotta la formula a suo esclusivo vantaggio.
+> The Meeds Association reserves the right to change the formula if required – if some specific use cases arise, for instance. L’associazione può anche inserire nella lista nera qualsiasi Hub che dirotta la formula a suo esclusivo vantaggio.
 
-Poiché gli Centro vengono premiati con Meeds e incentivati ​​a ridistribuirli come ricompensa ai propri utenti in cambio del loro impegno, l’interesse sia delle comunità che dei loro utenti sono allineati nello stesso ciclo virtuoso di condivisione delle entrate. Pertanto, la WoM offre un nuovo modello di lavoro che ridefinisce il rapporto datore di lavoro/dipendente come partnership.
+As the Hubs are rewarded with MEED and incentivized to redistribute them as rewards to their users against their engagement – the interests of both the communities and their users are aligned in the same virtuous revenue-sharing cycle. Pertanto, la WoM offre un nuovo modello di lavoro che ridefinisce il rapporto datore di lavoro/dipendente come partnership.
 
 Il modello "mintium" è il primo del suo genere: va oltre il tradizionale modello freemium, poiché non solo i servizi sono gratuiti da utilizzare, ma sia le organizzazioni che i loro utenti vengono premiati per utilizzarli.
 
@@ -136,7 +136,7 @@ Una città è un modo per le comunità di riunirsi e creare una comunità più a
 
 Ogni città ha la propria governance e gestisce la propria DAO in cui i proprietari dell'Atto della città possono eleggere il proprio consiglio comunale, votare e stabilire le proprie regole operative, aggiungere nuovi servizi e modellare la propria città nel modo che desiderano e in modo da aumentare il potere della città. attrattiva e il valore degli atti ad esso collegati.
 
-Ad esempio, potrebbero aggiungere una rappresentazione digitale della loro città, controparti fisiche associate alla loro città (sale riunioni in spazi fisici co-lavoro fisici, per esempio), aggiungere servizi alimentari alimentati da Meeds, servizi vacanze, ecc...
+For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add food services, vacations services, etc...
 
 Per impostazione predefinita (a meno che la città non voti diversamente), il reddito passivo derivante dalla locazione delle azioni sarà "tassato" dalla città (5%) e dall'Associazione (3%) per incoraggiare un uso produttivo.
 
