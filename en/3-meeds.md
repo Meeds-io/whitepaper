@@ -62,9 +62,9 @@ Also, there are plans to introduce bonds and move towards protocol-owned liquidi
 Additionally, on behalf of the Meeds DAO, the Meeds Association is entitled to facilitate OTC (off-the-shelf) purchases of more extensive amounts of MEED tokens.
 
 **Staking / long-term investment**
-Meeds DAO encourages investors to invest long-term by staking their MEED by providing yields on staked MEEDs in proportion to the xMEED holdings. Yield profits can only be realized by unstaking MEED.
+Meeds DAO rewards the loyal investors that want to support Meeds in the long term. Anyone can stake their unused MEED tokens to earn yields and xMEED tokens.
 
-xMEED is the token used for voting on DAO proposals.
+Staking reults in the minting of xMEED tokens in proportion of the MEED tokens deposited. The xMEED token is Meeds governance token, which is used for voting on DAO proposals.
 
 Additionally, xMEED holders earn minting points that entitle them to mint Deed NFTs. This mechanism increases the demand for MEED tokens. Minting points accrue over time as long as the stakeholder maintains his stake. The formula below allows you to calculate minting points :
 
