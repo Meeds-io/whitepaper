@@ -1,12 +1,15 @@
 
 # 1. हमारे बारे में
 
-आवश्यकताएं विविध ओपन सोर्स सॉफ्टवेयर (ओएसएस) समुदायों के नेतृत्व में एक सहयोगी प्रयास है, जो एक विकेन्द्रीकृत डिजिटल दुनिया बनाने के लिए समर्पित है जो केंद्रीकृत कॉर्पोरेट नियंत्रण का प्रतिरोध करता है और एक स्वतंत्र और खुले वातावरण को बढ़ावा देता है ।
+Meeds is a collaborative effort led by diverse open-source software (OSS) communities dedicated to creating a decentralized digital world that resists centralized corporate control and promotes a free and open environment.
 
-जरूरतों के पीछे कानूनी इकाई _मेड्स एसोसिएशन_ है, जो जिनेवा में स्विस कानून के तहत शामिल एक गैर-लाभकारी संगठन है ।  यह जरूरतों(आवश्यकता) टोकन जारी करने को विनियमित करने के लिए जिम्मेदार है, एक ईआरसी 20 टोकन जिसे उपयोगिता टोकन के रूप में मान्यता प्राप्त है ।
+The Meeds project uses the Ethereum ecosystem to implement the WoM protocols and manage the supply of the MEED token. This approach has helped prioritize security, accessibility, usability, and cost-effectiveness, making it attractive to a broad user base. However, the WoM is designed to be an autonomous and self-sufficient public good, aiming to become multichain.
 
-एक विकेन्द्रीकृत स्वायत्त संगठन (डीएओ) के रूप में कार्य करते हुए, मेड्स लोकतांत्रिक शासन पर जोर देता है, जहां शासन अधिकारों वाले टोकन धारक प्रमुख निर्णय लेने में भाग लेते हैं, जैसे कि वार्षिक बोर्ड चुनाव, संगठनात्मक परिवर्तनों में पारदर्शिता और सामुदायिक भागीदारी सुनिश्चित करना ।
+The legal entity behind Meeds is the _Meeds Association_, a non-profit organization registered under Swiss law in Geneva. It is responsible for regulating the issuance of MEED tokens and contracting with service providers.
 
-जरूरतों की परियोजना जरूरतों (महिलाओं) और मेड्स टोकन की दुनिया को लागू करने के लिए एथेरियम पारिस्थितिकी तंत्र का उपयोग करती है ।  यह दृष्टिकोण सुरक्षा, पहुंच, उपयोगकर्ता-मित्रता और लागत-प्रभावशीलता को प्राथमिकता देता है, जिससे यह एक व्यापक उपयोगकर्ता आधार के लिए अपील करता है ।
+The Meeds Association intends to progressively hand over control of the Meeds protocol and treasuries to the _Meeds DAO_, which is the decentralized autonomous organization that represents the decentralized governance arm of the Meeds ecosystem, empowering the community to participate in decision-making, proposal voting, and protocol upgrades.
 
-आवश्यकताएं एक ओपन सोर्स सॉफ्टवेयर है (github.com/meeds-io< / 0>) मेड्स एसोसिएशन के भागीदारों की मेजबानी करके क्लाउड इन्फ्रास्ट्रक्चर में संचालित । </p>
+The relationship between the Meeds Association and Meeds DAO involves how they operate in the real world. Meeds Association is a traditional organization that have members, a board of directors, and operates under specific legal and regulatory frameworks. In the real world, Meeds Association may engage in activities such as organizing events, providing services, and advocating for its members. It may also have a physical office and staff members. Meeds DAO, on the other hand, operates without a central authority and make decisions through consensus of its members using blockchain-based voting mechanisms. It may also engage in activities such as funding projects, managing assets, and making decisions through smart contracts.
+
+The WoM is built as open-source software ([github.com/meeds-io](https://github.com/meeds-io)) and hosted by partners selected by the Meeds Association on behalf of the Meeds DAO.
+
