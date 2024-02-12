@@ -11,7 +11,7 @@ WoM dirancang untuk menjadi platform yang beragam dan inklusif Ini menyambut ber
 
 ## 2.2. Suplai Deed
 
-WoM pada akhirnya akan membatasi suplai Deed. Sebuah Deed sebelumnya sudah menentukan jumlah pengguna maksimum dan menawarkan kapasitasnya memberi imbalan Meed (Minting Power). Kata 'user' atau pengguna di sini merujuk pada semua jenis pekerja, karyawan, pekerja lepas, sukarelawan dll.
+WoM pada akhirnya akan membatasi suplai Deed. Setiap Akta mencakup jumlah maksimum pengguna yang telah ditentukan sebelumnya dan menawarkan kapasitas pemberian imbalan (Minting Power). Kata 'user' atau pengguna di sini merujuk pada semua jenis pekerja, karyawan, pekerja lepas, sukarelawan dll.
 
 Dalam lanskap digital ini, Akta melambangkan kehadiran dan jejak digital organisasi di WoM, yang berfungsi sebagai jembatan antara operasi dunia nyata dan upaya digital mereka.
 
@@ -36,7 +36,7 @@ Sebagai pemegang aktif atau penyewa Akta, organisasi berhak atas imbalan MEED se
 
 Dalam pasar yang kompetitif saat ini, organisasi berupaya menarik dan mempertahankan talenta terbaik tidak hanya melalui kompensasi namun juga dengan meningkatkan keterlibatan kerja. WoM mengatasi tantangan ini dengan sistem penghargaan unik dan terpatok yang diwujudkan dalam Community Hubs.
 
-Dalam Hub ini, pemimpin komunitas dapat mendorong keterlibatan anggota dengan menawarkan menu insentif yang transparan untuk item pekerjaan. Peserta mendapatkan poin keterlibatan atas upaya mereka, yang secara berkala dikonversi menjadi token MEED atau yang setara, sesuai dengan anggaran yang telah ditentukan.
+Dalam Hub ini, pemimpin komunitas dapat mendorong keterlibatan anggota dengan menawarkan menu insentif yang transparan untuk item pekerjaan. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
 
 Community Hub menawarkan serangkaian alat dan fitur yang dirancang untuk meningkatkan dan mengelola keterlibatan kontributor:
 
@@ -46,20 +46,20 @@ Community Hub menawarkan serangkaian alat dan fitur yang dirancang untuk meningk
 - **Kudos**: Pengakuan rekan langsung meningkatkan moral dan menumbuhkan budaya penghargaan, meningkatkan kohesi dan motivasi tim.
 - **Ruang**: Subkelompok dan proyek terorganisir merampingkan komunikasi dan kolaborasi, meningkatkan produktivitas kolektif.
 - **Dompet**: Aplikasi Wallet menyimpan hadiah MEED dengan aman, mewakili kontribusi pengguna, dan memungkinkan transaksi mudah baik di dalam Hub maupun di jaringan yang lebih luas.
-- **Perks**: A variety of rewards, from gift cards to NFTs, incentivize ongoing engagement and foster loyalty within the organization’s ecosystem.
-- **Tasks**: Streamlined project and task management tools boost productivity by simplifying workflows and tracking progress.
-- **Notes**: A handy notebook app for documenting essential information like onboarding guides promotes knowledge sharing and organizational self-sufficiency.
-- **Branding**: Customizable Hub appearance attracts new contributors and strengthens their connection to the organization’s identity.
-- **Analytics**: Insightful analytics into community engagement enable leaders to identify effective strategies and make informed decisions for optimization.
+- **Keuntungan**: Beragam hadiah, mulai dari kartu hadiah hingga NFT, mendorong keterlibatan berkelanjutan dan menumbuhkan loyalitas dalam ekosistem organisasi.
+- **Tugas**: Alat manajemen proyek dan tugas yang disederhanakan meningkatkan produktivitas dengan menyederhanakan alur kerja dan melacak kemajuan.
+- **Catatan**: Aplikasi buku catatan praktis untuk mendokumentasikan informasi penting seperti panduan orientasi mendorong berbagi pengetahuan dan kemandirian organisasi.
+- **Pencitraan merek**: Tampilan Hub yang dapat disesuaikan menarik kontributor baru dan memperkuat hubungan mereka dengan identitas organisasi.
+- **Analitik**: Analisis mendalam mengenai keterlibatan komunitas memungkinkan para pemimpin mengidentifikasi strategi yang efektif dan mengambil keputusan yang tepat untuk pengoptimalan.
 
 
-**Starting a Hub** Initiating a Hub is most seamless via meeds.io, which offers access to a cloud platform managed by the Meeds Association. Platform ini memungkinkan pengaturan cepat dan dikelola oleh entitas nirlaba yang mengelola WoM. Namun, WoM melayani desentralisasi. Karena perangkat lunak Meeds bersifat open source dan didistribusikan secara bebas, organisasi memiliki opsi untuk menghosting sendiri server Hub dan terhubung ke jaringan WoM, sehingga memberi mereka lebih banyak kontrol dan penyesuaian dalam pengaturan dan pengelolaan Hub mereka.
+**Memulai Hub** Memulai Hub paling mudah dilakukan melalui meeds.io, yang menawarkan akses ke platform cloud yang dikelola oleh Meeds Association. Platform ini memungkinkan pengaturan cepat dan dikelola oleh entitas nirlaba yang mengelola WoM. Namun, WoM melayani desentralisasi. Karena perangkat lunak Meeds bersifat open source dan didistribusikan secara bebas, organisasi memiliki opsi untuk menghosting sendiri server Hub dan terhubung ke jaringan WoM, sehingga memberi mereka lebih banyak kontrol dan penyesuaian dalam pengaturan dan pengelolaan Hub mereka.
 
-**Capturing Work Signals** Hubs can integrate with various platforms like GitHub, Twitter, and Discord and are extendable via API to connect with services such as CRM software, accounting software, and clocking terminals. Hal ini memungkinkan kontribusi profesional yang beragam untuk diakui dan dihargai. Semua konektor menjalani proses daftar putih oleh Meeds Association untuk menjamin integritas dan fungsionalitas.
+**Menangkap Sinyal Kerja** Hub dapat berintegrasi dengan berbagai platform seperti GitHub, Twitter, dan Discord dan dapat diperluas melalui API untuk terhubung dengan layanan seperti perangkat lunak CRM, perangkat lunak akuntansi, dan terminal pencatatan jam kerja. Hal ini memungkinkan kontribusi profesional yang beragam untuk diakui dan dihargai. Semua konektor menjalani proses daftar putih oleh Meeds Association untuk menjamin integritas dan fungsionalitas.
 
-**Enriching the Perks Store** Organizations can tailor the store with custom perks, including training courses and gym memberships, creating a self-reinforcing cycle of rewards and engagement. Hal ini tidak hanya memberikan insentif kepada kontributor tetapi juga membina hubungan yang lebih dalam dengan ekosistem organisasi.
+**Memperkaya Perks Store** Organisasi dapat menyesuaikan toko dengan fasilitas khusus, termasuk kursus pelatihan dan keanggotaan gym, sehingga menciptakan siklus penghargaan dan keterlibatan yang memperkuat diri. Hal ini tidak hanya memberikan insentif kepada kontributor tetapi juga membina hubungan yang lebih dalam dengan ekosistem organisasi.
 
-**Engagement and Rewards** Active participation in the Hub contributes to an organization’s global engagement score. Metrik ini mencerminkan efektivitas strategi keterlibatan, dengan mempertimbangkan faktor-faktor seperti tingkat aktivitas pengguna dan distribusi pekerjaan serta penghargaan yang adil. Skor yang dapat diaudit secara publik ini, memberikan hak kepada Hub untuk mendistribusikan token MEED yang dibuat dari protokol, yang berfungsi sebagai ukuran efektivitas strategi keterlibatan mereka.
+**Keterlibatan dan Hadiah** Partisipasi aktif dalam Hub berkontribusi terhadap skor keterlibatan global suatu organisasi. Metrik ini mencerminkan efektivitas strategi keterlibatan, dengan mempertimbangkan faktor-faktor seperti tingkat aktivitas pengguna dan distribusi pekerjaan serta penghargaan yang adil. Skor yang dapat diaudit secara publik ini, memberikan hak kepada Hub untuk mendistribusikan token MEED yang dibuat dari protokol, yang berfungsi sebagai ukuran efektivitas strategi keterlibatan mereka.
 
 Ke depannya, Community Hub di ekosistem WoM akan menjadi pusat kehidupan komunitas, mengintegrasikan komunikasi internal, interaksi real-time, tata kelola, dan berbagai alat produktivitas. Penyempurnaan ini akan memastikan bahwa Hub tetap terhubung dengan alat terbaik yang sudah digunakan oleh organisasi. Hal ini merupakan bukti kuat komitmen Meeds dalam membina komunitas yang dinamis dan terlibat.
 
@@ -80,7 +80,7 @@ By engaging their users in the WoM, communities get compensated through an innov
 
 Poin keterlibatan, yang diperoleh oleh pengguna Hub, berpartisipasi dalam indeks keterlibatan global, yang dihitung oleh Meeds Association. Indeks ini menggunakan prinsip yang sama untuk semua Hub. Meskipun komunitas dapat mengubah alokasi poin untuk mendorong suatu tindakan dibandingkan tindakan lainnya, perubahan tersebut tidak akan diperhitungkan dalam penghitungan indeks global.
 
-Dalam satu pekan, sejumlah Meed dialokasikan untuk pencetakan keterlibatan global dalam WoM. Ini dihitung setiap minggu, secara pro-rata, di antara Hub yang berpartisipasi. Beberapa Hub mendapatkan dorongan tambahan tergantung pada jenis Akta yang mereka gunakan. Hub yang mengklaim Meed mereka selama seminggu, akan menerimanya. Meed yang tidak diklaim, akan dimasukkan dalam distribusi global minggu selanjutnya.
+Setiap minggunya, sejumlah MEED dialokasikan untuk keterlibatan global dalam pembuatan WoM. Ini dihitung setiap minggu, secara pro-rata, di antara Hub yang berpartisipasi. Beberapa Hub mendapatkan dorongan tambahan tergantung pada jenis Akta yang mereka gunakan. Hub yang mengklaim token MEED mereka selama seminggu, menerimanya. Token MEED yang tidak diklaim ditambahkan ke jumlah distribusi global minggu berikutnya.
 
 Nilai keterlibatan _S_   dari Deed berdasar fungsi keterlibatan, jumlah pengguna yang terlibat dan distribusinya :
 
@@ -92,12 +92,12 @@ Di mana :
 - $U$ = _Engaged users_ - menunjukkan poin kontribusi pengguna selama sepekan, setidaknya satu aksi.
 - $E_d$ = _Tingkat keterlibatan hub_ - tindakan per pengguna ($A/U$)
 - $E_w$ = _Tingkat keterlibatan rata-rata_ dari semua Hub aktif di WoM.
-- $D_r$ = _Tingkat distribusi_ - jika Hub menerima Meed yang dicetak untuk periode sebelumnya, % Meed yang didistribusikan ke penggunanya. Proporsi % bisa lebih dari 100 jika waktu pendistribusiannya terlambat.
-- $D_s$ = _Sebaran distribusi_ - jika Hub menerima Meed yang dicetak untuk periode sebelumnya, % pengguna yang menerima Meed dalam total kumpulan pengguna.
+- $D_r$ = _Tingkat distribusi_ - jika Hub menerima MEED yang dicetak untuk periode sebelumnya, % MEED yang didistribusikan ke penggunanya. Proporsi % bisa lebih dari 100 jika waktu pendistribusiannya terlambat.
+- $D_s$ = _Sebaran distribusi_ - jika Hub menerima token MEED yang dicetak untuk periode sebelumnya, % pengguna yang menerima MEED dalam total kumpulan pengguna.
 - $M$ = _Kapasitas Mencetak_ Deed dijelaskan pada bagian 2.3
 
 
-Indeks keterlibatan global yang digunakan untuk mendistribusikan Meed yang dicetak di antara Hub adalah jumlah skor keterlibatan semua Hub pada minggu tersebut.
+The global engagement index used to distribute minted MEED among the Hubs is the sum of all Hubs’ weekly engagement scores.
 
 
 Rumus di atas sederhana dan dirancang untuk mendukung hub :
@@ -110,9 +110,9 @@ Selain itu, ada tambahan bagi :
 - organisasi yang memiliki keterlibatan tertinggi, terlepas dari ukuran mereka (kaitan antara engagement rate dengan Wom)
 - deed yang lebih langka
 
-> Asosiasi Meed berhak mengubah rumus tersebut jika diperlukan - misalnya jika ada kasus tertentu. Asosiasi juga dapat memasukkan Hub mana pun yang membajak formula untuk keuntungan uniknya ke dalam daftar hitam.
+> The Meeds Association reserves the right to change the formula if required – if some specific use cases arise, for instance. Asosiasi juga dapat memasukkan Hub mana pun yang membajak formula untuk keuntungan uniknya ke dalam daftar hitam.
 
-Karena Deed diberi imbalan dan insentif berupa Meed untuk didistribusikan ulang sebagai imbalan untuk pengguna mereka atas keterlibatan pengguna - kepentingan Deed dan penggunanya harus selaras dan sama dalam pembagian hasilnya. Maka, WoM menawarkan model kerja baru, untuk menyusun ulang hubungan pekerja/pemberi kerja sebagai sebuah kemitraan.
+As the Hubs are rewarded with MEED and incentivized to redistribute them as rewards to their users against their engagement – the interests of both the communities and their users are aligned in the same virtuous revenue-sharing cycle. Maka, WoM menawarkan model kerja baru, untuk menyusun ulang hubungan pekerja/pemberi kerja sebagai sebuah kemitraan.
 
 Model "mintium" adalah jenis baru - yang berbeda dengan model freemium tradisional, karena tidak hanya memberikan layanan gratis, tapi antara organisasi dan penggunanya sama-sama diberi imbalan karena ikut menggunakan.
 
@@ -136,7 +136,7 @@ Sebuah kota adalah cara bagi masyarakat untuk berkumpul dan menciptakan komunita
 
 Tiap kota memiliki pemerintahnya dan dioperasikan dengan DAO mereka, di mana pemilik Deed kota bisa memilih dewan kota mereka, menentukan tata kelola kota mereka sendiri, menambah layanan dan membentuk kota mereka sesuai keinginan mereka agar meningkatkan daya tarik kota sehingga menambah nilai Deed yang ada di dalamnya.
 
-Misalnya, mereka bisa menambah representasi digital kota mereka, mitra fisik yang terkait dengan kota (misalnya ruang pertemuan fisik kerja bersama), menambah kemampuan Meed dengan layanan makanan, liburan, dll...
+Misalnya, mereka dapat menambahkan representasi digital kota mereka, tampilan fisik yang terkait dengan kota mereka (misalnya ruang pertemuan di ruang kerja bersama fisik), menambahkan layanan makanan, layanan liburan, dll...
 
 Sesuai peraturan (kecuali kota memilih lainnya), pendapatan pasif bisa diperoleh dari menyewakan Deed akan dikenai pajak oleh kota (5%) dan asosiasi (3%) untuk mendorong penggunaan yang produktif.
 

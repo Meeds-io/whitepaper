@@ -1,85 +1,82 @@
-# 3. Token meeds – mata uang WoM
+# 3. Token MEED – mata uang WoM
 
-WoM didukung oleh mata uangnya – token Meeds (MEED). Meed digunakan untuk memberi imbalan buat pengguna (lewat program keterlibatan), pembelian, mendapatkan Deed, memperoleh imbal hasil dalam investasi dll.
+The MEED token (pronounced "Meeds") is the currency that powers the WoM. Pengguna diberi hadiah MEED (melalui program keterlibatan), pembelian di toko, mendapatkan Akta, mendapatkan pengembalian finansial atas investasi, dan banyak lagi.
 
 ## 3.1. Tokenomik
 
-**Suplai maksimal Meed dibatasi hanya sebanyak 100 juta token**, yang dicetak secara bertahap. **Meed dicetak sebanyak 10 MEED tiap menit**. Maka, rentang waktu tercetak sampai habis memakan waktu selama 20 tahun (atau sekitar $10*60*24*365 = 5 juta Meed yang dicetak tiap tahunnya).
+**Pasokan maksimum MEED dibatasi hingga 100 juta token**, dicetak secara bertahap.
 
-5 Juta Meed (5% dari total pasokan) telah dicetak sebelumnya. Dari jumlah itu, 4,5 juta Meed dikunci dalam kontrak brankas selama 4 tahun. Jumlah yang telah dicetak sebelumnya terutama digunakan untuk memperoleh IP perangkat lunak, membayar biaya hukum emisi token, dan layanan host.
+Asosiasi Meeds telah mencetak 5 Juta MEED (5% dari total pasokan) di awal untuk memperoleh IP perangkat lunak dari anggota pendanaan, membayar biaya hukum emisi token, dan layanan hosting. Kemudian, mereka mengunci 4,5 Juta dalam kontrak vault dengan vesting linier selama empat tahun.
 
-Sisanya adalah bagian dari __dana Meeds DAO__ dan akan digunakan untuk membayar layanan dan meluncurkan insentif seperti airdrop dan kampanye rujukan.
+Sejak itu, kontrak pintar yang disebut **__Pabrik Token__ melakukan pencetakan **token MEED dengan kecepatan konstan**.
 
+Kecepatan pencetakan adalah parameter Pabrik Token, yang ditetapkan pada *10 MEED per menit* di awal. Pemungutan suara dari DAO dapat mengubah nilai ini di masa depan. Pada tingkat tersebut, Pabrik Token mencetak sekitar 5 Juta MEED per tahun (10*60*24*365); dengan demikian, jangka waktu pencetakan hampir 20 tahun.
 
 ## 3.2. Alokasi Pencetakan
 
-Meed yang dicetak dialokasikan untuk menarik keterlibatan dari tiga pihak pemangku kepentingan -pengguna, pembangun, dan investor:
+Pabrik Token juga mengatur alokasi token MEED yang dicetak ke tiga kategori pemangku kepentingan :
 
-- Pengguna (pengguna dan pemegang Akta/penyewa) mendapatkan Meed melalui imbalan keterlibatan (model mintium).
-- Pembangun (anggota asosiasi dan komunitas) mendapatkan Meed melalui dana asosiasi untuk membangun, mengoperasikan, dan mengembangkan WoM.
-- Investor mencetak Meed dengan menyewa dan berpartisipasi dalam likuiditas bersama, dan mendepositokan Meed.
+- **Builders**: Kontributor Meeds DAO yang membantu membangun dan menjalankan WoM
+- **Pengguna**: Anggota di semua komunitas WoM mendapatkan MEED sebagai imbalan atas kontribusi mereka
+- **Investor**: Meeds DAO memberi insentif kepada pemilik token MEED untuk mempertaruhkan MEED atau menyediakan likuiditas bagi perekonomian Meeds
 
-Pada awalnya, para pembangun mendapatkan 30% dari alokasi Meed. Sisa 70% dibagi antara pengguna dan investor. Proporsi alokasi ini akan ditinjau ulang secara reguler, melalui pemungutan suara dalam asosiasi DAO.
+Setiap kategori pemangku kepentingan menerima bagian dari pasokan MEED, yang bergantung pada pemungutan suara oleh DAO.
 
-## 3.3. Pengguna -mencetak Meed melalui keterlibatan
+## 3.3. Pengguna
 
-Sebagai bagian dari penerbitan Meed yang berkelanjutan, Meed dialokasikan lewat kanal keterlibatan penerbitan. Distribusi Meed dilakukan dalam periode mingguan. Pada akhir pekan tertentu, indeks keterlibatan dihitung sehingga pemimpin Hub dan pemilik Akta dapat mengklaim hadiah mereka pada minggu berikutnya dan mendapatkan Meed mereka. Meed yang tidak diklaim, akan tetap tersimpan dalam dana cadangan dan akan dimasukkan dalam distribusi pekan selanjutnya. Model ini dijelaskan secara detail dalam bab sebelumnya (bagian 2.6).
+Bagian dari token MEED yang terus dicetak dialokasikan untuk mensponsori keterlibatan pengguna melalui model Mintium (lihat 2.6). Indeks keterlibatan global dihitung secara berkala di seluruh Hub di WoM untuk mengalokasikan imbalan MEED ke Hub. Hadiah Mintium dapat diklaim oleh pemimpin Hub dan pemilik Akta.
 
-## 3.4. Pembangun - Asosiasi DAO Meed dan komunitas pembangun
+## 3.4. Pembangun
 
-WoM dan token Meed dioperasikan secara nirlaba oleh DAO Meed Association, seperti disebutkan di atas. Kontrak multisig disebut _Meeds DAO Funds_ digunakan untuk membiayai operasi asosiasi.
+Meeds DAO mengoperasikan WoM dan pasokan token MEED. Kontrak pintar multi-tanda yang disebut _Meeds DAO Funds_ mengelola biaya operasional. It receives **30% of the minted MEED** to support Builders.
 
-Selama masa penerbitan, **30% dari Meed yang dicetak dialokasikan untuk asosiasi Meed**.
+The Meeds Association is entitled to hire service provider companies on behalf of the Meeds DAO to cover legal fees, development, and hosting costs using the Meeds DAO Funds.
 
-Anggota asosiasi bisa menyediakan layanan kepada asosiasi berdasar pada perjanjian layanan yang disepakati untuk menetapkan tarif kerja harian. Layanan dibayar dengan Meed secara bulanan, berdasar harga pasar. Contoh layanan meliputi - mengembangkan perangkat lunak Meed, mengembangkan aplikasi WoM, mengembangkan koneksi baru, mengoperasikan layanan komputasi awan, menyediakan layanan legalitas dan keuangan dll.
+Organizations and individuals not members of the Meeds Association may still contribute through the _Meeds Builders Hub_  - a community hub that welcomes enthusiasts who want to participate in creating and promoting the WoM. The <0>Meeds DAO Funds</0> also reward for contributions to the Builders Hub.
 
-Tanpa menjadi anggota, organisasi mana pun dapat berpartisipasi dalam pembuatan konektor baru dan diberi penghargaan karena melakukannya – pertama melalui asosiasi Meeds yang memperoleh konektor tersebut dan kemudian dengan mencetak melalui konektor ini.
+Builders Hub juga menerima hadiah Mintium seperti hub lainnya.
 
-The association operates its own community hub named the _Meeds Builders Hub_ that welcomes enthusiasts, who want to contribute to the creation of the WoM. Asosiasi mensponsori komunitas dari anggarannya, memberikan kompensasi atas keterlibatan anggota komunitas.
-
-Dengan demikian, hub pembangun berfungsi sebagai contoh nyata dari komunitas yang diberdayakan oleh perangkat lunak Meeds, yang menawarkan serangkaian layanan standar yang disediakan oleh asosiasi. Asosiasi mempertaruhkan Meeds untuk menebus Akta untuk komunitasnya. Dengan demikian, Hub Pembangun juga mendapat manfaat dalam pembuatan perjanjian seperti Hub lainnya yang didukung oleh Akta.
-
-Setelah masa penerbitan selesai, asosiasi akan dibiayai dari :
+After the minting period is over, the operational costs of the Meeds DAO will be supported by :
 
 - pajak pendapatan pasif (3% dari penyewaan Deed)
 - pajak penjualan (2.5% dari penjualan Deed)
 - penerimaan dari biaya transaksi dari penggunaan manfaat toko
 - hasil dari penyediaan likuiditas bersama
-- memahami biaya transaksi saat Hub mendistribusikan token non Meeds melalui layanan WoM.
-- dengan mengoperasikan Deed yang diterbitkan dari waktu ke waktu.
+- perceiving transaction fees when a Hub distributes alternative tokens on their Hubs
+- renting and selling the Deeds that the DAO minted over time.
 
 
 ## 3.5. Investor
 
-Investor bisa membantu menciptakan WoM dengan menyediakan lukuiditas dan mendepositokan Meed, lalu menstabilkan harganya selama masa pembangunan. Keduanya didorong lewat penerbitan.
+Investors support the WoM by providing liquidity and staking MEED tokens, which helps stabilize the price level during the building phase. Incentives are in place for both:
 
-**Penyedia Likuiditas** Manajemen likuiditas keuangan adalah kunci sukses bagi proyek dan beberapa startegi DeFi, akan digunakan untuk mengoptimalkan efisiensi modal. Kami akan mulai memberikan insentif bagi mereka yang mendepositokan Meed/ETH dalam likuiditas token bersama dan secara progresif akan mengenalkan obligasi untuk mewujudkan likuiditas yang dimiliki protokol. Terakhir, kami akan berkontribusi dalam keberlanjutan asosiasi jangka panjang -seperti disebut di atas, biaya transaksi akan menjadi sumber dana biaya ooperasional asosiasi seperti cloud hosting.
+**Liquidity providers** Currency liquidity management is crucial to the project's success. The Meeds DAO employs various DeFi mechanisms to optimize its capital efficiency. For instance, incentives allow liquidity providers to farm yields by renting their LP tokens. Also, there are plans to introduce bonds and move towards protocol-owned liquidity progressively. The latter will contribute to the project's long-term sustainability - as mentioned above, transaction fees will fund the operating expenses.
 
-Setiap anggota juga berhak membeli Meed secara langsung dalam jumlah besar dengan harga diskon. Jumlah dana yang ditransfer ke asosiasi akan dikonversikan menjadi ETH dan dimasukkan ke dalam likuiditas bersama dengan nilai setara Meed.
+Additionally, on behalf of the Meeds DAO, the Meeds Association is entitled to facilitate OTC (off-the-shelf) purchases of more extensive amounts of MEED tokens.
 
-**Deposito/investasi jangka panjang** Untuk menarik investasi jangka panjang, Meed yang didepositokan akan diberi imbal hasil. Ketika Meed didepositokan, deposan akan mendapatkan token xMeed. Meed yang baru diterbitkan didistribusikan kepada deposan secara proporsional menjadi xMeed mereka. Dalam praktiknya, Meed yang diterbitkan secara efektif dimasukkan ke dalam kontrak pintar xMeed dan didistribusikan kepada pemegang xMeed saat mereka menarik depositonya.
+**Staking / long-term investment** Meeds DAO rewards loyal investors who want to support Meeds long-term. Anyone can stake their unused MEED tokens to earn yields and xMEED tokens.
 
-Dengan mempertaruhkan Meeds, investor juga dapat menukarkan Akta NFT (dan kemudian berpartisipasi dalam pencetakan melalui keterlibatan), sehingga meningkatkan permintaan token. Tiap Meed yang didepositokan (xMeed) membuat pemiliknya menerima sejumlah poin tiap harinya. Semakin lama mereka mendepositokannya, maka semakin besar poin yang mereka peroleh untuk tiap xMeed. Tiap Deed, lalu bisa ditukar menjadi sejumlah poin.
+Staking reults in the minting of xMEED tokens in proportion of the MEED tokens deposited. The xMEED token is Meeds governance token, which is used for voting on DAO proposals.
 
-Poin dihitung berdasar rumus berikut :
+Additionally, xMEED holders earn minting points that entitle them to mint Deed NFTs. This mechanism increases the demand for MEED tokens. Minting points accrue over time as long as the stakeholder maintains his stake. The formula below allows you to calculate minting points :
 
- $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
+ $$ P = xMEED / (xMEED + 12000) * T / 240 $$
 
- di mana :
+ Where:
 
-- $xMeeds$ : saldo xMeeds ditulis tanpa desimal
-- $T$ : Waktu ditulis dalam milidetik
+- $xMEED$: xMEED balance  with no decimals
+- $T$: Time elapsed in milliseconds
 
-Rumus tersebut untuk menghindari keuntungan bagi pemilik besar agar distribusi Meed lebih efisien dan lebih adil. Misalnya, rumus memberikan tarif :
+The formula avoids favoring large holders to distribute Deeds more efficiently and equitably. Misalnya, rumus memberikan tarif :
 
-| **Ukuran Pemilik** | **Jumlah**     | **Tingkat Pertambahan** |
-| ------------------ | -------------- | ----------------------- |
-| Kecil              | 1 000 xMeeds   | 28 poin/hari            |
-| Sedang             | 10 000 xMeeds  | 164 poin/hari           |
-| Besar              | 100 000 xMeeds | 321 poin/hari           |
+| **Ukuran Pemilik** | **Jumlah**    | **Tingkat Pertambahan** |
+| ------------------ | ------------- | ----------------------- |
+| Kecil              | 1 000 xMEED   | 28 poin/hari            |
+| Sedang             | 10 000 xMEED  | 164 poin/hari           |
+| Besar              | 100 000 xMEED | 321 poin/hari           |
 
 
-yang mengarah masa kepemilikan untuk setiap kelompok kepemilikan :
+These accrue rates lead to the following holding time for each class of holder :
 
 | **Tipe Kartu** | **Biaya**    | **Pemilik Besar** | **Pemilik Medium** | **Pemilik Kecil** |
 | -------------- | ------------ | ----------------- | ------------------ | ----------------- |
@@ -90,20 +87,20 @@ yang mengarah masa kepemilikan untuk setiap kelompok kepemilikan :
 
 ## 3.6. Tata Kelola DAO Meed
 
-Pemegang token Meed perlu mendepositokan token mereka agar mendapatkan hak suara dalam pengambil keputusan dalam DAO, seperti mengatur biaya penerbitan atau memilih anggota direksi DAO (yang dimandatkan tiap tahun).
+xMEED token holders can freely participate in the governance of the Meeds DAO by voting with their tokens on decisions such as managing the budget allocation or electing DAO board members.
 
 ## 3.7. Layanan Pengguna Keuangan Terdesentralisasi (DeFi)
 
 WoM akan memperkenalkan dunia blockchain kepada banyak orang yang tidak menggunakannya saat ini.
 
-Maka, setiap karya (entah digital atau bukan) bisa digamifiikasi dan segala keterlibatan di dalamnya -dan dihadiahi dengan Meed. Meed, akan tersedia bagi pengguna melalui cara yang mudah, dompet berbasis blockchain yang "menyederhanakan" segala kerumitan dalam kripto untuk pengguna awam.
+Indeed, Meeds software can gamify and set a monetary value on any contribution (whether it is digital or not) and reward it with MEED tokens. This has be made possible by an easy-to-use, blockchain-based wallet app that simplifies access to the crypto world for an average user, rewards are tangible.
 
-Selain dompet dan toko di mana pengguna bisa membeli barang untuk Meed, kami berencana mengenalkan semua pengguna produk-produk akhir yang disokong protokol Decentralized Finance, seperti:
+Beyond the wallet and a store where they can purchase perks for MEED tokens, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
 
 - Kemampuan untuk mempertaruhkan token MEED dan mendapatkan hasil (menghasilkan pendapatan)
-- The ability to use MEED tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
-- Kartu digital yang bisa dimasukan atau digunakan dengan Apple Pay, Google pay, atau lewat ATM. Untuk ATM, bisa dilakukan dengan bekerja sama dengan VISA dan akan memanfaatkan batas kredit dalam USDC, dijamin dengan mendepositokan Meed. Kartu ini bisa juga digunakan oleh organisasi untuk mendanai dompet karyawan untuk pemberian tunjangan seperti makan di restoran, transportasi, segala jenis pengeluaran.
+- The ability to use MEED tokens as collateral to borrow stablecoins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the MEED token to [AAVE](https://aave.com/).
+- A digital card can be added and used through Apple Pay, Google Pay, or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by xMEED. Organizations could also use this card to fund employee wallets to manage employee benefits such as restaurants, transportation, and other expenses.
 
-Maka, bukan hanya pengguna baru yang akan masuk ke dalam blockchain, mereka juga akan memasuki dunia tanpa bank.
+So, not only will many new users discover the blockchain world, but they will also discover a bankless world.
 
  

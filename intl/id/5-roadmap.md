@@ -10,11 +10,11 @@ Organisasi akan dapat mencari talenta, menelusuri WoM, untuk mendapatkan keteram
 
 WoM akan memiliki mata uangnya sendiri, **MEED** – yang dapat digunakan untuk dibelanjakan di toko, dikonversi ke mata uang lain, diinvestasikan untuk mendapatkan laba atas investasi, disewakan atau dibeli, dll. WoM juga bisa memfasilitasi distribusi token lain dan partisipasi di seluruh ekosistem kripto.
 
-Karena satu gambar bisa mengungkapkan seribu kata, berikut diagram yang mendeskripsikan alur WoM dan Meeds
+As a picture is worth a thousand words, here is a diagram that describes the WoM and MEED token flows
 
 ![WoM dan alur Meeds](en/img/wom-flows.png)
 
-Untuk pemeliharaan dan keberlanjutan dalam jangka panjang dilakukan dengan pajak yang dibagi antara The Meeds Association dan The Cities.
+The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds Association and the Cities.
 
 ## 5.2. Apa Keuntungan bagi Para Pengguna Awal
 
@@ -24,7 +24,7 @@ Secara khusus, keuntungan yang diberikan WoM adalah investasi jangka panjang - y
 
 Dengan mempercayai proyek ini, berpartisipasi dalam kumpulan likuiditas, mempertaruhkan token MEED, menebusnya dengan Akta... investor awal dari semua ukuran akan mencetak token tambahan. He saisivat myös aikaisimman äänioikeuden ja auttaisivat muokkaamaan naista.
 
-Perusahaan mendapatkan, utamanya yang menggunakan Deed, untuk terlibat dan memberikan pekerja mereka imbalan, akan mendapatkan kompensasi Meeds yang mereka terbitkan. Semakin adil mereka bekerja, semakin banyak yang mereka peroleh. Para pengguna awal akan dikaitkan dengan sejarah kota-kota dan kelak akan disebut sebagai orang-orang yang membangun.
+Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted MEED. Semakin adil mereka bekerja, semakin banyak yang mereka peroleh. Para pengguna awal akan dikaitkan dengan sejarah kota-kota dan kelak akan disebut sebagai orang-orang yang membangun.
 
 Diagram di bawah ini menunjukkan contoh strategi investasi Meeds untuk pemilik modal:
 
@@ -42,7 +42,7 @@ The official launch of the WoM was **May 1st, 2022** – the International Worke
 
 Saat itu, token MEED sudah ada. Ini memungkinkan untuk mendapatkan token tersebut dan likuiditas bersama bisa diikuti, di jaringan Polygon dan Ethereum.
 
-Tiga anggota asosiasi Meed menggunakan sistem internal untuk terlibat dan memberikan pengunanya dan mengembangkan perangkat lunak Meeds.
+Three Meeds Association members use the system internally to engage and reward their users and improve the Meeds software.
 
 Aplikasi investor sudah tersedia di Jaringan Utama Ethereum. Saat peluncuran, termasuk staking, imbalan likuiditas, akumulasi poin, dan penebusan Deed.
 
@@ -54,7 +54,7 @@ Makalah ini awalnya diterbitkan pada hari peluncuran. Menindaklanjuti dari pelun
 
 Kami meluncurkan komunitas pembangun di perangkat lunak Meeds dan Discord. Yhteisö toivottaa tervetulleeksi kaikki, jotkaYhteisö toivottaa tervetulleeksi kaikki, jotka haluavat osallistua naisten rakentamiseen. haluavat osallistua WoM: n rakentamiseen. Asosiasi ini akan menghadiahi para pembangun yang aktif dengan Meeds, diambil dari bujet marketing.
 
-Asosiasi juga berencana untuk menaruh beberapa Meed untuk mendapatkan (menebus) Deed dari komunitas pembangun. Komunitas juga akan mencetak Meed dengan keterlibatan, melalui model mintium, dan mendistribusikannya kepada pengguna yang terlibat.
+The association plans also to stake some MEED in order to acquire (redeem) a Deed for the builders community. The community will then mint MEED by engagement, through the mintium model, and distribute them to engaged users.
 
 ## 5.5. Peta jalan dan tahap-tahapnya
 
@@ -68,7 +68,7 @@ Peta jalan kami akan mengikuti prioritas di bawah ini:
 
 Kami memperhitungkan para pengguna awal sejak DAO dan perusahaan yang antusias dengan teknologi selama tahap pembangunan. Meillä pitäisi olla myös joitain varhaisia omaksujia perinteisistä yrityksistä, jotka saavat välitöntä arvoa WoM: ltä tarjoamalla asiaankuuluvia sitouttamisohjelmia työntekijöilleen nykyisten perinteisten palkkiosuunnitelmiensa lisäksi.
 
-Meed akan dicetak dalam rentang waktu 20 tahun. Siihen mennessä pyrimme rakentamaan kypsän ekosysteemin, joka on levinnyt moniin organisaatioihin ja moniin käyttäjiin maailmanlaajuisesti.
+MEED minting spans a 20 year period. Siihen mennessä pyrimme rakentamaan kypsän ekosysteemin, joka on levinnyt moniin organisaatioihin ja moniin käyttäjiin maailmanlaajuisesti.
 
 ## 5.6. Apa yang bisa Anda lakukan
 
@@ -81,6 +81,6 @@ Partisipasi apa yang bisa Anda lakukan sekarang?
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
 - Bergabung dengan komunitas [Discord](https://discord.com/invite/hAuADSq3)
-- Bergabung dengan komunitas [Builders](https://meeds.io/builders) untuk mengetes perangkat lunak Meeds, ikuti dan dapatkan imbalan beberapa Meeds
+- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some MEED engagement rewards
 
 **\*\*\* The WoM - mari kita bersama-sama membangun dunia masa depan yang gila ini. \*\*\***
