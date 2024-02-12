@@ -10,11 +10,11 @@ Organizacije bi mogle pronaći talente, pretražujući WoM, za prave dokazane vj
 
 WoM bi imao vlastitu valutu **MEED** – koja bi bila tu za trošenje u trgovinama, pretvaranje u drugu valutu, ulaganje za povrat ulaganja, iznajmljivanje ili kupnju itd. WoM bi također olakšavao distribuciju drugih tokena i sudjelovao u ukupnom kriptoekosustavu.
 
-Kako jedna slika vrijedi tisuću riječi, evo dijagrama koji opisuje tokove WoM-a i Meeds-a
+As a picture is worth a thousand words, here is a diagram that describes the WoM and MEED token flows
 
 ![WoM i Meeds tokovi](en/img/wom-flows.png)
 
-Održavanje i održivost svijeta na duge staze osiguravaju se kroz poreze koji se dijele između udruge Meeds i gradova.
+The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds Association and the Cities.
 
 ## 5.2. Koje su prednosti za rane usvajače
 
@@ -24,7 +24,7 @@ Posebno, WoM nagrađuje dugoročna ulaganja u svijetu - to jest, otkup imovine (
 
 By believing in the project, participating in the liquidity pools, staking MEED tokens, redeeming them against Deeds...early investors of all sizes would mint additional tokens. Također bi dobili najranije pravo glasa i pomogli u oblikovanju WoM-a.
 
-Organizacije koje nabavljaju, ali posebno koriste Deeds za angažiranje i nagrađivanje svojih zaposlenika bi dobile nadoknadu u mintanim Meeds-ima. Što će pravednije igrati, to će više dobiti. Rani usvajači bi bili povezani s prvom povijesnom gradovima i kasnije bi ih se identificiralo kao graditelje.
+Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted MEED. Što će pravednije igrati, to će više dobiti. Rani usvajači bi bili povezani s prvom povijesnom gradovima i kasnije bi ih se identificiralo kao graditelje.
 
 Dolje je prikazan primjer Meeds strategije ulaganja za držatelje kapitala:
 
@@ -42,7 +42,7 @@ The official launch of the WoM was **May 1st, 2022** – the International Worke
 
 At that time, the MEED token already existed. Moguće je nabaviti Meed token i bazeni likvidnosti su otvoreni za sudjelovanje na Polygon i Ethereum mrežama.
 
-Tri člana Meeds udruge koriste sustav interno kako bi uključili i nagradili svoje korisnike i poboljšali Meeds softver.
+Three Meeds Association members use the system internally to engage and reward their users and improve the Meeds software.
 
 Investor aplikacija je dostupna na Ethereum Mainnet mreži. Prilikom lansiranja, Investor aplikacija uključuje staking, nagrade za likvidnost, akumuliranje bodova i otkup Deeds-a.
 
@@ -54,7 +54,7 @@ This paper was initially published on the launch day. Nakon lansiranja, token ć
 
 Pokrećemo zajednicu graditelja na Meeds softveru i na Discordu. Zajednica pozdravlja svakoga tko želi sudjelovati u izgradnji WoM-a. Udruga će nagraditi uključenost graditelja Meedsima iz svog marketinškog proračuna.
 
-Udruga također planira uložiti određenu količinu Meeds-a kako bi otkupila (ispravila) Deed za zajednicu graditelja. Zajednica će tada kovati Meeds putem angažmana, kroz Mintium model, i distribuirati ih angažiranim korisnicima.
+The association plans also to stake some MEED in order to acquire (redeem) a Deed for the builders community. The community will then mint MEED by engagement, through the mintium model, and distribute them to engaged users.
 
 ## 5.5. Karta puta i ključni ciljevi
 
@@ -68,7 +68,7 @@ Naša bi cestovna karta slijedila prioritete u nastavku:
 
 Računamo na rane usvajače iz DAO-a i tvrtki s naprednim tehnološkim znanjem tijekom faze izgradnje. Također bismo trebali imati neke rane korisnike iz tradicionalnih tvrtki koje će odmah dobiti vrijednost od WoM-a pružanjem relevantnih programa angažmana svojim ljudima, povrh svojih trenutnih tradicionalnih planova naknada.
 
-Meeds minting will occur over a period of 20 years. Do tog vremena težimo izgradnji zrelog ekosustava koji će se proširiti na mnoge organizacije i mnoge korisnike diljem svijeta.
+MEED minting spans a 20 year period. Do tog vremena težimo izgradnji zrelog ekosustava koji će se proširiti na mnoge organizacije i mnoge korisnike diljem svijeta.
 
 ## 5.6. Što možeš učiniti upravo sada
 
@@ -81,6 +81,6 @@ Meeds minting will occur over a period of 20 years. Do tog vremena težimo izgra
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
 - Pridružite se našoj [Discord](https://discord.com/invite/hAuADSq3) zajednici kako biste bili obaviješteni o najnovijim događajima
-- Pridružite se našoj zajednici [graditelja](https://meeds.io/builders) kako biste testirali Meeds softver, sudjelovali i zaradili neke Meeds nagrade za angažman
+- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some MEED engagement rewards
 
 **\*\*\* The WoM - hajde da zajedno izgradimo ovaj ludi svijet budućnosti. \*\*\***

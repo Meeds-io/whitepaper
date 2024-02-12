@@ -18,9 +18,9 @@ WoM pruža transparentnije i nepromjenjivije sredstvo za stjecanje i demonstraci
 
 Značke se koriste za predstavljanje postignuća unutar zajednice. Nakon što korisnik završi skup ciljeva ili izazova, dodijelit će mu se bodovi. Značke se mogu otključati nakupljanjem određenih količina bodova u određenim kategorijama.
 
-Kada korisnik preuzme bedževe, moguće je uključiti broj bodova i njegov rang u Hubu za to specifično postignuće.
+When the user downloads badges, it is possible to include the number of points and his rank in the Hub for this specific accomplishment.
 
-Vjerodajnice su fleksibilnije od bedževa; mogu biti preporuka kolega, koja ukazuje na godine stručnosti, obuku ili položen ispit ili angažman u prostoru. Njih potpisuje Hub i može ih popratiti potpisom ravnopravnog korisnika.
+Vjerodajnice su fleksibilnije od bedževa; mogu biti preporuka kolega, koja ukazuje na godine stručnosti, obuku ili položen ispit ili angažman u prostoru. The Hub signs these and can be accompanied by a signature by a peer user.
 
 ## 4.3. Digitalni identitet rada
 
@@ -32,7 +32,7 @@ Korisnik će moći izraziti svoj Xeed, bedževe i vjerodajnice prema drugim čvo
 
 Korisnik može imati jedan ili više digitalnih identiteta u radni metaverzum. Kasnije ih može predstaviti na jedinstven način koristeći verificirane prezentacije.
 
-Za razliku od weba 2, korisnik je potpuno vlasnik svojih decentraliziranih identiteta. Potonji može pokazati (i dokazati) zajednice u kojima je sudjelovao, svoje dokazane vještine, svoje tvrde vještine, druge Xeede (ljude) s kojima je radio, svoju digitalnu reprezentaciju sebe... Na pouzdan način sličan LinkedInu 3.0.
+Za razliku od weba 2, korisnik je potpuno vlasnik svojih decentraliziranih identiteta. The latter can show (and prove) the communities he participated in, their proven skills, their claimed skills, the people whom they worked with, and their digital representation of themselves... Na pouzdan način sličan LinkedInu 3.0.
 
 Korisnik će moći odabrati želi li otkriti bilo što, koje informacije pružiti te koje identitete koristiti za svaku poziciju. Sadržaj (dokazana vještina, prethodna čvorišta, itd.) je zaštićen od neovlaštenog mijenjanja i stoga se ne može mijenjati. Svaki identitet bi se morao razvijati tijekom vremena.
 
@@ -58,7 +58,7 @@ Kao što je gore spomenuto, WoM otvara svijet kriptovalute i decentraliziranih w
 
 Uistinu, bilo koji poslovni angažman može potencijalno biti tokeniziran. U stvari, svijet postaje sve više digitalan s trendovima kao što su 5G, IoT, nosivi uređaji i tako dalje. Kao posljedica toga, potencijalno sve više signala bi se moglo uhvatiti i analizirati kako bi se tokenizirao angažman u ne-digitalnim profesijama. Izazovi pružaju spremnu metodu za tokenizaciju predstavljanjem postignuća u fizičkom svijetu.
 
-Svaki korisnik može nabaviti Meeds i koristiti Meeds novčanik za pristup uslugama novog doba bez posebne obuke.
+Any user can get MEED and use a Meeds wallet to get access to new age services without any special training.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Verifiable Credentials Data Model
