@@ -2,9 +2,9 @@
 
 ## Abstrakt
 
-Tänapäeva tööturul puudub tõhusus, sest tehingukulud[^1][^2][^3] on suured ning tööandja ja töötaja vahel on sageli huvide konfliktid.
+Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee. And for this reason, advanced means of financial transactions should be adopted.
 
-WoM (World of Meeds) pakub välja uue paradigma, mis vähendaks tehingukulusid ja leiutaks uuesti töösuhte, ületades lõhe traditsiooniliste ettevõtete ja DAOde vahel.
+WoM (World of Meeds) pakub välja uue paradigma, mis alandaks tehingukulusid ja leiutaks töösuhte uuesti, ületades lõhe traditsiooniliste korporatsioonide ja DAO-de (detsentraliseeritud autonoomsete organisatsioonide) vahel.
 
 WoM teeb seda, võttes kasutusele nii tööandja kui ka töötaja digitaalse identiteedi ning pakkudes uuenduslikku tasustamissüsteemi, mis viiks nende huvid kooskõlla.
 

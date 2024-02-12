@@ -11,7 +11,7 @@ Uss on loodud mitmekesiseks ja kaasavaks platvormiks. See tervitab laia valikut 
 
 ## 2.2. Deeds tarne
 
-WoM tarnib lõppkokkuvõttes piiratud hulga Deedeid. Iga Deed sisaldab ettemääratud maksimaalset kasutajate arvu ja pakub võimsust Meeds tasu (Minting Power). Mõiste "kasutaja" tähistab siin ja edaspidi mis tahes liiki töötajat, töötajat, vabakutselist, vabatahtlikku jne.
+WoM tarnib lõppkokkuvõttes piiratud hulga Deedeid. Each Deed includes a predefined maximum number of users and offers a capacity of rewarding (Minting Power). Mõiste "kasutaja" tähistab siin ja edaspidi mis tahes liiki töötajat, töötajat, vabakutselist, vabatahtlikku jne.
 
 Tegusid on nelja tüüpi, millest igaüks pakub erinevaid võimalusi kasutajate arvu, linnas hääleõiguse (vt 2.7) või vermimisjõu osas, kõige haruldasem on kõige võimsam :
 
@@ -36,7 +36,7 @@ Olles akti Aktiivne omanik või rentnik, on organisatsioonil õigus saada MEED p
 
 Tänapäeva konkurentsiturul püüavad organisatsioonid meelitada ja säilitada tipptalente mitte ainult hüvitise, vaid ka tööalase kaasatuse suurendamise kaudu. WoM tegeleb selle väljakutsega ainulaadse, märgistatud preemiasüsteemiga, mis on kehastatud kogukonna sõlmpunktides.
 
-Nendes jaoturites, kogukonna juhid saavad juhtida liikmete kaasamist, pakkudes tööobjektide jaoks läbipaistvat stiimulite menüüd. Osalejad teenivad oma jõupingutuste eest kaasamispunkte, mis konverteeritakse perioodiliselt VAJADUSMÄRKIDEKS või kohandatud ekvivalendiks vastavalt etteantud eelarvele.
+Nendes jaoturites, kogukonna juhid saavad juhtida liikmete kaasamist, pakkudes tööobjektide jaoks läbipaistvat stiimulite menüüd. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
 
 Kogukonna jaoturid pakuvad tööriistade ja funktsioonide komplekti, mis on loodud kaastöötajate kaasamise suurendamiseks ja haldamiseks:
 
@@ -61,7 +61,7 @@ Kogukonna jaoturid pakuvad tööriistade ja funktsioonide komplekti, mis on lood
 
 ** kaasamine ja preemiad** Aktiivne osalemine keskuses aitab kaasa organisatsiooni globaalsele kaasamise skoorile. See mõõdik peegeldab kaasamisstrateegiate tõhusust, võttes arvesse selliseid tegureid nagu kasutajate aktiivsuse tase ning töö ja hüvede õiglane jaotus. See avalikult auditeeritav skoor annab jaoturitele õiguse jaotada protokollist vermitud VAJADUSMÄRGID, mis on nende kaasamisstrateegiate tõhususe mõõdupuuks.
 
-Tulevikku vaadates on Ussiökosüsteemi kogukonnakeskused muutunud kogukonna elus keskseks, integreerides sisekommunikatsiooni, reaalajas suhtlemist, juhtimist ja erinevaid tootlikkuse tööriistu. Need täiustused tagavad, et jaoturid on endiselt ühendatud parimate tööriistadega, mida organisatsioonid juba kasutavad. Need on võimas tunnistus vajaduste pühendumusest elujõulise ja kaasatud kogukonna edendamisele.
+Tulevikku vaadates on Ussiökosüsteemi kogukonnakeskused muutunud kogukonna elus keskseks, integreerides sisekommunikatsiooni, reaalajas suhtlemist, juhtimist ja erinevaid tootlikkuse tööriistu. Need täiustused tagavad, et jaoturid on endiselt ühendatud parimate tööriistadega, mida organisatsioonid juba kasutavad. Need on võimas tunnistus Meedsi pühendumisest elava ja kaasatud kogukonna edendamisele.
 
 
 ## 2.5. Rahuldust Mudel
@@ -80,7 +80,7 @@ Dengan melibatkan pengguna mereka dalam WoM, komunitas mendapatkan kompensasi me
 
 Keskuste kasutajate poolt kogutud kaasamispunktid osalevad ülemaailmses kaasamisindeksis, mille arvutab Meeds Assotsiatsioon. Indeks kasutab sama põhimõtet kõigi sõlmpunktide puhul. Kuigi kogukond võib muuta punktide jaotust, et soodustada ühte meedet teise asemel, ei võeta neid muudatusi arvesse üldindeksi arvutamisel.
 
-Igal nädalal eraldatakse teatav kogus Meedsi vahendeid WoMi ülemaailmseks tegevuseks. See arvutatakse iganädalaselt proportsionaalselt osalevate keskuste vahel. Mõned sõlmpunktid saavad lisatõuke sõltuvalt kasutatava teo tüübist. Keskused, kes nõuavad nädala jooksul oma Meedid, saavad need kätte. Nõudmata jäänud meediumid lisatakse järgmise nädala üldisele jaotussummale.
+Each week, a certain amount of MEED is allocated to the global engagement minting of the WoM. See arvutatakse iganädalaselt proportsionaalselt osalevate keskuste vahel. Mõned sõlmpunktid saavad lisatõuke sõltuvalt kasutatava teo tüübist. The Hubs that claim their MEED tokens over the week, receive them. The unclaimed MEED tokens are added to the following week’s global distribution amount.
 
 Deed'i kaasamise skoor _S_ on funktsioon kaasamisest, kaasatud kasutajate arvust ja jaotusest :
 
@@ -92,12 +92,12 @@ Kus :
 - $U$ = _Engaged users_ - kasutajad, kes panustasid nädala jooksul vähemalt ühe tegevusega punktide kogumisse.
 - $E_d$ = _Jaoturi kaasamismäär_ – toimingud kasutaja kohta ($A/U$)
 - $E_w$ = kõigi WoM-i aktiivsete jaoturite _keskmine kaasamismäär_.
-- $D_r$ = _Levitamismäär_ – kui jaotur sai eelmisel perioodil vermitud Meede, siis selle kasutajatele jagatud Meedide %. Protsent võib olla üle 100, kui jaotamine on ajaliselt hilinenud.
-- $D_s$ = _Levitusvahe_ – kui jaotur sai eelmisel perioodil vermitud Meede, siis Meedi saanud kasutajate % kasutajate koguarvust.
+- $D_r$ = _Distribution rate_ - if a Hub received minted MEED for the preceding period, the % of MEED that was distributed to its users. Protsent võib olla üle 100, kui jaotamine on ajaliselt hilinenud.
+- $D_s$ =  _Distribution spread_ - if a Hub received minted MEED tokens for the preceding period, the % of the users that received MEED in the total pool of users.
 - $M$ = _Minting Power_ Deed, nagu on määratletud punktis 2.3
 
 
-Üldine kaasamisindeks, mida kasutatakse vermitud Meedide jaotamiseks jaotuskeskuste vahel, on kõigi jaotuskeskuste nädala kaasamispunktide summa.
+The global engagement index used to distribute minted MEED among the Hubs is the sum of all Hubs’ weekly engagement scores.
 
 
 Ülaltoodud valem on lihtne ja mõeldud sõlmpunktide eelistamiseks:
@@ -110,9 +110,9 @@ Lisaks on võimendajad olemas :
 - organisatsioonid, mille kaasatus on suurim, sõltumata nende suurusest (kaasatuse määr võrreldes WoMiga)
 - haruldasemad deedid
 
-> Meedsi ühing jätab endale õiguse muuta valemit, kui see on vajalik - näiteks kui tekib mõni konkreetne kasutusjuhtum. Ühing võib ka musta nimekirja panna mis tahes keskuse, mis kaaperdab valemit oma ainuüksi kasuks.
+> The Meeds Association reserves the right to change the formula if required – if some specific use cases arise, for instance. Ühing võib ka musta nimekirja panna mis tahes keskuse, mis kaaperdab valemit oma ainuüksi kasuks.
 
-Kuna keskusi premeeritakse Meediga ja motiveeritakse neid oma kasutajatele preemiatena ümber jagama nende kaasamise eest - nii kogukondade kui ka nende kasutajate huvid on joondatud ühte ja samasse tulude jagamise tsüklisse. Seega pakub WoM uut töömudelit, mis kujundab tööandja ja töötaja suhte ümber partnerluseks.
+As the Hubs are rewarded with MEED and incentivized to redistribute them as rewards to their users against their engagement – the interests of both the communities and their users are aligned in the same virtuous revenue-sharing cycle. Seega pakub WoM uut töömudelit, mis kujundab tööandja ja töötaja suhte ümber partnerluseks.
 
 "Mintiumi" mudel on esimene omataoline - see läheb traditsioonilisest freemium-mudelist kaugemale, sest mitte ainult teenuste kasutamine ei ole tasuta, vaid nii organisatsioonid kui ka nende kasutajad saavad nende kasutamise eest tasu.
 
@@ -136,7 +136,7 @@ Linn on viis, kuidas kogukonnad saavad kokku ja loovad suurema kogukonna. Ja sel
 
 Igal linnal on oma valitsus ja tal on oma DAO, kus linna Deed'i omanikud saavad valida oma linnavolikogu, hääletada ja kehtestada oma tegevuseeskirjad, lisada uusi teenuseid ja kujundada oma linna nii, nagu nad soovivad, et suurendada linna atraktiivsust ja sellega seotud Deed'ide väärtust.
 
-Näiteks võiksid nad lisada oma linna digitaalse esinduse, füüsilisi vasteid, mis on seotud nende linnaga (näiteks koosolekuruumid füüsilistes co-working ruumides), lisada Meedsi toiduteenuseid, puhkuseteenuseid jne...
+For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add food services, vacations services, etc...
 
 Vaikimisi (kui linn ei hääleta teisiti) "maksustab" linn (5%) ja assotsiatsioon (3%) passiivset tulu, mis saadakse Deeds'i väljaüürimisest, et soodustada tootlikku kasutamist.
 

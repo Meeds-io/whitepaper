@@ -1,85 +1,82 @@
-# 3. توکن Meeds – واحد پول WoM
+# 3. توکن MEED-ارز WoM
 
-The WoM is powered by its currency – the Meeds (MEED) token. Meeds برای پاداش دادن به کاربران (از طریق برنامه‌های تعامل)، خرید در فروشگاه‌ها، دریافت اسناد، دریافت بازده مالی سرمایه‌گذاری‌ها و غیره استفاده می‌شود.
+The MEED token (pronounced "Meeds") is the currency that powers the WoM. Users are rewarded with MEED (through engagement programs), purchase in stores, get Deeds, get financial returns on investments, and more.
 
 ## 3.1. توکنومیکس
 
-Meeds **حداکثر عرضه به 100 میلیون توکن محدود شده است** که به تدریج ساخته می شود. **نیازها با نرخ 10 NEED در دقیقه برآورد می شوند**. بنابراین، افق کامل ضرب نزدیک به 20 سال است (زیرا حدود 10*60*24*365 = 5 میلیون دلار Meeds در سال ضرب می شود).
+حداکثر عرضه MEED به 100 میلیون توکن محدود می شود</strong> ، به تدریج ضرب می شود.
 
-5 میلیون Meeds (5٪ از کل عرضه) در ابتدا از پیش ضرب شد. از این تعداد، 4.5 میلیون نفر در یک قرارداد خزانه دار با تسلیحات خطی در طول 4 سال قفل شده اند. مبلغ از پیش تعیین شده عمدتاً برای به دست آوردن IP نرم افزار، پرداخت هزینه های قانونی انتشار توکن و خدمات میزبان استفاده شد.
+The Meeds Association has minted 5 Million MEED (5% of the total supply) at the start to acquire software IP from the funding members, pay for token emission legal fees, and hosting services. بعد ، 4.5 ميليون دلار در قرارداد خزانه با يه جايگاه خطي در طول چهار سال قفل شد.
 
-مابقی بخشی از __وجوه Meeds DAO__ است و برای پرداخت خدمات و راه اندازی مشوق هایی مانند airdrops و کمپین های ارجاع استفاده می شود.
+از آن زمان ، یک قرارداد هوشمند به نام **TokenFactory **ضرب توکن های جدید **را با سرعت ثابت</strong> انجام می دهد.
 
+نرخ ضرب یک پارامتر از کارخانه توکن است که در *10 مت در دقیقه* در ابتدا تنظیم شده است. رای DAO ممکن است این نرخ را در آینده تغییر دهد. با این سرعت ، کارخانه توکن سالانه حدود 5 میلیون MEED تولید می کند(10*60*24*365); بنابراین ، افق ضرب تقریبا 20 سال است.
 
 ## 3.2. تخصیص ضرب
 
-مواد معدنی برای تشویق سه دسته از ذینفعان - کاربران، سازندگان و سرمایه گذاران - تخصیص داده می شود:
+کارخانه توکن همچنین تخصیص توکن های نیاز ضرب شده را به سه دسته از ذینفعان تعیین می کند :
 
-- The users (users and Deed holders/renters) get Meeds through engagement rewards (mintium model).
-- سازندگان (اعضای انجمن و جامعه) Meeds را از طریق بودجه انجمن برای ساخت، راه اندازی و بهبود WoM دریافت می کنند.
-- سرمایه‌گذاران Meeds را از طریق اجاره و خرید استخرهای نقدینگی و سهام‌داری Meeds می‌سازند.
+- < < 0>سازندگان< / 0>: مشارکت کنندگان نیازهای DAO که به ساخت و اجرای کرم کمک می کنند
+- < < 0 > کاربران< / 0>: اعضای تمام جوامع زنان MEED را به عنوان پاداش برای کمک های خود کسب می کنند
+- سرمایه گذاران: نیازهای DAO صاحبان توکن های MEED را تشویق می کند تا من را به خطر بیندازند یا نقدینگی را برای اقتصاد نیازهای فراهم کنند
 
-در ابتدا سازندگان 30 درصد از تخصیص را دریافت می کنند. 70 درصد بین کاربران و سرمایه گذاران تقسیم می شود. این نسبت تخصیص به طور منظم از طریق رأی انجمن Meeds DAO مورد بررسی قرار خواهد گرفت.
+هر دسته از ذینفعان سهم از عرضه نیاز را دریافت می کنند که مشمول رای DAO است.
 
-## 3.3. کاربران - از طریق تعامل
+## 3.3. کاربران
 
-بخشی از Meeds که به طور مداوم ضرب می شود به کانال ضربات نامزدی اختصاص می یابد. توزیع به صورت هفتگی انجام می شود. At any given week end, the engagement index is calculated so that Hubs leaders and Deed owners can claim their rewards the following week and get their Meeds. Meeds Unclaimed در صندوق می ماند و به توزیع هفته بعد اضافه می شود. مدل به طور مفصل در فصل قبل توضیح داده شده است (قسمت 2.6).
+بخشی از توکن های MEED به طور مداوم ضرب شده برای حمایت از تعامل کاربر از طریق حداقل مدل (نگاه کنید به 2.6) اختصاص داده شده است. یک شاخص مشارکت جهانی به طور دوره ای در تمام مراکز رحم محاسبه می شود تا پاداش های مورد نیاز را به مراکز اختصاص دهد. حداقل پاداش ها توسط رهبران مرکز و صاحبان سند قابل مطالبه است.
 
-## 3.4. سازندگان - انجمن Meeds DAO و جامعه سازندگان
+## 3.4. سازندگان
 
-WoM و توکن Meeds توسط انجمن غیرانتفاعی Meeds DAO که در بالا معرفی شد اداره می شوند. یک قرارداد چندجانبه به نام _Meeds DAO Funds_ برای مدیریت هزینه‌های عملیاتی انجمن استفاده می‌شود.
+نیاز DAO عامل کرم و نیاز به توکن عرضه. یک قرارداد هوشمند multisig به نام < 0>Meeds Dao Funds < / 0> هزینه های عملیاتی را مدیریت می کند. It receives **30% of the minted MEED** to support Builders.
 
-در طول دوره ضرب، **30٪ از نیازهای ضرب شده به نیازهای مرتبط اختصاص داده می شود**.
+The Meeds Association is entitled to hire service provider companies on behalf of the Meeds DAO to cover legal fees, development, and hosting costs using the Meeds DAO Funds.
 
-اعضای انجمن می توانند بر اساس کنوانسیون خدمات امضا شده ای که نرخ روز انسان را تعیین می کند، به انجمن خدمات ارائه دهند. خدمات ماهانه در Meeds بر اساس قیمت بازار پرداخت می شود. نمونه‌هایی از خدمات عبارتند از – غنی‌سازی نرم‌افزار Needs، توسعه برنامه WoM، توسعه اتصال‌دهنده‌های جدید، بهره‌برداری از سرویس ابری، ارائه خدمات مالی و حقوقی و غیره.
+Organizations and individuals not members of the Meeds Association may still contribute through the _Meeds Builders Hub_  - a community hub that welcomes enthusiasts who want to participate in creating and promoting the WoM. The <0>Meeds DAO Funds</0> also reward for contributions to the Builders Hub.
 
-Without being a member, any organization can participate in the creation of a new connector and be rewarded for doing so – first through the Meeds association acquiring the connector and then by minting through this connector.
+مرکز سازندگان نیز مانند هر مرکز دیگر حداقل پاداش دریافت می کند.
 
-The association operates its own community hub named the _Meeds Builders Hub_ that welcomes enthusiasts, who want to contribute to the creation of the WoM. The association sponsors the community out of its budget, compensating the engagement of community members.
-
-Thus, the builders' hub functions as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. The association stakes Meeds in order to redeem a Deed for its community. Thus, the Builder's Hub also benefits in the engagement minting like any other Hub backed by a Deed.
-
-پس از اتمام دوره ضرب، انجمن توسط:
+پس از پایان دوره ضرب ، هزینه های عملیاتی نیازهای DAO توسط :
 
 - مالیات بر درآمد غیرفعال (3٪ در اجاره نامه)
 - مالیات بر درآمد فروش (2.5٪ از فروش اسناد)
 - درک کارمزد تراکنش در استفاده از فروشگاه‌های مزایا
 - به عنوان یک تامین کننده استخر نقدینگی عمل می کند
-- perceiving transaction fees when a Hub distributes non Meeds tokens via WoM services.
-- با اجرای اسنادی که انجمن در طول زمان تنظیم کرد.
+- درک هزینه های معامله زمانی که یک مرکز توکن های جایگزین را در مراکز خود توزیع می کند
+- اجاره و فروش سندهایی که داو با گذشت زمان ضرب کرد.
 
 
 ## 3.5. سرمایه گذاران
 
-سرمایه گذاران با تامین نقدینگی و با به اشتراک گذاشتن Meeds و در نتیجه تثبیت سطح قیمت آن در طول دوره ساخت، به ایجاد WoM کمک می کنند. هر دو از طریق ضرب زنی تشویق می شوند.
+سرمایه گذاران با ارائه نقدینگی و دنبال کردن توکن های من از زنان حمایت می کنند که به تثبیت سطح قیمت در مرحله ساخت کمک می کند. انگیزه هایی برای هر دو وجود دارد:
 
-**ارائه دهندگان نقدینگی** مدیریت نقدینگی ارز کلید موفقیت پروژه است و چندین استراتژی DeFi برای بهینه سازی کارایی سرمایه استفاده خواهد شد. ما با مشوق هایی برای به اشتراک گذاشتن توکن های MeedS/ETH LP شروع خواهیم کرد و به تدریج اوراق قرضه را برای حرکت به سمت نقدینگی متعلق به پروتکل معرفی خواهیم کرد. مورد دوم به پایداری بلند مدت انجمن کمک می کند - همانطور که در بالا ذکر شد، هزینه های تراکنش هزینه های عملیاتی انجمن مانند میزبانی ابری را تامین می کند.
+< 0>ارائه دهندگان نقدینگی< / 0> مدیریت نقدینگی ارز برای موفقیت پروژه بسیار مهم است. نیازهای DAO از مکانیسم های مختلف DeFi برای بهینه سازی بهره وری سرمایه خود استفاده می کند. به عنوان مثال ، انگیزه ها به ارائه دهندگان نقدینگی اجازه می دهد تا با اجاره توکن های LP خود ، محصولات خود را پرورش دهند. همچنین ، برنامه هایی برای معرفی اوراق قرضه و حرکت به سمت نقدینگی متعلق به پروتکل به تدریج وجود دارد. این پروژه به پایداری بلند مدت پروژه کمک خواهد کرد-همانطور که در بالا ذکر شد ، هزینه های معامله هزینه های عملیاتی را تامین خواهد کرد.
 
-هر عضو همچنین حق دارد مستقیماً مقدار زیادی Meeds را با تخفیف خریداری کند. مبلغ سیم‌کشی شده به حساب ارتباطی به ETH تبدیل می‌شود و به همراه ارزش معادل Meeds به استخر نقدینگی اضافه می‌شود.
+علاوه بر این ، به نمایندگی از Needs DAO ، انجمن Needs حق دارد خرید OTC (از قفسه) مقادیر گسترده تری از توکن های MEED را تسهیل کند.
 
-**سرمایه گذاری بلندمدت / سرمایه گذاری** برای تشویق سرمایه‌گذاری بلندمدت، به Meedهای سهامدار پاداش داده می‌شود. هنگامی که Needs شرط بندی می شود، استاکر تعدادی توکن xMas دریافت می کند. Meedهای تازه ضرب شده به تناسب دارایی xMeeds بین سهامداران توزیع می شود. در عمل، Meeds ساخته شده به طور موثر به دارایی های قرارداد هوشمند xMeeds اضافه می شود و در صورت لغو سهام، بین دارنده xMeeds توزیع می شود.
+**Staking / long-term investment** Meeds DAO rewards loyal investors who want to support Meeds long-term. هر کسی می تواند نشانه های نیاز استفاده نشده خود را برای کسب بازده و نشانه های xMEED به خطر بیندازد.
 
-By staking Meeds, investors can also redeem Deed NFTs (and then participate in minting through engagement), hence increasing the token demand. هر Meeds شرط بندی شده (xMeeds) به صاحب خود تعدادی امتیاز در روز اعطا می کند. هرچه مدت زمان طولانی‌تر باشد، تعداد امتیازهای به‌دست‌آمده در هر xMeeds بیشتر می‌شود. سپس هر سند در ازای تعدادی امتیاز بازخرید می شود.
+نتیجه های شرط بندی در ضرب توکن های کریسمس به نسبت توکن های مورد نیاز سپرده شده است. توکن کریسمس توکن مدیریت Meeds است که برای رای دادن در مورد پیشنهادات DAO استفاده می شود.
 
-امتیازها با استفاده از فرمول زیر محاسبه می شوند:
+علاوه بر این ، دارندگان xMEED امتیاز نصب را کسب می کنند که به آنها حق می دهد Nfs mint Deed را دریافت کنند. این مکانیزم تقاضای توکن های MEED را افزایش می دهد. امتیاز ضرب در طول زمان افزایش می یابد تا زمانی که ذینفع سهم خود را حفظ کند. فرمول زیر به شما اجازه می دهد تا نقاط معدن را محاسبه کنید :
 
- $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
+ $$ P = xMEED / (xMEED + 12000) * T / 240 $$
 
- جایی که :
+ Where:
 
-- $xMeeds$: تعادل xMeeds بدون اعشار
-- $T$ : زمان سپری شده بر حسب میلی ثانیه
+- balance meed balance: تعادل meed بدون اعشاری
+- زمان در میلی ثانیه گذشت
 
-این فرمول از طرفداری صاحبان بزرگ به منظور توزیع کارآمدتر و عادلانه تر اسناد جلوگیری می کند. به عنوان مثال، فرمول نرخ های زیر را می دهد:
+The formula avoids favoring large holders to distribute Deeds more efficiently and equitably. به عنوان مثال، فرمول نرخ های زیر را می دهد:
 
-| **اندازه نگهدارنده** | **هلدینگ ها**  | **نرخ تعهدی**     |
-| -------------------- | -------------- | ----------------- |
-| کم اهمیت             | 1 000 xMeeds   | 28 امتیاز در روز  |
-| متوسط                | 10 000 xMeeds  | 164 امتیاز در روز |
-| بزرگ                 | 100 000 xMeeds | 321 امتیاز در روز |
+| **اندازه نگهدارنده** | **هلدینگ ها** | **نرخ تعهدی**     |
+| -------------------- | ------------- | ----------------- |
+| کم اهمیت             | 1 000 xMEED   | 28 امتیاز در روز  |
+| متوسط                | 10 000 xMEED  | 164 امتیاز در روز |
+| بزرگ                 | 100 000 xMEED | 321 امتیاز در روز |
 
 
-که منجر به زمان نگهداری زیر برای هر دسته از دارندگان می شود:
+These accrue rates lead to the following holding time for each class of holder :
 
 | **نوع کارت** | **هزینه**     | **نگهدارنده بزرگ** | **نگهدارنده متوسط** | **نگهدارنده کوچک** |
 | ------------ | ------------- | ------------------ | ------------------- | ------------------ |
@@ -90,20 +87,20 @@ By staking Meeds, investors can also redeem Deed NFTs (and then participate in m
 
 ## 3.6. حاکمیت ds DAO
 
-دارندگان توکن Meeds برای رای دادن به تصمیمات Meeds DAO مانند مدیریت بودجه استخراج یا انتخاب اعضای هیئت مدیره DAO (حکمیت سالانه) باید توکن‌هایی را به اشتراک بگذارند.
+xMEED token holders can freely participate in the governance of the Meeds DAO by voting with their tokens on decisions such as managing the budget allocation or electing DAO board members.
 
 ## 3.7. خدمات کاربر مالی غیرمتمرکز (DeFi).
 
 The WoM will introduce the blockchain world to many people who do not use it today.
 
-در واقع، هر کاری (چه دیجیتال و چه غیر دیجیتال) را می توان بازی کرد و هر تعاملی را - با Meeds پاداش داد. Meeds از طریق یک کیف پول ساده و مبتنی بر بلاک چین که هر پیچیدگی دنیای رمزنگاری را برای یک کاربر معمولی "انتزاعی" می کند، در دسترس کاربران قرار می گیرد.
+Indeed, Meeds software can gamify and set a monetary value on any contribution (whether it is digital or not) and reward it with MEED tokens. This has be made possible by an easy-to-use, blockchain-based wallet app that simplifies access to the crypto world for an average user, rewards are tangible.
 
-فراتر از کیف پول و فروشگاهی که در آن می‌توانند هدیه‌هایی را برای Meeds خریداری کنند، ما قصد داریم به هر کاربر چندین محصول نهایی که توسط پروتکل‌های مالی غیرمتمرکز ارائه می‌شوند، معرفی کنیم، مانند:
+Beyond the wallet and a store where they can purchase perks for MEED tokens, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
 
 - The ability to stake MEED tokens and get yields (generate revenues)
-- The ability to use MEED tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
-- کارت دیجیتالی که می تواند از طریق Apple Pay، Google pay یا هر دستگاه خودپرداز اضافه و استفاده شود. دومی می تواند از طریق مشارکت با VISA ارائه شود و از یک خط اعتباری در USDC استفاده می کند که توسط Meeds سهامدار تضمین می شود. این کارت همچنین می تواند توسط سازمان ها برای تامین مالی کیف پول کارکنان به منظور مدیریت مزایای کارکنان مانند رستوران ها، حمل و نقل و هر نوع هزینه استفاده شود.
+- The ability to use MEED tokens as collateral to borrow stablecoins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the MEED token to [AAVE](https://aave.com/).
+- A digital card can be added and used through Apple Pay, Google Pay, or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by xMEED. Organizations could also use this card to fund employee wallets to manage employee benefits such as restaurants, transportation, and other expenses.
 
-بنابراین نه تنها بسیاری از کاربران جدید دنیای بلاک چین را کشف خواهند کرد، بلکه دنیای بدون بانک را نیز کشف خواهند کرد.
+So, not only will many new users discover the blockchain world, but they will also discover a bankless world.
 
  
