@@ -1,23 +1,23 @@
 
-# 2. Deeds - The Properties of the WoM
+# 2. Mga Gawa - Ang Mga Katangian ng WoM
 
 ## 2.1. Deed NFTs
 
-In the digital realm, Non-Fungible Tokens (NFTs) serve a similar purpose to deeds in the physical world. Like a deed that confirms ownership of tangible property, NFTs establish indisputable ownership of digital assets. This ownership is securely recorded on a blockchain, ensuring that each asset is unique and non-replicable.
+Sa digital realm, ang Non-Fungible Token (NFTs) ay nagsisilbi ng katulad na layunin sa mga gawa sa pisikal na mundo. Tulad ng isang gawa na nagkukumpirma ng pagmamay-ari ng tangible property, ang mga NFT ay nagtatatag ng hindi mapag-aalinlanganang pagmamay-ari ng mga digital na asset. Ang pagmamay-ari na ito ay ligtas na naitala sa isang blockchain, na tinitiyak na ang bawat asset ay natatangi at hindi maaaring kopyahin.
 
-Within the WoM, a Deed is conceptualized as an NFT, representing the foundational unit of ownership. Holding a Deed empowers its owner to manage a Community Hub and makes them eligible for receiving Mintium rewards, a form of recognition and incentive within the WoM ecosystem (further details in section 2.6).
+Sa loob ng WoM, ang isang Deed ay nakonsepto bilang isang NFT, na kumakatawan sa pangunahing yunit ng pagmamay-ari. Ang paghawak ng isang Deed ay nagbibigay ng kapangyarihan sa may-ari nito na pamahalaan ang isang Community Hub at ginagawa silang karapat-dapat para sa pagtanggap ng mga reward sa Mintium, isang paraan ng pagkilala at insentibo sa loob ng WoM ecosystem (karagdagang mga detalye sa seksyon 2.6).
 
-The WoM is designed to be a diverse and inclusive platform. It welcomes a wide array of organizations, from DAOs, traditional businesses, and associations to think tanks, theater companies, project groups, and educational institutions. In this digital landscape, a Deed symbolizes the organization's digital presence and footprint in WoM, functioning as a bridge between their real-world operations and their digital endeavors.
+Ang WoM ay idinisenyo upang maging isang magkakaibang at inclusive platform. Tinatanggap nito ang malawak na hanay ng mga organisasyon, mula sa mga DAO, tradisyonal na negosyo, at asosasyon hanggang sa mga think tank, kumpanya ng teatro, grupo ng proyekto, at institusyong pang-edukasyon. Sa digital landscape na ito, ang isang Deed ay sumasagisag sa digital presence at footprint ng organisasyon sa WoM, na gumagana bilang tulay sa pagitan ng kanilang mga operasyon sa totoong mundo at ng kanilang mga digital na pagsusumikap.
 
 ## 2.2. Deeds supply
 
-Ang WoM sa huli ay magbibigay ng limitadong halaga ng Mga Gawa. Ang bawat Deed ay may kasamang paunang natukoy na maximum na bilang ng mga user at nag-aalok ng kapasidad ng Meeds rewarding (Minting Power). Ang terminong 'gumagamit' dito at pagkatapos ay tumutukoy sa anumang uri ng empleyado, manggagawa, freelancer, boluntaryo atbp.
+Ang WoM sa huli ay magbibigay ng limitadong halaga ng Mga Gawa. Bawat Gawain ay mayroong itinakdang maximum na bilang ng mga user at nag-aalok ng kapasidad sa pagbibigay ng Meeds rewarding (Minting Power). Ang terminong 'gumagamit' dito at pagkatapos ay tumutukoy sa anumang uri ng empleyado, manggagawa, freelancer, boluntaryo atbp.
 
-There are four types of Deeds, each providing different capabilities in terms of number of users, voting rights in a city (see 2.7) or minting power, the rarest being the most powerful :
+May apat na uri ng Deeds, bawat isa ay nagbibigay ng iba't ibang mga kakayahan sa mga tuntunin ng bilang ng mga gumagamit, mga karapatan sa pagboto sa isang lungsod (tingnan ang 2.7) o kapangyarihan sa paggawa, ang pinakabihirang ay ang pinakamakapangyarihan :
 
 | **Uri ng Gawain** | **Maximum na bilang ng mga user** | **Kapangyarihan ng pagmimina** | **Kakauntian** | **Mga karapatang bumoto sa lungsod** |
 | ----------------- | --------------------------------- | ------------------------------ | -------------- | ------------------------------------ |
-| Karaniwan         | 100                               | 1                              | ~ 90%          | isá                                  |
+| Karaniwan         | 100                               | 1                              | ~ 90%          | 1                                    |
 | Hindi karaniwan   | 1000                              | 1.1                            | ~ 9%           | 10                                   |
 | Biyaya            | 10 000                            | 1.3                            | ~ 1%           | 100                                  |
 | Alamat            | walang hanggan                    | 2                              | < 0.1 %        | 1000                                 |
@@ -26,17 +26,17 @@ There are four types of Deeds, each providing different capabilities in terms of
 
 Ang Titulo ay nagbibigay ng karapatan sa may-ari na GAMITIN ito, UPAHAN ito, o IPAGBILI ito.
 
-- USE – The owner can use the Deed to run a hub for his own organization.
-- RENT - The owner can also rent the Deed to another organization and earn passive income.
-- SELL - The owner can sell it on a secondary NFT marketplace such as [OpenSea](https://opensea.io).
+- PAGGAMIT – Maaaring gamitin ng may-ari ang Deed para magpatakbo ng hub para sa sarili niyang organisasyon.
+- RENT - Ang may-ari ay maaari ding magrenta ng Deed sa ibang organisasyon at kumita ng passive income.
+- SELL - Maaaring ibenta ito ng may-ari sa pangalawang NFT marketplace gaya ng [OpenSea](https://opensea.io).
 
-Being an active holder or renter of a Deed, the organization is entitled to MEED rewards according to the “mintium” model described below (see 2.6).
+Bilang isang aktibong may-ari o umuupa ng isang Deed, ang organisasyon ay may karapatan sa mga reward ng MEED ayon sa modelong "mintium" na inilarawan sa ibaba (tingnan ang 2.6).
 
-## 2.4. Community Hubs
+## 2.4. Mga Hub ng Komunidad
 
-In today's competitive market, organizations seek to attract and retain top talent not only through compensation but also by enhancing work engagement. The WoM addresses this challenge with a unique, tokenized reward system embodied in Community Hubs.
+Sa mapagkumpitensyang merkado ngayon, hinahangad ng mga organisasyon na maakit at mapanatili ang nangungunang talento hindi lamang sa pamamagitan ng kompensasyon kundi pati na rin sa pamamagitan ng pagpapahusay ng pakikipag-ugnayan sa trabaho. Tinutugunan ng WoM ang hamon na ito gamit ang isang natatanging, tokenized reward system na nakapaloob sa Community Hubs.
 
-Sa loob ng mga Hub na ito, ang mga pinuno ng komunidad ay maaaring humimok ng pakikipag-ugnayan ng mga miyembro sa pamamagitan ng pag-aalok ng isang transparent na menu ng mga insentibo para sa mga item sa trabaho. Ang mga kalahok ay nakakakuha ng mga punto ng pakikipag-ugnayan para sa kanilang mga pagsisikap, na pana-panahong kino-convert sa mga token ng MEED o isang custom na katumbas, alinsunod sa isang paunang natukoy na badyet.
+Sa loob ng mga Hub na ito, ang mga pinuno ng komunidad ay maaaring humimok ng pakikipag-ugnayan ng mga miyembro sa pamamagitan ng pag-aalok ng isang transparent na menu ng mga insentibo para sa mga item sa trabaho. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
 
 Nag-aalok ang Community Hubs ng hanay ng mga tool at feature na idinisenyo upang palakasin at pamahalaan ang pakikipag-ugnayan ng contributor:
 
@@ -70,9 +70,9 @@ Sa WoM, ang pakikipag-ugnayan ng user sa iba't ibang aktibidad sa trabaho ay bin
 
 Halimbawa, ang isang kumpanya ng IT ay maaaring magbigay ng 10 puntos para sa coding sa GitHub, samantalang ang isang digital na ahensya ay maaaring maglagay ng mas mataas na halaga sa pakikipag-ugnayan sa social media, tulad ng mga retweet, na may mga katulad na puntos.
 
-Ang mga regular na pamamahagi ng mga reward ay nakabatay sa mga puntos na naipon sa bawat Hub. Karaniwan, ang mga ito ay ibinibigay sa mga token ng MEED, na direktang inihahatid sa mga wallet ng mga user. While MEED tokens are the standard form of reward, Hubs have the flexibility to offer different types of compensation.
+Ang mga regular na pamamahagi ng mga reward ay nakabatay sa mga puntos na naipon sa bawat Hub. Karaniwan, ang mga ito ay ibinibigay sa mga token ng MEED, na direktang inihahatid sa mga wallet ng mga user. Habang ang mga token ng MEED ay ang karaniwang anyo ng reward, ang Hubs ay may kakayahang umangkop upang mag-alok ng iba't ibang uri ng kabayaran.
 
-When rewards are distributed in tokens other than MEED, a nominal fee of 5% is applied. This fee contributes to the Meeds treasury, playing a crucial role in maintaining the sustainability of the ecosystem.
+When rewards are distributed in tokens other than MEED, a nominal fee of 5% is applied. Ang bayad na ito ay nag-aambag sa treasury ng Meeds, na gumaganap ng isang mahalagang papel sa pagpapanatili ng sustainability ng ecosystem.
 
 ## 2.6. Ang modelo ng "mintium" - tokenisasyon ng pakikilahok sa trabaho
 
@@ -80,7 +80,7 @@ Sa pamamagitan ng pakikipag-ugnayan sa kanilang mga user sa WoM, nababayaran ang
 
 Ang mga punto ng pakikipag-ugnayan, na nakuha ng mga user ng Hubs, ay lumalahok sa pandaigdigang index ng pakikipag-ugnayan, na kinakalkula ng Meeds Association. Ang index ay gumagamit ng parehong prinsipyo para sa lahat ng Hubs. Kahit na maaaring baguhin ng komunidad ang paglalaan ng mga puntos upang i-promote ang isang aksyon sa isa pa, ang mga pagbabagong iyon ay hindi isasaalang-alang sa pandaigdigang index computation.
 
-Tuwing linggo, may tiyak na halaga ng Meeds na inilaan para sa global engagement minting ng WoM. Ito ay kinukuwenta linggu-linggo, pro-rata, kasama ng mga kalahok na Hub. Ang ilang Hub ay nakakakuha ng karagdagang tulong depende sa uri ng Deed na ginagamit nila. Ang mga Hub na nag-claim ng kanilang Meeds sa buong linggo, ay tumatanggap sa kanila. Ang mga hindi nakuha na Meeds ay idinadagdag sa halaga ng global na pamamahagi sa susunod na linggo.
+Bawat linggo, mayroong tiyak na halaga ng Meeds na inilaan para sa global engagement minting ng WoM. Ito ay kinukuwenta linggu-linggo, pro-rata, kasama ng mga kalahok na Hub. Ang ilang Hub ay nakakakuha ng karagdagang tulong depende sa uri ng Deed na ginagamit nila. Ang mga Hub na nag-claim ng kanilang Meeds sa buong linggo, ay tumatanggap sa kanila. Ang mga hindi nakuha na Meeds ay idinadagdag sa halaga ng global na pamamahagi sa susunod na linggo.
 
 Ang engagement score _S_  Ang tagumpay ng isang gawain ay depende sa pakikipag-ugnayan, bilang ng mga gumagamit na nakilahok at ang pagpapamahagi nito :
 
@@ -88,7 +88,7 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Sa'n:
 
-- $A$ = _Aktibidad_ - kabuuang bilang ng mga pagkilos na naipon ng mga user sa loob ng Hub sa loob ng linggo. (On a Hub, each user action is converted into engagement points, some actions weighting more than others. Sa antas ng index, lahat ng mga aksyon ay linearized).
+- $A$ = _Aktibidad_ - kabuuang bilang ng mga pagkilos na naipon ng mga user sa loob ng Hub sa loob ng linggo. (Sa isang Hub, ang bawat pagkilos ng user ay kino-convert sa mga punto ng pakikipag-ugnayan, ang ilang pagkilos ay mas tumitimbang kaysa sa iba. Sa antas ng index, lahat ng mga aksyon ay linearized).
 - $U$ = _Aktibong mga gumagamit_ - Mga gumagamit na nakatulong sa mga puntos sa loob ng linggo, sa pamamagitan ng hindi bababa sa isang aksyon.
 - $E_d$ = _Rate ng pakikipag-ugnayan ng hub_ - mga pagkilos bawat user ($A/U$)
 - $E_w$ = _Average na rate ng pakikipag-ugnayan_ ng lahat ng aktibong Hub sa WoM.
@@ -97,7 +97,7 @@ Sa'n:
 - $M$ = _Minting Power_ ng gawa na tinukoy sa 2.3
 
 
-Ang pandaigdigang index ng pakikipag-ugnayan na ginamit upang ipamahagi ang minted Meeds sa mga Hub ay ang kabuuan ng lahat ng mga marka ng pakikipag-ugnayan ng Hubs para sa linggo.
+The global engagement index used to distribute minted MEED among the Hubs is the sum of all Hubs’ weekly engagement scores.
 
 
 Ang formula sa itaas ay simple at idinisenyo upang paboran ang mga hub :
@@ -110,9 +110,9 @@ Dagdag na mga pampalakas ay inilalagay para sa:
 - may pinakamataas na pagkakasangkot, hindi isinasaalang-alang ang kanilang laki (porsiyento ng pagkakasangkot sa kaugnayan sa WoM)
 - mas kakaunting mga gawa
 
-> Ang Meeds association ay nagtatangi ng karapatan na baguhin ang formula kung kinakailangan - kung mayroong partikular na mga kaso ng paggamit na lumitaw halimbawa. Maaari ding i-blacklist ng asosasyon ang anumang Hub na nag-hijack sa formula sa natatanging benepisyo nito.
+> The Meeds Association reserves the right to change the formula if required – if some specific use cases arise, for instance. Maaari ding i-blacklist ng asosasyon ang anumang Hub na nag-hijack sa formula sa natatanging benepisyo nito.
 
-Dahil ang mga Hub ay ginagantimpalaan ng Meeds at insentibo na muling ipamahagi ang mga ito bilang mga gantimpala sa kanilang mga user laban sa kanilang pakikipag-ugnayan – ang interes ng parehong mga komunidad at kanilang mga user ay nakahanay sa parehong magandang ikot ng pagbabahagi ng kita. Kaya't ang WoM ay nag-aalok ng isang bagong modelo ng trabaho na binabago ang ugnayan ng employer/employee bilang isang partnership.
+As the Hubs are rewarded with MEED and incentivized to redistribute them as rewards to their users against their engagement – the interests of both the communities and their users are aligned in the same virtuous revenue-sharing cycle. Kaya't ang WoM ay nag-aalok ng isang bagong modelo ng trabaho na binabago ang ugnayan ng employer/employee bilang isang partnership.
 
 Ang modelo ng "mintium" ay ang unang kanyang uri - ito ay lumalampas sa tradisyonal na freemium model, dahil hindi lamang libre gamitin ang mga serbisyo, kundi pinararangalan din ang mga organisasyon at ang kanilang mga user sa paggamit nito.
 

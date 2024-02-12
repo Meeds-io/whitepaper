@@ -18,9 +18,9 @@ Ang WoM ay nagbibigay ng mas malinaw at hindi nababagong paraan para makuha at i
 
 Ang mga badge ay ginagamit upang kumatawan sa mga nagawa sa loob ng isang komunidad. Matapos makumpleto ang isang hanay ng mga layunin o hamon, bibigyan ang mga gumagamit ng mga puntos. Ang mga badge ay maaaring mai-lock sa pamamagitan ng pag-iipon ng ilang mga halaga ng mga puntos sa mga tiyak na kategorya.
 
-Kapag ang mga badge ay na-download ng user, posibleng isama ang bilang ng mga puntos at ang kanyang ranggo sa Hub para sa partikular na tagumpay na ito.
+When the user downloads badges, it is possible to include the number of points and his rank in the Hub for this specific accomplishment.
 
-Ang mga kredensyal ay mas nababaluktot kaysa sa mga Badge; ang mga ito ay maaaring isang rekomendasyon mula sa isang kapantay, na nagsasaad ng mga taon ng kadalubhasaan, isang pagsasanay o pagkumpleto ng pagsusulit, o pakikipag-ugnayan sa espasyo. Ang mga ito ay nilagdaan ng Hub at maaaring samahan ng isang pirma ng isang peer user.
+Ang mga kredensyal ay mas nababaluktot kaysa sa mga Badge; ang mga ito ay maaaring isang rekomendasyon mula sa isang kapantay, na nagsasaad ng mga taon ng kadalubhasaan, isang pagsasanay o pagkumpleto ng pagsusulit, o pakikipag-ugnayan sa espasyo. The Hub signs these and can be accompanied by a signature by a peer user.
 
 ## 4.3. Pagkakilanlan ng digital na trabaho
 
@@ -32,7 +32,7 @@ Magagawa ng user na ipahayag ang kanyang Xeed, Badges, at Credentials sa iba pan
 
 Ang isang gumagamit ay maaaring magkaroon ng isa o maraming mga digital na pagkakakilanlan sa WoM. Maaari niyang iharap ang mga ito sa isang pinag-isang paraan gamit ang napatunayan na mga pagtatanghal.
 
-Taliwas sa web 2, ang gumagamit ay nasa buong pagmamay-ari ng kanyang desentralisadong pagkakakilanlan. Maaaring ipakita ng huli (at patunayan) ang mga komunidad na kanyang nilahukan, ang kanyang mga napatunayang kakayahan, ang kanyang inaangkin na kakayahan, ang iba pang Xeeds (mga tao) na kanyang nakatrabaho, ang kanyang digital na representasyon ng kanyang sarili... Sa isang paraan ng mapagkakatiwalaang LinkedIn 3.0.
+Taliwas sa web 2, ang gumagamit ay nasa buong pagmamay-ari ng kanyang desentralisadong pagkakakilanlan. The latter can show (and prove) the communities he participated in, their proven skills, their claimed skills, the people whom they worked with, and their digital representation of themselves... Sa isang paraan ng mapagkakatiwalaang LinkedIn 3.0.
 
 Ang gumagamit ay maaaring pumili kung o hindi upang ipakita ang anumang bagay, kung anong impormasyon ang ibibigay, at kung aling mga pagkakakilanlan na gagamitin para sa bawat posisyon. Ang nilalaman (napatunayan na kasanayan, mga dating Hub, atbp.) ay tamper proof at kaya hindi maaaring baguhin. Ang anumang pagkakakilanlan ay kailangang mabuo sa paglipas ng panahon.
 
@@ -58,7 +58,7 @@ Tulad ng tinalakay sa itaas, binubuksan ng WoM ang mundo ng cryptocurrency at mg
 
 Sa katunayan, ang anumang pakikipag-ugnayan sa trabaho ay maaaring potensyal na mai-tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. Bilang isang kinahinatnan, ang potensyal na higit pa at maraming mga signal ay maaaring makuha at masuri upang matukoy ang pakikipag-ugnayan ng mga di-digital na propesyon. Ang mga hamon ay nagbibigay ng isang handa na pumunta paraan upang mai-tokenize ito sa pamamagitan ng kumakatawan sa mga nakamit sa pisikal na mundo.
 
-Ang sinumang gumagamit ay maaaring makakuha ng Meeds at gumamit ng isang Meeds wallet upang makakuha ng access sa mga bagong serbisyo sa edad nang walang anumang espesyal na pagsasanay.
+Any user can get MEED and use a Meeds wallet to get access to new age services without any special training.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Verifiable Credentials Data Model

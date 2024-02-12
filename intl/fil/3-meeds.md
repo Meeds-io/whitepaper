@@ -1,85 +1,82 @@
 # 3. Meeds token – ang pera ng WoM
 
-Ang WoM ay pinapagana ng pera nito - ang Meeds (MEED) token. Ginagamit ang Meeds para gantimpalaan ang mga user (sa pamamagitan ng mga programa sa pakikipag-ugnayan), pagbili sa mga tindahan, kumuha ng Deeds, makakuha ng mga financial return sa mga investment atbp.
+The MEED token (pronounced "Meeds") is the currency that powers the WoM. Ginagamit ang Meeds para gantimpalaan ang mga user (sa pamamagitan ng mga programa sa pakikipag-ugnayan), pagbili sa mga tindahan, kumuha ng Deeds, makakuha ng mga financial return sa mga investment atbp.
 
 ## 3.1. Tokenomics
 
-Ang Meeds **Ang maximum na supply ay limitado sa 100 milyong tokens**, mga barya na ginawa nang paunti-unti. **Ang mga Meed ay pinapalya sa rate na 10 MEED kada minuto**. Samakatuwid, ang buong minting horizon ay malapit sa 20 taon (dahil sa humigit-kumulang $10*60*24*365 = 5M$ Meeds ay minted bawat taon).
+The **maximum supply of MEED is limited to 100 million tokens**, minted progressively.
 
-5 Milyong Meeds (5% ng kabuuang supply) ang una nang nai-print. Kung saan, 4.5M ang na-lock sa isang vault contract na may linear vesting sa loob ng 4 na taon. Ang pre-minted na halaga ay pangunahing ginamit upang makakuha ng software IP, magbayad para sa mga legal na bayarin ng token emission, at mga serbisyo ng host.
+The Meeds Association has minted 5 Million MEED (5% of the total supply) at the start to acquire software IP from the funding members, pay for token emission legal fees, and hosting services. Then, it locked 4.5 Million in a vault contract with a linear vesting over four years.
 
-Ang natitira ay bahagi ng __mga pondo ng Meeds DAO__ at gagamitin upang magbayad para sa mga serbisyo at maglunsad ng mga insentibo tulad ng mga airdrop at referral na kampanya.
+Since then, a smart contract called **the __Token Factory__ performs minting of **MEED tokens at a constant rate**.
 
+The minting rate is a parameter of the Token Factory, set at *10 MEED per minute* at the start. Maaaring baguhin ng boto ng DAO ang rate na ito sa hinaharap. Sa ganoong rate, ang Token Factory ay gumagawa ng humigit-kumulang 5 Million MEED taun-taon (10*60*24*365); kaya, ang minting horizon ay halos 20 taon.
 
 ## 3.2. Paglalaan ng minting
 
-Ang Minted Meeds ay inilalaan upang hikayatin ang paglahok ng tatlong kategorya ng mga stakeholder - ang mga gumagamit, ang mga tagabuo at ang mga namumuhunan:
+Ang Pabrika ng Token ay namamahala din sa paglalaan ng mga mined na token ng MEED sa tatlong kategorya ng mga stakeholder:
 
-- Ang mga user (mga user at may hawak ng Deed/nagrenta) ay nakakakuha ng Meeds sa pamamagitan ng mga reward sa pakikipag-ugnayan (mintium model).
-- Ang mga Builder (mga miyembro ng asosasyon at komunidad) ay nakakakuha ng Meeds sa pamamagitan ng mga pondo ng asosasyon para itayo, patakbuhin at pahusayin ang WoM.
-- Ang mga mamumuhunan ay gumagawa ng Meeds sa pamamagitan ng pag-upa at pagbili ng mga liquidity pool at staking Meeds.
+- **Builders**: Contributors of the Meeds DAO that help build and run the WoM
+- **Users**: Members in all communities of the WoM earn MEED as rewards for their contributions
+- **Investors**: The Meeds DAO incentivizes MEED token owners to stake MEED or provide liquidity for the Meeds economy
 
-Sa simula, ang mga tagabuo ay nakakakuha ng 30% ng alokasyon. Ang 70% ay ibinabahagi sa pagitan ng mga user at ng mga namumuhunan. Ang proporsyon ng alokasyon na ito ay regular na susuriin, sa pamamagitan ng boto ng DAO ng asosasyon ng Meeds.
+Each category of stakeholders receives a share of the MEED supply, which is subject to votes by the DAO.
 
-## 3.3. Mga gumagamit - pag-minting sa pamamagitan ng pakikipag-ugnayan
+## 3.3. Users
 
-Ang bahagi ng patuloy na minted na Meeds ay inilalaan sa engagement minting channel. Ang pamamahagi ay ginagawa linggu-linggo. Sa anumang partikular na katapusan ng linggo, kinakalkula ang index ng pakikipag-ugnayan upang makuha ng mga pinuno ng Hubs at mga may-ari ng Deed ang kanilang mga reward sa susunod na linggo at makuha ang kanilang Meeds. Ang Unclaimed Meeds ay mananatili sa pondo at idinaragdag sa pamamahagi sa susunod na linggo. Ang modelo ay inilarawan nang detalyado sa nakaraang kabanata (bahagi 2.6).
+Part of the continuously minted MEED tokens is allocated to sponsor user engagement through the Mintium model (see 2.6). A global engagement index is calculated periodically across all Hubs of the WoM to allocate MEED rewards to the Hubs. Mintium rewards are claimable by Hub leaders and Deed owners.
 
-## 3.4. Mga Tagabuo – DAO ng asosasyon ng Meeds at komunidad ng mga tagabuo
+## 3.4. Builders
 
-Ang WoM at ang Meeds token ay pinapatakbo ng non-profit na Meeds Association DAO, na ipinakilala sa itaas. Ang isang multisig na kontrata na tinatawag na _Meeds DAO Funds_ ay ginagamit upang pamahalaan ang mga gastos sa pagpapatakbo ng asosasyon.
+The Meeds DAO operates the WoM and the MEED token supply. A multi-sig smart contract called the _Meeds DAO Funds_ manages the operating expenses. It receives **30% of the minted MEED** to support Builders.
 
-Sa panahon ng pagmimina, **30% ng minted na Pangangailangan ay inilalaan sa mga nauugnay na Pangangailangan**.
+The Meeds Association is entitled to hire service provider companies on behalf of the Meeds DAO to cover legal fees, development, and hosting costs using the Meeds DAO Funds.
 
-Ang mga miyembro ng asosasyon ay maaaring magbigay ng mga serbisyo sa asosasyon batay sa isang nilagdaang mga serbisyong convention na nagtatatag ng man-day rate. Ang mga serbisyo ay binabayaran buwan-buwan sa Meeds, batay sa presyo sa merkado. Kabilang sa mga halimbawa ng mga serbisyo ang – pagpapayaman sa software ng Needs, pagbuo ng WoM app, pagbuo ng mga bagong connector, pagpapatakbo ng serbisyo sa cloud, pagbibigay ng mga serbisyong pinansyal at legal atbp.
+Organizations and individuals not members of the Meeds Association may still contribute through the _Meeds Builders Hub_  - a community hub that welcomes enthusiasts who want to participate in creating and promoting the WoM. The <0>Meeds DAO Funds</0> also reward for contributions to the Builders Hub.
 
-Kung hindi isang miyembro, maaaring lumahok ang anumang organisasyon sa paglikha ng isang bagong connector at gagantimpalaan para sa paggawa nito - una sa pamamagitan ng Meeds association na nakakuha ng connector at pagkatapos ay sa pamamagitan ng pag-minting sa pamamagitan ng connector na ito.
+The Builders Hub also receives Mintium rewards like any other hub.
 
-The association operates its own community hub named the _Meeds Builders Hub_ that welcomes enthusiasts, who want to contribute to the creation of the WoM. The association sponsors the community out of its budget, compensating the engagement of community members.
-
-Thus, the builders' hub functions as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. Itinataya ng asosasyon ang Meeds upang matubos ang isang Deed para sa komunidad nito. Kaya, ang Builder's Hub ay nakikinabang din sa paggawa ng engagement tulad ng iba pang Hub na sinusuportahan ng isang Deed.
-
-Pagkatapos ng panahon ng pagmimina, ang asosasyon ay masusustento ng:
+After the minting period is over, the operational costs of the Meeds DAO will be supported by :
 
 - pagbubuwis ng passive income (3% sa Deeds renting)
 - pagbubuwis sa kita sa pagbebenta (2.5% sa mga benta sa Deeds)
 - pag-unawa sa mga bayarin sa transaksyon sa paggamit ng mga tindahan ng perks
 - kumikilos bilang tagapagbigay ng liquidity pool
-- pag-unawa sa mga bayarin sa transaksyon kapag ang isang Hub ay namamahagi ng mga token na hindi Meeds sa pamamagitan ng mga serbisyo ng WoM.
-- sa pamamagitan ng pagpapatakbo ng mga Deed na ginawa ng asosasyon sa paglipas ng panahon.
+- perceiving transaction fees when a Hub distributes alternative tokens on their Hubs
+- renting and selling the Deeds that the DAO minted over time.
 
 
 ## 3.5. mga mamumuhunan
 
-Tumutulong ang mga mamumuhunan sa paglikha ng WoM sa pamamagitan ng pagbibigay ng liquidity at sa pamamagitan ng staking Meeds at sa gayon ay pinapatatag ang antas ng presyo nito sa panahon ng konstruksiyon. Parehong hinihikayat sa pamamagitan ng pagmimina.
+Investors support the WoM by providing liquidity and staking MEED tokens, which helps stabilize the price level during the building phase. Incentives are in place for both:
 
-**Mga tagapagbigay ng likido** Ang pamamahala sa pagkatubig ng pera ay susi sa tagumpay ng proyekto at maraming mga diskarte sa DeFi ang gagamitin upang ma-optimize ang kahusayan sa kapital. Magsisimula tayo sa mga insentibo para sa pag-staking ng mga token ng pool ng MeedS/ETH LP at unti-unting magpapakilala ng mga bono upang lumipat patungo sa pagkatubig na pagmamay-ari ng protocol. Ang huli ay mag-aambag sa pangmatagalang pagpapanatili ng asosasyon - tulad ng nabanggit sa itaas, ang mga bayarin sa transaksyon ay magpopondo sa mga gastos sa pagpapatakbo ng asosasyon tulad ng cloud hosting.
+**Liquidity providers** Currency liquidity management is crucial to the project's success. The Meeds DAO employs various DeFi mechanisms to optimize its capital efficiency. For instance, incentives allow liquidity providers to farm yields by renting their LP tokens. Also, there are plans to introduce bonds and move towards protocol-owned liquidity progressively. Ang huli ay mag-aambag sa pangmatagalang pagpapanatili ng asosasyon - tulad ng nabanggit sa itaas, ang mga bayarin sa transaksyon ay magpopondo sa mga gastos sa pagpapatakbo ng asosasyon tulad ng cloud hosting.
 
-Ang bawat miyembro ay may karapatan din na direktang bumili ng malaking halaga ng Meeds sa isang diskwento. Ang halagang naka-wire sa account ng asosasyon ay kino-convert sa ETH at idinagdag kasama ng katumbas na halaga ng Meeds sa Liquidity Pool.
+Additionally, on behalf of the Meeds DAO, the Meeds Association is entitled to facilitate OTC (off-the-shelf) purchases of more extensive amounts of MEED tokens.
 
-**Staking / pangmatagalang pamumuhunan** Para hikayatin ang pangmatagalang pamumuhunan, ang mga staked na Meeds ay ginagantimpalaan. Kapag na-stakes ang Mga Pangangailangan, ang stalker ay makakakuha ng ilang xMas token. Ang mga bagong minted na Meeds ay ipinamamahagi sa mga staker nang proporsyonal sa kanilang mga xMeeds holdings. Sa pagsasagawa, ang minted Meeds ay mabisang idinaragdag sa mga hawak ng xMeeds smart contract at ipapamahagi sa xMeeds holder kapag sila ay nag-unstake.
+**Staking / long-term investment** Meeds DAO rewards loyal investors who want to support Meeds long-term. Anyone can stake their unused MEED tokens to earn yields and xMEED tokens.
 
-Sa pamamagitan ng pag-staking sa Meeds, maaari ding kunin ng mga mamumuhunan ang mga Deed NFT (at pagkatapos ay lumahok sa pag-minting sa pamamagitan ng pakikipag-ugnayan), kaya tumataas ang demand ng token. Ang bawat staked Meeds (xMeeds) ay nagbibigay sa may-ari nito ng ilang puntos bawat araw. Kung mas mahaba ang vested period, mas mataas ang bilang ng mga puntos na nakuha sa bawat xMeeds. Ang bawat Deed ay tinutubos kapalit ng ilang puntos.
+Staking reults in the minting of xMEED tokens in proportion of the MEED tokens deposited. The xMEED token is Meeds governance token, which is used for voting on DAO proposals.
 
-Ang mga puntos ay kinakalkula gamit ang formula sa ibaba:
+Additionally, xMEED holders earn minting points that entitle them to mint Deed NFTs. This mechanism increases the demand for MEED tokens. Minting points accrue over time as long as the stakeholder maintains his stake. The formula below allows you to calculate minting points :
 
- $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
+ $$ P = xMEED / (xMEED + 12000) * T / 240 $$
 
- sa'n:
+ Where:
 
-- $xMeeds$ : balanse ng xMeeds na walang mga decimal
-- $T$ : Lumipas ang oras sa millisecond
+- $xMEED$: xMEED balance  with no decimals
+- $T$: Time elapsed in milliseconds
 
-Iniiwasan ng formula na paboran ang malalaking may hawak upang maipamahagi ang mga Deed nang mas mahusay at mas pantay. Halimbawa, ang formula ay nagbibigay ng mga sumusunod na rate:
+The formula avoids favoring large holders to distribute Deeds more efficiently and equitably. Halimbawa, ang formula ay nagbibigay ng mga sumusunod na rate:
 
-| **Laki ng may hawak** | **Mga hawak**  | **Accrue Rate** |
-| --------------------- | -------------- | --------------- |
-| Maliit                | 1 000 xMeeds   | 28 puntos/araw  |
-| Ang katamtaman        | 10 000 xMeeds  | 164 puntos/araw |
-| Malaki                | 100 000 xMeeds | 321 puntos/araw |
+| **Laki ng may hawak** | **Mga hawak** | **Accrue Rate** |
+| --------------------- | ------------- | --------------- |
+| Maliit                | 1 000 xMEED   | 28 puntos/araw  |
+| Ang katamtaman        | 10 000 xMEED  | 164 puntos/araw |
+| Malaki                | 100 000 xMEED | 321 puntos/araw |
 
 
-na humahantong sa sumusunod na oras ng paghawak para sa bawat klase ng may hawak:
+These accrue rates lead to the following holding time for each class of holder :
 
 | **Uri ng mga kard** | **Gastos**     | **Malaking May hawak** | **Katamtamang May hawak** | **Katamtamang May hawak** |
 | ------------------- | -------------- | ---------------------- | ------------------------- | ------------------------- |
@@ -90,19 +87,19 @@ na humahantong sa sumusunod na oras ng paghawak para sa bawat klase ng may hawak
 
 ## 3.6. Meeds ang pamamahala ng DAO
 
-Ang mga may hawak ng token ng Meeds ay kailangang mag-stake ng mga token upang makaboto sa mga desisyon ng Meeds DAO gaya ng pamamahala sa badyet sa paggawa o pagpili ng mga miyembro ng board ng DAO (taunang mandato).
+xMEED token holders can freely participate in the governance of the Meeds DAO by voting with their tokens on decisions such as managing the budget allocation or electing DAO board members.
 
 ## 3.7. Desentralisadong pananalapi ( DeFi) mga serbisyo ng gumagamit
 
 Ipakikilala ng WoM ang mundo ng blockchain sa maraming tao na hindi gumagamit nito ngayon.
 
-Sa katunayan, ang anumang gawain ( maging digital o hindi ) ay maaaring gamified at anumang pakikipag-ugnay - gantimpala sa Meeds. Ang mga pagsukat ay magagamit sa mga gumagamit sa pamamagitan ng isang madaling gamitin, batay sa blockchain, pitaka na “ abstract ” anumang pagiging kumplikado ng mundo ng crypto sa isang average na gumagamit.
+Indeed, Meeds software can gamify and set a monetary value on any contribution (whether it is digital or not) and reward it with MEED tokens. This has be made possible by an easy-to-use, blockchain-based wallet app that simplifies access to the crypto world for an average user, rewards are tangible.
 
 Higit pa sa pitaka at isang tindahan kung saan maaari silang bumili ng mga perks para sa Meeds, plano naming ipakilala ang bawat gumagamit sa maraming mga produkto ng end-user na pinalakas ng mga protocol ng Desentralisadong Pananalapi, tulad ng:
 
 - Ang kakayahang mag-stake ng mga token ng MEED at makakuha ng mga ani (makabuo ng mga kita)
-- The ability to use MEED tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
-- Isang digital card na maaaring maidagdag at magamit sa pamamagitan ng Apple Pay, Google pay o anumang ATM. Ang huli ay maaaring ibigay sa pamamagitan ng isang pakikipagtulungan sa VISA at gagamitin ang isang linya ng kredito sa USDC, na na-secure ng mga staked Meeds. Ang kard na ito ay maaari ring magamit ng mga organisasyon upang pondohan ang mga dompet ng empleyado upang pamahalaan ang mga benepisyo ng empleyado tulad ng mga restawran, transportasyon at anumang uri ng gastos.
+- The ability to use MEED tokens as collateral to borrow stablecoins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the MEED token to [AAVE](https://aave.com/).
+- Isang digital card na maaaring maidagdag at magamit sa pamamagitan ng Apple Pay, Google pay o anumang ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by xMEED. Organizations could also use this card to fund employee wallets to manage employee benefits such as restaurants, transportation, and other expenses.
 
 Kaya hindi lamang maraming mga bagong gumagamit ang matutuklasan ang mundo ng blockchain, matutuklasan din nila ang isang walang bangko na mundo.
 
