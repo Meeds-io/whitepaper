@@ -2,9 +2,9 @@
 
 ## Abstrakto
 
-Ang merkado ng trabaho ngayon ay kulang sa kahusayan dahil sa mataas na gastos sa transaksyon[^1][^2][^3] at madalas na mga conflict of interests sa pagitan ng empleyado at employer.
+Ang merkado ng trabaho ngayon ay kulang sa kahusayan dahil sa mataas na gastos sa transaksyon[^1][^2][^3] at madalas na mga conflict of interests sa pagitan ng empleyado at employer. And for this reason, advanced means of financial transactions should be adopted.
 
-Ang WoM (World of Meeds) ay nagmumungkahi ng isang bagong paradigm na magpapababa sa mga gastos sa transaksyon at muling iimbento ang relasyon sa pagtatrabaho, na magtutulay sa agwat sa pagitan ng mga tradisyunal na korporasyon at DAO.
+Ang WoM (World of Meeds) ay nagmumungkahi ng isang bagong paradigm na magpapababa sa mga gastos sa transaksyon at muling iimbento ang relasyon sa pagtatrabaho, na magtutulay sa agwat sa pagitan ng mga tradisyunal na korporasyon at DAO).
 
 Ang WoM ay gumagawa nito sa pamamagitan ng pagpapakilala ng mga digital na identity para sa parehong employer at employee at nag-aalok ng isang innovative engagement reward system na magtutugma sa kanilang mga interes.
 

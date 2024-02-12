@@ -48,7 +48,7 @@ Magagamit ang Investor app sa Ethereum Mainnet. Sa paglulunsad, kasama nito ang 
 
 Ang komunidad ng Builders ay gumagana at tumatakbo, bukas sa sinumang gustong sumali, sumubok at lumahok. Posible na mag-login kasama ang Metamask.
 
-This paper was initially published on the launch day. Kasunod ng paglulunsad, ang token ay ibababa sa maraming tao sa buong pamayanan ng crypto.
+Ang papel na ito ay unang nai-publish sa araw ng paglulunsad. Kasunod ng paglulunsad, ang token ay ibababa sa maraming tao sa buong pamayanan ng crypto.
 
 ## 5.4. Ang pamayanan ng mga tagabuo
 
