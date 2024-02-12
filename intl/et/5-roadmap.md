@@ -10,11 +10,11 @@ Organisatsioonid saaksid WoM-i sirvides hankida talente, et leida õigeid tõest
 
 WoM-il oleks oma valuuta **MEED** – seda saaks poodides kulutada, teise valuutasse konverteerida, investeeringutasuvuse nimel investeerida, rentida või osta jne. WoM hõlbustaks ka teiste žetoonide levitamist ja osaleks üldises krüptoökosüsteemis.
 
-Kuna pilt ütleb rohkem kui tuhat sõna, on siin diagramm, mis kirjeldab WoMi ja Meedsi voogusid
+As a picture is worth a thousand words, here is a diagram that describes the WoM and MEED token flows
 
 ![WoM ja Meeds voolud](en/img/wom-flows.png)
 
-Maailma säilitamine ja jätkusuutlikkus pikas perspektiivis on tagatud maksude kaudu, mida jagavad Meedsi ühing ja linnad.
+The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds Association and the Cities.
 
 ## 5.2. Mis on varajaste kasutuselevõtjate jaoks
 
@@ -24,7 +24,7 @@ Eelkõige premeerib WoM pikaajalist investeerimist värssi - see tähendab vara 
 
 Projekti uskudes, likviidsuskogumites osaledes, MEED žetoone panustades, Tegude vastu lunastades... igas suuruses varajased investorid vermiksid lisamärke. Nad saaksid ka varaseimad hääleõigused ja aitaksid kujundada WoM-i.
 
-Organisatsioonid, kes omandavad, kuid eelkõige kasutavad Deeds'i oma töötajate kaasamiseks ja premeerimiseks, saavad kompensatsiooni vermitud Meeds'idega. Mida õiglasemalt nad mängivad, seda rohkem nad saavad. Varasemad kasutuselevõtjad on seotud esimeste ajalooliste linnadega ja neid peetakse hiljem ehitajateks.
+Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted MEED. Mida õiglasemalt nad mängivad, seda rohkem nad saavad. Varasemad kasutuselevõtjad on seotud esimeste ajalooliste linnadega ja neid peetakse hiljem ehitajateks.
 
 Alljärgnev diagramm on näide Meedsi investeerimisstrateegiast kapitaliomanike jaoks:
 
@@ -42,7 +42,7 @@ WoM-i ametlik avamine oli **1. mai 2022** – rahvusvaheline töötajate päev, 
 
 Sel ajal oli MEED-märk juba olemas. Seda on võimalik omandada ja likviidsusbasseinid on osalemiseks avatud, Polygoni ja Ethereumi võrkudes.
 
-Kolm Meedsi ühingu liiget kasutavad süsteemi ettevõttesiseselt, et kaasata ja premeerida oma kasutajaid ning parandada Meedsi tarkvara.
+Three Meeds Association members use the system internally to engage and reward their users and improve the Meeds software.
 
 Investori rakendus on saadaval Ethereum Mainnetis. Käivitamisel sisaldab see panustamist, likviidsuspreemiaid, punktide kogumist ja Deeds'i lunastamist.
 
@@ -54,7 +54,7 @@ See artikkel avaldati algselt käivitamispäeval. Pärast käivitamist antakse �
 
 Me käivitame ehitajate kogukonna Meedsi tarkvaras ja Discordis. Kogukond ootab kõiki, kes soovivad WoM ülesehitamisel osaleda. Liit premeeriks ehitajate kaasamist Meedsiga oma turunduseelarvest.
 
-Ühing plaanib ka panustada mõned Meedid, et omandada (lunastada) ehitajate kogukonna jaoks Deed. Seejärel vermib kogukond mintium-mudeli abil Meeds'i ja jagab neid aktiivsetele kasutajatele.
+The association plans also to stake some MEED in order to acquire (redeem) a Deed for the builders community. The community will then mint MEED by engagement, through the mintium model, and distribute them to engaged users.
 
 ## 5.5. Tegevuskava ja vahe-eesmärgid
 
@@ -68,7 +68,7 @@ Meie tegevuskava järgib allpool esitatud prioriteetsuse järjekorda:
 
 Me loodame DAOde ja tehnoloogiaga kursis olevate ettevõtete varajastele kasutuselevõtjatele ehitusetapis. Meil peaks olema ka mõned varased kasutuselevõtjad traditsioonilistest ettevõtetest, kes saavad WoM-ist kohe kasu, pakkudes lisaks oma praegustele traditsioonilistele tasustamiskavadele oma töötajatele asjakohaseid kaasamisprogramme.
 
-Meedsi rahapaja hõlmab 20 aasta pikkust ajavahemikku. Selleks ajaks soovime luua küpse ökosüsteemi, mis on levinud paljudes organisatsioonides ja paljudes kasutajates kogu maailmas.
+MEED minting spans a 20 year period. Selleks ajaks soovime luua küpse ökosüsteemi, mis on levinud paljudes organisatsioonides ja paljudes kasutajates kogu maailmas.
 
 ## 5.6. Mida saate teha kohe praegu
 
@@ -81,6 +81,6 @@ Mida saate kohe praegu teha, et osaleda?
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
 - Liitu meie [Discord](https://discord.com/invite/hAuADSq3) kogukonnaga, et olla kursis
-- Liitu meie [Builders](https://meeds.io/builders) kogukonnaga, et testida Meedsi tarkvara, osaleda ja teenida Meedsi kaasamispreemiaid
+- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some MEED engagement rewards
 
 **\*\*\* WoM – ehitame koos selle pöörase tulevikumaailma. \*\*\***
