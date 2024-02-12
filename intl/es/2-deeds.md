@@ -11,7 +11,7 @@ El WoM está diseñado para ser una plataforma diversa e inclusiva. Acoge con sa
 
 ## 2.2. Suministro de Deeds
 
-En última instancia, el WoM suministrará una cantidad limitada de Deeds. Cada Deed incluye un número máximo predefinido de usuarios y ofrece una capacidad de recompensa de Meeds (poder de acuñación). El término "usuario" designa aquí y en adelante a cualquier tipo de empleado, trabajador, autónomo, voluntario, etc.
+En última instancia, el WoM suministrará una cantidad limitada de Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of rewarding (Minting Power). El término "usuario" designa aquí y en adelante a cualquier tipo de empleado, trabajador, autónomo, voluntario, etc.
 
 Hay cuatro tipos de Escrituras, cada uno proporcionando diferentes capacidades en términos de número de usuarios, derechos de voto en una ciudad (ver 2. ) o poder de minta, siendo el más raro el más poderoso:
 
@@ -36,7 +36,7 @@ Siendo un titular activo o un arrendador de una Escritura, la organización tien
 
 En el mercado competitivo actual, las organizaciones buscan atraer y retener el talento más alto no sólo a través de la compensación, sino también mediante la mejora del compromiso laboral. La WoM aborda este desafío con un sistema de recompensas único y con tokenized embodied en Hubs comunitarios.
 
-Dentro de estos Hubs, los líderes de la comunidad pueden impulsar el compromiso de los miembros ofreciendo un menú transparente de incentivos para los artículos de trabajo. Los participantes ganan puntos de compromiso por sus esfuerzos, que se convierten periódicamente en fichas MEED o en un equivalente personalizado, en línea con un presupuesto predeterminado.
+Dentro de estos Hubs, los líderes de la comunidad pueden impulsar el compromiso de los miembros ofreciendo un menú transparente de incentivos para los artículos de trabajo. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
 
 Community Hubs ofrecen un conjunto de herramientas y características diseñadas para impulsar y administrar el compromiso de los colaboradores:
 
@@ -45,15 +45,15 @@ Community Hubs ofrecen un conjunto de herramientas y características diseñadas
 - **Programas de compromiso**: Programas personalizados con objetivos específicos y recompensas clarifican las metas de la organización y reconocen de manera justa los logros de los colaboradores.
 - **Kudos**: El reconocimiento inmediato de los pares impulsa la moral y fomenta una cultura de apreciación, mejorando la cohesión del equipo y la motivación.
 - **Espacios**: Sub-grupos organizados y proyecta comunicación y colaboración en streamline, aumentando la productividad colectiva.
-- **Wallet**: The Wallet app securely stores MEED rewards, representing user contributions, and enables easy transactions both within the Hub and on the broader network.
+- **Wallet**: la aplicación Wallet almacena de forma segura recompensas MEED, que representan las contribuciones de los usuarios, y permite transacciones sencillas tanto dentro del Hub como en la red más amplia.
 - **Beneficios**: Una variedad de recompensas, desde tarjetas de regalo hasta NFTs, fomente el compromiso continuo y fomente la lealtad dentro del ecosistema de la organización.
-- **Tasks**: Streamlined project and task management tools boost productivity by simplifying workflows and tracking progress.
-- **Notes**: A handy notebook app for documenting essential information like onboarding guides promotes knowledge sharing and organizational self-sufficiency.
-- **Branding**: Customizable Hub appearance attracts new contributors and strengthens their connection to the organization’s identity.
-- **Analytics**: Insightful analytics into community engagement enable leaders to identify effective strategies and make informed decisions for optimization.
+- **Tareas**: las herramientas optimizadas de gestión de proyectos y tareas aumentan la productividad al simplificar los flujos de trabajo y realizar un seguimiento del progreso.
+- **Notas**: una práctica aplicación de cuaderno para documentar información esencial, como guías de incorporación, promueve el intercambio de conocimientos y la autosuficiencia organizacional.
+- **Branding**: la apariencia personalizable del Hub atrae a nuevos contribuyentes y fortalece su conexión con la identidad de la organización.
+- **Análisis**: los análisis profundos sobre la participación de la comunidad permiten a los líderes identificar estrategias efectivas y tomar decisiones informadas para la optimización.
 
 
-**Starting a Hub** Initiating a Hub is most seamless via meeds.io, which offers access to a cloud platform managed by the Meeds Association. Esta plataforma permite una rápida configuración y es mantenida por la entidad sin fines de lucro que administra la WoM. Sin embargo, el WoM se encarga de la descentralización. Como el software de Meeds es de código abierto y distribuido libremente, las organizaciones tienen la opción de albergar un servidor Hub y conectarse a la red WoM, otorgarles un mayor control y personalización en la configuración y gestión de su Hub.
+**Iniciar un centro** Iniciar un Hub es más sencillo a través de meeds.io, que ofrece acceso a una plataforma en la nube administrada por la Asociación Meeds. Esta plataforma permite una rápida configuración y es mantenida por la entidad sin fines de lucro que administra la WoM. Sin embargo, el WoM se encarga de la descentralización. Como el software de Meeds es de código abierto y distribuido libremente, las organizaciones tienen la opción de albergar un servidor Hub y conectarse a la red WoM, otorgarles un mayor control y personalización en la configuración y gestión de su Hub.
 
 **Capturando señales de trabajo** Hubs pueden integrarse con varias plataformas como GitHub, Twitter, y Discord y son extensible a través de la API para conectarse con servicios tales como software CRM, software de contabilidad, y terminales de reloj. Esto permite reconocer y premiar diversas contribuciones profesionales. Todos los conectores son objeto de un proceso de lista blanca por parte de la Asociación de Medios para garantizar la integridad y la funcionalidad.
 
@@ -80,7 +80,7 @@ Al involucrar a sus usuarios en el WoM, las comunidades son compensadas a travé
 
 Los puntos de compromiso, ganados por los usuarios de los Hubs, participan en el índice de compromiso global, calculado por la Asociación de Méedes. El índice utiliza el mismo principio para todos los Hubs. Aunque la comunidad puede cambiar la asignación de los puntos para promover una acción sobre otra. estos cambios no se tomarán en cuenta en el cálculo del índice global.
 
-Cada semana, se asigna una determinada cantidad de Meeds a la acuñación del compromiso global de la WoM. Se calcula semanalmente, prorata, entre los Hubs participantes. Algunos Hubs obtienen un incremento adicional dependiendo del tipo de Deed que usen. Los centros que reclaman sus Metas a lo largo de la semana, los reciben. Los Meeds no reclamados se añaden al importe de distribución global de la semana siguiente.
+Each week, a certain amount of MEED is allocated to the global engagement minting of the WoM. Se calcula semanalmente, prorata, entre los Hubs participantes. Algunos Hubs obtienen un incremento adicional dependiendo del tipo de Deed que usen. The Hubs that claim their MEED tokens over the week, receive them. The unclaimed MEED tokens are added to the following week’s global distribution amount.
 
 La puntuación de compromiso _S_ de un Deed es una función del compromiso, el número de usuarios comprometidos y la distribución :
 
@@ -92,12 +92,12 @@ Dónde :
 - $U$ = _Usuarios comprometidos_ - usuarios que contribuyeron a los puntos durante la semana, mediante al menos una acción.
 - $E_d$ = _Tasa de compromiso del hub_ - acciones por usuario ($A/U$)
 - $E_w$ = _Tasa media de compromiso_ de todos los Hubs activos en el WoM.
-- $D_r$ = _Tasa de Distribución_ - si un Hub recibió Medios Mintados para el período anterior, el % de los Meeds que fue distribuido a sus usuarios. El % puede ser superior a 100 si la distribución se retrasa en el tiempo.
-- $D_s$ =  _Distribución propagada_ - si un Hub recibió Medios mintados durante el período anterior. el % de los usuarios que recibieron Meeds en el conjunto total de usuarios.
+- $D_r$ = _Distribution rate_ - if a Hub received minted MEED for the preceding period, the % of MEED that was distributed to its users. El % puede ser superior a 100 si la distribución se retrasa en el tiempo.
+- $D_s$ =  _Distribution spread_ - if a Hub received minted MEED tokens for the preceding period, the % of the users that received MEED in the total pool of users.
 - $M$ = _Poder de Montaje_ del Deed como se define en 2.3
 
 
-El índice de compromiso global utilizado para distribuir Meeds minted entre los Hubs es la suma de todos los puntos de compromiso de los Hubs para la semana.
+The global engagement index used to distribute minted MEED among the Hubs is the sum of all Hubs’ weekly engagement scores.
 
 
 La fórmula anterior es simple y está diseñada para favorecer los centros :
@@ -110,9 +110,9 @@ Adicionalmente hay potenciadores para:
 - organizaciones con mayor compromiso, independientemente de su tamaño (índice de compromiso en relación con la WoM)
 - hechos de escarcería
 
-> La asociación Meeds se reserva el derecho a modificar la fórmula en caso necesario, por ejemplo, si surgen algunos casos de uso específicos. La asociación también puede negar cualquier Hub que se apropie de la fórmula en su beneficio único.
+> The Meeds Association reserves the right to change the formula if required – if some specific use cases arise, for instance. La asociación también puede negar cualquier Hub que se apropie de la fórmula en su beneficio único.
 
-A medida que los Hubs son recompensados con Meeds y redistribuidos como recompensas a sus usuarios en contra de su compromiso – el interés tanto de las comunidades como de sus usuarios está alineado en el mismo virtuoso ciclo de distribución de ingresos. Así pues, la WoM ofrece un nuevo modelo de trabajo, que reconfigura la relación empleador/empleado como una colaboración.
+As the Hubs are rewarded with MEED and incentivized to redistribute them as rewards to their users against their engagement – the interests of both the communities and their users are aligned in the same virtuous revenue-sharing cycle. Así pues, la WoM ofrece un nuevo modelo de trabajo, que reconfigura la relación empleador/empleado como una colaboración.
 
 El modelo "mintium" es el primero de su tipo: va más allá del freemium tradicional, ya que no sólo los servicios son de uso gratuito, sino que tanto las organizaciones como sus usuarios son recompensados por utilizarlos.
 
@@ -136,7 +136,7 @@ Una ciudad es una manera de que las comunidades se reúnan y creen una comunidad
 
 Cada ciudad tiene su propia diversión y opera su propio DAO donde los dueños de la ciudad pueden elegir a su concejal, votar y establecer sus propias reglas de funcionamiento añadir nuevos servicios y dar forma a su ciudad de la forma que deseen y para aumentar el atractivo de la ciudad y el valor de los Escritorios adjuntados a ella.
 
-Por ejemplo, podrían añadir una representación digital de su ciudad, contrapartidas físicas asociadas a su ciudad (salas de reuniones en espacios físicos de co-working, por ejemplo), añadir servicios de comida impulsados por Meeds, servicios de vacaciones, etc...
+For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add food services, vacations services, etc...
 
 Por defecto (a menos que la ciudad vote lo contrario), los ingresos pasivos procedentes del alquiler de Escrituras serán "gravados" por la ciudad (5%) y la Asociación (3%) para fomentar el uso productivo.
 
