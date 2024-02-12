@@ -1,12 +1,15 @@
 
-# 1. About Us
+# 1. O nama
 
-Meeds is a collaborative effort led by diverse Open Source Software (OSS) communities, dedicated to creating a decentralized digital world that resists centralized corporate control and fosters a free and open environment.
+Meeds is a collaborative effort led by diverse open-source software (OSS) communities dedicated to creating a decentralized digital world that resists centralized corporate control and promotes a free and open environment.
 
-The legal entity behind Meeds is the _Meeds Association_, a non-profit organization incorporated under Swiss law in Geneva. It is responsible for regulating the issuance of the Meeds(MEED) token, an ERC20 token recognized as a utility token.
+The Meeds project uses the Ethereum ecosystem to implement the WoM protocols and manage the supply of the MEED token. This approach has helped prioritize security, accessibility, usability, and cost-effectiveness, making it attractive to a broad user base. However, the WoM is designed to be an autonomous and self-sufficient public good, aiming to become multichain.
 
-Functioning as a Decentralized Autonomous Organization (DAO), Meeds emphasizes on democratic governance, where token holders with governance rights participate in key decision making, such as annual board elections, ensuring transparency and community involvement in organizational changes.
+Pravni subjekt koji stoji iza Meedsa je _Meeds Association_, neprofitna organizacija registrirana prema švicarskom zakonu u Ženevi. Odgovoran je za reguliranje izdavanja MEED tokena i sklapanje ugovora s pružateljima usluga.
 
-The Meeds project utilizes the Ethereum ecosystem to implement the World of Meeds (WoM) and the Meeds token. This approach prioritizes security, accessibility, user-friendliness, and cost-effectiveness, making it appealing to a broad user base.
+The Meeds Association intends to progressively hand over control of the Meeds protocol and treasuries to the _Meeds DAO_, which is the decentralized autonomous organization that represents the decentralized governance arm of the Meeds ecosystem, empowering the community to participate in decision-making, proposal voting, and protocol upgrades.
 
-Meeds is an Open Source Software ([github.com/meeds-io](https://github.com/meeds-io)) operated in the cloud infrastructure by hosting partners of the Meeds Association.
+The relationship between the Meeds Association and Meeds DAO involves how they operate in the real world. Udruga Meeds tradicionalna je organizacija koja ima članove, upravni odbor i djeluje prema posebnim pravnim i regulatornim okvirima. U stvarnom svijetu, Udruga Meeds može se baviti aktivnostima poput organiziranja događaja, pružanja usluga i zagovaranja svojih članova. Također može imati fizički ured i članove osoblja. Meeds DAO, s druge strane, djeluje bez središnjeg autoriteta i donosi odluke putem konsenzusa svojih članova koristeći mehanizme glasovanja temeljene na blockchainu. Također se može uključiti u aktivnosti kao što su financiranje projekata, upravljanje imovinom i donošenje odluka putem pametnih ugovora.
+
+WoM je izgrađen kao softver otvorenog koda ([github.com/meeds-io](https://github.com/meeds-io)) i hostiran od strane partnera koje je odabralo Meeds Association u ime Meeds DAO.
+
