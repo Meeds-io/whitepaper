@@ -1,6 +1,6 @@
 # 3. The MEED token – the currency of the WoM
 
-The MEED token (pronouced "Meeds") is the currency that powers the WoM. Users are rewarded with MEED (through engagement programs), purchase in stores, get Deeds, get financial returns on investments, and more.
+The MEED token (pronounced "Meeds") is the currency that powers the WoM. Users are rewarded with MEED (through engagement programs), purchase in stores, get Deeds, get financial returns on investments, and more.
 
 ## 3.1. Tokenomics
 
@@ -31,13 +31,11 @@ Part of the continuously minted MEED tokens is allocated to sponsor user engagem
 ## 3.4. Builders
 
 The Meeds DAO operates the WoM and the MEED token supply. 
-A multi-sig smart contract called the _Meeds DAO Funds_ manages the operating expenses.
-
-The Meed DAO Funds receive **30% of the minted MEED** to support Builders**.
+A multi-sig smart contract called the _Meeds DAO Funds_ manages the operating expenses. It receives **30% of the minted MEED** to support Builders.
 
 The Meeds Association is entitled to hire service provider companies on behalf of the Meeds DAO to cover legal fees, development, and hosting costs using the Meeds DAO Funds.
 
-Organizations and individuals not members of the Meeds Association may still contribute through the _Meeds Builders Hub_  - a community hub that welcomes enthusiasts who want to participate in creating and promoting the WoM. The _Meeds DAO Funds_ also rewards for the contributions on the Builders Hub.
+Organizations and individuals not members of the Meeds Association may still contribute through the _Meeds Builders Hub_  - a community hub that welcomes enthusiasts who want to participate in creating and promoting the WoM. The <0>Meeds DAO Funds</0> also reward for contributions to the Builders Hub.
 
 The Builders Hub also receives Mintium rewards like any other hub. 
 
@@ -62,7 +60,7 @@ Also, there are plans to introduce bonds and move towards protocol-owned liquidi
 Additionally, on behalf of the Meeds DAO, the Meeds Association is entitled to facilitate OTC (off-the-shelf) purchases of more extensive amounts of MEED tokens.
 
 **Staking / long-term investment**
-Meeds DAO rewards the loyal investors that want to support Meeds in the long term. Anyone can stake their unused MEED tokens to earn yields and xMEED tokens.
+Meeds DAO rewards loyal investors who want to support Meeds long-term. Anyone can stake their unused MEED tokens to earn yields and xMEED tokens.
 
 Staking reults in the minting of xMEED tokens in proportion of the MEED tokens deposited. The xMEED token is Meeds governance token, which is used for voting on DAO proposals.
 

@@ -18,10 +18,10 @@ The WoM provides a more transparent and immutable means for people to acquire an
 
 Badges are used to represent accomplishments made within a community. After completing a set of objectives or challenges, users will be awarded points. Badges can be unlocked by accumulating certain amounts of points in specific categories.
 
-When badges are downloaded by the user, it is possible to include the number of points and his rank in the Hub for this specific accomplishment.
+When the user downloads badges, it is possible to include the number of points and his rank in the Hub for this specific accomplishment.
 
 Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the space.
-These are signed by the Hub and can be accompanied by a signature by a peer user.
+The Hub signs these and can be accompanied by a signature by a peer user.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Verifiable Credentials Data Model
@@ -36,7 +36,7 @@ The user will be able to express his Xeed, Badges, and Credentials towards other
 
 A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations.
 
-Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the communities he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... In a manner of trustworthy LinkedIn 3.0.
+Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the communities he participated in, their proven skills, their claimed skills, the people whom they worked with, and their digital representation of themselves... In a manner of trustworthy LinkedIn 3.0.
 
 The user will be able to select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Hubs, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time.
 

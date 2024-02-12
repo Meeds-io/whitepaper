@@ -101,7 +101,7 @@ Where :
 - $M$ = _Minting Power_ of the Deed as defined in 2.3
 
 
-The global engagement index used to distribute minted MEED among the Hubs is the sum of all Hubs’ engagement scores for the week.
+The global engagement index used to distribute minted MEED among the Hubs is the sum of all Hubs’ weekly engagement scores.
 
 
 The formula above is simple and designed to favor hubs :
@@ -114,9 +114,9 @@ Additionnally boosters are in place for :
 - organizations with the highest engagement, regardless of their size (engagement rate in relation to the WoM)
 - scarcer deeds
 
-> The Meeds Association reserves the right to change the formula if required – if some specific use cases arise for instance. The association can also blacklist any Hub that hijacks the formula to its unique benefit.
+> The Meeds Association reserves the right to change the formula if required – if some specific use cases arise, for instance. The association can also blacklist any Hub that hijacks the formula to its unique benefit.
 
-As the Hubs are rewarded with MEED and incentivized to redistribute them as rewards to their users against their engagement – the interest of both the communities and their users are aligned in the same virtuous revenue sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
+As the Hubs are rewarded with MEED and incentivized to redistribute them as rewards to their users against their engagement – the interests of both the communities and their users are aligned in the same virtuous revenue-sharing cycle. Thus, the WoM offers a new work model, that re-shapes the employer/employee relationship as a partnership.
 
 The “mintium” model is the first of a kind - it goes further than the traditional freemium one, as not only the services are free to use but both the organizations and their users are rewarded for using them.
 
