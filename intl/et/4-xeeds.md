@@ -18,9 +18,9 @@ WoM pakub inimestele läbipaistvamat ja muutumatumat vahendit oma võimete omand
 
 Märgid kasutatakse kogukonnas tehtud saavutuste esindamiseks. Pärast eesmärkide või väljakutsete täitmist saavad kasutajad punkte. Märke saab avada, kogudes teatud hulga punkte konkreetsetes kategooriates.
 
-Kui kasutaja laadib märgid alla, on selle konkreetse saavutuse jaoks võimalik Jaoturisse lisada punktide arv ja tema auaste.
+When the user downloads badges, it is possible to include the number of points and his rank in the Hub for this specific accomplishment.
 
-Volikirjad on paindlikumad kui märgid; need võivad olla eakaaslase soovitus, mis näitab aastatepikkust asjatundlikkust, koolitust või eksami sooritamist või ruumis osalemist. Need on Rummu allkirjastatud ja nendega võib kaasneda eakaaslaste kasutaja allkiri.
+Volikirjad on paindlikumad kui märgid; need võivad olla eakaaslase soovitus, mis näitab aastatepikkust asjatundlikkust, koolitust või eksami sooritamist või ruumis osalemist. The Hub signs these and can be accompanied by a signature by a peer user.
 
 ## 4.3. Digitaalne tööidentiteet
 
@@ -32,7 +32,7 @@ Kasutaja saab väljendada oma Xeed, märgid, ja volikirjad teiste sõlmpunktide 
 
 Kasutajal võib WoMis olla üks või mitu digitaalset identiteeti. Hiljem võis ta neid ühtselt esitada, kasutades kontrollitud esitlusi.
 
-Erinevalt veebist 2 on kasutaja oma detsentraliseeritud identiteetide täielik omanik. Viimane suudab näidata (ja tõestada) kogukondi, kus ta osales, tema tõestatud oskusi, väidetavaid oskusi, teisi Xeeds (inimesi), kellega ta töötas, tema enda digitaalset esitust... Usaldusväärsel viisil LinkedIn 3.0.
+Erinevalt veebist 2 on kasutaja oma detsentraliseeritud identiteetide täielik omanik. The latter can show (and prove) the communities he participated in, their proven skills, their claimed skills, the people whom they worked with, and their digital representation of themselves... Usaldusväärsel viisil LinkedIn 3.0.
 
 Kasutajal on võimalik valida, kas midagi avaldada või mitte, millist teavet esitada ja milliseid identiteete iga positsiooni puhul kasutada. Sisu (tõestatud oskus, eelmised jaoturid jne.) on võltsimiskindel ja seetõttu ei saanud seda muuta. Igasugune identiteet tuleks välja töötada aja jooksul.
 
@@ -58,7 +58,7 @@ Nagu eespool mainitud, avab WoM krüptoraha ja detsentraliseeritud veebiteenuste
 
 Tõepoolest, mis tahes tööülesandeid võib potentsiaalselt sümboliseerida. Tegelikult on maailm muutumas üha enam digitaalseks selliste suundumustega nagu 5G, iot, kantavad seadmed ja nii edasi. Selle tulemusena saaks potentsiaalselt üha rohkem ja rohkem signaale koguda ja analüüsida mitte-digitaalsete elukutsete kaasamise tähistamiseks. Väljakutsed pakuvad valmis viisi selle sümboliseerimiseks, kujutades saavutusi füüsilises maailmas.
 
-Iga kasutaja võib saada Meedsi ja kasutada Meedsi rahakotti, et saada juurdepääs uue ajastu teenustele ilma spetsiaalse väljaõppeta.
+Any user can get MEED and use a Meeds wallet to get access to new age services without any special training.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Kontrollitavate volituste andmemudel
