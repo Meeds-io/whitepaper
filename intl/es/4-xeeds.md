@@ -18,9 +18,9 @@ El WoM proporciona un medio más transparente e inmutable para que las personas 
 
 Las insignias se utilizan para representar los logros realizados dentro de una comunidad. Después de completar un conjunto de objetivos o desafíos, los usuarios serán premiados con puntos. Las insignias pueden desbloquearse acumulando determinadas cantidades de puntos en categorías específicas.
 
-Cuando el usuario descarga las insignias es posible incluir el número de puntos y su rango en el Hub para este logro específico.
+When the user downloads badges, it is possible to include the number of points and his rank in the Hub for this specific accomplishment.
 
-Las credenciales son más flexibles que las malas; podrían ser una recomendación de un homólogo, indicando años de pericia, formación o realización de exámenes, o participación en el espacio. Estos son firmados por el Hub y pueden ser acompañados por una firma de un usuario de compañeros.
+Las credenciales son más flexibles que las malas; podrían ser una recomendación de un homólogo, indicando años de pericia, formación o realización de exámenes, o participación en el espacio. The Hub signs these and can be accompanied by a signature by a peer user.
 
 ## 4.3. Identidad digital en el trabajo
 
@@ -32,7 +32,7 @@ El usuario podrá expresar su Xeed, Insignias y Credenciales hacia otros Hubs pa
 
 Un usuario puede tener una o varias identidades digitales en el WoM. Más tarde podría presentarlos de forma unificada mediante presentaciones verificadas.
 
-Al contrario que en la web 2, el usuario es el pleno propietario de sus identidades descentralizadas. Este último puede mostrar (y probar) las comunidades en las que participó, sus probadas habilidades, Sus reivindicadas habilidades, otras Xeeds (personas) con las que trabajó, su representación digital de sí mismo... A la manera de confianza de LinkedIn 3.0.
+Al contrario que en la web 2, el usuario es el pleno propietario de sus identidades descentralizadas. The latter can show (and prove) the communities he participated in, their proven skills, their claimed skills, the people whom they worked with, and their digital representation of themselves... A la manera de confianza de LinkedIn 3.0.
 
 El usuario podrá seleccionar si desea revelar algo o no, qué información proporcionar y qué identidades utilizar para cada puesto. El contenido (habilidades probadas, Hubs anteriores, etc.) es prueba de manipulación y por lo tanto no se ha podido modificar. Cualquier identidad tendría que desarrollarse con el tiempo.
 
@@ -58,7 +58,7 @@ Como se discutió anteriormente, la WoM abre el mundo de las criptomonedas y los
 
 De hecho, cualquier compromiso laboral puede ser potencialmente tokenizado. De hecho, el mundo es cada vez más digital con tendencias como 5G, iot, wearables, etc. En consecuencia, podrían captarse y analizarse cada vez más señales para tokenizar el compromiso de las profesiones no digitales. Los retos ofrecen una forma fácil de simbolizar los logros en el mundo físico.
 
-Cualquier usuario puede obtener Meeds y utilizar un monedero Meeds para acceder a los servicios de la nueva era sin ninguna formación especial.
+Any user can get MEED and use a Meeds wallet to get access to new age services without any special training.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Modelo de datos de credenciales verificables
