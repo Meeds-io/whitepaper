@@ -2,9 +2,9 @@
 
 ## Résumé
 
-Le marché du travail actuel manque d’efficience du fait d’une part des coûts de transaction élevés[^1][^2][^3] et d’autre part, des conflits d’intérêts entre l’employeur et le salarié.
+Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee. And for this reason, advanced means of financial transactions should be adopted.
 
-Le WoM (World of Meeds) propose un nouveau paradigme qui abaisse les coûts de transactions et reinvente les relations de travail, en faisant le trait d'union entre les sociétés traditionnelles et les DAOs.
+The WoM (World of Meeds) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs (Decentralized Autonomous Organizations).
 
 Le WoM y parvient en introduisant des identités numériques tant pour l'employeur que pour l'employé et en proposant un système innovant pour récompenser l'engagement qui permettra d'aligner leurs intérêts.
 
