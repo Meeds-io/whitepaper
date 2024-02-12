@@ -2,15 +2,13 @@
 
 ## Abstract
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee. And for this reason, advanced means of financial transactions should be adopted.
+Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
 
-The WoM (World of Meeds) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs (Decentralized Autonomous Organizations).
-
-The WoM does that by introducing digital identities for both employer and employee and offering an innovative engagement reward system that would align their interests.
+The WoM (World of Meeds) proposes a new paradigm for reducing transaction costs and reinventing working relationships. It bridges the gap between traditional companies and new forms of organisation by proposing a fair and transparent incentive system that realigns the interests of all parties.
 
 ## Introduction
 
-The work market today is broken. It fails to satisfy both employees and employers.
+The work market today is broken. It fails to satisfy both workers and employers.
 
 On the employee side, it is difficult to find the right jobs. The job market favors certain types of individuals, leaving great skill sets behind. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions.
 
