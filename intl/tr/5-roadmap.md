@@ -10,11 +10,11 @@ Kuruluşlar, doğru kanıtlanmış beceriler için WoM'e göz atarak yetenekleri
 
 WoM'nin kendi para birimi **MEED** olacak; bu para mağazalarda harcamak, başka bir para birimine dönüştürmek, yatırım getirisi için yatırım yapmak, kiralamak veya satın almak vb. için orada olacaktı. WoM ayrıca diğer tokenlerin dağıtımını kolaylaştıracak ve genel kripto ekosistemine katılacaktır.
 
-Bir resim bin kelimeye bedeldir, işte WoM ve Meeds akışlarını açıklayan bir diyagram
+Bir resim bin kelimeye bedel olduğundan, burada WoM ve MEED token akışlarını açıklayan bir diyagram bulunmaktadır.
 
 ![WoM ve Meeds akışları](en/img/wom-flows.png)
 
-Dünyanın bakımı ve uzun vadede sürdürülebilirliği, Meeds derneği ve Şehirler arasında paylaşılan vergilerle sağlanmaktadır.
+Uzun vadede dünyanın devamlılığı ve sürdürülebilirliği, Meeds Derneği ve Şehirler arasında paylaşılan vergilerle sağlanmaktadır.
 
 ## 5.2. Erken benimseyenler için neler var
 
@@ -24,7 +24,7 @@ WoM özellikle ayete yapılan uzun vadeli yatırımı, yani mülkün itfa edilme
 
 Projeye inanarak, likidite havuzlarına katılarak, MEED tokenlerini stake ederek, bunları Deeds'e karşı kullanarak... her büyüklükteki ilk yatırımcılar ek tokenlar basacaktır. Ayrıca en erken oy haklarını alacaklar ve WoM'un şekillenmesine yardımcı olacaklar.
 
-Çalışanlarının ilgisini çekmek ve onları ödüllendirmek için Deed'leri satın alan ancak özellikle kullanan kuruluşlar, basılmış Meed'lerle tazmin edilecektir. Ne kadar adil oynarlarsa, o kadar çok kazanacaklar. Daha erken benimseyenler ilk tarihi şehirlerle ilişkilendirilecek ve daha sonra inşaatçılar olarak tanımlanacaktır.
+Çalışanlarını meşgul etmek ve ödüllendirmek için Deeds'i satın alan ancak özellikle kullanan kuruluşlar, basılan MEED cinsinden tazminat alacaktır. Ne kadar adil oynarlarsa, o kadar çok kazanacaklar. Daha erken benimseyenler ilk tarihi şehirlerle ilişkilendirilecek ve daha sonra inşaatçılar olarak tanımlanacaktır.
 
 Aşağıdaki diyagram, sermaye sahipleri için Meeds yatırım stratejisinin bir örneğini temsil etmektedir:
 
@@ -42,7 +42,7 @@ WoM'nin resmi lansmanı, birçok ülkede kutlanan **1 Mayıs 2022**, yani Ulusla
 
 O zamanlar MEED tokenı zaten mevcuttu. Polygon ve Ethereum ağlarında elde etmek mümkündür ve likidite havuzları katılıma açıktır.
 
-Üç Meeds derneği üyesi, kullanıcılarının ilgisini çekmek ve ödüllendirmek ve Meeds yazılımını geliştirmek için sistemi dahili olarak kullanıyor.
+Üç Meeds Derneği üyesi, kullanıcılarını etkileşime geçirmek, ödüllendirmek ve Meeds yazılımını geliştirmek için sistemi dahili olarak kullanıyor.
 
 Yatırımcı uygulaması Ethereum Mainnet'te mevcuttur. Başlangıçta, stake etme, likidite ödülleri, puan biriktirme ve Deeds'in kullanılmasını içerir.
 
@@ -54,7 +54,7 @@ Bu makale ilk olarak lansman gününde yayınlandı. Lansmanın ardından token,
 
 Meeds yazılımında ve Discord'da inşaatçılar topluluğunu başlatıyoruz. Topluluk, WoM'un inşasında yer almak isteyen herkesi memnuniyetle karşılıyor. Dernek, pazarlama bütçesinden inşaatçıların Meeds ile olan ilişkilerini ödüllendirecektir.
 
-Dernek ayrıca, inşaatçılar topluluğu için bir Deed elde etmek (kurtarmak) amacıyla bazı Meed'leri hisselendirmeyi planlamaktadır. Topluluk daha sonra mintium modeli aracılığıyla Meed'leri etkileşime göre daraltacak ve bunları etkileşime giren kullanıcılara dağıtacaktır.
+Dernek aynı zamanda inşaatçılar topluluğu için bir Tapu almak (geri almak) amacıyla bir miktar MEED hissesi almayı da planlıyor. Topluluk daha sonra mintium modeli aracılığıyla MEED'i etkileşim yoluyla basacak ve bunları ilgili kullanıcılara dağıtacak.
 
 ## 5.5. Yol haritası ve kilometre taşları
 
@@ -68,7 +68,7 @@ Yol haritamız aşağıdaki öncelik sırasını takip edecektir:
 
 İnşa aşamasında DAO'lardan ve teknoloji meraklısı şirketlerden erken benimseyenlere güveniyoruz. Ayrıca, mevcut geleneksel ücret planlarına ek olarak, çalışanlarına ilgili katılım programları sağlayarak WoM'den anında değer elde eden, geleneksel şirketlerden bazı erken benimseyenlere de sahip olmalıyız.
 
-Meeds'in basımı 20 yıllık bir dönemi kapsamaktadır. O zamana kadar, dünya çapında birçok kuruluşa ve çok sayıda kullanıcıya yayılmış, olgun bir ekosistem oluşturmayı başarmayı hedefliyoruz.
+MEED basımı 20 yıllık bir dönemi kapsamaktadır. O zamana kadar, dünya çapında birçok kuruluşa ve çok sayıda kullanıcıya yayılmış, olgun bir ekosistem oluşturmayı başarmayı hedefliyoruz.
 
 ## 5.6. Şu anda yapabilecekleriniz
 
@@ -81,6 +81,6 @@ Katılmak için şu anda ne yapabilirsiniz?
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
 - Döngüden haberdar olmak için [Discord](https://discord.com/invite/hAuADSq3) topluluğumuza katılın
-- Meeds yazılımını test etmek, etkileşimde bulunmak ve bazı Meeds katılım ödülleri kazanmak için [Builders](https://meeds.io/builders) topluluğumuza katılın
+- Meeds yazılımını test etmek, etkileşimde bulunmak ve bazı MEED etkileşim ödülleri kazanmak için [İnşaatçılar](https://meeds.io/builders) topluluğumuza katılın
 
 **\*\*\* WoM - gelin bu çılgın geleceğin dünyasını birlikte inşa edelim. \*\*\***

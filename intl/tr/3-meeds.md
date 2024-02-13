@@ -1,85 +1,82 @@
-# 3. Meeds token – the currency of the WoM
+# 3. MEED tokenı – WoM'un para birimi
 
-WoM, kendi para birimi olan Meeds (MEED) tokenı tarafından desteklenmektedir. Meed'ler kullanıcıları ödüllendirmek (etkileşim programları aracılığıyla), mağazalardan satın almak, Deed almak, yatırımlardan finansal getiri elde etmek vb. için kullanılır.
+MEED tokenı ("Meeds" olarak telaffuz edilir) WoM'ye güç sağlayan para birimidir. Kullanıcılar MEED (katılım programları aracılığıyla), mağazalardan satın alma, Tapu alma, yatırımlardan finansal getiri elde etme ve daha fazlasıyla ödüllendirilir.
 
 ## 3.1. Token Ekonomisi
 
-Meeds **maksimum arzı, kademeli olarak basılan 100 milyon token** ile sınırlıdır. **Meedler dakikada 10 MEED oranında basılır**. Bu nedenle, tam basım ufku 20 yıla yakındır (yılda yaklaşık 10$*60*24*365 = 5M$ Meed basıldığı için).
+**MEED'in maksimum arzı, aşamalı olarak basılan 100 milyon jetonla sınırlıdır**
 
-Başlangıçta 5 Milyon Meed (toplam arzın %5'i) önceden basılmıştı. Bunun 4,5 milyonu, 4 yıl boyunca doğrusal bir vesting ile bir kasa sözleşmesine kilitlendi. Önceden basılan miktar esas olarak yazılım IP'si almak, token emisyonunun yasal ücretlerini ödemek ve barındırma hizmetleri için kullanıldı.
+Meeds Association, fon sağlayan üyelerden yazılım IP'si almak, token emisyonu yasal ücretlerini ödemek ve barındırmak için başlangıçta 5 Milyon MEED (toplam arzın %5'i) bastı. Daha sonra, dört yıl boyunca doğrusal yetkilendirme ile 4,5 Milyon doları kasa sözleşmesine kilitledi.
 
-Geri kalanı __Meeds DAO fonlarının__ bir parçasıdır ve hizmetler için ödeme yapmak ve airdroplar ve yönlendirme kampanyaları gibi teşvikleri başlatmak için kullanılacaktır.
+O zamandan bu yana, **__Token Fabrikası__ adı verilen akıllı bir sözleşme, **MEED tokenlarının basımını sabit bir oranda** gerçekleştiriyor.
 
+Basma oranı, Token Fabrikasının bir parametresidir ve başlangıçta *dakika başına 10 MEED* olarak ayarlanmıştır. DAO'nun oyu gelecekte bu oranı değiştirebilir. Bu hızda, Token Fabrikası yılda yaklaşık 5 Milyon MEED (10*60*24*365) basıyor; dolayısıyla, basım ufku yaklaşık 20 yıldır.
 
 ## 3.2. Darphane tahsisi
 
-Minted Meeds, üç paydaş kategorisinin - kullanıcılar, inşaatçılar ve yatırımcılar - katılımını teşvik etmek için tahsis edilmiştir:
+Token Fabrikası ayrıca basılan MEED tokenlerinin üç paydaş kategorisine tahsisini de yönetir:
 
-- Kullanıcılar (kullanıcılar ve Tapu sahipleri/kiracılar) Meed'leri katılım ödülleri (mintium modeli) aracılığıyla alırlar.
-- İnşaatçılar (dernek ve topluluk üyeleri) WoM'u inşa etmek, işletmek ve geliştirmek için dernek fonları aracılığıyla Meeds alırlar.
-- Yatırımcılar, likidite havuzlarının kiralanması ve satın alınması ve Meed'lerin stake edilmesi yoluyla Meed'leri basarlar.
+- **Kurucular**: WoM'un oluşturulmasına ve çalıştırılmasına yardımcı olan Meeds DAO'ya katkıda bulunanlar
+- **Kullanıcılar**: WoM'nin tüm topluluklarındaki üyeler, katkılarından dolayı ödül olarak MEED kazanırlar
+- **Yatırımcılar**: Meeds DAO, MEED token sahiplerini MEED'i paylaştırmaya veya Meeds ekonomisine likidite sağlamaya teşvik ediyor
 
-Başlangıçta, inşaatçılar tahsisatın %30'unu alırlar. 70'i kullanıcılar ve yatırımcılar arasında paylaşılmaktadır. Bu tahsis oranı, Meeds derneği DAO oylaması yoluyla düzenli olarak gözden geçirilecektir.
+Her paydaş kategorisi, DAO'nun oylarına tabi olan MEED arzından bir pay alır.
 
-## 3.3. Kullanıcılar - etkileşim yoluyla para kazanma
+## 3.3. Kullanıcılar
 
-Sürekli basılan Meedlerin bir kısmı nişan basım kanalına tahsis edilir. Dağıtım haftalık olarak yapılmaktadır. Herhangi bir hafta sonunda, Hub liderlerinin ve Tapu sahiplerinin ödüllerini bir sonraki hafta talep edebilmeleri ve Meed'lerini alabilmeleri için katılım endeksi hesaplanır. Talep edilmeyen Meedler fonda kalır ve bir sonraki haftanın dağıtımına eklenir. Model bir önceki bölümde (bölüm 2.6) ayrıntılı olarak açıklanmıştır.
+Sürekli basılan MEED tokenlerinin bir kısmı, Mintium modeli aracılığıyla sponsor kullanıcı etkileşimine tahsis edilir (bkz. 2.6) MEED ödüllerini Merkezlere tahsis etmek için WoM'nin tüm Merkezlerinde periyodik olarak küresel bir katılım endeksi hesaplanır. Mintium ödülleri Merkez liderleri ve Tapu sahipleri tarafından talep edilebilir.
 
-## 3.4. İnşaatçılar - Meeds derneği DAO ve inşaatçılar topluluğu
+## 3.4. İnşaatçılar
 
-WoM ve Meeds tokenı, yukarıda tanıtılan kar amacı gütmeyen Meeds Association DAO tarafından işletilmektedir. Birliğin işletme giderlerini yönetmek için _Meeds DAO Funds_ adı verilen bir multisig sözleşmesi kullanılır.
+Meeds DAO, WoM ve MEED token tedarikini işletmektedir. _Meeds DAO Fonları_ adı verilen çok imzalı bir akıllı sözleşme, işletme giderlerini yönetir. İnşaatçıları desteklemek için **basılan MEED'in %30'unu** alır.
 
-Darphane döneminde, basılan Meedlerin **%30'u Meeds derneğine tahsis edilir**.
+Meeds Derneği, Meeds DAO Fonlarını kullanarak yasal ücretleri, geliştirme ve barındırma maliyetlerini karşılamak için Meeds DAO adına hizmet sağlayıcı şirketlerle çalışma hakkına sahiptir.
 
-Birlik üyeleri, adam-gün ücretini belirleyen imzalanmış bir hizmet sözleşmesi temelinde birliğe hizmet sağlayabilir. Hizmetler, piyasa fiyatına göre Meeds cinsinden aylık olarak ödenir. Hizmet örnekleri arasında Meeds yazılımının zenginleştirilmesi, WoM uygulamasının geliştirilmesi, yeni konektörlerin geliştirilmesi, bulut hizmetinin işletilmesi, finansal ve yasal hizmetlerin sağlanması vb. yer almaktadır.
+Meeds Derneği üyesi olmayan kuruluşlar ve bireyler, WoM'un oluşturulmasına ve tanıtılmasına katılmak isteyen meraklıları ağırlayan bir topluluk merkezi olan _Meeds Builders Hub_ aracılığıyla hâlâ katkıda bulunabilirler. the <0>Meeds DAO Fonları</0> ayrıca İnşaatçılar Merkezi'ne yapılan katkılar için de ödül.
 
-Üye olmadan, herhangi bir kuruluş yeni bir bağlayıcının oluşturulmasına katılabilir ve bunu yaptığı için ödüllendirilebilir - önce Meeds derneğinin bağlayıcıyı edinmesi ve ardından bu bağlayıcı aracılığıyla basılması yoluyla.
+Builders Hub da diğer merkezler gibi Mintium ödülleri alıyor.
 
-Dernek, WoM'un oluşturulmasına katkıda bulunmak isteyen meraklıları ağırlayan _Meeds Builders Hub_ adlı kendi topluluk merkezini işletiyor. Dernek, topluluk üyelerinin katılımının karşılığını vererek topluluğa bütçesinden sponsorluk yapar.
-
-Bu nedenle inşaatçıların merkezi, Meeds yazılımıyla desteklenen bir topluluğun canlı bir örneği olarak işlev görüyor ve dernek tarafından sağlanan standart bir dizi hizmet sunuyor. Dernek, topluluğu için bir Tapu karşılığında Meeds'i kazıklıyor. Dolayısıyla İnşaatçı Merkezi de, bir Senedle desteklenen diğer Merkezler gibi nişan basımından yararlanır.
-
-Darphane dönemi sona erdikten sonra, dernek tarafından sürdürülecektir:
+Basım dönemi bittikten sonra Meeds DAO'nun işletme maliyetleri aşağıdakiler tarafından desteklenecektir:
 
 - pasif gelirin vergilendirilmesi (Deed kiralamalarında %3)
 - satış gelirlerinin vergilendirilmesi (Deeds satışları üzerinden %2,5)
 - avantaj mağazalarının kullanımı üzerinden işlem ücreti algılanması
 - likidite havuzu sağlayıcısı olarak hareket etmek
-- bir Hub, Meeds olmayan tokenleri WoM hizmetleri aracılığıyla dağıttığında işlem ücretlerinin algılanması.
-- derneğin zaman içinde bastığı Deed'leri işleterek.
+- Bir Hub, Hub'larına alternatif tokenlar dağıttığında işlem ücretlerinin algılanması
+- DAO'nun zaman içinde bastığı Tapuları kiralamak ve satmak.
 
 
 ## 3.5. Yatırımcılar
 
-Yatırımcılar, likidite sağlayarak ve Meed'leri stake ederek WoM'un oluşturulmasına yardımcı olur ve böylece inşaat süresi boyunca fiyat seviyesini sabitler. Her ikisi de darphane aracılığıyla teşvik edilmektedir.
+Yatırımcılar, likidite sağlayarak ve MEED tokenlerini stake ederek WoM'u destekliyor, bu da inşaat aşamasında fiyat seviyesinin istikrara kavuşmasına yardımcı oluyor. Her ikisi için de teşvikler mevcuttur:
 
-**Likidite sağlayıcıları** Döviz likiditesi yönetimi projenin başarısı için kilit öneme sahiptir ve sermaye verimliliğini optimize etmek için çeşitli DeFi stratejileri kullanılacaktır. MeedS/ETH LP havuz jetonlarını stake etmeye yönelik teşviklerle başlayacağız ve protokole ait bir likiditeye doğru ilerlemek için aşamalı olarak tahviller sunacağız. İkincisi, birliğin uzun vadeli sürdürülebilirliğine katkıda bulunacaktır - yukarıda belirtildiği gibi, işlem ücretleri bulut barındırma gibi birlik işletme giderlerini finanse edecektir.
+**Likidite sağlayıcıları** Döviz likidite yönetimi projenin başarısı için çok önemlidir. Meeds DAO, sermaye verimliliğini optimize etmek için çeşitli DeFi mekanizmalarını kullanır. Örneğin teşvikler, likidite sağlayıcılarının LP tokenlerini kiralayarak getiri elde etmelerine olanak tanıyor. Ayrıca tahvillerin piyasaya sürülmesi ve aşamalı olarak protokole ait likiditeye doğru ilerleme planları da var. İkincisi projenin uzun vadeli sürdürülebilirliğine katkıda bulunacaktır; yukarıda belirtildiği gibi işlem ücretleri işletme giderlerini karşılayacaktır.
 
-Her üye ayrıca indirimli olarak büyük miktarda Meeds'i doğrudan satın alma hakkına sahiptir. Dernek hesabına havale edilen tutar ETH'ye dönüştürülür ve eşdeğer Meeds değeri ile birlikte Likidite Havuzuna eklenir.
+Ek olarak, Meeds DAO adına Meeds Derneği, daha kapsamlı miktarlarda MEED tokenlarının OTC (hazır) satın alımlarını kolaylaştırma hakkına sahiptir.
 
-**Staking / uzun vadeli yatırım** Uzun vadeli yatırımı teşvik etmek için, stake edilmiş Meed'ler ödüllendirilir. Meedler stake edildiğinde, stake eden kişi birkaç xMeeds jetonu alır. Yeni basılan Meed'ler stake sahiplerine xMeeds varlıklarıyla orantılı olarak dağıtılır. Newly minted Meeds are distributed to stakers proportionally to their xMeeds holdings.
+**Stake etme / uzun vadeli yatırım** Meeds DAO, Meeds'i uzun vadede desteklemek isteyen sadık yatırımcıları ödüllendiriyor. Herkes, getiri ve xMEED tokenları kazanmak için kullanılmamış MEED tokenlarını stake edebilir.
 
-Yatırımcılar, Meed'leri stake ederek aynı zamanda Deed NFT'lerini de kullanabilir (ve daha sonra katılım yoluyla basmaya katılabilirler), böylece token talebini artırabilirler. Kazıklanan her Meeds (xMeeds) sahibine günde bir puan kazandırır. Hak kazanma süresi ne kadar uzun olursa xMeeds başına elde edilen puan sayısı da o kadar yüksek olur. Her Deed daha sonra bir dizi puan karşılığında kullanılır.
+Staking, yatırılan MEED tokenleri oranında xSEED tokenlarının basılmasıyla sonuçlanır. xMEED tokenı, DAO tekliflerine oy vermek için kullanılan Meeds yönetim tokenidir.
 
-Puanlar aşağıdaki formül kullanılarak hesaplanır:
+Ek olarak, xMEED sahipleri, onlara Tapu NFT'leri basma hakkı veren basım puanları kazanır. Bu mekanizma MEED tokenlerine olan talebi artırıyor. Paydaş hissesini koruduğu sürece basım puanları zamanla birikir. Aşağıdaki formül, nane puanlarını hesaplamanıza olanak tanır:
 
- $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
+ $$ P = xMEED / (xMEED + 12000) * T / 240 $$
 
- nerede :
+ Nerede:
 
-- $xMeeds$ : xMeeds ondalıksız bakiye
-- $T$ : Milisaniye cinsinden geçen süre
+- $xMEED$: ondalık sayı içermeyen xMEED bakiyesi
+- $T$: Milisaniye cinsinden geçen süre
 
-Formül, Deeds'i daha verimli ve daha adil bir şekilde dağıtmak için büyük sahipleri kayırmaktan kaçınmaktadır. Örneğin, formül aşağıdaki oranları verir:
+Formül, tapuların daha verimli ve adil bir şekilde dağıtılması için büyük sahiplerin tercih edilmesini önler. Örneğin, formül aşağıdaki oranları verir:
 
 | **Tutucu Boyutu** | **Holdingler** | **Tahakkuk Oranı** |
 | ----------------- | -------------- | ------------------ |
-| Küçük             | 1 000 xMeeds   | 28 puan/gün        |
-| Orta              | 10 000 xMeeds  | 164 puan/gün       |
-| Büyük             | 100 000 xMeeds | 321 puan/gün       |
+| Küçük             | 1 000 xMEED    | 28 puan/gün        |
+| Orta              | 10 000 xMEE    | 164 puan/gün       |
+| Büyük             | 100 000 xMEED  | 321 puan/gün       |
 
 
-bu da her bir hamil sınıfı için aşağıdaki elde tutma süresine yol açar:
+Bu tahakkuk oranları, her bir sınıf sahibi için aşağıdaki elde tutma süresine yol açar:
 
 | **Kart Tipi**  | **Maliyet**  | **Büyük Tutucu** | **Orta Boy Tutucu** | **Küçük Tutucu** |
 | -------------- | ------------ | ---------------- | ------------------- | ---------------- |
@@ -90,20 +87,20 @@ bu da her bir hamil sınıfı için aşağıdaki elde tutma süresine yol açar:
 
 ## 3.6. Meeds DAO yönetişimi
 
-Meeds token sahiplerinin, darphane bütçesini yönetmek veya DAO yönetim kurulu üyelerini seçmek (yıllık yetki) gibi Meeds DAO kararlarını oylamak için token yatırmaları gerekir.
+xMEED token sahipleri, bütçe tahsisinin yönetilmesi veya DAO yönetim kurulu üyelerinin seçilmesi gibi kararlarda tokenleriyle oy kullanarak Meeds DAO'nun yönetimine serbestçe katılabilirler.
 
 ## 3.7. Merkezi olmayan finans (DeFi) kullanıcı hizmetleri
 
 WoM, bugün kullanmayan birçok kişiye blockchain dünyasını tanıtacak.
 
-Aslında, herhangi bir çalışma (dijital olsun ya da olmasın) oyunlaştırılabilir ve herhangi bir katılım - Meeds ile ödüllendirilebilir. Meed'ler, kripto dünyasının tüm karmaşıklığını ortalama bir kullanıcı için "soyutlayan", kullanımı kolay, blok zinciri tabanlı bir cüzdan aracılığıyla kullanıcılara sunulmaktadır.
+Aslında, Meeds yazılımı herhangi bir katkıyı (dijital olsun veya olmasın) oyunlaştırabilir ve parasal bir değer belirleyebilir ve bunu MEED tokenleri ile ödüllendirebilir. Bu, ortalama bir kullanıcı için kripto dünyasına erişimi kolaylaştıran, kullanımı kolay, blockchain tabanlı bir cüzdan uygulamasıyla mümkün oldu; ödüller somuttur.
 
-Cüzdan ve Meeds için avantajlar satın alabilecekleri bir mağazanın ötesinde, her kullanıcıyı Merkezi Olmayan Finans protokolleri tarafından desteklenen çeşitli son kullanıcı ürünleriyle tanıştırmayı planlıyoruz:
+Cüzdanın ve MEED tokenleri için avantajlar satın alabilecekleri bir mağazanın ötesinde, her kullanıcıya Merkezi Olmayan Finans protokolleri tarafından desteklenen aşağıdakiler gibi çeşitli son kullanıcı ürünlerini tanıtmayı planlıyoruz:
 
 - MEED tokenlerini stake etme ve getiri elde etme (gelir üretme) yeteneği
-- MEED tokenlerini stake etme ve getirme (gelir üretme) yeteneği.
-- Apple Pay, Google pay veya herhangi bir ATM aracılığıyla eklenebilen ve kullanılabilen dijital bir kart. İkincisi, VISA ile ortaklık yoluyla sağlanabilir ve USDC'de stake edilmiş Meeds ile güvence altına alınan bir kredi hattından yararlanacaktır. Bu kart aynı zamanda kuruluşlar tarafından restoran, ulaşım ve her türlü harcama gibi çalışan avantajlarını yönetmek amacıyla çalışan cüzdanlarını finanse etmek için de kullanılabilir.
+- MEED tokenlerini USDC gibi stabilcoinleri ödünç almak için teminat olarak kullanma yeteneği (önce bir [Fuse havuzundan](https://app.rari.capital/fuse) yararlanarak, ardından MEED tokenini [AAVE](https://aave.com/)'ye kaydederek).
+- Dijital kart Apple Pay, Google Pay veya herhangi bir ATM aracılığıyla eklenebilir ve kullanılabilir. İkincisi, VISA ile ortaklık aracılığıyla sağlanabilecek ve xMEED tarafından güvence altına alınan USDC cinsinden bir kredi limitinden yararlanacak. Kuruluşlar bu kartı restoran, ulaşım ve diğer harcamalar gibi çalışanlara sağlanan faydaları yönetmek amacıyla çalışan cüzdanlarına fon sağlamak için de kullanabilir.
 
-Böylece sadece birçok yeni kullanıcı blok zinciri dünyasını keşfetmekle kalmayacak, aynı zamanda bankasız bir dünyayı da keşfedecekler.
+Yani birçok yeni kullanıcı sadece blockchain dünyasını keşfetmekle kalmayacak, aynı zamanda bankasız bir dünyayı da keşfedecek.
 
  

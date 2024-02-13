@@ -18,9 +18,9 @@ WoM, insanların yeteneklerini kazanmaları ve sergilemeleri için daha şeffaf 
 
 Rozetler, bir topluluk içinde yapılan başarıları temsil etmek için kullanılır. Bir dizi hedefi veya görevi tamamladıktan sonra kullanıcılara puan verilecektir. Rozetler, belirli kategorilerde belirli miktarlarda puan biriktirilerek açılabilir.
 
-Rozetler kullanıcı tarafından indirildiğinde, bu özel başarı için Merkezdeki puan sayısını ve rütbesini eklemek mümkündür.
+Kullanıcı rozetleri indirdiğinde, bu özel başarı için Merkezdeki puan sayısını ve rütbesini eklemek mümkündür.
 
-Bunlar Hub tarafından imzalanır ve bir eş kullanıcının imzası da buna eşlik edebilir. Bunlar Hub tarafından imzalanır ve bir eş kullanıcının imzası da buna eşlik edebilir.
+Bunlar Hub tarafından imzalanır ve bir eş kullanıcının imzası da buna eşlik edebilir. Hub bunları imzalar ve buna bir eş kullanıcının imzası da eşlik edebilir.
 
 ## 4.3. Dijital çalışma kimliği
 
@@ -32,7 +32,7 @@ Kullanıcı, deneyimini vurgulamak için Xeed'ini, Rozetlerini ve Kimlik Bilgile
 
 Bir kullanıcı WoM'da bir veya birden fazla dijital kimliğe sahip olabilir. Daha sonra bunları doğrulanmış sunumlar kullanarak birleşik bir şekilde sunabilir.
 
-Web 2'nin aksine, kullanıcı merkezi olmayan kimliklerinin tam sahibidir. İkincisi katıldığı toplulukları, kanıtlanmış becerilerini, iddia ettiği becerileri, birlikte çalıştığı diğer Xeed'leri (kişileri), kendisinin dijital temsilini gösterebilir (ve kanıtlayabilir)... Güvenilir bir şekilde LinkedIn 3.0.
+Web 2'nin aksine, kullanıcı merkezi olmayan kimliklerinin tam sahibidir. İkincisi katıldığı toplulukları, kanıtlanmış becerilerini, iddia edilen becerilerini, birlikte çalıştıkları kişileri ve kendilerinin dijital temsillerini gösterebilir (ve kanıtlayabilir)... Güvenilir bir şekilde LinkedIn 3.0.
 
 Kullanıcı, herhangi bir şeyi ifşa edip etmeyeceğini, hangi bilgileri sağlayacağını ve her pozisyon için hangi kimliklerin kullanılacağını seçebilecektir. İçerik (kanıtlanmış beceri, önceki Hub'lar vb.) kurcalamaya karşı dayanıklıdır ve bu nedenle değiştirilemez. Herhangi bir kimliğin zaman içinde geliştirilmesi gerekecektir.
 
@@ -58,7 +58,7 @@ Yukarıda tartışıldığı gibi WoM, kripto para birimi ve merkezi olmayan web
 
 Aslında, her türlü iş ilişkisi potansiyel olarak tokenize edilebilir. Aslında dünya 5G, iot, giyilebilir cihazlar ve benzeri trendlerle giderek dijitalleşiyor. Sonuç olarak, potansiyel olarak daha fazla sinyal yakalanabilir ve dijital olmayan mesleklerin katılımını belirtmek için analiz edilebilir. Meydan okumalar, fiziksel dünyadaki başarıları temsil ederek bunu simgelemek için hazır bir yol sağlar.
 
-Herhangi bir kullanıcı Meeds alabilir ve herhangi bir özel eğitim almadan yeni çağ hizmetlerine erişmek için bir Meeds cüzdanı kullanabilir.
+Herhangi bir kullanıcı, herhangi bir özel eğitim gerektirmeden yeni çağ hizmetlerine erişmek için MEED alabilir ve Meeds cüzdanını kullanabilir.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Verifiable Credentials Data Model

@@ -1,12 +1,15 @@
 
 # 1. Hakkımızda
 
-Meeds, merkezi kurumsal kontrole direnen ve özgür ve açık bir ortamı teşvik eden, merkezi olmayan bir dijital dünya yaratmaya adanmış, çeşitli Açık Kaynak Yazılım (OSS) toplulukları tarafından yönetilen ortak bir çabadır.
+Meeds, merkezi kurumsal kontrole direnen ve özgür ve açık bir ortamı teşvik eden, merkezi olmayan bir dijital dünya yaratmaya adanmış çeşitli açık kaynaklı yazılım (OSS) toplulukları tarafından yürütülen ortak bir çabadır.
 
-Meeds'in arkasındaki tüzel kişilik, Cenevre'de İsviçre yasalarına göre kurulmuş, kâr amacı gütmeyen bir kuruluş olan _Meeds Association_'dır. Yardımcı token olarak tanınan bir ERC20 tokeni olan Meeds(MEED) tokeninin ihracını düzenlemekten sorumludur.
+Meeds projesi, WoM protokollerini uygulamak ve MEED tokeninin tedarikini yönetmek için Ethereum ekosistemini kullanıyor. Bu yaklaşım güvenlik, erişilebilirlik, kullanılabilirlik ve maliyet etkinliğinin önceliklendirilmesine yardımcı olarak onu geniş bir kullanıcı tabanı için çekici hale getirdi. Ancak WoM, çoklu zincir olmayı hedefleyen, özerk ve kendi kendine yeten bir kamu malı olacak şekilde tasarlandı.
 
-Merkezi Olmayan Özerk Bir Kuruluş (DAO) olarak işlev gören Meeds, yönetişim haklarına sahip token sahiplerinin yıllık yönetim kurulu seçimleri gibi önemli karar alma süreçlerine katıldığı, şeffaflığın ve kurumsal değişikliklere topluluk katılımının sağlandığı demokratik yönetişime vurgu yapıyor.
+Meeds'in arkasındaki tüzel kişilik, Cenevre'de İsviçre yasalarına göre kayıtlı, kâr amacı gütmeyen bir kuruluş olan _Meeds Association_'dır. MEED tokenlarının düzenlenmesinden ve hizmet sağlayıcılarla sözleşme yapılmasından sorumludur.
 
-Meeds projesi, World of Meeds'i (WoM) ve Meeds tokenını uygulamak için Ethereum ekosistemini kullanıyor. Bu yaklaşım güvenlik, erişilebilirlik, kullanıcı dostu olma ve maliyet etkinliğine öncelik vererek onu geniş bir kullanıcı tabanına çekici kılmaktadır.
+Meeds Derneği, Meeds protokolünün ve hazinelerin kontrolünü aşamalı olarak Meeds ekosisteminin merkezi olmayan yönetişim kolunu temsil eden merkezi olmayan özerk kuruluş olan _Meeds DAO_'ya devretmeyi amaçlıyor ve topluluğun katılımını güçlendiriyor. karar verme, teklif oylama ve protokol yükseltmeleri.
 
-Meeds, Meeds Association'ın barındırma ortakları tarafından bulut altyapısında işletilen bir Açık Kaynak Yazılımdır ([github.com/meeds-io](https://github.com/meeds-io)).
+Meeds Derneği ile Meeds DAO arasındaki ilişki, onların gerçek dünyada nasıl faaliyet gösterdiğini içerir. Meeds Derneği, üyeleri ve bir yönetim kurulu bulunan ve belirli yasal ve düzenleyici çerçeveler altında faaliyet gösteren geleneksel bir kuruluştur. Meeds Derneği gerçek dünyada etkinlikler düzenlemek, hizmet sunmak, üyelerine yönelik savunuculuk yapmak gibi faaliyetlerde bulunabilir. Meeds Derneği gerçek dünyada etkinlikler düzenliyor, hizmet sunuyor, Üyelere yönelik savunuculuk yapmak gibi faaliyetlerde bulunabilir. Meeds DAO ise merkezi bir otorite olmadan faaliyet gösteriyor ve blockchain tabanlı oylama mekanizmalarını kullanarak üyelerinin fikir birliğine vararak kararlar alıyor. Akıllı sözleşmeler aracılığıyla projelerin finansmanı, varlıkların yönetilmesi, karar alınması gibi faaliyetlerde de bulunabilir.
+
+WoM, açık kaynaklı bir yazılım ([github.com/meeds-io](https://github.com/meeds-io)) olarak oluşturulmuştur ve Meeds DAO adına Meeds Association tarafından seçilen ortaklar tarafından barındırılmaktadır.
+
