@@ -2,15 +2,13 @@
 
 ## Résumé
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee. And for this reason, advanced means of financial transactions should be adopted.
+Le marché du travail actuel manque d'efficacité en raison des coûts de transaction élevés[^1][^2][^3] et des conflits d'intérêts fréquents entre employeurs et employés.
 
-The WoM (World of Meeds) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs (Decentralized Autonomous Organizations).
-
-Le WoM y parvient en introduisant des identités numériques tant pour l'employeur que pour l'employé et en proposant un système innovant pour récompenser l'engagement qui permettra d'aligner leurs intérêts.
+Le WoM (World of Meeds) propose un nouveau paradigme pour réduire les coûts de transaction et réinventer les relations de travail. Il permet de combler le fossé entre les entreprises traditionnelles et les nouvelles formes d'organisation en proposant un système d'incitation équitable et transparent qui réaligne les intérêts de toutes les parties.
 
 ## Introduction
 
-Le marché du travail ne fonctionne pas. Il a échoué à satisfaire tant les salariés que leurs employeurs.
+Le marché du travail ne fonctionne pas. Il ne satisfait ni les travailleurs ni les employeurs.
 
 Du point de vue des employés, il est devenu difficile de trouver des emplois adéquats. Le marché favorise certains individus plus aptes à valoriser leur expérience, alors que d’autres personnes moins en vue mais parfois plus compétentes sont mises de côté. Nombre de biais l’expliquent : discrimination raciste, sexiste, handicap, introversion des individus, etc. Le marché du travail manque également de transparence sur d’autres sujets tels que les emplois disponibles et les conditions de travail.
 
