@@ -1,82 +1,82 @@
-# 3. The MEED token – the currency of the WoM
+# 3. الرمز المميز MEED - عملة WM
 
-The MEED token (pronounced "Meeds") is the currency that powers the WoM. Users are rewarded with MEED (through engagement programs), purchase in stores, get Deeds, get financial returns on investments, and more.
+الرمز المميز MEED (المسمى "Meeds") هو العملة التي تعمل على تمكين WM. يتم مكافأة المستخدمين باستخدام MEED (من خلال برامج المشاركة)، والشراء في المتاجر، والحصول على الصكوك، والحصول على العائدات المالية على الاستثمارات، والمزيد.
 
 ## 3.1. الرموز (توكينوميكس)
 
-The **maximum supply of MEED is limited to 100 million tokens**, minted progressively.
+**الحد الأقصى للإمدادات من MEED محدود بـ 100 مليون رمز**، يتم تعدينها تدريجيا.
 
-The Meeds Association has minted 5 Million MEED (5% of the total supply) at the start to acquire software IP from the funding members, pay for token emission legal fees, and hosting services. Then, it locked 4.5 Million in a vault contract with a linear vesting over four years.
+وقد قامت جمعية مقياس الدمج بزرع 5 ملايين وحدة تنمية سكنية (5 في المائة من مجموع الإمدادات) في بداية شراء برنامج IP من الأعضاء الممولين للبرامجيات. دفع رسوم قانونية للانبعاثات الرمزية، وخدمات الاستضافة. ثم حجزت 4.5 مليون في عقد خزانة مع منح خطي على مدى أربع سنوات.
 
 منذ ذلك الحين، يقوم عقد ذكي يسمى 0>1>Token Factory/1> بتنفيذ سك رموز MEED بمعدل ثابت/0>.
 
-The minting rate is a parameter of the Token Factory, set at *10 MEED per minute* at the start. A vote of the DAO may change this rate in the future. At such rate, the Token Factory mints around 5 Million MEED yearly (10*60*24*365); thus, the minting horizon is nearly 20 years.
+معدل التعدين هو معلمة مصنع الرمز المميز، المحدد في *10 MEED في الدقيقة* في البداية. وقد يغير هذا المعدل في المستقبل تصويت إدارة الشؤون الاقتصادية والاجتماعية. وبهذه المعدلة، ينجم مصنع العملات الرمزية حوالي 5 ملايين منجم سنويا (10*60*24*365)؛ وبالتالي فإن أفق التعدين يناهز 20 عاما.
 
 ## 3.2. تخصيص الصك
 
-The Token Factory also rules the allocation of minted MEED tokens to  three categories of stakeholders :
+وينظم مصنع التوكين أيضا تخصيص الرموز الملغومة لثلاث فئات من أصحاب المصلحة:
 
-- **Builders**: Contributors of the Meeds DAO that help build and run the WoM
-- **Users**: Members in all communities of the WoM earn MEED as rewards for their contributions
+- **البناء**: المساهمون في Meeds DAO التي تساعد في بناء وتشغيل WM
+- **المستخدمين**: الأعضاء في جميع المجتمعات في WM يكسبون MEED كمكافآت لمساهماتهم
 - **المستثمرون**: تعمل Meeds DAO على تحفيز مالكي الرموز المميزة لـ MEED للمشاركة في MEED أو توفير السيولة لاقتصاد Meeds
 
-Each category of stakeholders receives a share of the MEED supply, which is subject to votes by the DAO.
+وتتلقى كل فئة من فئات أصحاب المصلحة حصة من إمدادات وزارة الكهرباء والمياه تخضع للتصويت من جانب المساعدة الإنمائية الرسمية.
 
-## 3.3. Users
+## 3.3. المستخدمون
 
-Part of the continuously minted MEED tokens is allocated to sponsor user engagement through the Mintium model (see 2.6). A global engagement index is calculated periodically across all Hubs of the WoM to allocate MEED rewards to the Hubs. Mintium rewards are claimable by Hub leaders and Deed owners.
+ويخصص جزء من الرموز الملغومة باستمرار لوزارة التعليم والتنمية الاقتصادية والاجتماعية لرعاية مشاركة المستعملين من خلال نموذج مينتيوم (انظر 2-6). يتم حساب مؤشر المشاركة العالمي بشكل دوري عبر جميع محاور WM لتخصيص مكافآت MEED للمراكز. جوائز مينتيوم قابلة للمطالبة من قبل قادة المحور ومالكي السندات.
 
-## 3.4. Builders
+## 3.4. بناة
 
-The Meeds DAO operates the WoM and the MEED token supply. A multi-sig smart contract called the _Meeds DAO Funds_ manages the operating expenses. It receives **30% of the minted MEED** to support Builders.
+وتشغل شركة ميدز داو موم وتوريد الرمز المميز للوزارة المذكورة. A multi-sig smart contract called the _Meeds DAO Funds_ manages the operating expenses. It receives **30% of the minted MEED** to support Builders.
 
-The Meeds Association is entitled to hire service provider companies on behalf of the Meeds DAO to cover legal fees, development, and hosting costs using the Meeds DAO Funds.
+ويحق لرابطة المقياس أن تستأجر شركات تقديم الخدمات بالنيابة عن مؤسسة "ميد داو" لتغطية الرسوم القانونية، • تطوير تكاليف الاستضافة باستخدام صناديق "ميدز داو".
 
-Organizations and individuals not members of the Meeds Association may still contribute through the _Meeds Builders Hub_  - a community hub that welcomes enthusiasts who want to participate in creating and promoting the WoM. The <0>Meeds DAO Funds</0> also reward for contributions to the Builders Hub.
+Organizations and individuals not members of the Meeds Association may still contribute through the _Meeds Builders Hub_  - a community hub that welcomes enthusiasts who want to participate in creating and promoting the WoM. السّلطة <0>صندوق برنامج DAO</0> أيضًا مكافأة عن المساهمات في مركز البناء.
 
-The Builders Hub also receives Mintium rewards like any other hub.
+مركز البناء يحصل ايضا على جوائز مينتيوم مثل اي مركز اخر.
 
-After the minting period is over, the operational costs of the Meeds DAO will be supported by :
+وبعد انتهاء فترة التعدين، ستدعم التكاليف التشغيلية لشركة Meeds DAO بما يلي:
 
 - فرض ضريبة على الدخل السلبي (3% على إيجارات العقارات)
 - فرض ضريبة على دخل البيع (2.5٪ على مبيعات السندات)
 - جمع رسوم المعاملات المترتبة عن استخدام متاجر المزايا
 - العمل كموفر لحوض السيولة
-- perceiving transaction fees when a Hub distributes alternative tokens on their Hubs
-- renting and selling the Deeds that the DAO minted over time.
+- تصور رسوم المعاملات عندما يقوم مركز بتوزيع رموز بديلة على محاورهم
+- تأجير وبيع السندات التي استخرجتها شركة DAO بمرور الوقت.
 
 
 ## 3.5. مستثمرون
 
-Investors support the WoM by providing liquidity and staking MEED tokens, which helps stabilize the price level during the building phase. Incentives are in place for both:
+ويدعم المستثمرون آلية التوفير عن طريق توفير السيولة والرموز المميزة، مما يساعد على تثبيت مستوى الأسعار خلال مرحلة البناء. وتوجد حوافز لكليهما:
 
-**Liquidity providers** Currency liquidity management is crucial to the project's success. The Meeds DAO employs various DeFi mechanisms to optimize its capital efficiency. For instance, incentives allow liquidity providers to farm yields by renting their LP tokens. Also, there are plans to introduce bonds and move towards protocol-owned liquidity progressively. The latter will contribute to the project's long-term sustainability - as mentioned above, transaction fees will fund the operating expenses.
+**Liquidity providers** Currency liquidity management is crucial to the project's success. وتستخدم المنظمة آليات مختلفة من أجل تحسين كفاءة رأسمالها إلى أقصى حد. فعلى سبيل المثال، تسمح الحوافز لمقدمي السيولة بزراعة المحاصيل عن طريق تأجير رموزهم الرمزية. وهناك أيضا خطط لإدخال سندات والتحرك نحو السيولة المملوكة للبروتوكول. وستسهم هذه الأخيرة في استدامة المشروع على المدى الطويل - كما ذكر أعلاه، ستمول رسوم المعاملات مصروفات التشغيل.
 
-Additionally, on behalf of the Meeds DAO, the Meeds Association is entitled to facilitate OTC (off-the-shelf) purchases of more extensive amounts of MEED tokens.
+وبالإضافة إلى ذلك، يحق لرابطة المقتنيات، نيابة عن مؤسسة "Meeds DAO"، أن تيسر شراء شركة OTC (متاحة) بكميات أكبر من الرموز المميزة للشركة المذكورة.
 
-**Staking / long-term investment** Meeds DAO rewards loyal investors who want to support Meeds long-term. Anyone can stake their unused MEED tokens to earn yields and xMEED tokens.
+**Staking / long-term investment** Meeds DAO rewards loyal investors who want to support Meeds long-term. يمكن لأي شخص أن يجني رموزه MEED غير المستخدمة لكسب غلة ورموز xMEED.
 
-Staking reults in the minting of xMEED tokens in proportion of the MEED tokens deposited. The xMEED token is Meeds governance token, which is used for voting on DAO proposals.
+ويتمسك التقاط في تعدين العملات الرمزية xMEED بنسبة من العملات الرمزية المودعة في MEED. الرمز المميز لـ xMEED هو الرمز المميز لإدارة Meeds الذي يستخدم للتصويت على مقترحات مشروع DAO.
 
-Additionally, xMEED holders earn minting points that entitle them to mint Deed NFTs. This mechanism increases the demand for MEED tokens. Minting points accrue over time as long as the stakeholder maintains his stake. The formula below allows you to calculate minting points :
+وبالإضافة إلى ذلك، يحصل حاملو XMEED على نقاط تعدين تخولهم استخراج سندات الصيد. وتزيد هذه الآلية الطلب على الرموز المميزة للسوق المتعددة الجنسيات. وتتراكم نقاط التعدين مع مرور الوقت ما دام أصحاب المصلحة يحافظون على مصلحتهم. تسمح لك الصيغة أدناه بحساب نقاط التعدين:
 
  $$ P = xMEED / (xMEED + 12000) * T / 240 $$
 
- Where:
+ حيث:
 
-- $xMEED$: xMEED balance  with no decimals
+- $xMEED$: رصيد XMEED بدون كسور عشرية
 - $T$: الوقت المنقضي بالمللي ثانية
 
-The formula avoids favoring large holders to distribute Deeds more efficiently and equitably. على سبيل المثال، تعطي الصيغة معدلات النقاط التالية:
+وتتفادى هذه الصيغة تفضيل كبار الحائزين على توزيع الصكوك على نحو أكثر كفاءة وإنصافا. على سبيل المثال، تعطي الصيغة معدلات النقاط التالية:
 
 | **حجم الحامل (Holder Size)** | **الأصول المملوكة (Holdings)** | **معدل التراكم (Accrue Rate)** |
 | ---------------------------- | ------------------------------ | ------------------------------ |
-| الصغير                       | 1 000 xMEED                    | 28 نقطة / يومياً               |
-| المتوسط                      | 10 000 xMEED                   | 164 نقطة / يومياً              |
-| الكبير                       | 100 000 xMEED                  | 164 نقطة / يومياً              |
+| الصغير                       | 1000 xMEED                     | 28 نقطة / يومياً               |
+| المتوسط                      | 10000 xMEED                    | 164 نقطة / يومياً              |
+| الكبير                       | 100000 XMEED                   | 164 نقطة / يومياً              |
 
 
-These accrue rates lead to the following holding time for each class of holder :
+وتؤدي هذه المعدلات المتراكمة إلى الوقت التالي للاحتفاظ بكل فئة من فئات الحائزين:
 
 | **أنواع البطاقات** | **تكلفة**          | **الحامل الكبير** | **الحامل المتوسط** | **الحامل الصغير** |
 | ------------------ | ------------------ | ----------------- | ------------------ | ----------------- |
@@ -87,20 +87,20 @@ These accrue rates lead to the following holding time for each class of holder :
 
 ## 3.6. حكم Meeds DAO
 
-xMEED token holders can freely participate in the governance of the Meeds DAO by voting with their tokens on decisions such as managing the budget allocation or electing DAO board members.
+'10` يمكن لحاملي الرموز أن يشاركوا بحرية في إدارة شؤون المنظمة بالتصويت مع رموزهم على قرارات مثل إدارة مخصصات الميزانية أو انتخاب أعضاء مجالس إدارة المنظمة.
 
 ## 3.7. خدمات مستخدمي التمويل اللامركزي (DeFi)
 
 ستقدم WoM عالم blockchain للعديد من الأشخاص الذين لا يستخدمونه اليوم.
 
-Indeed, Meeds software can gamify and set a monetary value on any contribution (whether it is digital or not) and reward it with MEED tokens. This has be made possible by an easy-to-use, blockchain-based wallet app that simplifies access to the crypto world for an average user, rewards are tangible.
+وبالفعل، يمكن لبرمجيات Meeds أن تلعب وتحدد قيمة نقدية على أي مساهمة (سواء كانت رقمية أم لا) وأن تكافئها بالرموز المميزة للبرمجيات MEED. وقد أصبح هذا ممكناً من خلال تطبيق محفظة سهل الاستخدام، قائمة على البلوكشين الذي يبسط الوصول إلى عالم العملات المشفرة للمستخدم المتوسط، والمكافآت ملموسة.
 
-Beyond the wallet and a store where they can purchase perks for MEED tokens, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
+خارج المحفظة والمتجر حيث يمكنهم شراء الإمتيازات لعملات MEED، ونحن نخطط لتعريف كل مستخدم بالعديد من منتجات المستخدم النهائي التي تعمل بالبروتوكولات المالية اللامركزية، مثل:
 
 - القدرة على الحصول على رموز MEED والحصول على العائدات (توليد الإيرادات)
 - The ability to use MEED tokens as collateral to borrow stablecoins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the MEED token to [AAVE](https://aave.com/).
-- A digital card can be added and used through Apple Pay, Google Pay, or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by xMEED. Organizations could also use this card to fund employee wallets to manage employee benefits such as restaurants, transportation, and other expenses.
+- يمكن إضافة بطاقة رقمية واستخدامها من خلال Aple Pay أو Google Pay أو أي آلة آلية. ويمكن توفير هذه الأخيرة من خلال شراكة مع وكالة فيزا، وستستخدم حداً ائتمانياً في الولايات المتحدة مكفولاً بواسطة شركة إكسميد. ويمكن للمنظمات أيضا أن تستخدم هذه البطاقة لتمويل محافظ الموظفين لإدارة استحقاقات الموظفين مثل المطاعم والنقل وغير ذلك من النفقات.
 
-So, not only will many new users discover the blockchain world, but they will also discover a bankless world.
+لذلك لن يكتشف العديد من المستخدمين الجدد عالم البلوكشين فحسب، بل سيكتشفون أيضًا عالمًا غير مصرفي.
 
  

@@ -10,11 +10,11 @@
 
 سيكون لدى WM عملة خاصة بها هي **MEED** - التي ستكون هناك للإنفاق في المتاجر، تحويل إلى عملة أخرى، الاستثمار من أجل تحقيق عائد على الاستثمار أو الإيجار أو الشراء، وما إلى ذلك. ستعمل WoM أيضًا على تسهيل توزيع الرموز الأخرى والمشاركة في النظام االإيكولوجي الشامل للعملات المشفرة.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and MEED token flows
+كصورة تعادل ألف كلمة، إليك رسم بياني يصف تدفقات رمز WM و MEED
 
 ![تدفقات WoM و Meeds](en/img/wom-flows.png)
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds Association and the Cities.
+ويضمن صون العالم واستدامته على المدى البعيد من خلال الضرائب التي تتقاسمها رابطة المقياس والمدين.
 
 ## 5.2. ما الذي تقدمه للمستخدمين الأوائل
 
@@ -24,7 +24,7 @@ The world maintenance and sustainability in the long run are ensured through tax
 
 من خلال الإيمان بالمشروع، والمشاركة في مجمعات السيولة، وتثبيت رموز MEED ، واستردادها ضد الصكوك. سيضع المستثمرون الأوائل من جميع الأحجام عملات إضافية. كما أنهم سيحصلون على حقوق التصويت الأولى ويساعدون في تشكيل توم الوم.
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted MEED. كلما لعبوا أكثر عدلاً ، كلما حصلوا على المزيد. سيتم ربط المتبنين الأوائل بأول المدن التاريخية وسيتم تحديدهم على أنهم البناة لاحقًا.
+فالمنظمات التي تحصل على سندات ملكية ولكنها تستخدم هذه السندات بصفة خاصة لإشراك موظفيها ومكافأتهم ستحصل على تعويض في وزارة الكهرباء والمياه المعدنية. كلما لعبوا أكثر عدلاً ، كلما حصلوا على المزيد. سيتم ربط المتبنين الأوائل بأول المدن التاريخية وسيتم تحديدهم على أنهم البناة لاحقًا.
 
 يمثل الرسم البياني أدناه مثالاً على استراتيجية استثمار Meeds لأصحاب رأس المال:
 
@@ -42,7 +42,7 @@ Organizations acquiring but especially using Deeds to engage and reward their em
 
 وفي ذلك الوقت، كان الرمز المميز للوزارة موجودا بالفعل. من الممكن الحصول عليها ومجمعات السيولة مفتوحة للمشاركة على شبكات Polygon و Ethereum.
 
-Three Meeds Association members use the system internally to engage and reward their users and improve the Meeds software.
+ويستخدم ثلاثة من أعضاء رابطة خدمات الرعاية النظام داخليا لإشراك ومكافأة مستخدميه وتحسين برنامج Meeds.
 
 و تطبيق المستثمر متاح على إيثيريوم Mainnet. عند الإطلاق ، تتضمن عملية الرهان ومكافآت السيولة وتراكم النقاط واسترداد الصكوك Deeds.
 
@@ -54,7 +54,7 @@ Three Meeds Association members use the system internally to engage and reward t
 
 نحن نطلق مجتمع البناة على برنامج Meeds وعلى Discord. يرحب المجتمع بأي شخص يريد المشاركة في بناء WoM. تخطط الجمعية أيضًا لمشاركة بعض Meeds من أجل الحصول على (استرداد) صك لمجتمع البناة.
 
-The association plans also to stake some MEED in order to acquire (redeem) a Deed for the builders community. The community will then mint MEED by engagement, through the mintium model, and distribute them to engaged users.
+تخطط الرابطة أيضا لحيازة بعض MEED من أجل الحصول على صك (استرداد) لمجتمع البناء. The community will then mint MEED by engagement, through the mintium model, and distribute them to engaged users.
 
 ## 5.5. خارطة الطريق والمعالم
 
