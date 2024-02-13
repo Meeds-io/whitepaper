@@ -2,15 +2,13 @@
 
 ## الملخص
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee. And for this reason, advanced means of financial transactions should be adopted.
+Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
 
-The WoM (World of Meeds) proposes a new paradigm that would lower transaction costs and reinvent the employment relationship, bridging the gap between traditional corporations and DAOs (Decentralized Autonomous Organizations).
-
-وتقوم لجنة ووم بذلك من خلال إدخال الهويات الرقمية لكل من رب العمل والموظف وتقديم نظام مبتكر لمكافأة المشاركة من شأنه أن يوائم بين مصالحهما.
+ويقترح "عالم الاجتماعات" نموذجاً جديداً لخفض تكاليف المعاملات وإعادة ابتكار علاقات عمل. وهو يسد الفجوة بين الشركات التقليدية والأشكال الجديدة من التنظيم باقتراح نظام حوافز عادل وشفاف يعيد مواءمة مصالح جميع الأطراف.
 
 ## المقدمة
 
-أصبح سوق العمل في ايامنا متذبذب. وهو لا يرضي العمال و صاحب العمل على حد سواء.
+أصبح سوق العمل في ايامنا متذبذب. وهو لا يرضي العمال وأرباب العمل على حد سواء.
 
 فيما يتعلق بالموظفين، من الصعب العثور على الوظائف المناسبة. يميل سوق العمل لصالح بعض الفئات الأفراد، مما يترك خلفه مجموعة كبيرة من المهارات المميزة دون استغلال. ينبع هذا من مجموعة من التحيزات الإنسانية - مثل التحيزات العرقية والتحيزات الجنسية والتحيزات ضد ذوي الإعاقة والتحيزات ضد المنطويين على النفس، وغيرها. كما يفتقر سوق العمل إلى الشفافية فيما يتعلق بالوظائف المتاحة وظروف العمل.
 
