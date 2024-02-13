@@ -2,7 +2,7 @@
 
 ## Abstract
 
-The current work market is inefficient due to high transaction costs and frequent conflicts of interest between employers and employees. 
+The current work market is inefficient due to high transaction costs and persistent conflicts of interest between employers and employees. 
 
 The World of Meeds (WoM) proposes a new paradigm to address these issues by reducing transaction costs and reinventing working relationships. It's a digital space that bridges the gap between traditional companies and new forms of organization by bringing a fair and transparent incentive system that realigns the interests of all parties.
 
@@ -28,7 +28,7 @@ The WoM aims to reinvent the employer/employee relationship by introducing a tra
 
 By bridging the gap between traditional corporations and newer organizational models like DAOs[^6], the WoM provides sustainable ways to operate and create value for all. As a decentralized venture, the WoM gains value exponentially as more people use it. Therefore, we have designed its protocol as a public good with built-in mechanisms to encourage long-term interest and avoid cartelization. 
 
-The WoM is an open paradigm that welcomes active, creative participation from everyone.
+The WoM is an open paradigm that welcomes active, authentic participation from everyone.
 
 
 [^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)
