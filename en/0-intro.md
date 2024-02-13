@@ -4,7 +4,7 @@
 
 The current work market is inefficient due to high transaction costs and frequent conflicts of interest between employers and employees. 
 
-The World of Meeds (WoM) proposes a new paradigm to address these issues by reducing transaction costs and reinventing working relationships. It's a digital platform that bridges the gap between traditional companies and new forms of organization by introducing a fair and transparent incentive system that realigns the interests of all parties.
+The World of Meeds (WoM) proposes a new paradigm to address these issues by reducing transaction costs and reinventing working relationships. It's a digital space that bridges the gap between traditional companies and new forms of organization by bringing a fair and transparent incentive system that realigns the interests of all parties.
 
 ## Introduction
 
