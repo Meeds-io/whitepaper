@@ -11,7 +11,7 @@ WoM, çeşitli ve kapsayıcı bir platform olacak şekilde tasarlanmıştır. DA
 
 ## 2.2. Deed temini
 
-WoM nihayetinde sınırlı miktarda Deed sağlayacaktır. Her Deed önceden tanımlanmış maksimum sayıda kullanıcı içerir ve Meeds ödüllendirme (Darphane Gücü) kapasitesi sunar. Burada ve bundan sonra 'kullanıcı' terimi her türlü çalışan, işçi, serbest meslek sahibi, gönüllü vb. anlamına gelmektedir.
+WoM nihayetinde sınırlı miktarda Deed sağlayacaktır. Her Senet, önceden tanımlanmış maksimum sayıda kullanıcıyı içerir ve bir ödüllendirme kapasitesi (Darp Gücü) sunar. Burada ve bundan sonra 'kullanıcı' terimi her türlü çalışan, işçi, serbest meslek sahibi, gönüllü vb. anlamına gelmektedir.
 
 Her biri kullanıcı sayısı, bir şehirdeki oy hakları (bkz. 2.7) veya basım gücü açısından farklı yetenekler sağlayan dört tür Tapu vardır; en nadir olanı en güçlü olanıdır:
 
@@ -80,7 +80,7 @@ Topluluklar, kullanıcılarını WoM'ye dahil ederek yenilikçi bir mintium mode
 
 Hub kullanıcılarının kazandığı etkileşim puanları, Meeds Association tarafından hesaplanan küresel etkileşim endeksine katılıyor. Endeks tüm Hub'lar için aynı prensibi kullanır. Topluluk, bir eylemi diğerine tercih etmek için puan tahsisini değiştirebilse de, bu değişiklikler küresel endeks hesaplamasında dikkate alınmayacaktır.
 
-Her hafta belirli miktarda Meed, WoM'un küresel nişan basımına tahsis edilir. Katılımcı Merkezler arasında haftalık olarak orantılı olarak hesaplanır. Bazı Merkezler, kullandıkları Tapu türüne bağlı olarak ek bir destek alır. Hafta boyunca Meed'lerini talep eden Merkezler bunları alır. Talep edilmeyen Meedler bir sonraki haftanın küresel dağıtım miktarına eklenir.
+Her hafta belirli miktarda MEED, WoM'nin küresel katılım basımına tahsis edilir. Katılımcı Merkezler arasında haftalık olarak orantılı olarak hesaplanır. Bazı Merkezler, kullandıkları Tapu türüne bağlı olarak ek bir destek alır. Hafta boyunca MEED tokenlarını talep eden Hub'lar bunları alır. Talep edilmeyen MEED tokenleri bir sonraki haftanın küresel dağıtım miktarına eklenir.
 
 Bir Deed'in etkileşim puanı _S_, etkileşimin, etkileşimde bulunan kullanıcı sayısının ve dağılımın bir fonksiyonudur:
 
@@ -92,12 +92,12 @@ Nerede :
 - $U$ = _Engaged users_ - hafta boyunca en az bir eylemle puanlara katkıda bulunan kullanıcılar.
 - $E_d$ = _Merkezin etkileşim oranı_ - kullanıcı başına işlemler ($A/U$)
 - $E_w$ = _WoM'daki tüm aktif Tapuların ortalama katılım oranı_.
-- $D_r$ = _Dağıtım oranı_ - eğer bir Merkez önceki dönem için basılan Meed'leri aldıysa, kullanıcılarına dağıtılan Meed'lerin yüzdesi. Dağıtım zaman içinde gecikirse % 100'ün üzerinde olabilir.
-- $D_s$ = _Dağıtım dağılımı_ - eğer bir Merkez önceki dönem için basılan Meed'leri aldıysa, toplam kullanıcı havuzunda Meed alan kullanıcıların yüzdesi.
+- $D_r$ = _Dağıtım oranı_ - eğer bir Merkez önceki dönem için basılmış MEED aldıysa, kullanıcılarına dağıtılan MEED'in yüzdesi. Dağıtım zaman içinde gecikirse % 100'ün üzerinde olabilir.
+- $D_s$ = _Dağıtım yayılımı_ - eğer bir Hub önceki dönem için basılmış MEED tokenları aldıysa, toplam kullanıcı havuzunda MEED alan kullanıcıların yüzdesi.
 - $M$ = 2.3'te tanımlandığı gibi Deed'in _Minting Gücü_
 
 
-Üretilen Meed'leri Merkezler arasında dağıtmak için kullanılan küresel katılım endeksi, Merkezlerin haftadaki tüm katılım puanlarının toplamıdır.
+Oluşturulan MEED'i Merkezler arasında dağıtmak için kullanılan küresel etkileşim endeksi, tüm Merkezlerin haftalık etkileşim puanlarının toplamıdır.
 
 
 Yukarıdaki formül basittir ve merkezleri tercih edecek şekilde tasarlanmıştır:
@@ -110,9 +110,9 @@ Buna ek olarak, güçlendiriciler :
 - büyüklüklerine bakılmaksızın en yüksek katılıma sahip kuruluşlar (WoM'a göre katılım oranı)
 - daha az deed
 
-> Meeds derneği, gerektiğinde - örneğin bazı özel kullanım durumları ortaya çıkarsa - formülü değiştirme hakkını saklı tutar. Dernek aynı zamanda formülü kendi yararına kullanan herhangi bir Hub'ı da kara listeye alabilir.
+> İlaçlar Derneği, örneğin bazı özel kullanım durumlarının ortaya çıkması durumunda, gerekirse formülü değiştirme hakkını saklı tutar. Dernek aynı zamanda formülü kendi yararına kullanan herhangi bir Hub'ı da kara listeye alabilir.
 
-Hub'lar Meed'lerle ödüllendirildikçe ve bunları kullanıcılarına katılımları karşılığında ödül olarak yeniden dağıtmaya teşvik edildikçe, hem toplulukların hem de kullanıcılarının çıkarları aynı verimli gelir paylaşımı döngüsünde hizalanıyor. Böylece WoM, işveren/çalışan ilişkisini bir ortaklık olarak yeniden şekillendiren yeni bir çalışma modeli sunmaktadır.
+Merkezler MEED ile ödüllendirildikçe ve bunları kullanıcılarına katılımları karşılığında ödül olarak yeniden dağıtmaya teşvik edildikçe, hem toplulukların hem de kullanıcılarının çıkarları aynı verimli gelir paylaşımı döngüsünde hizalanıyor. Böylece WoM, işveren/çalışan ilişkisini bir ortaklık olarak yeniden şekillendiren yeni bir çalışma modeli sunmaktadır.
 
 "Mintium" modeli türünün ilk örneğidir - geleneksel freemium modelinden daha ileri gider, çünkü yalnızca hizmetlerin kullanımı ücretsiz olmakla kalmaz, aynı zamanda hem kuruluşlar hem de kullanıcıları bunları kullandıkları için ödüllendirilir.
 
@@ -136,7 +136,7 @@ Bir şehir, tüm Deed'leri basıldıktan sonra tamamlanmış sayılacaktır. Ard
 
 Her şehrin kendi yönetimi vardır ve şehrin Deed'lerinin sahiplerinin şehir konseyini seçebildiği, oy kullanabildiği ve kendi işletim kurallarını oluşturabildiği, yeni hizmetler ekleyebildiği ve şehirlerini istedikleri şekilde şekillendirebildiği ve böylece şehrin çekiciliğini ve ona bağlı Deed'lerin değerini artırabildiği kendi DAO'sunu işletir.
 
-Örneğin, şehirlerinin dijital bir temsilini, şehirleriyle ilişkili fiziksel muadillerini (örneğin fiziksel ortak çalışma alanlarındaki toplantı odaları) ekleyebilir, Meeds destekli yemek hizmetleri, tatil hizmetleri vb. ekleyebilirler...
+Örneğin, şehirlerinin dijital bir temsilini, şehirleriyle ilişkili fiziksel benzerlerini (örneğin, fiziksel ortak çalışma alanlarındaki toplantı odaları), yemek hizmetlerini, tatil hizmetlerini vb. ekleyebilirler.
 
 Varsayılan olarak (şehir aksi yönde oy kullanmadığı sürece), Deed'lerin kiraya verilmesinden elde edilen pasif gelir, üretken kullanımı teşvik etmek için şehir (%5) ve Birlik (%3) tarafından "vergilendirilecektir".
 
