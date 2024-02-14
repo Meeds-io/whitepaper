@@ -36,7 +36,7 @@ Wom در نهایت مقدار محدودی از اعمال را تأمین می
 
 در بازار رقابتی امروز، سازمان‌ها به دنبال جذب و حفظ استعدادهای برتر نه تنها از طریق پرداخت پاداش، بلکه از طریق افزایش مشارکت کاری هستند. WoM این چالش را با یک سیستم پاداش منحصربه‌فرد و نمادین که در Hubs جامعه تجسم یافته است، برطرف می‌کند.
 
-در این هاب، رهبران جامعه می‌توانند با ارائه منوی شفاف مشوق‌ها برای موارد کاری، مشارکت اعضا را افزایش دهند. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
+در این هاب، رهبران جامعه می‌توانند با ارائه منوی شفاف مشوق‌ها برای موارد کاری، مشارکت اعضا را افزایش دهند. شرکت‌کنندگان برای تلاش‌های خود امتیازهای تعامل به دست می‌آورند، که به صورت دوره‌ای به توکن‌های MEED یا معادل سفارشی، مطابق با بودجه از پیش تعیین‌شده، تبدیل می‌شوند.
 
 انجمن هاب مجموعه ای از ابزارها و ویژگی های طراحی شده برای تقویت و مدیریت تعامل مشارکت کنندگان را ارائه می دهد:
 
@@ -57,30 +57,30 @@ Wom در نهایت مقدار محدودی از اعمال را تأمین می
 
 **گرفتن سیگنال های کاری**هاب ها می توانند با پلتفرم های مختلفی مانند GitHub، Twitter و Discord یکپارچه شوند و از طریق API برای اتصال با سرویس هایی مانند نرم افزار CRM، نرم افزار حسابداری و پایانه های ساعت قابل تمدید هستند. این اجازه می دهد تا مشارکت های حرفه ای مختلف شناخته شده و پاداش داده شود. همه کانکتورها تحت یک فرآیند لیست سفید توسط انجمن Meeds قرار می گیرند تا یکپارچگی و عملکرد را تضمین کنند.
 
-**تغییر فروشگاه Perks** سازمان ها می توانند فروشگاه را با مزایای سفارشی، از جمله دوره های اموزشی و عضویت در باشگاه، ایجاد یک چرخه خود تقویت پاداش و تعامل. This not only incentivizes contributors but also fosters a deeper connection with the organization’s ecosystem.
+**تغییر فروشگاه Perks** سازمان ها می توانند فروشگاه را با مزایای سفارشی، از جمله دوره های اموزشی و عضویت در باشگاه، ایجاد یک چرخه خود تقویت پاداش و تعامل. این نه تنها مشارکت کنندگان را تشویق می کند، بلکه ارتباط عمیق تر با اکوسیستم سازمان را تقویت می کند.
 
-**تعامل و پاداش** مشارکت فعال در هاب به امتیاز مشارکت جهانی سازمان کمک می کند. This metric reflects the effectiveness of engagement strategies, considering factors like user activity levels and the equitable distribution of work and rewards. This publicly auditable score, entitles Hubs to a distribution of MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
+**تعامل و پاداش** مشارکت فعال در هاب به امتیاز مشارکت جهانی سازمان کمک می کند. این معیار با در نظر گرفتن عواملی مانند سطوح فعالیت کاربر و توزیع عادلانه کار و پاداش، اثربخشی استراتژی‌های تعامل را منعکس می‌کند. این امتیاز قابل بازرسی عمومی، به هاب ها حق توزیع توکن های MEED استخراج شده از پروتکل را می دهد و به عنوان معیاری برای اثربخشی استراتژی های تعامل آنها عمل می کند.
 
-Looking ahead, Community Hubs in the WoM ecosystem are set to become central to community life, integrating internal communications, real-time interactions, governance, and various productivity tools. These enhancements will ensure that the Hubs remain interconnected with the best tools already employed by organizations. They stand as a powerful testament to Meeds' commitment to fostering a vibrant, engaged community.
+با نگاهی به آینده، Community Hubs در اکوسیستم WoM قرار است به مرکز زندگی اجتماعی تبدیل شود، ارتباطات داخلی، تعاملات زمان واقعی، حاکمیت و ابزارهای مختلف بهره‌وری را یکپارچه کند. این پیشرفت‌ها تضمین می‌کند که هاب‌ها با بهترین ابزارهایی که قبلاً توسط سازمان‌ها به کار گرفته شده‌اند در ارتباط هستند. آنها به عنوان گواهی قدرتمندی برای تعهد Meeds به پرورش یک جامعه پر جنب و جوش و درگیر هستند.
 
 
-## 2.5. Rewarding Model
+## 2.5. مدل پاداش
 
-In the WoM, user engagement across various work activities is incentivized and gamified, tailored to each community Hub's unique programs. Users earn points reflecting their active participation, with each community determining its own rules for point allocation.
+در WoM، مشارکت کاربر در فعالیت‌های کاری مختلف، مشوق و بازی‌سازی می‌شود، که متناسب با برنامه‌های منحصربه‌فرد هر جامعه Hub است. کاربران امتیازی کسب می کنند که نشان دهنده مشارکت فعال آنهاست و هر جامعه قوانین خود را برای تخصیص امتیاز تعیین می کند.
 
-For example, an IT company might award 10 points for coding on GitHub, whereas a digital agency could place higher value on social media engagement, like retweets, with similar points.
+به عنوان مثال، یک شرکت فناوری اطلاعات ممکن است 10 امتیاز برای کدنویسی در GitHub اعطا کند، در حالی که یک آژانس دیجیتال می تواند ارزش بیشتری برای تعامل در رسانه های اجتماعی، مانند ریتوییت، با امتیازهای مشابه قائل شود.
 
-Regular distributions of rewards are based on the points accrued in each Hub. Typically, these are given in MEED tokens, delivered directly to users' wallets. While MEED tokens are the standard form of reward, Hubs have the flexibility to offer different types of compensation.
+توزیع منظم جوایز بر اساس امتیازهای جمع آوری شده در هر هاب است. به طور معمول، این ها در توکن های MEED داده می شوند که مستقیماً به کیف پول کاربران تحویل داده می شوند. در حالی که توکن‌های MEED شکل استاندارد پاداش هستند، Hubs انعطاف‌پذیری برای ارائه انواع مختلف پاداش را دارد.
 
-When rewards are distributed in tokens other than MEED, a nominal fee of 5% is applied. This fee contributes to the Meeds treasury, playing a crucial role in maintaining the sustainability of the ecosystem.
+هنگامی که جوایز در توکن‌هایی غیر از MEED توزیع می‌شوند، هزینه اسمی 5% اعمال می‌شود. این هزینه به خزانه Meeds کمک می کند و نقش مهمی در حفظ پایداری اکوسیستم ایفا می کند.
 
 ## 2.6. مدل "مینتیوم" - مشارکت کاری را نشانه گذاری کنید
 
-By engaging their users in the WoM, communities get compensated through an innovative mintium model.
+با درگیر کردن کاربران خود در WoM، جوامع از طریق یک مدل ابتکاری مینتیوم جبران می‌شوند.
 
-Engagement points, gained by the Hubs’ users, participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Hubs. Even though the community can change the points’ allocation to promote one action over another, those changes will not be taken into the account in the global index computation.
+امتیازهای تعامل، که توسط کاربران Hubs به دست می‌آید، در شاخص تعامل جهانی که توسط انجمن Meeds محاسبه می‌شود، شرکت می‌کنند. ایندکس از یک اصل برای همه هاب ها استفاده می کند. حتی اگر جامعه می تواند تخصیص امتیازها را برای ارتقای یک اقدام نسبت به اقدام دیگر تغییر دهد، این تغییرات در محاسبه شاخص جهانی در نظر گرفته نمی شود.
 
-هر هفته، مقدار مشخصی از MEED به ضرب مشارکت جهانی WoM اختصاص داده می شود. It’s computed weekly, pro-rata, among the participating Hubs. Some Hubs get an additional boost depending on the type of Deed they use. هاب هایی که توکن های MEED خود را در طول هفته ادعا می کنند، انها را دریافت می کنند. توکن های MEED بدون ادعا به مبلغ توزیع جهانی هفته بعد اضافه می شوند.
+هر هفته، مقدار مشخصی از MEED به ضرب مشارکت جهانی WoM اختصاص داده می شود. به صورت هفتگی، به تناسب، در میان هاب‌های شرکت‌کننده محاسبه می‌شود. برخی از هاب ها بسته به نوع سندی که استفاده می کنند، تقویت بیشتری دریافت می کنند. هاب هایی که توکن های MEED خود را در طول هفته ادعا می کنند، انها را دریافت می کنند. توکن های MEED بدون ادعا به مبلغ توزیع جهانی هفته بعد اضافه می شوند.
 
 امتیاز تعامل _S_ یک سند تابعی از تعامل، تعداد کاربران درگیر و توزیع است:
 
@@ -88,7 +88,7 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 جایی که :
 
-- $A $ = _Activity_ - تعداد کل اقدامات انباشته شده توسط کاربران در داخل هاب در طول هفته. (On a Hub, each user action is converted into engagement points, some actions weighting more than others. در سطح شاخص، تمام اقدامات خطی می شوند).
+- $A $ = _Activity_ - تعداد کل اقدامات انباشته شده توسط کاربران در داخل هاب در طول هفته. (در یک هاب، هر اقدام کاربر به نقاط تعامل تبدیل می‌شود که وزن برخی از اقدامات بیشتر از سایرین است. در سطح شاخص، تمام اقدامات خطی می شوند).
 - $U$ = _کاربران درگیر_ - کاربرانی که در طول هفته، حداقل با یک اقدام به امتیازها کمک کردند.
 - $E_d$ = _ نرخ هاب_ - اقدامات هر کاربر ($A / U $)
 - $E_w$ = _ نرخ تعامل _ از همه هاب های فعال در WoM.
@@ -97,10 +97,10 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 - $M$ = _قدرت برش_ سند همانطور که در 2.3 تعریف شده است
 
 
-The global engagement index used to distribute minted MEED among the Hubs is the sum of all Hubs’ weekly engagement scores.
+شاخص تعامل جهانی که برای توزیع MEED ضرب شده در میان هاب ها استفاده می شود، مجموع تمام امتیازات تعامل هفتگی هاب است.
 
 
-The formula above is simple and designed to favor hubs :
+فرمول بالا ساده است و به نفع هاب ها طراحی شده است:
 
 - با تعداد زیادی از کاربران درگیر (درگیری)
 - که کل درآمد حاصل از ضربات (نرخ توزیع) را با کاربران خود به طور عادلانه تقسیم می کنند (پرداخت توزیع).
@@ -110,9 +110,9 @@ The formula above is simple and designed to favor hubs :
 - سازمان‌هایی که بیشترین مشارکت را دارند، صرف‌نظر از اندازه آنها (نرخ مشارکت در رابطه با WoM)
 - اعمال کمیاب تر
 
-> The Meeds Association reserves the right to change the formula if required – if some specific use cases arise, for instance. The association can also blacklist any Hub that hijacks the formula to its unique benefit.
+> انجمن Meeds حق تغییر فرمول را در صورت لزوم برای خود محفوظ می دارد - به عنوان مثال اگر برخی از موارد استفاده خاص بوجود اید. این انجمن همچنین می‌تواند هر Hub را که فرمول را به نفع منحصر به فرد خود ربوده باشد، در لیست سیاه قرار دهد.
 
-As the Hubs are rewarded with MEED and incentivized to redistribute them as rewards to their users against their engagement – the interests of both the communities and their users are aligned in the same virtuous revenue-sharing cycle. بنابراین، WoM یک مدل کاری جدید ارائه می دهد که رابطه کارفرما/کارمند را به عنوان یک مشارکت دوباره شکل می دهد. بنابراین، WoM یک مدل کاری جدید ارائه می دهد که رابطه کارفرما/کارمند را به عنوان یک مشارکت دوباره شکل می دهد.
+همانطور که هاب ها با MEED پاداش می گیرند و تشویق می شوند تا انها را به عنوان پاداش به کاربران خود در برابر تعامل خود توزیع کنند، منافع هر دو جوامع و کاربران انها در همان چرخه به اشتراک گذاری درامد فضیلت قرار دارد. بنابراین، WoM یک مدل کاری جدید ارائه می دهد که رابطه کارفرما/کارمند را به عنوان یک مشارکت دوباره شکل می دهد. بنابراین، WoM یک مدل کاری جدید ارائه می دهد که رابطه کارفرما/کارمند را به عنوان یک مشارکت دوباره شکل می دهد.
 
 مدل "مینتیوم" اولین نوع از آن است - از مدل سنتی فریمیوم فراتر می رود، زیرا نه تنها استفاده از خدمات رایگان است، بلکه هم سازمان ها و هم کاربران آنها برای استفاده از آنها پاداش دریافت می کنند. مدل "مینتیوم" اولین نوع از آن است - از مدل سنتی فریمیوم فراتر می رود، زیرا نه تنها استفاده از خدمات رایگان است، بلکه هم سازمان ها و هم کاربران آنها برای استفاده از آنها پاداش دریافت می کنند.
 
@@ -132,9 +132,9 @@ As the Hubs are rewarded with MEED and incentivized to redistribute them as rewa
 | 6: Kushor   | 10 000 000  | اشموم + 64 ماه   | 6 000 000  | 3 000 000     | 999 998   | 2            |
 | 7: Hammon   | 100 000 000 | کوشور + 128 ماه  | 60 000 000 | 30 000 000    | 9 999 999 | 1            |
 
-A city is a way for the communities to come together and create a larger community. و در نتیجه، هویت خاصی را به دست آورید که با آن جامعه مرتبط است. It is also a way to provide additional value to its users - value that would go beyond one community’s capabilities or value created through cooperation between the communities.
+شهر راهی است برای جمع شدن جوامع و ایجاد یک جامعه بزرگتر. و در نتیجه، هویت خاصی را به دست آورید که با آن جامعه مرتبط است. همچنین راهی برای ارائه ارزش اضافی به کاربران خود است - ارزشی که فراتر از توانایی های یک جامعه یا ارزش ایجاد شده از طریق همکاری بین جوامع است.
 
-Each city has its own govenance and operates its own DAO where the city’s Deed owners can elect their city council, vote and establish their own operating rules, add new services and shape their city in the way that they want and so as to increase the city’s attractiveness and the value of the Deeds attached to it.
+هر شهر حکومت خود را دارد و DAO مخصوص به خود را اجرا می کند که در آن صاحبان سند شهر می توانند شورای شهر خود را انتخاب کنند، رای دهند و قوانین عملیاتی خود را ایجاد کنند، خدمات جدید اضافه کنند و شهر خود را به روشی که می خواهند شکل دهند و به طوری که شهر را افزایش دهند. جذابیت و ارزش اعمال مربوط به آن.
 
 به عنوان مثال ، آنها می توانند یک نمایش دیجیتال از شهر خود ، همتایان فیزیکی مرتبط با شهر خود (به عنوان مثال اتاق های جلسه در فضاهای کار مشترک فیزیکی) ، خدمات غذایی ، خدمات تعطیلات و غیره را اضافه کنند...
 

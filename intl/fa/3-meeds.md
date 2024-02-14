@@ -1,14 +1,14 @@
 # 3. توکن MEED-ارز WoM
 
-The MEED token (pronounced "Meeds") is the currency that powers the WoM. Users are rewarded with MEED (through engagement programs), purchase in stores, get Deeds, get financial returns on investments, and more.
+The MEED token (pronounced "Meeds") is the currency that powers the WoM. کاربران با MEED (از طریق برنامه‌های تعامل)، خرید در فروشگاه‌ها، دریافت اسناد، بازده مالی سرمایه‌گذاری‌ها و موارد دیگر پاداش دریافت می‌کنند.
 
 ## 3.1. توکنومیکس
 
-حداکثر عرضه MEED به 100 میلیون توکن محدود می شود</strong> ، به تدریج ضرب می شود.
+The **maximum supply of MEED is limited to 100 million tokens**, minted progressively.
 
-The Meeds Association has minted 5 Million MEED (5% of the total supply) at the start to acquire software IP from the funding members, pay for token emission legal fees, and hosting services. بعد ، 4.5 ميليون دلار در قرارداد خزانه با يه جايگاه خطي در طول چهار سال قفل شد.
+انجمن Meeds در ابتدا 5 میلیون MEED (5 ٪ از کل عرضه) را برای به دست آوردن ip نرم افزار از اعضای بودجه ، پرداخت هزینه های حقوقی انتشار توکن و خدمات میزبانی ضرب کرده است. بعد ، 4.5 ميليون دلار در قرارداد خزانه با يه جايگاه خطي در طول چهار سال قفل شد.
 
-از آن زمان ، یک قرارداد هوشمند به نام **TokenFactory **ضرب توکن های جدید **را با سرعت ثابت</strong> انجام می دهد.
+Since then, a smart contract called **the __Token Factory__ performs minting of **MEED tokens at a constant rate**.
 
 نرخ ضرب یک پارامتر از کارخانه توکن است که در *10 مت در دقیقه* در ابتدا تنظیم شده است. رای DAO ممکن است این نرخ را در آینده تغییر دهد. با این سرعت ، کارخانه توکن سالانه حدود 5 میلیون MEED تولید می کند(10*60*24*365); بنابراین ، افق ضرب تقریبا 20 سال است.
 
@@ -16,9 +16,9 @@ The Meeds Association has minted 5 Million MEED (5% of the total supply) at the 
 
 کارخانه توکن همچنین تخصیص توکن های نیاز ضرب شده را به سه دسته از ذینفعان تعیین می کند :
 
-- < < 0>سازندگان< / 0>: مشارکت کنندگان نیازهای DAO که به ساخت و اجرای کرم کمک می کنند
-- < < 0 > کاربران< / 0>: اعضای تمام جوامع زنان MEED را به عنوان پاداش برای کمک های خود کسب می کنند
-- سرمایه گذاران: نیازهای DAO صاحبان توکن های MEED را تشویق می کند تا من را به خطر بیندازند یا نقدینگی را برای اقتصاد نیازهای فراهم کنند
+- **Builders**: Contributors of the Meeds DAO that help build and run the WoM
+- **Users**: Members in all communities of the WoM earn MEED as rewards for their contributions
+- **Investors**: The Meeds DAO incentivizes MEED token owners to stake MEED or provide liquidity for the Meeds economy
 
 هر دسته از ذینفعان سهم از عرضه نیاز را دریافت می کنند که مشمول رای DAO است.
 
@@ -28,11 +28,11 @@ The Meeds Association has minted 5 Million MEED (5% of the total supply) at the 
 
 ## 3.4. سازندگان
 
-نیاز DAO عامل کرم و نیاز به توکن عرضه. یک قرارداد هوشمند multisig به نام < 0>Meeds Dao Funds < / 0> هزینه های عملیاتی را مدیریت می کند. It receives **30% of the minted MEED** to support Builders.
+نیاز DAO عامل کرم و نیاز به توکن عرضه. A multi-sig smart contract called the _Meeds DAO Funds_ manages the operating expenses. It receives **30% of the minted MEED** to support Builders.
 
-The Meeds Association is entitled to hire service provider companies on behalf of the Meeds DAO to cover legal fees, development, and hosting costs using the Meeds DAO Funds.
+انجمن نیازها حق دارد شرکت های ارائه دهنده خدمات را به نمایندگی از نیازها DAO استخدام کند تا هزینه های حقوقی ، توسعه و هزینه های میزبانی را با استفاده از صندوق های MEEDS DAO پوشش دهد.
 
-Organizations and individuals not members of the Meeds Association may still contribute through the _Meeds Builders Hub_  - a community hub that welcomes enthusiasts who want to participate in creating and promoting the WoM. The <0>Meeds DAO Funds</0> also reward for contributions to the Builders Hub.
+سازمان ها و افراد غیر عضو انجمن نیازهای هنوز هم می توانند از طریق مرکز سازندگان نیازهای _کمک کنند_ - یک مرکز اجتماعی که به علاقه مندان که می خواهند در ایجاد و ترویج زنان شرکت کنند ، خوش آمد می گوید. The <0>Meeds DAO Funds</0> also reward for contributions to the Builders Hub.
 
 مرکز سازندگان نیز مانند هر مرکز دیگر حداقل پاداش دریافت می کند.
 
@@ -50,7 +50,7 @@ Organizations and individuals not members of the Meeds Association may still con
 
 سرمایه گذاران با ارائه نقدینگی و دنبال کردن توکن های من از زنان حمایت می کنند که به تثبیت سطح قیمت در مرحله ساخت کمک می کند. انگیزه هایی برای هر دو وجود دارد:
 
-< 0>ارائه دهندگان نقدینگی< / 0> مدیریت نقدینگی ارز برای موفقیت پروژه بسیار مهم است. نیازهای DAO از مکانیسم های مختلف DeFi برای بهینه سازی بهره وری سرمایه خود استفاده می کند. به عنوان مثال ، انگیزه ها به ارائه دهندگان نقدینگی اجازه می دهد تا با اجاره توکن های LP خود ، محصولات خود را پرورش دهند. همچنین ، برنامه هایی برای معرفی اوراق قرضه و حرکت به سمت نقدینگی متعلق به پروتکل به تدریج وجود دارد. این پروژه به پایداری بلند مدت پروژه کمک خواهد کرد-همانطور که در بالا ذکر شد ، هزینه های معامله هزینه های عملیاتی را تامین خواهد کرد.
+**Liquidity providers** Currency liquidity management is crucial to the project's success. نیازهای DAO از مکانیسم های مختلف DeFi برای بهینه سازی بهره وری سرمایه خود استفاده می کند. به عنوان مثال ، انگیزه ها به ارائه دهندگان نقدینگی اجازه می دهد تا با اجاره توکن های LP خود ، محصولات خود را پرورش دهند. همچنین ، برنامه هایی برای معرفی اوراق قرضه و حرکت به سمت نقدینگی متعلق به پروتکل به تدریج وجود دارد. این پروژه به پایداری بلند مدت پروژه کمک خواهد کرد-همانطور که در بالا ذکر شد ، هزینه های معامله هزینه های عملیاتی را تامین خواهد کرد.
 
 علاوه بر این ، به نمایندگی از Needs DAO ، انجمن Needs حق دارد خرید OTC (از قفسه) مقادیر گسترده تری از توکن های MEED را تسهیل کند.
 
@@ -62,10 +62,10 @@ Organizations and individuals not members of the Meeds Association may still con
 
  $$ P = xMEED / (xMEED + 12000) * T / 240 $$
 
- Where:
+ جایی که:
 
-- balance meed balance: تعادل meed بدون اعشاری
-- زمان در میلی ثانیه گذشت
+- $xMEED$: xMEED balance  with no decimals
+- $T$: Time elapsed in milliseconds
 
 The formula avoids favoring large holders to distribute Deeds more efficiently and equitably. به عنوان مثال، فرمول نرخ های زیر را می دهد:
 
@@ -87,19 +87,19 @@ These accrue rates lead to the following holding time for each class of holder :
 
 ## 3.6. حاکمیت ds DAO
 
-xMEED token holders can freely participate in the governance of the Meeds DAO by voting with their tokens on decisions such as managing the budget allocation or electing DAO board members.
+دارندگان توکن xMEED می‌توانند آزادانه در اداره Meeds DAO با رأی دادن با توکن‌های خود در مورد تصمیم‌هایی مانند مدیریت تخصیص بودجه یا انتخاب اعضای هیئت مدیره DAO شرکت کنند.
 
 ## 3.7. خدمات کاربر مالی غیرمتمرکز (DeFi).
 
-The WoM will introduce the blockchain world to many people who do not use it today.
+WoM دنیای بلاک چین را به بسیاری از افرادی که امروزه از آن استفاده نمی کنند، معرفی می کند.
 
-Indeed, Meeds software can gamify and set a monetary value on any contribution (whether it is digital or not) and reward it with MEED tokens. This has be made possible by an easy-to-use, blockchain-based wallet app that simplifies access to the crypto world for an average user, rewards are tangible.
+Indeed, Meeds software can gamify and set a monetary value on any contribution (whether it is digital or not) and reward it with MEED tokens. این امر با استفاده از یک برنامه کیف پول مبتنی بر بلاک چین امکان پذیر شده است که دسترسی به دنیای رمزنگاری را برای یک کاربر معمولی ساده می کند، پاداش ها ملموس هستند.
 
-Beyond the wallet and a store where they can purchase perks for MEED tokens, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
+فراتر از کیف پول و فروشگاهی که در آن می‌توانند برای توکن‌های MEED هدیه بخرند، ما قصد داریم به هر کاربر چندین محصول نهایی که توسط پروتکل‌های مالی غیرمتمرکز ارائه می‌شوند، معرفی کنیم، مانند:
 
-- The ability to stake MEED tokens and get yields (generate revenues)
+- توانایی به اشتراک گذاشتن توکن های MEED و کسب بازده (ایجاد درآمد)
 - The ability to use MEED tokens as collateral to borrow stablecoins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the MEED token to [AAVE](https://aave.com/).
-- A digital card can be added and used through Apple Pay, Google Pay, or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by xMEED. Organizations could also use this card to fund employee wallets to manage employee benefits such as restaurants, transportation, and other expenses.
+- A digital card can be added and used through Apple Pay, Google Pay, or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by xMEED. سازمان‌ها همچنین می‌توانند از این کارت برای تأمین مالی کیف پول کارکنان برای مدیریت مزایای کارکنان مانند رستوران‌ها، حمل‌ونقل و سایر هزینه‌ها استفاده کنند.
 
 So, not only will many new users discover the blockchain world, but they will also discover a bankless world.
 
