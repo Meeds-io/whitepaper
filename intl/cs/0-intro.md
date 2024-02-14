@@ -2,15 +2,13 @@
 
 ## Abstraktní
 
-Dnešní trh práce postrádá efektivitu kvůli vysokým transakčním nákladům[^1][^2][^3]a časté střety zájmů mezi zaměstnavatelem a zaměstnancem.
+Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
 
-WoM (World of Meeds) navrhuje nové paradigma, které by snížilo transakční náklady a znovuobjevilo zaměstnanecký vztah a překlenulo propast mezi tradičními korporacemi a DAO.
-
-WoM to dělá tím, že zavádí digitální identity pro zaměstnavatele i zaměstnance a nabízí inovativní systém odměn za angažovanost, který by sladil jejich zájmy.
+The WoM (World of Meeds) proposes a new paradigm for reducing transaction costs and reinventing working relationships. It bridges the gap between traditional companies and new forms of organisation by proposing a fair and transparent incentive system that realigns the interests of all parties.
 
 ## Úvod
 
-Dnešní pracovní trh je narušen. Nedokáže uspokojit zaměstnance i zaměstnavatele.
+Dnešní pracovní trh je narušen. It fails to satisfy both workers and employers.
 
 Na straně zaměstnanců je obtížné najít správná pracovní místa. Trh práce upřednostňuje určité typy jednotlivců, čímž zanechává velké dovednosti. Vychází ze souboru lidských předpojatostí – rasové základny, založené na pohlaví, založené na znevýhodnění, introvertní bázi atd. Trh práce také postrádá transparentnost, pokud jde o dostupné pozice a pracovní podmínky.
 
