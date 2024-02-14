@@ -2,15 +2,13 @@
 
 ## Abstrakt
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee. And for this reason, advanced means of financial transactions should be adopted.
+Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
 
-WoM (World of Meeds) pakub välja uue paradigma, mis alandaks tehingukulusid ja leiutaks töösuhte uuesti, ületades lõhe traditsiooniliste korporatsioonide ja DAO-de (detsentraliseeritud autonoomsete organisatsioonide) vahel.
-
-WoM teeb seda, võttes kasutusele nii tööandja kui ka töötaja digitaalse identiteedi ning pakkudes uuenduslikku tasustamissüsteemi, mis viiks nende huvid kooskõlla.
+The WoM (World of Meeds) proposes a new paradigm for reducing transaction costs and reinventing working relationships. It bridges the gap between traditional companies and new forms of organisation by proposing a fair and transparent incentive system that realigns the interests of all parties.
 
 ## Sissejuhatus
 
-Tänane tööturg on katki. See ei rahulda nii töötajaid kui ka tööandjaid.
+Tänane tööturg on katki. It fails to satisfy both workers and employers.
 
 Töötajate poolel on raske leida õigeid töökohti. Tööturg soosib teatavat tüüpi inimesi, jättes maha suurepärased oskused. See tuleneb inimlikest eelarvamustest - rassilistest, soolistest, puuetest, introvertidest jne. Samuti puudub tööturul läbipaistvus olemasolevate ametikohtade ja töötingimuste osas.
 
