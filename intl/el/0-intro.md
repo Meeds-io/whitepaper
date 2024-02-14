@@ -1,45 +1,37 @@
-
-
 ## Περίληψη
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
+The current work market is inefficient due to high transaction costs and frequent conflicts of interest between employers and employees. It can be expensive and time-consuming to carry out job-related activities, and there are often disagreements or competing interests between those who hire workers and the workers themselves.
 
-The WoM (World of Meeds) proposes a new paradigm for reducing transaction costs and reinventing working relationships. It bridges the gap between traditional companies and new forms of organisation by proposing a fair and transparent incentive system that realigns the interests of all parties.
+The World of Meeds (WoM) proposes a new paradigm to address these issues by reducing transaction costs and reinventing working relationships. It is a digital space that bridges the gap between traditional companies and new forms of organization by bringing a fair and transparent incentive system that realigns the interests of all parties.
 
 ## Εισαγωγή
 
-Η αγορά εργασίας σήμερα είναι σπασμένη. It fails to satisfy both workers and employers.
+The current state of the work market fails to satisfy both workers and employers[^1][^2][^3].
 
-Από την πλευρά των εργαζομένων, είναι δύσκολο να βρεθούν οι κατάλληλες θέσεις εργασίας. Η αγορά εργασίας ευνοεί ορισμένους τύπους ατόμων, αφήνοντας μεγάλες ικανότητες πίσω. Αυτό προέρχεται από ένα σύνολο ανθρώπινων προκαταλήψεων – φυλετική βάση, βάση του φύλου με βάση, χάντικαπ βασισμένο, εσωστρεφή βάση κ.λπ. Η αγορά εργασίας στερείται επίσης διαφάνειας ως προς τις διαθέσιμες θέσεις και τις συνθήκες απασχόλησης.
+Workers face difficulties in finding suitable job opportunities, as the job market tends to favor specific individuals, leaving great skill sets behind due to various human biases such as race, gender, disability, introversion, and more.
 
-Όταν εργαστεί, οι προσωπικές ελευθερίες των εργαζομένων παραβιάζονται με αντάλλαγμα την αποζημίωση. Οι εργαζόμενοι έχουν μικρή συμμετοχή στις ώρες εργασίας τους, στο χώρο εργασίας, στο περιεχόμενο της εργασίας ή στις μεθόδους εργασίας. Και η αποζημίωση τους σπάνια συνδέεται με την πραγματική τους επίπτωση ή αξία. Οι κανόνες αποζημίωσης στερούνται διαφάνειας και, ως εκ τούτου, θεωρούνται άδικοι. Επιπλέον, η αποζημίωση και η πρόοδος της σταδιοδρομίας εξαρτώνται επίσης από τον ανθρώπινο παράγοντα – την καλή πίστη και αντικειμενικότητα του άμεσου διευθυντή του εργαζομένου.
+Additionally, there is a lack of transparency in available positions and employment conditions. Once employed, workers often have little say in their work hours, workplace, content, or methods. Moreover, there is a perceived lack of fairness in compensation rules due to the lack of transparency. Career progress and compensation depend on the immediate manager's good faith and objectivity, leading to a lack of trust and cooperation.
 
-Εργοδότες από την άλλη πλευρά, αντιμετωπίζουν δυσκολίες στην προμήθεια ταλέντο και την πρόσληψη των σωστών δεξιοτήτων και η σωστή εφαρμογή στη σωστή στιγμή για την εργασία. Δεν υπάρχει αντικειμενικός τρόπος για να εξακριβώσει τις δεξιότητες ή την πηγή των ανθρώπων που έχουν τη δυνατότητα μίσθωσης έξω από την παραδοσιακή πισίνα πρόσληψη του εργοδότη.
+Employers face challenges in sourcing talent, hiring the right skills, and fitting them into the right jobs at the right time. The traditional hiring pool often fails to provide an objective way to determine a potential contributor's skills. High turnover rates and a lack of contributor loyalty can also increase hiring and onboarding costs.
 
-Οι εργοδότες αντιμετωπίζουν επίσης την έλλειψη αφοσίωσης από τους υπαλλήλους τους και τον υψηλό κύκλο εργασιών, τα οποία αυξάνουν το κόστος πρόσληψης και επιβίβασης.
+These issues relate to high transaction costs and the exacerbated agent-principal problem[^4]. Despite the evolution of job markets towards more unity and transparency with the internet, transaction costs[^5] still need to be lowered without an objectivity element.
 
-Επιπλέον, οι εργοδότες αντιμετωπίζουν επίσης χαμηλή συμμετοχή στους υπάρχοντες υπαλλήλους τους, οδηγώντας σε χαμηλή δημιουργικότητα, παραγωγικότητα και καινοτομία. Το τελευταίο προκαλεί ακόμη μεγαλύτερη ζημιά στη σημερινή οικονομία που απαιτεί πιο εξειδικευμένη δημιουργική εργασία.
+The WoM offers a unique approach to decentralized work, addressing several issues prevalent in traditional work paradigms.
 
-Όλα τα παραπάνω καταλήγουν στο υψηλό κόστος συναλλαγών και στο επιδεινούμενο πρόβλημα πράκτορα-πρωταγωνιστή[^4] :
+Through its transparent, objective, and decentralized incentive paradigm, the WoM sustainably aligns the interests of contributors and employers. It proposes ways to flatten hierarchies and open up ownership, promoting sustainable ways to operate and create value for organizations.
 
-- Με το Διαδίκτυο, οι αγορές εργασίας εξελίχθηκαν προς περισσότερη ενότητα και διαφάνεια χάρη σε ιστοτόπους για θέσεις εργασίας, χώρους σταδιοδρομίας κλπ. Ωστόσο, το κόστος των συναλλαγών εξακολουθεί να είναι υπερβολικά υψηλό ελλείψει αντικειμενικού στοιχείου.
-- Όσον αφορά το πρόβλημα πράκτορα-πρωταγωνιστή, αυτό έχει επιδεινωθεί από το αυξανόμενο χάσμα εσόδων και πλούτου μεταξύ εργαζομένων και μετόχων και την ακαμψία της σχέσης εργοδότη-εργαζομένου.
+By matching jobs and skills objectively, quickly, and globally, the WoM aims to address the lack of transparency in the job market and ensure that great skill sets are not left behind.
 
-Το WoM στοχεύει στην επίλυση και των δύο μέσω ενός νέου αποκεντρωμένου προτύπου εργασίας.
+The WoM aims to reinvent the employer/employee relationship by introducing a transparent, objective, decentralized incentive paradigm. This model incentivizes contributors to be more engaged, creative, and productive, leading to greater innovation and productivity.
 
-Μετά τα έργα της R. Coase[^5], οι περισσότεροι οικονομολόγοι συνδέουν την έννοια της επιχείρησης με την ανάγκη μετριασμού του κόστους συναλλαγών. Διαδίκτυο και πιο πρόσφατα το blockchain και το web3 ανοίγουν συναρπαστικές δυνατότητες στη μείωση του κόστους των συναλλαγών παντού, ανακαλύπτοντας εκ νέου την οικονομία και ιδιαίτερα επανεφευρίσκοντας την επιχείρηση. Το πρώτο DAOs[^6] ξεκίνησε αυτή τη διαδικασία εστιάζοντας στη μείωση του κόστους των συναλλαγών για την άντληση κεφαλαίων και τη διακυβέρνηση. Το WoM στοχεύει στην περαιτέρω προώθηση αυτής της λογικής μειώνοντας το κόστος των εργασιακών συναλλαγών. Προτείνει έναν αποκεντρωμένο κόσμο όπου η αντιστοίχιση θέσεων εργασίας και δεξιοτήτων θα μπορούσε να γίνει αντικειμενικά, γρήγορα και παγκοσμίως.
+By bridging the gap between traditional corporations and newer organizational models like DAOs[^6], the WoM provides sustainable ways to operate and create value for all. As a decentralized venture, the WoM gains value exponentially as more people use it. Therefore, we have designed its protocol as a public good with built-in mechanisms to encourage long-term interest and avoid cartelization.
 
-Το πρώτο DAOs ισοπεδώνει τις ιεραρχίες και ανοικτή ιδιοκτησία. Το WoM επιδιώκει αυτή τη λογική επανεφευρίσκοντας αντί να καταστέλλει τη σχέση εργοδότη/εργαζομένου. Εισάγει ένα διαφανές, αντικειμενικό και αποκεντρωμένο παράδειγμα επιβράβευσης, το οποίο θα ευθυγραμμιζόταν με βιώσιμο τρόπο τον εργοδότη και τα συμφέροντα των εργαζομένων.
-
-Τέλος, το WoM γεφυρώνει το χάσμα μεταξύ των εταιρειών και των DAO. Αφενός, εισάγει τις παραδοσιακές εταιρείες στον αποκεντρωμένο κόσμο μέσω ενός εύχρηστου υποδείγματος ανταμείβοντας το παράδειγμά τους, συμπληρώνοντας τα συστήματα αποζημίωσής τους. Από την άλλη πλευρά, προτείνει βιώσιμους τρόπους λειτουργίας και δημιουργίας αξίας για τα DAOs. Τελικά, το WoM θα μπορούσε να είναι μεταξύ των πρώτων εφαρμογών mainstream που θα εκδημοκρατίσουν τη χρήση του blockchain για κάθε εταιρεία και κάθε εργαζόμενο – συμπεριλαμβανομένων των μη ψηφιακών.
-
-Όπως συμβαίνει με κάθε αποκεντρωμένη επιχείρηση, η πρόταση WoM κερδίζει σε αξία εκθετικά, καθώς περισσότεροι άνθρωποι την χρησιμοποιούν. Για το λόγο αυτό, οι ιδρυτές φρόντισαν να ενθαρρύνουν μακροπρόθεσμα τα συμφέροντα και να αποφύγουν να μονοπωλήσουν τα οφέλη του WoM, βραχυπρόθεσμα ή μακροπρόθεσμα. Πρόκειται για ένα ανοικτό παράδειγμα, το οποίο πρέπει ακόμα να χτιστεί και να είναι ανοικτό σε ενεργό δημιουργική συμμετοχή από όλους.
+To foster active, authentic participation in the WoM paradigm, creating an inclusive environment where diverse perspectives are valued is crucial.
 
 
-[^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)
-[^2]: Jan Drahokoupil, Agnieszka Piasna - [“Work in the Platform Economy: Beyond Lower Transaction Costs”](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
-[^3]: Seth C. Oranburg, Liya Palagashvili - [“Transaction Cost Economics, Labor Law and the Gig Economy”](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship)
-[^4]: Michael C. Jensen, William H. Meckling - [“Theory of the Firm : Managerial Behavior, Agency Costs and Ownership Structure”](https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf)
-[^5]: R. Coase - [“The nature of the firm”](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
-[^6]: Aaron Wright - [“The Rise of Decentralized Autonomous Organizations : Opportunities and Challenges”](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)
-
+[^1]: Suzanne Young - ["Transaction Cost Economics"](https://www.academia.edu/24703426/Transaction_Cost_Economics)
+[^2]: Jan Drahokoupil, Agnieszka Piasna - ["Work in the Platform Economy: Beyond Lower Transaction Costs"](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
+[^3]: Seth C. Oranburg, Liya Palagashvili - ["Transaction Cost Economics, Labor Law and the Gig Economy"](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship)
+[^4]: Michael C. Jensen, William H. Meckling - ["Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure"](https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf)
+[^5]: R. Coase - ["The nature of the firm"](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
+[^6]: Aaron Wright - ["The Rise of Decentralized Autonomous Organizations: Opportunities and Challenges"](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)
