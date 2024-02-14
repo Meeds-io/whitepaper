@@ -18,9 +18,9 @@ WoM tarjoaa avoimemman ja muuttumattomamman keinon, jolla ihmiset voivat hankkia
 
 Merkkejä käytetään osoittamaan yhteisössä saavutettuja saavutuksia. Käyttäjät saavat pisteitä, kun he ovat suorittaneet joukon tavoitteita tai haasteita. Merkit voidaan avata keräämällä tiettyjä pisteitä tiettyihin luokkiin.
 
-Kun käyttäjä lataa merkkejä, on mahdollista sisällyttää pisteiden määrä ja hänen sijoituksensa Hubissa kyseisestä saavutuksesta.
+When the user downloads badges, it is possible to include the number of points and his rank in the Hub for this specific accomplishment.
 
-Todistukset ovat joustavampia kuin merkit; ne voivat olla vertaisen suositus, osoitus vuosien asiantuntemuksesta, koulutuksen tai kokeen suorittaminen tai sitoutuminen kyseiseen tilaan. Keskitin allekirjoittaa ne, ja niihin voidaan liittää vertaiskäyttäjän allekirjoitus.
+Todistukset ovat joustavampia kuin merkit; ne voivat olla vertaisen suositus, osoitus vuosien asiantuntemuksesta, koulutuksen tai kokeen suorittaminen tai sitoutuminen kyseiseen tilaan. The Hub signs these and can be accompanied by a signature by a peer user.
 
 ## 4.3. Digitaalinen työskentelyn identiteetti
 
@@ -32,7 +32,7 @@ Käyttäjä voi ilmaista Xeed-, Badge- ja Credential-merkintöjään muille kesk
 
 Käyttäjä voi olla yksi tai useampi digitaalinen identiteetti WoM. Hän voisi myöhemmin esitellä ne yhtenäisellä tavalla käyttäen todennettuja esityksiä.
 
-Toisin kuin web 2, käyttäjä on täysin omistuksessa hajautetun identiteettinsä. Jälkimmäinen voi näyttää (ja todistaa) yhteisöt, joihin hän osallistui, hänen todistetut taitonsa, hänen väittämänsä taidot, muut Xeedit (ihmiset), joiden kanssa hän työskenteli, hänen digitaalinen esityksensä itsestään... Vuonna tavalla luotettava LinkedIn 3.0.
+Toisin kuin web 2, käyttäjä on täysin omistuksessa hajautetun identiteettinsä. The latter can show (and prove) the communities he participated in, their proven skills, their claimed skills, the people whom they worked with, and their digital representation of themselves... Vuonna tavalla luotettava LinkedIn 3.0.
 
 Käyttäjä voi valita, paljastaa tai ei paljastaa mitään, mitä tietoja annetaan ja mitä identiteettejä käytetään kunkin sijainnin. Sisältö (todistetut taidot, aiemmat keskukset jne.) on väärentämisen varmaa, joten sitä ei voida muuttaa. Mikä tahansa identiteetti olisi kehitettävä ajan mittaan.
 
@@ -58,7 +58,7 @@ Kuten edellä on todettu, WoM avaa kryptovaluutta ja hajautetut verkkopalvelut p
 
 Itse asiassa kaikki työn sitoutuminen voidaan mahdollisesti määrittää. Itse asiassa maailma on muuttumassa yhä digitaalisemmaksi esimerkiksi 5G: n, iotin, puettavien ja niin edelleen. Tämän seurauksena voitaisiin ottaa entistä enemmän signaaleja ja analysoida niitä muiden kuin digitaalisten ammattien sitoutumisen lisäämiseksi. Haasteet ovat valmiit menemään tietä sen konkretisoimiseksi edustamalla fyysisen maailman saavutuksia.
 
-Kuka tahansa käyttäjä voi saada Meeds ja käyttää Meeds lompakkoa päästäkseen käsiksi uusiin ikäpalveluihin ilman erityistä koulutusta.
+Any user can get MEED and use a Meeds wallet to get access to new age services without any special training.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Verifiable Credentials Data Model

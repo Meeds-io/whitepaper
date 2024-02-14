@@ -1,85 +1,82 @@
-# 3. Meeds token – valuutta WoM
+# 3. The MEED token – the currency of the WoM
 
-WoM on powered by sen valuutta – Meeds (MEED) merkitty. Medejä käytetään palkitsemaan käyttäjiä (sitoutumisohjelmien kautta), ostamaan myymälöistä, hankkimaan Deeds, saamaan sijoituksista taloudellista tuottoa jne.
+The MEED token (pronounced "Meeds") is the currency that powers the WoM. Users are rewarded with MEED (through engagement programs), purchase in stores, get Deeds, get financial returns on investments, and more.
 
 ## 3.1. Tokenomics
 
-Meeds **maksimitarjonta on rajoitettu 100 miljoonaan kuponkiin**, lyödään progressiivisesti. **Meeds on lyöty nopeudella 10 MEED minuutissa**. Siksi koko kaivostoiminnan horisontti on lähes 20 vuotta (noin $ 10*60*24 *365 = 5 M$ Meeds lyödään vuodessa).
+The **maximum supply of MEED is limited to 100 million tokens**, minted progressively.
 
-5 Miljoonaa Meeds (5% koko tarjonta) oli valmiiksi lyöty aluksi. Josta 4,5 Mm on lukittu holvisopimukseen, jossa on lineaarinen oikeus neljän vuoden aikana. Ennalta lyöty summa käytettiin pääasiassa ohjelmiston IP: n hankkimiseen, token emissionin oikeudenkäyntikulujen maksamiseen ja isäntäpalveluihin.
+The Meeds Association has minted 5 Million MEED (5% of the total supply) at the start to acquire software IP from the funding members, pay for token emission legal fees, and hosting services. Then, it locked 4.5 Million in a vault contract with a linear vesting over four years.
 
-Loput ovat osa __ Meeds DAO-rahastoja__, ja niitä käytetään palveluiden maksamiseen ja kannustimien, kuten airdropsin ja suosittelukampanjoiden, käynnistämiseen.
+Since then, a smart contract called **the __Token Factory__ performs minting of **MEED tokens at a constant rate**.
 
+The minting rate is a parameter of the Token Factory, set at *10 MEED per minute* at the start. A vote of the DAO may change this rate in the future. At such rate, the Token Factory mints around 5 Million MEED yearly (10*60*24*365); thus, the minting horizon is nearly 20 years.
 
 ## 3.2. Kaivostoiminta jako
 
-Minted Meeds on suunnattu edistämään kolmen sidosryhmän – käyttäjien, rakentajien ja sijoittajien – osallistumista:
+The Token Factory also rules the allocation of minted MEED tokens to  three categories of stakeholders :
 
-- Käyttäjät (käyttäjät ja Deedin haltijat/vuokraajat) saavat Meediä sitoutumispalkkioiden kautta (mintium-malli).
-- Rakentajat (yhdistyksen jäsenet ja yhteisö) saavat Meeds kautta yhdistyksen rahastojen rakentaa, käyttää ja parantaa WoM.
-- Sijoittajat rahapaja Meeds vuokraamalla ja ostamalla likviditeettipooleja ja panostamalla Meeds.
+- **Builders**: Contributors of the Meeds DAO that help build and run the WoM
+- **Users**: Members in all communities of the WoM earn MEED as rewards for their contributions
+- **Investors**: The Meeds DAO incentivizes MEED token owners to stake MEED or provide liquidity for the Meeds economy
 
-Alussa rakentajat saavat 30 % määrärahoista. Käyttäjät ja sijoittajat jakavat 70 prosenttia. Tätä jako-osuutta tarkastellaan säännöllisesti DAO: n äänestyksessä Meedes-järjestön (Meeds Association) välityksellä.
+Each category of stakeholders receives a share of the MEED supply, which is subject to votes by the DAO.
 
-## 3.3. Käyttäjät – kaivostoiminta sitoutumisen kautta
+## 3.3. Users
 
-Osa jatkuvasti louhituista Meeds on osoitettu vaikuttavalle kaivoskanavalle. Jakelu on tehty viikoittain. Minkä tahansa viikon lopussa sitoutumisindeksi lasketaan, jotta keskusten johtajat ja Deedien omistajat voivat lunastaa palkintonsa seuraavalla viikolla ja saada Meedit. Lunastamattomat Meeds pysyvät rahastossa ja lisätään ensi viikon jakeluun. Malli on kuvattu yksityiskohtaisesti edellisessä luvussa (2.6 kohta).
+Part of the continuously minted MEED tokens is allocated to sponsor user engagement through the Mintium model (see 2.6). A global engagement index is calculated periodically across all Hubs of the WoM to allocate MEED rewards to the Hubs. Mintium rewards are claimable by Hub leaders and Deed owners.
 
-## 3.4. Rakentajat – Meeds yhdistys DAO ja yhteisö rakentajat
+## 3.4. Builders
 
-WoM ja Meeds token toimivat voittoa tavoittelematon Meeds Association DAO, joka otettiin käyttöön edellä. Monisig sopimus nimeltään _Meeds DAO Funds_ käytetään hallitsemaan yhdistyksen toimintakuluja.
+The Meeds DAO operates the WoM and the MEED token supply. A multi-sig smart contract called the _Meeds DAO Funds_ manages the operating expenses. It receives **30% of the minted MEED** to support Builders.
 
-Kaivostoiminnan aikana **30 % kaivostoiminnasta jaetaan Meeds Associationille**.
+The Meeds Association is entitled to hire service provider companies on behalf of the Meeds DAO to cover legal fees, development, and hosting costs using the Meeds DAO Funds.
 
-Yhdistyksen jäsenet voivat tarjota palveluja yhdistykselle sellaisen allekirjoitetun palvelusopimuksen perusteella, jossa vahvistetaan päivämäärä. Palvelut maksetaan kuukausittain Meeds, perustuu markkinahintaan. Palveluvapauksia ovat muun muassa – rikastuttamalla Meeds-ohjelmistoa, kehittämällä WoM-sovellusta, uusien liitinten kehittäminen, pilvipalvelujen tarjoaminen, rahoitus- ja lakipalvelujen tarjoaminen jne.
+Organizations and individuals not members of the Meeds Association may still contribute through the _Meeds Builders Hub_  - a community hub that welcomes enthusiasts who want to participate in creating and promoting the WoM. The <0>Meeds DAO Funds</0> also reward for contributions to the Builders Hub.
 
-Ilman jäsenyyttä mikä tahansa organisaatio voi osallistua uuden liittimen luomiseen ja saada siitä palkkion - ensin liittimen hankkivan Meeds-järjestön kautta ja sitten tämän liittimen kautta tapahtuvan rahanlyönnin kautta.
+The Builders Hub also receives Mintium rewards like any other hub.
 
-Yhdistys ylläpitää omaa yhteisökeskustaan nimeltä _Meeds Builders Hub_ , joka toivottaa innokkaat tervetulleiksi, jotka haluavat osallistua WoM:n luomiseen. Yhdistys tukee yhteisöä sen talousarviosta, ja se korvaa yhteisön jäsenten sitoutumisen.
-
-Näin ollen rakentajien keskus toimii live-esimerkkinä yhteisöstä, joka on valtuutettu Meeds-ohjelmistolla, tarjotaan yhdistyksen tarjoamia vakiomuotoisia palveluja, joita yhdistys tarjoaa. Yhdistys panostaa Meedeihin lunastaakseen yhteisölleen kauppakirjan. Näin ollen Builderin Hub hyötyy myös sitoutumisesta kaivostoimintaan kuten mikä tahansa muu Hub tukena Deed.
-
-Kun kaivostoiminta on ohi, yhdistys on jatkunut :
+After the minting period is over, the operational costs of the Meeds DAO will be supported by :
 
 - passiivisten tulojen verottaminen (3 % vuokrien osalta)
 - myyntitulojen verottaminen (2,5 % Deeds -myynnistä)
 - maksutapahtumien palkkioiden hahmottaminen yli maksutapahtumien kaupan käytön
 - likviditeettipoolin tarjoajan toiminta
-- transaktiomaksujen havaitseminen, kun keskittymä jakaa muita kuin Meedsin rahakkeita WoM-palvelujen kautta.
-- käyttämällä tekoja, jotka yhdistys on lyönyt ajan myötä.
+- perceiving transaction fees when a Hub distributes alternative tokens on their Hubs
+- renting and selling the Deeds that the DAO minted over time.
 
 
 ## 3.5. Sijoittajat
 
-Sijoittajat auttavat luomaan WoM: ää tarjoamalla likviditeettiä ja panostamalla Meeds ja siten vakauttamalla hintatasonsa rakennusvaiheen aikana. Molempia rohkaistaan kaivostoiminnan kautta.
+Investors support the WoM by providing liquidity and staking MEED tokens, which helps stabilize the price level during the building phase. Incentives are in place for both:
 
-**Likviditeetin tarjoajat** Valuutan likviditeetin hallinta on avain projektin onnistumiseen ja useita DeFi-strategioita käytetään pääoman tehokkuuden optimointiin. Aloitamme kannustimilla MeedS/ETH LP poolin muodostamiseen ja otamme asteittain käyttöön joukkovelkakirjalainoja siirtymään kohti protokollan omistamaa likviditeettiä. Viimeksi mainittu edistäisi yhdistyksen pitkän aikavälin kestävyyttä – kuten edellä mainittiin, tapahtumapalkkioilla rahoitetaan yhdistyksen toimintakulut, kuten pilvipalvelut.
+**Liquidity providers** Currency liquidity management is crucial to the project's success. The Meeds DAO employs various DeFi mechanisms to optimize its capital efficiency. For instance, incentives allow liquidity providers to farm yields by renting their LP tokens. Also, there are plans to introduce bonds and move towards protocol-owned liquidity progressively. The latter will contribute to the project's long-term sustainability - as mentioned above, transaction fees will fund the operating expenses.
 
-Jokaisella jäsenellä on myös oikeus ostaa suoraan suuri määrä Meeds alennuksella. Liittotilille johdettu määrä muunnetaan ETH: ksi, ja se lisätään yhdessä Liquidity Poolin Meedesin vastaavan arvon kanssa.
+Additionally, on behalf of the Meeds DAO, the Meeds Association is entitled to facilitate OTC (off-the-shelf) purchases of more extensive amounts of MEED tokens.
 
-**Staking / long-term investment** Panostaminen / pitkäaikainen sijoitus Panostaminen Meeds palkitaan. Kun Meeds on panostettu, staker saa joitakin xMeeds poletteja. Äskettäin louhittu liha jaetaan stakeille suhteessa niiden xMeeds tiloihin. Käytännössä minted Meeds -tuotteet lisätään tehokkaasti xMeedsin älykkään sopimuksen tiloihin ja jaetaan xMeedsin haltijalle, kun ne ovat vaakalaudalla.
+**Staking / long-term investment** Meeds DAO rewards loyal investors who want to support Meeds long-term. Anyone can stake their unused MEED tokens to earn yields and xMEED tokens.
 
-Panostamalla Meeds, sijoittajat voivat myös lunastaa Deed NFTs (ja sitten osallistua kaivostoiminta kautta sitoutuminen), mikä lisää tunnettua kysyntää. Jokainen panostettu Meeds (xMeeds) myöntää omistajalleen useita pisteitä päivässä. Mitä pidempi itseisaika on, sitä suurempi on xMeediä kohti saatujen pisteiden määrä. Jokainen Deed on sitten lunastetaan vastineeksi useita pistettä.
+Staking reults in the minting of xMEED tokens in proportion of the MEED tokens deposited. The xMEED token is Meeds governance token, which is used for voting on DAO proposals.
 
-Pisteet lasketaan seuraavan kaavan avulla:
+Additionally, xMEED holders earn minting points that entitle them to mint Deed NFTs. This mechanism increases the demand for MEED tokens. Minting points accrue over time as long as the stakeholder maintains his stake. The formula below allows you to calculate minting points :
 
- $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
+ $$ P = xMEED / (xMEED + 12000) * T / 240 $$
 
- jossa :
+ Where:
 
-- $xMeeds$ : xMeeds saldo ilman desimaaleja
-- $T$ : Aika kului millisekunteina
+- $xMEED$: xMEED balance  with no decimals
+- $T$: Time elapsed in milliseconds
 
-Kaava välttää suosimalla suuria haltijoita, jotta jakaa Deeds tehokkaammin ja tasapuolisemmin. Esimerkiksi kaava antaa seuraavat hinnat:
+The formula avoids favoring large holders to distribute Deeds more efficiently and equitably. Esimerkiksi kaava antaa seuraavat hinnat:
 
-| **Haltijan Koko** | **Pidossa**    | **Kertynyt Hinta** |
-| ----------------- | -------------- | ------------------ |
-| Pieni             | 1 000 xMeeds   | 28 pts/vrk         |
-| Keskikokoinen     | 10 000 xMeeds  | 164 pts/vrk        |
-| Suuri             | 100 000 xMeeds | 321 pts/vrk        |
+| **Haltijan Koko** | **Pidossa**   | **Kertynyt Hinta** |
+| ----------------- | ------------- | ------------------ |
+| Pieni             | 1 000 xMEED   | 28 pts/vrk         |
+| Keskikokoinen     | 10 000 xMEED  | 164 pts/vrk        |
+| Suuri             | 100 000 xMEED | 321 pts/vrk        |
 
 
-joka johtaa seuraavan tilan ajan kunkin haltijan luokan osalta :
+These accrue rates lead to the following holding time for each class of holder :
 
 | **Korttityyppi** | **Kulut**   | **Suuri Haltija** | **Keskikokoinen Haltija** | **Pieni Haltija** |
 | ---------------- | ----------- | ----------------- | ------------------------- | ----------------- |
@@ -90,20 +87,20 @@ joka johtaa seuraavan tilan ajan kunkin haltijan luokan osalta :
 
 ## 3.6. Meeds DAO: n hallinto
 
-Meeds token haltijat on panoksen poletteja voidakseen äänestää Meeds DAO päätökset kuten hallinnoida kaivostoiminnan budjetin tai valita DAO hallituksen jäseniä (vuotuinen valtuutus).
+xMEED token holders can freely participate in the governance of the Meeds DAO by voting with their tokens on decisions such as managing the budget allocation or electing DAO board members.
 
 ## 3.7. Hajautettu rahoitus (DeFi) käyttäjäpalvelut
 
 WoM ottaa käyttöön lohkoketjun maailman monille ihmisille, jotka eivät käytä sitä tänään.
 
-Itse asiassa mikä tahansa työ (digitaalinen tai ei) voidaan pelotella ja sitoutua - palkitaan Meeds. Lohkoketjujen käyttö on helppokäyttöistä, ja ne on renderöity käyttäjien saataville. lompakko, joka “abstraktia” mitään monimutkaisuus crypto maailman keskivertokäyttäjälle.
+Indeed, Meeds software can gamify and set a monetary value on any contribution (whether it is digital or not) and reward it with MEED tokens. This has be made possible by an easy-to-use, blockchain-based wallet app that simplifies access to the crypto world for an average user, rewards are tangible.
 
-Lompakon ulkopuolella ja kaupassa, jossa he voivat ostaa etuja Meeds, Aiomme ottaa käyttöön jokaisen käyttäjän useita loppukäyttäjän tuotteita, jotka on varustettu hajautetun rahoituksen protokollien avulla, kuten:
+Beyond the wallet and a store where they can purchase perks for MEED tokens, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
 
 - Mahdollisuus panostaa MEEDin rahakkeisiin ja saada tuottoja (tuottaa tuloja).
-- Kyky käyttää MEED kuponkia vakuutena lainata vakaita kolikoita, kuten USDC (vipuvaikutus ensin [Fuse-poolin](https://app.rari.capital/fuse) ja rekisteröi Meeds token [AAVE](https://aave.com/).
-- Digitaalinen kortti, joka voidaan lisätä ja käyttää Apple Payn, Googlen tai minkä tahansa ATM: n kautta. Jälkimmäistä voidaan tarjota VISAn kanssa solmitun kumppanuuden avulla, ja se tarjoaa USDC: n luottolimiittiä, jonka vakuutena ovat panostaneet Meedit. Organisaatiot voivat käyttää tätä korttia myös rahoittaakseen työntekijöiden lompakkoja, jotta voidaan hallinnoida työntekijöiden etuuksia, kuten ravintoloita, kuljetus ja kaikenlaiset kulut.
+- The ability to use MEED tokens as collateral to borrow stablecoins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the MEED token to [AAVE](https://aave.com/).
+- A digital card can be added and used through Apple Pay, Google Pay, or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by xMEED. Organizations could also use this card to fund employee wallets to manage employee benefits such as restaurants, transportation, and other expenses.
 
-Joten vain monet uudet käyttäjät löytävät blockchain maailma, he myös löytää pankkimaton maailma.
+So, not only will many new users discover the blockchain world, but they will also discover a bankless world.
 
  

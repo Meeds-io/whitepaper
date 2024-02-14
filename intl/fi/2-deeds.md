@@ -11,7 +11,7 @@ WoM on suunniteltu monipuoliseksi ja osallistavaksi alustaksi. Se toivottaa terv
 
 ## 2.2. Teosten tarjonta
 
-WoM toimittaa viime kädessä rajallisen määrän Deeds. Jokainen Deed sisältää ennalta enimmäismäärä käyttäjiä ja tarjoaa kapasiteetti Meeds palkitseva (Minting Power). Ilmaisulla ”käyttäjä” tässä ja myöhemmin nimetään kaikenlainen työntekijä, työntekijä, freelancer, vapaaehtoinen jne.
+WoM toimittaa viime kädessä rajallisen määrän Deeds. Each Deed includes a predefined maximum number of users and offers a capacity of rewarding (Minting Power). Ilmaisulla ”käyttäjä” tässä ja myöhemmin nimetään kaikenlainen työntekijä, työntekijä, freelancer, vapaaehtoinen jne.
 
 On olemassa neljä erilaista Deeds, joista jokainen tarjoaa erilaisia valmiuksia määrän käyttäjiä, äänioikeus kaupungissa (ks. 2. ) tai minting teho, harvinaisinta on kaikkein tehokkain :
 
@@ -36,7 +36,7 @@ Koska organisaatio on Deedin aktiivinen haltija tai vuokraaja, se on oikeutettu 
 
 Nykypäivän kilpailukykyisillä markkinoilla organisaatiot pyrkivät houkuttelemaan ja säilyttämään huippulahjakkuuksia paitsi korvausten avulla myös lisäämällä työn sitoutumista. WoM käsittelee tätä haastetta ainutlaatuisella ja tunnustetulla palkitsemisjärjestelmällä, joka on osa yhteisön hubeja.
 
-Näissä keskuksissa yhteisön johtajat voivat ohjata jäsenten sitoutumista tarjoamalla läpinäkyvän valikoiman kannustimia työkohteisiin. Osallistujat ansaitsevat sitoutumispisteitä ponnistuksistaan, jotka muunnetaan määräajoin MEED-rahakkeiksi tai mukautetuiksi vastaavaksi rahaksi ennalta määritetyn budjetin mukaisesti.
+Näissä keskuksissa yhteisön johtajat voivat ohjata jäsenten sitoutumista tarjoamalla läpinäkyvän valikoiman kannustimia työkohteisiin. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
 
 Yhteisön keskukset tarjoavat joukon työkaluja ja ominaisuuksia, jotka on suunniteltu tehostamaan ja hallitsemaan osallistujien osallistumista:
 
@@ -80,7 +80,7 @@ Sitouttamalla käyttäjänsä WoMiin yhteisöt saavat korvauksen innovatiivisen 
 
 Keskusten käyttäjien keräämät sitoutumispisteet osallistuvat Meeds Associationin laskemaan maailmanlaajuiseen sitoutumisindeksiin. Indeksissä käytetään samaa periaatetta kaikissa keskuksissa. Vaikka yhteisö voi muuttaa pisteiden jakoa edistääkseen yhtä toimea toisen sijaan, näitä muutoksia ei oteta huomioon kokonaisindeksin laskennassa.
 
-Joka viikko tietty määrä Meeds on varattu WoM: n globaalin sitoutumisen kaivostoimintaan. Se lasketaan viikoittain suhteellisesti osallistuvien keskusten kesken. Jotkut Hubs saavat ylimääräistä vauhtia riippuen tyyppi Deed he käyttävät. Ne Hubit, jotka vaativat Meediä viikon aikana, saavat sen. Lunastamattomat Meeds lisätään seuraavan viikon kokonaisjakelun määrään.
+Each week, a certain amount of MEED is allocated to the global engagement minting of the WoM. Se lasketaan viikoittain suhteellisesti osallistuvien keskusten kesken. Jotkut Hubs saavat ylimääräistä vauhtia riippuen tyyppi Deed he käyttävät. The Hubs that claim their MEED tokens over the week, receive them. The unclaimed MEED tokens are added to the following week’s global distribution amount.
 
 Tehtävän sitoutumispistemäärä _S_  on toimeksiannon funktio, siihen osallistuvien käyttäjien määrä ja jakautuminen:
 
@@ -92,12 +92,12 @@ Jossa :
 - $U$ = _Osallistujat_ - käyttäjät, jotka osallistuivat pisteisiin viikon aikana, vähintään yhdellä toiminnolla.
 - $E_d$ = keskuksen sitoutumisaste - toimet käyttäjää kohti ($A/U$).
 - $E_w$ = kaikkien WoM:n aktiivisten keskusten keskimääräinen sitoutumisaste.
-- $D_r$ = jakeluprosentti - jos keskittymä sai lyötyjä meedejä edellisen jakson aikana, se prosenttiosuus meedeistä, joka jaettiin sen käyttäjille. Prosenttiosuus voi olla yli 100, jos jakelu viivästyy ajoissa.
-- $D_s$ = jakeluhajonta - jos keskus sai lyötyjä Meedejä edellisen jakson aikana, Meedejä saaneiden käyttäjien prosenttiosuus koko käyttäjäkunnasta.
+- $D_r$ = _Distribution rate_ - if a Hub received minted MEED for the preceding period, the % of MEED that was distributed to its users. Prosenttiosuus voi olla yli 100, jos jakelu viivästyy ajoissa.
+- $D_s$ =  _Distribution spread_ - if a Hub received minted MEED tokens for the preceding period, the % of the users that received MEED in the total pool of users.
 - $M$ = _Minting Power_ of the Deed sellaisena kuin se on määritelty 2.3
 
 
-Globaali sitoutumisindeksi, jota käytetään jaettaessa lyötyjä Meedejä keskusten kesken, on kaikkien keskusten viikon sitoutumispisteiden summa.
+The global engagement index used to distribute minted MEED among the Hubs is the sum of all Hubs’ weekly engagement scores.
 
 
 Yllä oleva kaava on yksinkertainen ja suunniteltu suosimaan keskuksia :
@@ -110,9 +110,9 @@ Lisäksi vahvistimet ovat paikallaan :
 - organisaatiot, joilla on korkein sitoutumisaste niiden koosta riippumatta (sitoutumisaste suhteessa WoM)
 - arpia tekoja
 
-> The Meeds Association pidättää itsellään oikeuden muuttaa kaavaa tarvittaessa, jos esimerkiksi tietyt käyttötapaukset ilmenevät. Yhdistys voi myös laittaa mustalle listalle minkä tahansa keskuksen, joka kaappaa kaavan omaksi edukseen.
+> The Meeds Association reserves the right to change the formula if required – if some specific use cases arise, for instance. Yhdistys voi myös laittaa mustalle listalle minkä tahansa keskuksen, joka kaappaa kaavan omaksi edukseen.
 
-Kun keskukset palkitaan Meedeillä ja niitä kannustetaan jakamaan niitä uudelleen käyttäjilleen palkintoina heidän sitoutumistaan vastaan - sekä yhteisöjen että niiden käyttäjien edut ovat samassa tulonjakosyklissä. WoM tarjoaa siis uudenlaisen työmallin, jossa työnantajan ja työntekijän välinen suhde muotoillaan uudelleen kumppanuudeksi.
+As the Hubs are rewarded with MEED and incentivized to redistribute them as rewards to their users against their engagement – the interests of both the communities and their users are aligned in the same virtuous revenue-sharing cycle. WoM tarjoaa siis uudenlaisen työmallin, jossa työnantajan ja työntekijän välinen suhde muotoillaan uudelleen kumppanuudeksi.
 
 Mintium-malli on ensimmäinen laatuaan - se menee perinteistä freemium-mallia pidemmälle, sillä sen lisäksi, että palveluiden käyttö on ilmaista, sekä organisaatiot että niiden käyttäjät palkitaan niiden käytöstä.
 
@@ -136,7 +136,7 @@ Kaupunki on tapa, jolla yhteisöt voivat kokoontua yhteen ja luoda suuremman yht
 
 Jokaisella kaupungilla on oma hallituksensa, ja se ylläpitää omaa DAO:ta, jossa kaupungin Deed-omistajat voivat valita kaupunginvaltuuston, äänestää ja laatia omia toimintasääntöjään, lisätä uusia palveluita ja muokata kaupunkiaan haluamallaan tavalla niin, että kaupungin houkuttelevuus ja siihen liitettyjen Deedien arvo kasvaa.
 
-He voisivat esimerkiksi lisätä digitaalisen esityksen kaupungistaan, kaupunkiinsa liittyviä fyysisiä vastineita (esimerkiksi kokoushuoneita fyysisissä työtiloissa), lisätä Meeds-käyttöisiä ruokapalveluja, lomapalveluja jne....
+For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add food services, vacations services, etc...
 
 Oletusarvoisesti (ellei kaupunki äänestä toisin) kaupunki (5 %) ja yhdistys (3 %) "verottavat" asiakirjojen vuokraamisesta saatavia passiivisia tuloja tuottavan käytön edistämiseksi.
 
