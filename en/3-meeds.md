@@ -62,9 +62,13 @@ Additionally, on behalf of the Meeds DAO, the Meeds Association is entitled to f
 **Staking / long-term investment**
 Meeds DAO rewards loyal investors who want to support Meeds long-term. Anyone can stake their unused MEED tokens to earn yields and xMEED tokens.
 
-Staking reults in the minting of xMEED tokens in proportion of the MEED tokens deposited. The xMEED token is Meeds governance token, which is used for voting on DAO proposals.
+When a user stakes MEED tokens, the smart contract locks this deposit and mints xMEED tokens proportionately. 
 
-Additionally, xMEED holders earn minting points that entitle them to mint Deed NFTs. This mechanism increases the demand for MEED tokens. Minting points accrue over time as long as the stakeholder maintains his stake. The formula below allows you to calculate minting points :
+Meeds DAO uses xMEED as its governance token; therefore, its holders can take part in votes on proposals.
+
+Additionally, xMEED holders earn minting points that entitle them to mint Deed NFTs. 
+
+Minting points accrue over time as long as the stakeholder maintains his stake. The formula below allows you to calculate minting points :
 
  $$ P = xMEED / (xMEED + 12000) * T / 240 $$
 
@@ -99,14 +103,15 @@ xMEED token holders can freely participate in the governance of the Meeds DAO by
 
 The WoM will introduce the blockchain world to many people who do not use it today.
 
-Indeed, Meeds software can gamify and set a monetary value on any contribution (whether it is digital or not) and reward it with MEED tokens. This has be made possible by an easy-to-use, blockchain-based wallet app that simplifies access to the crypto world for an average user, rewards are tangible.
+Indeed, the Meeds software can gamify and set a monetary value on any contribution (whether it is digital or not) and reward it with MEED tokens. 
 
-Beyond the wallet and a store where they can purchase perks for MEED tokens, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
+An easy-to-use, blockchain-based wallet app simplifies the management of MEED tokens for contributors. Therefore,  Meeds offers anybody a safe entry to the complex crypto world of crypto-currencies.
 
-- The ability to stake MEED tokens and get yields (generate revenues)
+Beyond the wallet and a store where they can purchase perks for MEED tokens, we plan to introduce every user to several end-user products powered by the Decentralized Finance (DeFi) protocols, such as:
+
+- The ability to stake MEED tokens and generate passive income (yields)
 - The ability to use MEED tokens as collateral to borrow stablecoins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the MEED token to [AAVE](https://aave.com/).
-- A digital card can be added and used through Apple Pay, Google Pay, or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by xMEED. Organizations could also use this card to fund employee wallets to manage employee benefits such as restaurants, transportation, and other expenses.
+- A digital card can be added and used through Apple Pay, Google Pay, or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by xMEED holdings. Organizations could also use this card to fund employee wallets to manage employee benefits such as restaurants, transportation, and other expenses.
 
 So, not only will many new users discover the blockchain world, but they will also discover a bankless world.
 
- 
