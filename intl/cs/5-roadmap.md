@@ -10,11 +10,11 @@ Organizace by dokázaly získávat talenty, procházet se WM a správně dokáza
 
 WoM by měl vlastní měnu **MEED** – která by byla k utrácení v obchodech, přeměnit na jinou měnu, investovat do návratnosti investic, nájemného nebo koupě atd. WoM by také usnadnil distribuci dalších žetonů a podílel by se na celkovém ekosystému kryptoměn.
 
-Protože obrázek vydá za tisíc slov, zde je schéma, které popisuje toky WoM a Meeds
+As a picture is worth a thousand words, here is a diagram that describes the WoM and MEED token flows
 
 ![WoM a Meeds toky](en/img/wom-flows.png)
 
-Údržba a dlouhodobá udržitelnost je zajištěna prostřednictvím daní sdílených mezi sdružením Meeds a městy.
+The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds Association and the Cities.
 
 ## 5.2. Co je v ní pro rané osvojitele
 
@@ -24,7 +24,7 @@ Konkrétně WoM odměňuje dlouhodobé investice na verše – to je umoření n
 
 Tím, že věří v tento projekt, zapojí se do likviditních fondů. Tím, že se v něm ocitnou žetony, je umořují proti Deeds... raní investoři všech velikostí by vymýšleli další žetony. Získali by také první hlasovací práva a pomohli by utvářet WoM.
 
-Organizace, které získají, ale zejména využívají činy k tomu, aby se zapojili a odměňovali své zaměstnance, by dostaly odměnu v zamotaných Meeds. Čím spravedlivější budou hrát, tím více získají. Dřívější adopci by byli spojeni s prvními historickými městy a byli by identifikováni jako stavitelé později.
+Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted MEED. Čím spravedlivější budou hrát, tím více získají. Dřívější adopci by byli spojeni s prvními historickými městy a byli by identifikováni jako stavitelé později.
 
 Níže uvedený diagram představuje příklad investiční strategie společnosti Meeds pro držitele kapitálu:
 
@@ -42,7 +42,7 @@ Oficiálním zahájením WoM bylo **1. května 2022** – Mezinárodní den prac
 
 V té době již MEED token existoval. Je možné ho získat a skupiny likvidity jsou otevřeny pro účast v sítích Polygon a Ethereum.
 
-Tři členové sdružení Meeds používají systém interně k zapojení a odměňování svých uživatelů a ke zlepšování softwaru Meeds.
+Three Meeds Association members use the system internally to engage and reward their users and improve the Meeds software.
 
 Aplikace Investor je k dispozici na Ethereum Mainnet. Při spuštění zahrnuje sázky, odměny za likviditu, hromadění bodů a umořování činů.
 
@@ -54,7 +54,7 @@ Tento dokument byl původně zveřejněn v den zahájení. Po spuštění bude t
 
 Spouštíme komunitu tvůrců na softwaru Meeds a na Discordu. Komunita vítá každého, kdo se chce podílet na budování WoM. Sdružení by ocenilo spolupráci stavitelů s Meeds z jeho marketingového rozpočtu.
 
-Sdružení má také v plánu podílet se na některých Meeds s cílem získat (vyplatit) listinu pro komunitu stavitelů. Komunita pak bude těžit Meeds zapojením, přes mintium model a distribuovat je angažovaným uživatelům.
+The association plans also to stake some MEED in order to acquire (redeem) a Deed for the builders community. The community will then mint MEED by engagement, through the mintium model, and distribute them to engaged users.
 
 ## 5.5. Plán a milníky
 
@@ -68,7 +68,7 @@ Náš plán by se řídil pořadím priorit níže:
 
 Spoléháme na rané osvojitele DAOs a technologicky úsporných společností ve fázi výstavby. Měli bychom také mít několik prvních osvojitelů z tradičních společností, které získávají okamžitou hodnotu z WoM tím, že svým lidem poskytují relevantní programy zapojení, nad rámec jejich současných tradičních plánů odměňování.
 
-Mléko se rozprostírá za 20 let. Do té doby chceme dosáhnout vybudování vyspělého ekosystému, který se rozšířil do mnoha organizací a mnoha uživatelů po celém světě.
+MEED minting spans a 20 year period. Do té doby chceme dosáhnout vybudování vyspělého ekosystému, který se rozšířil do mnoha organizací a mnoha uživatelů po celém světě.
 
 ## 5.6. Co můžete udělat právě teď
 
@@ -81,6 +81,6 @@ Co můžete udělat právě teď, abyste se zapojili?
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
 - Připojte se k naší [Discord](https://discord.com/invite/hAuADSq3) komunitě a mějte ve smyčce
-- Připojte se k naší komunitě [tvůrců](https://meeds.io/builders) a vyzkoušejte software Meeds, zapojte se a získejte nějaké odměny za zapojení Meeds
+- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some MEED engagement rewards
 
 **\*\*\* The WoM – pojďme společně vybudovat tento bláznivý budoucí svět. \*\*\***

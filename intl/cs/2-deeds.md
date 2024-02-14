@@ -11,7 +11,7 @@ WoM je navržen tak, aby byl rozmanitou a inkluzivní platformou. Vítá široko
 
 ## 2.2. Zásobování
 
-WoM nakonec dodá omezené množství činů. Každá listina obsahuje předem definovaný maximální počet uživatelů a nabízí kapacitu odměňování Meeds (těžební síla). Termín „uživatel“ zde a dále označuje jakýkoli druh zaměstnance, pracovníka, svobodného zaměstnání, dobrovolníka atd.
+WoM nakonec dodá omezené množství činů. Each Deed includes a predefined maximum number of users and offers a capacity of rewarding (Minting Power). Termín „uživatel“ zde a dále označuje jakýkoli druh zaměstnance, pracovníka, svobodného zaměstnání, dobrovolníka atd.
 
 Existují čtyři typy činů, z nichž každý poskytuje různé možnosti z hlediska počtu uživatelů, hlasovací práva ve městě (viz 2. ) nebo výkon těžby, nejtěžší je nejúčinnější:
 
@@ -36,7 +36,7 @@ Být aktivním držitelem nebo rentem činu je organizace oprávněna odměňova
 
 Na dnešním konkurenčním trhu se organizace snaží přilákat a udržet si špičkové talenty nejen prostřednictvím kompenzací, ale také zvýšením pracovního nasazení. WoM se touto výzvou zabývá jedinečným, tokenizovaným systémem odměn ztělesněným v komunitních centrech.
 
-V rámci těchto Hubů mohou vedoucí představitelé komunit motivovat k zapojení členů tím, že nabídnou transparentní nabídku pobídek pro pracovní položky. Účastníci získávají za své úsilí pracovní místa, která jsou pravidelně převáděna na žetony MEED nebo ekvivalent vlastního kapitálu, v souladu s předem stanoveným rozpočtem.
+V rámci těchto Hubů mohou vedoucí představitelé komunit motivovat k zapojení členů tím, že nabídnou transparentní nabídku pobídek pro pracovní položky. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
 
 Centry komunity nabízejí řadu nástrojů a funkcí určených k posílení a řízení zapojení přispěvatelů:
 
@@ -80,7 +80,7 @@ Občanství se zapojením svých uživatelů do WoM vyrovná inovativním modele
 
 Body zapojení, které získali uživatelé Hubs, se účastní indexu globálního zapojení vypočítaného sdružením Meeds Association. Index používá stejný princip pro všechny Hubs. Přestože komunita může změnit alokaci bodů na podporu jedné akce na druhou, tyto změny nebudou brány v úvahu při výpočtu celkového indexu.
 
-Každý týden se určité množství Meeds přiděluje na globální těžbu vládě. Je počítáno každý týdně, poměrným dílem mezi zúčastněnými centy. Některé Huby získají další zvýšení v závislosti na typu činu, který používají. Huby, které si během týdne nárokují svá Meed, je obdržíme. Neuváděná Meeds jsou přidána k celkové částce v následujícím týdnu.
+Each week, a certain amount of MEED is allocated to the global engagement minting of the WoM. Je počítáno každý týdně, poměrným dílem mezi zúčastněnými centy. Některé Huby získají další zvýšení v závislosti na typu činu, který používají. The Hubs that claim their MEED tokens over the week, receive them. The unclaimed MEED tokens are added to the following week’s global distribution amount.
 
 Skóre angažovanosti _S_ Deed je funkcí zapojení, počtu zapojených uživatelů a distribuce :
 
@@ -92,12 +92,12 @@ Kde:
 - $U$ = _Zapojení uživatelé_ - uživatelé, kteří přispěli k bodům během týdne, alespoň jednou akcí.
 - $E_d$ = _Míra zapojení centra_ - akce na uživatele ($A/U$)
 - $E_w$ = _Průměrná míra angažovanosti_ všech aktivních Hubů ve vlně.
-- $D_r$ = _Distribuční sazba_ - pokud Hubec obdržel vytěžené Meeds za předchozí období, % mletí, které bylo distribuováno jeho uživatelům. Procentní podíl může být vyšší než 100, pokud je distribuce časově opožděna.
-- $D_s$ =  _Distribuční spread_ - pokud Hubec obdržel vytěžené Meeds za předchozí období, % uživatelů, kteří obdrželi Meeds v celkové skupině uživatelů.
+- $D_r$ = _Distribution rate_ - if a Hub received minted MEED for the preceding period, the % of MEED that was distributed to its users. Procentní podíl může být vyšší než 100, pokud je distribuce časově opožděna.
+- $D_s$ =  _Distribution spread_ - if a Hub received minted MEED tokens for the preceding period, the % of the users that received MEED in the total pool of users.
 - $M$ = _Mincovní síla_ Deeds definované v bodě 2.3
 
 
-Index globální angažovanosti používaný k distribuci vytěžených Meeds mezi centra je součtem všech skóre angažmá Hubů za týden.
+The global engagement index used to distribute minted MEED among the Hubs is the sum of all Hubs’ weekly engagement scores.
 
 
 Výše uvedený vzorec je jednoduchý a navržen tak, aby upřednostňoval huby:
@@ -110,9 +110,9 @@ Kromě toho jsou k dispozici posilovače pro :
 - organizace s nejvyšším zapojením bez ohledu na jejich velikost (míra zapojení ve vztahu k WoM)
 - vzácnější činy
 
-> Meeds Association si vyhrazuje právo změnit vzorec v případě potřeby – pokud nastanou například některé konkrétní případy použití. Asociace také může na černé listině vypsat jakékoli Hub, které tento vzorec zneužívá ke svému jedinečnému prospěchu.
+> The Meeds Association reserves the right to change the formula if required – if some specific use cases arise, for instance. Asociace také může na černé listině vypsat jakékoli Hub, které tento vzorec zneužívá ke svému jedinečnému prospěchu.
 
-Jelikož jsou Huby odměňovány Meeds a pobízeny k jejich přerozdělování jako odměn svým uživatelům za jejich angažovanost – zájem komunit i jejich uživatelů je zasazen do stejného cyklu efektivního sdílení příjmů. WoM tak nabízí nový pracovní model, který mění vztah zaměstnavatele/zaměstnance jako partnerství.
+As the Hubs are rewarded with MEED and incentivized to redistribute them as rewards to their users against their engagement – the interests of both the communities and their users are aligned in the same virtuous revenue-sharing cycle. WoM tak nabízí nový pracovní model, který mění vztah zaměstnavatele/zaměstnance jako partnerství.
 
 Model „mintium“ je první svého druhu – jde dále než tradiční freemium, protože nejenom že služby jsou zdarma k použití, ale jak organizace, tak jejich uživatelé jsou za jejich používání odměňováni.
 
@@ -136,7 +136,7 @@ Město je způsob, jak se komunity spojit a vytvořit větší komunitu. A v dů
 
 Každé město má svůj vlastní dárek a provozuje vlastní DAO, kde si majitelé Deed mohou zvolit svou městskou radu, hlasovat a stanovit vlastní provozní pravidla, přidat nové služby a formovat své město tak, jak chtějí, a zvýšit tak atraktivitu města a hodnotu činů, které jsou k němu připojeny.
 
-Mohli by například přidat digitální reprezentaci svého města, fyzické protějšky spojené s jejich městem (například zasedací místnosti ve fyzických co-workingových prostorech), přidat stravovací služby poháněné Meeds, prázdninové služby atd...
+For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add food services, vacations services, etc...
 
 Ve výchozím nastavení (pokud město nehlasuje jinak) budou pasivní příjmy z pronájmu Listin „zdaněny“ městem (5 %) a sdružením (3 %) za účelem podpory produktivního využití.
 

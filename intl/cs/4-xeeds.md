@@ -18,9 +18,9 @@ WoM poskytuje transparentnější a neměnnější prostředek pro lidi, jak zí
 
 Odznaky jsou používány k reprezentaci úspěchů v komunitě. Po dokončení souboru cílů nebo výzev budou uživatelům přiděleny body. Odznaky lze odemknout nahromaděním určitého množství bodů v určitých kategoriích.
 
-Když uživatel stáhne odznaky, je možné zahrnout počet bodů a jeho hodnost do Hobu pro tento konkrétní úspěch.
+When the user downloads badges, it is possible to include the number of points and his rank in the Hub for this specific accomplishment.
 
-pověření jsou pružnější než odznaky; mohou být doporučením partnera s uvedením let odborných znalostí, odborné přípravy nebo dokončení zkoušek nebo zapojení do vesmíru. Ty jsou podepsány Hubem a mohou být doprovázeny podpisem partnerského uživatele.
+pověření jsou pružnější než odznaky; mohou být doporučením partnera s uvedením let odborných znalostí, odborné přípravy nebo dokončení zkoušek nebo zapojení do vesmíru. The Hub signs these and can be accompanied by a signature by a peer user.
 
 ## 4.3. Digitální pracovní identita
 
@@ -32,7 +32,7 @@ Uživatel bude moci vyjádřit své Xeed, Badge a přihlašovací údaje k ostat
 
 Uživatel může mít v WoM jednu nebo více digitálních identit. Později je mohl jednotně prezentovat pomocí ověřených prezentací.
 
-Na rozdíl od webu 2 je uživatel plně vlastníkem svých decentralizovaných identit. Ten může ukázat (a dokázat) komunity, kterých se účastnil, své prokázané dovednosti, jeho nárokované dovednosti, další Xeeds (lidi), se kterými spolupracoval, jeho digitální zastoupení s... Na způsob důvěryhodného LinkedIn 3.0.
+Na rozdíl od webu 2 je uživatel plně vlastníkem svých decentralizovaných identit. The latter can show (and prove) the communities he participated in, their proven skills, their claimed skills, the people whom they worked with, and their digital representation of themselves... Na způsob důvěryhodného LinkedIn 3.0.
 
 Uživatel si bude moci vybrat, zda něco odhalí, jaké informace poskytnout a jaké identity použít pro každou pozici. Obsah (prokázané dovednosti, předchozí centra atd.) je důkazem nedovolené manipulace a nelze jej proto upravit. Každá identita by se musela v průběhu času rozvíjet.
 
@@ -58,7 +58,7 @@ Jak již bylo zmíněno výše, WoM otevírá svět kryptoměn a decentralizovan
 
 Jakákoliv pracovní angažovanost může být skutečně sklouznuta. Ve skutečnosti je svět stále digitálnější s trendy, jako je 5G, jot, nositelné a tak dále. V důsledku toho by mohlo být zachyceno a analyzováno více signálů s cílem přiblížit zapojení nedigitálních profesí. Výzvy jsou připraveny jít cestu k jeho symbolizaci reprezentací úspěchů ve fyzickém světě.
 
-Každý uživatel může získat Meeds a používat peněženku Meeds, aby získal přístup ke službám nové doby bez jakéhokoli speciálního školení.
+Any user can get MEED and use a Meeds wallet to get access to new age services without any special training.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Ověřitelné pověření Datový režim
