@@ -10,11 +10,11 @@ Organizations would be able to source talents, browsing through the WoM, for the
 
 WoM:llä olisi oma valuuttansa MEED, jota voisi käyttää kaupoissa, vaihtaa toiseen valuuttaan, sijoittaa tuottoa saadakseen, vuokrata tai ostaa jne. WoM helpottaisi myös muiden rahakkeiden jakelua ja osallistuisi koko salausekosysteemiin.
 
-Koska kuva on arvoltaan tuhat sanaa, tässä on kaavio, joka kuvaa WoM ja Meeds virtaa
+As a picture is worth a thousand words, here is a diagram that describes the WoM and MEED token flows
 
 ![WoM ja Meeds virrat](en/img/wom-flows.png)
 
-Maailmanlaajuinen ylläpito ja kestävyys pitkällä aikavälillä varmistetaan Meeds-yhdistyksen ja kaupunkien välillä jaettavilla veroilla.
+The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds Association and the Cities.
 
 ## 5.2. Mitä siinä varhainen adoptoijat
 
@@ -24,7 +24,7 @@ Erityisesti WoM palkitsee pitkäaikaiset sijoitukset jakeen – se on omaisuuden
 
 Uskomalla hankkeeseen, osallistumalla likviditeettipooleihin, asettamalla MEED-kuponkia, lunastamalla ne Deeds...kaikenkokoisten varhaisten sijoittajien olisi lyödä ylimääräisiä kuponkia. He saisivat myös varhaisimmat äänioikeudet ja auttaisivat muokkaamaan WoM.
 
-Organisaatiot, jotka hankkivat mutta erityisesti käyttävät Deeds sitouttaakseen ja palkitseakseen työntekijöitään, saisivat korvauksia minted Meeds. Mitä oikeudenmukaisempaa he pelaavat, sitä enemmän he saavat. Aikaisemmat adoptoijat liitetään ensimmäisiin historiallisiin kaupunkeihin, ja heidät määritellään myöhemmin rakentajiksi.
+Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted MEED. Mitä oikeudenmukaisempaa he pelaavat, sitä enemmän he saavat. Aikaisemmat adoptoijat liitetään ensimmäisiin historiallisiin kaupunkeihin, ja heidät määritellään myöhemmin rakentajiksi.
 
 Jäljempänä oleva kaavio on esimerkki pääoman haltijoiden noudattamasta Meeds -sijoitusstrategiasta :
 
@@ -42,7 +42,7 @@ WoM:n virallinen lanseeraus oli **1. toukokuuta 2022** – kansainvälinen työn
 
 Siihen aikaan MEED-tunnus oli jo olemassa. On mahdollista hankkia se ja likviditeetti poolit ovat avoimia osallistumista, monikulmio ja Ethereum verkoissa.
 
-Kolme Meeds-yhdistyksen jäsentä käyttää järjestelmää sisäisesti käyttääkseen ja palkitseakseen käyttäjiään ja parantaakseen Meeds-ohjelmistoa.
+Three Meeds Association members use the system internally to engage and reward their users and improve the Meeds software.
 
 Investor sovellus on saatavilla Ethereum Mainnetissa. Käynnistäminen, se sisältää panostaminen, likviditeettipalkkiot, pisteitä kertyminen ja lunastaa Deeds.
 
@@ -54,7 +54,7 @@ Tämä asiakirja julkaistiin alun perin käynnistyspäivänä. Kun käynnistämi
 
 Olemme käynnistämässä rakentajien yhteisö Meeds-ohjelmisto ja Discordi. Yhteisö toivottaa tervetulleeksi kaikki, jotka haluavat osallistua WoM:n rakentamiseen. Yhdistys palkitsee rakentajien sitoutumisen Meedsin kanssa sen markkinointibudjetista.
 
-Yhdistys suunnittelee myös panostavansa joitakin Meeds jotta se voi hankkia (lunastaa) Deed for the builders community. Yhteisö tulee sitten lyömään Meeds sitoutumalla mintiummallin kautta ja jakamaan ne palkattuille käyttäjille.
+The association plans also to stake some MEED in order to acquire (redeem) a Deed for the builders community. The community will then mint MEED by engagement, through the mintium model, and distribute them to engaged users.
 
 ## 5.5. Etenemissuunnitelma ja välitavoitteet
 
@@ -68,7 +68,7 @@ Etenemissuunnitelmassamme noudatetaan seuraavassa järjestyksessä:
 
 Luotamme siihen, että DAO- ja tech-taju -yritykset omaksuvat varhaisessa vaiheessa uusia yrityksiä rakennusvaiheessa. Meillä pitäisi myös olla joitain varhaisia ottajia perinteisiltä yrityksiltä, jotka saavat välitöntä arvoa WoM:ltä tarjoamalla asianmukaisia sitoutumisohjelmia kansalaisilleen, niiden nykyisten perinteisten korvaussuunnitelmien lisäksi.
 
-Tekee kaivostoimintaa 20 vuoden ajan. Siihen mennessä pyrimme luomaan kypsää ekosysteemi, joka on levinnyt monille organisaatioille ja monille käyttäjille maailmanlaajuisesti.
+MEED minting spans a 20 year period. Siihen mennessä pyrimme luomaan kypsää ekosysteemi, joka on levinnyt monille organisaatioille ja monille käyttäjille maailmanlaajuisesti.
 
 ## 5.6. Mitä voit tehdä juuri nyt
 
@@ -81,6 +81,6 @@ Mitä voit tehdä juuri nyt osallistuaksesi?
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
 - Liity meidän [Discord](https://discord.com/invite/hAuADSq3) -yhteisöön, joka pidetään silmukassa
-- Liity meidän [Builders](https://meeds.io/builders) yhteisöön testataksesi Meeds-ohjelmistoa, sitouttaaksesi ja ansaitseaksesi joitakin Meeds-sitoutumispalkintoja
+- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some MEED engagement rewards
 
 **\*\*\* WoM - rakennetaan tämä hullu tulevaisuuden maailma yhteen. \*\*\***
