@@ -1,4 +1,4 @@
-# 4. Xeeds - WoM Individuals / users
+# 4. Xeeds - WoM افراد / کاربران
 
 ## 4.1. مدل های غیرمتمرکز و خودمختار
 
@@ -6,41 +6,41 @@ WoM حریم خصوصی را به عنوان یک حقوق اساسی انسان
 
 رویکرد ما مبتنی بر اصول هویت غیرمتمرکز و خودمختار است و به کاربران این امکان را می‌دهد که در هر زمان اطلاعاتی را که می‌خواهند عمومی کنند، با یک گروه محدود به اشتراک بگذارند یا خصوصی نگه دارند، کنترل کنند.
 
-User's activity and engagement in the WoM is always linked to a community. A Xeed is the virtual persona of a user in a community. Xeed به هیچ KYC نیاز ندارد، خود اعلام می کند، اما ما می توانیم تصور کنیم که شرکت های شخص ثالث این سرویس را ارائه می دهند.
+فعالیت و مشارکت کاربر در WoM همیشه به یک انجمن مرتبط است. Xeed شخصیت مجازی یک کاربر در یک جامعه است. Xeed به هیچ KYC نیاز ندارد، خود اعلام می کند، اما ما می توانیم تصور کنیم که شرکت های شخص ثالث این سرویس را ارائه می دهند.
 
 ## 4.2. نشان ها و اعتبارنامه ها
 
-Badges and Credentials are given to users as a part of their participation in a community. دارنده می‌تواند آنها را به‌عنوان اعتبارنامه تأییدپذیر W3C[^7][^8] (معروف به VC) دانلود کرده و در کیف پول خود ذخیره کند. این VCها گواهی بر دانش/دانش علمی هستند که توسط سازمان صادرکننده آن تأیید شده است.
+نشان ها و اعتبارنامه ها به عنوان بخشی از مشارکت آنها در یک انجمن به کاربران داده می شود. دارنده می‌تواند آنها را به‌عنوان اعتبارنامه تأییدپذیر W3C[^7][^8] (معروف به VC) دانلود کرده و در کیف پول خود ذخیره کند. این VCها گواهی بر دانش/دانش علمی هستند که توسط سازمان صادرکننده آن تأیید شده است.
 
 در دنیای امروز، اثبات یک مهارت از قبل دشوار است. وقتی مردم خودشان را در شبکه ها تبلیغ می کنند، روی مدیرانشان حساب می کنند تا به آنها توصیه کنند. مورد دوم، حسن نیت مشخصی را از سوی مدیر فرض می کند، اما لزوماً توسط کارفرمای آینده به عنوان مدرک تلقی نمی شود.
 
-The WoM provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
+WoM ابزاری شفاف تر و تغییرناپذیر برای افراد فراهم می کند تا توانایی های خود را به دست آورند و نشان دهند.
 
-Badges are used to represent accomplishments made within a community. پس از تکمیل مجموعه ای از اهداف یا چالش ها، به کاربران امتیاز تعلق می گیرد. نشان ها را می توان با جمع آوری مقادیر مشخصی از امتیازها در دسته های خاص باز کرد.
+نشان ها برای نشان دادن دستاوردهای انجام شده در یک جامعه استفاده می شوند. پس از تکمیل مجموعه ای از اهداف یا چالش ها، به کاربران امتیاز تعلق می گیرد. نشان ها را می توان با جمع آوری مقادیر مشخصی از امتیازها در دسته های خاص باز کرد.
 
 When the user downloads badges, it is possible to include the number of points and his rank in the Hub for this specific accomplishment.
 
-Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the space. The Hub signs these and can be accompanied by a signature by a peer user.
+اعتبارنامه ها نسبت به مدال ها انعطاف پذیرتر هستند. آنها می توانند توصیه ای از یک همتا باشند، که نشان دهنده سال ها تخصص، تکمیل آموزش یا امتحان، یا مشارکت در فضا باشد. The Hub signs these and can be accompanied by a signature by a peer user.
 
 ## 4.3. هویت کاری دیجیتال
 
 همه موارد فوق به شکل‌گیری مهارت‌های دیجیتال اثبات‌شده کمک می‌کند که می‌تواند توسط کاربر در هنگام تغییر شغل یا فریلنسینگ حفظ و استفاده شود. این امر نسبت به راه حل های سنتی قابل اعتمادتر خواهد بود زیرا برای اثبات آن نه تنها به یک فرد بلکه به یک جامعه کامل متکی است.
 
-Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Hub to another, from one city to another, anywhere through the WoM.
+درست مانند کیف پول Meeds خود، کاربر Xeed، نشان‌ها و اعتبارنامه‌های خود را که به آن متصل شده‌اند، در کیف پول هویتی خود در هنگام جابجایی از یک هاب به مرکز دیگر، از شهری به شهر دیگر، در هر نقطه از طریق WoM حفظ می‌کند.
 
-The user will be able to express his Xeed, Badges, and Credentials towards other Hubs to highlight his experience, as well as with recruiters or any other services that he deems interesting.
+کاربر می‌تواند Xeed، نشان‌ها و اعتبارنامه‌های خود را به سایر هاب‌ها بیان کند تا تجربه خود را برجسته کند، همچنین با استخدام‌کنندگان یا هر سرویس دیگری که به نظرش جالب است.
 
 یک کاربر می تواند یک یا چند هویت دیجیتال در WoM داشته باشد. او بعداً می‌تواند آنها را با استفاده از ارائه‌های تأیید شده به روشی یکپارچه ارائه کند.
 
 برخلاف وب 2، کاربر مالکیت کامل هویت غیرمتمرکز خود را دارد. The latter can show (and prove) the communities he participated in, their proven skills, their claimed skills, the people whom they worked with, and their digital representation of themselves... به شیوه ای قابل اعتماد لینکدین 3.0.
 
-کاربر می‌تواند انتخاب کند که آیا چیزی را فاش کند یا نه، چه اطلاعاتی را ارائه کند و از چه هویت‌هایی برای هر موقعیت استفاده کند. The content (proven skill, previous Hubs, etc.) is tamper proof and so could not be modified. هر هویتی باید در طول زمان ایجاد شود.
+کاربر می‌تواند انتخاب کند که آیا چیزی را فاش کند یا نه، چه اطلاعاتی را ارائه کند و از چه هویت‌هایی برای هر موقعیت استفاده کند. محتوا (مهارت اثبات شده، هاب های قبلی، و غیره) ضد دستکاری است و بنابراین نمی توان آن را تغییر داد. هر هویتی باید در طول زمان ایجاد شود.
 
 ## 4.4. بازار کار منصفانه
 
-Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Hubs – as they do in the physical world by changing employers. با این حال، در WoM مشارکت آنها ملموس، سنجیده و به شیوه ای منصفانه پاداش می گیرد. با حرکت بین سیستم‌هایی که از منطق مشابهی پیروی می‌کنند، قواعد بازی را بهتر درک می‌کنند و کارفرمایان را منصفانه قضاوت می‌کنند – چمن همیشه در جاهای دیگر سبزتر نیست. Users will be able to see which Hub provides better engagement reward conditions, belongs to a more attractive city, etc.
+در این پارادایم، بازار کار آینده به کاربران اجازه می دهد تا آزادانه حرکت کنند و تعامل خود را در میان هاب ها تخصیص/فروش کنند - همانطور که در دنیای فیزیکی با تغییر کارفرمایان انجام می دهند. با این حال، در WoM مشارکت آنها ملموس، سنجیده و به شیوه ای منصفانه پاداش می گیرد. با حرکت بین سیستم‌هایی که از منطق مشابهی پیروی می‌کنند، قواعد بازی را بهتر درک می‌کنند و کارفرمایان را منصفانه قضاوت می‌کنند – چمن همیشه در جاهای دیگر سبزتر نیست. کاربران می توانند ببینند کدام هاب شرایط پاداش تعامل بهتری را ارائه می دهد، به شهر جذاب تری تعلق دارد و غیره.
 
-On their end, the community leaders can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). آنها می توانند بر اساس اطلاعات تایید شده و دقیق در مورد سابقه کاری، مهارت های کاری و سطح تعامل کاربر، مهارت ها را به طور مؤثرتری منبع یابی کنند.
+در پایان، رهبران جامعه می‌توانند با استفاده از شبکه WoM هویت‌های دیجیتال کار (که کاربران تصمیم به افشای آن دارند)، مهارت‌های مرتبط را جستجو کنند. آنها می توانند بر اساس اطلاعات تایید شده و دقیق در مورد سابقه کاری، مهارت های کاری و سطح تعامل کاربر، مهارت ها را به طور مؤثرتری منبع یابی کنند.
 
 ## 4.5. تشخیص ملموس و شفاف
 
@@ -48,17 +48,17 @@ On their end, the community leaders can search for relevant skills using the WoM
 
 WoM روشی عینی برای شناسایی دستاوردها و پاداش دادن به آنها معرفی می کند.
 
-Engagement recognition and reward mechanism is transparent and applies fairly to all users, following the same explicit rules, decided in advance and aligned with the community goals.
+مکانیسم شناسایی و پاداش تعامل شفاف است و به طور عادلانه برای همه کاربران اعمال می شود، با پیروی از قوانین صریح یکسان، از قبل تصمیم گرفته شده و با اهداف جامعه هماهنگ است.
 
 کیف پول ها فردی هستند و مبتنی بر بلاک چین هستند – زمانی که کاربر پاداشی دریافت می کند یا نشانی به دست می آورد، نمی توان آن را پس گرفت یا پاک کرد.
 
 ## 4.6. دسترسی به وب 3.0، cryptoeconomy و خدمات DEFI
 
-As discussed above, the WoM opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
+همانطور که در بالا توضیح داده شد، WoM دنیای ارزهای دیجیتال و خدمات وب غیرمتمرکز را به روی همه افراد باز می کند - جمعیت بسیار زیادی از کاربران، حتی احتمالاً بی ارتباط با حوزه دیجیتال.
 
 در واقع، هر تعامل کاری به طور بالقوه می تواند نشانه گذاری شود. در واقع جهان با روندهایی مانند 5G، iot، پوشیدنی ها و غیره به طور فزاینده ای دیجیتالی می شود. در نتیجه، سیگنال‌های بالقوه بیشتری را می‌توان دریافت و تجزیه و تحلیل کرد تا تعامل حرفه‌های غیر دیجیتال را به‌عنوان نشانه‌گذاری کند. چالش ها با نمایش دستاوردها در دنیای فیزیکی، راهی آماده برای نمادسازی آن فراهم می کنند.
 
-Any user can get MEED and use a Meeds wallet to get access to new age services without any special training.
+هر کاربر می تواند MEED را دریافت کند و از کیف پول Meeds برای دسترسی به خدمات عصر جدید بدون آموزش خاصی استفاده کند.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Verifiable Credentials Data Model

@@ -1,12 +1,12 @@
-# 5. WoM for ALL – vision summary and milestones
+# 5. WoM for ALL - خلاصه چشم انداز و نقاط عطف
 
-## 5.1. Ultimate Goal - Decentralized web for everyone
+## 5.1. هدف نهایی - وب غیرمتمرکز برای همه
 
-In the end, the WoM is a decentralized web world for everyone – every person and all organizations.
+در پایان، WoM یک دنیای وب غیرمتمرکز برای همه است - هر فرد و همه سازمان‌ها.
 
 کاربرانی که از طریق هویت دیجیتالی خود **Xeeds** عمل می‌کنند و از طریق متاماسک‌های خود به دنیا دسترسی دارند، برای اطلاعات رمزنگاری‌شده، یا ورود به سیستم/رمز عبور برای تازه‌کارها، پر می‌شود. مردم مشارکت خود را تخصیص می دهند و به شیوه ای منصفانه، شفاف و غیرمتمرکز پاداش دریافت می کنند. آن‌ها به روشی آسان و آشنا به دنیای غیرمتمرکز و دنیای رمزنگاری فردا دسترسی پیدا می‌کنند - ابزارهای ساده‌ای برای استفاده از توکن‌هایشان در زندگی‌شان یا سرمایه‌گذاری آن‌ها برای آینده‌شان به دست می‌آورند.
 
-Organizations would be able to source talents, browsing through the WoM, for the right proven skills. They would get rewarded for their participation in the WoM, by minting tokens through their users engagement (mintium model). اما بیشتر از همه، آنها از تعامل و وفاداری بالاتر کاربران خود بهره مند می شوند.
+سازمان‌ها می‌توانند برای مهارت‌های اثبات‌شده درست، استعدادها را با جستجوی WoM منبع‌یابی کنند. آنها برای مشارکت خود در WoM، با ضرب کردن توکن ها از طریق تعامل کاربران خود (مدل مینتیوم) پاداش دریافت می کنند. اما بیشتر از همه، آنها از تعامل و وفاداری بالاتر کاربران خود بهره مند می شوند.
 
 The WoM would have its own currency the **MEED** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. WoM همچنین توزیع توکن های دیگر را تسهیل می کند و در اکوسیستم کلی کریپتو مشارکت می کند.
 
@@ -22,9 +22,9 @@ The world maintenance and sustainability in the long run are ensured through tax
 
 به ویژه، WoM به سرمایه گذاری بلندمدت در آیه پاداش می دهد - که بازخرید مال است (قبالات). مالک اصلی Deed از طریق انعقاد قرارداد (استفاده فعال)، از طریق درآمد غیرفعال (اجاره) غرامت دریافت می کند و 1٪ مادام العمر در هر معامله فروش Deed دریافت می کند (در هر تغییر مالکیت، بازخریدکننده اصلی هزینه ای را دریافت می کند. معامله).
 
-By believing in the project, participating in the liquidity pools, staking MEED tokens, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the WoM.
+با اعتقاد به پروژه، شرکت در استخرهای نقدینگی، قرار دادن توکن‌های MEED، بازخرید آنها در مقابل Deeds... سرمایه‌گذاران اولیه در هر اندازه‌ای، توکن‌های اضافی را برش می‌دهند. آنها همچنین اولین حق رای را خواهند داشت و به شکل گیری WoM کمک می کنند.
 
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted MEED. هرچه عادلانه تر بازی کنند، بیشتر به دست خواهند آورد. پذیرندگان اولیه با اولین شهرهای تاریخی مرتبط می شوند و بعداً به عنوان سازنده شناخته می شوند.
+سازمان‌هایی که اسنادی را به دست می‌آورند، اما به‌ویژه از آنها برای مشارکت و پاداش دادن به کارکنان خود استفاده می‌کنند، در MEED ساخته شده غرامت دریافت می‌کنند. هرچه عادلانه تر بازی کنند، بیشتر به دست خواهند آورد. پذیرندگان اولیه با اولین شهرهای تاریخی مرتبط می شوند و بعداً به عنوان سازنده شناخته می شوند.
 
 نمودار زیر نمونه ای از استراتژی سرمایه گذاری Meeds را برای دارندگان سرمایه نشان می دهد:
 
@@ -40,19 +40,19 @@ Organizations acquiring but especially using Deeds to engage and reward their em
 
 راه اندازی رسمی WoM **1 مه 2022** بود - روز جهانی کارگر که در بسیاری از کشورها جشن گرفته می شود.
 
-At that time, the MEED token already existed. امکان به دست آوردن آن وجود دارد و استخرهای نقدینگی برای مشارکت در شبکه های Polygon و Ethereum باز هستند.
+در آن زمان، توکن MEED از قبل وجود داشت. امکان به دست آوردن آن وجود دارد و استخرهای نقدینگی برای مشارکت در شبکه های Polygon و Ethereum باز هستند.
 
-Three Meeds Association members use the system internally to engage and reward their users and improve the Meeds software.
+سه عضو انجمن Meeds از سیستم به صورت داخلی برای تعامل و پاداش دادن به کاربران خود و بهبود نرم افزار Meeds استفاده می کنند.
 
 اپلیکیشن Investor در اتریوم Mainnet در دسترس است. در زمان راه اندازی، شامل سهام بندی، پاداش نقدینگی، جمع آوری امتیاز و بازخرید اسناد می شود.
 
-The Builders community is up and running, open to anyone who would want to join, test and participate. امکان ورود با متامسک وجود دارد.
+انجمن سازندگان راه‌اندازی شده و برای هر کسی که می‌خواهد بپیوندد، آزمایش کند و شرکت کند، باز است. امکان ورود با متامسک وجود دارد.
 
 This paper was initially published on the launch day. پس از راه‌اندازی، توکن برای بسیاری از افراد در سراسر جامعه کریپتو ارسال می‌شود.
 
 ## 5.4. جامعه سازندگان
 
-ما در حال راه‌اندازی جامعه سازندگان در نرم‌افزار Meeds و Discord هستیم. The community welcomes anyone who wants to take part in the building of the WoM. این انجمن به مشارکت سازندگان با Meeds از بودجه بازاریابی آن پاداش می دهد.
+ما در حال راه‌اندازی جامعه سازندگان در نرم‌افزار Meeds و Discord هستیم. جامعه از هر کسی که می خواهد در ساختن WoM شرکت کند استقبال می کند. این انجمن به مشارکت سازندگان با Meeds از بودجه بازاریابی آن پاداش می دهد.
 
 The association plans also to stake some MEED in order to acquire (redeem) a Deed for the builders community. The community will then mint MEED by engagement, through the mintium model, and distribute them to engaged users.
 
@@ -66,9 +66,9 @@ The association plans also to stake some MEED in order to acquire (redeem) a Dee
 - بهبود نشان ها و توسعه اعتبار
 - خدمات DeFi - در کیف پول، مشارکت کارت های اعتباری
 
-ما در مرحله ساخت بر روی پذیرندگان اولیه از DAO ها و شرکت های متبحر در زمینه فناوری حساب می کنیم. We should also have some early adopters from traditional companies that gain immediate value from the WoM by providing relevant engagement programs to their people, on top of their current traditional compensation plans.
+ما در مرحله ساخت بر روی پذیرندگان اولیه از DAO ها و شرکت های متبحر در زمینه فناوری حساب می کنیم. ما همچنین باید تعدادی پذیرنده اولیه از شرکت‌های سنتی داشته باشیم که با ارائه برنامه‌های مشارکت مرتبط به افراد خود، علاوه بر برنامه‌های جبرانی سنتی فعلی، ارزش فوری از WoM کسب می‌کنند.
 
-MEED minting spans a 20 year period. By that time, we aspire to have achieved building a mature ecosystem, having spread to many organizations and many users globally.
+MEED minting spans a 20 year period. در آن زمان، ما آرزوی ساختن یک اکوسیستم بالغ را داریم که در بسیاری از سازمان ها و بسیاری از کاربران در سطح جهان گسترش یافته است.
 
 ## 5.6. کاری که الان می توانید انجام دهید
 
