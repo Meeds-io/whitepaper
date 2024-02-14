@@ -18,9 +18,9 @@ Die WoM bietet eine transparenter und unveränderliche Möglichkeit für Mensche
 
 Abzeichen werden verwendet, um Errungenschaften innerhalb einer Gemeinschaft zu repräsentieren. Nach Abschluss einer Reihe von Zielen oder Herausforderungen werden den Benutzern Punkte verliehen. Abzeichen können durch das Sammeln bestimmter Punkte in bestimmten Kategorien freigeschaltet werden.
 
-Wenn Abzeichen vom Benutzer heruntergeladen werden, Es ist möglich, die Anzahl der Punkte und seinen Rang in der Hub für diese spezielle Errungenschaft einzubeziehen.
+When the user downloads badges, it is possible to include the number of points and his rank in the Hub for this specific accomplishment.
 
-Anmeldedaten sind flexibler als Badges; Sie könnten eine Empfehlung eines Peers sein, der jahrelange Expertise, eine Ausbildung oder Prüfung oder Engagement im Weltraum angibt. Diese werden vom Hub unterschrieben und können von einem Peer-User unterschrieben werden.
+Anmeldedaten sind flexibler als Badges; Sie könnten eine Empfehlung eines Peers sein, der jahrelange Expertise, eine Ausbildung oder Prüfung oder Engagement im Weltraum angibt. The Hub signs these and can be accompanied by a signature by a peer user.
 
 ## 4.3. Digitale Arbeitsidentität
 
@@ -32,7 +32,7 @@ Der Benutzer wird in der Lage sein, seine Xeed, Abzeichen und Zugangsdaten gegen
 
 Ein Benutzer kann in WoM eine oder mehrere digitale Identitäten besitzen. Er kann sie später auf eine vereinheitlichte Weise mithilfe von verifizierten Präsentationen präsentieren.
 
-Im Gegensatz zum Web 2 liegt der Nutzer im vollen Besitz seiner dezentralen Identitäten. Letztere können die Gemeinden, an denen er teilgenommen hat, zeigen (und beweisen) und seine bewiesenen Fähigkeiten zeigen seine Fähigkeiten, andere Xeeds (Menschen), mit denen er arbeitete, seine digitale Repräsentation von sich selbst... Auf eine vertrauenswürdige Art und Weise, ähnlich wie LinkedIn 3.0.
+Im Gegensatz zum Web 2 liegt der Nutzer im vollen Besitz seiner dezentralen Identitäten. The latter can show (and prove) the communities he participated in, their proven skills, their claimed skills, the people whom they worked with, and their digital representation of themselves... Auf eine vertrauenswürdige Art und Weise, ähnlich wie LinkedIn 3.0.
 
 Der Benutzer kann auswählen, ob er etwas preisgeben möchte, welche Informationen bereitstellen und welche Identitäten er für jede Position verwenden möchte. Der Inhalt (bewährte Fähigkeiten, frühere Hubs usw.) ist tamper und konnte daher nicht verändert werden. Jede Identität müsste im Laufe der Zeit entwickelt werden.
 
@@ -58,7 +58,7 @@ Wie oben besprochen, eröffnet die WoM die Welt der Kryptowährung und dezentral
 
 Tatsächlich kann jedes Engagements potenziell tokenisiert werden. Tatsächlich wird die Welt immer digitaler mit Trends wie 5G, IoT, Wearables und so weiter. Als Folge könnten potenziell immer mehr Signale erfasst und analysiert werden, um die Beteiligung von nicht-digitalen Berufen zu tokenisieren. Herausforderungen bieten einen sofort einsatzbereiten Weg, um es zu tokenisieren, indem Leistungen im realen Leben dargestellt werden.
 
-Jeder Benutzer kann Meeds erhalten und ein Meeds Wallet verwenden, um Zugang zu neuen Diensten zu erhalten, ohne besondere Schulung.
+Any user can get MEED and use a Meeds wallet to get access to new age services without any special training.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Verifiable Credentials Data Model

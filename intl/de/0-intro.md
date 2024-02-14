@@ -2,15 +2,13 @@
 
 ## Abstrakt
 
-Dem Arbeitsmarkt von heute mangelt es an Effizienz aufgrund hoher Transaktionskosten[^1][^2][^3] sowie häufiger Interessenkonflikten zwischen Arbeitgeber und Mitarbeiter.
+Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
 
-Das Arbeitsmetavers WoM (World of Meeds) schlägt ein neues Paradigma vor, das die Transaktionskosten senken und die Arbeitsbeziehung neu erfindet, und so die Kluft zwischen traditionellen Unternehmen und DAOs schliesst.
-
-Die WoM tut dies, indem sie sowohl für Arbeitgeber als auch für Arbeitnehmer digitale Identitäten einführt und ein innovatives System zur Vergütung von Engagements anbietet, das ihre Interessen vereint.
+The WoM (World of Meeds) proposes a new paradigm for reducing transaction costs and reinventing working relationships. It bridges the gap between traditional companies and new forms of organisation by proposing a fair and transparent incentive system that realigns the interests of all parties.
 
 ## Einführung
 
-Der Arbeitsmarkt ist heute kaputt. Er stellt sowohl Arbeitnehmer als auch Arbeitgeber nicht zufrieden.
+Der Arbeitsmarkt ist heute kaputt. It fails to satisfy both workers and employers.
 
 Auf der Arbeitnehmerseite ist es schwierig, die richtigen Jobs zu finden. Der Arbeitsmarkt bevorzugt bestimmte Arten von Personen und lässt Personen mit großartigen Fähigkeiten ausser Acht. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. Dem Arbeitsmarkt mangelt es zudem an Transparenz hinsichtlich der verfügbaren Stellen und Anstellungsbedingungen. Dem Arbeitsmarkt mangelt es zudem an Transparenz hinsichtlich der verfügbaren Stellen und Anstellungsbedingungen.
 
