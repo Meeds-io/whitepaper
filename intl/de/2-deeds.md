@@ -11,7 +11,7 @@ Der WoM ist als vielseitige und integrative Plattform konzipiert. Sie begrüßt 
 
 ## 2.2. Deeds liefern
 
-Das WoM wird letztendlich eine begrenzte Menge an Deeds liefern. Jede Deed umfasst eine vordefinierte maximale Anzahl von Benutzern und bietet eine Kapazität von Meeds Rewarding (Minting Power). Der Begriff „Benutzer“ bezeichnet hier und im Folgenden jede Art von Angestellten, Arbeitern, Freiberuflern, Freiwilligen usw.
+Das WoM wird letztendlich eine begrenzte Menge an Deeds liefern. Each Deed includes a predefined maximum number of users and offers a capacity of rewarding (Minting Power). Der Begriff „Benutzer“ bezeichnet hier und im Folgenden jede Art von Angestellten, Arbeitern, Freiberuflern, Freiwilligen usw.
 
 Es gibt vier Arten von Taten, jede mit unterschiedlichen Fähigkeiten in Bezug auf die Anzahl der Nutzer, Stimmrechte in einer Stadt (siehe 2. ) oder Münzkraft, die seltensten sind die mächtigsten :
 
@@ -36,7 +36,7 @@ Als aktiver Inhaber oder Mieter einer Urkunde hat die Organisation Anspruch auf 
 
 Auf dem heutigen Konkurrenzmarkt streben Organisationen nicht nur durch Entschädigung, sondern auch durch die Verbesserung des Arbeitsverhältnisses Spitzenqualifikationen an. Die WoM geht dieser Herausforderung mit einem einzigartigen Prämiensystem entgegen, das in Community Hubs verkörpert ist.
 
-Innerhalb dieser Hubs können die Führer der Community das Engagement der Mitglieder antreiben, indem sie ein transparentes Menü von Anreizen für Arbeitsartikel anbieten. Die Teilnehmer erhalten für ihre Bemühungen Verpflichtungspunkte, die regelmäßig in MEED-Token oder kundenspezifische Äquivalente umgewandelt werden, entsprechend einem festgelegten Budget.
+Innerhalb dieser Hubs können die Führer der Community das Engagement der Mitglieder antreiben, indem sie ein transparentes Menü von Anreizen für Arbeitsartikel anbieten. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
 
 Community-Hubs bieten eine Reihe von Tools und Funktionen, die das Engagement von Mitwirkenden steigern und verwalten sollen:
 
@@ -80,7 +80,7 @@ Durch die Einbeziehung ihrer Benutzer in das WoM werden Deeds durch ein innovati
 
 Die von den Hub-Nutzern gesammelten Engagement-Punkte nehmen am globalen Engagement-Index teil, der von der Meeds Association berechnet wird. Der Index verwendet für alle Hubs das gleiche Prinzip. Auch wenn die Community die Punkteverteilung ändern kann, um eine Aktion gegenüber einer anderen zu fördern, werden diese Änderungen bei der globalen Indexberechnung nicht berücksichtigt.
 
-Jede Woche wird eine bestimmte Menge an Meeds dem globalen Engagement-Minting des WoM zugeteilt. Es wird wöchentlich errechnet, prorata unter den teilnehmenden Hubs. Einige Hubs erhalten einen zusätzlichen Schub je nach Art der von ihnen verwendeten Urkunde. Die Hubs, die ihre Meeds im Laufe der Woche beanspruchen, erhalten sie. Die nicht beanspruchten Meeds werden zum globalen Verteilungsbetrag der folgenden Woche hinzugefügt.
+Each week, a certain amount of MEED is allocated to the global engagement minting of the WoM. Es wird wöchentlich errechnet, prorata unter den teilnehmenden Hubs. Einige Hubs erhalten einen zusätzlichen Schub je nach Art der von ihnen verwendeten Urkunde. The Hubs that claim their MEED tokens over the week, receive them. The unclaimed MEED tokens are added to the following week’s global distribution amount.
 
 Der Engagement-Score _S_ von Deeds ist eine Funktion des Engagements, der Anzahl der engagierten Benutzer und der Verteilung:
 
@@ -92,12 +92,12 @@ Wo:
 - $U$ = _Engagierte Nutzer_ – Nutzer, die während der Woche durch mindestens eine Aktion zu Punkten beigetragen haben.
 - $E_d$ = _Engagement-Rate des Deeds_ - Aktionen pro Benutzer ($A/U$)
 - .
-- $D_r$ = _Verteilungsrate_ – wenn ein Hub im vorangegangenen Zeitraum geprägte Meeds erhalten hat, der Prozentsatz der Meeds, der an seine Benutzer verteilt wurde. Die % können über 100 liegen, wenn die Verteilung zeitlich verzögert erfolgt.
-- $D_s$ = _Verteilungsspreizung_ – wenn ein Hub im vorangegangenen Zeitraum geprägte Meeds erhalten hat, der Prozentsatz der Benutzer, die Meeds im gesamten Benutzerpool erhalten haben.
+- $D_r$ = _Distribution rate_ - if a Hub received minted MEED for the preceding period, the % of MEED that was distributed to its users. Die % können über 100 liegen, wenn die Verteilung zeitlich verzögert erfolgt.
+- $D_s$ =  _Distribution spread_ - if a Hub received minted MEED tokens for the preceding period, the % of the users that received MEED in the total pool of users.
 - $M$ = _Münzmacht_ der Urkunde gemäß der Definition in 2.3
 
 
-Der globale Engagement-Index, der zur Verteilung geprägter Meeds auf die Hubs verwendet wird, ist die Summe aller Engagement-Werte aller Hubs für die Woche.
+The global engagement index used to distribute minted MEED among the Hubs is the sum of all Hubs’ weekly engagement scores.
 
 
 Die obige Formel ist einfach und soll Hubs begünstigen:
@@ -110,9 +110,9 @@ Zusätzlich sind Booster vorhanden für:
 - Organisationen mit dem höchsten Engagement, unabhängig von ihrer Größe (Engagement-Rate in Relation zum WoM)
 - seltenere deeds
 
-> Die Meeds Association behält sich das Recht vor, die Formel bei Bedarf zu ändern – zum Beispiel, wenn bestimmte Anwendungsfälle auftreten. Die Vereinigung kann auch jede Urkunde auf die schwarze Liste setzen, die die Formel zu ihrem einzigartigen Vorteil entführt.
+> The Meeds Association reserves the right to change the formula if required – if some specific use cases arise, for instance. Die Vereinigung kann auch jede Urkunde auf die schwarze Liste setzen, die die Formel zu ihrem einzigartigen Vorteil entführt.
 
-Da die Deeds mit Meeds belohnt und dazu angeregt werden, sie als Belohnungen an ihre Benutzer gegen ihr Engagement weiterzuverteilen, sind die Interessen sowohl der Deeds als auch ihrer Benutzer in demselben virtuosen Umsatzbeteiligungszyklus ausgerichtet. Damit bietet das WoM ein neues Arbeitsmodell, das das Arbeitgeber-Arbeitnehmer-Verhältnis partnerschaftlich neu gestaltet.
+As the Hubs are rewarded with MEED and incentivized to redistribute them as rewards to their users against their engagement – the interests of both the communities and their users are aligned in the same virtuous revenue-sharing cycle. Damit bietet das WoM ein neues Arbeitsmodell, das das Arbeitgeber-Arbeitnehmer-Verhältnis partnerschaftlich neu gestaltet.
 
 Das „Mintium“-Modell ist das erste seiner Art – es geht weiter als das traditionelle Freemium-Modell, da nicht nur die Dienste kostenlos genutzt werden können, sondern sowohl die Organisationen als auch ihre Benutzer für ihre Nutzung belohnt werden.
 
@@ -136,7 +136,7 @@ Eine Stadt ist eine Möglichkeit für die Gemeinschaften, zusammenzukommen und e
 
 Jede Stadt hat ihre eigene Regierung und betreibt ihre eigene DAO, in der die Eigentümer der Deeds ihren Stadtrat wählen, abstimmen und ihre eigenen Betriebsregeln aufstellen, neue Dienstleistungen hinzufügen und ihre Stadt so gestalten können, wie sie es wünschen, um die Attraktivität der Stadt und den Wert der mit ihr verbundenen Deeds zu steigern.
 
-Sie könnten zum Beispiel eine digitale Darstellung ihrer Stadt hinzufügen, physische Gegenstücke, die mit ihrer Stadt verbunden sind (z. B. Tagungsräume in physischen Co-Working-Spaces), von Meeds betriebene Lebensmitteldienste, Urlaubsdienste etc...
+For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add food services, vacations services, etc...
 
 Standardmäßig (es sei denn, die Stadt stimmt anders) wird das passive Einkommen aus der Vermietung von Meeds von der Stadt (5%) und der Vereinigung (3%) "besteuert", um eine produktive Verwendung zu fördern.
 

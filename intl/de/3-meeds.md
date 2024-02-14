@@ -1,85 +1,82 @@
-# 3. Meeds Token - die Währung des WoM
+# 3. The MEED token – the currency of the WoM
 
-Der WoM wird von seiner Währung angetrieben – dem Meeds (MEED)-Token. Meeds werden verwendet, um engagierte Anwender zu belohnen (dank spezieller Programme). Diese können für Einkäufe in Geschäften, Immobilien (Deeds), finanzielle Renditen bei Investitionen, usw. genutzt werden.
+The MEED token (pronounced "Meeds") is the currency that powers the WoM. Users are rewarded with MEED (through engagement programs), purchase in stores, get Deeds, get financial returns on investments, and more.
 
 ## 3.1. Token-System / Token-Ökonomie
 
-Das maximale Angebot von Meeds ist auf 100 Millionen Token begrenzt, die nach und nach geprägt werden. Meeds are minted at the rate of 10 MEED pro Minute. Daher beträgt der gesamte Prägeprozess fast 20 Jahre (da pro Jahr etwa $10*60*24*365 = 5 Mio. $ Meeds Münzen pro Jahr geprägt werden).
+The **maximum supply of MEED is limited to 100 million tokens**, minted progressively.
 
-5 Millionen Meeds (5% des Gesamtangebots) wurden zunächst prämiert. Davon wurden 4,5 Mio. mittels einer Vesting Klausel mittels linearen Vestings über 4 Jahre gebunden. Der vorprägnierte Betrag wurde hauptsächlich für den Erwerb von Software IP, die Bezahlung der gesetzlichen Gebühren für Token Emission und Host-Dienste verwendet.
+The Meeds Association has minted 5 Million MEED (5% of the total supply) at the start to acquire software IP from the funding members, pay for token emission legal fees, and hosting services. Then, it locked 4.5 Million in a vault contract with a linear vesting over four years.
 
-Der Rest ist Teil des __Meeds DAO Geldes__ und wird verwendet, um Dienste zu bezahlen und Anreize zu starten, wie Luftdrops und Empfehlungskampagnen.
+Since then, a smart contract called **the __Token Factory__ performs minting of **MEED tokens at a constant rate**.
 
+The minting rate is a parameter of the Token Factory, set at *10 MEED per minute* at the start. A vote of the DAO may change this rate in the future. At such rate, the Token Factory mints around 5 Million MEED yearly (10*60*24*365); thus, the minting horizon is nearly 20 years.
 
 ## 3.2. Münzverteilung
 
-Die erstellten Meeds werden verteilt, um die Beteiligung der drei Kategorien von Interessengruppen zu fördern - die Nutzer, die Bauherren und die Investoren:
+The Token Factory also rules the allocation of minted MEED tokens to  three categories of stakeholders :
 
-- Die Benutzer (Benutzer und Meeds Halter / -Mieter) erhalten Meeds durch Engagement-Belohnungen (Mintium Modell).
-- Erbauer (Mitglieder der Vereinigung und Gemeinschaft) erhalten Meeds durch die Fonds der Vereinigung, um die WoM zu bauen, zu betreiben und zu verbessern.
-- Investoren prägen Meeds durch Vermietung und Kauf von Liquiditätspools und Verankerung von Meeds.
+- **Builders**: Contributors of the Meeds DAO that help build and run the WoM
+- **Users**: Members in all communities of the WoM earn MEED as rewards for their contributions
+- **Investors**: The Meeds DAO incentivizes MEED token owners to stake MEED or provide liquidity for the Meeds economy
 
-Am Anfang erhalten die Bauherren 30% der ausgeschüttenen Tokens. 70% werden zwischen Nutzern und Investoren aufgeteilt. Dieser Zuteilungsanteil wird in regelmäßigen Abständen, durch die Abstimmung der Meeds DAO Vereinigung überprüft.
+Each category of stakeholders receives a share of the MEED supply, which is subject to votes by the DAO.
 
-## 3.3. Nutzer - Das Engagement belohnen
+## 3.3. Users
 
-Ein Teil der fortlaufend geprägten Meeds wird dem Kanal für die Belohnung von Engagement zugewiesen. Die Verteilung erfolgt wöchentlich. An jedem beliebigen Wochenende, wird der Engagement Index berechnet und Deeds können ihre Belohnungen und ihre Meeds in der folgenden Woche erhalten. Unbeanspruchte Meeds bleiben im Fonds und werden dem Fonds der darauffolgenden Woche hinzugefügt. Das Modell wird im vorherigen Kapitel ausführlich beschrieben (Teil 2.6).
+Part of the continuously minted MEED tokens is allocated to sponsor user engagement through the Mintium model (see 2.6). A global engagement index is calculated periodically across all Hubs of the WoM to allocate MEED rewards to the Hubs. Mintium rewards are claimable by Hub leaders and Deed owners.
 
-## 3.4. Bauherren – Der Meeds DAO Verein und die Gemeinschaft der Bauherren
+## 3.4. Builders
 
-Die WoM und der Meeds Token werden von der oben vorgestellten gemeinnützigen Meeds Association DAO betrieben. Ein Multisig-Vertrag namens _Meeds DAO Funds_ wird verwendet, um die Betriebskosten des Verbandes zu verwalten.
+The Meeds DAO operates the WoM and the MEED token supply. A multi-sig smart contract called the _Meeds DAO Funds_ manages the operating expenses. It receives **30% of the minted MEED** to support Builders.
 
-Während der Prägeperiode werden **30% der Prägemeilen dem Meeds-Verein** zugewiesen.
+The Meeds Association is entitled to hire service provider companies on behalf of the Meeds DAO to cover legal fees, development, and hosting costs using the Meeds DAO Funds.
 
-Die Vereinsmitglieder können dem Verein auf der Grundlage einer unterschriebenen Dienstleistungskonvention zur Festsetzung des Personaltarifs Leistungen erbringen. Die Dienstleistungen werden monatlich in Meeds bezahlt, basierend auf dem Marktpreis. Beispiele für Dienstleistungen sind: Bereicherung der Meeds Software, Entwicklung der WoM App, Entwicklung neuer Verbindungen, Betrieb des Cloud-Service, Bereitstellung von Finanz- und Rechtsdienstleistungen usw.
+Organizations and individuals not members of the Meeds Association may still contribute through the _Meeds Builders Hub_  - a community hub that welcomes enthusiasts who want to participate in creating and promoting the WoM. The <0>Meeds DAO Funds</0> also reward for contributions to the Builders Hub.
 
-Ohne Mitglied zu sein, kann jeder Deed an der Erstellung eines neuen Konnektors teilnehmen und dafür belohnt werden - zunächst durch den Erwerb des Konnektors durch die Meeds Vereinigung und dann durch Prägung durch diesen Konnektor.
+The Builders Hub also receives Mintium rewards like any other hub.
 
-Der Verein betreibt einen eigenen Community-Hub mit dem Namen _Meeds Builders Hub_ , der Enthusiasten willkommen heißt. die zur Schaffung der WoM beitragen wollen. Der Verein fördert die Gemeinschaft aus ihrem Budget und entschädigt das Engagement der Mitglieder der Gemeinschaft.
-
-So fungiert der Hub der Bauarbeiter als lebendiges Beispiel für eine Gemeinschaft, die von Meeds Software unterstützt wird bietet ein Standardangebot an Dienstleistungen an, die von der Vereinigung angeboten werden. Die Vereinigung setzt Meeds ein, um ein Deed für die Gemeinschaft einzulösen. So profitiert auch die Hub des Baumeisters im Engagement wie jede andere Hub durch eine Urkunde.
-
-Nach dem Ende der Prägezeit wird der Verein durch :
+After the minting period is over, the operational costs of the Meeds DAO will be supported by :
 
 - Steuerung des passiven Einkommens (3% auf Miete von Deeds)
 - Besteuerung des Verkaufseinkommens (2,5% auf den Verkauf von Urkunden)
 - Transaktionsgebühren über die Nutzung der Perks-Stores wahrnehmen
 - als Anbieter eines Liquiditätspools
-- erhebung von Transaktionsgebühren, wenn ein Deed nicht Meeds Urkunden über WoM Dienste verteilt.
-- durch den Betrieb der Taten, die der Vereinigung im Laufe der Zeit geprägt hat.
+- perceiving transaction fees when a Hub distributes alternative tokens on their Hubs
+- renting and selling the Deeds that the DAO minted over time.
 
 
 ## 3.5. Investoren
 
-Investoren helfen bei der Schaffung von WoM, indem sie Liquidität bereitstellen und Meeds verankern und so während der Bauzeit den Preisniveau stabilisieren. Beides wird durch die Münzprägung gefördert.
+Investors support the WoM by providing liquidity and staking MEED tokens, which helps stabilize the price level during the building phase. Incentives are in place for both:
 
-**Liquiditätsanbieter** Die Verwaltung der Währungsliquidität ist entscheidend für den Erfolg des Projekts und es werden mehrere DeFi-Strategien eingesetzt, um die Kapitaleffizienz zu optimieren. Wir werden mit Anreizen für das Verankern von MeedS / ETH LP Pool-Token beginnen und werden sukzessive Anleihen einführen, um auf eine vom Protokoll betriebene Liquidität hinzustreben. Letzteres würde zur nachhaltigen langfristigen Finanzierung des Verbandes beitragen - wie oben erwähnt, werden Transaktionsgebühren die Betriebskosten des Verbandes wie Cloud-Hosting finanzieren.
+**Liquidity providers** Currency liquidity management is crucial to the project's success. The Meeds DAO employs various DeFi mechanisms to optimize its capital efficiency. For instance, incentives allow liquidity providers to farm yields by renting their LP tokens. Also, there are plans to introduce bonds and move towards protocol-owned liquidity progressively. The latter will contribute to the project's long-term sustainability - as mentioned above, transaction fees will fund the operating expenses.
 
-Jedes Mitglied hat auch das Recht, eine große Menge an Meeds zu einem Rabatt direkt zu kaufen. Der auf das Verbandskonto überwiesene Betrag wird in ETH umgewandelt und zusammen mit dem entsprechenden Wert an Meeds zum Liquiditätspool hinzugefügt.
+Additionally, on behalf of the Meeds DAO, the Meeds Association is entitled to facilitate OTC (off-the-shelf) purchases of more extensive amounts of MEED tokens.
 
-**Verankern / langfristige Investition** Um eine langfristige Investition zu fördern, werden verankerte Meeds belohnt. Wenn Meeds verankert werden, erhält der Staker einige xMeeds-Token. Neu geprägte Meeds werden den Stakern proportional zu ihren xMeeds-Beständen zugeteilt. In der Praxis werden die geprägten Meeds dem Bestand des xMeeds-Smart-Contracts hinzugefügt und an die xMeeds Inhaber verteilt, wenn sie die Freigabe erteilen.
+**Staking / long-term investment** Meeds DAO rewards loyal investors who want to support Meeds long-term. Anyone can stake their unused MEED tokens to earn yields and xMEED tokens.
 
-Durch den Einsatz von Meeds können Anleger auch Deed NFTs einlösen (und sich dann durch Engagement an der Prägung beteiligen), wodurch die symbolische Nachfrage steigt. Jedes eingesetzte Meeds (xMeeds) gewährt seinem Besitzer eine bestimmte Anzahl von Punkten pro Tag. Je länger die festgelegte Periode ist, desto höher ist die Anzahl der Punkte pro xMeeds. Jede Urkunde wird dann gegen eine bestimmte Anzahl von Punkten eingelöst.
+Staking reults in the minting of xMEED tokens in proportion of the MEED tokens deposited. The xMEED token is Meeds governance token, which is used for voting on DAO proposals.
 
-Punkte werden mit folgender Formel berechnet:
+Additionally, xMEED holders earn minting points that entitle them to mint Deed NFTs. This mechanism increases the demand for MEED tokens. Minting points accrue over time as long as the stakeholder maintains his stake. The formula below allows you to calculate minting points :
 
- $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
+ $$ P = xMEED / (xMEED + 12000) * T / 240 $$
 
- wo :
+ Where:
 
-- $xMeeds$: xMeeds-Saldo ohne Dezimalstellen
-- $T$: verstrichene Zeit in Millisekunden
+- $xMEED$: xMEED balance  with no decimals
+- $T$: Time elapsed in milliseconds
 
-Die Formel vermeidet es, große Inhaber zu bevorzugen, um Urkunden effizienter und gerechter zu verteilen. Zum Beispiel gibt die Formel folgende Raten:
+The formula avoids favoring large holders to distribute Deeds more efficiently and equitably. Zum Beispiel gibt die Formel folgende Raten:
 
-| **Haltergröße** | **Bestände**   | **Ansammelrate** |
-| --------------- | -------------- | ---------------- |
-| Klein           | 1 000 xMeeds   | 28 Punkte/Tag    |
-| Mittel          | 10 000 xMeeds  | 164 Punkte/Tag   |
-| Groß            | 100 000 xMeeds | 321 Punkte/Tag   |
+| **Haltergröße** | **Bestände**  | **Ansammelrate** |
+| --------------- | ------------- | ---------------- |
+| Klein           | 1 000 xMEED   | 28 Punkte/Tag    |
+| Mittel          | 10 000 xMEED  | 164 Punkte/Tag   |
+| Groß            | 100 000 xMEED | 321 Punkte/Tag   |
 
 
-was zu der folgenden Haltedauer für jede Klasse von Inhabern führt:
+These accrue rates lead to the following holding time for each class of holder :
 
 | **Karte Typ** | **Kosten**     | **Große Halterung** | **Medium Halterung** | **Kleine Halterung** |
 | ------------- | -------------- | ------------------- | -------------------- | -------------------- |
@@ -90,20 +87,20 @@ was zu der folgenden Haltedauer für jede Klasse von Inhabern führt:
 
 ## 3.6. Meeds DAO-Governance
 
-Die Inhaber von Meeds-Token müssen Token einsetzen, um über Entscheidungen der Meeds-DAO wie die Verwaltung des Münzbudgets oder die Wahl der DAO-Vorstandsmitglieder (jährliches Mandat) abstimmen zu können.
+xMEED token holders can freely participate in the governance of the Meeds DAO by voting with their tokens on decisions such as managing the budget allocation or electing DAO board members.
 
 ## 3.7. Dezentrale Finanzdienstleistungen (DeFi) für Nutzer
 
 Die WoM wird die Blockchain-Welt vielen Menschen näherbringen, die sie heute nicht nutzen.
 
-In der Tat kann jede Arbeit (ob digital oder nicht) gamifiziert und jedes Engagement - mit Meeds belohnt werden. Meeds werden Nutzern durch eine einfach zu verwendende, blockchain basierte Wallet zur Verfügung gestellt, die jegliche Komplexität der Krypto-Welt für den durchschnittlichen Benutzer "abstrahiert".
+Indeed, Meeds software can gamify and set a monetary value on any contribution (whether it is digital or not) and reward it with MEED tokens. This has be made possible by an easy-to-use, blockchain-based wallet app that simplifies access to the crypto world for an average user, rewards are tangible.
 
-Jenseits der Brieftasche und einem Geschäft, in dem sie Vergünstigungen für Meeds kaufen können, planen wir, jedem Benutzer mehrere Endnutzerprodukte vorzustellen, die von den dezentralen Finanzprotokollen angetrieben werden, wie zum Beispiel:
+Beyond the wallet and a store where they can purchase perks for MEED tokens, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
 
 - Die Fähigkeit, MEED Token zu platzieren und Erträge zu erhalten (Einnahmen zu generieren)
-- Die Möglichkeit, MEED Token als Sicherheiten zu verwenden, um stabile Münzen wie USDC auszuleihen (zuerst einen [Sicherungspool](https://app.rari.capital/fuse) zu nutzen und dann den Meeds Token zu [AAVE](https://aave.com/) zu registrieren.
-- Eine digitale Karte, die über Apple Pay, Google Pay oder jeden Geldautomaten hinzugefügt und verwendet werden kann. Letzteres kann durch eine Partnerschaft mit VISA bereitgestellt werden und wird eine Kreditlinie in USDC nutzen, die durch verankerte Meeds gesichert ist. Diese Karte kann auch von Organisationen verwendet werden, um Geldbörsen von Mitarbeitern zu finanzieren, um Mitarbeitervorteile wie Restaurantbesuche, Verkehrsmittel und alle Arten von Ausgaben zu verwalten.
+- The ability to use MEED tokens as collateral to borrow stablecoins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the MEED token to [AAVE](https://aave.com/).
+- A digital card can be added and used through Apple Pay, Google Pay, or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by xMEED. Organizations could also use this card to fund employee wallets to manage employee benefits such as restaurants, transportation, and other expenses.
 
-So werden nicht nur viele neue Nutzer die Blockchain-Welt entdecken, sondern auch eine Welt ohne Banken.
+So, not only will many new users discover the blockchain world, but they will also discover a bankless world.
 
  
