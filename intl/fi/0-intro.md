@@ -1,45 +1,37 @@
-
-
 ## Abstrakti
 
-Today’s work market lacks efficiency because of high transaction costs[^1][^2][^3] and frequent conflicts of interests between the employer and the employee.
+The current work market is inefficient due to high transaction costs and frequent conflicts of interest between employers and employees. It can be expensive and time-consuming to carry out job-related activities, and there are often disagreements or competing interests between those who hire workers and the workers themselves.
 
-The WoM (World of Meeds) proposes a new paradigm for reducing transaction costs and reinventing working relationships. It bridges the gap between traditional companies and new forms of organisation by proposing a fair and transparent incentive system that realigns the interests of all parties.
+The World of Meeds (WoM) proposes a new paradigm to address these issues by reducing transaction costs and reinventing working relationships. It is a digital space that bridges the gap between traditional companies and new forms of organization by bringing a fair and transparent incentive system that realigns the interests of all parties.
 
 ## Etusivu
 
-Työmarkkinat ovat tällä hetkellä rikki. It fails to satisfy both workers and employers.
+The current state of the work market fails to satisfy both workers and employers[^1][^2][^3].
 
-Työntekijöiden osalta on vaikea löytää oikeita työpaikkoja. Työmarkkinat suosivat tietyntyyppisiä yksilöitä, jolloin suuret taidot jäävät jälkeen. Tämä johtuu joukosta inhimillisiä puolueita – rotupohjainen, sukupuoleen perustuva, vammaisuuteen perustuva, sisäänpäinkääntynyt pohjautuva jne. Työmarkkinat eivät myöskään ole riittävän avoimet käytettävissä olevien työpaikkojen ja työolojen osalta.
+Workers face difficulties in finding suitable job opportunities, as the job market tends to favor specific individuals, leaving great skill sets behind due to various human biases such as race, gender, disability, introversion, and more.
 
-Työntekijän henkilökohtaisia vapauksia loukataan palkattuaan sen jälkeen, kun se on palkattu. Työntekijöillä on vain vähän sananvaltaa työajassa, työpaikalla, työsisällössä tai työmenetelmissä. Heidän korvauksensa ovat harvoin sidoksissa heidän todelliseen vaikutukseen tai arvoonsa. Korvaussäännöt eivät ole riittävän avoimia, ja siksi niitä pidetään epäoikeudenmukaisina. Lisäksi palkitseminen ja urakehitys riippuvat myös inhimillisestä tekijästä – työntekijän välittömästä hyvästä uskosta ja objektiivisuudesta.
+Additionally, there is a lack of transparency in available positions and employment conditions. Once employed, workers often have little say in their work hours, workplace, content, or methods. Moreover, there is a perceived lack of fairness in compensation rules due to the lack of transparency. Career progress and compensation depend on the immediate manager's good faith and objectivity, leading to a lack of trust and cooperation.
 
-Työnantajat sitä vastoin kokemusta vaikeuksista hankkia lahjakkuutta ja rekrytoida oikeita taitoja ja oikeat sopivat oikeaan aikaan työtä varten. Ei ole olemassa objektiivista tapaa varmistaa palkkauspotentiaalin taitoja tai hankkia ihmisiä työnantajan perinteisen palkkauspoolin ulkopuolelle.
+Employers face challenges in sourcing talent, hiring the right skills, and fitting them into the right jobs at the right time. The traditional hiring pool often fails to provide an objective way to determine a potential contributor's skills. High turnover rates and a lack of contributor loyalty can also increase hiring and onboarding costs.
 
-Työnantajat käsittelevät myös työntekijöidensä lojaalisuuden puutetta ja suurta liikevaihtoa, jotka molemmat lisäävät palkkaus- ja lennolle ottokustannuksia.
+These issues relate to high transaction costs and the exacerbated agent-principal problem[^4]. Despite the evolution of job markets towards more unity and transparency with the internet, transaction costs[^5] still need to be lowered without an objectivity element.
 
-Työnantajilla on myös heikko sitoutuminen nykyisiin työntekijöihinsä, mikä johtaa alhaiseen luovuuteen, tuottavuuteen ja innovointiin. Jälkimmäinen aiheuttaa yhä enemmän vahinkoa nykytaloudelle, joka edellyttää ammattitaitoisempaa luovaa työtä.
+The WoM offers a unique approach to decentralized work, addressing several issues prevalent in traditional work paradigms.
 
-Kaikki edellä mainitut keitetään korkeisiin transaktiokustannuksiin ja pahenevaan agenttien pääongelmaan[^4]:
+Through its transparent, objective, and decentralized incentive paradigm, the WoM sustainably aligns the interests of contributors and employers. It proposes ways to flatten hierarchies and open up ownership, promoting sustainable ways to operate and create value for organizations.
 
-- Internetin myötä työmarkkinat kehittyivät kohti yhtenäisempää ja avoimempaa työtä tekevien työpaikkojen, urakohteiden jne. ansiosta. Liiketoimien kustannukset ovat kuitenkin edelleen liian korkeat, jos objektiivisuutta ei oteta huomioon.
-- Mitä tulee agenttien suurimpaan ongelmaan, sitä ovat lisänneet työntekijöiden ja osakkeenomistajien väliset kasvavat tulo- ja varallisuuserot sekä työnantajan ja työntekijän välisen suhteen jäykkyys.
+By matching jobs and skills objectively, quickly, and globally, the WoM aims to address the lack of transparency in the job market and ensure that great skill sets are not left behind.
 
-WoM pyrkii ratkaisemaan sekä uuden hajautetun työn paradigma.
+The WoM aims to reinvent the employer/employee relationship by introducing a transparent, objective, decentralized incentive paradigm. This model incentivizes contributors to be more engaged, creative, and productive, leading to greater innovation and productivity.
 
-R. Coasein teosten[^5]jälkeen useimmat taloustieteilijät yhdistävät yrityksen käsitteen välttämättömyyteen vähentää transaktiokustannuksia. Internet ja viime aikoina lohkoketju ja web3 avautuvat jännittävät mahdollisuudet alentaa transaktiokustannuksia kaikkialla, uudistaa taloutta ja erityisesti uudistaa yritys. Ensimmäiset DAO[^6] käynnistivät tämän prosessin, jossa keskityttiin alentamaan pääomanhankinnasta ja hallinnoinnista aiheutuvia kustannuksia. WoM pyrkii edistämään tätä logiikkaa edelleen alentamalla kustannuksia työn liiketoimet. Siinä ehdotetaan hajautettua maailmaa, jossa työpaikat ja taidot voidaan sovittaa yhteen objektiivisesti, nopeasti ja maailmanlaajuisesti.
+By bridging the gap between traditional corporations and newer organizational models like DAOs[^6], the WoM provides sustainable ways to operate and create value for all. As a decentralized venture, the WoM gains value exponentially as more people use it. Therefore, we have designed its protocol as a public good with built-in mechanisms to encourage long-term interest and avoid cartelization.
 
-Ensimmäiset DAO väljähtävät hierarkiat ja avoimen omistajuuden. WoM noudattaa tätä logiikkaa uudistamalla eikä tukahduttamalla työnantajan ja työntekijän välistä suhdetta. Siinä otetaan käyttöön avoin, objektiivinen ja hajautettu palkitsemismalli, joka vastaisi kestävällä tavalla työnantajan ja työntekijöiden etuja.
-
-Lopuksi WoM siltaa kuilun yritysten ja DAO: iden välillä. Yhtäältä se tuo perinteiset yhtiöt hajautettuun maailmaan helposti soveltamalla sitoutumista palkitsevaa paradigmaa, joka täydentää niiden korvausjärjestelmiä. Toisaalta siinä ehdotetaan kestäviä tapoja toimia ja luoda lisäarvoa DAO: ille. Viime kädessä WoM voisi olla yksi ensimmäisistä valtavirran sovelluksista, joilla demokratisoidaan lohkoketjun käyttö jokaiselle yritykselle ja jokaiselle työntekijälle – myös muille kuin digitaalisille sovelluksille.
-
-Kuten minkä tahansa hajautetun hankkeen, WoM-ehdotus saa arvoa eksponentiaalisesti, kun yhä useammat käyttävät sitä. Tästä syystä perustajat huolehtinut rohkaista pitkän aikavälin kiinnostusta ja välttää monopolizing WoM etuja, olipa lyhyen aikavälin tai pitkän aikavälin edut. Se on avoin paradigma, jota on vielä rakennettava ja joka on avoin kaikille luovalle osallistumiselle.
+To foster active, authentic participation in the WoM paradigm, creating an inclusive environment where diverse perspectives are valued is crucial.
 
 
-[^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)
-[^2]: Jan Drahokoupil, Agnieszka Piasna - [“Work in the Platform Economy: Beyond Lower Transaction Costs”](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
-[^3]: Seth C. Oranburg, Liya Palagashvili - [“Transaction Cost Economics, Labor Law and the Gig Economy”](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship)
-[^4]: Michael C. Jensen, William H. Meckling - [“Theory of the Firm : Managerial Behavior, Agency Costs and Ownership Structure”](https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf)
-[^5]: R. Coase - [“The nature of the firm”](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
-[^6]: Aaron Wright - [“The Rise of Decentralized Autonomous Organizations : Opportunities and Challenges”](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)
-
+[^1]: Suzanne Young - ["Transaction Cost Economics"](https://www.academia.edu/24703426/Transaction_Cost_Economics)
+[^2]: Jan Drahokoupil, Agnieszka Piasna - ["Work in the Platform Economy: Beyond Lower Transaction Costs"](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
+[^3]: Seth C. Oranburg, Liya Palagashvili - ["Transaction Cost Economics, Labor Law and the Gig Economy"](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship)
+[^4]: Michael C. Jensen, William H. Meckling - ["Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure"](https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf)
+[^5]: R. Coase - ["The nature of the firm"](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
+[^6]: Aaron Wright - ["The Rise of Decentralized Autonomous Organizations: Opportunities and Challenges"](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)
