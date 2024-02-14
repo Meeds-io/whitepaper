@@ -10,11 +10,11 @@
 
 The WoM would have its own currency the **MEED** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. ה-WoM יקל גם על הפצת אסימונים אחרים וישתתף במערכת האקולוגית הכוללת של הקריפטו.
 
-מכיוון שתמונה שווה אלף מילים, הנה תרשים שמתאר את זרימות WoM ומידס
+As a picture is worth a thousand words, here is a diagram that describes the WoM and MEED token flows
 
 ![WoM ו-Meeds זורמות](en/img/wom-flows.png)
 
-התחזוקה והקיימות העולמית בטווח הארוך מובטחות באמצעות מסים המשותפים בין עמותת Meeds והערים.
+The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds Association and the Cities.
 
 ## 5.2. מה יש בו עבור מאמצים מוקדמים
 
@@ -24,7 +24,7 @@ The WoM would have its own currency the **MEED** – that would be there to spen
 
 על ידי אמונה בפרויקט, השתתפות במאגרי הנזילות, החזקה של אסימוני MEED, פדיון נגד Deeds... משקיעים מוקדמים מכל הגדלים יטביעו אסימונים נוספים. הם גם יקבלו את זכויות ההצבעה המוקדמות ביותר ויעזרו לעצב את WoM.
 
-ארגונים שרוכשים אך במיוחד משתמשים ב-Deeds כדי לעסוק ולתגמל את העובדים שלהם יקבלו פיצוי ב-Meeds שנטבעו. ככל שהם ישחקו יותר הוגנים, כך הם יקבלו יותר. המאמצים המוקדמים יותר ישויכו לערים ההיסטוריות הראשונות ויזוהו כבונים בהמשך.
+Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted MEED. ככל שהם ישחקו יותר הוגנים, כך הם יקבלו יותר. המאמצים המוקדמים יותר ישויכו לערים ההיסטוריות הראשונות ויזוהו כבונים בהמשך.
 
 התרשים שלהלן מייצג דוגמה לאסטרטגיית ההשקעה של Meeds עבור מחזיקי הון:
 
@@ -42,7 +42,7 @@ The WoM would have its own currency the **MEED** – that would be there to spen
 
 באותו זמן, אסימון MEED כבר היה קיים. אפשר לרכוש אותו ומאגרי נזילות פתוחים להשתתפות, ברשתות Polygon ו-Ethereum.
 
-שלושה חברי עמותת Meeds משתמשים במערכת באופן פנימי כדי לערב ולתגמל את המשתמשים שלהם ולשפר את תוכנת Meeds.
+Three Meeds Association members use the system internally to engage and reward their users and improve the Meeds software.
 
 אפליקציית המשקיעים זמינה ב-Ethereum Mainnet. בהשקה, הוא כולל הימור, תגמולי נזילות, צבירת נקודות ומימוש Deeds.
 
@@ -54,7 +54,7 @@ The WoM would have its own currency the **MEED** – that would be there to spen
 
 אנו משיקים את קהילת הבונים בתוכנת Meeds ובדיסקורד. הקהילה מברכת את כל מי שרוצה לקחת חלק בבניית ה-WoM. האגודה תתגמל את המעורבות של בונים ב-Meeds, מתקציב השיווק שלה.
 
-העמותה מתכננת גם להרים כמה Meeds על מנת לרכוש (לפדות) Deed עבור קהילת הבונים. לאחר מכן, הקהילה תטביע Meeds על ידי מעורבות, באמצעות מודל המינטיום, ותפיץ אותם למשתמשים מעורבים.
+The association plans also to stake some MEED in order to acquire (redeem) a Deed for the builders community. The community will then mint MEED by engagement, through the mintium model, and distribute them to engaged users.
 
 ## 5.5. מפת דרכים ואבני דרך
 
@@ -68,7 +68,7 @@ The WoM would have its own currency the **MEED** – that would be there to spen
 
 אנו סומכים על המאמצים המוקדמים מה-DAOs וחברות בעלות ידע טכנולוגי בשלב הבנייה. צריכים להיות לנו גם כמה מאמצים מוקדמים מחברות מסורתיות שמרוויחות ערך מיידי מה-WoM על ידי מתן תוכניות מעורבות רלוונטיות לאנשיהן, בנוסף לתוכניות התגמול המסורתיות הנוכחיות שלהן.
 
-טביעת Meeds משתרעת על פני תקופה של 20 שנה. עד אז, אנו שואפים להשיג בניית מערכת אקולוגית בוגרת, לאחר שהתפשטה לארגונים רבים ולמשתמשים רבים ברחבי העולם.
+MEED minting spans a 20 year period. עד אז, אנו שואפים להשיג בניית מערכת אקולוגית בוגרת, לאחר שהתפשטה לארגונים רבים ולמשתמשים רבים ברחבי העולם.
 
 ## 5.6. מה אתה יכול לעשות עכשיו
 
@@ -81,6 +81,6 @@ The WoM would have its own currency the **MEED** – that would be there to spen
   - [Cometh Swap](https://swap.cometh.io/)
   - [Sushi Swap](https://sushi.com)
 - הצטרף לקהילת [Discord](https://discord.com/invite/hAuADSq3) שלנו כדי להישאר מעודכן
-- הצטרפו לקהילת ה[בונים](https://meeds.io/builders) שלנו כדי לבדוק את תוכנת Meeds, לעסוק ולהרוויח כמה תגמולי מעורבות של Meeds
+- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some MEED engagement rewards
 
 **\*\*\* The WoM - בואו נבנה ביחד את העולם העתידי המטורף הזה. \*\*\***
