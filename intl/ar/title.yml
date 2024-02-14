@@ -1,14 +1,16 @@
 ---
-title: 'ميدز داو: عالم ميدز (Meeds DAO: The World of Meeds)'
-date: Nov 22nd, 2023 - الإصدار 2.0.0-alpha
+title: The World of Meeds
+subtitle: a decentralized platform for the future of work
+author: Meeds DAO
+date: 2024-02-14 - Version 2.0.0-alpha2
 toc-title: جدول المحتويات
 language: ar
 toc-own-page: true
 titlepage: true
-titlepage-text-color: "000000" ## black
-titlepage-rule-color: "3F8487" ## deep green
-titlepage-color: "FFFFFF"
-titlepage-logo: img/meeds-logo-text-pink.jpg
+titlepage-text-color: "FFFFFF" ## black
+titlepage-rule-color: "F97575" ## deep green
+titlepage-color: "3F8487"
+titlepage-logo: "img/meeds-logo-transparent.png"
 papersize: letter
 colorlinks: true
 book: true
@@ -18,5 +20,3 @@ classoption: oneside
 mainfont: "Simplified Arabic"
 sansfont: "Simplified Arabic"
 CJKmainfont: "Heiti TC"
-
-...
