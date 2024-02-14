@@ -1,85 +1,82 @@
-# 3. Token Meeds – το νόμισμα του WoM
+# 3. The MEED token – the currency of the WoM
 
-Το WoM τροφοδοτείται από το νόμισμά του - το διακριτικό Meeds (MEED). Τα Meeds χρησιμοποιούνται για την ανταμοιβή των χρηστών (μέσω προγραμμάτων εμπλοκής), την αγορά σε καταστήματα, την απόκτηση έργων, την απόκτηση οικονομικών αποδόσεων σε επενδύσεις κλπ.
+The MEED token (pronounced "Meeds") is the currency that powers the WoM. Users are rewarded with MEED (through engagement programs), purchase in stores, get Deeds, get financial returns on investments, and more.
 
 ## 3.1. Tokenomics
 
-Η μέγιστη προσφορά του Meeds **περιορίζεται σε 100 εκατομμύρια μάρκες**, που κόβονται προοδευτικά. **Τα κρέατα κόβονται με ρυθμό 10 MEED ανά λεπτό**. Ως εκ τούτου, ο πλήρης ορίζων κοπής είναι κοντά στα 20 χρόνια (καθώς περίπου $10*60*24*365 = 5M$ Meeds είναι κοπεί ανά έτος).
+The **maximum supply of MEED is limited to 100 million tokens**, minted progressively.
 
-Αρχικά κόπηκαν 5 εκατομμύρια Meeds (5% της συνολικής προσφοράς). Εκ των οποίων, 4,5 εκατομμύρια έχουν κλειδωθεί σε συμβόλαιο θησαυροφυλάκιο με γραμμική κατοχύρωση πάνω από 4 χρόνια. Το προκαθορισμένο ποσό χρησιμοποιήθηκε κυρίως για την απόκτηση IP λογισμικού, την πληρωμή των νομικών τελών εκπομπής διακριτικών και τις υπηρεσίες υποδοχής.
+The Meeds Association has minted 5 Million MEED (5% of the total supply) at the start to acquire software IP from the funding members, pay for token emission legal fees, and hosting services. Then, it locked 4.5 Million in a vault contract with a linear vesting over four years.
 
-Το υπόλοιπο αποτελεί μέρος των __κεφαλαίων του Meeds DAO__ και θα χρησιμοποιηθεί για την πληρωμή υπηρεσιών και την εκκίνηση κινήτρων, όπως airdrops και εκστρατείες παραπομπής.
+Since then, a smart contract called **the __Token Factory__ performs minting of **MEED tokens at a constant rate**.
 
+The minting rate is a parameter of the Token Factory, set at *10 MEED per minute* at the start. A vote of the DAO may change this rate in the future. At such rate, the Token Factory mints around 5 Million MEED yearly (10*60*24*365); thus, the minting horizon is nearly 20 years.
 
 ## 3.2. Κατανομή ορυχείων
 
-Τα Minted Meeds κατανέμονται για να ενθαρρύνουν τη συμμετοχή των τριών κατηγοριών ενδιαφερομένων - των χρηστών, των κατασκευαστών και των επενδυτών:
+The Token Factory also rules the allocation of minted MEED tokens to  three categories of stakeholders :
 
-- Οι χρήστες (χρήστες και εκμισθωτές/ενοικιαστές) παίρνουν Meeds μέσω ανταμοιβών εμπλοκής (μοντέλο mintium).
-- Οι οικοδόμοι (μέλη της ένωσης και της κοινότητας) λαμβάνουν Meeds μέσω των κονδυλίων της ένωσης για την κατασκευή, τη λειτουργία και τη βελτίωση του WoM.
-- Οι επενδυτές κόβουν Meeds μέσω ενοικίασης και αγοράς δεξαμενών ρευστότητας και στοιχηματισμού Meeds.
+- **Builders**: Contributors of the Meeds DAO that help build and run the WoM
+- **Users**: Members in all communities of the WoM earn MEED as rewards for their contributions
+- **Investors**: The Meeds DAO incentivizes MEED token owners to stake MEED or provide liquidity for the Meeds economy
 
-Στην αρχή, οι κατασκευαστές λαμβάνουν το 30% της κατανομής. Το 70% μοιράζεται μεταξύ των χρηστών και των επενδυτών. Αυτό το ποσοστό κατανομής θα αναθεωρείται σε τακτική βάση, μέσω της ψηφοφορίας DAO ένωση Meeds.
+Each category of stakeholders receives a share of the MEED supply, which is subject to votes by the DAO.
 
-## 3.3. Χρήστες – εξόρυξη μέσω εμπλοκής
+## 3.3. Users
 
-Μέρος των συνεχώς κοπόμενων Meeds κατανέμεται στο κανάλι δέσμευσης κοπής. Η κατανομή γίνεται σε εβδομαδιαία βάση. Σε κάθε δεδομένη εβδομάδα τέλος, ο δείκτης δέσμευσης υπολογίζεται έτσι ώστε οι ηγέτες του Hubs και οι ιδιοκτήτες του Deed να μπορούν να διεκδικήσουν τις ανταμοιβές τους την επόμενη εβδομάδα και να πάρουν το Meeds. Οι αζήτητοι Meeds παραμένουν στο ταμείο και προστίθενται στη διανομή της επόμενης εβδομάδας. Το μοντέλο περιγράφεται λεπτομερώς στο προηγούμενο κεφάλαιο (μέρος 2.6).
+Part of the continuously minted MEED tokens is allocated to sponsor user engagement through the Mintium model (see 2.6). A global engagement index is calculated periodically across all Hubs of the WoM to allocate MEED rewards to the Hubs. Mintium rewards are claimable by Hub leaders and Deed owners.
 
-## 3.4. Οικοδόμοι – Συνεντεύξεις ένωση DAO και κοινότητα των κατασκευαστών
+## 3.4. Builders
 
-Το WoM και το Meeds token λειτουργούν από τον μη κερδοσκοπικό Σύνδεσμο Meeds Association DAO, που εισήχθη παραπάνω. Μια πολύπλευρη σύμβαση που ονομάζεται _Meeds DAO Funds_ χρησιμοποιείται για τη διαχείριση των λειτουργικών εξόδων της ένωσης.
+The Meeds DAO operates the WoM and the MEED token supply. A multi-sig smart contract called the _Meeds DAO Funds_ manages the operating expenses. It receives **30% of the minted MEED** to support Builders.
 
-Κατά τη διάρκεια της περιόδου νομισματοκοπίας, **30% των νομισματοκοπημένων Meeds διατίθενται στην ένωση Meeds**.
+The Meeds Association is entitled to hire service provider companies on behalf of the Meeds DAO to cover legal fees, development, and hosting costs using the Meeds DAO Funds.
 
-Τα μέλη της ένωσης μπορούν να παρέχουν υπηρεσίες στην ένωση βάσει σύμβασης παροχής υπηρεσιών που θα καθορίζει την τιμή των ανθρωποημερών. Οι υπηρεσίες καταβάλλονται σε μηνιαία βάση στο Meeds, με βάση την αγοραία τιμή. Περιλαμβάνουν παραδείγματα υπηρεσιών – εμπλουτισμός του λογισμικού Meeds, ανάπτυξη της εφαρμογής WoM, ανάπτυξη νέων συνδέσεων, λειτουργία των υπηρεσιών cloud, παροχή οικονομικών και νομικών υπηρεσιών κ.λπ.
+Organizations and individuals not members of the Meeds Association may still contribute through the _Meeds Builders Hub_  - a community hub that welcomes enthusiasts who want to participate in creating and promoting the WoM. The <0>Meeds DAO Funds</0> also reward for contributions to the Builders Hub.
 
-Χωρίς να είσαι μέλος, οποιοσδήποτε οργανισμός μπορεί να συμμετάσχει στη δημιουργία ενός νέου συνδέσμου και να ανταμείβεται για να το κάνει – πρώτα μέσω της ένωσης Meeds αποκτώντας το βύσμα και στη συνέχεια κόβοντας μέσω αυτού του συνδετήρα.
+The Builders Hub also receives Mintium rewards like any other hub.
 
-Ο σύλλογος λειτουργεί το δικό του κοινοτικό κόμβο με το όνομα _Meeds Builders Hub_ που καλωσορίζει τους ενθουσιασμούς, που θέλουν να συνεισφέρουν στη δημιουργία του WoM. Η ένωση χρηματοδοτεί την κοινότητα από τον προϋπολογισμό της, αποζημιώνοντας την εμπλοκή των μελών της κοινότητας.
-
-Έτσι, ο κόμβος των κατασκευαστών λειτουργεί ως ζωντανό παράδειγμα μιας κοινότητας που τροφοδοτείται από το λογισμικό Meeds, προσφέρει ένα τυποποιημένο σύνολο υπηρεσιών που παρέχονται από την ένωση. Ο σύλλογος διακυβεύει τον Μέιντς για να εξαργυρώσει μια Πράξη για την κοινότητά του. Έτσι, το Hub του Builder επωφελείται επίσης από την εμπλοκή της κοπής όπως κάθε άλλο Hub που υποστηρίζεται από ένα Deed.
-
-Μετά το πέρας της περιόδου κοπής, η ένωση θα διατηρηθεί από :
+After the minting period is over, the operational costs of the Meeds DAO will be supported by :
 
 - φορολόγηση του παθητικού εισοδήματος (3% στην ενοικίαση Deeds)
 - φορολόγηση του εισοδήματος πώλησης (2,5% επί των πωλήσεων Deeds)
 - αντιλαμβάνονται τις χρεώσεις συναλλαγών έναντι της χρήσης των καταστημάτων προνομίων
 - ενεργώντας ως πάροχος συγκέντρωσης ρευστότητας
-- αντιλαμβανόμενος τα τέλη συναλλαγής όταν ένα Hub διανέμει μη Meeds tokens μέσω υπηρεσιών WoM.
-- με τη λειτουργία των Deeds που η ένωση έκοψε με την πάροδο του χρόνου.
+- perceiving transaction fees when a Hub distributes alternative tokens on their Hubs
+- renting and selling the Deeds that the DAO minted over time.
 
 
 ## 3.5. Επενδύτες
 
-Οι επενδυτές βοηθούν στη δημιουργία του WoM παρέχοντας ρευστότητα και στοιχηματίζοντας Meeds και σταθεροποιώντας έτσι το επίπεδο των τιμών του κατά την περίοδο κατασκευής. Και οι δύο ενθαρρύνονται μέσω της εξόρυξης.
+Investors support the WoM by providing liquidity and staking MEED tokens, which helps stabilize the price level during the building phase. Incentives are in place for both:
 
-**Πάροχοι ρευστότητας** Η διαχείριση ρευστότητας νομίσματος είναι το κλειδί για την επιτυχία του έργου και αρκετές στρατηγικές DeFi θα χρησιμοποιηθούν για τη βελτιστοποίηση της απόδοσης κεφαλαίου. Θα ξεκινήσουμε με κίνητρα για να ποντάρουμε μάρκες MeedS/ETH LP και θα εισαγάγουμε σταδιακά ομόλογα για να κινηθούμε προς μια ρευστότητα που ανήκει στο πρωτόκολλο. Η τελευταία θα συμβάλει στη μακροπρόθεσμη βιωσιμότητα του συλλόγου - όπως προαναφέρθηκε, τα τέλη συναλλαγής θα χρηματοδοτήσουν τα λειτουργικά έξοδα της ένωσης όπως cloud hosting.
+**Liquidity providers** Currency liquidity management is crucial to the project's success. The Meeds DAO employs various DeFi mechanisms to optimize its capital efficiency. For instance, incentives allow liquidity providers to farm yields by renting their LP tokens. Also, there are plans to introduce bonds and move towards protocol-owned liquidity progressively. The latter will contribute to the project's long-term sustainability - as mentioned above, transaction fees will fund the operating expenses.
 
-Κάθε μέλος έχει επίσης το δικαίωμα να αγοράσει άμεσα ένα μεγάλο ποσό Κρέατα με έκπτωση. Το ποσό που ενσύρματο στο λογαριασμό σύνδεσης μετατρέπεται σε ETH και προστίθεται μαζί με την ισοδύναμη αξία των Meeds στο Liquidity Pool.
+Additionally, on behalf of the Meeds DAO, the Meeds Association is entitled to facilitate OTC (off-the-shelf) purchases of more extensive amounts of MEED tokens.
 
-**Πεζοπορία / μακροπρόθεσμη επένδυση** Για να ενθαρρυνθούν οι μακροπρόθεσμες επενδύσεις, τα στοιχήματα Meeds ανταμείβονται. Όταν στοιχηματίζονται τα Meeds, ο staker παίρνει μερικά xMeeds tokens. Τα πρόσφατα τεμαχισμένα κρέατα διανέμονται σε stakers αναλογικά στις εκμεταλλεύσεις τους xMeeds. Στην πράξη, τα τεμαχισμένα κρέατα προστίθενται αποτελεσματικά στις εκμεταλλεύσεις της έξυπνης σύμβασης xMeeds και διανέμονται στον κάτοχο xMeeds όταν αποδεσμεύονται.
+**Staking / long-term investment** Meeds DAO rewards loyal investors who want to support Meeds long-term. Anyone can stake their unused MEED tokens to earn yields and xMEED tokens.
 
-Με το να στοιχηματίζει Meeds, οι επενδυτές μπορούν επίσης να εξαργυρώσουν τις Deed NFT (και στη συνέχεια να συμμετάσχουν στην εξόρυξη μέσω της δέσμευσης), αυξάνοντας έτσι τη ζήτηση συμβόλων. Κάθε ποντάρισμα Meeds (xMeeds) χορηγεί στον ιδιοκτήτη του έναν αριθμό πόντων ανά ημέρα. Όσο μεγαλύτερη είναι η κατοχυρωμένη περίοδος τόσο μεγαλύτερος είναι ο αριθμός των σημείων που λαμβάνονται ανά xMeeds. Κάθε Πράξη στη συνέχεια εξαργυρώνεται σε αντάλλαγμα για μια σειρά από σημεία.
+Staking reults in the minting of xMEED tokens in proportion of the MEED tokens deposited. The xMEED token is Meeds governance token, which is used for voting on DAO proposals.
 
-Οι πόντοι υπολογίζονται με τον παρακάτω τύπο :
+Additionally, xMEED holders earn minting points that entitle them to mint Deed NFTs. This mechanism increases the demand for MEED tokens. Minting points accrue over time as long as the stakeholder maintains his stake. The formula below allows you to calculate minting points :
 
- $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
+ $$ P = xMEED / (xMEED + 12000) * T / 240 $$
 
- όπου :
+ Where:
 
-- $xMeeds$ : xMeeds υπόλοιπο χωρίς δεκαδικά ψηφία
-- $T$ : Χρόνος σε χιλιοστά του δευτερολέπτου
+- $xMEED$: xMEED balance  with no decimals
+- $T$: Time elapsed in milliseconds
 
-Ο τύπος αποφεύγει την ευνοϊκή τους μεγάλους κατόχους, προκειμένου να διανείμει τις πράξεις πιο αποτελεσματικά και πιο δίκαια. For example, the formula gives the following rates :
+The formula avoids favoring large holders to distribute Deeds more efficiently and equitably. For example, the formula gives the following rates :
 
 | **Μέγεθος κατόχου** | **Συμμετοχές** | **Συγκεντρώστε ποσοστό** |
 | ------------------- | -------------- | ------------------------ |
-| Μικρό               | 1 000 xMeeds   | 28 pts/ημέρα             |
-| Μεσαίο              | 10 000 xMeeds  | 164 pts/ημέρα            |
-| Μεγάλο              | 100 000 xMeeds | 321 pts/ημέρα            |
+| Μικρό               | 1 000 xMEED    | 28 pts/ημέρα             |
+| Μεσαίο              | 10 000 xMEED   | 164 pts/ημέρα            |
+| Μεγάλο              | 100 000 xMEED  | 321 pts/ημέρα            |
 
 
-το οποίο οδηγεί στον ακόλουθο χρόνο διακράτησης για κάθε κατηγορία κατόχων :
+These accrue rates lead to the following holding time for each class of holder :
 
 | **Τύπος κάρτας** | **Κόστος**     | **Μεγάλη θήκη** | **Μεσαίο κάτοχος** | **Μικρή θήκη** |
 | ---------------- | -------------- | --------------- | ------------------ | -------------- |
@@ -90,20 +87,20 @@
 
 ## 3.6. Διακυβέρνηση Meeds DAO
 
-Οι κάτοχοι κουπονιών Meeds πρέπει να ποντάρουν κουπόνια για να ψηφίσουν σχετικά με τις αποφάσεις του Meeds DAO, όπως η διαχείριση του προϋπολογισμού κοπής ή η εκλογή των μελών του διοικητικού συμβουλίου του DAO (ετήσια εντολή).
+xMEED token holders can freely participate in the governance of the Meeds DAO by voting with their tokens on decisions such as managing the budget allocation or electing DAO board members.
 
 ## 3.7. Αποκεντρωμένες υπηρεσίες χρηστών οικονομικών (DeFi)
 
 Το WoM θα εισαγάγει τον κόσμο του blockchain σε πολλούς ανθρώπους που δεν τον χρησιμοποιούν σήμερα.
 
-Πράγματι, οποιαδήποτε εργασία (είτε ψηφιακή είτε όχι) μπορεί να αξιοποιηθεί και οποιαδήποτε εμπλοκή - ανταμείβεται με Meeds. Τα κρέατα καθίστανται διαθέσιμα στους χρήστες μέσω ενός εύχρηστου, βασισμένου σε blockchain, πορτοφόλι που “αφαίρεση” κάθε πολυπλοκότητα του κρυπτο-κόσμου σε ένα μέσο χρήστη.
+Indeed, Meeds software can gamify and set a monetary value on any contribution (whether it is digital or not) and reward it with MEED tokens. This has be made possible by an easy-to-use, blockchain-based wallet app that simplifies access to the crypto world for an average user, rewards are tangible.
 
-Πέρα από το πορτοφόλι και ένα κατάστημα όπου μπορούν να αγοράζουν προνόμια για το Meeds, σχεδιάζουμε να παρουσιάσουμε σε κάθε χρήστη διάφορα προϊόντα τελικού χρήστη που τροφοδοτούνται από τα πρωτόκολλα αποκεντρωμένης χρηματοδότησης, όπως:
+Beyond the wallet and a store where they can purchase perks for MEED tokens, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
 
 - Η ικανότητα να ποντάρει MEED μάρκες και να πάρει αποδόσεις (παράγουν έσοδα)
-- Η ικανότητα να χρησιμοποιούνται μάρκες MEED ως ασφάλεια για τη δανειοδότηση σταθερών κερμάτων όπως η USDC (μόχλευση πρώτα της δεξαμενής ασφαλειών [Fuse](https://app.rari.capital/fuse) και στη συνέχεια καταχώρηση του διακριτικού Meeds σε [AAVE](https://aave.com/).
-- Μια ψηφιακή κάρτα που μπορεί να προστεθεί και να χρησιμοποιηθεί μέσω της Apple Pay, της Google ή οποιουδήποτε ΑΤΜ. Το τελευταίο μπορεί να παρασχεθεί μέσω μιας εταιρικής σχέσης με τη VISA και θα αξιοποιήσει ένα πιστωτικό όριο στο USDC, εξασφαλισμένο με στοιχήματα Meeds. Αυτή η κάρτα θα μπορούσε επίσης να χρησιμοποιηθεί από οργανισμούς για τη χρηματοδότηση πορτοφολιών εργαζομένων προκειμένου να διαχειριστεί τις παροχές των εργαζομένων, όπως εστιατόρια, μεταφορά και κάθε είδους έξοδα.
+- The ability to use MEED tokens as collateral to borrow stablecoins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the MEED token to [AAVE](https://aave.com/).
+- A digital card can be added and used through Apple Pay, Google Pay, or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by xMEED. Organizations could also use this card to fund employee wallets to manage employee benefits such as restaurants, transportation, and other expenses.
 
-Έτσι, όχι μόνο πολλοί νέοι χρήστες θα ανακαλύψουν τον κόσμο της αλυσίδας μπλοκ, αλλά και έναν κόσμο χωρίς τράπεζες.
+So, not only will many new users discover the blockchain world, but they will also discover a bankless world.
 
  
