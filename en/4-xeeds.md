@@ -1,66 +1,67 @@
-# 4. Xeeds - WoM Individuals / users
+# 4. Xeeds - WoM Citizens
 
 ## 4.1. Decentralized and self-sovereign models
 
 The WoM recognizes privacy as a fundamental human right and empowers users to own their data.
 
-Our approach is based on decentralized and self-sovereign identity principles, allowing users to be in control at any time of what information they want to publicize, share with a restricted group, or keep private.
+Our approach is based on decentralized and self-sovereign identity principles, allowing users to control what information they want to publicize, share with a restricted group, or keep private.
 
-User's activity and engagement in the WoM is always linked to a community. A Xeed is the virtual persona of a user in a community. Xeed does not require any KYC, it is self-declaring, but we could conceivably imagine third-party firms providing this service.
+Users engage in the Wom within various communities. A Xeed is the virtual persona of a user in a community. An Xeed does not require any KYC; it is self-declaring, but we could imagine third-party firms providing this service.
 
-## 4.2. Badges and credentials
+## 4.2. Badges and Credentials
 
-Badges and Credentials are given to users as a part of their participation in a community. The holder may download them as W3C Verifiable Credentials[^7][^8] (aka VCs) and store them in his wallet. Those VCs are proof of knowledge/know-how certified by the organization issuing it.
+Users may earn Badges and Credentials when they participate in a community. The holder may download them as W3C Verifiable Credentials (VCs)[^7][^8] and store them in a wallet. Those VCs are proof of knowledge/know-how certified by the issuing organization.
 
-In today’s world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they count on their managers to give them a recommendation. The latter supposes certain goodwill on the part of the manager but is not necessarily treated as proof by the future employer.
+In today's world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they depend on social reputation. Typically, a manager or peer provides a recommendation. It requires goodwill from the relative but rarely constitutes definitive proof for the future employer.
 
 The WoM provides a more transparent and immutable means for people to acquire and demonstrate their abilities.
 
-Badges are used to represent accomplishments made within a community. After completing a set of objectives or challenges, users will be awarded points. Badges can be unlocked by accumulating certain amounts of points in specific categories.
+Badges represent accomplishments made within a community. After completing a set of objectives or challenges, users earn points. They can earn recognition badges as they accumulate points and reach certain thresholds.
 
-When the user downloads badges, it is possible to include the number of points and his rank in the Hub for this specific accomplishment.
+It is possible when the user downloads badges, including the number of points and his rank in the Hub for this specific accomplishment.
 
 Credentials are more flexible than Badges; they could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the space.
-The Hub signs these and can be accompanied by a signature by a peer user.
+The Hub or peer members can sign s these credentials to attest them officially.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Verifiable Credentials Data Model
 
 ## 4.3. Digital work identity
 
-All of the above contributes to forming proven digital skillset that can be kept and used by the user when changing jobs or freelancing. It would be more trustworthy than traditional solutions as it relies on not just one individual but a full community to prove it.
+All of the above contributes to forming a proven digital skillset that the user can keep and use when changing jobs or freelancing. It is more trustworthy than traditional solutions because it relies on an entire community to prove it.
 
-Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Hub to another, from one city to another, anywhere through the WoM.
+Like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials in his identity wallet when moving from one Hub to another, from one city to another, anywhere through the WoM.
 
-The user will be able to express his Xeed, Badges, and Credentials towards other Hubs to highlight his experience, as well as with recruiters or any other services that he deems interesting.
+The users can expose their Xeed, Badges, and Credentials to other Hubs to advertise their skills and experience, as well as with recruiters or any other services they deem interesting.
 
 A user can have one or several digital identities in the WoM. He could later present them in a unified way using verified presentations.
 
-Contrary to web 2, the user is in full ownership of his decentralized identities. The latter can show (and prove) the communities he participated in, their proven skills, their claimed skills, the people whom they worked with, and their digital representation of themselves... In a manner of trustworthy LinkedIn 3.0.
+Contrary to Web 2, the user wholly owns his decentralized identity. The latter can show (and prove) the communities he participated in, their proven skills, their claimed skills, the people they worked with, and their digital representation of themselves.
 
-The user will be able to select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Hubs, etc.) is tamper proof and so could not be modified. Any identity would have to be developed over time.
+The user can select whether or not to reveal anything, what information to provide, and which identities to use for each position. The content (proven skill, previous Hubs, etc.) is tamper-proof. Users develop a composite digital identity over time as they work in the WoM.
 
 ## 4.4. Fair work marketplace
 
-Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Hubs – as they do in the physical world by changing employers. However, in the WoM their engagement would be tangible, measured and rewarded in a fair way. By moving between systems that follow a similar logic, they will better understand the rules of the game and will judge employers fairly – grass is not always greener elsewhere. Users will be able to see which Hub provides better engagement reward conditions, belongs to a more attractive city, etc.
+Within this paradigm, the future work marketplace allows users to move freely and allocate/sell their engagement among the Hubs – as they do in the physical world by changing employers. However, in the WoM, their engagement is tangible, measured, and rewarded fairly. 
+By moving between systems that follow a similar logic, they will better understand the game's rules and are better equipped to evaluate their potential employers. By comparing engagement scores, contributors can see which Hub provides better engagement and reward conditions, belongs to a more attractive city, etc.
 
-On their end, the community leaders can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They will be able to source skills more effectively, based on verified and detailed information on work history, work skills and engagement level of the user.
+On their side, the community leaders can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). They can source skills more effectively based on verified and detailed information on work history, work skills, and user engagement level.
 
 ## 4.5. Tangible and transparent recognition
 
-Today, details on compensation and bonuses are obscure in many workplaces.
-Therefore, it is difficult for a person to compare his conditions to that of another and get a sense of a fair and unbiased treatment. Employees experience a lot of frustrations with the above.
+Today, details on compensation and bonuses are opaque in many workplaces.
+Therefore, it is difficult for a person to compare his conditions to another and get a sense of fair and unbiased treatment. Employees experience a lot of frustrations with the above.
 
 The WoM introduces an objective way to recognize achievements and reward them.
 
-Engagement recognition and reward mechanism is transparent and applies fairly to all users, following the same explicit rules, decided in advance and aligned with the community goals.
+The engagement recognition and reward mechanism is transparent and applies fairly to all users, following the same explicit rules, decided in advance, and aligned with the community goals.
 
-Wallets are individual and blockchain based – when the user receives a reward or earns a badge, it cannot be taken back or erased.
+Wallets are personal and blockchain-based - taking back earned rewards and badges is impossible.
 
-## 4.6. Access to Web 3.0, cryptoeconomy and DEFI services
+## 4.6. Access to Web3, crypto economy, and DeFi services
 
-As discussed above, the WoM opens the world of cryptocurrency and decentralized web services to basically everyone – a very large population of users, even possibly unrelated to the digital field.
+As discussed above, the WoM opens the world of cryptocurrency and decentralized web services to everyone – a substantial population of users, even possibly unrelated to the digital field.
 
-Indeed, any work engagement can potentially be tokenized. In fact the world is becoming increasingly digital with trends such as 5G, iot, wearables and so forth. As a consequence, potentially more and more signals could be captured and analysed to tokenize the engagement of non-digital professions. Challenges provide a ready to go way to tokenize it by representing achievements in the physical world.
+Indeed, tokenization of engagement applies to any work. The world is becoming increasingly digital with trends such as 5G, IoT, wearables, etc. Consequently, the WoM will capture more and more work signals from low-digitalized professions. Challenges provide a ready-to-go way to tokenize it by representing achievements in the physical world.
 
-Any user can get MEED and use a Meeds wallet to get access to new age services without any special training.
+Anybody can earn MEED through their Meeds wallet and easily access a range of DeFi services with low entry friction.
