@@ -82,7 +82,7 @@ While MEED tokens are the standard form of reward, Hubs have the flexibility to 
 
 By engaging their users in the WoM, communities get compensated through an innovative mintium model.
 
-Engagement points gained by the Hubs' users participate in the global engagement index, calculated by the Meeds Association. The index uses the same principle for all Hubs. The differences in point values allocated to actions by communities do not influence the global index computation.
+Engagement points gained by the users participate in the global engagement index. The differences in point values allocated to actions by communities do not influence the global index computation.
 
 The WoM allocates some MEED tokens each week to the global engagement pool. It's computed weekly, pro-rata, among the participating Hubs. Some Hubs get an additional boost depending on their Deed type. The Hubs that claim their MEED tokens over the week receive them. The unclaimed MEED tokens augment the allocation for next week.
 
