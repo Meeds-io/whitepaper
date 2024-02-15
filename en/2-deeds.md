@@ -5,7 +5,7 @@
 
 In the digital realm, Non-Fungible Tokens (NFTs) serve a similar purpose to deeds in the physical world. Like a deed confirming tangible property ownership, NFTs establish indisputable ownership of digital assets. This ownership is securely recorded on a blockchain, ensuring each asset is unique and non-replicable.
 
-Within the WoM, a Deed is conceptualized as an NFT, representing the foundational unit of ownership. Holding a Deed empowers its owner to manage a Community Hub. It makes them eligible to receive Mintium rewards, a form of recognition and incentive within the WoM ecosystem (further details in section 2.6).
+Within the WoM, a Deed is conceptualized as an NFT, representing the foundational unit of ownership. Holding one empowers its owner to manage a __Community Hub__. Hubs are eligible to receive Mintium rewards, a form of sponsorship for communities that manage to genrate authentic engagement from their contributors (further details in section 2.6).
 
 The WoM is a diverse and inclusive platform. It welcomes various organizations, from DAOs, traditional businesses, and associations to think tanks, theater companies, project groups, and educational institutions. In this digital landscape, a Deed symbolizes the organization's digital presence and footprint. I works as a bridge between real-world operations and digital endeavors.
 
