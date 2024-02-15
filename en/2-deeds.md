@@ -36,7 +36,7 @@ Being an active holder or renter of a Deed, the organization is entitled to MEED
 
 Organizations seek to attract and retain top talent in today's competitive market through compensation and enhancing work engagement. The WoM addresses this challenge with a unique, tokenized reward system embodied in Community Hubs.
 
-Within these Hubs, community leaders can drive members' engagement by offering a transparent menu of incentives for work items. Participants earn engagement points for their efforts. The system then periodically converts these points into reward tokens per a predetermined budget.
+Within these Hubs, community leaders can drive members' engagement by offering a transparent menu of incentivized work items. Participants earn engagement points for their efforts. Then the system periodically converts these points into reward tokens per a predetermined budget.
 
 Community Hubs offer a suite of tools and features designed to boost and manage contributor engagement:
 
