@@ -54,7 +54,7 @@ Community Hubs offer a suite of tools and features designed to boost and manage 
 
 
 **Starting a Hub**
-Initiating a Hub is most seamless via meeds.io, which offers access to a cloud platform managed by the Meeds Association. However, the WoM caters to decentralization. Since the Meeds software is open source and freely distributed, organizations can self-host a Hub server and connect to the WoM network, granting them more control and customization in their Hub's setup and management.
+Initiating a Hub is most seamless via meeds.io, which offers access to a  managed cloud service. However, the WoM caters to decentralization. Since the Meeds software is open source and freely distributed, organizations can self-host a Hub server and connect to the WoM network, granting them more control and customization in their setup and management.
 
 **Capturing Work Signals**
 Hubs can integrate with various platforms like GitHub, Twitter, and Discord and are extendable via API to connect with services such as CRM software, accounting software, and clocking terminals. This extensibility allows for diverse professional contributions to be recognized and rewarded. All connectors undergo a verification process to guarantee integrity and functionality.
