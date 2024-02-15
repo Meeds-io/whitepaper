@@ -76,7 +76,7 @@ For example, an IT company might award 10 points for coding on GitHub, whereas a
 
 Regular reward distributions occur as contributors in each Hub earn the points. Users automatically receive MEED (or other) tokens in their wallets. 
 
-While MEED tokens are the standard form of reward, Hubs have the flexibility to offer different types of compensation. In that case, the protocol applies a nominal fee of 5%. This fee contributes to the Meeds treasury, playing a crucial role in maintaining the sustainability of the ecosystem.
+While MEED tokens are the standard form of reward, Hubs have the flexibility to offer different types of compensation. In that case, the protocol applies a nominal fee of 5%. This fee contributes to the treasury of the DAO, playing a crucial role in maintaining the sustainability of the ecosystem.
 
 ## 2.6. The "Mintium" model – tokenizing work engagement
 
