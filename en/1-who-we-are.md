@@ -9,7 +9,8 @@ The legal entity behind Meeds is the _Meeds Association_, a non-profit organizat
 
 The Meeds Association intends to progressively hand over control of the Meeds protocol and treasuries to the _Meeds DAO_, which is the decentralized autonomous organization that represents the decentralized governance arm of the Meeds ecosystem, empowering the community to participate in decision-making, proposal voting, and protocol upgrades.
 
-The relationship between the Meeds Association and Meeds DAO involves how they operate in the real world. The Meeds Association is a traditional organization with members and a board of directors under specific legal and regulatory frameworks. In the real world, the Meeds Association may organize events, provide services, and advocate for its members. It may also have a physical office and staff members. Meeds DAO, on the other hand, operates without a central authority and makes decisions through members' consensus using blockchain-based voting mechanisms. It may also engage in activities such as funding projects, managing assets, and making decisions through smart contracts.
+The relationship between the Meeds Association and the Meeds DAO involves how they operate in the real world. The Association is a traditional organization with members and a board of directors under specific legal and regulatory frameworks. It may organize events, provide services, and advocate for its members. It may also have a physical office and staff members. 
+Meeds DAO, on the other hand, operates without a central authority and makes decisions through members' consensus using blockchain-based voting mechanisms. It may also engage in activities such as funding projects, managing assets, and making decisions through smart contracts.
 
 The WoM is built as open-source software ([github.com/meeds-io](https://github.com/meeds-io)) and hosted by partners selected by the Meeds Association on behalf of the Meeds DAO.
 
