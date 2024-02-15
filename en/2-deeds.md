@@ -11,7 +11,7 @@ The WoM is a diverse and inclusive platform. It welcomes various organizations, 
 
 ## 2.2. Deeds supply
 
-The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a reward capacity (Minting Power). The term' user' here and hereafter designates any employee, worker, freelancer, volunteer, etc.
+The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a reward capacity (Minting Power). The term __'user'__ here and hereafter designates any employee, worker, freelancer, volunteer, etc.
 
 There are four types of Deeds, each providing different capabilities in terms of the number of users, voting rights in a city (see 2.7), or minting power, the rarest being the most powerful :
 
