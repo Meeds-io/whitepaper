@@ -70,7 +70,7 @@ Community Hubs in the WoM ecosystem aim to become central to community life, int
 
 ## 2.5. Rewarding Model
 
-The WoM incentivizes and gamifies user engagement across various work activities tailored to each community Hub's unique programs. Users earn points reflecting their active participation, with each community determining its own rules for point allocation.
+The WoM incentivizes and gamifies user engagement across various work activities tailored to each unique programs. Users earn points reflecting their active participation, with each community determining its own rules for point allocation.
 
 For example, an IT company might award 10 points for coding on GitHub, whereas a digital agency could place a higher value on social media engagement, like retweets, with similar points.
 
