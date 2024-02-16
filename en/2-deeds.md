@@ -3,19 +3,19 @@
 
 ## 2.1. Deed NFTs
 
-In the digital realm, Non-Fungible Tokens (NFTs) serve a similar purpose to deeds in the physical world. Like a deed confirming tangible property ownership, NFTs establish indisputable ownership of digital assets. This ownership is securely recorded on a blockchain, ensuring each asset is unique and non-replicable.
+In the digital realm, Non-Fungible Tokens (NFTs) function like physical world deeds. Confirming ownership of digital assets securely through a blockchain, they establish indisputable ownership, akin to tangible property deeds, ensuring each asset's uniqueness and non-replicability.
 
-Within the WoM, a Deed is conceptualized as an NFT, representing the foundational unit of ownership. Holding one empowers its owner to manage a __Community Hub__. Hubs are eligible to receive Mintium rewards, a form of sponsorship for communities that manage to genrate authentic engagement from their contributors (further details in section 2.6).
+In the context of the WoM, a Deed is conceptualized as an NFT, representing the foundational unit of ownership. Owning a Deed empowers individuals to manage a __Community Hub__. It qualifies them for Mintium rewards - a form of sponsorship for communities that generate authentic engagement with their members (further details in section 2.6).
 
-The WoM is a diverse and inclusive platform. It welcomes various organizations, from DAOs, traditional businesses, and associations to think tanks, theater companies, project groups, and educational institutions. In this digital landscape, a Deed symbolizes the organization's digital presence and footprint. I works as a bridge between real-world operations and digital endeavors.
+The WoM is a diverse and inclusive platform. It welcomes various organizations, from DAOs, traditional businesses, and associations to think tanks, theater companies, project groups, and educational institutions. A Deed symbolizes the organization's digital presence and footprint in this digital landscape. It works as a bridge between real-world operations and digital endeavors.
 
 ## 2.2. Deeds supply
 
 The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a reward capacity (Minting Power). The term __'user'__ here and hereafter designates any employee, worker, freelancer, volunteer, etc.
 
-There are four types of Deeds, each providing different capabilities in terms of the number of users, voting rights in a city (see 2.7), or minting power, the rarest being the most powerful :
+There are four types of Deeds, each providing different capabilities in terms of the number of users, voting rights in a __City__ (see 2.7), or minting power, the rarest being the most powerful :
 
-| **Deed Type** |  **Max users** |  **Minting power** |  **Scarcity** |  **City voting rights** | 
+| **Deed Type** |  **Max users** |  **Minting power** |  **Scarcity** |  **City Votes** | 
 | --- | --- | --- | --- | --- | 
 | Common | 100 |  1 |  ~ 90% |  1 | 
 | Uncommon | 1000 |  1.1 |  ~ 9% |  10 | 
@@ -34,15 +34,15 @@ Being an active holder or renter of a Deed, the organization is entitled to MEED
 
 ## 2.4. Community Hubs
 
-Organizations seek to attract and retain top talent in today's competitive market through compensation and enhancing work engagement. The WoM addresses this challenge with a unique, tokenized reward system embodied in Community Hubs.
+Organizations seek to attract and retain top talent in today's competitive market through compensation and enhancing work engagement. The WoM addresses this challenge with a distinctive tokenized reward system incorporated into Community Hubs.
 
-Within these Hubs, community leaders can drive members' engagement by offering a transparent menu of incentivized work items. Participants earn engagement points for their efforts. Then the system periodically converts these points into reward tokens per a predetermined budget.
+Within these Hubs, community leaders can drive members' engagement by offering a transparent menu of incentivized work items. Participants earn engagement points for their efforts. Then, the system periodically converts these points into reward tokens per a predetermined budget.
 
 Community Hubs offer a suite of tools and features designed to boost and manage contributor engagement:
 
 - **Actions**: Incentivized tasks guide contributors, aligning their efforts with organizational objectives and boosting motivation and direction.
 - **Gamification**: Leaderboards and badges transform work into a fun, competitive experience, enhancing engagement and enjoyment.
-- **Engagement Programs**: Customized programs with specific targets and rewards clarify organizational goals and fairly recognize contributor achievements.
+- **Engagement Programs**: Customized programs with specific targets and rewards clarify organizational goals and equitably recognize contributor achievements.
 - **Kudos**: Immediate peer recognition boosts morale and fosters a culture of appreciation, enhancing team cohesion and motivation.
 - **Spaces**: Organized sub-groups and projects streamline communication and collaboration, increasing collective productivity.
 - **Wallet**: The Wallet app securely stores MEED rewards, representing user contributions, and enables easy transactions within the Hub and on the broader network.
@@ -54,7 +54,7 @@ Community Hubs offer a suite of tools and features designed to boost and manage 
 
 
 **Starting a Hub**
-Initiating a Hub is most seamless via meeds.io, which offers access to a  managed cloud service. However, the WoM caters to decentralization. Since the Meeds software is open source and freely distributed, organizations can self-host a Hub server and connect to the WoM network, granting them more control and customization in their setup and management.
+Initiating a Hub is most seamless via meeds.io, which offers access to a managed cloud service. However, the WoM caters to decentralization. Since the Meeds software is open source and freely distributed, organizations can self-host a Hub server and connect to the WoM network, granting them more control and customization in their setup and management.
 
 **Capturing Work Signals**
 Hubs can integrate with various platforms like GitHub, Twitter, and Discord and are extendable via API to connect with services such as CRM software, accounting software, and clocking terminals. This extensibility allows for diverse professional contributions to be recognized and rewarded. All connectors undergo a verification process to guarantee integrity and functionality.
@@ -70,7 +70,7 @@ Hubs aim to become central to community life, integrating internal communication
 
 ## 2.5. Rewarding Model
 
-The WoM incentivizes and gamifies user engagement across various work activities tailored to each unique programs. Users earn points reflecting their active participation, with each community determining its own rules for point allocation.
+The WoM incentivizes and gamifies user engagement across various work activities tailored to each unique program. Users earn points reflecting their active participation, with each community determining its own rules for point allocation.
 
 For example, an IT company might award 10 points for coding on GitHub, whereas a digital agency could place a higher value on social media engagement, like retweets, with similar points.
 
@@ -107,26 +107,28 @@ The global engagement index used to distribute minted MEED among the Hubs is the
 The formula above is simple and designed to favor hubs :
 
 - with lots of engaged users (engagement)
-- who share the whole minting income (distribution rate) fairly with their users (distribution spread).
+- who share the whole minting income (distribution rate) equitably with their users (distribution spread).
 
 Additionally, boosters are in place for the following:
 
 - organizations with the highest engagement, regardless of their size (engagement rate compared to the WoM average)
 - scarcer deeds
 
-> The Meeds Association reserves the right to change the formula if required – if some specific use cases arise. The protocol has slashing routines to exclude bad actors.
+The formula will evolve and be tuned to optimize and limit bargain effects and abuses. Additionally, the protocol will also implement slashing routines to exclude bad actors.
 
 As the Hubs are rewarded with MEED and incentivized to redistribute them as rewards to their users against their engagement – the interests of both the communities and their users are aligned in the same virtuous revenue-sharing cycle. Thus, the WoM offers a new work model that reshapes the employer/employee relationship as a partnership.
 
 The "Mintium" model goes further than the freemium model, as the services are free to use, and it rewards both organizations and their members for using them.
 
-## 2.7. Cities and governance
+## 2.7. Cities and Governance
 
-In the WoM, Deeds are in limited quantities but will be generated gradually inside virtual cities. Only the first city will exist from the start. The protocol will build 7 cities, each with a predetermined number of Deeds of each type.
+In the World of Meeds, Deeds are like real estate properties inside virtual cities where communities can settle.
 
-A city is complete once all of its Deeds have been minted. Then, the minting of each new city will start $2^n$ months after the last Deed of the $n-1$ city was minted.
+They come in limited quantities and can only exist when someone redeems them with the minting point they accumulate by staking. 
 
-| **City name** |  **Deeds** |  **Available** |  **Common** |  **Uncommon** | **Rare** | **Legendary** | 
+The WoM will have **7** successive phases of Deed minting that we call __Cities__. When the protocol mints the last Deed of a City, it pauses $2^n$  months before it allows the minting of the $n^th$ City. 
+
+| **City name** |  **Deeds** |  **Available** |  **Common** |  **Uncommon** | **Rare** | **Legendary** |
 | --- | --- | --- | --- | --- | --- | --- | 
 | 1: Tanit | 100 | T0 | 50 | 30 | 13 | 7 |   
 | 2: Reshef| 1 000  | Tanit + 4 months | 600 | 300 | 94 | 6 |   
@@ -135,18 +137,24 @@ A city is complete once all of its Deeds have been minted. Then, the minting of 
 | 5: Eshmun | 1 000 000 | Melqart + 32 months | 600 000 | 300 000 | 99 997 | 3 |   
 | 6: Kushor | 10 000 000 | Eshmum + 64 months | 6 000 000 | 3 000 000 | 999 998 | 2 |   
 | 7: Hammon | 100 000 000 | Kushor + 128 months | 60 000 000 | 30 000 000 | 9 999 999 | 1 |   
-     
-A city is a way for the communities to unite and create a larger community. And as a consequence, acquire a specific identity associated with that community.
-It is also a way to provide additional value to its users, which would go beyond one community's capabilities or value created through cooperation between the communities.
 
-Each city has independent governance and operates as a subDAO. The Deed owners of the city can vote to elect a council and establish their own operating rules. To increase the city's attractiveness and the value of their Deeds, they can add new services beyond the Hub's essential services and thus shape the city the way they want. 
+A City is a way for the communities to unite and create a larger community. And as a consequence, acquire a specific identity associated with that community.
+It is also a way to provide additional value to its users, which would go beyond one community's capabilities or value created through community cooperation.
 
-For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces, for instance), food services, vacation services, etc.
+Each City has independent governance and operates as a subDAO. Citizens will elect a council and vote on their own operating rules. This decentralized governance allows Cities to evolve independently, develop a custom range of services for their citizens, and increase the value of the Deeds. 
 
-By default (unless the city votes otherwise), passive income from renting out Deeds will be "taxed" by the city (5%) and the association (3%) to encourage productive use.
+For example, they could add physical counterparts in the real world, such as access to meeting rooms in physical co-working spaces,  catering services, travel services, etc.
 
-The WoM protocol imposes a **tax of 6% on all Deed sales**, redistributed like this :
+## 2.8 Taxes
 
-- 2.5% for the city DAO treasury, 
-- 2.5% for the Meeds DAO treasury, 
-- 1% for the original wallet that redeemed the Deed.
+
+**8%** tax will be levied on Deed rental income : 
+
+- **5%** for the City's treasury, 
+- **3%** for the Meeds DAO treasury, 
+
+**6%** tax will be levied on Deed sale income : 
+
+- **2.5%** for the City's treasury, 
+- **2.5%** for the Meeds DAO treasury, 
+- **1%** for the original wallet that redeemed the Deed.
