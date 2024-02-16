@@ -1,32 +1,57 @@
 # 3. The MEED token – the currency of the WoM
 
-The MEED token (pronounced "Meeds") is the currency that powers the WoM. Users are rewarded with MEED (through engagement programs), purchase in stores, get Deeds, get financial returns on investments, and more.
+The MEED token (pronounced "Meeds") is the currency that powers the WoM. It has various utilities : 
+
+- Rewards users' engagement
+- Purchases in perks stores
+- Deed minting
+- Hub rentals 
+- Rewards for staking (yields)
+- Reward for providing liquidity
+
 
 ## 3.1. Tokenomics
 
-The **maximum supply of MEED is limited to 100 million tokens**, minted progressively. 
+**Maximum Supply**
+The **maximum supply of MEED is limited to 100 million tokens**, minted progressively over time. 
 
-The Meeds Association has minted 5 Million MEED (5% of the total supply) at the start to acquire software IP from the funding members, pay for token emission legal fees, and hosting services. 
-Then, it locked 4.5 Million in a vault contract with a linear vesting over four years.
+**Initial Supply**
+We initially minted 5 Million MEED, which is **5% of the total supply**, to boost the operations : 
+
+- Legal fees for incorporating the Meeds Association
+- Legal opinion for the token
+- IP purchases
+- IT services
+- liquidity pool seeding
+
+Then, we locked 4.5 Million MEED in a vault contract with a linear vesting over four years.
 
 Since then, a smart contract called **the __Token Factory__ performs minting of **MEED tokens at a constant rate**. 
 
-The minting rate is a parameter of the Token Factory, set at *10 MEED per minute* at the start. A vote of the DAO may change this rate in the future. 
-At such rate, the Token Factory mints around 5 Million MEED yearly (10*60*24*365); thus, the minting horizon is nearly 20 years.
+**Minting Scheme**
 
-## 3.2. Minting allocation
+A multi-sig contract called the __Token Factory__ controls the MEED token supply '(mint and burn). 
 
-The Token Factory also rules the allocation of minted MEED tokens to  three categories of stakeholders :
+It uses a continuous minting scheme at *10 MEED per minute*. At such rate, the Token Factory mints around 5 Million MEED yearly (10*60*24*365); thus, the minting horizon is nearly 20 years.
 
-- **Builders**: Contributors of the Meeds DAO that help build and run the WoM
-- **Users**: Members in all communities of the WoM earn MEED as rewards for their contributions
-- **Investors**: The Meeds DAO incentivizes MEED token owners to stake MEED or provide liquidity for the Meeds economy 
+A vote of the DAO may change this rate in the future. 
 
-Each category of stakeholders receives a share of the MEED supply, which is subject to votes by the DAO.
+
+## 3.2. Minting Allocation
+
+The Token Factory also rules the allocation of minted MEED tokens to  incentivize three categories of stakeholders :
+
+- **Builders**:  contribute to build and promote Meeds
+- **Users**: engage in their communities
+- **Investors**: support us with liquidity and token purchases
+
+Each category of stakeholders receives a share of the supply, which is subject to votes by the DAO.
 
 ## 3.3. Users
 
-Part of the continuously minted MEED tokens is allocated to sponsor user engagement through the Mintium model (see 2.6). A global engagement index is calculated periodically across all Hubs of the WoM to allocate MEED rewards to the Hubs. Mintium rewards are claimable by Hub leaders and Deed owners.
+Part of the continuously minted MEED tokens is allocated to sponsor user engagement through the Mintium model (see 2.6). 
+
+A global engagement index is calculated periodically across all Hubs of the WoM to allocate MEED rewards to the Hubs. Mintium rewards are claimable by Hub leaders and Deed owners.
 
 ## 3.4. Builders
 
@@ -101,17 +126,17 @@ xMEED token holders can freely participate in the governance of the Meeds DAO by
 
 ## 3.7. Decentralized finance (DeFi) user services
 
-The WoM will introduce the blockchain world to many people who do not use it today.
+Our approach allows us to quantify and set a monetary value on virtually any kind of contribution (whether digital or not) and reward it with tokens.
 
-Indeed, the Meeds software can gamify and set a monetary value on any contribution (whether it is digital or not) and reward it with MEED tokens. 
+Although we leverage Web3 and blockchain technology, we aim to make it seamless for users. That's why Hubs provides an easy-to-use wallet app and an internal perks store that simplifies the management of reward tokens for contributors. 
 
-An easy-to-use, blockchain-based wallet app simplifies the management of MEED tokens for contributors. Therefore,  Meeds offers anybody a safe entry to the complex crypto world of crypto-currencies.
+Therefore,  Meeds offers a safe and transparent entry to the complex crypto world of crypto-currencies to many users who have never been exposed to it yet.
 
-Beyond the wallet and a store where they can purchase perks for MEED tokens, we plan to introduce every user to several end-user products powered by the Decentralized Finance (DeFi) protocols, such as:
+We plan to introduce more end-user products powered by the MEED and XMEED tokens through Decentralized Finance (DeFi) protocols, such as:
 
-- The ability to stake MEED tokens and generate passive income (yields)
-- The ability to use MEED tokens as collateral to borrow stablecoins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the MEED token to [AAVE](https://aave.com/).
-- A digital card can be added and used through Apple Pay, Google Pay, or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by xMEED holdings. Organizations could also use this card to fund employee wallets to manage employee benefits such as restaurants, transportation, and other expenses.
+- Earn yields by staking earned tokens
+- Borrow by using earned tokens as collateral
+- Pay in real life with a credit card backed by your holdings
 
-So, not only will many new users discover the blockchain world, but they will also discover a bankless world.
+So, not only will many new users discover how to earn tokens, but they will also discover a bankless world.
 
