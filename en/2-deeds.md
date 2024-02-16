@@ -1,5 +1,5 @@
 
-# 2. Deeds - The Properties of the WoM
+# 2. Deeds - The Properties
 
 ## 2.1. Deed NFTs
 
@@ -9,7 +9,7 @@ In the context of the WoM, a Deed is conceptualized as an NFT, representing the 
 
 The WoM is a diverse and inclusive platform. It welcomes various organizations, from DAOs, traditional businesses, and associations to think tanks, theater companies, project groups, and educational institutions. A Deed symbolizes the organization's digital presence and footprint in this digital landscape. It works as a bridge between real-world operations and digital endeavors.
 
-## 2.2. Deeds supply
+## 2.2. Deeds Supply
 
 The WoM will ultimately supply a limited amount of Deeds. Each Deed includes a predefined maximum number of users and offers a reward capacity (Minting Power). The term __'user'__ here and hereafter designates any employee, worker, freelancer, volunteer, etc.
 
@@ -22,7 +22,7 @@ There are four types of Deeds, each providing different capabilities in terms of
 | Rare | 10 000  | 1.3  |   ~ 1% |  100 | 
 | Legendary | unlimited |  2 |  < 0.1 % |  1000 | 
 
-## 2.3. Deeds ownership
+## 2.3. Deeds Ownership
 
 A Deed gives its owner the right to USE, RENT, or SELL it.
 
@@ -78,9 +78,9 @@ Regular reward distributions occur as contributors in each Hub earn the points. 
 
 While MEED tokens are the standard form of reward, Hubs have the flexibility to offer different types of compensation. In that case, the protocol applies a nominal fee of 5%. This fee contributes to the treasury of the DAO, playing a crucial role in maintaining the sustainability of the ecosystem.
 
-## 2.6. The "Mintium" model – tokenizing work engagement
+## 2.6. The Mintium
 
-By engaging their users in the WoM, communities get compensated through an innovative mintium model.
+By engaging their users in the WoM, communities get compensated through an innovative "Mintium" model.
 
 Engagement points gained by the users participate in the global engagement index. The differences in point values allocated to actions by communities do not influence the global index computation.
 
@@ -120,7 +120,7 @@ As the Hubs are rewarded with MEED and incentivized to redistribute them as rewa
 
 The "Mintium" model goes further than the freemium model, as the services are free to use, and it rewards both organizations and their members for using them.
 
-## 2.7. Cities and Governance
+## 2.7. Cities
 
 In the World of Meeds, Deeds are like real estate properties inside virtual cities where communities can settle.
 
@@ -145,8 +145,7 @@ Each City has independent governance and operates as a subDAO. Citizens will ele
 
 For example, they could add physical counterparts in the real world, such as access to meeting rooms in physical co-working spaces,  catering services, travel services, etc.
 
-## 2.8 Taxes
-
+## 2.8. Taxes
 
 **8%** tax will be levied on Deed rental income : 
 

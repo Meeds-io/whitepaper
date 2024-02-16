@@ -1,4 +1,4 @@
-# 5. The WoM for All – Vision Summary and Roadmap
+# 5. Vision Summary and Roadmap
 
 ## 5.1. Decentralized Work for Everyone
 
@@ -18,17 +18,9 @@ As a picture is worth a thousand words, here is a diagram that describes the WoM
 
 The WoM will raise taxes on the generated value to ensure its long-term availability and sustainability.
 
-## 5.2. What's in it for Early Adopters
 
-Early adopters get considerable advantages over the latecomers.
+## 5.2. Investment Strategies
 
-In particular, the WoM rewards long-term investment in the verse – the redeeming of Deeds. A Deed's original owner gets compensated through engagement minting (active use) through passive income (renting) and perceives a perpetual 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer receives a fee on the transaction).
-
-Early investors have participated in the liquidity pools to support the Meeds project. They also staked their MEED tokens and minted the first Deeds. Since day one, the protocol had built-in incentives to reward them. They also earn substantial influence in the DAO through governance tokens.
-
-Organizations using Deeds and playing a fair game to engage and reward their contributors earn MEED tokens. The earlier adopters will be associated with the first historic cities and later recognized as the founding builders.
-
-## 5.3 Investment Strategies
 The diagram below represents an example of the **Meeds investment strategy for capital holders** : 
 
 ![Meeds investment strategy for capital holders](en/img/invest-capital.png)
@@ -39,7 +31,7 @@ The diagram below represents an example of the *Meeds investment strategy for wo
 
 ![Meeds investment strategy for work holders](en/img/invest-work.png)
 
-## 5.4. The launch
+## 5.3. The launch
 
 The official launch of the WoM was purposedly scheduled for **May 1st, 2022** – International Workers Day, celebrated in many countries.
 
@@ -49,6 +41,16 @@ The primary protocol for Inverstor's incentives is available on Ethereum Mainnet
 
 The Builders community is up and running and open to anyone wanting to join, test, and participate. It is possible to log in with Metamask.
 
+## 5.4. Benefits for Early Adopters
+
+Early adopters get considerable advantages over the latecomers.
+
+In particular, the WoM rewards long-term investment in the verse – the redeeming of Deeds. A Deed's original owner gets compensated through engagement minting (active use) through passive income (renting) and perceives a perpetual 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer receives a fee on the transaction).
+
+Early investors have participated in the liquidity pools to support the Meeds project. They also staked their MEED tokens and minted the first Deeds. Since day one, the protocol had built-in incentives to reward them. They also earn substantial influence in the DAO through governance tokens.
+
+Organizations using Deeds and playing a fair game to engage and reward their contributors earn MEED tokens. The earlier adopters will be associated with the first historic cities and later recognized as the founding builders.
+
 
 ## 5.5. The Builders Community
 
@@ -56,7 +58,7 @@ We have launched the Meeds DAO community on the [Builders Hub](builders.meeds.io
 
 The Builders' Hub participates in the user engagement minting like any other hub and thus receives. It aspires to be an exemplary community and inspire others to set better standards of working together to create value and a positive impact on the world.
 
-## 5.5. Roadmap and Milestones
+## 5.6. Roadmap and Milestones
 
 Our roadmap would follow the priority order below:
 
@@ -70,7 +72,7 @@ During the building stage, we rely on early adopters from the DAOs and tech-savv
 
 MEED minting spans 20 years. We aspire to develop a mature ecosystem and extend its reach to numerous organizations and workers worldwide.
 
-## 5.6. What you can do right now
+## 5.7. What you can do right now
 
 What can you do right now to participate?
 

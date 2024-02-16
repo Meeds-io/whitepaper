@@ -1,4 +1,4 @@
-# 3. The MEED token – the currency of the WoM
+# 3. The Meeds Token
 
 The MEED token (pronounced "Meeds") is the currency that powers the WoM. It has various utilities : 
 
@@ -36,24 +36,23 @@ It uses a continuous minting scheme at *10 MEED per minute*. At such rate, the T
 
 A vote of the DAO may change this rate in the future. 
 
-
 ## 3.2. Minting Allocation
 
-The Token Factory also rules the allocation of minted MEED tokens to  incentivize three categories of stakeholders :
+The Token Factory also rules the allocation of the minted MEED tokens to incentivize three categories of stakeholders :
 
-- **Builders**:  contribute to build and promote Meeds
+- **Builders**: contribute to build and promote Meeds
 - **Users**: engage in their communities
 - **Investors**: support us with liquidity and token purchases
 
 Each category of stakeholders receives a share of the supply, which is subject to votes by the DAO.
 
-## 3.3. Users
+## 3.3. Users Reserve
 
 Part of the continuously minted MEED tokens is allocated to sponsor user engagement through the Mintium model (see 2.6). 
 
 A global engagement index is calculated periodically across all Hubs of the WoM to allocate MEED rewards to the Hubs. Mintium rewards are claimable by Hub leaders and Deed owners.
 
-## 3.4. Builders
+## 3.4. Builders Reserve
 
 The Meeds DAO operates the WoM and the MEED token supply. 
 A multi-sig smart contract called the _Meeds DAO Funds_ manages the operating expenses. It receives **30% of the minted MEED** to support Builders.
@@ -73,8 +72,7 @@ After the minting period is over, the operational costs of the Meeds DAO will be
 - perceiving transaction fees when a Hub distributes alternative tokens on their Hubs
 - renting and selling the Deeds that the DAO minted over time.
 
-
-## 3.5. Investors
+## 3.5. Investors Reserve
 
 Investors support the WoM by providing liquidity and staking MEED tokens, which helps stabilize the price level during the building phase. Incentives are in place for both:
 
@@ -120,11 +118,11 @@ These accrue rates lead to the following holding time for each class of holder :
 | Rare | 50 000 pts | 156 days | 10 months | 5 years |
 | Legendary | 100 000 pts | 311 days | 20 months | 10 years |
 
-## 3.6. Meeds DAO governance
+## 3.6. Meeds DAO Governance
 
 xMEED token holders can freely participate in the governance of the Meeds DAO by voting with their tokens on decisions such as managing the budget allocation or electing DAO board members.
 
-## 3.7. Decentralized finance (DeFi) user services
+## 3.7. DeFi Services
 
 Our approach allows us to quantify and set a monetary value on virtually any kind of contribution (whether digital or not) and reward it with tokens.
 

@@ -1,6 +1,6 @@
-# 4. Xeeds - WoM Citizens
+# 4. Xeeds - The Citizens
 
-## 4.1. Decentralized and self-sovereign models
+## 4.1. Self-sovereign Identity
 
 We recognize privacy as a fundamental human right and empower users to own their data.
 
@@ -12,7 +12,7 @@ Xeeds are self-declarative and require no default KYC (__Know Your Customer__) p
 
 However, communities that need it can hire third-party firms providing this service or use protocols such as __Proof of Humanity__.
 
-## 4.2. Badges and Credentials
+## 4.2. Recognition Tokens
 
 In today's world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they depend on social reputation. Typically, a manager or peer provides a recommendation. It requires goodwill from the relative but rarely constitutes definitive proof for the future employer.
 
@@ -33,7 +33,7 @@ The Hub or peer members will sign these credentials to endorse them officially a
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Verifiable Credentials Data Model
 
-## 4.3. Digital Work Identity
+## 4.3. Digital Worker Identity
 
 All of the above contributes to forming a proven digital skillset that users can keep and use when changing jobs or freelancing. It is more trustworthy than traditional solutions because it relies on an entire community to prove it.
 
@@ -63,7 +63,7 @@ The engagement recognition and reward mechanism is transparent and applies equit
 
 Thanks to blockchain technology, taking back earned rewards and badges is impossible.
 
-## 4.6. Access to Web3, Crypto Economy, and DeFi services
+## 4.6. DeFi Accessibility
 
 The WoM opens the world of cryptocurrency and decentralized web services to anyone – a substantial population of workers, even possibly unrelated to the digital field.
 
