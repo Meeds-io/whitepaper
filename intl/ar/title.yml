@@ -1,13 +1,13 @@
 ---
-title: The World of Meeds
-subtitle: a decentralized platform for the future of work
-author: Meeds DAO
-date: 2024-02-14 - Version 2.0.0-alpha2
+title: عالم الحبوب
+subtitle: ألف - منهاج عمل لامركزي لمستقبل العمل
+author: ميت داو
+date: 2024-02-14 الإصدار 2.0.0-ألفا2
 toc-title: جدول المحتويات
 language: ar
 toc-own-page: true
 titlepage: true
-titlepage-text-color: "FFFFFF" ## black
+titlepage-text-color: "FFFFF" ## black
 titlepage-rule-color: "F97575" ## deep green
 titlepage-color: "3F8487"
 titlepage-logo: "img/meeds-logo-transparent.png"
