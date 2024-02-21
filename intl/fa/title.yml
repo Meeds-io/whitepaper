@@ -1,15 +1,15 @@
 ---
-title: The World of Meeds
-subtitle: a decentralized platform for the future of work
-author: Meeds DAO
-date: 2024-02-14 - Version 2.0.0-alpha2
+title: دنیای نیازها
+subtitle: یک پلتفرم غیرمتمرکز برای آینده کار
+author: نیاز به DAO
+date: 2024-02-14-نسخه 2.0.0-alpha2
 toc-title: فهرست مطالب
 language: fa
 toc-own-page: true
 titlepage: true
 titlepage-text-color: "FFFFFF" ## black
-titlepage-rule-color: "F97575" ## deep green
-titlepage-color: "3F8487"
+titlepage-rule-color: "بله بله" ## deep green
+titlepage-color: "3 نقره 487"
 titlepage-logo: "img/meeds-logo-transparent.png"
 papersize: letter
 colorlinks: true
