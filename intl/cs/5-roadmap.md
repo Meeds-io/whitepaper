@@ -1,62 +1,64 @@
-# 5. WoM pro VŠECHNY – přehled zraků a milníky
+# 5. Vision Summary and Roadmap
 
-## 5.1. Ultimátní cíl - Decentralizovaný web pro všechny
+## 5.1. Decentralized Work for Everyone
 
-WoM je nakonec decentralizovaný webový svět pro všechny – každý člověk a všechny organizace.
+Ultimately, the WoM is a decentralized workplace for everyone – every person and all organizations.
 
-Bude osídlen uživateli, jednající prostřednictvím jejich digitální identity **Xeeds** a přistupující ke světu prostřednictvím svých metamasků, pro krypto-savvie, nebo přihlašovací jméno/heslo pro nové. Lidé by svou angažovanost alokovali a odměňovali spravedlivým, transparentním a decentralizovaným způsobem. Získali by snadný a dobře známý přístup k decentralizovanému světu a kryptoměnám zítřka - získali by jednoduché nástroje, které by použily své žetony v životě nebo by je investovali do své budoucnosti.
+It will be populated by users, acting through their digital identities and accessing the world through their Metamask for crypto-savvies or login/password for the newbies.
 
-Organizace by dokázaly získávat talenty, procházet se WM a správně dokázat dovednosti. Za svou účast ve WoM by byli odměněni ražením tokenů prostřednictvím zapojení uživatelů (model mintium). Ze všeho nejvíce by však měli prospěch z vyššího zapojení a loajality svých uživatelů.
+People would allocate their time and be rewarded fairly and transparently for their work. They would get access to the decentralized world and the crypto world quickly and familiarly - they would get simple tools to use their tokens in their lives or invest in them for their future.
 
-WoM by měl vlastní měnu **MEED** – která by byla k utrácení v obchodech, přeměnit na jinou měnu, investovat do návratnosti investic, nájemného nebo koupě atd. WoM by také usnadnil distribuci dalších žetonů a podílel by se na celkovém ekosystému kryptoměn.
+Organizations will more efficiently source talents, browsing through the WoM for the right proven skills. The "Mintium" tokens will reward them for creating the conditions of genuine engagement and participation. But above all, they would benefit from higher engagement and loyalty from their contributors.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and MEED token flows
+The WoM has its currency,  the **MEED** –  to spend in stores, swap with other currencies, invest, rent or buy, etc. The WoM also facilitates distributing other tokens and participating in the global crypto ecosystem.
 
-![WoM a Meeds toky](en/img/wom-flows.png)
+As a picture is worth a thousand words, here is a diagram that describes the WoM and MEED token flows:
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds Association and the Cities.
+![WoM and Meeds flows](en/img/wom-flows.png)
 
-## 5.2. Co je v ní pro rané osvojitele
+The WoM will raise taxes on the generated value to ensure its long-term availability and sustainability.
 
-Je zřejmé, že včasní uživatelé by získali značné výhody oproti opozdilcům.
 
-Konkrétně WoM odměňuje dlouhodobé investice na verše – to je umoření nemovitosti (listy). Původní vlastník listiny získá kompenzaci prostřednictvím těžby (aktivní použití), prostřednictvím pasivního příjmu (pronájem) a získejte celoživotně dlouhé 1% u každé prodejní transakce listiny (při každé změně vlastnictví), původní umořitel obdrží poplatek za transakci.
+## 5.2. Investment Strategies
 
-Tím, že věří v tento projekt, zapojí se do likviditních fondů. Tím, že se v něm ocitnou žetony, je umořují proti Deeds... raní investoři všech velikostí by vymýšleli další žetony. Získali by také první hlasovací práva a pomohli by utvářet WoM.
-
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted MEED. Čím spravedlivější budou hrát, tím více získají. Dřívější adopci by byli spojeni s prvními historickými městy a byli by identifikováni jako stavitelé později.
-
-Níže uvedený diagram představuje příklad investiční strategie společnosti Meeds pro držitele kapitálu:
+The diagram below represents an example of the **Meeds investment strategy for capital holders** :
 
 ![Investiční strategie Meeds pro držitele kapitálu](en/img/invest-capital.png)
 
-Organizace se samozřejmě mohou účastnit fondů likvidity, ale mohou se také připojit ke komunitě stavitelů a získat za své zapojení další odměny.
+Organizations can, of course, participate in liquidity pools but also join the community of builders and get additional engagement rewards there.
 
-Níže uvedený diagram představuje příklad investiční strategie společnosti Meeds pro držitele práce :
+The diagram below represents an example of the *Meeds investment strategy for workers** :
 
 ![Investiční strategie Meeds pro držitele práce](en/img/invest-work.png)
 
 ## 5.3. Spuštění
 
-Oficiálním zahájením WoM bylo **1. května 2022** – Mezinárodní den pracujících, který se v mnoha zemích slavil.
+The official launch of the WoM was purposedly scheduled for **May 1st, 2022** – International Workers Day, celebrated in many countries.
 
-V té době již MEED token existoval. Je možné ho získat a skupiny likvidity jsou otevřeny pro účast v sítích Polygon a Ethereum.
+V té době již MEED token existoval. It was possible to acquire it, and liquidity pools are open for participation on Polygon and Ethereum networks.
 
-Three Meeds Association members use the system internally to engage and reward their users and improve the Meeds software.
+The primary protocol for Inverstor's incentives is available on Ethereum Mainnet. At launch, it included staking, liquidity rewards, minting points accumulation, and redeeming of Deeds.
 
-Aplikace Investor je k dispozici na Ethereum Mainnet. Při spuštění zahrnuje sázky, odměny za likviditu, hromadění bodů a umořování činů.
+The Builders community is up and running and open to anyone wanting to join, test, and participate. It is possible to log in with Metamask.
 
-Komunita Stavitelů je spuštěna a je otevřena každému, kdo by se chtěl připojit, otestovat a zúčastnit. Je možné se přihlásit přes Metamask.
+## 5.4. Benefits for Early Adopters
 
-Tento dokument byl původně zveřejněn v den zahájení. Po spuštění bude token vyhozen mnoha lidem napříč krypto komunitou.
+Early adopters get considerable advantages over the latecomers.
 
-## 5.4. Komunita stavitelů
+In particular, the WoM rewards long-term investment in the verse – the redeeming of Deeds. A Deed's original owner gets compensated through engagement minting (active use) through passive income (renting) and perceives a perpetual 1% on any selling transaction of the Deed (at each change of ownership, the original redeemer receives a fee on the transaction).
 
-Spouštíme komunitu tvůrců na softwaru Meeds a na Discordu. Komunita vítá každého, kdo se chce podílet na budování WoM. Sdružení by ocenilo spolupráci stavitelů s Meeds z jeho marketingového rozpočtu.
+Early investors have participated in the liquidity pools to support the Meeds project. They also staked their MEED tokens and minted the first Deeds. Since day one, the protocol had built-in incentives to reward them. They also earn substantial influence in the DAO through governance tokens.
 
-The association plans also to stake some MEED in order to acquire (redeem) a Deed for the builders community. The community will then mint MEED by engagement, through the mintium model, and distribute them to engaged users.
+Organizations using Deeds and playing a fair game to engage and reward their contributors earn MEED tokens. The earlier adopters will be associated with the first historic cities and later recognized as the founding builders.
 
-## 5.5. Plán a milníky
+
+## 5.5. The Builders Community
+
+We have launched the Meeds DAO community on the [Builders Hub](builders.meeds.io) and [Discord](https://discord.com/invite/7d9Byf4Fz6). The community welcomes anyone who wants to participate in the WoM building. The DAO will reward any builders' engagement with MEED tokens.
+
+The Builders' Hub participates in the user engagement minting like any other hub and thus receives. It aspires to be an exemplary community and inspire others to set better standards of working together to create value and a positive impact on the world.
+
+## 5.6. Roadmap and Milestones
 
 Náš plán by se řídil pořadím priorit níže:
 
@@ -64,23 +66,22 @@ Náš plán by se řídil pořadím priorit níže:
 - Povolit pronájem Deeds
 - Vytvoření Xeed
 - Zlepšení odznaků a vývoj pověření
-- Služby DeFi - v peněžence, partnerství s kreditními kartami
+- DeFi services – in the wallet, credit card partnership
 
-Spoléháme na rané osvojitele DAOs a technologicky úsporných společností ve fázi výstavby. Měli bychom také mít několik prvních osvojitelů z tradičních společností, které získávají okamžitou hodnotu z WoM tím, že svým lidem poskytují relevantní programy zapojení, nad rámec jejich současných tradičních plánů odměňování.
+During the building stage, we rely on early adopters from the DAOs and tech-savvy companies. Additionally, we anticipate early adopters from traditional companies benefiting immediately from the WoM. They can enhance engagement programs for their employees alongside existing compensation plans.
 
-MEED minting spans a 20 year period. Do té doby chceme dosáhnout vybudování vyspělého ekosystému, který se rozšířil do mnoha organizací a mnoha uživatelů po celém světě.
+MEED minting spans 20 years. We aspire to develop a mature ecosystem and extend its reach to numerous organizations and workers worldwide.
 
-## 5.6. Co můžete udělat právě teď
+## 5.7. What you can do right now
 
-Co můžete udělat právě teď, abyste se zapojili?
+What can you do right now to participate?
 
 - Rozšiřte tento dokument mezi ty, kteří by o něj měli zájem
 - Navštivte naše webové stránky [meeds.io](https://www.meeds.io/)
-- Podívejte se na [Investor app](https://meeds.io/investors)
 - Přispívejte do stávajících fondů likvidity zde :
-  - [Cometh Swap](https://swap.cometh.io/)
-  - [Sushi Swap](https://sushi.com)
-- Připojte se k naší [Discord](https://discord.com/invite/hAuADSq3) komunitě a mějte ve smyčce
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some MEED engagement rewards
+  - [ComethSwap](https://swap.cometh.io/)
+  - [UniSwap](https://uniswap.org)
+- Join our [Discord](https://discord.com/invite/7d9Byf4Fz6) server
+- Join our [Builders Hub](https://meeds.io/builders) to experience what fair rewards for contributions means and earn your first MEED tokens
 
-**\*\*\* The WoM – pojďme společně vybudovat tento bláznivý budoucí svět. \*\*\***
+**\*\*\* The WoM - let's build a world to work better together \*\*\***
