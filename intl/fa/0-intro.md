@@ -1,37 +1,53 @@
 ## خلاصه
 
-The current work market is inefficient due to high transaction costs and frequent conflicts of interest between employers and employees. It can be expensive and time-consuming to carry out job-related activities, and there are often disagreements or competing interests between those who hire workers and the workers themselves.
+بازار کار فعلی به دلیل هزینه های بالای مبادله و تضاد منافع مکرر بین کارفرمایان و کارکنان ناکارآمد است.بازار کار فعلی به دلیل هزینه های بالای مبادله و تضاد منافع مکرر بین کارفرمایان و کارکنان ناکارآمد است. انجام فعالیت های مرتبط با شغل می تواند پرهزینه و وقت گیر باشد و اغلب اختلاف نظرها یا منافع رقابتی بین کسانی که کارگران را استخدام می کنند و خود کارگران وجود دارد.انجام فعالیت های مرتبط با شغل می تواند پرهزینه و وقت گیر باشد و اغلب اختلاف نظرها یا منافع رقابتی بین کسانی که کارگران را استخدام می کنند و خود کارگران وجود دارد.
 
-The World of Meeds (WoM) proposes a new paradigm to address these issues by reducing transaction costs and reinventing working relationships. It is a digital space that bridges the gap between traditional companies and new forms of organization by bringing a fair and transparent incentive system that realigns the interests of all parties.
+WoM (دنیای نیازها) یک الگوی جدید برای کاهش هزینه های معامله و اختراع مجدد روابط کاری پیشنهاد می کند. شکاف بین شرکت‌های سنتی و اشکال جدید سازمان‌دهی را با پیشنهاد یک سیستم تشویقی منصفانه و شفاف که منافع همه طرف‌ها را دوباره هماهنگ می‌کند، پر می‌کند.
 
 ## معرفی
 
-The current state of the work market fails to satisfy both workers and employers[^1][^2][^3].
+وضعیت فعلی بازار کار هم کارگران و هم کارفرمایان را راضی نمی کند[^1][^2][^3].
 
-Workers face difficulties in finding suitable job opportunities, as the job market tends to favor specific individuals, leaving great skill sets behind due to various human biases such as race, gender, disability, introversion, and more.
+کارگران در یافتن فرصت‌های شغلی مناسب با مشکلاتی روبرو هستند، زیرا بازار کار به نفع افراد خاص است و مجموعه مهارت‌های زیادی را به دلیل سوگیری‌های مختلف انسانی مانند نژاد، جنسیت، ناتوانی، درون‌گرایی و موارد دیگر پشت سر می‌گذارد.
 
-Additionally, there is a lack of transparency in available positions and employment conditions. Once employed, workers often have little say in their work hours, workplace, content, or methods. Moreover, there is a perceived lack of fairness in compensation rules due to the lack of transparency. Career progress and compensation depend on the immediate manager's good faith and objectivity, leading to a lack of trust and cooperation.
+علاوه بر این، عدم شفافیت در موقعیت های موجود و شرایط استخدام وجود دارد. هنگامی که کارگران مشغول به کار می شوند، اغلب در ساعات کاری، محل کار، محتوا یا روش های کاری خود حرف کمی دارند. علاوه بر این، به دلیل عدم شفافیت، فقدان انصاف در قوانین جبران خسارت دیده می شود. پیشرفت شغلی و جبران خسارت به حسن نیت و عینیت مدیر مستقیم بستگی دارد که منجر به عدم اعتماد و همکاری می شود.
 
-Employers face challenges in sourcing talent, hiring the right skills, and fitting them into the right jobs at the right time. The traditional hiring pool often fails to provide an objective way to determine a potential contributor's skills. High turnover rates and a lack of contributor loyalty can also increase hiring and onboarding costs.
+کارفرمایان در یافتن استعدادها، استخدام مهارت های مناسب و تطبیق آنها در مشاغل مناسب در زمان مناسب با چالش هایی روبرو هستند. استخر سنتی استخدام اغلب نمی تواند راهی عینی برای تعیین مهارت های مشارکت کننده بالقوه ارائه دهد. نرخ گردش مالی بالا و فقدان وفاداری مشارکت کنندگان نیز می تواند هزینه های استخدام و استخدام را افزایش دهد.
 
-These issues relate to high transaction costs and the exacerbated agent-principal problem[^4]. Despite the evolution of job markets towards more unity and transparency with the internet, transaction costs[^5] still need to be lowered without an objectivity element.
+همه موارد فوق به هزینه های بالای معامله و مشکل تشدید کننده عامل اصلی تبدیل می شوند [^4]: علیرغم تکامل بازارهای کار به سمت وحدت و شفافیت بیشتر با اینترنت، هزینه های مبادله[^5] هنوز باید بدون عنصر عینی کاهش یابد.
 
-The WoM offers a unique approach to decentralized work, addressing several issues prevalent in traditional work paradigms.
+WoM یک رویکرد منحصر به فرد برای کار غیرمتمرکز ارائه می دهد و به چندین موضوع رایج در پارادایم های کاری سنتی می پردازد.
 
-Through its transparent, objective, and decentralized incentive paradigm, the WoM sustainably aligns the interests of contributors and employers. It proposes ways to flatten hierarchies and open up ownership, promoting sustainable ways to operate and create value for organizations.
+WoM از طریق پارادایم انگیزشی شفاف، عینی و غیرمتمرکز خود، به طور پایدار منافع مشارکت کنندگان و کارفرمایان را همسو می کند. راه‌هایی برای مسطح کردن سلسله مراتب و باز کردن مالکیت، ترویج راه‌های پایدار برای فعالیت و ایجاد ارزش برای سازمان‌ها پیشنهاد می‌کند.وضعیت فعلی بازار کار هم کارگران و هم کارفرمایان را راضی نمی کند<0><1>1</1></0><2><3>2</3></2><4><5> 3</5></4>.
 
-By matching jobs and skills objectively, quickly, and globally, the WoM aims to address the lack of transparency in the job market and ensure that great skill sets are not left behind.
+هدف WoM با تطبیق مشاغل و مهارت ها به طور عینی، سریع و در سطح جهانی، رفع فقدان شفافیت در بازار کار و اطمینان از این است که مجموعه مهارت های بزرگ پشت سر گذاشته نمی شود.
 
-The WoM aims to reinvent the employer/employee relationship by introducing a transparent, objective, decentralized incentive paradigm. This model incentivizes contributors to be more engaged, creative, and productive, leading to greater innovation and productivity.
+هدف WoM ایجاد مجدد رابطه کارفرما/کارمند با معرفی یک الگوی انگیزشی شفاف، عینی و غیرمتمرکز است. این مدل مشارکت‌کنندگان را تشویق می‌کند تا درگیر، خلاق‌تر و سازنده‌تر باشند که منجر به نوآوری و بهره‌وری بیشتر می‌شود.
 
-By bridging the gap between traditional corporations and newer organizational models like DAOs[^6], the WoM provides sustainable ways to operate and create value for all. As a decentralized venture, the WoM gains value exponentially as more people use it. Therefore, we have designed its protocol as a public good with built-in mechanisms to encourage long-term interest and avoid cartelization.
+WoM با پر کردن شکاف بین شرکت‌های سنتی و مدل‌های سازمانی جدیدتر مانند DAOs[^6]، راه‌های پایداری برای عملکرد و ایجاد ارزش برای همه فراهم می‌کند. مانند هر سرمایه گذاری غیرمتمرکز ، پیشنهاد Wom از آنجا که تعداد بیشتری از افراد از آن استفاده می کنند ، از نظر ارزش به دست می آید. بنابراین، ما پروتکل آن را به عنوان یک کالای عمومی با مکانیسم‌های داخلی برای تشویق منافع بلندمدت و جلوگیری از کارتل‌سازی طراحی کرده‌ایم.
 
-To foster active, authentic participation in the WoM paradigm, creating an inclusive environment where diverse perspectives are valued is crucial.
+برای تقویت مشارکت فعال و معتبر در پارادایم WoM، ایجاد محیطی فراگیر که در آن دیدگاه های متنوع ارزش گذاری می شود، بسیار مهم است.
 
 
-[^1]: Suzanne Young - ["Transaction Cost Economics"](https://www.academia.edu/24703426/Transaction_Cost_Economics)
-[^2]: Jan Drahokoupil, Agnieszka Piasna - ["Work in the Platform Economy: Beyond Lower Transaction Costs"](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
-[^3]: Seth C. Oranburg, Liya Palagashvili - ["Transaction Cost Economics, Labor Law and the Gig Economy"](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship)
-[^4]: Michael C. Jensen, William H. Meckling - ["Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure"](https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf)
-[^5]: R. Coase - ["The nature of the firm"](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
-[^6]: Aaron Wright - ["The Rise of Decentralized Autonomous Organizations: Opportunities and Challenges"](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)
+[^1]: </a>سوزان یانگ -
+"اقتصاد هزینه تراکنش"</0></p> </fn>
+    
+    
+[^2]:    
+        Jan Drahokoupil، Agnieszka Piasna - ["کار در اقتصاد پلتفرم: فراتر از هزینه های کمتر تراکنش"](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
+    
+    
+[^3]:    
+        ست سی اورانبورگ، لیا پالاگاشویلی - ["اقتصاد هزینه معاملات، قانون کار و اقتصاد گیگ"](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship)
+    
+    
+[^4]:    
+        مایکل سی. جنسن، ویلیام اچ. مکلینگ - ["نظریه شرکت: رفتار مدیریتی، هزینه های نمایندگی و ساختار مالکیت"](https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf)
+    
+    
+[^5]:    
+        R. Coase - ["ماهیت شرکت"](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
+    
+    
+[^6]:    
+        آرون رایت - ["ظهور سازمان‌های مستقل غیرمتمرکز: فرصت‌ها و چالش‌ها"](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)</footnotes>
