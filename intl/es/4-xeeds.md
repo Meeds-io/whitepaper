@@ -1,64 +1,70 @@
-# 4. Xeeds - WoM Individuos/usuarios
+# 4. Xeeds - Los ciudadanos
 
-## 4.1. Modelos descentralizados y auto-soberanos
+## 4.1. Identidad autosoberana
 
-El WoM reconoce la privacidad como un derecho humano fundamental y permite a los usuarios ser propietarios de sus datos.
+Reconocemos la privacidad como un derecho humano fundamental y facultamos a los usuarios a poseer sus datos.
 
-Nuestro planteamiento se basa en principios de identidad descentralizada y autosuficiente, lo que permite a los usuarios controlar en todo momento qué información desean hacer pública, compartir con un grupo restringido o mantener en privado.
+Nuestro enfoque se basa en principios de identidad descentralizados y autosoberanos, permitiendo a los usuarios controlar qué información quieren publicar, compartir con un grupo restringido o mantener la privacidad.
 
-La actividad y participación del usuario en WoM siempre está vinculada a una comunidad. Un Xeed es la persona virtual de un usuario en una comunidad. Xeed no requiere ningún CSC, es autodeclarable, pero podríamos imaginarnos a terceras empresas prestando este servicio.
+Los usuarios se involucran en varias comunidades; llamamos a su persona virtual a **__Xeed__**.
 
-## 4.2. Insignias y credenciales
+Los Xeeds son autodeclarativos y no requieren ningún proceso predeterminado de KYC (__Conoce tu cliente__).
 
-Las Insignias y Credenciales se dan a los usuarios como parte de su participación en una comunidad. El titular puede descargarlas como Credenciales Verificables W3C[^7][^8] (también conocidas como CV) y guardarlas en su cartera. Esos VCs son una prueba de conocimientos técnicos certificados por la organización que los expide.
+Sin embargo, las comunidades que lo necesitan pueden contratar a empresas externas que provean este servicio o utilizar protocolos como __Prueba de la Humanidad__.
 
-En el mundo actual, es difícil demostrar una habilidad de antemano. Cuando las personas se anuncian en las redes, cuentan con que sus gerentes para darles una recomendación. Esta última supone cierta buena voluntad por parte del gestor, pero no es necesariamente tratada como prueba por el futuro empresario.
+## 4.2. Tokens de reconocimiento
 
-El WoM proporciona un medio más transparente e inmutable para que las personas adquieran y demuestren sus capacidades.
+En el mundo actual, es difícil demostrar una habilidad de antemano. Cuando las personas se anuncian en redes, dependen de la reputación social. Por lo general, un gestor o un par proporciona una recomendación. Requiere buena voluntad del pariente pero rara vez constituye una prueba definitiva para el futuro empleador.
 
-Las insignias se utilizan para representar los logros realizados dentro de una comunidad. Después de completar un conjunto de objetivos o desafíos, los usuarios serán premiados con puntos. Las insignias pueden desbloquearse acumulando determinadas cantidades de puntos en categorías específicas.
+Los usuarios de sus centros comunitarios pueden ganar Insignias y Credenciales al participar. Les dejaremos almacenarlos también en una cartera o descargarlos como credenciales Verificables [^7][^8]. Tales credenciales son prueba del conocimiento/know-how certificado por la organización emisora.
 
-When the user downloads badges, it is possible to include the number of points and his rank in the Hub for this specific accomplishment.
+Con esto, ofrecemos un medio transparente e inmutable para que las personas adquieran y demuestren sus capacidades.
 
-Las credenciales son más flexibles que las malas; podrían ser una recomendación de un homólogo, indicando años de pericia, formación o realización de exámenes, o participación en el espacio. The Hub signs these and can be accompanied by a signature by a peer user.
+**Insignias** Insignias representan logros realizados dentro de una comunidad. Después de completar un conjunto de objetivos o desafíos, los usuarios ganan puntos. Pueden ganar insignias de reconocimiento a medida que acumulan puntos y alcanzan ciertos umbrales.
 
-## 4.3. Identidad digital en el trabajo
+Las insignias se podrán representar como NFT o NTT (tokens no transferibles, también conocidos como tokens __Soulbound__) o descargables. Incluirán información divulgada selectivamente, como el nombre del Hub, el número de puntos. la categoría de trabajo, y la fecha de logro o el rango en la comunidad.
 
-Todo lo anterior contribuye a formar un conjunto de competencias digitales probadas que el usuario puede conservar y utilizar cuando cambie de trabajo o trabaje como autónomo. Sería más fiable que las soluciones tradicionales, ya que no se basa en un solo individuo, sino en toda una comunidad para demostrarlo.
+**Credenciales** Las credenciales son más flexibles que las Insignias. Podrían ser una recomendación de un homólogo, indicando años de pericia, formación o realización de exámenes, o participación en el espacio.
 
-Al igual que su cartera Meeds, el usuario conservará su Xeed, Insignias, y las credenciales adjuntas a ella en su cartera de identidad cuando se mueven de un Hub a otro, de una ciudad a otra, en cualquier lugar a través de la WoM.
+Los miembros de Hub o pares firmarán estas credenciales para respaldarlas oficial y verificablemente.
 
-El usuario podrá expresar su Xeed, Insignias y Credenciales hacia otros Hubs para destacar su experiencia, así como con los reclutadores o cualquier otro servicio que considere interesante.
+## 4.3. Identidad de Trabajador Digital
 
-Un usuario puede tener una o varias identidades digitales en el WoM. Más tarde podría presentarlos de forma unificada mediante presentaciones verificadas.
+Todo lo anterior contribuye a formar un conjunto probado de habilidades digitales que los usuarios pueden mantener y utilizar a la hora de cambiar de trabajo o autónomo. Es más confiable que las soluciones tradicionales, porque depende de toda una comunidad para demostrarlo.
 
-Al contrario que en la web 2, el usuario es el pleno propietario de sus identidades descentralizadas. The latter can show (and prove) the communities he participated in, their proven skills, their claimed skills, the people whom they worked with, and their digital representation of themselves... A la manera de confianza de LinkedIn 3.0.
+Los usuarios conservarán sus Xeed, Insignias y credenciales a través de Hubs. Por lo tanto, pueden anunciar, mostrar y demostrar sus habilidades y experiencia a otros líderes y reclutadores de la comunidad o cualquier otro servicio que consideren interesante.
 
-El usuario podrá seleccionar si desea revelar algo o no, qué información proporcionar y qué identidades utilizar para cada puesto. El contenido (habilidades probadas, Hubs anteriores, etc.) es prueba de manipulación y por lo tanto no se ha podido modificar. Cualquier identidad tendría que desarrollarse con el tiempo.
+Las personas desarrollan una identidad digital compuesta a lo largo del tiempo mientras trabajan. Cualquiera puede poseer varias identidades digitales que podrían decidir reconciliarse más adelante. Tienen total libertad para seleccionar si revelar o no algo, qué información proporcionar, y qué identidades utilizar para cada posición.
+
+Abogamos por que los ciudadanos de la WoM posean plenamente su identidad descentralizada.
 
 ## 4.4. Mercado de trabajo justo
 
-Dentro de este paraíso, el futuro mercado de trabajo permite a los usuarios moverse libremente y asignar/vender su compromiso entre los Hubs – como lo hacen en el mundo físico cambiando de empleador. Sin embargo, en el WoM su compromiso sería tangible, medido y recompensado de forma justa. Al moverse entre sistemas que siguen una lógica similar, comprenderán mejor las reglas del juego y juzgarán con justicia a los empleadores: la hierba no siempre es más verde en otros lugares. Los usuarios podrán ver qué Hub proporciona mejores condiciones de recompensa de compromiso, pertenece a una ciudad más atractiva, etc.
+Dentro de este paraíso, el futuro mercado de trabajo permite a los usuarios moverse libremente y asignar/vender su compromiso entre los Hubs – como lo hacen en el mundo físico cambiando de empleador. Sin embargo, en la OMM, su compromiso es tangible, medido y recompensado de manera justa.
 
-Al final, los líderes de la comunidad pueden buscar habilidades relevantes utilizando la red WoM de identidades de trabajo digital (que los usuarios decidieron revelar). Podrán buscar competencias de forma más eficaz, basándose en información verificada y detallada sobre el historial laboral, las competencias laborales y el nivel de compromiso del usuario.
+Al moverse entre sistemas que siguen una lógica similar, comprenderán mejor las reglas del juego y podrán evaluar a sus potenciales empleadores. Los puntajes del compromiso les dan una pista sobre el nivel de actividad y las condiciones de recompensa en la comunidad.
+
+Por su parte, los líderes de la comunidad pueden buscar habilidades relevantes utilizando la red de identidades de trabajo digitales (que los usuarios decidieron revelar). Pueden adquirir habilidades de manera más eficaz basándose en información verificada y detallada sobre la historia del trabajo, las habilidades de trabajo y el nivel de participación de los usuarios.
 
 ## 4.5. Reconocimiento tangible y transparente
 
-Hoy en día, los detalles sobre compensaciones y primas son oscuros en muchos lugares de trabajo. Por lo tanto, es difícil para una persona comparar sus condiciones con las de otra y tener la sensación de un trato justo e imparcial. Los empleados experimentan muchas frustraciones con lo anterior.
+En la actualidad, los detalles sobre compensación y bonificaciones son opacos en muchos lugares de trabajo. Por lo tanto, es difícil para una persona comparar sus condiciones con otra y obtener un sentido de trato justo e imparcial. Los empleados experimentan muchas frustraciones con lo anterior.
 
-El WoM introduce una forma objetiva de reconocer los logros y recompensarlos.
+La WoM introduce objetividad en cómo se reconocerán y recompensarán sus logros.
 
-El mecanismo de reconocimiento y recompensa de compromiso es transparente y se aplica equitativamente a todos los usuarios. siguiendo las mismas reglas explícitas, decididas de antemano y alineadas con los objetivos de la comunidad.
+El mecanismo de reconocimiento y recompensa del compromiso es transparente y se aplica equitativamente a todos los usuarios. siguiendo las mismas reglas explícitas, decididas de antemano, y alineadas con los objetivos de la comunidad.
 
-Los monederos son individuales y se basan en blockchain - cuando el usuario recibe una recompensa o gana una insignia, no se puede retirar ni borrar.
+Gracias a la tecnología blockchain, recuperar recompensas y insignias ganadas es imposible.
 
-## 4.6. Acceso a la Web 3.0, criptoeconomía y servicios DEFI
+## 4.6. Accesibilidad DeFi
 
-Como se discutió anteriormente, la WoM abre el mundo de las criptomonedas y los servicios web descentralizados básicamente a todos: una gran población de usuarios, incluso posiblemente sin relación con el campo digital.
+La WoM abre el mundo de las criptomonedas y los servicios web descentralizados a cualquier persona – una población sustancial de trabajadores, incluso posiblemente no relacionado con el campo digital.
 
-De hecho, cualquier compromiso laboral puede ser potencialmente tokenizado. De hecho, el mundo es cada vez más digital con tendencias como 5G, iot, wearables, etc. En consecuencia, podrían captarse y analizarse cada vez más señales para tokenizar el compromiso de las profesiones no digitales. Los retos ofrecen una forma fácil de simbolizar los logros en el mundo físico.
+De hecho, la tokenización del compromiso se aplica a cualquier trabajo. El mundo se está volviendo cada vez más digital con tendencias como 5G, IoT, wearables, etc.
 
-Any user can get MEED and use a Meeds wallet to get access to new age services without any special training.
+Con el tiempo, la WoM captará más y más señales de trabajo de profesiones de baja digitalización. Los programas de compromiso ofrecen una solución prediseñada para convertir los logros del mundo real en tokens virtuales.
+
+Cualquiera puede ganar fichas a través de su monedero Meeds y acceder fácilmente a varios servicios DeFi con una fricción de entrada baja.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Modelo de datos de credenciales verificables
