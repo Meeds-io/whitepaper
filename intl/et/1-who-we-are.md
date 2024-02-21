@@ -1,15 +1,19 @@
 
 # 1. Meist
 
-Meeds is a collaborative effort led by diverse open-source software (OSS) communities dedicated to creating a decentralized digital world that resists centralized corporate control and promotes a free and open environment.
+Meeds on koostööprojekt, mida juhivad erinevad avatud lähtekoodiga tarkvara (OSS) kogukonnad, mis on pühendunud detsentraliseeritud digitaalse maailma loomisele, mis on vastu tsentraliseeritud ettevõtte kontrollile ning edendab vaba ja avatud keskkonda.
 
-The Meeds project uses the Ethereum ecosystem to implement the WoM protocols and manage the supply of the MEED token. This approach has helped prioritize security, accessibility, usability, and cost-effectiveness, making it attractive to a broad user base. However, the WoM is designed to be an autonomous and self-sufficient public good, aiming to become multichain.
+Kasutades Ethereumi ökosüsteemi, rakendame WoM-protokolle ja jälgime MEED-märgi pakkumist. See strateegia on võimaldanud meil seada prioriteediks turvalisuse, juurdepääsetavuse, kasutatavuse ja kulutõhususe, muutes selle atraktiivseks mitmekesise demograafilise kasutajate jaoks. Sellegipoolest kujundasime WoM-i autonoomse ja isemajandava avaliku hüvena, mille eesmärk on laieneda mitme ahela kaudu.
 
-The legal entity behind Meeds is the _Meeds Association_, a non-profit organization registered under Swiss law in Geneva. It is responsible for regulating the issuance of MEED tokens and contracting with service providers.
+Meedsi taga olev juriidiline isik on _Meeds Association_, Šveitsi seaduste alusel Genfis registreeritud mittetulundusühing. Ta vastutab MEED žetoonide väljastamise ja teenusepakkujatega lepingute sõlmimise reguleerimise eest.
 
-The Meeds Association intends to progressively hand over control of the Meeds protocol and treasuries to the _Meeds DAO_, which is the decentralized autonomous organization that represents the decentralized governance arm of the Meeds ecosystem, empowering the community to participate in decision-making, proposal voting, and protocol upgrades.
+Assotsiatsioon Meeds kavatseb järk-järgult anda kontrolli Meedsi protokolli ja riigikassade üle _Meedsi DAO-le_. See detsentraliseeritud autonoomne organisatsioon esindab ökosüsteemi detsentraliseeritud juhtimisharu, andes kogukonnale võimaluse osaleda otsuste tegemisel, ettepanekute hääletamisel ja protokollide uuendamisel.
 
-The relationship between the Meeds Association and Meeds DAO involves how they operate in the real world. Meeds Association is a traditional organization that have members, a board of directors, and operates under specific legal and regulatory frameworks. In the real world, Meeds Association may engage in activities such as organizing events, providing services, and advocating for its members. It may also have a physical office and staff members. Meeds DAO, on the other hand, operates without a central authority and make decisions through consensus of its members using blockchain-based voting mechanisms. It may also engage in activities such as funding projects, managing assets, and making decisions through smart contracts.
+Ühenduse ja DAO vaheline suhe hõlmab seda, kuidas nad reaalses maailmas tegutsevad.
 
-The WoM is built as open-source software ([github.com/meeds-io](https://github.com/meeds-io)) and hosted by partners selected by the Meeds Association on behalf of the Meeds DAO.
+Meeds Association on tavapärane organisatsioon, millel on liikmed ja juhatus. See toimib konkreetsete õiguslike ja reguleerivate raamistike alusel. Praktikas tegeleb see selliste tegevustega nagu ürituste korraldamine, teenuste pakkumine ja liikmete propageerimine, võimalusel ka füüsilise kontori ülalpidamine koos töötajatega.
+
+Seevastu Meeds DAO toimib ilma keskasutuseta, tehes otsuseid oma liikmete konsensuse kaudu, kasutades plokiahelal põhinevaid hääletusmehhanisme. Samuti võib see tegeleda selliste tegevustega nagu projektide rahastamine, varade haldamine ja otsuste elluviimine arukate lepingute kaudu.
+
+WoM on loodud avatud lähtekoodiga tarkvarana ([github.com/meeds-io](https://github.com/meeds-io)) ja seda hostivad liikmed Meeds Associationi partnerid Meeds DAO nimel.
 

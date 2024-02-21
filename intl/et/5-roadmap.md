@@ -1,62 +1,64 @@
-# 5. WoM for ALL – visiooni kokkuvõte ja verstapostid
+# 5. Visiooni kokkuvõte ja teekaart
 
-## 5.1. Ultimate Goal – detsentraliseeritud veeb kõigile
+## 5.1. Detsentraliseeritud töö kõigile
 
-Lõpuks on WoM detsentraliseeritud veebimaailm kõigile – igale inimesele ja kõikidele organisatsioonidele.
+Lõppkokkuvõttes on WoM detsentraliseeritud töökeskkond kõigile - igale inimesele ja kõigile organisatsioonidele.
 
-Seda hakkavad täitma kasutajad, kes tegutsevad oma digitaalsete identiteetide **Xeeds** kaudu ja pääsevad maailma oma metamaski kaudu, krüpto-savvies, või login/password jaoks uustulnukatele. Inimesed jagaksid oma panust ja saaksid tasu õiglaselt, läbipaistvalt ja detsentraliseeritult. Nad saaksid juurdepääsu detsentraliseeritud maailmale ja homsele krüptomaailmale lihtsal ja tuttavlikul viisil - nad saaksid lihtsad vahendid, et kasutada oma žetooni oma elus või investeerida neid oma tulevikuks.
+Seda asustavad kasutajad, kes tegutsevad oma digitaalsete identiteetide kaudu ja pääsevad maailma ligi kasutades Metamaski krüptohuvilistele või sisselogimist/salasõna algajatele.
 
-Organisatsioonid saaksid WoM-i sirvides hankida talente, et leida õigeid tõestatud oskusi. Nad saavad tasu WoM-is osalemise eest, vermides kasutajate kaasamise kaudu žetoone (mintiumi mudel). Kuid eelkõige saaksid nad kasu kasutajate suuremast kaasatusest ja lojaalsusest.
+Inimesed jagaksid oma aega ning saaksid oma töö eest õiglaselt ja läbipaistvalt tasu. Nad saaksid kiiresti ja tuttavalt ligipääsu detsentraliseeritud maailmale ja krüptomaailmale – nad saaksid lihtsad tööriistad oma žetoonide kasutamiseks oma elus või neisse tuleviku nimel investeerimiseks.
 
-WoM-il oleks oma valuuta **MEED** – seda saaks poodides kulutada, teise valuutasse konverteerida, investeeringutasuvuse nimel investeerida, rentida või osta jne. WoM hõlbustaks ka teiste žetoonide levitamist ja osaleks üldises krüptoökosüsteemis.
+Organisatsioonid hangivad talente tõhusamalt, sirvides WoM-i, et leida õigeid tõestatud oskusi. "Mintiumi" märgid premeerivad neid tõelise kaasamise ja osalemise tingimuste loomise eest. Kuid eelkõige saaksid nad kasu oma panustajate suuremast kaasatusest ja lojaalsusest.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and MEED token flows
+WoM-il on oma valuuta **MEED** – kulutada poodides, vahetada teiste valuutadega, investeerida, rentida või osta jne. WoM hõlbustab ka teiste žetoonide levitamist ja ülemaailmses krüptoökosüsteemis osalemist.
 
-![WoM ja Meeds voolud](en/img/wom-flows.png)
+Kuna pilt on väärt tuhat sõna, on siin diagramm, mis kirjeldab WoM - ja MEED-märgivooge:
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds Association and the Cities.
+![WoM ja Meeds vood](en/img/wom-flows.png)
 
-## 5.2. Mis on varajaste kasutuselevõtjate jaoks
+WoM tõstab loodud väärtuse makse, et tagada selle pikaajaline kättesaadavus ja jätkusuutlikkus.
 
-On selge, et varajased kasutuselevõtjad saavad märkimisväärseid eeliseid hilisemate tulijate ees.
 
-Eelkõige premeerib WoM pikaajalist investeerimist värssi - see tähendab vara lunastamist (Deeds). Deed'i algne omanik saab kompensatsiooni kaasamise kaudu (aktiivne kasutamine), passiivse tulu kaudu (rentimine) ja saab eluaegselt 1% Deed'i igast müügitehingust (iga omanikuvahetuse korral saab algne lunastaja tehingu eest tasu).
+## 5.2. Investeerimisstrateegiad
 
-Projekti uskudes, likviidsuskogumites osaledes, MEED žetoone panustades, Tegude vastu lunastades... igas suuruses varajased investorid vermiksid lisamärke. Nad saaksid ka varaseimad hääleõigused ja aitaksid kujundada WoM-i.
-
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted MEED. Mida õiglasemalt nad mängivad, seda rohkem nad saavad. Varasemad kasutuselevõtjad on seotud esimeste ajalooliste linnadega ja neid peetakse hiljem ehitajateks.
-
-Alljärgnev diagramm on näide Meedsi investeerimisstrateegiast kapitaliomanike jaoks:
+Allolev diagramm kujutab näidet **Meedsi investeerimisstrateegiast kapitaliomanikele**:
 
 ![Meedsi investeerimisstrateegia kapitaliomanikele](en/img/invest-capital.png)
 
-Organisatsioonid saavad muidugi osaleda likviidsusbasseinides, kuid võivad ka liituda ehitajate kogukonnaga ja saada sealt lisapalka.
+Organisatsioonid võivad loomulikult osaleda likviidsuskogumites, aga ka liituda ehitajate kogukonnaga ja saada seal täiendavaid kaasamispreemiaid.
 
-Alljärgnev diagramm on näide Meedsi investeerimisstrateegiast töövõtjate jaoks:
+Allolev diagramm kujutab *Meedsi töötajate investeerimisstrateegia** näidet:
 
 ![Meedsi investeerimisstrateegia töövõtjate jaoks](en/img/invest-work.png)
 
 ## 5.3. Käivitamine
 
-WoM-i ametlik avamine oli **1. mai 2022** – rahvusvaheline töötajate päev, mida tähistatakse paljudes riikides.
+WoM-i ametlik käivitamine oli sihilikult kavandatud **1. maiks 2022** – rahvusvaheliseks töötajate päevaks, mida tähistatakse paljudes riikides.
 
-Sel ajal oli MEED-märk juba olemas. Seda on võimalik omandada ja likviidsusbasseinid on osalemiseks avatud, Polygoni ja Ethereumi võrkudes.
+Sel ajal oli MEED-märk juba olemas. See oli võimalik omandada ning Polygoni ja Ethereumi võrkudes on osalemiseks avatud likviidsuskogumid.
 
-Three Meeds Association members use the system internally to engage and reward their users and improve the Meeds software.
+Inverstori stiimulite peamine protokoll on saadaval Ethereumi Mainnetis. Käivitamisel hõlmas see panuseid, likviidsuspreemiaid, punktide kogumist ja tegude lunastamist.
 
-Investori rakendus on saadaval Ethereum Mainnetis. Käivitamisel sisaldab see panustamist, likviidsuspreemiaid, punktide kogumist ja Deeds'i lunastamist.
+Ehitajate kogukond on valmis ja avatud kõigile, kes soovivad liituda, testida ja osaleda. Metamaskiga on võimalik sisse logida.
 
-Ehitajate kogukond on loodud ja töötab ning on avatud kõigile, kes soovivad liituda, testida ja osaleda. Metamaskiga on võimalik sisse logida.
+## 5.4. Eelised varajastele kasutuselevõtjatele
 
-See artikkel avaldati algselt käivitamispäeval. Pärast käivitamist antakse žetoon paljudele inimestele üle kogu krüptokogukonna.
+Varajased kasutajad saavad hilinejate ees märkimisväärseid eeliseid.
 
-## 5.4. Ehitajate kogukond
+Eelkõige premeerib WoM pikaajalist investeeringut salmi – tegude lunastamist. Akti algne omanik saab hüvitist kaasamise vermimise (aktiivne kasutamine) kaudu passiivse tulu (rentimise) kaudu ja ta saab igavese 1% akti müügitehingust (iga omanikuvahetuse korral saab algne lunastaja tehingu eest tasu).
 
-Me käivitame ehitajate kogukonna Meedsi tarkvaras ja Discordis. Kogukond ootab kõiki, kes soovivad WoM ülesehitamisel osaleda. Liit premeeriks ehitajate kaasamist Meedsiga oma turunduseelarvest.
+Varased investorid on osalenud likviidsusfondides, et toetada Meedsi projekti. Nad panid ka oma MEED-märgid ja vermisid esimesed teod. Alates esimesest päevast oli protokollis sisseehitatud stiimulid nende premeerimiseks. Samuti teenivad nad DAO-s märkimisväärset mõju juhtimismärkide kaudu.
 
-The association plans also to stake some MEED in order to acquire (redeem) a Deed for the builders community. The community will then mint MEED by engagement, through the mintium model, and distribute them to engaged users.
+Organisatsioonid, kes kasutavad Tegusid ja mängivad ausat mängu oma panustajate kaasamiseks ja premeerimiseks, teenivad MEED-märke. Varasemaid kasutuselevõtjaid seostatakse esimeste ajalooliste linnadega ja hiljem tunnustatakse neid rajajatena.
 
-## 5.5. Tegevuskava ja vahe-eesmärgid
+
+## 5.5. Ehitajate kogukond
+
+Me oleme käivitanud Meeds DAO kogukonna [Builders Hub](builders.meeds.io)'is ja [Discord](https://discord.com/invite/7d9Byf4Fz6)'is. Kogukond tervitab kõiki, kes soovivad osaleda WoM-i loomises. DAO premeerib kõiki ehitajaid nende panuse eest MEED märkidega.
+
+Ehitajate Hub osaleb kasutaja kaasamise loomisel nagu iga teine Hub ja saab seega vastutasu. Selle eesmärk on olla eeskujuks kogukond ja innustada teisi seadma paremaid standardeid koostööks väärtuse loomisel ja positiivse mõju avaldamisel maailmale.
+
+## 5.6. Teekaart ja verstapostid
 
 Meie tegevuskava järgib allpool esitatud prioriteetsuse järjekorda:
 
@@ -64,23 +66,22 @@ Meie tegevuskava järgib allpool esitatud prioriteetsuse järjekorda:
 - Deeds rentimise lubamine
 - Xeedi loomine
 - Märgiste täiustamine ja volikirjade arendamine
-- DeFi teenused - rahakotis, krediitkaartide partnerlus
+- DeFi-teenused - rahakotis, krediitkaardi partnerlus
 
-Me loodame DAOde ja tehnoloogiaga kursis olevate ettevõtete varajastele kasutuselevõtjatele ehitusetapis. Meil peaks olema ka mõned varased kasutuselevõtjad traditsioonilistest ettevõtetest, kes saavad WoM-ist kohe kasu, pakkudes lisaks oma praegustele traditsioonilistele tasustamiskavadele oma töötajatele asjakohaseid kaasamisprogramme.
+Ehitusetapis tuginevad meile DAOde ja tehnoloogiaga kursis olevate ettevõtete varased kasutajad. Lisaks ootame, et traditsiooniliste ettevõtete varased kasutajad saavad kohe kasu WoM-ist. Nad saavad täiendada oma töötajate kaasamise programme olemasolevate hüvitiste plaanide kõrval.
 
-MEED minting spans a 20 year period. Selleks ajaks soovime luua küpse ökosüsteemi, mis on levinud paljudes organisatsioonides ja paljudes kasutajates kogu maailmas.
+MEED-i loomine kestab 20 aastat. Me soovime arendada küpsenud ökosüsteemi ja laiendada selle ulatust paljudele organisatsioonidele ja töötajatele üle maailma.
 
-## 5.6. Mida saate teha kohe praegu
+## 5.7. Mida saate teha kohe praegu
 
 Mida saate kohe praegu teha, et osaleda?
 
 - Levitage seda paberit neile, keda see huvitab
 - Külastage meie veebilehte [meeds.io](https://www.meeds.io/)
-- Tutvu [Investori rakendusega](https://meeds.io/investors)
 - Panustage olemasolevatesse likviidsusfondidesse siin :
   - [Cometh Swap](https://swap.cometh.io/)
-  - [Sushi Swap](https://sushi.com)
-- Liitu meie [Discord](https://discord.com/invite/hAuADSq3) kogukonnaga, et olla kursis
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some MEED engagement rewards
+  - [UniSwap](https://uniswap.org)
+- Liitu meie [Discord](https://discord.com/invite/7d9Byf4Fz6)'i serveriga
+- Liitu meie [Builders Hub](https://meeds.io/builders)'iga, et kogeda, mida tähendab õiglane tasu panuse eest, ja teenida oma esimesed MEED märgid
 
-**\*\*\* WoM – ehitame koos selle pöörase tulevikumaailma. \*\*\***
+**\*\*\* WoM - ehitagem maailm, et koos paremini töötada \*\*\***
