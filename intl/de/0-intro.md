@@ -1,37 +1,37 @@
 ## Abstrakt
 
-The current work market is inefficient due to high transaction costs and frequent conflicts of interest between employers and employees. It can be expensive and time-consuming to carry out job-related activities, and there are often disagreements or competing interests between those who hire workers and the workers themselves.
+Der aktuelle Arbeitsmarkt ist aufgrund hoher Transaktionskosten und häufiger Interessenkonflikte zwischen Arbeitgebern und Arbeitnehmern ineffizient. Die Durchführung berufsbezogener Tätigkeiten kann teuer und zeitaufwändig sein, und es kommt häufig zu Meinungsverschiedenheiten oder konkurrierenden Interessen zwischen denjenigen, die Arbeitnehmer einstellen, und den Arbeitnehmern selbst.
 
-The World of Meeds (WoM) proposes a new paradigm to address these issues by reducing transaction costs and reinventing working relationships. It is a digital space that bridges the gap between traditional companies and new forms of organization by bringing a fair and transparent incentive system that realigns the interests of all parties.
+The World of Meeds (WoM) schlägt ein neues Paradigma vor, um diese Probleme anzugehen, indem Transaktionskosten gesenkt und Arbeitsbeziehungen neu erfunden werden. Es handelt sich um einen digitalen Raum, der die Lücke zwischen traditionellen Unternehmen und neuen Organisationsformen schließt, indem er ein faires und transparentes Anreizsystem bietet, das die Interessen aller Parteien neu ausrichtet.
 
 ## Einführung
 
-The current state of the work market fails to satisfy both workers and employers[^1][^2][^3].
+Die aktuelle Lage auf dem Arbeitsmarkt stellt sowohl Arbeitnehmer als auch Arbeitgeber nicht zufrieden[^1][^2][^3].
 
-Workers face difficulties in finding suitable job opportunities, as the job market tends to favor specific individuals, leaving great skill sets behind due to various human biases such as race, gender, disability, introversion, and more.
+Arbeitnehmer haben Schwierigkeiten, geeignete Beschäftigungsmöglichkeiten zu finden, da der Arbeitsmarkt tendenziell bestimmte Personen bevorzugt und aufgrund verschiedener menschlicher Vorurteile wie Rasse und Geschlecht große Qualifikationen zurückbleibt
 
-Additionally, there is a lack of transparency in available positions and employment conditions. Once employed, workers often have little say in their work hours, workplace, content, or methods. Moreover, there is a perceived lack of fairness in compensation rules due to the lack of transparency. Career progress and compensation depend on the immediate manager's good faith and objectivity, leading to a lack of trust and cooperation.
+Darüber hinaus mangelt es an Transparenz hinsichtlich der verfügbaren Stellen und Anstellungsbedingungen. Sobald Arbeitnehmer angestellt sind, haben sie oft wenig Einfluss auf ihre Arbeitszeiten, ihren Arbeitsplatz, ihre Inhalte oder Methoden. Darüber hinaus wird aufgrund mangelnder Transparenz ein Mangel an Fairness bei den Vergütungsregeln wahrgenommen. Karrierefortschritt und Vergütung hängen vom guten Willen und der Objektivität des unmittelbaren Vorgesetzten ab, was zu einem Mangel an Vertrauen und Zusammenarbeit führt.
 
-Employers face challenges in sourcing talent, hiring the right skills, and fitting them into the right jobs at the right time. The traditional hiring pool often fails to provide an objective way to determine a potential contributor's skills. High turnover rates and a lack of contributor loyalty can also increase hiring and onboarding costs.
+Arbeitgeber stehen vor der Herausforderung, Talente zu finden, die richtigen Fähigkeiten einzustellen und sie zur richtigen Zeit in die richtigen Jobs zu integrieren. Der traditionelle Einstellungspool bietet oft keine objektive Möglichkeit, die Fähigkeiten eines potenziellen Mitarbeiters zu bestimmen. Hohe Fluktuationsraten und mangelnde Loyalität der Mitarbeiter können auch die Einstellungs- und Einarbeitungskosten erhöhen.
 
-These issues relate to high transaction costs and the exacerbated agent-principal problem[^4]. Despite the evolution of job markets towards more unity and transparency with the internet, transaction costs[^5] still need to be lowered without an objectivity element.
+Diese Probleme beziehen sich auf hohe Transaktionskosten und das verschärfte Agent-Prinzipal-Problem[^4]. Trotz der Entwicklung der Arbeitsmärkte hin zu mehr Einheit und Transparenz mit dem Internet müssen die Transaktionskosten immer noch um [^5] gesenkt werden, ohne dass ein Element der Objektivität berücksichtigt wird.
 
-The WoM offers a unique approach to decentralized work, addressing several issues prevalent in traditional work paradigms.
+Das WoM bietet einen einzigartigen Ansatz für dezentrale Arbeit und befasst sich mit mehreren Problemen, die in traditionellen Arbeitsparadigmen vorherrschen.
 
-Through its transparent, objective, and decentralized incentive paradigm, the WoM sustainably aligns the interests of contributors and employers. It proposes ways to flatten hierarchies and open up ownership, promoting sustainable ways to operate and create value for organizations.
+Durch sein transparentes, objektives und dezentrales Anreizparadigma bringt das WoM die Interessen von Beitragszahlern und Arbeitgebern nachhaltig in Einklang. Es schlägt Möglichkeiten vor, Hierarchien zu glätten und Eigenverantwortung zu schaffen, und fördert so nachhaltige Arbeitsweisen und die Schaffung von Werten für Organisationen.
 
-By matching jobs and skills objectively, quickly, and globally, the WoM aims to address the lack of transparency in the job market and ensure that great skill sets are not left behind.
+Durch die objektive, schnelle und globale Zuordnung von Arbeitsplätzen und Kompetenzen will das WoM die mangelnde Transparenz auf dem Arbeitsmarkt beheben und sicherstellen, dass große Kompetenzen nicht auf der Strecke bleiben.
 
-The WoM aims to reinvent the employer/employee relationship by introducing a transparent, objective, decentralized incentive paradigm. This model incentivizes contributors to be more engaged, creative, and productive, leading to greater innovation and productivity.
+Ziel des WoM ist es, die Arbeitgeber-Arbeitnehmer-Beziehung durch die Einführung eines transparenten, objektiven und dezentralen Anreizparadigmas neu zu erfinden. Dieses Modell bietet den Mitwirkenden einen Anreiz, engagierter, kreativer und produktiver zu sein, was zu mehr Innovation und Produktivität führt.
 
-By bridging the gap between traditional corporations and newer organizational models like DAOs[^6], the WoM provides sustainable ways to operate and create value for all. As a decentralized venture, the WoM gains value exponentially as more people use it. Therefore, we have designed its protocol as a public good with built-in mechanisms to encourage long-term interest and avoid cartelization.
+Durch die Überbrückung der Lücke zwischen traditionellen Unternehmen und neueren Organisationsmodellen wie DAOs[^6] bietet das WoM nachhaltige Möglichkeiten für den Betrieb und die Schaffung von Werten für alle. Als dezentrales Unternehmen gewinnt das WoM exponentiell an Wert, je mehr Menschen es nutzen. Deshalb haben wir sein Protokoll als öffentliches Gut mit integrierten Mechanismen konzipiert, um langfristiges Interesse zu fördern und Kartellbildung zu vermeiden.
 
-To foster active, authentic participation in the WoM paradigm, creating an inclusive environment where diverse perspectives are valued is crucial.
+Um eine aktive, authentische Teilnahme am WoM-Paradigma zu fördern, ist die Schaffung eines integrativen Umfelds, in dem unterschiedliche Perspektiven wertgeschätzt werden, von entscheidender Bedeutung.
 
 
-[^1]: Suzanne Young - ["Transaction Cost Economics"](https://www.academia.edu/24703426/Transaction_Cost_Economics)
-[^2]: Jan Drahokoupil, Agnieszka Piasna - ["Work in the Platform Economy: Beyond Lower Transaction Costs"](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
-[^3]: Seth C. Oranburg, Liya Palagashvili - ["Transaction Cost Economics, Labor Law and the Gig Economy"](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship)
-[^4]: Michael C. Jensen, William H. Meckling - ["Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure"](https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf)
-[^5]: R. Coase - ["The nature of the firm"](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
-[^6]: Aaron Wright - ["The Rise of Decentralized Autonomous Organizations: Opportunities and Challenges"](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)
+[^1]: Suzanne Young – [„Transaktionskostenökonomie“](https://www.academia.edu/24703426/Transaction_Cost_Economics) [↩](#fnref:1){.footnote-backref}
+[^2]: Jan Drahokoupil, Agnieszka Piasna – [„Arbeit in der Plattformökonomie: Jenseits niedrigerer Transaktionskosten“](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html) [↩](#fnref:2){.footnote-backref}
+[^3]: Seth C. Oranburg, Liya Palagashvili – [„Transaktionskostenökonomie, Arbeitsrecht und die Gig Economy“](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship) [↩](#fnref:3){.footnote-backref}
+[^4]: Michael C. Jensen, William H. Meckling – [„Theorie des Unternehmens: Managementverhalten, Agenturkosten und Eigentümerstruktur“](https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf) [↩](#fnref:4){.footnote-backref}
+[^5]: R. Coase – [„Die Natur des Unternehmens“](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf) [↩](#fnref:5){.footnote-backref}
+[^6]: Aaron Wright – [„Der Aufstieg dezentraler autonomer Organisationen: Chancen und Herausforderungen“](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1) [↩](#fnref:6){.footnote-backref}
