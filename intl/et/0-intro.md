@@ -1,37 +1,37 @@
 ## Abstrakt
 
-The current work market is inefficient due to high transaction costs and frequent conflicts of interest between employers and employees. It can be expensive and time-consuming to carry out job-related activities, and there are often disagreements or competing interests between those who hire workers and the workers themselves.
+Praegune tööturg on ebaefektiivne kõrgete tehingukulude ning sagedaste huvide konfliktide tõttu tööandjate ja töötajate vahel. Tööga seotud tegevuste läbiviimine võib olla kulukas ja aeganõudev ning sageli tekivad lahkarvamused või konkureerivad huvid töötajate ja töötajate endi vahel.
 
-The World of Meeds (WoM) proposes a new paradigm to address these issues by reducing transaction costs and reinventing working relationships. It is a digital space that bridges the gap between traditional companies and new forms of organization by bringing a fair and transparent incentive system that realigns the interests of all parties.
+The World of Meeds (WoM) pakub välja uue paradigma nende probleemide lahendamiseks, vähendades tehingukulusid ja luues uuesti töösuhteid. See on digitaalne ruum, mis ületab lõhe traditsiooniliste ettevõtete ja uute organisatsioonivormide vahel, tuues kaasa õiglase ja läbipaistva stiimulisüsteemi, mis ühtlustab kõigi osapoolte huvid.
 
 ## Sissejuhatus
 
-The current state of the work market fails to satisfy both workers and employers[^1][^2][^3].
+Praegune olukord tööturul ei rahulda nii töötajaid kui ka tööandjaid[^1][^2][^3].
 
-Workers face difficulties in finding suitable job opportunities, as the job market tends to favor specific individuals, leaving great skill sets behind due to various human biases such as race, gender, disability, introversion, and more.
+Töötajatel on raskusi sobivate töövõimaluste leidmisel, kuna tööturg kaldub eelistama konkreetseid inimesi, jättes seljataha suured oskused erinevate inimlike eelarvamuste, nagu rass, sugu, puue, introvertsus ja muu tõttu.
 
-Additionally, there is a lack of transparency in available positions and employment conditions. Once employed, workers often have little say in their work hours, workplace, content, or methods. Moreover, there is a perceived lack of fairness in compensation rules due to the lack of transparency. Career progress and compensation depend on the immediate manager's good faith and objectivity, leading to a lack of trust and cooperation.
+Lisaks puudub läbipaistvus vabade ametikohtade ja töötingimuste osas. Pärast tööle asumist on töötajatel sageli vähe sõnaõigust oma tööaja, töökoha, sisu või meetodite osas. Veelgi enam, läbipaistvuse puudumise tõttu tuntakse hüvitise eeskirjades ebaõiglust. Karjääri edenemine ja hüvitis sõltuvad vahetu juhi heast usust ja objektiivsusest, mis toob kaasa usalduse ja koostöö puudumise.
 
-Employers face challenges in sourcing talent, hiring the right skills, and fitting them into the right jobs at the right time. The traditional hiring pool often fails to provide an objective way to determine a potential contributor's skills. High turnover rates and a lack of contributor loyalty can also increase hiring and onboarding costs.
+Tööandjad seisavad silmitsi väljakutsetega talentide hankimisel, õigete oskuste palkamisel ja nende õigel ajal õigetele töökohtadele sobitamisel. Traditsiooniline värbamisbassein ei suuda sageli pakkuda objektiivset viisi potentsiaalse panustaja oskuste kindlaksmääramiseks. Kõrge käibemäär ja panustajate lojaalsuse puudumine võivad samuti suurendada värbamis- ja liitumiskulusid.
 
-These issues relate to high transaction costs and the exacerbated agent-principal problem[^4]. Despite the evolution of job markets towards more unity and transparency with the internet, transaction costs[^5] still need to be lowered without an objectivity element.
+Need probleemid on seotud kõrgete tehingukulude ja süvenenud agendi ja peadirektori probleemiga[^4]. Hoolimata tööturgude arengust Interneti ühtsuse ja läbipaistvuse suunas, tuleb tehingukulusid[^5] siiski vähendada ilma objektiivsuseta.
 
-The WoM offers a unique approach to decentralized work, addressing several issues prevalent in traditional work paradigms.
+WoM pakub ainulaadset lähenemist detsentraliseeritud tööle, käsitledes mitmeid traditsioonilistes tööparadigmades levinud probleeme.
 
-Through its transparent, objective, and decentralized incentive paradigm, the WoM sustainably aligns the interests of contributors and employers. It proposes ways to flatten hierarchies and open up ownership, promoting sustainable ways to operate and create value for organizations.
+Läbipaistva, objektiivse ja detsentraliseeritud stiimulite paradigma abil ühtlustab WoM jätkusuutlikult panustajate ja tööandjate huvid. Läbipaistva, objektiivse ja detsentraliseeritud stiimulite paradigma võime ühtlustab WoM jätkusuutlikult panustajate ja tööandjate huvid.
 
-By matching jobs and skills objectively, quickly, and globally, the WoM aims to address the lack of transparency in the job market and ensure that great skill sets are not left behind.
+Töökohtade ja oskuste objektiivse, kiire ja globaalse sobitamise abil püüab WoM tegeleda läbipaistvuse puudumisega tööturul ja tagada, et suured oskused ei jääks maha.
 
-The WoM aims to reinvent the employer/employee relationship by introducing a transparent, objective, decentralized incentive paradigm. This model incentivizes contributors to be more engaged, creative, and productive, leading to greater innovation and productivity.
+WoM eesmärk on luua uuesti tööandja ja töötaja suhe, võttes kasutusele läbipaistva, objektiivse ja detsentraliseeritud stiimulite paradigma. See mudel motiveerib panustajaid olema rohkem kaasatud, loovamad ja produktiivsemad, mis toob kaasa suurema innovatsiooni ja tootlikkuse.
 
-By bridging the gap between traditional corporations and newer organizational models like DAOs[^6], the WoM provides sustainable ways to operate and create value for all. As a decentralized venture, the WoM gains value exponentially as more people use it. Therefore, we have designed its protocol as a public good with built-in mechanisms to encourage long-term interest and avoid cartelization.
+See mudel motiveerib panustajaid rohkem kaasatud, loovamad ja produktiivsemad, mis toob kaasa suurema innovatsiooni ja tootlikkuse. Detsentraliseeritud ettevõtmisena tõuseb WoM väärtus plahvatuslikult, kui rohkem inimesi seda kasutab. Seetõttu oleme kavandanud selle protokolli avaliku hüvena, millel on sisseehitatud mehhanismid, et julgustada pikaajalist huvi ja vältida kartelliseerumist.
 
-To foster active, authentic participation in the WoM paradigm, creating an inclusive environment where diverse perspectives are valued is crucial.
+Et soodustada aktiivset ja autentset osalemist WoM-i paradigmas, on ülioluline luua kaasav keskkond, kus väärtustatakse erinevaid vaatenurki.
 
 
-[^1]: Suzanne Young - ["Transaction Cost Economics"](https://www.academia.edu/24703426/Transaction_Cost_Economics)
-[^2]: Jan Drahokoupil, Agnieszka Piasna - ["Work in the Platform Economy: Beyond Lower Transaction Costs"](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
-[^3]: Seth C. Oranburg, Liya Palagashvili - ["Transaction Cost Economics, Labor Law and the Gig Economy"](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship)
-[^4]: Michael C. Jensen, William H. Meckling - ["Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure"](https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf)
-[^5]: R. Coase - ["The nature of the firm"](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
-[^6]: Aaron Wright - ["The Rise of Decentralized Autonomous Organizations: Opportunities and Challenges"](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)
+[^1]: Suzanne Young – ["Tehingukulude ökonoomika"](https://www.academia.edu/24703426/Transaction_Cost_Economics)
+[^2]: Jan Drahokoupil, Agnieszka Piasna – ["Töö platvormimajanduses: peale väiksemate tehingukulude"](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
+[^3]: Seth C. Oranburg, Liya Palagashvili - ["Tehingukulu majandus, tööseadus ja gig-tööstus"](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship)
+[^4]: Michael C. Jensen, William H. Meckling - ["Firma teooria: juhtimiskäitumine, agentuuri kulud ja omandistruktuur"](https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf)
+[^5]: R. Coase - ["Firma olemus"](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
+[^6]: Aaron Wright - ["Detsentraliseeritud Autonoomsete Organisatsioonide Tõus: Võimalused ja Väljakutsed"](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)

@@ -1,70 +1,97 @@
-# 3. The MEED token – the currency of the WoM
+# 3. Meeds Token
 
-The MEED token (pronounced "Meeds") is the currency that powers the WoM. Users are rewarded with MEED (through engagement programs), purchase in stores, get Deeds, get financial returns on investments, and more.
+Meedsi märk (hääldatakse "Meeds") on valuuta, mis toidab WoM-i. Sellel on erinevad utiliidid:
+
+- Premeerib kasutajate seotust
+- Ostud hüvede kauplustes
+- Akti vermimine
+- Rummu rent
+- Preemiad panuse eest (tootlused)
+- Tasu likviidsuse tagamise eest
+
 
 ## 3.1. Tokenomics
 
-The **maximum supply of MEED is limited to 100 million tokens**, minted progressively.
+**Maksimaalne pakkumine** **MEED-i maksimaalne pakkumine on piiratud 100 miljoni märgiga**, mida vermitakse aja jooksul järk-järgult.
 
-The Meeds Association has minted 5 Million MEED (5% of the total supply) at the start to acquire software IP from the funding members, pay for token emission legal fees, and hosting services. Then, it locked 4.5 Million in a vault contract with a linear vesting over four years.
+**Esialgne tarne** Algselt vermisime 5 miljonit MEED-i, mis on **5% kogu pakkumisest**, et tegevust tõhustada:
 
-Since then, a smart contract called **the __Token Factory__ performs minting of **MEED tokens at a constant rate**.
+- Meeds Associationi asutamise õigustasud
+- Juriidiline arvamus märgi kohta
+- IP-ostud
+- IT-teenused
+- likviidsusfondi külvamine
 
-The minting rate is a parameter of the Token Factory, set at *10 MEED per minute* at the start. A vote of the DAO may change this rate in the future. At such rate, the Token Factory mints around 5 Million MEED yearly (10*60*24*365); thus, the minting horizon is nearly 20 years.
+likviidsusfondi külvamine
+
+Sellest ajast alates on nutikas leping nimega ** __ TokenFactory__ teostab **MEED-märkide vermimist konstantse kiirusega**.
+
+**likviidsusfondi külvamine**
+
+Mitme sigiga leping nimega __Token Factory__ juhib MEED märgi tarnimist (münt ja põletamine).
+
+See kasutab pidevat vermimisskeemi *10 MEED minutis*. Sellise kiirusega vermib Token Factory aastas umbes 5 miljonit meedi (10*60*24*365); Seega on vermimishorisont ligi 20 aastat.
+
+DAO hääletus võib seda määra tulevikus muuta.
 
 ## 3.2. Rahapaja eraldamine
 
-The Token Factory also rules the allocation of minted MEED tokens to  three categories of stakeholders :
+Token Factory valitseb ka vermitud Meeds-märkide eraldamise, et stimuleerida kolme sidusrühmade kategooriat :
 
-- **Builders**: Contributors of the Meeds DAO that help build and run the WoM
-- **Users**: Members in all communities of the WoM earn MEED as rewards for their contributions
-- **Investor**: Meedsi DAO motiveerib MEED märgi omanikke MEEDis osalema või Meedsi majandusele likviidsust tagama
+- < < 0>ehitajad< / 0>: aidake kaasa Meedide loomisele ja edendamisele
+- **Kasutajad**: osalege nende kogukondades
+- **Investorid**: toetage meid likviidsuse ja žetoonide ostmisega
 
-Each category of stakeholders receives a share of the MEED supply, which is subject to votes by the DAO.
+Iga sidusrühmade kategooria saab osa pakkumisest, mille üle hääletab DAO.
 
-## 3.3. Users
+## 3.3. Kasutajad Reserveerivad
 
-Part of the continuously minted MEED tokens is allocated to sponsor user engagement through the Mintium model (see 2.6). A global engagement index is calculated periodically across all Hubs of the WoM to allocate MEED rewards to the Hubs. Mintium rewards are claimable by Hub leaders and Deed owners.
+Osa pidevalt vermitud Meedsi tokenitest eraldatakse kasutajate kaasamise sponsoreerimiseks Mintiumi mudeli kaudu (vt 2.6).
 
-## 3.4. Builders
+Globaalne seotuse indeks arvutatakse perioodiliselt kõigis WoM-i keskustes, et eraldada keskustele Meedsi preemiaid. Mintiumi preemiad on Rummu juhtide ja aktide omanike poolt nõutavad.
 
-The Meeds DAO operates the WoM and the MEED token supply. A multi-sig smart contract called the _Meeds DAO Funds_ manages the operating expenses. It receives **30% of the minted MEED** to support Builders.
+## 3.4. Ehitajate Reserv
 
-The Meeds Association is entitled to hire service provider companies on behalf of the Meeds DAO to cover legal fees, development, and hosting costs using the Meeds DAO Funds.
+Meeds DAO haldab WoM - i ja MEED-märgi pakkumist. Multi-sig smart leping nimega _ Meeds DAO fondid _ haldab tegevuskulusid. See saab **30% vermitud MEEDIST** Ehitajate toetamiseks.
 
-Organizations and individuals not members of the Meeds Association may still contribute through the _Meeds Builders Hub_  - a community hub that welcomes enthusiasts who want to participate in creating and promoting the WoM. The <0>Meeds DAO Funds</0> also reward for contributions to the Builders Hub.
+Meedsi Ühingul on õigus palgata Meeds DAO nimel teenusepakkujaid, et katta meets DAO fondide abil õigusabitasud, arendus-ja hostimiskulud.
 
-The Builders Hub also receives Mintium rewards like any other hub.
+Organisatsioonid ja üksikisikud, kes ei ole Meetsi Ühingu liikmed, võivad siiski panustada _ Meedsi Ehitajate Keskuse_ kaudu-kogukonna keskus, mis tervitab entusiaste, kes soovivad osaleda WoM-i loomisel ja reklaamimisel. Et <0>Meeds DAO fondid</0> tasu ka Ehitajate Keskuse sissemaksete eest.
 
-After the minting period is over, the operational costs of the Meeds DAO will be supported by :
+Ehitajate keskus saab ka Mintiumi preemiaid nagu iga teine sõlmpunkt.
+
+Pärast vermimisperioodi lõppu toetatakse Meeds DAO tegevuskulusid :
 
 - passiivse sissetuleku maksustamine (3% Deedsi üürileandmisest)
 - müügitulu maksustamine (2,5% Deedi müügist)
 - tehingutasude tajumine soodustuste kaupluste kasutamise üle
 - tegutsemine likviidsusparkide pakkujana
-- perceiving transaction fees when a Hub distributes alternative tokens on their Hubs
+- tehingutasude tajumine, kui jaotur levitab oma jaoturites alternatiivseid märke
 - <0>Investorid</0>: Meedsi DAO motiveerib MEED märgi omanikke MEEDis osalema või Meedsi majandusele likviidsust tagama
 
+## 3.5. Investors Reserve
 
-## 3.5. Investorid
+Investorid toetavad WoM-i, pakkudes likviidsust ja panustades Meeds tokeneid, mis aitab stabiliseerida hinnataset ehitusetapis. Stiimulid on olemas nii:
 
-Investors support the WoM by providing liquidity and staking MEED tokens, which helps stabilize the price level during the building phase. Incentives are in place for both:
-
-**Liquidity providers** Currency liquidity management is crucial to the project's success. Meeds DAO kasutab oma kapitalitõhususe optimeerimiseks erinevaid DeFi mehhanisme. Näiteks võimaldavad stiimulid likviidsuse pakkujatel oma LP-märke rentides kasvatada saaki. Also, there are plans to introduce bonds and move towards protocol-owned liquidity progressively. The latter will contribute to the project's long-term sustainability - as mentioned above, transaction fees will fund the operating expenses.
+** likviidsuse pakkujad** Valuuta likviidsuse juhtimine on projekti edukuse jaoks ülioluline. Meeds DAO kasutab oma kapitalitõhususe optimeerimiseks erinevaid DeFi mehhanisme. Näiteks võimaldavad stiimulid likviidsuse pakkujatel oma LP-märke rentides kasvatada saaki. Samuti on kavas kasutusele võtta võlakirjad ja liikuda järk-järgult protokollile kuuluva likviidsuse poole. Viimane aitaks kaasa ühingu pikaajalisele jätkusuutlikkusele - nagu eespool mainitud, rahastatakse tehingutasudega ühingu tegevuskulusid, näiteks pilvemajutuse kulusid.
 
 Lisaks on Meedsi ühingul Meeds DAO nimel õigus hõlbustada MEED žetoonide suuremas koguses börsiväliseid (off-shelf) oste.
 
-**Staking / long-term investment** Meeds DAO rewards loyal investors who want to support Meeds long-term. Igaüks saab panustada oma kasutamata MEED-märgid, et teenida tulu ja xMEED-märke.
+**panustamine / pikaajaline investeering** Meeds DAO premeerib lojaalseid investoreid, kes soovivad Meedsi pikaajaliselt toetada. Igaüks saab panustada oma kasutamata MEED-märgid, et teenida tulu ja xMEED-märke.
 
-Staking toob kaasa xMEED žetoonide vermimise proportsionaalselt deponeeritud MEED žetoonidega. XMEED-märk on Meedsi juhtimismärk, mida kasutatakse DAO ettepanekute hääletamiseks.
+Kui kasutaja panustab MEED-märke, lukustab nutikas leping selle sissemakse ja vermib xMEED-märke proportsionaalselt.
 
-Lisaks teenivad xMEED-i omanikud vermimispunkte, mis annavad neile õiguse vermida Deed NFT-sid. This mechanism increases the demand for MEED tokens. Minting points accrue over time as long as the stakeholder maintains his stake. The formula below allows you to calculate minting points :
+Meeds DAO kasutab xMEED-i oma juhtimismärgina; seetõttu võivad selle omanikud osaleda ettepanekute hääletustel.
+
+Lisaks teenivad xMEED-i omanikud vermimispunkte, mis annavad neile õiguse vermida Deed NFT-sid.
+
+Vermimispunktid kogunevad aja jooksul seni, kuni sidusrühm säilitab oma osaluse. Allolev valem võimaldab teil arvutada vermimispunkte :
 
  $$ P = xMEED / (xMEED + 12000) * T / 240 $$
 
- Where:
+ Kus:
 
-- $xMEED$: xMEED balance  with no decimals
+- $xMEED$: xMEED saldo ilma kümnendkohtadeta
 - $T$: kulunud aeg millisekundites
 
 Valem väldib suurte omanike eelistamist tegude tõhusamaks ja õiglasemaks levitamiseks. Näiteks annab valem järgmised määrad :
@@ -89,18 +116,19 @@ Need kogunevad määrad annavad iga omanikuklassi jaoks järgmise hoidmisaja:
 
 xMEED žetoonide omanikud saavad vabalt osaleda Meeds DAO juhtimises, hääletades oma žetoonidega selliste otsuste üle nagu eelarvejaotuse haldamine või DAO juhatuse liikmete valimine.
 
-## 3.7. Detsentraliseeritud finantsteenuste (DeFi) kasutajateenused
+## 3.7. DeFi Teenused
 
-WoM tutvustab plokiahela maailma paljudele inimestele, kes seda täna ei kasuta.
+Meie lähenemisviis võimaldab meil kvantifitseerida ja määrata rahalise väärtuse peaaegu igat liiki panusele (olgu see digitaalne või mitte) ning premeerida seda žetoonidega.
 
-Tõepoolest, Meedsi tarkvara saab mänguliseks muuta ja määrata rahalise väärtuse mis tahes panusele (olgu see digitaalne või mitte) ning premeerida seda MEED-märkidega. This has be made possible by an easy-to-use, blockchain-based wallet app that simplifies access to the crypto world for an average user, rewards are tangible.
+Kuigi kasutame Web3 ja plokiahela tehnoloogiat, on meie eesmärk muuta see kasutajatele sujuvaks. Seetõttu pakub Hubs hõlpsasti kasutatavat rahakotirakendust ja sisemist hüvede poodi, mis lihtsustab kaastööliste preemiamärkide haldamist.
 
-Beyond the wallet and a store where they can purchase perks for MEED tokens, we plan to introduce every user to several end-user products powered by the Decentralized Finance protocols, such as:
+Seetõttu pakub Meeds turvalist ja läbipaistvat sisenemist krüptovaluutade keerukasse krüptomaailma paljudele kasutajatele, kes pole sellega veel kokku puutunud.
 
-- Võimalus panustada MEED žetoone ja saada tulu (tulu teenida)
-- The ability to use MEED tokens as collateral to borrow stablecoins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the MEED token to [AAVE](https://aave.com/).
-- A digital card can be added and used through Apple Pay, Google Pay, or any ATM. The latter can be provided through a partnership with VISA and will leverage a credit line in USDC, secured by xMEED. Organizations could also use this card to fund employee wallets to manage employee benefits such as restaurants, transportation, and other expenses.
+Kavatseme detsentraliseeritud finantseerimisprotokollide (DeFi) kaudu tutvustada rohkem MEED- ja XMEED-märke toitavaid lõppkasutajatele mõeldud tooteid, näiteks:
 
-So, not only will many new users discover the blockchain world, but they will also discover a bankless world.
+- Teenige tulu teenitud žetoonide panustamisel
+- Laenake, kasutades tagatisena teenitud märke
+- Makske päriselus krediitkaardiga, mille tagatiseks on teie osalus
 
- 
+Seega ei avasta paljud uued kasutajad mitte ainult žetoonide teenimist, vaid avastavad ka pankadeta maailma.
+

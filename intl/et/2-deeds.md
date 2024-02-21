@@ -1,21 +1,21 @@
 
-# 2. Deeds - The Properties of the WoM
+# 2. Teod-Omadused
 
 ## 2.1. Deed NFTs
 
-In the digital realm, Non-Fungible Tokens (NFTs) serve a similar purpose to deeds in the physical world. Nagu tegu, mis kinnitab materiaalse vara omandiõigust, loovad NFT-D digitaalsete varade vaieldamatu omandiõiguse. See omandiõigus registreeritakse turvaliselt plokiahelas, tagades, et iga vara on ainulaadne ja kordumatu.
+Digitaalvaldkonnas toimivad mitteasendatavad märgid (NFT-d) nagu füüsilise maailma teod. Kinnitades digitaalsete varade omandiõigust turvaliselt plokiahela kaudu, loovad need vaieldamatu omandiõiguse, mis on sarnane materiaalse vara dokumentidega, tagades iga vara ainulaadsuse ja korramatuse.
 
-Emakas on tegu kontseptualiseeritud kui NFT, mis esindab omandiõiguse põhiüksust. Akti omamine annab selle omanikule õiguse hallata Kogukonnakeskust ja muudab nad kõlblikuks Mintiumi preemiate saamiseks, mis on Wom-i ökosüsteemis tunnustamise ja stiimuli vorm (üksikasjad jaotises 2.6).
+WoM-i kontekstis käsitletakse akti kui NFT-d, mis esindab omandiõiguse alusüksust. Akti omamine annab üksikisikutele võimaluse hallata __Community Hubi__. See kvalifitseerub Mintiumi auhindade saamiseks – sponsorluse vormiks kogukondadele, mis loovad oma liikmetega autentset suhtlust (lisateave jaotises 2.6).
 
-Uss on loodud mitmekesiseks ja kaasavaks platvormiks. See tervitab laia valikut organisatsioone, alates Dao-dest, traditsioonilistest ettevõtetest ja ühendustest kuni mõttekodade, teatriettevõtete, projektirühmade ja haridusasutusteni. Sellel digitaalsel maastikul sümboliseerib tegu organisatsiooni digitaalset kohalolekut ja jalajälge naistel, toimides sillana nende reaalse tegevuse ja digitaalsete ettevõtmiste vahel.
+WoM on mitmekesine ja kaasav platvorm. See tervitab erinevaid organisatsioone alates DAO-dest, traditsioonilistest ettevõtetest ja ühendustest kuni mõttekodade, teatriettevõtete, projektirühmade ja haridusasutusteni. Tegu sümboliseerib organisatsiooni digitaalset kohalolekut ja jalajälge sellel digitaalsel maastikul. See toimib sillana reaalmaailma operatsioonide ja digitaalsete ettevõtmiste vahel.
 
 ## 2.2. Deeds tarne
 
-WoM tarnib lõppkokkuvõttes piiratud hulga Deedeid. Each Deed includes a predefined maximum number of users and offers a capacity of rewarding (Minting Power). Mõiste "kasutaja" tähistab siin ja edaspidi mis tahes liiki töötajat, töötajat, vabakutselist, vabatahtlikku jne.
+WoM tarnib lõppkokkuvõttes piiratud hulga Deedeid. Iga tegu sisaldab eelmääratletud maksimaalset kasutajate arvu ja pakub tasustamisvõimsust (Minting Power). Mõiste __kasutaja__ tähistab siin ja edaspidi kõiki töötajaid, töötajaid, vabakutselisi, vabatahtlikke jne.
 
-Tegusid on nelja tüüpi, millest igaüks pakub erinevaid võimalusi kasutajate arvu, linnas hääleõiguse (vt 2.7) või vermimisjõu osas, kõige haruldasem on kõige võimsam :
+Tegusid on nelja tüüpi, millest igaüks pakub erinevaid võimalusi kasutajate arvu, hääleõiguse __linnas__ (vt 2.7) või vermimisvõime osas, millest kõige haruldasem on kõige võimsam:
 
-| **Deed tüüp** | **Maksimaalsed kasutajad** | **Minting power** | **Puudus** | **Linna hääleõigus** |
+| **Deed tüüp** | **Maksimaalsed kasutajad** | **Minting power** | **Puudus** | **Linna hääletused** |
 | ------------- | -------------------------- | ----------------- | ---------- | -------------------- |
 | Ühine         | 100                        | 1                 | ~ 90%      | 1                    |
 | Ebatavaline   | 1000                       | 1.1               | ~ 9%       | 10                   |
@@ -24,63 +24,63 @@ Tegusid on nelja tüüpi, millest igaüks pakub erinevaid võimalusi kasutajate 
 
 ## 2.3. Deedsi omandiõigus
 
-Deed annab omanikule õiguse seda kasutada, rentida või müüa.
+Akt annab selle omanikule õiguse seda KASUTADA, ÜÜRIDA või MÜÜA.
 
-- Kasutamine-omanik saab akti kasutada oma organisatsiooni Keskuse juhtimiseks.
+- KASUTAMINE – omanik saab kasutada akti oma organisatsiooni keskuse haldamiseks.
 - Üür-omanik saab akti rentida ka teisele organisatsioonile ja teenida passiivset tulu.
 - Müüa-omanik saab seda müüa teisesel NFT turul, näiteks < 0 > OpenSea< / 0>.
 
-Olles akti Aktiivne omanik või rentnik, on organisatsioonil õigus saada MEED preemiaid vastavalt allpool kirjeldatud mudelile "mintium" (vt 2.6).
+Olles Akti aktiivne omanik või rentija, on organisatsioonil õigus saada MEED preemiaid vastavalt allpool kirjeldatud "Mintiumi" mudelile (vt 2.6).
 
 ## 2.4. Ühenduse Sõlmpunktid
 
-Tänapäeva konkurentsiturul püüavad organisatsioonid meelitada ja säilitada tipptalente mitte ainult hüvitise, vaid ka tööalase kaasatuse suurendamise kaudu. WoM tegeleb selle väljakutsega ainulaadse, märgistatud preemiasüsteemiga, mis on kehastatud kogukonna sõlmpunktides.
+Organisatsioonid püüavad meelitada ja hoida tänapäeva konkurentsitiheda turul tipptalente hüvitise ja tööalase kaasatuse suurendamise kaudu. WoM lahendab selle väljakutse erilise sümboolse tasusüsteemiga, mis on integreeritud kogukonna keskustesse.
 
-Nendes jaoturites, kogukonna juhid saavad juhtida liikmete kaasamist, pakkudes tööobjektide jaoks läbipaistvat stiimulite menüüd. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
+Nendes jaoturites saavad kogukonna juhid suurendada liikmete seotust, pakkudes läbipaistvat menüüd stimuleeritud tööobjektidest. Osalejad teenivad oma pingutuste eest kaasamispunkte. Seejärel teisendab süsteem need punktid perioodiliselt eelnevalt kindlaksmääratud eelarve alusel preemiamärkideks
 
 Kogukonna jaoturid pakuvad tööriistade ja funktsioonide komplekti, mis on loodud kaastöötajate kaasamise suurendamiseks ja haldamiseks:
 
 - < 0 > tegevused< / 0>: stimuleeritud ülesanded suunavad kaasautoreid, viies nende jõupingutused vastavusse organisatsiooni eesmärkidega ning suurendades motivatsiooni ja suunda.
 - **Gamification< / 0>: edetabelid ja märgid muudavad töö lõbusaks, konkurentsivõimeliseks kogemuseks, suurendades kaasatust ja naudingut.</li>
-- < 0 > Kaasamisprogrammid< / 0>: konkreetsete eesmärkide ja hüvedega kohandatud programmid selgitavad organisatsiooni eesmärke ja tunnustavad õiglaselt kaastöötajate saavutusi.
+- **Kaasamisprogrammid**: konkreetsete eesmärkide ja preemiatega kohandatud programmid selgitavad organisatsiooni eesmärke ja tunnustavad võrdselt panustajate saavutusi.
 - < 0 > Kiitus< / 0>: kohene vastastikune tunnustamine suurendab moraali ja soodustab hindamiskultuuri, suurendades meeskonna ühtekuuluvust ja motivatsiooni.
 - **ruumid< / 0>: organiseeritud alarühmad ja projektid lihtsustavad suhtlemist ja koostööd, suurendades kollektiivset tootlikkust.</li>
-- < 0 > rahakott< / 0>: rahakoti rakendus salvestab turvaliselt MEED-preemiad, mis esindavad kasutajate sissemakseid, ja võimaldab hõlpsaid tehinguid nii keskuses kui ka laiemas võrgus.
-- **Perks< / 0>: Mitmesugused hüved, alates kinkekaartidest kuni NFT-Deni, stimuleerivad pidevat kaasamist ja soodustavad lojaalsust organisatsiooni ökosüsteemis.</li>
+- **Rahakott**: rakendus Wallet salvestab turvaliselt MEED-preemiad, mis esindavad kasutajate panust, ning võimaldab teha lihtsaid tehinguid keskuses ja laiemas võrgus.
+- **Soodustused**: mitmesugused preemiad, alates kinkekaartidest kuni NFT-deni, ergutavad pidevat kaasamist ja edendavad lojaalsust organisatsiooni ökosüsteemis.
 - < 0 > ülesanded< / 0>: sujuvamad projekti-ja ülesannete haldamise tööriistad suurendavad tootlikkust, lihtsustades töövooge ja jälgides edusamme.
 - **märkused< / 0>: mugav sülearvuti rakendus olulise teabe dokumenteerimiseks, nagu onboarding juhendid, edendab teadmiste jagamist ja organisatsiooni iseseisvust.</li>
-- < 0 > Branding< / 0>: kohandatav jaoturi välimus meelitab uusi kaastöötajaid ja tugevdab nende sidet organisatsiooni identiteediga.
+- **Bränding**: kohandatav keskuse välimus meelitab ligi uusi kaastöölisi ja tugevdab nende sidet organisatsiooni identiteediga.
 - < 0 > Analytics< / 0>: insightful analytics arvesse kogukonna kaasamine võimaldab juhtidel tuvastada tõhusaid strateegiaid ja teha teadlikke otsuseid optimeerimine.</ul>
 
 
-< 0 > Rummu käivitamine< / 0> Rummu algatamine on kõige sujuvam meeds.io, mis pakub juurdepääsu pilveplatvormile, mida haldab vajaduste Ühing. See platvorm võimaldab kiiret seadistamist ja seda haldab naist korrapidav mittetulundusühing. Kuid WoM näeb ette detsentraliseerimist. Kuna Meeds-tarkvara on avatud lähtekoodiga ja vabalt levitatav, on organisatsioonidel võimalus ise hostida jaoturi serverit ja luua ühendus WoM-võrguga, andes neile suurema kontrolli ja kohandamise oma jaoturi seadistamisel ja haldamisel.
+**Bränding**: kohandatav keskuse välimus meelitab ligi uusi kaastöölisi ja tugevdab nende sidet organisatsiooni identiteediga. Kuid WoM näeb ette detsentraliseerimist. Kuna Meedsi tarkvara on avatud lähtekoodiga ja vabalt levitatav, saavad organisatsioonid ise hub-serverit majutada ja luua ühenduse WoM-võrguga, andes neile häälestuse ja haldamise üle suurema kontrolli ja kohandamise.
 
-**Töösignaalide Hõivamine** Jaoturid saavad integreeruda erinevate platvormidega, nagu GitHub, Twitter ja Discord, ning neid saab API kaudu laiendada, et luua ühendus selliste teenustega nagu CRM-tarkvara, raamatupidamistarkvara ja kellaterminalid. See võimaldab tunnustada ja premeerida mitmekesist professionaalset panust. Kõik pistikud läbivad ühenduse Meeds lubatud nimekirja lisamise protsessi, et tagada terviklikkus ja funktsionaalsus.
+**Töösignaalide Hõivamine** Jaoturid saavad integreeruda erinevate platvormidega, nagu GitHub, Twitter ja Discord, ning neid saab API kaudu laiendada, et luua ühendus selliste teenustega nagu CRM-tarkvara, raamatupidamistarkvara ja kellaterminalid. See laiendatavus võimaldab tunnustada ja premeerida erinevaid professionaalseid panuseid. Kõik pistikud läbivad kontrolli, et tagada terviklikkus ja funktsionaalsus.
 
-**Perks Store ' i rikastamine** Organisatsioonid saavad poodi kohandada kohandatud hüvedega, sealhulgas koolituskursused ja jõusaaliliikmed, luues ennast tugevdava preemiate ja kaasamise tsükli. See mitte ainult ei stimuleeri panustajaid, vaid soodustab ka sügavamat sidet organisatsiooni ökosüsteemiga.
+**Perks Store ' i rikastamine** Organisatsioonid saavad poodi kohandada kohandatud hüvedega, sealhulgas koolituskursused ja jõusaaliliikmed, luues ennast tugevdava preemiate ja kaasamise tsükli. See sisemine pood motiveerib veelgi panustajaid ja soodustab sügavamat sidet organisatsiooni ökosüsteemiga.
 
-** kaasamine ja preemiad** Aktiivne osalemine keskuses aitab kaasa organisatsiooni globaalsele kaasamise skoorile. See mõõdik peegeldab kaasamisstrateegiate tõhusust, võttes arvesse selliseid tegureid nagu kasutajate aktiivsuse tase ning töö ja hüvede õiglane jaotus. See avalikult auditeeritav skoor annab jaoturitele õiguse jaotada protokollist vermitud VAJADUSMÄRGID, mis on nende kaasamisstrateegiate tõhususe mõõdupuuks.
+**Kaasamine ja preemiad** Aktiivne osalemine aitab kaasa organisatsiooni globaalsele kaasamisskoorile. See mõõdik peegeldab kaasamisstrateegiate tõhusust, võttes arvesse selliseid tegureid nagu kasutajate aktiivsuse tase ning töö ja hüvede õiglane jaotus. See avalikult auditeeritav skoor annab jaoturitele õiguse jaotada protokollist vermitud VAJADUSMÄRGID, mis on nende kaasamisstrateegiate tõhususe mõõdupuuks.
 
-Tulevikku vaadates on Ussiökosüsteemi kogukonnakeskused muutunud kogukonna elus keskseks, integreerides sisekommunikatsiooni, reaalajas suhtlemist, juhtimist ja erinevaid tootlikkuse tööriistu. Need täiustused tagavad, et jaoturid on endiselt ühendatud parimate tööriistadega, mida organisatsioonid juba kasutavad. Need on võimas tunnistus Meedsi pühendumisest elava ja kaasatud kogukonna edendamisele.
+Jaoturite eesmärk on muutuda kogukonna elu keskseks, integreerides sisekommunikatsiooni, reaalajas suhtlust, juhtimist ja erinevaid tootlikkuse tööriistu. Need täiustused tagavad, et need on omavahel seotud parimate organisatsioonide kasutatavate tööriistadega. Need on võimas tunnistus Meedsi pühendumisest elava ja kaasatud kogukonna edendamisele.
 
 
 ## 2.5. Rahuldust Mudel
 
-WoM-is stimuleeritakse ja mängitakse kasutajate seotust erinevate tööalaste tegevustega, mis on kohandatud iga kogukonnakeskuse ainulaadsete programmide jaoks. Kasutajad teenivad punkte, mis kajastavad nende aktiivset osalemist, kusjuures iga kogukond määrab punktide jaotamiseks oma reeglid.
+WoM ergutab ja muudab kasutajate kaasamise erinevatesse töötegevustesse, mis on kohandatud igale ainulaadsele programmile. Kasutajad teenivad punkte, mis kajastavad nende aktiivset osalemist, kusjuures iga kogukond määrab punktide jaotamiseks oma reeglid.
 
 Näiteks võib IT-ettevõte anda GitHubis kodeerimise eest 10 punkti, samas kui digitaalne agentuur võiks sarnaste punktidega sotsiaalmeedia kaasamisele, näiteks retweetidele, suuremat väärtust anda.
 
-Regulaarsed preemiate jaotused põhinevad igas jaoturis kogunenud punktidel. Tavaliselt antakse need MEED-märkidena, mis toimetatakse otse kasutajate rahakotti. Kui MEED-märgid on tasu standardvorm, siis jaoturitel on paindlikkus pakkuda erinevat tüüpi hüvitisi.
+Regulaarsed preemiajaotused toimuvad, kuna iga keskuse panustajad teenivad punkte. Kasutajad saavad automaatselt oma rahakotti MEED (või muud) märgid.
 
-Kui preemiaid jagatakse muudes žetoonides kui MEED, rakendatakse nominaalset tasu 5%. See tasu aitab kaasa Meedsi riigikassale, mängides olulist rolli ökosüsteemi jätkusuutlikkuse säilitamisel.
+Kui MEED-märgid on tasu standardvorm, siis jaoturitel on paindlikkus pakkuda erinevat tüüpi hüvitisi. Sel juhul rakendatakse protokollis 5% nominaalset tasu. See tasu aitab kaasa Meedsi riigikassale, mängides olulist rolli ökosüsteemi jätkusuutlikkuse säilitamisel.
 
-## 2.6. "Mintiumi" mudel - tööga tegelemise sümboliseerimine
+## 2.6. Minimaalne
 
 Dengan melibatkan pengguna mereka dalam WoM, komunitas mendapatkan kompensasi melalui model mintium yang inovatif.
 
-Keskuste kasutajate poolt kogutud kaasamispunktid osalevad ülemaailmses kaasamisindeksis, mille arvutab Meeds Assotsiatsioon. Indeks kasutab sama põhimõtet kõigi sõlmpunktide puhul. Kuigi kogukond võib muuta punktide jaotust, et soodustada ühte meedet teise asemel, ei võeta neid muudatusi arvesse üldindeksi arvutamisel.
+Kasutajate kogutud kaasamispunktid osalevad globaalses seotuse indeksis. Kogukondade poolt tegevustele määratud punktiväärtuste erinevused ei mõjuta globaalse indeksi arvutamist.
 
-Each week, a certain amount of MEED is allocated to the global engagement minting of the WoM. See arvutatakse iganädalaselt proportsionaalselt osalevate keskuste vahel. Mõned sõlmpunktid saavad lisatõuke sõltuvalt kasutatava teo tüübist. The Hubs that claim their MEED tokens over the week, receive them. The unclaimed MEED tokens are added to the following week’s global distribution amount.
+WoM eraldab igal nädalal mõned MEED-märgid ülemaailmsele kaasamisfondile. See arvutatakse iganädalaselt proportsionaalselt osalevate keskuste vahel. Some Deeds get an additional boost depending on their type. Hubid, kes nõuavad nädala jooksul oma Meedsi märke, saavad need kätte. Taotlemata MEED-märgid suurendavad järgmise nädala eraldist.
 
 Deed'i kaasamise skoor _S_ on funktsioon kaasamisest, kaasatud kasutajate arvust ja jaotusest :
 
@@ -92,35 +92,37 @@ Kus :
 - $U$ = _Engaged users_ - kasutajad, kes panustasid nädala jooksul vähemalt ühe tegevusega punktide kogumisse.
 - $E_d$ = _Jaoturi kaasamismäär_ – toimingud kasutaja kohta ($A/U$)
 - $E_w$ = kõigi WoM-i aktiivsete jaoturite _keskmine kaasamismäär_.
-- $D_r$ = _Distribution rate_ - if a Hub received minted MEED for the preceding period, the % of MEED that was distributed to its users. Protsent võib olla üle 100, kui jaotamine on ajaliselt hilinenud.
-- $D_s$ =  _Distribution spread_ - if a Hub received minted MEED tokens for the preceding period, the % of the users that received MEED in the total pool of users.
+- $D_r$ = _Distribution rate_ - kui Hub sai vermitud Meedsi eelmise perioodi eest, siis selle kasutajatele jaotatud MEED protsent.
+- $D_s$ = _Distribution spread_ - kui Hub sai eelmise perioodi eest vermitud Meedsi tokeneid, siis Meedsi saanud kasutajate protsent kasutajate koguarvust.
 - $M$ = _Minting Power_ Deed, nagu on määratletud punktis 2.3
 
 
-The global engagement index used to distribute minted MEED among the Hubs is the sum of all Hubs’ weekly engagement scores.
+Ülemaailmne seotuse indeks, mida kasutatakse vermitud Meedide jaotamiseks keskuste vahel, on kõigi keskuste iganädalaste seotuse skooride summa.
 
 
 Ülaltoodud valem on lihtne ja mõeldud sõlmpunktide eelistamiseks:
 
 - kus on palju pühendunud kasutajaid (engagement)
-- kes jagavad kogu rahapaja tulu (jaotamismäär) õiglaselt oma kasutajatega (jaotamise levik).
+- kes jagavad kogu vermimistulu (jaotusmäär) õiglaselt oma kasutajatega (jaotusmäär).
 
-Lisaks on võimendajad olemas :
+Lisaks on võimendid paigas järgmiste jaoks:
 
 - organisatsioonid, mille kaasatus on suurim, sõltumata nende suurusest (kaasatuse määr võrreldes WoMiga)
 - haruldasemad deedid
 
-> The Meeds Association reserves the right to change the formula if required – if some specific use cases arise, for instance. Ühing võib ka musta nimekirja panna mis tahes keskuse, mis kaaperdab valemit oma ainuüksi kasuks.
+Valem areneb ja seda häälestatakse, et optimeerida ja piirata allahindluste mõju ja kuritarvitamist. Lisaks rakendab protokoll halbade osalejate välistamiseks ka kärpimisrutiine.
 
-As the Hubs are rewarded with MEED and incentivized to redistribute them as rewards to their users against their engagement – the interests of both the communities and their users are aligned in the same virtuous revenue-sharing cycle. Seega pakub WoM uut töömudelit, mis kujundab tööandja ja töötaja suhte ümber partnerluseks.
+Kuna keskusi premeeritakse Meedsiga ja stimuleeritakse neid oma kasutajatele nende kaasamise eest preemiatena ümber jagama - nii kogukondade kui ka nende kasutajate huvid on joondatud samasse tõhusasse tulude jagamise tsüklisse. Seega pakub WoM uut töömudelit, mis kujundab tööandja ja töötaja suhte ümber partnerluseks.
 
-"Mintiumi" mudel on esimene omataoline - see läheb traditsioonilisest freemium-mudelist kaugemale, sest mitte ainult teenuste kasutamine ei ole tasuta, vaid nii organisatsioonid kui ka nende kasutajad saavad nende kasutamise eest tasu.
+The "Mintium" model goes further than the freemium model, as the services are free to use, and it rewards both organizations and their members for using them.
 
-## 2.7. Linnad ja valitsemine
+## 2.7. Linn
 
-WoMis tekivad teod järk-järgult virtuaalsete linnade sees. Ainult esimene linn on algusest peale olemas. Teised ehitatakse järk-järgult üksteise järel. Kogu WoMis on alati ainult 7 linna, millest igaühes on kindel arv igat tüüpi Deedeid.
+Meedide maailmas on teod nagu kinnisvaraobjektid virtuaalsetes linnades, kus kogukonnad saavad elama asuda.
 
-Linn loetakse täielikuks, kui kõik selle Deedid on vermitud. Siis algab iga uue linna vermimine $2^n$ kuud pärast viimase $n-1$ linna Deed'i vermimist.
+Neid on piiratud koguses ja need võivad eksisteerida ainult siis, kui keegi lunastab need panuse kaudu kogutud vermimispunktiga.
+
+WoM-il on **7** järjestikuste aktide vermimise etappi, mida me nimetame __linnadeks__. Kui protokoll vermib linna viimase akti, peatab see $2^n$ kuud enne kui lubab $n^th$ linna vermimist.
 
 | **Linna nimi** | **Deeds**   | **Saadaval**       | **Ühine**  | **Ebatavaline** | **Haruldased** | **Legendaarne** |
 | -------------- | ----------- | ------------------ | ---------- | --------------- | -------------- | --------------- |
@@ -134,14 +136,19 @@ Linn loetakse täielikuks, kui kõik selle Deedid on vermitud. Siis algab iga uu
 
 Linn on viis, kuidas kogukonnad saavad kokku ja loovad suurema kogukonna. Ja selle tulemusena omandavad nad teatud identiteedi, mis on seotud selle kogukonnaga. Samuti on see võimalus pakkuda oma kasutajatele lisaväärtust - väärtust, mis ületaks ühe kogukonna võimalusi või väärtust, mis on loodud kogukondade vahelise koostöö kaudu.
 
-Igal linnal on oma valitsus ja tal on oma DAO, kus linna Deed'i omanikud saavad valida oma linnavolikogu, hääletada ja kehtestada oma tegevuseeskirjad, lisada uusi teenuseid ja kujundada oma linna nii, nagu nad soovivad, et suurendada linna atraktiivsust ja sellega seotud Deed'ide väärtust.
+Igal linnal on sõltumatu juhtimine ja ta tegutseb alam-DAO-na. Kodanikud valivad volikogu ja hääletavad oma tegevusreeglite üle. See detsentraliseeritud valitsemine võimaldab linnadel iseseisvalt areneda, arendada oma kodanikele kohandatud teenuseid ja suurendada tegude väärtust.
 
-For example, they could add a digital representation of their city, physical counterparts associated with their city (meeting rooms in physical co-working spaces for instance), add food services, vacations services, etc...
+Näiteks võivad nad lisada reaalses maailmas füüsilisi vasteid, nagu juurdepääs koosolekuruumidele füüsilistes ühistööruumides, toitlustusteenused, reisiteenused jne.
 
-Vaikimisi (kui linn ei hääleta teisiti) "maksustab" linn (5%) ja assotsiatsioon (3%) passiivset tulu, mis saadakse Deeds'i väljaüürimisest, et soodustada tootlikku kasutamist.
+## 2.8. Maksud
 
-Omanikutehingud (Deed's sales) maksustatakse samuti 6% :
+Akti üüritulult maksustatakse **8%** maks:
 
-- 2,5% linna jaoks,
-- 2,5% assotsiatsioonile,
-- 1% algsele rahakotile, mis lunastas Deed.
+- **5%** linna kassasse,
+- **3%** Meeds DAO riigikassa jaoks,
+
+Akt müügitulult maksustatakse **6%** maks:
+
+- **2,5%** linnakassasse,
+- **2,5%** Meedsi DAO riigikassa jaoks,
+- **1%** algse rahakoti eest, mis akti lunastas.
