@@ -1,15 +1,19 @@
 
 # 1. Über uns
 
-Meeds is a collaborative effort led by diverse open-source software (OSS) communities dedicated to creating a decentralized digital world that resists centralized corporate control and promotes a free and open environment.
+Meeds ist eine kooperative Anstrengung, die von verschiedenen Open Source Software (OSS) Communities geleitet wird, die sich der Schaffung einer dezentralisierten digitalen Welt widmen, die einer zentralisierten Unternehmenskontrolle widersteht und ein freies und offenes Umfeld fördert.
 
-The Meeds project uses the Ethereum ecosystem to implement the WoM protocols and manage the supply of the MEED token. This approach has helped prioritize security, accessibility, usability, and cost-effectiveness, making it attractive to a broad user base. However, the WoM is designed to be an autonomous and self-sufficient public good, aiming to become multichain.
+Mithilfe des Ethereum-Ökosystems implementieren wir die WoM-Protokolle und überwachen die Bereitstellung des MEED-Tokens. Diese Strategie hat es uns ermöglicht, Sicherheit, Zugänglichkeit, Benutzerfreundlichkeit und Kosteneffizienz in den Vordergrund zu stellen und sie so für eine vielfältige Benutzergruppe attraktiv zu machen. Dennoch haben wir das WoM als autonomes und autarkes öffentliches Gut konzipiert, mit dem Ziel, über mehrere Ketten hinweg zu expandieren.
 
-The legal entity behind Meeds is the _Meeds Association_, a non-profit organization registered under Swiss law in Geneva. It is responsible for regulating the issuance of MEED tokens and contracting with service providers.
+Die juristische Person hinter Meeds ist die _Meeds Association_, eine gemeinnützige Organisation nach Schweizer Recht in Genf. Es ist für die Regulierung der Ausgabe von MEED-Tokens und die Vertragsabschlüsse mit Dienstleistern verantwortlich.
 
-The Meeds Association intends to progressively hand over control of the Meeds protocol and treasuries to the _Meeds DAO_, which is the decentralized autonomous organization that represents the decentralized governance arm of the Meeds ecosystem, empowering the community to participate in decision-making, proposal voting, and protocol upgrades.
+Die Meeds Association beabsichtigt, die Kontrolle über das Meeds-Protokoll und die Kassen schrittweise an die _Meeds DAO_ zu übergeben. Diese dezentrale autonome Organisation stellt den dezentralen Governance-Arm des Ökosystems dar und befähigt die Community, sich an der Entscheidungsfindung, der Abstimmung von Vorschlägen und der Protokollaktualisierung zu beteiligen
 
-The relationship between the Meeds Association and Meeds DAO involves how they operate in the real world. Meeds Association is a traditional organization that have members, a board of directors, and operates under specific legal and regulatory frameworks. In the real world, Meeds Association may engage in activities such as organizing events, providing services, and advocating for its members. It may also have a physical office and staff members. Meeds DAO, on the other hand, operates without a central authority and make decisions through consensus of its members using blockchain-based voting mechanisms. It may also engage in activities such as funding projects, managing assets, and making decisions through smart contracts.
+Die Beziehung zwischen dem Verband und dem DAO hängt davon ab, wie sie in der realen Welt agieren.
 
-The WoM is built as open-source software ([github.com/meeds-io](https://github.com/meeds-io)) and hosted by partners selected by the Meeds Association on behalf of the Meeds DAO.
+Die Meeds Association ist eine konventionelle Organisation mit Mitgliedern und einem Vorstand. Es unterliegt spezifischen rechtlichen und regulatorischen Rahmenbedingungen. In der Praxis geht es um Aktivitäten wie die Organisation von Veranstaltungen, die Bereitstellung von Dienstleistungen und die Interessenvertretung für Mitglieder, möglicherweise auch die Unterhaltung eines physischen Büros mit Personal.
+
+Im Gegensatz dazu funktioniert das Meeds DAO ohne eine zentrale Behörde und trifft Entscheidungen im Konsens seiner Mitglieder mithilfe von Blockchain-basierten Abstimmungsmechanismen. Es kann sich auch an Aktivitäten wie der Finanzierung von Projekten, der Verwaltung von Vermögenswerten und der Ausführung von Entscheidungen durch intelligente Verträge beteiligen.
+
+Das WoM ist als Open-Source-Software ([github.com/meeds-io](https://github.com/meeds-io)) erstellt und wird von Partnern gehostet, die von der Meeds Association im Auftrag des Meeds DAO ausgewählt wurden.
 
