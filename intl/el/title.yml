@@ -1,13 +1,13 @@
 ---
-title: The World of Meeds
-subtitle: a decentralized platform for the future of work
-author: Meeds DAO
-date: 2024-02-14 - Version 2.0.0-alpha2
+title: Ο κόσμος των Meeds
+subtitle: μια αποκεντρωμένη πλατφόρμα για το μέλλον της εργασίας
+author: Κρέατα DAO
+date: 2024-02-14 - Έκδοση 2.0.0-άλφα2
 toc-title: Πίνακας περιεχομένων
 language: el
 toc-own-page: true
 titlepage: true
-titlepage-text-color: "FFFFFF" ## black
+titlepage-text-color: "FFFFFFFF" ## black
 titlepage-rule-color: "F97575" ## deep green
 titlepage-color: "3F8487"
 titlepage-logo: "img/meeds-logo-transparent.png"
