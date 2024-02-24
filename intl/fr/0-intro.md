@@ -1,22 +1,22 @@
 ## Résumé
 
-The current work market is inefficient due to high transaction costs and frequent conflicts of interest between employers and employees. It can be expensive and time-consuming to carry out job-related activities, and there are often disagreements or competing interests between those who hire workers and the workers themselves.
+Le marché du travail actuel est inefficace en raison des coûts de transaction élevés et des conflits d'intérêts fréquents entre employeurs et employés. Il peut être coûteux et coûteux de temps pour mener à bien des activités liées au travail, et il y a souvent des désaccords ou des intérêts contradictoires entre ceux qui embauchent des travailleurs et les travailleurs eux-mêmes.
 
-The World of Meeds (WoM) proposes a new paradigm to address these issues by reducing transaction costs and reinventing working relationships. It is a digital space that bridges the gap between traditional companies and new forms of organization by bringing a fair and transparent incentive system that realigns the interests of all parties.
+Le World of Meeds (WoM) propose un nouveau paradigme pour résoudre ces problèmes en réduisant les coûts de transaction et en réinventant les relations de travail. C'est un espace numérique qui permet de combler le fossé entre les entreprises traditionnelles et les nouvelles formes d'organisation en apportant un système d'incitation équitable et transparent qui réaligne les intérêts de toutes les parties.
 
 ## Introduction
 
-The current state of the work market fails to satisfy both workers and employers[^1][^2][^3].
+La situation actuelle du marché du travail ne satisfait ni les travailleurs et les employeurs [^1][^2][^3].
 
-Workers face difficulties in finding suitable job opportunities, as the job market tends to favor specific individuals, leaving great skill sets behind due to various human biases such as race, gender, disability, introversion, and more.
+Les travailleurs éprouvent des difficultés à trouver des opportunités d'emploi adaptées, car le marché du travail tend à favoriser des individus spécifiques, passant à côté de grandes compétences en raison de divers préjugés humains sur la race, le sexe, le handicap, l'introversion et bien plus encore.
 
-Additionally, there is a lack of transparency in available positions and employment conditions. Once employed, workers often have little say in their work hours, workplace, content, or methods. Moreover, there is a perceived lack of fairness in compensation rules due to the lack of transparency. Career progress and compensation depend on the immediate manager's good faith and objectivity, leading to a lack of trust and cooperation.
+En outre, il y a un manque de transparence dans les postes disponibles et les conditions d'emploi. Une fois employés, les travailleurs ont souvent peu voix au chapitre en ce qui concerne leurs heures de travail, leur lieu de travail, leur contenu ou leurs méthodes. En outre, le manque de transparence dans les règles de rémunération génère un sentiment d'inéquité. La progression de carrière et de rémunération dépendent de la bonne foi et de l'objectivité d'un manager direct, entraînant un manque de confiance et de coopération.
 
-Employers face challenges in sourcing talent, hiring the right skills, and fitting them into the right jobs at the right time. The traditional hiring pool often fails to provide an objective way to determine a potential contributor's skills. High turnover rates and a lack of contributor loyalty can also increase hiring and onboarding costs.
+Les employeurs sont confrontés à des défis pour trouver des talents, recruter les bonnes compétences et les intégrer aux bons emplois au bon moment. Le bassin de recrutement traditionnel ne parvient souvent pas à fournir un moyen objectif de déterminer les compétences d'un contributeur potentiel. Des taux de roulement élevés et un manque de fidélité des contributeurs peuvent également augmenter les coûts d’embauche et d’intégration.
 
-These issues relate to high transaction costs and the exacerbated agent-principal problem[^4]. Despite the evolution of job markets towards more unity and transparency with the internet, transaction costs[^5] still need to be lowered without an objectivity element.
+Ces problèmes sont liés aux coûts de transaction élevés et à l'exacerbation du problème agent-principal[^4]. Malgré l'évolution des marchés du travail vers plus d'unité et de transparence avec Internet, les coûts de transaction[^5] doivent encore être réduits sans élément d'objectivité.
 
-The WoM offers a unique approach to decentralized work, addressing several issues prevalent in traditional work paradigms.
+Le WoM propose une approche unique du travail décentralisé, abordant plusieurs problèmes répandus dans les paradigmes de travail traditionnels.
 
 Through its transparent, objective, and decentralized incentive paradigm, the WoM sustainably aligns the interests of contributors and employers. It proposes ways to flatten hierarchies and open up ownership, promoting sustainable ways to operate and create value for organizations.
 
