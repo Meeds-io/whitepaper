@@ -1,62 +1,64 @@
-# 5. Le WoM pour TOUS – résumé de la vision et feuille de route
+# 5. Résumé de la Vision et Feuille de Route
 
-## 5.1. Objectif ultime - Web décentralisé pour tout le monde
+## 5.1. Decentralized Work for Everyone
 
-En fin de compte, le WoM est un monde web décentralisé pour tout le monde – chaque personne et toutes les organisations.
+Ultimately, the WoM is a decentralized workplace for everyone – every person and all organizations.
 
-Il sera peuplé d'utilisateurs, agissant à travers leurs identités numériques **Xeeds** et y accédant avec leurs comptes metamasks pour les cryptophiles avertis, ou par identifiant/mot de passe pour les débutants. Les personnes s'y engageront et seront récompensées de manière équitable, transparente et décentralisée. Elles auront accès au monde décentralisé et au monde des cryptos de demain d'une manière facile et familière - ils auront accès à des outils simples pour pouvoir utiliser leurs jetons dans leur vie ou les investir pour leur avenir.
+It will be populated by users, acting through their digital identities and accessing the world through their Metamask for crypto-savvies or login/password for the newbies.
 
-Les organisations seraient en mesure de s'approvisionner en talents, en parcourant le WoM pour obtenir les compétences qui ont fait leurs preuves. Elles seront récompensées pour leur participation au WoM, en recevant des jetons émis grâce à l'engagement de leurs utilisateurs (modèle mintium). Mais surtout, elles bénéficieront d'un engagement et d'une loyauté accrus de la part de leurs utilisateurs.
+People would allocate their time and be rewarded fairly and transparently for their work. They would get access to the decentralized world and the crypto world quickly and familiarly - they would get simple tools to use their tokens in their lives or invest in them for their future.
 
-Le WoM a sa propre monnaie l' **MEED** - qui est là pour dépenser dans les boutiques des Hubs, être converti en une autre devise, investir pour un retour sur investissement, louer ou acheter, etc. Le WoM facilitera également la distribution d'autres jetons et participera à l'écosystème global des cryptomonnaies.
+Organizations will more efficiently source talents, browsing through the WoM for the right proven skills. The "Mintium" tokens will reward them for creating the conditions of genuine engagement and participation. But above all, they would benefit from higher engagement and loyalty from their contributors.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and MEED token flows
+The WoM has its currency,  the **MEED** –  to spend in stores, swap with other currencies, invest, rent or buy, etc. The WoM also facilitates distributing other tokens and participating in the global crypto ecosystem.
 
-![Flux WoM et Meeds](en/img/wom-flows.png)
+As a picture is worth a thousand words, here is a diagram that describes the WoM and MEED token flows:
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds Association and the Cities.
+![WoM and Meeds flows](en/img/wom-flows.png)
 
-## 5.2. Ce qu'il contient pour les premiers utilisateurs
+The WoM will raise taxes on the generated value to ensure its long-term availability and sustainability.
 
-Il est évident que les premiers utilisateurs obtiendront des avantages considérables par rapport aux utilisateurs tardifs.
 
-En particulier, le WoM récompense l'investissement dans la durée - par l'accès à la propriété (Deeds). Le propriétaire originel d'un Deed est récompensé par les jetons générés par l'engagement (utilisation active), par le biais d'un revenu passif (loyer) et obtient 1 % à vie sur toutes les transactions de vente du Deed (à chaque changement de propriétaire, le propriétaire initial reçoit une commission sur la transaction).
+## 5.2. Stratégies d'Investissement
 
-En croyant au projet, en participant aux bassins de liquidités, en mettant en jeu les jetons MEED en les rachetant contre les Actes... les premiers investisseurs de toutes tailles mettraient en valeur des jetons supplémentaires. Ils seront également les premiers à obtenir des droits de vote pour aider à façonner le WoM.
-
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted MEED. Plus elles joueront équitablement, plus elles en gagneront. Les utilisateurs de la première heure seront associés aux premières villes historiques et sertont identifiés comme des bâtisseurs plus tard.
-
-Le diagramme ci-dessous représente un exemple de la stratégie d'investissement Meeds pour les détenteurs de capitaux :
+The diagram below represents an example of the **Meeds investment strategy for capital holders** :
 
 ![Stratégie d'investissement des Meeds pour les capitaux](en/img/invest-capital.png)
 
-Les organisations peuvent bien sûr participer à des pools de liquidités, mais aussi rejoindre la communauté des bâtisseurs et y obtenir des récompenses d'engagement supplémentaires.
+Organizations can, of course, participate in liquidity pools but also join the community of builders and get additional engagement rewards there.
 
-Le diagramme ci-dessous représente un exemple de la stratégie d'investissement Meeds pour les travailleurs :
+The diagram below represents an example of the *Meeds investment strategy for workers** :
 
 ![Stratégie d'investissement des Meeds pour les travailleurs](en/img/invest-work.png)
 
 ## 5.3. Le lancement
 
-Le lancement officiel du WoM était **1er mai 2022** – la Journée internationale des travailleurs célébrée dans de nombreux pays.
+The official launch of the WoM was purposedly scheduled for **May 1st, 2022** – International Workers Day, celebrated in many countries.
 
-À cette époque, le jeton MEED existait déjà. Il est possible de l’acquérir sur les réseaux Polygon et Ethereum dans lesquels des pools de liquidité sont mis à disposition.
+À cette époque, le jeton MEED existait déjà. It was possible to acquire it, and liquidity pools are open for participation on Polygon and Ethereum networks.
 
-Three Meeds Association members use the system internally to engage and reward their users and improve the Meeds software.
+The primary protocol for Inverstor's incentives is available on Ethereum Mainnet. Au lancement, il comprenait la mise en jeu, les récompenses de liquidité, l'accumulation de points de frappe et la génération des Deeds.
 
-L'application Investors est disponible sur le réseau Ethereum Mainnet. Au lancement, elle comprend le placement, les récompenses pour apport de liquidités, l’accumulation de points et l'acquisition de Deeds.
+The Builders community is up and running and open to anyone wanting to join, test, and participate. It is possible to log in with Metamask.
 
-La communauté Builders est opérationnelle, ouverte à tous ceux qui voudraient rejoindre, tester et participer. Il est possible de se connecter avec Metamask.
+## 5.4. Avantages pour les Primo-adoptants
 
-Ce document a été publié initialement le jour du lancement. Suite au lancement, le jeton sera offert à nombreuses personnes dans la communauté des cryptomonnaies.
+Early adopters get considerable advantages over the latecomers.
 
-## 5.4. La communauté des bâtisseurs
+En particulier, le WoM récompense les investissements à long terme – la génération des Deeds. Le propriétaire original d'un Deed se voit indemnisé en jetons de Mintium (cas de l'utilisation active) ou par le biais d'un revenu passif (cas de la location) et perçoit un revenu perpétuel de 1% sur toute vente future du Deed (à chaque changement de propriété, il perçoit des frais sur la transaction).
 
-Nous lançons la communauté des bâtisseurs sur le logiciel Meeds et sur Discord. La communauté accueille tous ceux qui veulent participer à la construction du WoM. L'association récompensera l'engagement des bâtisseurs en Meeds, sur son budget marketing.
+Early investors have participated in the liquidity pools to support the Meeds project. Ils ont également mis en jeu leurs jetons MEED et ont généré les premiers Deeds. Since day one, the protocol had built-in incentives to reward them. They also earn substantial influence in the DAO through governance tokens.
 
-The association plans also to stake some MEED in order to acquire (redeem) a Deed for the builders community. The community will then mint MEED by engagement, through the mintium model, and distribute them to engaged users.
+Les organisations utilisant Deeds et jouant à un jeu équitable pour engager et récompenser leurs contributeurs gagnent des jetons MEED. The earlier adopters will be associated with the first historic cities and later recognized as the founding builders.
 
-## 5.5. Feuille de route et jalons
+
+## 5.5. The Builders Community
+
+We have launched the Meeds DAO community on the [Builders Hub](builders.meeds.io) and [Discord](https://discord.com/invite/7d9Byf4Fz6). The community welcomes anyone who wants to participate in the WoM building. The DAO will reward any builders' engagement with MEED tokens.
+
+The Builders' Hub participates in the user engagement minting like any other hub and thus receives. It aspires to be an exemplary community and inspire others to set better standards of working together to create value and a positive impact on the world.
+
+## 5.6. Roadmap and Milestones
 
 Notre feuille de route suivra l'ordre de priorité ci-dessous :
 
@@ -64,23 +66,22 @@ Notre feuille de route suivra l'ordre de priorité ci-dessous :
 - Activer la location des Deeds
 - Création des Xeeds
 - Amélioration des badges et développement des titres de compétences
-- Services DeFi - dans le portefeuille, partenariat cartes de crédit
+- DeFi services – in the wallet, credit card partnership
 
-Durant la phase de construction, nous ciblerons les membres des premières DAO ainsi que les sociétés technophiles. Nous devrions également avoir quelques premiers utilisateurs issus d'entreprises traditionnelles qui tireront parti du WoM en créant des programmes d'engagement pertinents pour leurs employés en complément de leurs plans de rémunération classiques.
+During the building stage, we rely on early adopters from the DAOs and tech-savvy companies. Additionally, we anticipate early adopters from traditional companies benefiting immediately from the WoM. They can enhance engagement programs for their employees alongside existing compensation plans.
 
-MEED minting spans a 20 year period. À ce moment-là, nous aspirons à avoir réussi à construire un écosystème mature, s'étant propagé à de nombreuses organisations et à de nombreux utilisateurs dans le monde.
+MEED minting spans 20 years. We aspire to develop a mature ecosystem and extend its reach to numerous organizations and workers worldwide.
 
-## 5.6. Ce que vous pouvez faire maintenant
+## 5.7. What you can do right now
 
-Que pouvez-vous faire dès maintenant pour participer ?
+What can you do right now to participate?
 
 - Diffuser ce document à ceux qui seraient intéressés
 - Visitez notre site web [meeds.io](https://www.meeds.io/)
-- Consultez l'application [Investisseur](https://meeds.io/investors)
 - Contribuer aux pools de liquidité existants sur :
-  - [Cometh Swap (Polygon)](https://swap.cometh.io/)
-  - [Sushi Swap](https://sushi.com)
-- Rejoignez notre communauté [Discord](https://discord.com/invite/hAuADSq3) pour rester dans la boucle
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some MEED engagement rewards
+  - [ComethSwap](https://swap.cometh.io/)
+  - [UniSwap](https://uniswap.org)
+- Join our [Discord](https://discord.com/invite/7d9Byf4Fz6) server
+- Join our [Builders Hub](https://meeds.io/builders) to experience what fair rewards for contributions means and earn your first MEED tokens
 
-**\*\*\* Le WoM - Construisons le monde de demain ensemble. \*\*\***
+**\*\*\* The WoM - let's build a world to work better together \*\*\***

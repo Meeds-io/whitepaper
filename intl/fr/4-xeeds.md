@@ -1,64 +1,70 @@
-# 4. Xeeds - Utilisateurs / Individus du WoM
+# 4. Xeeds - Les Citoyens
 
-## 4.1. Modèles décentralisés et autosouverains
+## 4.1. Identité Souveraine
 
-Le WoM reconnaît la confidentialité comme un droit humain fondamental et permet aux utilisateurs de posséder leurs données.
+We recognize privacy as a fundamental human right and empower users to own their data.
 
-Notre approche est basée sur des principes d'identités décentralisées et autosouverains, permettant aux utilisateurs de contrôler à tout moment les informations qu'ils souhaitent publier, partager avec un groupe restreint ou garder privées.
+Our approach is based on decentralized and self-sovereign identity principles, allowing users to control what information they want to publicize, share with a restricted group, or keep private.
 
-L'activité et l'engagement de l'utilisateur dans le WoM est toujours lié à une communauté. Un Xeed est la persona virtuelle d'un utilisateur dans une communauté. Un Xeed ne nécessite aucun KYC (protocole permettant de vérifier l'identité de l'individu - Know Your Customer), il est auto-déclarant, mais nous pourrions imaginer que des sociétés tierces fournissent ce service.
+Users engage within various communities; we call their virtual persona a **__Xeed__**.
 
-## 4.2. Badges et références
+Xeeds are self-declarative and require no default KYC (__Know Your Customer__) process.
 
-Les badges et les identifiants sont donnés aux utilisateurs dans le cadre de leur participation à une communauté. Le titulaire peut les télécharger au format des Verifiable Credentials W3C[^7][^8] (alias VCs) et les stocker dans son portefeuille. Ces VCs sont des preuves de connaissances/savoir-faire attestées par l'organisation qui les délivre.
+However, communities that need it can hire third-party firms providing this service or use protocols such as __Proof of Humanity__.
 
-Dans le monde d'aujourd'hui, il est difficile de prouver une compétence en amont. Lorsque les gens s'annoncent sur les réseaux, ils comptent sur leurs managers pour leur donner une recommandation. Cette dernière suppose une certaine bonne volonté de la part du dirigeant mais n'est pas nécessairement considérée comme une preuve par le futur employeur.
+## 4.2. Jetons de Reconnaissance
 
-Le WoM fournit à ses utilisateurs un moyen plus transparent et immuable d'acquérir et de démontrer leurs capacités.
+In today's world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they depend on social reputation. Typically, a manager or peer provides a recommendation. It requires goodwill from the relative but rarely constitutes definitive proof for the future employer.
 
-Badges are used to represent accomplishments made within a community. Après avoir complété un ensemble d'objectifs ou challenges, les utilisateurs seront récompensés par des points. Les badges sont débloqués selon l'accumulation d'un certain nombre de points dans des catégories spécifiques.
+Users on their community Hubs may earn Badges and Credentials when participating. We will let them store them also in a wallet or download them as Verifiable Credentials [^7][^8]. Such credentials are proof of knowledge/know-how certified by the issuing organization.
 
-When the user downloads badges, it is possible to include the number of points and his rank in the Hub for this specific accomplishment.
+With this, we offer a transparent and immutable means for people to acquire and demonstrate their abilities.
 
-Les Credentials sont plus flexibles que les badges ; il pourrait s'agir d'une recommandation d'un pair, indiquant des années d'expertise, une formation ou un examen terminé, ou un engagement dans l'espace. The Hub signs these and can be accompanied by a signature by a peer user.
+**Badges** Badges represent accomplishments made within a community. After completing a set of objectives or challenges, users earn points. They can earn recognition badges as they accumulate points and reach certain thresholds.
 
-## 4.3. Identité numérique de travail
+Badges will be representable as NFTs of NTTs (Non Transferable Tokens, aka __Soulbound__ tokens) or downloadable. They will include selectively disclosed information such as the name of the Hub, the number of points, the category of work, and the date of achievement or the rank in the community.
 
-Tout ce qui précède contribue à former un ensemble de compétences numériques éprouvées qui peuvent être conservées et utilisées par l'utilisateur lors d'un changement d'emploi ou d'une activité indépendante. Ceci est plus fiable que les solutions traditionnelles, car il ne suffit pas d'un seul individu, mais de toute une communauté pour le prouver.
+**Credentials** Credentials are more flexible than Badges. They could be a recommendation from a peer, indicating years of expertise, a training or exam completion, or engagement in the space.
 
-Tout comme son portefeuille Meeds, l'utilisateur conservera son Xeed, ses Badges et les Credentials qui y sont attachés dans son portefeuille d'identité lorsqu'il naviguera d'un Hub à l'autre, d'une ville à l'autre, n'importe où à travers le WoM.
+The Hub or peer members will sign these credentials to endorse them officially and verifiably.
 
-L'utilisateur pourra exprimer son Xeed, ses Badges et ses Credentials dans d'autres Hubs pour mettre en valeur son expérience, ainsi qu'avec les recruteurs ou tout autre service qu'il juge intéressant.
+## 4.3. Identité Numérique du Travailleur
 
-Un utilisateur peut avoir une ou plusieurs identités numériques dans le WoM. Il peut ensuite les présenter de manière unifiée.
+All of the above contributes to forming a proven digital skillset that users can keep and use when changing jobs or freelancing. It is more trustworthy than traditional solutions because it relies on an entire community to prove it.
 
-Contrairement au Web2, l'utilisateur est pleinement propriétaire de ses identités décentralisées. The latter can show (and prove) the communities he participated in, their proven skills, their claimed skills, the people whom they worked with, and their digital representation of themselves... À la manière d'un LinkedIn 3.0 fiable.
+Users will retain their Xeed, Badges, and Credentials across Hubs. They can thus advertise, show, and prove their skills and experience to other community leaders and recruiters or any other services they deem interesting.
 
-L'utilisateur sera en mesure de choisir ce qu'il veut révéler, quelles informations fournir, et quelle identité utiliser pour chaque poste. Le contenu (compétences éprouvées, hubs précédents, etc.) est inaltérable. Toute identité devra être développée au fil du temps.
+People develop a composite digital identity over time as they work. Anyone can own several digital identities that they could decide to reconcile later. They have total freedom to select whether or not to reveal anything, what information to provide, and which identities to use for each position.
 
-## 4.4. Marché du travail équitable
+We advocate for Citizens of the WoM to own their decentralized identity fully.
 
-Au sein de ce paradigme, le futur marché du travail permet aux utilisateurs de se déplacer librement et d'allouer/vendre leur engagement parmi les Hubs – comme ils le font dans le monde physique en changeant d'employeurs. Cependant, dans le WoM leur engagement sera bien tangible, mesuré et récompensé de manière équitable. En se déplaçant entre les systèmes suivant une logique similaire, ils comprendront mieux les règles du jeu et évalueront plus justement les employeurs – l’herbe n’est pas toujours plus verte ailleurs. Les utilisateurs seront en mesure de voir quel Hub fournit de meilleures conditions de récompense d'engagement, appartient à une ville plus attrayante, etc.
+## 4.4. Fair Work Marketplace
 
-À leur fin, les dirigeants de la communauté peuvent rechercher des compétences pertinentes en utilisant le réseau WoM d’identités de travail numériques (que les utilisateurs ont décidé de divulguer). Ils seront en mesure de trouver des compétences plus efficacement, en s'appuyant sur des informations vérifiées et des curriculums détaillés, des compétences professionnelles et le niveau d'engagement de l'utilisateur.
+Within this paradigm, the future work marketplace allows users to move freely and allocate/sell their engagement among the Hubs – as they do in the physical world by changing employers. However, in the WoM, their engagement is tangible, measured, and rewarded fairly.
 
-## 4.5. Reconnaissance tangible et transparente
+By moving between systems that follow a similar logic, they will better understand the game's rules and can evaluate their potential employers. The engagement scores give them a hint about the activity level and reward conditions in the community.
 
-Aujourd'hui, les informations sur la compensation et les primes ne sont pas clairs sur de nombreux lieux de travail. Par conséquent, il est difficile pour une personne de comparer ses conditions à celles d'une autre personne et d'obtenir un traitement équitable et impartial. Les employés éprouvent ainsi beaucoup de frustration.
+On their side, the community leaders can search for relevant skills using the network of digital work identities (that the users decided to disclose). They can source skills more effectively based on verified and detailed information on work history, work skills, and user engagement level.
 
-Le WoM introduit une façon objective de reconnaître les réalisations et de les récompenser.
+## 4.5. Tangible and Transparent Recognition
 
-Le mécanisme de reconnaissance de l'engagement et de récompense est transparent et s'applique équitablement à tous les utilisateurs, suivant les mêmes règles explicites, décidées à l’avance et alignées sur les objectifs de la communauté.
+Today, details on compensation and bonuses are opaque in many workplaces. Therefore, it is difficult for a person to compare his conditions to another and get a sense of fair and unbiased treatment. Les employés éprouvent ainsi beaucoup de frustration.
 
-Les portefeuilles sont individuels et basés sur la blockchain – lorsque l'utilisateur reçoit une récompense ou gagne un badge, il ne peut pas être repris ou effacé.
+The WoM introduces objectivity in how their achievements will be recognized and rewarded.
 
-## 4.6. Accès aux services Web 3.0, de crypto-économie et de DeFi
+The engagement recognition and reward mechanism is transparent and applies equitably to all users, following the same explicit rules, decided in advance, and aligned with the community goals.
 
-Comme indiqué ci-dessus, le WoM ouvre le monde de la cryptomonnaie et des services web décentralisés à tout le monde – une très grande population d'utilisateurs, même ceux n'évoluant pas dans le monde numérique.
+Thanks to blockchain technology, taking back earned rewards and badges is impossible.
 
-En effet, tout engagement au travail peut potentiellement être représenté par des jetons. En fait, le monde devient de plus en plus numérique avec des tendances telles que le réseau 5G, l'internet des objets, l'informatique vestimentaire, etc. Par conséquent, de plus en plus d'expériences pourraient être saisies et analysées pour jetoniser l'engagement des professions non numériques. Les challenges sont proposés pour faciliter cette jetonisation en proposant de représenter les réalisations faites dans le monde physique.
+## 4.6. Accessibilité à la DeFi
 
-Any user can get MEED and use a Meeds wallet to get access to new age services without any special training.
+The WoM opens the world of cryptocurrency and decentralized web services to anyone – a substantial population of workers, even possibly unrelated to the digital field.
+
+En effet, la tokenisation de l'engagement s'applique à tout travail. The world is becoming increasingly digital with trends such as 5G, IoT, wearables, etc.
+
+Over time, the WoM will capture more and more work signals from low-digitalized professions. Engagement programs offer a pre-designed solution to convert real-world accomplishments into virtual tokens.
+
+Anybody can earn tokens through their Meeds wallet and easily access various DeFi services with low entry friction.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Modèle de données des Verifiable Credentials
