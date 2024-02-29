@@ -21,7 +21,7 @@ Users on their community Hubs may earn Badges and Credentials when participating
 With this, we offer a transparent and immutable means for people to acquire and demonstrate their abilities.
 
 **Badges**
-Badges represent accomplishments made within a community. After completing a set of objectives or challenges, users earn points. They can earn recognition badges as they accumulate points and reach certain thresholds.
+Badges represent accomplishments made within a community. By completing work tasks, users earn points. They can earn recognition badges as they accumulate points and reach certain thresholds.
 
 Badges will be representable as NFTs of NTTs (Non Transferable Tokens, aka __Soulbound__ tokens) or downloadable. They will include selectively disclosed information such as the name of the Hub, the number of points, the category of work, and the date of achievement or the rank in the community.
 
