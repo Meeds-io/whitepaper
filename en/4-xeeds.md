@@ -16,7 +16,7 @@ However, communities that need it can hire third-party firms providing this serv
 
 In today's world, it is hard to prove a skill beforehand. When people advertise themselves on networks, they depend on social reputation. Typically, a manager or peer provides a recommendation. It requires goodwill from the relative but rarely constitutes definitive proof for the future employer.
 
-Users on their community Hubs may earn Badges and Credentials when participating. We will let them store them also in a wallet or download them as Verifiable Credentials [^7][^8]. Such credentials are proof of knowledge/know-how certified by the issuing organization.
+Users on their Community Hubs may earn Badges and Credentials when participating. We will let them store them also in a wallet or download them as Verifiable Credentials [^7][^8]. Such credentials are proof of knowledge/know-how certified by the issuing organization.
 
 With this, we offer a transparent and immutable means for people to acquire and demonstrate their abilities.
 

@@ -122,11 +122,12 @@ The "Mintium" model goes further than the freemium model, as the services are fr
 
 ## 2.7. Cities
 
-The World of Meeds is a virtual world where people can buy Deeds, similar to real estate properties in virtual cities. These Deeds are only available in limited quantities and can exist only if someone redeems them with the minting points they accumulate by staking.
+The World of Meeds is a virtual world where people can buy Deeds, similar to real estate properties in virtual Cities. The Deeds are only available in limited quantities within a City and can exist only if someone redeems them with the minting points they accumulate by staking.
 
-As more people mint Deed NFTs, the Cities of the WoM are constructed progressively. The list and size of the Cities of the WoM have already been determined, and they represent the successive phases of construction of the WoM. 
+**The 7 Cities of the WoM**
+As more people mint Deed NFTs, the Cities of the WoM are constructed progressively following a predetermined scheme that represents the successive phases of the evolution of the WoM. 
 
-When the protocol mints the last Deed of a City, it pauses for $2^n$ months before allowing the minting of the $n^th$ City.
+When someone mints the last Deed of a City, the protocol enforces a pause of $2^n$ months before allowing the minting of the $n^th$ City.
 
 | **City name** |  **Deeds** |  **Available** |  **Common** |  **Uncommon** | **Rare** | **Legendary** |
 | --- | --- | --- | --- | --- | --- | --- | 
@@ -138,15 +139,18 @@ When the protocol mints the last Deed of a City, it pauses for $2^n$ months befo
 | 6: Kushor | 10 000 000 | Eshmum + 64 months | 6 000 000 | 3 000 000 | 999 998 | 2 |   
 | 7: Hammon | 100 000 000 | Kushor + 128 months | 60 000 000 | 30 000 000 | 9 999 999 | 1 |   
 
-Cities aim to bring together diverse communities to create a larger, integrated community. This integration makes the City a shared space where individuals from various backgrounds, cultures, and traditions coexist. The ultimate objective is to foster a sense of unity and shared identity that transcends individual communities and is reflected in the City's culture, traditions, and values.
+Cities aim to bring together diverse communities to create a larger, integrated community. The purpose is to foster a sense of unity and shared identity that transcends individual communities and results in shared culture, traditions, and values.
 
-Each City has an independent governance system and operates as a subDAO. Citizens can elect a council and vote on the operating rules of the City. This decentralized governance approach enables Cities to evolve independently, develop customized services for their citizens, and enhance the value of the Deeds.
+**Cities Governance**
+Each City has a treasury funded by fees of the protocol (see 2.8 Taxes). Each has an independent governance system and operates as a subDAO of the Meeds DAO. Citizens can elect a council and vote on the operating rules of their City. This decentralized governance approach allows Cities to evolve independently, develop customized services for their citizens, and enhance the value of the Deeds.
 
-Cities strive to provide additional value to their residents beyond what individual communities can achieve independently. The concentration of resources, opportunities, and services in a City allows for community collaboration and cooperation, creating collective value. Such dynamics can lead to economic opportunities, cultural richness, educational and healthcare services, and an overall improvement in the quality of life for residents.
+**City Development**
+Cities strive to provide additional value to their residents beyond what individual communities can achieve independently. The concentration of resources, opportunities, and services in a City allows for community collaboration and cooperation, creating collective value. Such dynamics can lead to economic opportunities, cultural richness, educational and real-life services, and an overall improvement in the quality of life for residents.
 
-For instance, Cities may include physical counterparts to the Deeds in the real world, such as access to meeting rooms in co-working spaces, catering services, travel services, and more.
+Cities may include physical counterparts to the Deeds in the real world, such as access to meeting rooms in co-working spaces, catering services, travel services, and more.
 
-In essence, the goal of Cities is to serve as dynamic and inclusive hubs where different communities converge, interact, and collaborate. By doing so, cities aim to cultivate a sense of shared identity and offer a level of value and opportunity that surpasses what individual communities could provide.
+Cities may also explore the potential of Web3 to improve existing services or introduce new ones, such as utilizing blockchain for digital identity management, streamlining government procurement processes through smart contracts, and leveraging dApps for citizen engagement and participation.
+
 
 ## 2.8. Taxes
 
