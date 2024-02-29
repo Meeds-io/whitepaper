@@ -63,7 +63,7 @@ Hubs can integrate with various platforms like GitHub, Twitter, and Discord and 
 Organizations can tailor the store with custom perks, including training courses and gym memberships, creating a self-reinforcing cycle of rewards and engagement. This internal store further incentivizes contributors and fosters a deeper connection with the organization's ecosystem.
 
 **Engagement and Rewards**
-Active participation contributes to community's engagement score. This metric reflects the effectiveness of engagement strategies, considering factors like user activity levels and the equitable distribution of work and rewards. This publicly auditable score entitles Hubs to a distribution of MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
+Active participation contributes to the community's engagement score. This metric reflects the effectiveness of engagement strategies, considering factors like user activity levels and the equitable distribution of work and rewards. This publicly auditable score entitles Hubs to a distribution of MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
 
 Hubs aim to become central to community life, integrating internal communications, real-time interactions, governance, and various productivity tools. These enhancements will ensure they remain interconnected with the best tools organizations employ. They are a powerful testament to Meeds' commitment to fostering a vibrant, engaged community.
 
@@ -111,7 +111,7 @@ The formula above is simple and designed to favor hubs :
 
 Additionally, boosters are in place for the following:
 
-- comunities with the highest engagement, regardless of their size (engagement rate compared to the WoM average)
+- communities with the highest engagement, regardless of their size (engagement rate compared to the WoM average)
 - scarcer deeds
 
 The formula will evolve and be tuned to optimize and limit bargain effects and abuses. Additionally, the protocol will also implement slashing routines to exclude bad actors.
@@ -122,11 +122,11 @@ The "Mintium" model goes further than the freemium model, as the services are fr
 
 ## 2.7. Cities
 
-In the World of Meeds, Deeds are like real estate properties inside virtual cities where communities can settle.
+The World of Meeds is a virtual world where people can buy Deeds, similar to real estate properties in virtual cities. These Deeds are only available in limited quantities and can exist only if someone redeems them with the minting points they accumulate by staking.
 
-They come in limited quantities and can only exist when someone redeems them with the minting point they accumulate by staking. 
+As more people mint Deed NFTs, the Cities of the WoM are constructed progressively. The list and size of the Cities of the WoM have already been determined, and they represent the successive phases of construction of the WoM. 
 
-The WoM will have **7** successive phases of Deed minting that we call __Cities__. When the protocol mints the last Deed of a City, it pauses $2^n$  months before it allows the minting of the $n^th$ City. 
+When the protocol mints the last Deed of a City, it pauses for $2^n$ months before allowing the minting of the $n^th$ City.
 
 | **City name** |  **Deeds** |  **Available** |  **Common** |  **Uncommon** | **Rare** | **Legendary** |
 | --- | --- | --- | --- | --- | --- | --- | 
@@ -138,12 +138,15 @@ The WoM will have **7** successive phases of Deed minting that we call __Cities_
 | 6: Kushor | 10 000 000 | Eshmum + 64 months | 6 000 000 | 3 000 000 | 999 998 | 2 |   
 | 7: Hammon | 100 000 000 | Kushor + 128 months | 60 000 000 | 30 000 000 | 9 999 999 | 1 |   
 
-A City is a way for the communities to unite and create a larger community. And as a consequence, acquire a specific identity associated with that community.
-It is also a way to provide additional value to its users, which would go beyond one community's capabilities or value created through community cooperation.
+Cities aim to bring together diverse communities to create a larger, integrated community. This integration makes the City a shared space where individuals from various backgrounds, cultures, and traditions coexist. The ultimate objective is to foster a sense of unity and shared identity that transcends individual communities and is reflected in the City's culture, traditions, and values.
 
-Each City has independent governance and operates as a subDAO. Citizens will elect a council and vote on their own operating rules. This decentralized governance allows Cities to evolve independently, develop a custom range of services for their citizens, and increase the value of the Deeds. 
+Each City has an independent governance system and operates as a subDAO. Citizens can elect a council and vote on the operating rules of the City. This decentralized governance approach enables Cities to evolve independently, develop customized services for their citizens, and enhance the value of the Deeds.
 
-For example, they could add physical counterparts in the real world, such as access to meeting rooms in physical co-working spaces,  catering services, travel services, etc.
+Cities strive to provide additional value to their residents beyond what individual communities can achieve independently. The concentration of resources, opportunities, and services in a City allows for community collaboration and cooperation, creating collective value. Such dynamics can lead to economic opportunities, cultural richness, educational and healthcare services, and an overall improvement in the quality of life for residents.
+
+For instance, Cities may include physical counterparts to the Deeds in the real world, such as access to meeting rooms in co-working spaces, catering services, travel services, and more.
+
+In essence, the goal of Cities is to serve as dynamic and inclusive hubs where different communities converge, interact, and collaborate. By doing so, cities aim to cultivate a sense of shared identity and offer a level of value and opportunity that surpasses what individual communities could provide.
 
 ## 2.8. Taxes
 
