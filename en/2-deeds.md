@@ -63,7 +63,7 @@ Hubs can integrate with various platforms like GitHub, Twitter, and Discord and 
 Organizations can tailor the store with custom perks, including training courses and gym memberships, creating a self-reinforcing cycle of rewards and engagement. This internal store further incentivizes contributors and fosters a deeper connection with the organization's ecosystem.
 
 **Engagement and Rewards**
-Active participation contributes to an organization's global engagement score. This metric reflects the effectiveness of engagement strategies, considering factors like user activity levels and the equitable distribution of work and rewards. This publicly auditable score entitles Hubs to a distribution of MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
+Active participation contributes to community's engagement score. This metric reflects the effectiveness of engagement strategies, considering factors like user activity levels and the equitable distribution of work and rewards. This publicly auditable score entitles Hubs to a distribution of MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
 
 Hubs aim to become central to community life, integrating internal communications, real-time interactions, governance, and various productivity tools. These enhancements will ensure they remain interconnected with the best tools organizations employ. They are a powerful testament to Meeds' commitment to fostering a vibrant, engaged community.
 
@@ -111,7 +111,7 @@ The formula above is simple and designed to favor hubs :
 
 Additionally, boosters are in place for the following:
 
-- organizations with the highest engagement, regardless of their size (engagement rate compared to the WoM average)
+- comunities with the highest engagement, regardless of their size (engagement rate compared to the WoM average)
 - scarcer deeds
 
 The formula will evolve and be tuned to optimize and limit bargain effects and abuses. Additionally, the protocol will also implement slashing routines to exclude bad actors.
