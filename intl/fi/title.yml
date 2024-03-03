@@ -1,13 +1,13 @@
 ---
 title: The World of Meeds
-subtitle: a decentralized platform for the future of work
+subtitle: hajautettu foorumi työn tulevaisuutta varten
 author: Meeds DAO
-date: 2024-02-14 - Version 2.0.0-alpha2
+date: 2024-02-14 - Versio 2.0.0-alfa2
 toc-title: Sisällys
 language: en-US
 toc-own-page: true
 titlepage: true
-titlepage-text-color: "FFFFFF" ## black
+titlepage-text-color: "FFFFFFFF" ## black
 titlepage-rule-color: "F97575" ## deep green
 titlepage-color: "3F8487"
 titlepage-logo: "img/meeds-logo-transparent.png"

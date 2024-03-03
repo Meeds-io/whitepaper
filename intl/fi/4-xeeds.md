@@ -1,64 +1,70 @@
-# 4. Xeeds - WoM yksityishenkilöt / käyttäjät
+# 4. Xeeds - Kansalaiset
 
-## 4.1. Hajautetut ja itsemääräämisoikeuden mallit
+## 4.1. Itsenäinen Henkilöllisyys
 
-WoM tunnustaa yksityisyyden perusihmisoikeudeksi, ja antaa käyttäjille mahdollisuuden omistaa tietonsa.
+Tunnustamme yksityisyyden perusihmisoikeudeksi ja annamme käyttäjille mahdollisuuden omistaa heidän tietojaan.
 
-Lähestymistapamme perustuu hajautettuun ja itsenäiseen identiteettiin, joiden avulla käyttäjät voivat hallita milloin tahansa tietoja, joita he haluavat julkistaa, jakaa rajoitetun ryhmän kanssa tai pitää yksityisiä.
+Lähestymistapamme perustuu hajautettuun ja itsenäiseen identiteettiin, joiden avulla käyttäjät voivat valvoa mitä tietoja he haluavat julkistaa, jakaa rajoitetun ryhmän kanssa tai pitää yksityisiä.
 
-Käyttäjän toiminta ja sitoutuminen WoMiin liittyy aina yhteisöön. Xeed on käyttäjän virtuaalinen persoona yhteisössä. Xeed ei vaadi mitään KYC, se on omaehtoinen julistus, mutta voisimme kuvitella kolmannen osapuolen yritykset tarjoavat tätä palvelua.
+Käyttäjät osallistuvat eri yhteisöissä; me kutsumme heidän virtuaalista persoonaa **__Xeed__**.
 
-## 4.2. Merkit ja käyttäjätunnukset
+Xeeds on itse vakuuttava eikä vaadi oletusta KYC (__tuntea asiakkaasi__) prosessi.
 
-Merkkejä ja valtakirjoja annetaan käyttäjille osana heidän osallistumistaan yhteisöön. Haltija voi ladata ne W3C todennettavissa valtakirjat[^7][^8] (alias VCs) ja tallentaa ne lompakkoon. Nämä riskiyhteisöt ovat todiste sen myöntävän organisaation sertifioimasta osaamisesta/osaamisesta.
+Sitä tarvitsevat yhteisöt voivat kuitenkin palkata tätä palvelua tarjoavat kolmannen osapuolen yritykset tai käyttää protokollia, kuten __Todiste Humanity__.
 
-Nykypäivän maailmassa on vaikea todistaa taitoa etukäteen. Kun ihmiset mainostavat itseään verkostoista, he luottavat siihen, että heidän johtajansa antavat heille suosituksen. Jälkimmäinen edellyttää tiettyä hyvää tahtoa johtajan taholta, mutta sitä ei välttämättä pidetä todisteena tulevasta työnantajasta.
+## 4.2. Tunnustamisen Tokeneet
 
-WoM tarjoaa avoimemman ja muuttumattomamman keinon, jolla ihmiset voivat hankkia ja osoittaa kykyjään.
+Tämän päivän maailmassa on vaikea todistaa taitoa etukäteen. Kun ihmiset mainostavat itseään verkostoista, he ovat riippuvaisia sosiaalisesta maineesta. Tyypillisesti, johtaja tai vertaisryhmä antaa suosituksen. Se edellyttää suhteellisilta mutta harvoin lopullisia todisteita tulevalle työnantajalle.
 
-Merkkejä käytetään osoittamaan yhteisössä saavutettuja saavutuksia. Käyttäjät saavat pisteitä, kun he ovat suorittaneet joukon tavoitteita tai haasteita. Merkit voidaan avata keräämällä tiettyjä pisteitä tiettyihin luokkiin.
+Users may earn Badges and Credentials when participating within their Community Hubs . Annamme heidän tallentaa ne myös lompakkoon tai ladata ne todennettavissa tunnukset [^7][^8]. Tällaiset tiedot ovat todiste todistuksen myöntävän organisaation vahvistamasta osaamisesta/osaamisesta.
 
-When the user downloads badges, it is possible to include the number of points and his rank in the Hub for this specific accomplishment.
+Tällä tavoin tarjoamme ihmisille avoimet ja muuttumattomat keinot hankkia ja osoittaa kykynsä.
 
-Todistukset ovat joustavampia kuin merkit; ne voivat olla vertaisen suositus, osoitus vuosien asiantuntemuksesta, koulutuksen tai kokeen suorittaminen tai sitoutuminen kyseiseen tilaan. The Hub signs these and can be accompanied by a signature by a peer user.
+**Merkit** Merkit edustavat yhteisössä tehtyjä saavutuksia. By completing work tasks, users earn points. He voivat ansaita tunnusmerkit, kun he keräävät pisteitä ja saavuttavat tietyt kynnysarvot.
 
-## 4.3. Digitaalinen työskentelyn identiteetti
+Merkit ovat NTT:n NFT:nä (ei siirrettävissä olevia poletteja, kuten __Soulbound__ -poletteja) tai ladattavissa. Niihin sisältyvät valikoivasti julkistetut tiedot, kuten Hubin nimi, pisteiden lukumäärä. työn luokka ja sen saavuttamisen päivämäärä tai yhteisön arvo.
 
-Kaikki edellä mainitut edistävät todistettujen digitaalisten taitojen luomista, joita käyttäjä voi pitää ja käyttää vaihtaessaan työpaikkaa tai freelancing-toimintaa. Se olisi luotettavampi kuin perinteiset ratkaisut, koska se ei perustu vain yhteen yksilöön vaan täydelliseen yhteisöön, joka todistaa sen.
+**Käyttäjätunnukset** Käyttäjätunnukset ovat joustavampia kuin tuotemerkit. Ne voivat olla vertaiselta saatua suositusta, joka osoittaa vuosien asiantuntemuksen, koulutuksen tai tentin loppuunsaattamisen tai sitoutumisen tilaan.
 
-Aivan kuten Meeds-lompakossaan, käyttäjä säilyttää Xeedinsä, virkamerkkinsä ja siihen liitetyt valtakirjat identiteettilompakossaan siirtyessään keskuksesta toiseen, kaupungista toiseen, missä tahansa WoM:n alueella.
+Hub- tai vertaisjäsenet allekirjoittavat nämä valtakirjat vahvistaakseen ne virallisesti ja todennettavasti.
 
-Käyttäjä voi ilmaista Xeed-, Badge- ja Credential-merkintöjään muille keskuksille korostaakseen kokemustaan sekä rekrytoijille tai muille kiinnostaviksi katsomilleen palveluille.
+## 4.3. Digitaalinen Työntekijän Henkilöllisyys
 
-Käyttäjä voi olla yksi tai useampi digitaalinen identiteetti WoM. Hän voisi myöhemmin esitellä ne yhtenäisellä tavalla käyttäen todennettuja esityksiä.
+Kaikki edellä mainitut edistävät todistetun digitaalisen osaamisen luomista, jota käyttäjät voivat pitää yllä ja käyttää, kun he vaihtavat työpaikkaa tai freelancing-toimintaa. Se on luotettavampi kuin perinteiset ratkaisut, koska se edellyttää koko yhteisön todistavan sen.
 
-Toisin kuin web 2, käyttäjä on täysin omistuksessa hajautetun identiteettinsä. The latter can show (and prove) the communities he participated in, their proven skills, their claimed skills, the people whom they worked with, and their digital representation of themselves... Vuonna tavalla luotettava LinkedIn 3.0.
+Käyttäjät säilyttävät Xeed-, merkkinsä ja käyttäjätunnuksensa eri puolilla Hubeja. He voivat siten mainostaa, esitellä ja todistaa taitojaan ja kokemuksiaan muille yhteisön johtajille ja rekrytoijille tai muille kiinnostaviksi katsomilleen palveluille.
 
-Käyttäjä voi valita, paljastaa tai ei paljastaa mitään, mitä tietoja annetaan ja mitä identiteettejä käytetään kunkin sijainnin. Sisältö (todistetut taidot, aiemmat keskukset jne.) on väärentämisen varmaa, joten sitä ei voida muuttaa. Mikä tahansa identiteetti olisi kehitettävä ajan mittaan.
+Ihmiset kehittävät ajan mittaan digitaalista identiteettiä, jossa he työskentelevät. Kuka tahansa voi omistaa useita digitaalisia identiteettejä, joita hän voisi myöhemmin sovittaa yhteen. Heillä on täysi vapaus valita, paljastetaanko tai ei paljasteta mitään, mitä tietoa annetaan ja mitä identiteettiä käytetään kuhunkin asemaan.
 
-## 4.4. Oikeudenmukainen työmarkkina
+Kannatamme sitä, että WoM:n kansalaiset omistavat hajautetun identiteettinsä täysin.
 
-Tässä paradigmassa tulevaisuuden työmarkkinapaikka antaa käyttäjille mahdollisuuden liikkua vapaasti ja jakaa/myydä sitoumuksiaan keskusten välillä - kuten he tekevät fyysisessä maailmassa vaihtamalla työnantajaa. WoM niiden sitoutuminen olisi kuitenkin konkreettista, mitattavaa ja palkitaan oikeudenmukaisesti. Siirtymällä järjestelmien välillä, jotka noudattavat samanlaista logiikkaa, he ymmärtävät paremmin pelin sääntöjä ja tuomitsevat työnantajat oikeudenmukaisesti – ruoho ei ole aina vihreämpi muualla. Käyttäjät voivat nähdä, mikä keskus tarjoaa paremmat palkitsemisehdot, kuuluu houkuttelevampaan kaupunkiin jne.
+## 4.4. Oikeudenmukainen Työmarkkinapaikka
 
-Yhteisöjen johtajat voivat hakea asiaankuuluvia taitoja WoM-verkoston digitaalisten työidentiteettien avulla (jotka käyttäjät ovat päättäneet julkistaa). He voivat hankkia taitoja entistä tehokkaammin, perustuu todennettuihin ja yksityiskohtaisiin tietoihin työhistoriasta, työtaidoista ja käyttäjän sitoutumisasteesta.
+Tämän ajattelutavan sisällä, tulevaisuuden työmarkkinoilla käyttäjät voivat liikkua vapaasti ja jakaa tai myydä sitoutumisensa Hubien kesken – kuten he tekevät fyysisessä maailmassa vaihtamalla työnantajia. WoM:ssä heidän sitoutumisensa on kuitenkin konkreettista, mitattavaa ja oikeudenmukaisesti palkittua.
 
-## 4.5. Aineellinen ja avoin tunnustaminen
+Siirtymällä samanlaista logiikkaa noudattavien järjestelmien välillä he ymmärtävät paremmin pelin säännöt ja voivat arvioida potentiaalisia työnantajiaan. Sitoutumispisteet antavat heille vihjeen aktiivisuuden tasosta ja palkitsemisen ehdoista yhteisössä.
 
-Nykyään yksityiskohdat korvauksista ja bonuksista ovat epämääräisiä monissa työpaikoissa. Sen vuoksi henkilön on vaikea verrata ehtojaan toisen ehtoihin ja saada käsitys oikeudenmukaisesta ja puolueettomasta kohtelusta. Työntekijät kokevat paljon turhautumista edellä mainitulla tavalla.
+Yhteisöjen johtajat voivat puolestaan etsiä asiaankuuluvia taitoja digitaalisen työn identiteetin verkkoa käyttäen (jonka käyttäjät ovat päättäneet julkistaa). Ne voivat hankkia taitoja tehokkaammin työhistoriasta, työtaidoista ja käyttäjien sitoutumistasosta saatujen todennettujen ja yksityiskohtaisten tietojen perusteella.
 
-WoM ottaa käyttöön objektiivisen tavan tunnistaa saavutukset ja palkita niitä.
+## 4.5. Aineellinen ja läpinäkyvä tunnustaminen
 
-Sitoutumisen tunnustamis- ja palkitsemismekanismi on läpinäkyvä ja sitä sovelletaan tasapuolisesti kaikkiin käyttäjiin samojen selkeiden sääntöjen mukaisesti, jotka on päätetty etukäteen ja jotka ovat linjassa yhteisön tavoitteiden kanssa.
+Nykyään yksityiskohdat korvauksista ja bonuksista ovat vaikeaselkoisia monissa työpaikoissa. Siksi henkilön on vaikea verrata ehtojaan toiseen ja saada käsitys oikeudenmukaisesta ja puolueettomasta kohtelusta. Työntekijät kokevat paljon turhautumista edellä mainitulla tavalla.
 
-Lompakot ovat yksilöllisiä ja lohkoketjuja – kun käyttäjä saa palkkion tai ansaitsee merkin, sitä ei voi ottaa takaisin tai poistaa.
+WoM esittelee objektiivisuuden siinä, miten niiden saavutukset tunnustetaan ja palkitaan.
 
-## 4.6. Pääsy Web 3.0-, salaus - ja DEFI-palveluihin
+Osallistumisen tunnustamis- ja palkitsemismekanismi on avoin ja sitä sovelletaan tasapuolisesti kaikkiin käyttäjiin, noudattaen samoja täsmällisiä sääntöjä, joista päätettiin etukäteen ja jotka olivat yhteisön tavoitteiden mukaisia.
 
-Kuten edellä on todettu, WoM avaa kryptovaluutta ja hajautetut verkkopalvelut pohjimmiltaan kaikille – hyvin suurelle käyttäjäjoukolle, jopa mahdollisesti vailla yhteyttä digitaaliseen kenttään.
+Blockchain teknologian ansiosta ansaitut palkinnot ja merkit on mahdotonta.
 
-Itse asiassa kaikki työn sitoutuminen voidaan mahdollisesti määrittää. Itse asiassa maailma on muuttumassa yhä digitaalisemmaksi esimerkiksi 5G: n, iotin, puettavien ja niin edelleen. Tämän seurauksena voitaisiin ottaa entistä enemmän signaaleja ja analysoida niitä muiden kuin digitaalisten ammattien sitoutumisen lisäämiseksi. Haasteet ovat valmiit menemään tietä sen konkretisoimiseksi edustamalla fyysisen maailman saavutuksia.
+## 4.6. DeFi Esteettömyys
 
-Any user can get MEED and use a Meeds wallet to get access to new age services without any special training.
+WoM avaa kryptovaluutta ja hajautetut verkkopalvelut kaikille - suuri joukko työntekijöitä, jopa mahdollisesti vailla yhteyttä digitaaliseen kenttään.
+
+Itse asiassa sitoutumisen tunnistaminen koskee mitä tahansa työtä. Maailma on muuttumassa yhä digitaalisemmaksi esimerkiksi 5G:n, IoT:n, kulumisen ja niin edelleen.
+
+Ajan myötä WoM vangitsee yhä enemmän työsignaaleja vähädigitalisoituneilta ammateilta. Engagement ohjelmat tarjoavat ennalta suunniteltu ratkaisu muuntaa reaalimaailman saavutuksia virtuaalinen kuponkia.
+
+Kuka tahansa voi ansaita poletteja Meeds-lompakon kautta ja käyttää helposti erilaisia DeFi-palveluita alhaisella sisääntulokitkalla.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Verifiable Credentials Data Model
