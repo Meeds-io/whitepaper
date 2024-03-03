@@ -1,126 +1,132 @@
 
-# 2. Czynności - Właściwości WoM
+# 2. Deeds - Własności
 
 ## 2.1. Akt NFT
 
-W świecie cyfrowym tokeny niefunkcyjne (NFT) służą podobnemu celowi jak czyny w świecie fizycznym. Podobnie jak akt potwierdzający własność materialnego mienia, NFT ustanawiają bezsporną własność zasobów cyfrowych. Własność ta jest bezpiecznie rejestrowana w blockchain, zapewniając unikatowy i niepowtarzalny charakter każdego składnika aktywów.
+W świecie cyfrowym, Tokeny Niezamienne (NFTs) funkcjonują jak akty własności w świecie fizycznym. Potwierdzając bezpiecznie własność aktywów cyfrowych za pomocą blockchaina, ustanawiają one niekwestionowaną własność, podobną do fizycznych aktów własności, zapewniając unikalność i niepowtarzalność każdego z aktywów.
 
-W ramach WoM akt prawny jest konceptualizowany jako NFT, reprezentujący podstawową jednostkę własności. Posiadanie aktu powierza właścicielowi uprawnienia do zarządzania centrum społecznościowego i uprawnia go do otrzymywania nagród Mintia, forma uznania i zachęty w ramach ekosystemu WoM (dalsze szczegóły w sekcji 2.6).
+W kontekście WoM, Akt własności jest pojęciem rozumianym jako NFT, reprezentujący podstawową jednostkę własności. Posiadanie Aktu własności umożliwia osobom zarządzanie __Centrum Społeczności__. Kwalifikuje ich do nagród Mintium - formy sponsorowania dla społeczności, które generują autentyczne zaangażowanie swoich członków (szczegółowe informacje w sekcji 2.6).
 
-WoM ma być zróżnicowaną i integracyjną platformą. Z zadowoleniem przyjmuje szeroki wachlarz organizacji, począwszy od DAO, od tradycyjnych przedsiębiorstw i stowarzyszeń, aż po ośrodki analityczne, firmy teatralne, grupy projektowe i instytucje edukacyjne. W tym cyfrowym krajobrazie, akt prawny symbolizuje cyfrową obecność i ślad organizacji w WoM, działanie jako pomost między ich rzeczywistymi operacjami a ich wysiłkami cyfrowymi.
+WoM jest różnorodną i inkluzywną platformą. It welcomes various organizations, from DAOs, traditional businesses, and associations to think tanks, theater companies, project groups, and educational institutions. Akt prawny symbolizuje cyfrową obecność i ślad organizacji w tym cyfrowym krajobrazie. Działa jako pomost między operacjami na świecie rzeczywistym a wysiłkami cyfrowymi.
 
-## 2.2. Dostępność Deeds
+## 2.2. Zaopatrzenie własności
 
-WoM ostatecznie dostarczy ograniczoną ilość Deeds. Każdy Deed obejmuje określoną maksymalną liczbę użytkowników i oferuje pojemność nagradzania Meeds (Minting Power). Termin „użytkownik” tutaj i dalej oznacza każdego typu pracownika, pracownika zleceniodawcy, wolontariusza itp.
+WoM ostatecznie dostarczy ograniczoną ilość Deeds. Każdy Akt własności zawiera z góry określoną maksymalną liczbę użytkowników i oferuje pojemność nagrody (Moc Mennicza). Termin __'użytkownik'__ użyty tutaj i w dalszym ciągu określa każdego pracownika, robotnika, wolontariusza itp.
 
-Istnieją cztery rodzaje czynności, z których każdy zapewnia różne możliwości pod względem liczby użytkowników, praw głosu w mieście (zob. pkt 2. ) lub moc kopania, przy czym najrzadsze są najpotężniejsze:
+Istnieją cztery rodzaje Aktów własności, każdy oferujący różne możliwości pod względem liczby użytkowników, praw do głosowania w __Mieście__ (patrz 2.7) lub mocy menniczej, przy czym najrzadsze są najmocniejsze:
 
-| **Typ Deed** | **Maksymalna liczba użytkowników** | **Moc wydobywcza** | **Rzadkość** | **Prawo do głosowania w mieście** |
-| ------------ | ---------------------------------- | ------------------ | ------------ | --------------------------------- |
-| Pospolite    | 100                                | 1                  | ~ 90%        | 1                                 |
-| Niepospolite | 1000                               | 1.1                | ~ 9%         | 10                                |
-| Rzadki       | 10 000                             | 1.3                | ~ 1%         | 100                               |
-| Legendarny   | nieograniczony                     | 2                  | < 0.1 %      | 1000                              |
+| **Typ Deed** | **Maksymalna liczba użytkowników** | **Moc wydobywcza** | **Rzadkość** | **Głosy miasta** |
+| ------------ | ---------------------------------- | ------------------ | ------------ | ---------------- |
+| Pospolite    | 100                                | 1                  | ~ 90%        | 1                |
+| Niepospolite | 1000                               | 1.1                | ~ 9%         | 10               |
+| Rzadki       | 10 000                             | 1.3                | ~ 1%         | 100              |
+| Legendarny   | nieograniczony                     | 2                  | < 0.1 %      | 1000             |
 
-## 2.3. Deeds własności
+## 2.3. Własność
 
-Posiadacz Deed ma prawo DO UŻYWANIA, WYNAJMU lub SPRZEDAŻY.
+Akt prawny daje jego właścicielowi prawo do UŻYCIE, ZAGROŻENIA lub SELL.
 
-- UŻYTKOWNIK – właściciel może użyć własności do uruchomienia węzła dla swojej własnej organizacji.
+- UŻYTKOWANIE – Właściciel może używać Aktu własności do prowadzenia centrum dla swojej organizacji.
 - RENT - Właściciel może również wynająć akt własności innej organizacji i zarabiać pasywny dochód.
 - SELL - właściciel może sprzedać go na wtórnym rynku NFT, takim jak [OpenSea](https://opensea.io).
 
-Będąc aktywnym posiadaczem lub renterem czynności, organizacja jest uprawniona do nagród MEED zgodnie z opisanym poniżej modelem „mintium” (zob. 2.6).
+Będąc aktywnym posiadaczem lub najemcą Aktu własności, organizacja ma prawo do nagród MEED zgodnie z modelem "Mintium" opisanym poniżej (patrz 2.6).
 
 ## 2.4. Centrum społecznościowe
 
-Na dzisiejszym konkurencyjnym rynku organizacje starają się przyciągać i zatrzymywać największe talenty nie tylko poprzez wynagrodzenie, ale także poprzez zwiększenie zaangażowania w pracę. WoM zajmuje się tym wyzwaniem za pomocą unikalnego, tokenizowanego systemu nagród w centrum społecznościowym.
+Organizacje dążą do przyciągnięcia i zatrzymania najlepszych talentów na dzisiejszym konkurencyjnym rynku poprzez wynagrodzenia i zwiększenie zaangażowania w pracę. WoM odpowiada na to wyzwanie za pomocą wyróżniającego się ztokenizowanego systemu nagród włączonego do Centrów Społeczności.
 
-W ramach tych centrów przywódcy społeczności mogą stymulować zaangażowanie członków poprzez oferowanie przejrzystego zestawu zachęt do podejmowania pracy. Uczestnicy zarabiają punkty zaangażowania za swoje wysiłki, które są okresowo przekształcane w tokeny MEED lub ich ekwiwalenty, zgodnie z wcześniej określonym budżetem.
+W ramach tych centrów przywódcy społeczności mogą stymulować zaangażowanie członków poprzez oferowanie przejrzystego menu zachęcanych przedmiotów roboczych. Uczestnicy zarabiają punkty zaangażowania za swoje wysiłki. Następnie system okresowo konwertuje te punkty na tokeny nagród dla określonego z góry budżetu.
 
 Centra społecznościowe oferują zestaw narzędzi i funkcji zaprojektowanych w celu zwiększenia zaangażowania współtwórców i zarządzania nim:
 
 - **Działania**: Zachęcone zadania pomagają uczestnikom, dostosowując ich wysiłki do celów organizacji oraz zwiększając motywację i kierunek.
 - **Gamification**: Tablice wyników i odznaki przekształcają pracę w zabawę, konkurencyjne doświadczenie, zwiększenie zaangażowania i przyjemność.
-- **Programy Zaangażowania**: Dostosowane programy z konkretnymi celami i nagrody wyjaśniają cele organizacyjne i uczciwie uznają osiągnięcia współtwórców.
+- **Programy zaangażowania**: Dostosowane programy z konkretnymi celami i nagrody wyjaśniają cele organizacyjne i sprawiedliwie rozpoznają osiągnięcia uczestników.
 - **Kdos**: Natychmiastowe wzajemne uznawanie zwiększa morale i sprzyja kulturze docenienia, zwiększa spójność i motywację zespołu.
 - **Przestrzeń**: zorganizowane podgrupy i projekty usprawniają komunikację i współpracę, zwiększając zbiorową wydajność.
-- **Wallet**: Aplikacja Wallet przechowuje w bezpieczny sposób nagrody MEED, reprezentując wkład użytkowników, i umożliwia łatwe transakcje zarówno w centrum jak i w szerszej sieci.
-- **Umiejętności**: Różne nagrody, od kart podarunkowych po NFT, zachęcają do ciągłego zaangażowania i wspierają lojalność w ekosystemie organizacji.
+- **Wallet**: Aplikacja Wallet przechowuje nagrody MEED, reprezentowanie wkładu użytkowników i umożliwia łatwe transakcje w centrum i w szerszej sieci.
+- **Umiejętności**: Różne nagrody, od kart podarunkowych po NFT, zachęcają do stałego zaangażowania i wspierają lojalność w ekosystemie organizacji.
 - **Tasks**: Usprawnione narzędzia zarządzania projektami i zadaniami zwiększają wydajność poprzez uproszczenie przepływu pracy i śledzenie postępów.
 - **Notatki**: Poręczna aplikacja do dokumentowania podstawowych informacji, takich jak przewodniki do wdrażania promuje dzielenie się wiedzą i samowystarczalność organizacji.
 - **Branding**: Konfigurowalny wygląd Hub przyciąga nowych twórców i wzmacnia ich połączenie z tożsamością organizacji.
 - **Analytics**: Wnikliwe analizy dotyczące zaangażowania społeczności umożliwiają przywódcom identyfikowanie skutecznych strategii i podejmowanie świadomych decyzji w celu optymalizacji.
 
 
-**Rozpoczęcie Hub** Rozpoczęcie Huba jest najbardziej płynne przez miłości. o, które oferuje dostęp do platformy w chmurze zarządzanej przez Stowarzyszenie Meeds Ta platforma umożliwia szybką konfigurację i jest utrzymywana przez podmiot nienastawiony na zysk, który steruje WoM. Jednakże WoM zaprasza do decentralizacji. Ponieważ oprogramowanie Meeds jest otwartym oprogramowaniem i swobodnie rozpowszechniane, organizacje mają możliwość samodzielnego hostowania serwera Hub i łączenia się z siecią WoM. przyznanie im większej kontroli i personalizacji w ich konfiguracji i zarządzaniu Hub.
+**Rozpoczęcie Hub** Rozpoczęcie Hub jest najbardziej płynne przez meeds.io, które oferuje dostęp do zarządzanej usługi w chmurze. Jednakże WoM zaprasza do decentralizacji. Ponieważ oprogramowanie Meeds jest otwartym źródłem i swobodnie rozpowszechniane, organizacje mogą samodzielnie hostować serwer Hub i łączyć się z siecią WoM. przyznanie im większej kontroli i personalizacji w ich konfiguracji i zarządzaniu.
 
-**Przechwytywanie sygnałów roboczych** centra mogą integrować się z różnymi platformami, takimi jak GitHub, Twitter, oraz Discorda i są rozszerzone przez API do łączenia się z usługami takimi jak oprogramowanie CRM, oprogramowanie księgowe i terminale zegarowe. Pozwala to na rozpoznawanie i nagradzanie różnorodnych profesjonalnych wkładów. Wszystkie złączki są poddawane przez Stowarzyszenie Meeds procesowi białej listy, aby zagwarantować integralność i funkcjonalność.
+**Przechwytywanie sygnałów roboczych** centra mogą integrować się z różnymi platformami, takimi jak GitHub, Twitter, oraz Discorda i są rozszerzone przez API do łączenia się z usługami takimi jak oprogramowanie CRM, oprogramowanie księgowe i terminale zegarowe. Rozszerzenie to pozwala na uznanie i wynagradzanie różnorodnych profesjonalnych wkładów. Wszystkie złącza podlegają procesowi weryfikacji w celu zagwarantowania integralności i funkcjonalności.
 
-**Dostrajanie sklepu** Organizacje mogą dopasować sklep do własnych umiejętności, w tym kursy szkoleniowe i członkostwo w gimnazjach, tworzenie samodzielnego cyklu nagród i zaangażowania. Jest to nie tylko zachęta dla uczestników, ale także sprzyja głębszemu powiązaniu z ekosystemem organizacji.
+**Dostrajanie sklepu** Organizacje mogą dopasować sklep do własnych umiejętności, w tym kursy szkoleniowe i członkostwo w gimnazjach, tworzenie samodzielnego cyklu nagród i zaangażowania. Ten wewnętrzny sklep zachęca uczestników i sprzyja głębszemu powiązaniu z ekosystemem organizacji.
 
-**Zaangażowanie i Nagrody** Aktywne uczestnictwo w Centrum przyczynia się do globalnego wyniku organizacji w zaangażowaniu. Wskaźnik ten odzwierciedla skuteczność strategii zaangażowania, biorąc pod uwagę takie czynniki, jak poziom aktywności użytkowników oraz sprawiedliwy podział pracy i wynagrodzeń. Ten możliwy do publicznej kontroli wynik uprawnia centra do dystrybucji tokenów MEED wybitych z protokołu, służenie jako miara skuteczności ich strategii zaangażowania.
+**Engagement and Rewards** Active participation contributes to the community's engagement score. Wskaźnik ten odzwierciedla skuteczność strategii zaangażowania, biorąc pod uwagę takie czynniki, jak poziom aktywności użytkowników oraz sprawiedliwy podział pracy i wynagrodzeń. This publicly auditable score gives Hubs the right to earn MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
 
-Patrząc w przyszłość, centra społecznościowe w ekosystemie WoM staną się centralnym elementem życia społeczności, integracja komunikacji wewnętrznej, interakcji w czasie rzeczywistym, zarządzania i różnych narzędzi wydajności. Ulepszenia te zapewnią, że centra te będą wzajemnie powiązane z najlepszymi narzędziami już stosowanymi przez organizacje. Stanowią one potężny dowód zaangażowania Meedsa w promowanie żywotnej i zaangażowanej społeczności.
+Centra te mają stać się centralnym elementem życia społecznego, integrując komunikację wewnętrzną, interakcje w czasie rzeczywistym, zarządzanie i różne narzędzia wydajności. Te ulepszenia zagwarantują, że będą one nadal powiązane z najlepszymi narzędziami wykorzystywanymi przez organizacje. Stanowią one potężny dowód zaangażowania Meedsa na rzecz wspierania żywotnej i zaangażowanej społeczności.
 
 
 ## 2.5. Model nagradzania
 
-W WoM zaangażowanie użytkowników w różne działania jest zachęcane i gamione, dostosowane do unikalnych programów każdego centrum społecznościowego. Użytkownicy zarabiają punkty odzwierciedlające ich aktywny udział, przy czym każda społeczność określa własne zasady przydziału punktów.
+WoM zachęca do zaangażowania użytkowników w różne działania związane z pracą dostosowane do każdego unikalnego programu. Użytkownicy zarabiają punkty odzwierciedlające ich aktywny udział, przy czym każda społeczność określa własne zasady przydziału punktów.
 
-Na przykład firma IT może przyznać 10 punktów za kodowanie na GitHubie, mając na uwadze, że agencja cyfrowa mogłaby przywiązywać większą wagę do zaangażowania mediów społecznościowych, takich jak retweety i podobne kwestie.
+Na przykład firma IT może przyznać 10 punktów za kodowanie na GitHubie, mając na uwadze, że agencja cyfrowa mogłaby przywiązywać większą wagę do zaangażowania mediów społecznościowych, takich jak retweets i podobne kwestie.
 
-Regularny rozkład nagród opiera się na punktach zgromadzonych w każdym centrum transmisji. Zazwyczaj są one podawane w tokenach MEED, dostarczane bezpośrednio do portfeli użytkowników. Podczas gdy tokeny MEED są standardową formą nagród, centra mają możliwość oferowania różnych rodzajów rekompensaty.
+Regularne rozkład nagród występuje jako współtwórcy w każdym Centrum zarabiania punktów. Użytkownicy automatycznie otrzymują MEED (lub inne) tokeny w swoich portfelach.
 
-Kiedy nagrody są rozprowadzane w tokenach innych niż MEED, stosuje się opłatę nominalną w wysokości 5%. Opłata ta stanowi wkład do skarbu państwa Meeds, odgrywając kluczową rolę w utrzymaniu zrównoważonego charakteru ekosystemu.
+Podczas gdy tokeny MEED są standardową formą nagród, centra mają możliwość oferowania różnych rodzajów rekompensaty. W takim przypadku w protokole stosuje się opłatę nominalną w wysokości 5 %. Opłata ta przyczynia się do rozwoju finansów DAO, odgrywając kluczową rolę w utrzymaniu zrównoważonego charakteru ekosystemu.
 
-## 2.6. Model "mintium" - tokenizacja zaangażowania w pracę
+## 2.6. The Mintium
 
-Poprzez zaangażowanie użytkowników w WoM społeczności otrzymują rekompensatę za pomocą innowacyjnego modelu mintu.
+Poprzez zaangażowanie użytkowników w WoM społeczności otrzymują rekompensatę za pomocą innowacyjnego modelu „Mintium”.
 
-Punkty zaangażowania, zdobyte przez użytkowników Hubs, uczestniczą w globalnym indeksie zaangażowania, obliczonym przez Stowarzyszenie Meeds Association. Indeks stosuje tę samą zasadę w odniesieniu do wszystkich Hubów. Nawet jeśli wspólnota może zmienić przydział punktów, aby promować jedno działanie w stosunku do innych, zmiany te nie będą brane pod uwagę przy obliczaniu indeksu globalnego.
+Punkty zaangażowania zdobyte przez użytkowników uczestniczą w globalnym wskaźniku zaangażowania. Różnice w wartościach punktowych przydzielanych działaniom społeczności nie mają wpływu na globalne obliczanie indeksu.
 
-Każdego tygodnia pewna ilość Meeds jest przydzielana do globalnej produkcji w systemie WoM związanej z zaangażowaniem. Jest ona obliczana co tydzień, proporcjonalnie do liczby uczestniczących centrów. Niektóre centra otrzymują dodatkowy impuls w zależności od rodzaju czynności, jaki używają. Centra żądające meedów w ciągu tygodnia, otrzymują je. Nieodebrane Meeds są dodawane do kwoty globalnej dystrybucji na kolejny tydzień.
+WoM przydziela co tydzień kilka tokenów MEED do globalnej puli zaangażowania. Jest to obliczane co tydzień, pro-rata, wśród uczestniczących centrów. Niektóre centra otrzymują dodatkowy impuls w zależności od typu ich czynności. Hubów, które twierdzą swoje tokeny MEED w ciągu tygodnia, je otrzymują. Nieodebrane tokeny MEED zwiększają przydział na przyszły tydzień.
 
-Wynik zaangażowania _S_ z Deed jest funkcją zaangażowania, liczby zaangażowanych użytkowników i rozkładu :
+Wynik zaangażowania _S_  Hub jest funkcją zaangażowania, liczby zaangażowanych użytkowników i dystrybucji:
 
 $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Gdzie :
 
 - $A$ = _Aktywność_ - całkowita liczba akcji zebranych przez użytkowników w Centrum w ciągu tygodnia. (Na Hubie każda akcja użytkownika jest przekształcona w punkty zaangażowania, niektóre akcje ważą więcej niż inne. Na poziomie indeksu wszystkie akcje są liniowe).
-- $U$ = _Zaangażowani użytkownicy_ — użytkownicy, którzy w ciągu tygodnia przyczynili się do zdobycia punktów za co najmniej jedno działanie.
+- $U$ = _Zaangażowani użytkownicy_ - użytkownicy, którzy przyczynili się do punktów w ciągu tygodnia przez co najmniej jedną akcję.
 - $E_d$ = _Wskaźnik zaangażowania w centrum_ - akcje na użytkownika ($A/U$)
 - $E_w$ = _Średni wskaźnik zaangażowania_ wszystkich aktywnych centrów w WoM.
-- $D_r$ = _Szybkość dystrybucji_ - jeśli centrum otrzymało wybitne Meeds za poprzedni okres, % środków przekazanych użytkownikom. Wartość % może być wyższa niż 100, jeśli dystrybucja jest opóźniona w czasie.
-- $D_s$ =  _Rozkład_ - jeśli centrum otrzymało wybitne Meeds za poprzedni okres, % użytkowników, którzy otrzymali Meeds w ogólnej grupie użytkowników.
+- $D_r$ = _Szybkość dystrybucji_ - jeśli centrum otrzymało wybite MEED za poprzedni okres, % rozprowadzanych wśród użytkowników tokenów MEED.
+- $D_s$ =  _Rozprzestrzenianie_ - jeśli Hub otrzymał wybitne tokeny MEED za poprzedni okres, % użytkowników, którzy otrzymali MEED w całej puli.
 - $M$ = _Moc Mintingu_ z Deed zgodnie z definicją w 2.3
 
 
-Globalny indeks zaangażowania wykorzystywany do dystrybucji wybitnych meedów wśród centrów piastujących jest sumą wyników zaangażowania wszystkich centrów piastujących w ciągu tygodnia.
+Globalny indeks zaangażowania wykorzystywany do rozdzielenia wybitnych MEED wśród centrów jest sumą wszystkich tygodniowych punktów zaangażowania Hub.
 
 
 Powyższy wzór jest prosty i przeznaczony do faworyzowania węzłów lotniczych:
 
 - z dużą ilością zaangażowanych użytkowników (zaangażowanie)
-- którzy dzielą cały dochód z mintingu (distribution rate) sprawiedliwie ze swoimi użytkownikami (distribution spread).
+- którzy dzielą cały dochód z rozminowywania (wskaźnik dystrybucji) na równi ze swoimi użytkownikami (rozpiętość dystrybucji).
 
-Dodatkowo, przyspieszacze są zastosowane dla :
+Dodatkowo stosuje się stymulatory w następujących przypadkach:
 
-- organizacje o najwyższej aktywności, bez względu na ich rozmiar (współczynnik zaangażowania w stosunku do WoM-u)
+- communities with the highest engagement, regardless of their size (engagement rate compared to the WoM average)
 - rzadsze Deeds
 
-> Organizacja Meeds zastrzega sobie prawo do zmiany formuły w razie potrzeby – na przykład, jeśli pojawią się określone przypadki użycia. Stowarzyszenie może również czarować każde Hub, które przenosi wzór do swoich unikalnych korzyści.
+Wzór będzie ewoluował i dostosowywany w celu optymalizacji i ograniczenia skutków negocjacji i nadużyć. Ponadto protokół będzie również wdrażał procedury cięć w celu wykluczenia złych aktorów.
 
-Ponieważ centra te są nagradzane meedami i zachęcane do ich redystrybucji jako nagród dla użytkowników za ich zaangażowanie – zainteresowanie zarówno społeczności, jak i ich użytkowników jest zrównane w tym samym cyklu wirtualnego podziału dochodów. Tym samym WoM oferuje nowy model pracy, który przekształca relację pracodawca/pracownik w partnerstwo.
+Ponieważ centra te są nagradzane MEED i zachęcane do ich redystrybucji jako nagród dla użytkowników za ich zaangażowanie – interesy zarówno społeczności, jak i ich użytkowników są dostosowane do tego samego pozytywnego cyklu podziału dochodów. W ten sposób WoM oferuje nowy model pracy, który zmienia relację między pracodawcą a pracownikiem jako partnerstwo.
 
-Model "mintium" to pierwszy tego typu model, który wykracza poza tradycyjny model freemium, ponieważ nie tylko usługi są bezpłatne do użytku, ale zarówno organizacje, jak i ich użytkownicy są nagradzani za ich wykorzystanie.
+Model „Mintium” idzie dalej niż model freemium, ponieważ usługi mogą z niego korzystać, i nagradza zarówno organizacje, jak i ich członków za ich użycie.
 
-## 2.7. Miasta i zarządzanie
+## 2.7. Miasta
 
-W WoM Akty będą generowane stopniowo w wirtualnych miastach. Tylko pierwsze miasto będzie istnieć od samego początku. Tylko pierwsze miasto będzie istnieć od samego początku. Pozostałe będą budowane stopniowo, jedno po drugim. W całym WoM będzie istnieć tylko 7 miast, z każdym zawierającym ustaloną liczbę Deeds każdego typu.
+The World of Meeds is a virtual world where people can buy Deeds, similar to real estate properties in virtual Cities. The Deeds are only available in limited quantities within a City and can exist only if someone redeems them with the minting points they accumulate by staking.
 
-Miastu zostanie przyznany status ukończenia, kiedy wszystkie jego Deeds zostaną wyemitowane. Następnie bicie każdego nowego miasta rozpocznie się w ciągu 2^n$ miesięcy po wybiciu ostatniego czynu w mieście o wartości $n-1$.
+**The 7 Cities of the WoM**
+
+In the World of Meeds, there will be 7 cities.
+
+As more people mint Deed NFTs, the Cities of the WoM are constructed progressively by following a predetermined scheme that represents the successive phases of the evolution of the WoM.
+
+When someone mints the last Deed of a City, the protocol enforces a pause of $2^n$ months before allowing the minting of the $n^th$ City.
 
 | **Nazwa miasta** | **Akty**    | **Powszechny**         | **Powszechny** | **Niezwykły** | **Rzadki** | **Legendarny** |
 | ---------------- | ----------- | ---------------------- | -------------- | ------------- | ---------- | -------------- |
@@ -132,16 +138,26 @@ Miastu zostanie przyznany status ukończenia, kiedy wszystkie jego Deeds zostan�
 | 6: Kushor        | 10 000 000  | Eszmum + 64 miesiące   | 6 000 000      | 3 000 000     | 999 998    | 2              |
 | 7: Hammon        | 100 000 000 | Kuszor + 128 miesięcy  | 60 000 000     | 30 000 000    | 9 999 999  | 1              |
 
-Miasto jest sposobem na zbliżenie się społeczności i stworzenie większej społeczności. A w konsekwencji nabyć pewnej tożsamości, związanej z tą społecznością. Jest to również sposób na zapewnienie dodatkowej wartości swoim użytkownikom - wartości, która wykraczałaby poza możliwości jednej społeczności lub wartość stworzoną dzięki współpracy między społecznościami.
+Cities aim to bring together different communities to create a larger, integrated community. The purpose is to foster a sense of unity and shared identity that transcends individual communities and results in shared culture, traditions, and values.
 
-Każde miasto ma własną siedzibę i prowadzi własne DAO gdzie właściciele własności miasta mogą wybrać radę miasta, zagłosować i ustanowić własne zasady funkcjonowania, dodają nowe usługi i kształtują swoje miasto w taki sposób, jak chcą oraz zwiększają atrakcyjność miasta i wartość związanych z nim czynów.
+**Cities Governance** Each City has a treasury funded by protocol fees (see 2.8 Taxes). Each has an independent governance system and operates as a subDAO of the Meeds DAO. Citizens can elect a council and vote on the operating rules of their City. This decentralized governance approach allows Cities to evolve independently, develop customized services for their citizens, and enhance the value of the Deeds.
 
-Na przykład mogą dodać cyfrową reprezentację swojego miasta, fizyczne odpowiedniki związane z ich miastem (na przykład sale konferencyjne w fizycznych przestrzeniach coworkingowych), dodać usługi gastronomiczne zasilane przez Meeds, usługi wakacyjne itp...
+**City Development** Cities strive to provide additional value to their residents beyond what individual communities can achieve independently. The concentration of resources, opportunities, and services in a City allows for community collaboration and cooperation, creating collective value. Such dynamics can lead to economic opportunities, cultural richness, educational and real-life services, and an overall improvement in the quality of life for residents.
 
-Domyślnie (chyba że miasto postanowi inaczej), pasywny dochód z wynajmu Deed-ów będzie "opodatkowany" przez miasto (5%) i Stowarzyszenie (3%) w celu zachęcenia do produktywnego wykorzystania.
+Cities may include physical counterparts to the Deeds in the real world, such as access to meeting rooms in co-working spaces, catering services, travel services, and more.
 
-Transakcje własnościowe (sprzedaże zadania) będą również opodatkowane w wysokości 6%:
+Cities may also explore the potential of Web3 to improve existing services or introduce new ones, such as utilizing blockchain for digital identity management, streamlining government procurement processes through smart contracts, and leveraging dApps for citizens' engagement and participation.
 
-- 2,5% dla Miasta
-- 2,5% dla Stowarzyszenia,
-- 1% za oryginalny portfel, który wykorzystał Deed.
+
+## 2.8. Podatki
+
+**8%** podatek będzie pobierany od dochodu z czynszu czynszu:
+
+- **5%** dla skarbu miasta,
+- **3%** dla skarbu DAO
+
+**6%** podatek będzie nakładany na dochód ze sprzedaży własnej:
+
+- **2,5%** dla skarbu miasta,
+- **2,5%** dla skarbu DAO
+- **1%** dla oryginalnego portfela, który wykupił czynność.

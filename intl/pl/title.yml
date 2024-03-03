@@ -1,14 +1,16 @@
 ---
-title: Meeds DAO-świat Meeds
-date: Nov 22nd, 2023 - Wersja 2.0.0-alpha
+title: Świat Meedów
+subtitle: zdecentralizowana platforma dla przyszłości prac;
+author: Oznacza DAO
+date: 2024-02-14 - Wersja 2.0.0-alfa2
 toc-title: Spis treści
 language: pl
 toc-own-page: true
 titlepage: true
-titlepage-text-color: "000000" ## black
-titlepage-rule-color: "3F8487" ## deep green
-titlepage-color: "FFFFFF"
-titlepage-logo: img/meeds-logo-text-pink.jpg
+titlepage-text-color: "FFFFF" ## black
+titlepage-rule-color: "F97575" ## deep green
+titlepage-color: "3F8487"
+titlepage-logo: "img/meeds-logo-transparent.png"
 papersize: letter
 colorlinks: true
 book: true
@@ -18,5 +20,3 @@ classoption: oneside
 mainfont: "Source Sans Pro"
 sansfont: "Source Sans Pro"
 CJKmainfont: "Heiti TC"
-
-...
