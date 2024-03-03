@@ -125,6 +125,9 @@ The "Mintium" model goes further than the freemium model, as the services are fr
 The World of Meeds is a virtual world where people can buy Deeds, similar to real estate properties in virtual Cities. The Deeds are only available in limited quantities within a City and can exist only if someone redeems them with the minting points they accumulate by staking.
 
 **The 7 Cities of the WoM**
+
+In the World of Meeds, there will be 7 cities. 
+
 As more people mint Deed NFTs, the Cities of the WoM are constructed progressively by following a predetermined scheme that represents the successive phases of the evolution of the WoM.
 
 When someone mints the last Deed of a City, the protocol enforces a pause of $2^n$ months before allowing the minting of the $n^th$ City.
