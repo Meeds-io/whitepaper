@@ -16,14 +16,14 @@ Gemeinden, die es benötigen, können jedoch Drittfirmen einstellen, die diesen 
 
 In der heutigen Welt ist es schwierig, vorher eine Fähigkeit zu beweisen. Wenn Menschen sich in Netzwerken werben, sind sie von sozialer Reputation abhängig. Normalerweise gibt ein Manager oder Peer eine Empfehlung. Sie erfordert guten Willen des Verwandten, stellt aber selten einen endgültigen Beweis für den zukünftigen Arbeitgeber dar.
 
-Benutzer in ihren Community-Hubs können Abzeichen und Zugangsdaten bei der Teilnahme erhalten. Wir lassen sie auch in einer Brieftasche speichern oder als verifizierbare Zugangsdaten [^7]<sup id="fnref:8"><a href="#fn:8" class="footnote-ref"><a href="#fn:8" class="footnote-ref"> 2</a></sup> herunterladen. Solche Referenzen sind ein Beweis für das von der ausstellenden Organisation zertifizierte Wissen/Know-how.</p> 
+Users may earn Badges and Credentials when participating within their Community Hubs . Wir lassen sie auch in einer Brieftasche speichern oder als verifizierbare Zugangsdaten [^7]<sup id="fnref:8"><a href="#fn:8" class="footnote-ref"><a href="#fn:8" class="footnote-ref"> 2</a></sup> herunterladen. Solche Referenzen sind ein Beweis für das von der ausstellenden Organisation zertifizierte Wissen/Know-how.</p> 
 
 <p spaces-before="0">
   Damit bieten wir Menschen eine transparente und unveränderliche Möglichkeit, ihre Fähigkeiten zu erwerben und zu demonstrieren.
 </p>
 
 <p spaces-before="0">
-  <strong x-id="1">Abzeichen</strong> Abzeichen repräsentieren Errungenschaften innerhalb einer Gemeinschaft. Nach Abschluss einer Reihe von Zielen oder Herausforderungen verdienen die Nutzer Punkte. Sie können Anerkennungsausweise erhalten, wenn sie Punkte sammeln und bestimmte Schwellenwerte erreichen.
+  <strong x-id="1">Abzeichen</strong> Abzeichen repräsentieren Errungenschaften innerhalb einer Gemeinschaft. By completing work tasks, users earn points. Sie können Anerkennungsausweise erhalten, wenn sie Punkte sammeln und bestimmte Schwellenwerte erreichen.
 </p>
 
 <p spaces-before="0">
