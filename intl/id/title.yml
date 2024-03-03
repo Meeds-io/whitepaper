@@ -1,14 +1,16 @@
 ---
-title: DAO Meeds - Dunia Meeds
-date: Nov 22nd, 2023 - Version 2.0.0-alpha
+title: Dunia Kebutuhan
+subtitle: platform terdesentralisasi untuk masa depan pekerjaan
+author: Kebutuhan DAO
+date: 2024-02-14-Versi 2.0.0-alpha2
 toc-title: Daftar Isi
 language: id
 toc-own-page: true
 titlepage: true
-titlepage-text-color: "000000" ## black
-titlepage-rule-color: "3F8487" ## deep green
-titlepage-color: "FFFFFF"
-titlepage-logo: img/meeds-logo-text-pink.jpg
+titlepage-text-color: "FFFFFF" ## black
+titlepage-rule-color: "F97575" ## deep green
+titlepage-color: "3F8487"
+titlepage-logo: "img/meeds-logo-transparan.png"
 papersize: letter
 colorlinks: true
 book: true
@@ -18,5 +20,3 @@ classoption: oneside
 mainfont: "Source Sans Pro"
 sansfont: "Source Sans Pro"
 CJKmainfont: "Heiti TC"
-
-...

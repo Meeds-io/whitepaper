@@ -1,62 +1,64 @@
-# 5. WoM untuk SEMUA – ringkasan visi dan pencapaian
+# 5. Ringkasan Visi dan Peta Jalan
 
-## 5.1. Tujuan Akhir - Web terdesentralisasi untuk semua orang
+## 5.1. Pekerjaan Terdesentralisasi untuk Semua Orang
 
-Pada akhirnya, WoM adalah dunia web yang terdesentralisasi untuk semua orang – setiap orang dan semua organisasi.
+Pada akhirnya, WoM adalah tempat kerja yang terdesentralisasi untuk semua orang – setiap orang dan semua organisasi.
 
-Web terdesentralisasi ini akan diisi oleh para pengguna, dengan identitas digital mereka **Xeeds**. Bagi pegiat kripto bisa mengaksesnya melalui dompet metamask atau lewat login/kata kunci bagi para pemula. Pengguna bisa beraktivitas dan mendapatkan imbalan cara yang adil, transparan, dan terdesentralisasi. Mereka akan mendapat akses lewat dunia terdesentralisasi dan dunia kripto masa depan dengan cara yang mudah dan akrab -mereka akan mendapat alat yang mudah unuk menggunakan token mereka, baik dalam keseharian atau untuk diinvestasikan kelak.
+Ini akan diisi oleh pengguna, bertindak melalui identitas digital mereka dan mengakses dunia melalui Metamask untuk mereka yang paham kripto atau login/kata sandi untuk pemula.
 
-Organisasi akan dapat mencari talenta, menelusuri WoM, untuk mendapatkan keterampilan yang terbukti dan tepat. He saisivat palkkion osallistumisestaan kohdussa lyömällä tokeneita käyttäjien sitoutumisen kautta (vähimmäismalli). Tapi kebanyakan, mereka akan memperoleh manfaat dari besarnya keterlibatan dan loyalitas dari para penggunanya.
+Masyarakat akan mengalokasikan waktu mereka dan dihargai secara adil dan transparan atas pekerjaan mereka. Mereka akan mendapatkan akses ke dunia terdesentralisasi dan dunia kripto dengan cepat dan akrab - mereka akan mendapatkan alat sederhana untuk menggunakan token mereka dalam kehidupan mereka atau berinvestasi di dalamnya untuk masa depan mereka.
 
-WoM akan memiliki mata uangnya sendiri, **MEED** – yang dapat digunakan untuk dibelanjakan di toko, dikonversi ke mata uang lain, diinvestasikan untuk mendapatkan laba atas investasi, disewakan atau dibeli, dll. WoM juga bisa memfasilitasi distribusi token lain dan partisipasi di seluruh ekosistem kripto.
+Organisasi akan lebih efisien mencari talenta, menelusuri WoM untuk mendapatkan keterampilan yang terbukti dan tepat. Token "Mintium" akan memberi penghargaan kepada mereka karena menciptakan kondisi keterlibatan dan partisipasi yang tulus. Namun yang terpenting, mereka akan mendapatkan keuntungan dari keterlibatan dan loyalitas yang lebih tinggi dari kontributor mereka.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and MEED token flows
+WoM memiliki mata uangnya sendiri, **MEED** – untuk dibelanjakan di toko, bertukar dengan mata uang lain, berinvestasi, menyewakan atau membeli, dll. WoM juga memfasilitasi pendistribusian token lain dan berpartisipasi dalam ekosistem kripto global.
 
-![WoM dan alur Meeds](en/img/wom-flows.png)
+Karena sebuah gambar dapat menyampaikan ribuan kata, berikut adalah diagram yang menggambarkan aliran token WoM dan MEED:
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds Association and the Cities.
+![Aliran WoM dan Meeds](en/img/wom-flows.png)
 
-## 5.2. Apa Keuntungan bagi Para Pengguna Awal
+WoM akan menaikkan pajak atas nilai yang dihasilkan untuk memastikan ketersediaan dan keberlanjutannya dalam jangka panjang.
 
-Tentu pengguna awal akan mendapatkan banyak keuntungan dibanding dengan pendatang baru.
 
-Secara khusus, keuntungan yang diberikan WoM adalah investasi jangka panjang - yang bisa mengganti properti (Deeds). Pemilik asli Deeds mendapat kompensasi dari keterlibatannya dalam lahirnya (pengguna aktif), lewat pendapatan pasif (menyewakan), dan keuntungan 1% sepanjang masa dai transaksi penjualan Deeds (pada setiap perubahan kepemilikan, penebus aslinya memperoleh dana dari biaya transaksi).
+## 5.2. Strategi Investasi
 
-Dengan mempercayai proyek ini, berpartisipasi dalam kumpulan likuiditas, mempertaruhkan token MEED, menebusnya dengan Akta... investor awal dari semua ukuran akan mencetak token tambahan. He saisivat myös aikaisimman äänioikeuden ja auttaisivat muokkaamaan naista.
-
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted MEED. Semakin adil mereka bekerja, semakin banyak yang mereka peroleh. Para pengguna awal akan dikaitkan dengan sejarah kota-kota dan kelak akan disebut sebagai orang-orang yang membangun.
-
-Diagram di bawah ini menunjukkan contoh strategi investasi Meeds untuk pemilik modal:
+Diagram di bawah menunjukkan contoh **Strategi investasi Meeds untuk pemegang modal** :
 
 ![Strategi investasi Meeds untuk pemilik modal](en/img/invest-capital.png)
 
-Perusahaan tidak hanya bisa berpartisipasi dalam likuiditas bersama, tapi juga bisa bergabung dengan komunitas pembangun dan mendapatkan imbalan keterlibatan tambahan.
+Tentu saja, organisasi dapat berpartisipasi dalam kumpulan likuiditas, tetapi juga bergabung dengan komunitas pembangun dan mendapatkan imbalan keterlibatan tambahan di sana.
 
-Diagram di bawah ini menunjukkan contoh strategi investasi Meeds untuk pemilik pekerjaan:
+Diagram di bawah ini merupakan contoh *strategi investasi Meeds untuk pekerja** :
 
 ![Strategi investasi untuk pemilik pekerjaan](en/img/invest-work.png)
 
 ## 5.3. Peluncuran
 
-The official launch of the WoM was **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+Peluncuran resmi WoM sengaja dijadwalkan pada **1 Mei 2022** – Hari Pekerja Internasional, yang dirayakan di banyak negara.
 
-Saat itu, token MEED sudah ada. Ini memungkinkan untuk mendapatkan token tersebut dan likuiditas bersama bisa diikuti, di jaringan Polygon dan Ethereum.
+Saat itu, token MEED sudah ada. Dimungkinkan untuk memperolehnya, dan kumpulan likuiditas terbuka untuk partisipasi di jaringan Polygon dan Ethereum.
 
-Three Meeds Association members use the system internally to engage and reward their users and improve the Meeds software.
+Protokol utama untuk insentif Inverstor tersedia di Ethereum Mainnet. Saat peluncuran, ini mencakup staking, imbalan likuiditas, akumulasi poin, dan penukaran Akta.
 
-Aplikasi investor sudah tersedia di Jaringan Utama Ethereum. Saat peluncuran, termasuk staking, imbalan likuiditas, akumulasi poin, dan penebusan Deed.
+Komunitas Builders sudah aktif dan berjalan serta terbuka bagi siapa saja yang ingin bergabung, menguji, dan berpartisipasi. Dimungkinkan untuk masuk dengan Metamask.
 
-Komunitas Builders sudah aktif dan berjalan, terbuka bagi siapa saja yang ingin bergabung, menguji, dan berpartisipasi Anda bisa masuk dan bergabung menggunakan Metamask.
+## 5.4. Manfaat bagi Pengguna Awal
 
-Makalah ini awalnya diterbitkan pada hari peluncuran. Menindaklanjuti dari peluncuran, token ini akan disebarkan kepada orang-orang di komunitas kripto.
+Pengadopsi awal mendapatkan banyak keuntungan dibandingkan pengguna yang terlambat.
 
-## 5.4. Komunitas Pembangun
+Secara khusus, WoM memberikan imbalan atas investasi jangka panjang dalam ayat – penebusan Akta. Pemilik asli Akta mendapat kompensasi melalui pembuatan pertunangan (penggunaan aktif) melalui pendapatan pasif (menyewa) dan menerima 1% terus-menerus pada setiap transaksi penjualan Akta (pada setiap perubahan kepemilikan, penebus asli menerima biaya atas transaksi tersebut).
 
-Kami meluncurkan komunitas pembangun di perangkat lunak Meeds dan Discord. Yhteisö toivottaa tervetulleeksi kaikki, jotkaYhteisö toivottaa tervetulleeksi kaikki, jotka haluavat osallistua naisten rakentamiseen. haluavat osallistua WoM: n rakentamiseen. Asosiasi ini akan menghadiahi para pembangun yang aktif dengan Meeds, diambil dari bujet marketing.
+Investor awal telah berpartisipasi dalam kumpulan likuiditas untuk mendukung proyek Meeds. Mereka juga mempertaruhkan token MEED mereka dan mencetak Akta pertama. Sejak hari pertama, protokol tersebut memiliki insentif bawaan sebagai imbalan bagi mereka. Mereka juga mendapatkan pengaruh besar di DAO melalui token tata kelola.
 
-The association plans also to stake some MEED in order to acquire (redeem) a Deed for the builders community. The community will then mint MEED by engagement, through the mintium model, and distribute them to engaged users.
+Organisasi yang menggunakan Akta dan memainkan permainan yang adil untuk melibatkan dan memberi penghargaan kepada kontributornya akan mendapatkan token MEED. Pengadopsi awal akan dikaitkan dengan kota-kota bersejarah pertama dan kemudian diakui sebagai pembangun pendiri.
 
-## 5.5. Peta jalan dan tahap-tahapnya
+
+## 5.5. Komunitas Pembangun
+
+Kami telah meluncurkan komunitas Meeds DAO di [Builders Hub](builders.meeds.io) dan [Discord](https://discord.com/invite/7d9Byf4Fz6). Komunitas menyambut siapa saja yang ingin berpartisipasi dalam pembangunan WoM. DAO akan menghargai keterlibatan setiap pembangun dengan token MEED.
+
+Hub Pembangun berpartisipasi dalam pembuatan keterlibatan pengguna seperti hub lainnya dan dengan demikian menerima. Komunitas ini bercita-cita menjadi komunitas teladan dan menginspirasi orang lain untuk menetapkan standar kerja sama yang lebih baik guna menciptakan nilai dan dampak positif bagi dunia.
+
+## 5.6. Peta Jalan dan Tonggak Pencapaian
 
 Peta jalan kami akan mengikuti prioritas di bawah ini:
 
@@ -64,23 +66,22 @@ Peta jalan kami akan mengikuti prioritas di bawah ini:
 - Mengaktifkan penyewaan Deed
 - Pembuatan Xeed
 - Pengembangan lencana dan kredensial
-- Layanan DeFi - dalam dompet, kerjasama kartu kredit
+- Layanan DeFi – di dompet, kemitraan kartu kredit
 
-Kami memperhitungkan para pengguna awal sejak DAO dan perusahaan yang antusias dengan teknologi selama tahap pembangunan. Meillä pitäisi olla myös joitain varhaisia omaksujia perinteisistä yrityksistä, jotka saavat välitöntä arvoa WoM: ltä tarjoamalla asiaankuuluvia sitouttamisohjelmia työntekijöilleen nykyisten perinteisten palkkiosuunnitelmiensa lisäksi.
+Selama tahap pembangunan, kami mengandalkan pengguna awal dari DAO dan perusahaan yang paham teknologi. Selain itu, kami mengantisipasi pengguna awal dari perusahaan tradisional akan mendapatkan manfaat langsung dari WoM. Mereka dapat meningkatkan program keterlibatan bagi karyawannya bersamaan dengan rencana kompensasi yang ada.
 
-MEED minting spans a 20 year period. Siihen mennessä pyrimme rakentamaan kypsän ekosysteemin, joka on levinnyt moniin organisaatioihin ja moniin käyttäjiin maailmanlaajuisesti.
+Pencetakan MEED berlangsung selama 20 tahun. Kami bercita-cita untuk mengembangkan ekosistem yang matang dan memperluas jangkauannya ke berbagai organisasi dan pekerja di seluruh dunia.
 
-## 5.6. Apa yang bisa Anda lakukan
+## 5.7. Apa yang bisa Anda lakukan
 
 Partisipasi apa yang bisa Anda lakukan sekarang?
 
 - Sebarkan informasi ini kepada mereka yang tertarik
 - Kunjungi situs kami [meeds.io](https://www.meeds.io/)
-- Cek sekarang [Investor app](https://meeds.io/investors)
 - Berkontribusi di likuidtas bersama di sini :
-  - [Cometh Swap](https://swap.cometh.io/)
-  - [Sushi Swap](https://sushi.com)
-- Bergabung dengan komunitas [Discord](https://discord.com/invite/hAuADSq3)
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some MEED engagement rewards
+  - [ComethSwap](https://swap.cometh.io/)
+  - [UniSwap](https://uniswap.org)
+- Bergabunglah dengan server [Discord](https://discord.com/invite/7d9Byf4Fz6) kami
+- Bergabunglah dengan [Builders Hub](https://meeds.io/builders) kami untuk merasakan arti imbalan yang adil atas kontribusi dan dapatkan token MEED pertama Anda
 
-**\*\*\* The WoM - mari kita bersama-sama membangun dunia masa depan yang gila ini. \*\*\***
+**\*\*\* WoM - mari kita membangun dunia untuk bekerja sama lebih baik \*\*\***
