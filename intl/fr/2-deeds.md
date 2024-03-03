@@ -59,7 +59,7 @@ Les hubs communautaires offrent une série d'outils et de fonctionnalités conç
 
 **Enrichir le magasin d'avantages** Les organisations peuvent personnaliser le magasin avec des avantages personnalisés, y compris les cours de formation et les adhésions à la salle de gym, créant un cycle de récompenses et d'engagement auto-renforçant. This internal store further incentivizes contributors and fosters a deeper connection with the organization's ecosystem.
 
-**Engagement and Rewards** Active participation contributes to an organization's global engagement score. Cette métrique reflète l'efficacité des stratégies d'engagement, compte tenu de facteurs tels que le niveau d'activité des utilisateurs et la répartition équitable du travail et des récompenses. This publicly auditable score entitles Hubs to a distribution of MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
+**Engagement and Rewards** Active participation contributes to the community's engagement score. Cette métrique reflète l'efficacité des stratégies d'engagement, compte tenu de facteurs tels que le niveau d'activité des utilisateurs et la répartition équitable du travail et des récompenses. This publicly auditable score gives Hubs the right to earn MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
 
 Hubs aim to become central to community life, integrating internal communications, real-time interactions, governance, and various productivity tools. These enhancements will ensure they remain interconnected with the best tools organizations employ. They are a powerful testament to Meeds' commitment to fostering a vibrant, engaged community.
 
@@ -107,7 +107,7 @@ La formule ci-dessus est simple et conçue pour favoriser les hubs :
 
 Additionally, boosters are in place for the following:
 
-- organizations with the highest engagement, regardless of their size (engagement rate compared to the WoM average)
+- communities with the highest engagement, regardless of their size (engagement rate compared to the WoM average)
 - les deeds les plus rares
 
 The formula will evolve and be tuned to optimize and limit bargain effects and abuses. Additionally, the protocol will also implement slashing routines to exclude bad actors.
@@ -118,11 +118,15 @@ The "Mintium" model goes further than the freemium model, as the services are fr
 
 ## 2.7. Villes
 
-Dans le Monde de Meeds, les Deeds sont comme des biens immobiliers dans des villes virtuelles où les communautés peuvent s'installer.
+The World of Meeds is a virtual world where people can buy Deeds, similar to real estate properties in virtual Cities. The Deeds are only available in limited quantities within a City and can exist only if someone redeems them with the minting points they accumulate by staking.
 
-They come in limited quantities and can only exist when someone redeems them with the minting point they accumulate by staking.
+**The 7 Cities of the WoM**
 
-Le WoM aura **7** phases successives de génération de Deeds que nous appelons des __Villes__. Quand le protocole émettra le dernier Deed d'une Ville, il fait une pause de $2^n$ mois avant de permettre de démarrer la génération de la Ville $n^th$.
+In the World of Meeds, there will be 7 cities.
+
+As more people mint Deed NFTs, the Cities of the WoM are constructed progressively by following a predetermined scheme that represents the successive phases of the evolution of the WoM.
+
+When someone mints the last Deed of a City, the protocol enforces a pause of $2^n$ months before allowing the minting of the $n^th$ City.
 
 | **Nom de la ville** | **Deeds**   | **Disponible**     | **Commun** | **Peu commun** | **Rare**  | **Légendaire** |
 | ------------------- | ----------- | ------------------ | ---------- | -------------- | --------- | -------------- |
@@ -134,11 +138,16 @@ Le WoM aura **7** phases successives de génération de Deeds que nous appelons 
 | 6: Kushor           | 10 000 000  | Eshmum + 64 mois   | 6 000 000  | 3 000 000      | 999 998   | 2              |
 | 7: Hammon           | 100 000 000 | Kushor + 128 mois  | 60 000 000 | 30 000 000     | 9 999 999 | 1              |
 
-A City is a way for the communities to unite and create a larger community. And as a consequence, acquire a specific identity associated with that community. It is also a way to provide additional value to its users, which would go beyond one community's capabilities or value created through community cooperation.
+Cities aim to bring together different communities to create a larger, integrated community. The purpose is to foster a sense of unity and shared identity that transcends individual communities and results in shared culture, traditions, and values.
 
-Each City has independent governance and operates as a subDAO. Citizens will elect a council and vote on their own operating rules. Cette gouvernance décentralisée permet aux villes d’évoluer de façon indépendante, de développer une gamme de services personnalisés pour leurs citoyens et d’accroître la valeur des Deeds.
+**Cities Governance** Each City has a treasury funded by protocol fees (see 2.8 Taxes). Each has an independent governance system and operates as a subDAO of the Meeds DAO. Citizens can elect a council and vote on the operating rules of their City. This decentralized governance approach allows Cities to evolve independently, develop customized services for their citizens, and enhance the value of the Deeds.
 
-For example, they could add physical counterparts in the real world, such as access to meeting rooms in physical co-working spaces,  catering services, travel services, etc.
+**City Development** Cities strive to provide additional value to their residents beyond what individual communities can achieve independently. The concentration of resources, opportunities, and services in a City allows for community collaboration and cooperation, creating collective value. Such dynamics can lead to economic opportunities, cultural richness, educational and real-life services, and an overall improvement in the quality of life for residents.
+
+Cities may include physical counterparts to the Deeds in the real world, such as access to meeting rooms in co-working spaces, catering services, travel services, and more.
+
+Cities may also explore the potential of Web3 to improve existing services or introduce new ones, such as utilizing blockchain for digital identity management, streamlining government procurement processes through smart contracts, and leveraging dApps for citizens' engagement and participation.
+
 
 ## 2.8. Taxes
 
