@@ -1,15 +1,19 @@
 
 # 1. हमारे बारे में
 
-Meeds is a collaborative effort led by diverse open-source software (OSS) communities dedicated to creating a decentralized digital world that resists centralized corporate control and promotes a free and open environment.
+मीड्स एक विकेंद्रीकृत डिजिटल दुनिया बनाने के लिए समर्पित विभिन्न ओपन-सोर्स सॉफ़्टवेयर (ओएसएस) समुदायों के नेतृत्व में एक सहकारी प्रयास है जो केंद्रीकृत कॉर्पोरेट नियंत्रण का विरोध करता है और एक स्वतंत्र और खुले वातावरण को बढ़ावा देता है।
 
-The Meeds project uses the Ethereum ecosystem to implement the WoM protocols and manage the supply of the MEED token. This approach has helped prioritize security, accessibility, usability, and cost-effectiveness, making it attractive to a broad user base. However, the WoM is designed to be an autonomous and self-sufficient public good, aiming to become multichain.
+एथेरियम पारिस्थितिकी तंत्र का उपयोग करते हुए, हम WoM प्रोटोकॉल लागू करते हैं और MEED टोकन की आपूर्ति की देखरेख करते हैं। इस रणनीति ने हमें सुरक्षा, पहुंच, प्रयोज्यता और लागत-प्रभावशीलता को प्राथमिकता देने में सक्षम बनाया है, जिससे यह विविध उपयोगकर्ता जनसांख्यिकीय के लिए आकर्षक बन गई है। फिर भी, हमने WoM को कई श्रृंखलाओं में विस्तार करने की आकांक्षाओं के साथ एक स्वायत्त और आत्मनिर्भर सार्वजनिक वस्तु के रूप में डिज़ाइन किया है।
 
-The legal entity behind Meeds is the _Meeds Association_, a non-profit organization registered under Swiss law in Geneva. It is responsible for regulating the issuance of MEED tokens and contracting with service providers.
+जरूरतों के पीछे कानूनी इकाई _मेड्स एसोसिएशन_ है, जो जिनेवा में स्विस कानून के तहत शामिल एक गैर-लाभकारी संगठन है । यह MEED टोकन जारी करने और सेवा प्रदाताओं के साथ अनुबंध को विनियमित करने के लिए जिम्मेदार है।
 
-The Meeds Association intends to progressively hand over control of the Meeds protocol and treasuries to the _Meeds DAO_, which is the decentralized autonomous organization that represents the decentralized governance arm of the Meeds ecosystem, empowering the community to participate in decision-making, proposal voting, and protocol upgrades.
+मीड्स एसोसिएशन का इरादा मीड्स प्रोटोकॉल और कोषागारों का नियंत्रण उत्तरोत्तर _मीड्स डीएओ_ को सौंपने का है। यह विकेन्द्रीकृत स्वायत्त संगठन पारिस्थितिकी तंत्र की विकेन्द्रीकृत शासन शाखा का प्रतिनिधित्व करता है, जो समुदाय को निर्णय लेने, प्रस्ताव मतदान और प्रोटोकॉल उन्नयन में भाग लेने के लिए सशक्त बनाता है।
 
-The relationship between the Meeds Association and Meeds DAO involves how they operate in the real world. Meeds Association is a traditional organization that have members, a board of directors, and operates under specific legal and regulatory frameworks. In the real world, Meeds Association may engage in activities such as organizing events, providing services, and advocating for its members. It may also have a physical office and staff members. Meeds DAO, on the other hand, operates without a central authority and make decisions through consensus of its members using blockchain-based voting mechanisms. It may also engage in activities such as funding projects, managing assets, and making decisions through smart contracts.
+एसोसिएशन और डीएओ के बीच संबंध में यह शामिल है कि वे वास्तविक दुनिया में कैसे काम करते हैं।
 
-The WoM is built as open-source software ([github.com/meeds-io](https://github.com/meeds-io)) and hosted by partners selected by the Meeds Association on behalf of the Meeds DAO.
+मीड्स एसोसिएशन सदस्यों और निदेशक मंडल वाला एक पारंपरिक संगठन है। यह विशिष्ट कानूनी और नियामक ढांचे के तहत काम करता है। व्यावहारिक रूप से, यह कार्यक्रम आयोजित करने, सेवाएँ प्रदान करने और सदस्यों की वकालत करने, संभवतः कर्मचारियों के साथ एक भौतिक कार्यालय बनाए रखने जैसी गतिविधियों में संलग्न है।
+
+इसके विपरीत, मीड्स डीएओ एक केंद्रीय प्राधिकरण के बिना कार्य करता है, जो ब्लॉकचेन-आधारित मतदान तंत्र का उपयोग करके अपने सदस्यों की सर्वसम्मति के माध्यम से निर्णय लेता है। यह परियोजनाओं के वित्तपोषण, परिसंपत्तियों के प्रबंधन और स्मार्ट अनुबंधों के माध्यम से निर्णयों को क्रियान्वित करने जैसी गतिविधियों में भी संलग्न हो सकता है।
+
+डब्ल्यूओएम को ओपन-सोर्स सॉफ्टवेयर ([) के रूप में बनाया गया है github.com/meeds-io](https://github.com/meeds-io)) और मेड्स डीएओ की ओर से मेड्स एसोसिएशन द्वारा चुने गए भागीदारों द्वारा होस्ट किया गया
 

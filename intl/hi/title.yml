@@ -1,14 +1,16 @@
 ---
-title: दाव की जरूरत है-जरूरतों की दुनिया
-date: 22 नवंबर, 2023 - संस्करण 2.0.0-अल्फा
+title: जरूरतों की दुनिया
+subtitle: काम के भविष्य के लिए एक विकेन्द्रीकृत मंच
+author: डीएओ की जरूरत है
+date: 2024-02-14-संस्करण 2.0.0-अल्फा 2
 toc-title: सामग्री सूचि
 language: hi
 toc-own-page: true
 titlepage: true
-titlepage-text-color: "000000" ## black
-titlepage-rule-color: "3F8487" ## deep green
-titlepage-color: "FFFFFF"
-titlepage-logo: img/meeds-logo-text-pink.jpg
+titlepage-text-color: "एफएफएफएफएफएफ" ## black
+titlepage-rule-color: "एफ 9 7575" ## deep green
+titlepage-color: "3 एफ 8487"
+titlepage-logo: "आईएमजी / जरूरत-लोगो-पारदर्शी।पीएनजी"
 papersize: letter
 colorlinks: true
 book: true
@@ -18,5 +20,3 @@ classoption: oneside
 mainfont: "Noto Sans Devanagari"
 sansfont: "Noto Sans Devanagari"
 CJKmainfont: "Heiti TC"
-
-...
