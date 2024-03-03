@@ -1,64 +1,70 @@
-# 4. Xeeds - WoM Individuals / Users
+# 4. Xeeds - The Citizens
 
-## 4.1. Desentraliserte og selvstatlige modeller
+## 4.1. Self-suveren identitet
 
-WoM anerkjenner personvern som en grunnleggende menneskerettighet og gir brukerne mulighet til å eie dataene sine.
+Vi anerkjenner personvern som en grunnleggende menneskerett og styrker brukere til å eie sine data.
 
-Vår tilnærming er basert på desentraliserte og selvsuverene identitetsprinsipper, slik at brukerne når som helst kan ha kontroll over hvilken informasjon de ønsker å offentliggjøre, dele med en begrenset gruppe eller holde privat.
+Vår tilnærming er basert på desentraliserte og selvsuverene identitetsprinsipper, og er basert på desentralisert identitet. gjør at brukerne kan styre hvilken informasjon de vil offentliggjøre, dele med en begrenset gruppe, eller beholde privat.
 
-Brukerens aktivitet og engasjement i WoM er alltid knyttet til et samfunn. En Xeed er den virtuelle personen til en bruker i et fellesskap. Xeed krever ingen KYC, det er egenerklæring, men vi kan tenke oss å tenke oss tredjepartsfirmaer som leverer denne tjenesten.
+Brukere deltar i ulike fellesskap; vi kaller deres virtuelle person a **__Xeed__**.
 
-## 4.2. Emblemer og legitimasjon
+Xeeds er selvdeklarativ, og krever ingen standard KYC (__Finn ut Kunde__- prosessen.
 
-Badges og påloggingsinformasjon gis til brukere som en del av deres deltakelse i et fellesskap. Innehaveren kan laste dem ned som W3C Verifiserbare opplysninger[^7][^8] (aka VCer) og lagre dem i hans lommebok. Disse VC-ene er bevis på kunnskap/kunnskap som er sertifisert av organisasjonen som gir den.
+Populasjoner som trenger det kan leie tredjeparts firmaer som leverer denne tjenesten eller bruker protokoller som __Proof Humanity__.
 
-I dagens verden er det vanskelig å bevise en dyktighet på forhånd. Når folk reklamerer seg på nettverk, teller de på sine ledere for å gi dem en anbefaling. Det sistnevnte hevder goodwill fra lederens side, men behandles ikke nødvendigvis som bevis fra fremtidig arbeidsgiver.
+## 4.2. Gjenkjennelses Tokens
 
-WoM gir en mer transparent og uforanderlig måte for folk å tilegne seg og demonstrere sine evner.
+I dagens verden er det vanskelig å bevise en dyktighet på forhånd. Når folk reklamerer seg på nettverk, avhenger de av sosialt omdømme. En forvalter eller likeledes gir vanligvis en anbefaling. Den krever goodwill fra den relative men utgjør sjelden et endelig bevis for fremtidig arbeidsgiver.
 
-Badges brukes for å representere fullverdige gjenstander laget i et fellesskap. Etter at du har fullført et sett med mål eller utfordringer, vil brukerne bli tildelt poeng. Merker kan låses opp ved å akkumulere visse mengder punkter i spesifikke kategorier.
+Users may earn Badges and Credentials when participating within their Community Hubs . Vi vil la dem lagre dem også i en lommebok eller laste dem ned som Verifiserbare påloggingsopplysninger [^7][^8]. Slike opplysninger er bevis på kunnskap/kunnskap som er sertifisert av den utstedende organisasjonen.
 
-Når merkene lastes ned av brukeren, det er mulig å ta med antall poeng og rangen hans i HUB-en for denne spesifikke prestasjonen.
+Vi tilbyr med dette et transparent og uforanderlig middel for mennesker til å tilegne seg og demonstrere sin evne.
 
-Leger er mer fleksible enn Merkelapper; de kan være en anbefaling fra en motpart, der ekspertise, opplæring eller eksamen er planlagt eller er engasjert i rommet. Disse er signert av HUB-en og kan ledsages av en signatur av en peer bruker.
+**Merker** Merker representerer prestasjoner gjort i et fellesskap. By completing work tasks, users earn points. De kan tjene anerkjennelsesdistinksjoner når de akkumulerer poeng og når visse terskler.
 
-## 4.3. Digital arbeidsidentitet
+Merker representeres som NFTer av NTTs (ikke overførbare Tokens, aka __Soulbound__ tokens) eller nedlastbare. De vil inkludere selektivt opplyst informasjon, slik som navn på Hub, antall poeng, kategorien av arbeid, og dato for oppnåelse eller rangering i samfunnet.
 
-Alt ovenfor bidrar til å danne et velfungerende digitalt kompetansesett som kan bevares og brukes av brukeren ved bytte av arbeid eller frilansing. Det ville være mer tillitsfullt enn tradisjonelle løsninger, for det er avhengig av ikke bare ett individ, men et fullt samfunn som beviser det.
+**Credentials** Credentials are more flexible than Badges. Det kan være en anbefaling fra en kilde hvor ekspertise, om mange år med kompetanse, opplæring eller eksamen er avsluttet, eller engasjement i rommet.
 
-Akkurat som hans Meeds lommebok, vil brukeren holde igjen hans Xeed, Merker, og innloggingsinformasjon knyttet til den i identitetslommeboken når du går fra ett Hb til en annen, fra en by til en annen, hvor som helst gjennom WoM.
+HUB-medlemmene eller andre medlemmer vil signere disse opplysningene for å påskrive dem offisielt og verifiserbart.
 
-Brukeren vil kunne uttrykke sine Xeed, Merker og tanker mot andre Huber for å fremheve sin erfaring. samt med rekrutterere eller andre tjenester som han anser som interessant.
+## 4.3. Digital arbeider identitet
 
-En bruker kan ha én eller flere digitale identiteter i WoM. Han kunne senere presentere dem på en enhetlig måte ved hjelp av verifiserte presentasjoner.
+Samtlige av disse bidrar til å danne et velbevist digital kompetansesett som brukerne kan beholde og bruke ved bytte av jobber eller frilansing. Det er mer tillitsfullt enn tradisjonelle løsninger fordi det er avhengig av et helt samfunn som beviser det.
 
-I motsetning til web 2 er brukeren i fullt eierskap til sine desentraliserte identitet. Sistnevnte kan vise (og prove) samfunnene han deltok i, sine påviste ferdigheter, hans håndhevede ferdigheter, andre teteeds (mennesker) han arbeidet med, hans digitale representasjon av seg selv... På en måte som en pålitelig LinkedIn 3.0.
+Brukere vil beholde deres Xeed, Merker og innloggingsinformasjon over Hubs. De kan dermed annonsere, vise og bevise sin kompetanse og erfaring overfor andre samfunnsledere og rekrutterere og andre tjenester som de anser som interessante.
 
-Brukeren vil kunne velge om han skal vise noe eller ikke, hvilken informasjon brukeren skal gi, og hvilken identitet som skal brukes for hver posisjon. Innholdet (påvist ferdighet, tidligere Huber osv.) er godkjent og kunne ikke endres. Enhver identitet må utvikles over tid.
+Folk utvikler en digital komposittidentitet over tid når de virker. Hvem som helst kan ha flere digitale identiteter som de kunne bestemme seg for å forene senere. De har total frihet til å velge om de skal avsløre noe, hvilken informasjon de skal gi, og hvilken identitet de skal bruke for hver posisjon.
 
-## 4.4. Markedsplass for rettferdig arbeid
+Vi ønsker at borgerne i WoM skal eie sin desentraliserte identitet.
 
-I dette paradigmet tillater brukerne å bevege seg fritt og tildele/selge sitt engasjement blant Hubs – som de gjør i den fysiske verden ved å endre arbeidsgiver. Men i WoM vil deres engasjement bli materiell, målt og belønnet på en rettferdig måte. Ved å flytte mellom systemene som følger lignende logikk, De vil forstå bedre spillereglene og dømme arbeidsgiverne på en god måte – gress er ikke alltid grønnere. Brukere vil kunne se hvilke Hb som gir belønningsbetingelser for bedre engasjement, tilhører en mer attraktiv by, osv.
+## 4.4. Fair Work Markedsplass
 
-Samfunnslederne kan på sin slutt søke etter relevante ferdigheter ved hjelp av WoM-nettverket for digital arbeidsidentitet (at brukerne bestemte seg for å offentliggjøre). De vil kunne gi kompetanse mer effektivt. basert på verifiserte og detaljert informasjon om arbeidshistorie, arbeidsevne og engasjementsnivå for brukeren.
+I dette paradigmet en framtidig arbeidsmarkedsplass gjør at brukerne kan bevege seg fritt og allokere/selge sitt engasjement blant Hubs – som i den fysiske verden ved å endre arbeidsgiver. Men i WoM er deres engasjement helt prestisk, målt og belønnet rettferdig.
 
-## 4.5. Spesifikk og gjennomsiktig gjenkjenning
+Ved å flytte mellom systemer som følger tilsvarende logikk, vil de forstå bedre om spillets regler og kan evaluere sine potensielle arbeidsgivere. Skogflåttpoenget gir dem et hint om aktivitetsnivået og belønningsbetingelsene i fellesskapet.
 
-I dag er omtale av kompensasjon og bonuser blant annet på mange arbeidsplasser. Derfor er det vanskelig for en person å sammenligne betingelsene sine med forholdene på et annet, og få følelse av å være rettferdig og upartisk behandling. Ansatte opplever mye frustrasjoner til det som er nevnt ovenfor.
+På sin side kan samfunnsledere søke etter relevante ferdigheter ved hjelp av nettverket av digital arbeidsidentitet (at brukerne bestemte å offentliggjøre). De kan kilde til ferdigheter mer effektivt basert på bekreftet og detaljert informasjon om arbeidshistorie, arbeidsevner og nivå for brukerengasjement.
 
-WoM introduserer en objektiv måte å anerkjenne prestasjoner og belønne dem på.
+## 4.5. Tabelt og Transparent gjenkjenning
 
-Engasjement anerkjennelse og belønnings ordning er gjennomsiktig og gjelder alle brukere, Etter samme eksplisitte regler, bestemt på forhånd og i tråd med samfunnets mål.
+I dag er spørsmålet om erstatning og bonuser ugjennomsiktig på mange arbeidsplasser. Derfor er det vanskelig for en person å sammenligne sine vilkår med hverandre og få følelse av rettferdig og upartisk behandling. Ansatte opplever mye frustrasjoner til det som er nevnt ovenfor.
 
-Lommebøker er individuelle og blokkjedebaserte - når brukeren mottar en belønning eller tjener et merke, kan det ikke tas tilbake eller slettes.
+WoM introduserer objektivitet i hvordan deres prestasjoner skal anerkjennes og belønnes.
 
-## 4.6. Tilgang til Web 3.0, kryptoøkonomi og DEFI-tjenester
+Engasjementsgjenkjenning og belønningsmekanismen er åpen og gjelder rimelig for alle brukere, Etter samme eksplisitte regler, bestemt på forhånd og i tråd med samfunnets mål.
 
-Som diskutert ovenfor, åpner WoM verden av kryptovaluta og desentraliserte nettjenester for i utgangspunktet alle – en veldig stor populasjon av brukere, til og med muligens uten tilknytning til det digitale feltet.
+Takket være blokkeringsteknologien er det ikke mulig å ta tilbake opptjente belønninger og merker.
 
-Ja, alle aktiviteter kan potensielt medvirkes. Faktisk blir verden stadig mer digitalt med trender som 5G, iot, kabler og så videre. Som en konsekvens av dette kunne flere og flere signaler fanges opp og analyseres for å synliggjøre ikke-digitale yrkers engasjement. Utfordringer gjør at de er klare til å gjøre det lettere ved å representere prestasjoner i den fysiske verden.
+## 4.6. DeFi tilgjengelighet
 
-Alle brukere kan skaffe seg Meeds og bruke en Meeds-lommebok for å få tilgang til nye tjenester uten spesiell opplæring.
+WoM åpner verden av kryptovalutaer og desentraliserte webtjenester til alle – en stor befolkning på arbeidstakere, til og med mulig manglende sammenheng med det digitale feltet.
+
+Tokenisering av engasjement gjelder for hvilket som helst arbeid. Verden blir stadig mer digital med trender som 5G, IoT, wearabler og lignende.
+
+WoM skal over tid fange opp stadig flere arbeidssignaler fra lavdigitaliserte fagfolk. Engagementsprogrammer tilbyr en pre-designet løsning for å omdanne den virkelige verden til virtuelle symboler.
+
+Alle kan tjene tokens gjennom deres meiss-lommebok og enkelt få tilgang til ulike DeFi tjenester med lav påkjøringsfriksjon.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Datamodell Verifiserbar Legitimasjon

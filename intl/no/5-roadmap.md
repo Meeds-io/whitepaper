@@ -1,62 +1,64 @@
-# 5. WoM for ALL – visjonsoppsummering og milepæler
+# 5. Visjon sammendrag og veikart
 
-## 5.1. Ultimat mål - Desentralisert steg for alle
+## 5.1. Desentralisert arbeid for alle
 
-I siste del er WoM en desentralisert nettverden for alle – hver person og alle organisasjoner.
+Uansett er WoM en desentralisert arbeidsplass for alle - hver person og alle organisasjoner.
 
-Det vil bli populert av brukere, som opptrer gjennom sin digitale identitet **Xeeds** og når de får tilgang til verden gjennom sine metaver, for krypto-lagring, eller logg inn/passord for nyhetene. Folk vil sette engasjementet sitt og bli belønnet på en rettferdig, åpen og desentralisert måte. De ville få tilgang til den desentraliserte verdenen og morgendagens krypslep på en enkel og velkjent måte - de ville få enkle verktøy å bruke tokene i sitt liv eller investere dem for sin fremtid.
+Det vil bli fylt av brukere, som virker gjennom sin digitale identitet og får tilgang til verden gjennom deres Metamask om krypto-savis eller login/passord for de nyhetene.
 
-Organisasjoner vil kunne kilde til talenter, surfe gjennom WoM for riktige bekjente ferdigheter. De ville bli belønnet for sin deltakelse i WoM, ved å prege tokens gjennom deres brukerengasjement (mintium-modellen). Men det meste vil de ha nytte av et større engasjement og lojalitet fra sine brukere.
+De vil fordele tid og belønne rettferdig og åpen for sitt arbeid. De vil få tilgang til den desentraliserte verdenen og kryptoverden på en rask og kjent måte - de vil få enkle verktøy til å bruke tokene sine i sitt liv eller investere i dem for sin egen fremtid.
 
-WoM ville ha en egen valuta **MEED** – som ville vært der for å bruke i butikker, veksle om til annen valuta, investere i avkastning på investeringer, leie eller kjøp osv. WoM ville også lette andre tokendistribusjonen og delta i den generelle krypto- økosystemet.
+Organisasjoner vil mer effektivt skaffe seg talenter, surfe gjennom WoM for riktige bekjente ferdigheter. Mintiumtokens vil belønne dem for å skape betingelsene for reell engasjement og deltakelse. Men framfor alt vil de dra nytte av økt engasjement og lojalitet fra sine bidragsytere.
 
-Siden et bilde sier mer enn tusen ord, her er et diagram som beskriver WoM- og Meeds-strømmene
+WoM har valuta, **MEED** – for å bruke i butikker, bytte med andre valuta, investering, leie eller kjøp. WoM legger også til rette for å fordele andre tokens og delta i det globale krypto-økosystemet.
 
-![WoM- og Meeds-strømmer](en/img/wom-flows.png)
+Som et bilde er verdt tusen ord, her er et diagram som beskriver WoM og MEED tokenstrømmene:
 
-Verdens vedlikehold og bærekraft i det lange løp er sikret gjennom skatter som deles mellom Meeds-foreningen og byene.
+![WoM og Meeds flyter](en/img/wom-flows.png)
 
-## 5.2. Hva slags tidlig i adopsjonene
+WoM skal legge skatt på generert verdi for å sikre langsiktig tilgjengelighet og bærekraft.
 
-Åpenbart vil tidlige brukere få betydelige fordeler i forhold til de som kommer sent.
 
-Særlig belønner WoM langsiktige investeringer i verd – det er innløsningen av eiendommen (Deeds). Deedes opprinnelige eier blir kompensert ved hjelp av bremsesammering (aktiv bruk), gjennom passiv inntekt (leie av) og få en livslang 1 % ved enhver salgstransaksjon av den avdelte (ved hver eierskifte, den opprinnelige innløseren får gebyr på transaksjonen).
+## 5.2. Investment Strategies
 
-Ved å tro i prosjektet, som deltar, som deltar i likviditetsbassengene, staker MEED tokene, vil innløse dem mot Deeds...de tidlige investorene av alle størrelser ville minske ytterligere tokene. De ville også få den tidligste stemmerett og bidra til å forme WoM.
-
-Organisasjoner som skaffer seg, men som særlig bruker betalingsmidler til å engasjere og belønne sine ansatte, vil bli kompensert for møtende ting. Jo rettferdigere de kommer til å spille, jo mer vil de få. De tidligere vedtakene vil være knyttet til de første historiske byene og vil bli identifisert som byggerne senere på.
-
-Diagrammet nedenfor representerer et eksempel på Meeds investeringsstrategi for kapitaleiere:
+Figuren nedenfor representerer et eksempel på **Meeds investment strategy for capital holders**:
 
 ![Meeds investeringsstrategi for kapitaleiere](en/img/invest-capital.png)
 
-Organisasjoner kan selvfølgelig delta i likviditetspooler, men også bli med i fellesskapet av byggere og få ytterligere engasjementsbelønninger der.
+Organisasjoner kan selvsagt delta i likviditetsreserver, men også bli med i fellesskapet for bygge og få ekstra engasjementsmidler der.
 
-Diagrammet nedenfor representerer et eksempel på Meeds investeringsstrategi for arbeidsholdere:
+Diagrammet nedenfor representerer et eksempel på *Meeds investeringsstrategi for arbeidstakerne** :
 
 ![Meeds investeringsstrategi for arbeidsinnehavere](en/img/invest-work.png)
 
 ## 5.3. Lanseringen
 
-Den offisielle lanseringen av WoM var **og 1. mai 2022** – Den internasjonale arbeidsdagen, feiret i mange land.
+Den offisielle lanseringen av WoM var målrettet for **mai 1st, 2022** – International Workers Day, feiret i mange land.
 
-På det tidspunktet eksisterte MEED-tokenet allerede. Det er mulig å anskaffe dem og likviditetsreservene er åpne for deltakelse, på Polygon og Ethereum-nettverk.
+På det tidspunktet eksisterte MEED-tokenet allerede. Det var mulig å skaffe seg, og likviditetsreservene er åpne for å delta på Polygon og Ethereum nettverk.
 
-Tre medlemmer av Meeds-foreningen bruker systemet internt for å engasjere og belønne brukerne sine og forbedre Meeds-programvaren.
+Primærprotokollen for Inverstors insentiver er tilgjengelig på Ethereum Mainnet. Ved lansering var den blant annet innsatt, likviditetsbelønning, minstepunktsoppsamling og innløsning av Deeds.
 
-Investor app er tilgjengelig på Ethereum Mainnet. Ved lansering er det blant annet eier- og likviditetsbelønninger, poengterer oppbyggingen og innløsning av Deeds.
+Builders community is up and running and open to anyone want to join, test, and participate. Det er mulig å logge inn med Metamask.
 
-Bygningssamfunnet er på vei og i gang, åpen for alle som ønsker å bli med, teste og delta. Det er mulig å logge inn med Metamask.
+## 5.4. Fordeler for tidlige adoptre
 
-Dette papiret ble i første omgang publisert på lanseringsdagen. Etter lanseringen vil token bli redusert til mange personer på tvers av kryptosamfunnet.
+Tidlig de innfører får store fordeler over latekomerene.
 
-## 5.4. Byggere samfunnet
+Det er særlig WoM som belønner den langsiktige investeringen i vers – utløsningen av Deeds. En Des opprinnelige eier blir kompensert ved hjelp av gruvedrift (aktiv bruk) gjennom passiv inntekt (leie) og oppfatter en evig 1% ved enhver salgstransaksjon av den Deed (ved hver eierskifte, den opprinnelige innløseren får gebyr på transaksjonen).
 
-Vi lanserer fellesskapet bygger på Meeds programvare og på Discord. Samfunnet ønsker alle velkommen som ønsker å delta i byggingen av WoM. Assosiasjonen ville belønne utbyggere som samarbeider med Meeds, fra sitt markedsføringsbudsjett.
+Tidlige investorer har deltatt i likviditetsreservene for støtte til Meeds prosjektet. De satte også ned sine MEED-tokens og utvant de første Deeds. Siden dag 1 hadde protokollen innebygde insentiver til å belønne dem. De tjener også betydelig innflytelse i DAO gjennom styringstoken.
 
-Nærings- og tilknytningsplanene tar også høyde for enkelte Meeds for å anskaffe (redeem) et område for bebyggerne. Deretter vil samfunnet utvinne mat av engasjement, gjennom mintiummodellen og distribuere dem til engasjerte brukere.
+Organisasjoner som bruker Deeds og spiller et rettferdig spill for å engasjere og belønne sine bidragsytere til MEED tokens. De tidligere vedtakene vil bli assosiert med de første historiske byene og senere anerkjent som grunnbyggerne.
 
-## 5.5. Veikart og milepæler
+
+## 5.5. The Builders Community
+
+Vi har lansert Meeds DAO samfunnet på [Builders Hub](builders.meeds.io) og [Discord](https://discord.com/invite/7d9Byf4Fz6). Fellesskapet ønsker velkommen alle som vil delta i WoM-bygget. DAO vil belønne alle byggeres engasjement med MEED token.
+
+Builderes hub deltar i brukerengasjement som alle andre hub og mottar. Det vil være et forbilledlig fellesskap og inspirere andre til å angi bedre standarder for å skape verdier og ha positiv innvirkning på verden.
+
+## 5.6. Veikart og milepæler
 
 Vårt veikart vil følge den prioriterte rekkefølgen nedenfor:
 
@@ -64,23 +66,22 @@ Vårt veikart vil følge den prioriterte rekkefølgen nedenfor:
 - Aktiver utleie av skjøter
 - Xeed-oppretting
 - Forbedring av merker og utvikling av legitimasjon
-- DeFi-tjenester - i lommeboken, kredittkortpartnerskap
+- DeFi services – i lommeboken, partnerskap med kredittkort
 
-Vi regner tidlig med vedtektene fra DAOs og tech-savvy selskaper i byggefasen. Vi burde også ha en tidlig innføring i tradisjonelle selskaper som får umiddelbar verdi fra WoM ved å gi relevante program til sine folk. i tillegg til sine gjeldende tradisjonelle kompensasjonsplaner.
+I byggfasen er vi avhengig av tidlig bruk av AADs (DAO), og av strømsparende selskaper. I tillegg ser vi for oss tidlig på adopsjoner av tradisjonelle selskaper som har fordeler seg umiddelbart av WoM. Ved siden av eksisterende ordninger for kompensasjon kan de forbedre engasjementsprogrammer for sine ansatte.
 
-Meeds preging strekker seg over en 20 års periode. Innen den tiden ønsker vi å ha oppnådd å bygge et modent økosystem, etter å ha spredt seg til mange organisasjoner og mange brukere globalt.
+MEED gravverk spenner 20 år. Vi aspire for å utvikle et modent økosystem og utvider sin rekkevidde til flere organisasjoner og arbeidstakere verden over.
 
-## 5.6. Hva du kan gjøre akkurat nå
+## 5.7. Hva du kan gjøre akkurat nå
 
 Hva kan du gjøre akkurat nå for å delta?
 
 - Spre dette dokumentet til dem som kan være interessert
 - Besøk nettstedet vårt [meeds.io](https://www.meeds.io/)
-- Ta en titt på [Investor-appen](https://meeds.io/investors)
 - Bidra til de eksisterende likviditetspoolene her :
-  - [Cometh Swap](https://swap.cometh.io/)
-  - [Sushi Swap](https://sushi.com)
-- Bli med i [Discord](https://discord.com/invite/hAuADSq3) vårt for å holde deg oppdatert
-- Bli med i våre [Builders](https://meeds.io/builders) fellesskapet vårt for å teste Meeds-programvaren, engasjere deg og tjene noen Meeds-engasjementbelønninger
+  - [Byttebytte](https://swap.cometh.io/)
+  - [UniSwap](https://uniswap.org)
+- Bli med på [Discord](https://discord.com/invite/7d9Byf4Fz6)-serveren vår
+- Bli med i [Builders Hub](https://meeds.io/builders) for å oppleve hvilke rettmessige belønninger for bidrag og tjene din første MEED tokens
 
-**\*\*\* The WoM – la oss bygge denne vanvittige fremtidige verdenen sammen. \*\*\***
+**\*\*\* WoM - la oss bygge en verden for å arbeide bedre sammen \*\*\***

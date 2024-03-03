@@ -1,113 +1,37 @@
-
-
 ## Sammendrag
 
-Dagens arbeidsmarked mangler effektivitet på grunn av høye transaksjonskostnader\[^1\]\[^2\]<sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</5></sup> og hyppige interessekonflikter mellom arbeidsgiver og arbeidstaker.</p> 
+Dagens arbeidsmarked er ineffektivt på grunn av høye transaksjonskostnader og hyppige interessekonflikter mellom arbeidsgivere og arbeidstakere. Det kan være dyrt og tidkrevende å utføre jobbrelaterte aktiviteter, og det er ofte uenigheter eller konkurrerende interesser mellom de som ansetter arbeidere og arbeiderne selv.
 
-<p spaces-before="0">
-  WoM (World of Meeds) foreslår et nytt paradigme som vil senke transaksjonskostnadene og gjenoppfinne arbeidsforholdet, og bygge bro mellom tradisjonelle selskaper og DAOer.
-</p>
+The World of Meeds (WoM) foreslår et nytt paradigme for å løse disse problemene ved å redusere transaksjonskostnader og gjenoppfinne arbeidsforhold. Det er et digitalt rom som bygger bro mellom tradisjonelle selskaper og nye organisasjonsformer ved å bringe et rettferdig og gjennomsiktig insentivsystem som justerer interessene til alle parter.
 
-<p spaces-before="0">
-  WoM gjør det ved å introdusere digitale identiteter for både arbeidsgiver og arbeidstaker og tilby et innovativt belønningssystem for engasjement som vil tilpasse interessene deres.
-</p>
+## Trin 1: Introduksjon
 
-<h2 spaces-before="0">
-  Trin 1: Introduksjon
-</h2>
+Den nåværende tilstanden på arbeidsmarkedet tilfredsstiller ikke både arbeidere og arbeidsgivere[^1][^2][^3].
 
-<p spaces-before="0">
-  Arbeidsmarkedet er i dag ødelagt. Det er ikke tilfredsstillende både arbeidstakere og arbeidsgivere.
-</p>
+Arbeidstakere har vanskeligheter med å finne passende jobbmuligheter, ettersom arbeidsmarkedet har en tendens til å favorisere spesifikke individer, og etterlater seg store ferdigheter på grunn av ulike menneskelige skjevheter som rase, kjønn, funksjonshemming, innadvendthet og mer.
 
-<p spaces-before="0">
-  På arbeidstakersiden er det vanskelig å finne de rette jobbene. Arbeidsmarkedet favoriserer enkelte typer enkeltpersoner, og forskjellige ferdigheter setter seg bak seg. Dette kommer fra et sett med menneskelige biaser – rasebaserte, kjønnsbaserte, funksjonsbaserte, introverte basert osv. Arbeidsmarkedet mangler også åpenhet om de aktuelle stillingene og om ansettelsesforhold.
-</p>
+I tillegg er det mangel på åpenhet i tilgjengelige stillinger og ansettelsesforhold. Når de først er ansatt, har arbeidere ofte lite å si i arbeidstiden, arbeidsplassen, innholdet eller metodene. Dessuten er det en oppfattet mangel på rettferdighet i erstatningsreglene på grunn av manglende åpenhet. Karrierefremgang og kompensasjon er avhengig av nærmeste leders gode tro og objektivitet, noe som fører til manglende tillit og samarbeid.
 
-<p spaces-before="0">
-  Etter ansettelse krenkes arbeidstakernes personlige frihet med hensyn til erstatningskrav. Ansatte sier lite om arbeidstid, arbeidsplass, arbeidspress eller arbeidsmetoder. Og erstatningen knyttes sjelden til reell implikasjon og verdi. Regler for kompensasjon mangler åpenhet og oppfattes dermed som urettferdige. Videre er kompensasjons- og karrierefremgang også avhengig av menneskelige faktorer – arbeidstakerens umiddelbare ledelse har god tro og mål.
-</p>
+Arbeidsgivere står overfor utfordringer med å skaffe talenter, ansette de riktige ferdighetene og tilpasse dem til de riktige jobbene til rett tid. Den tradisjonelle ansettelsespoolen klarer ofte ikke å gi en objektiv måte å fastslå en potensiell bidragsyters ferdigheter. Høy omsetningshastighet og mangel på bidragsyterlojalitet kan også øke ansettelses- og ombordstigningskostnadene.
 
-<p spaces-before="0">
-  Arbeidsgivere derimot oppleve vanskeligheter ved å hente inn talent, og ansette de rette ferdighetene og riktig passer til rett tid for jobben. Det er ikke noe mål å fastslå den potensielle utleierens ferdigheter eller skaffe mennesker som er utenfor arbeidsgiverens tradisjonelle ansettelsesreserve.
-</p>
+Disse problemene er knyttet til høye transaksjonskostnader og det forverrede agent-principal-problemet[^4]. Til tross for utviklingen av arbeidsmarkedene mot mer enhet og åpenhet med internett, må transaksjonskostnadene[^5] fortsatt reduseres uten et objektivitetselement.
 
-<p spaces-before="0">
-  Arbeidsgivere må også forholde seg til manglende lojalitet fra de ansatte og høy turnover, som begge øker ansettelses- og introduksjonskostnadene.
-</p>
+WoM tilbyr en unik tilnærming til desentralisert arbeid, og tar opp flere problemer som er utbredt i tradisjonelle arbeidsparadigmer.
 
-<p spaces-before="0">
-  I tillegg har arbeidsgivere også et lavt engasjement i sine nåværende ansatte, noe som gir lav kreativitet, produktivitet og innovasjon. Sistnevnte påfører desto mer skade i dagens økonomi som krever mer dyktig kreativt arbeid.
-</p>
+Gjennom sitt transparente, objektive og desentraliserte insentivparadigme, samordner WoM bærekraftig interessene til bidragsytere og arbeidsgivere. Den foreslår måter å flate ut hierarkier og åpne opp for eierskap, og fremme bærekraftige måter å drive og skape verdier for organisasjoner på.
 
-<p spaces-before="0">
-  Alt det ovennevnte koker ned til høye transaksjonskostnader og det forverrede agent-principal-problemet<fnref target="4" /> :
-</p>
+Ved å matche jobber og ferdigheter objektivt, raskt og globalt, tar WoM sikte på å adressere mangelen på åpenhet i arbeidsmarkedet og sikre at store ferdigheter ikke blir etterlatt.
 
-<ul>
-  <li>
-    Med Internett utviklet arbeidsmarkedene seg i retning av mer enhetlighet og åpenhet takket være jobbposting, karrierplasser osv. Men transaksjonskostnadene er fortsatt for høye i fravær av objektivitetselementer.
-  </li>
-  <li>
-    Når det gjelder agent-principal-problemet, har det blitt forsterket av det økende inntekts- og formuesgapet mellom ansatte og aksjonærer og stivheten i forholdet mellom arbeidsgiver og arbeidstaker.
-  </li>
-</ul>
+WoM tar sikte på å gjenoppfinne arbeidsgiver/ansatt-forholdet ved å introdusere et transparent, objektivt, desentralisert insentivparadigme. Denne modellen motiverer bidragsytere til å være mer engasjerte, kreative og produktive, noe som fører til større innovasjon og produktivitet.
 
-<p spaces-before="0">
-  WoM tar sikte på å løse begge deler gjennom et nytt desentralisert arbeidsparadigme.
-</p>
+Ved å bygge bro mellom tradisjonelle selskaper og nyere organisasjonsmodeller som DAO[^6], gir WoM bærekraftige måter å drive og skape verdier for alle. Som en desentralisert virksomhet får WoM eksponentielt verdi etter hvert som flere bruker den. Vi har derfor designet protokollen som offentlig godkjent med innebygde mekanismer for å oppmuntre til langsiktig interesse og unngå kartelling.
 
-<p spaces-before="0">
-  Etter R. Coase fungerer<fnref target="5" />, knytter de fleste økonomer begrepet foretak med behov for å dempe transaksjonskostnader. Internett og nyere blokkjede og web3 åpner spennende muligheter for å redusere transaksjonskostnadene overalt, gjenoppta økonomien og spesielt gjenoppta foretaket. De første DAO-ene<fnref target="6" /> startet denne prosessen med fokus på å redusere kostnadene ved transaksjoner til kapital og styring. WoM tar sikte på å presse denne logikken videre ved å redusere kostnaden ved arbeidstransaksjoner. Det foreslås en desentralisert verden der jobber og ferdigheter som matcher objektivt, raskt og globalt.
-</p>
+For å fremme aktiv er autentisk deltakelse i WoM-paradigmen avgjørende for å skape et inkluderende miljø der ulike perspektiver verdsettes av grunn.
 
-<p spaces-before="0">
-  De første DAO-ene har en innflating av hierarkene og åpent eierskap. WoM utøver denne logikken ved å omregistrere seg fremfor å undertrykke arbeidsgiver/arbeidstakerrelasjonen. Det gir et åpent og målrettet og desentralisert belønningsparadigm, som ville kunne opprettholde arbeidsgiver og de ansattes interesser.
-</p>
 
-<p spaces-before="0">
-  Til slutt bygger WoM bro over gapet mellom selskaper og DAO-ene. Den introduserer på den ene siden tradisjonelle selskaper i den desentraliserte verden gjennom en enkel måte å bruke engasjementbelønning paradigm og supplere sine kompensasjonssystemer. På den annen side foreslår vi bærekraftige måter å drive virksomhet på og skape verdi for DAO-er. Ultimately, WoM kan være en av de første mainstreamprogrammene for å disokratifisere bruken av blokkjeden for alle selskaper og hver ansatt – også ikke-digitale data.
-</p>
-
-<p spaces-before="0">
-  Som for ethvert desentralisert forsøk får WoM-forslaget økt verdigevinst etter hvert som flere bruker den. Grunnleggerne er derfor opptatt av å oppfordre til langsiktig interesse og unngå monopolitiisering av WoM-fordelene, enten det er kort eller lang sikt. Det er et åpent paradigm, som fortsatt bygges og åpent for aktiv kreativ deltakelse fra alle.
-</p>
-
-<footnotes>
-  <fn name="1" spaces-before="0">
-    <p spaces-before="0">
-      Suzanne Young - <a href="https://www.academia.edu/24703426/Transaction_Cost_Economics">“Transaction Cost Economics”</a>
-    </p>
-  </fn>
-  
-  <fn name="2" spaces-before="0">
-    <p spaces-before="0">
-      Jan Drahokoupil, Agnieszka Piasna - <a href="https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html">“Work in the Platform Economy: Beyond Lower Transaction Costs”</a>
-    </p>
-  </fn>
-  
-  <fn name="3" spaces-before="0">
-    <p spaces-before="0">
-      Seth C. Oranburg, Liya Palagashvili - <a href="https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship">“Transaction Cost Economics, Labor Law and the Gig Economy”</a>
-    </p>
-  </fn>
-  
-  <fn name="4" spaces-before="0">
-    <p spaces-before="0">
-      Michael C. Jensen, William H. Meckling - <a href="https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf">“Theory of the Firm : Managerial Behavior, Agency Costs and Ownership Structure”</a>
-    </p>
-  </fn>
-  
-  <fn name="5" spaces-before="0">
-    <p spaces-before="0">
-      R. Coase - <a href="http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf">“The nature of the firm”</a>
-    </p>
-  </fn>
-  
-  <fn name="6" spaces-before="0">
-    <p spaces-before="0">
-      Aaron Wright - <a href="https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1">“The Rise of Decentralized Autonomous Organizations : Opportunities and Challenges”</a>
-    </p>
-  </fn>
-</footnotes>
-
+[^1]: Suzanne Young - ["Transaction Cost Economics"](https://www.academia.edu/24703426/Transaction_Cost_Economics)
+[^2]: Jan Drahokoupil, Agnieszka Piasna - ["Jobb i Platform Economy: Beyond Lower Transaction Costs"](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
+[^3]: Seth C. Oranburg, Liya Palagashvili - ["Transaction Cost Economics, Labor Law and the Gig Economy"](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship)
+[^4]: Michael C. Jensen, William H. Meckling - ["Theory of the Firm: Managerial Behavior, Agency Costs and Ownership Structure"](https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf)
+[^5]: R. Coase - ["The nature of the firm"](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
+[^6]: Aaron Wright - ["The Rise of Decentralized Autonomous Organizations: Opportunities and Challenges"](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)
