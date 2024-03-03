@@ -59,7 +59,7 @@ Kogukonna jaoturid pakuvad tööriistade ja funktsioonide komplekti, mis on lood
 
 **Perks Store ' i rikastamine** Organisatsioonid saavad poodi kohandada kohandatud hüvedega, sealhulgas koolituskursused ja jõusaaliliikmed, luues ennast tugevdava preemiate ja kaasamise tsükli. See sisemine pood motiveerib veelgi panustajaid ja soodustab sügavamat sidet organisatsiooni ökosüsteemiga.
 
-**Kaasamine ja preemiad** Aktiivne osalemine aitab kaasa organisatsiooni globaalsele kaasamisskoorile. See mõõdik peegeldab kaasamisstrateegiate tõhusust, võttes arvesse selliseid tegureid nagu kasutajate aktiivsuse tase ning töö ja hüvede õiglane jaotus. See avalikult auditeeritav skoor annab jaoturitele õiguse jaotada protokollist vermitud VAJADUSMÄRGID, mis on nende kaasamisstrateegiate tõhususe mõõdupuuks.
+**Engagement and Rewards** Active participation contributes to the community's engagement score. See mõõdik peegeldab kaasamisstrateegiate tõhusust, võttes arvesse selliseid tegureid nagu kasutajate aktiivsuse tase ning töö ja hüvede õiglane jaotus. This publicly auditable score gives Hubs the right to earn MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
 
 Jaoturite eesmärk on muutuda kogukonna elu keskseks, integreerides sisekommunikatsiooni, reaalajas suhtlust, juhtimist ja erinevaid tootlikkuse tööriistu. Need täiustused tagavad, et need on omavahel seotud parimate organisatsioonide kasutatavate tööriistadega. Need on võimas tunnistus Meedsi pühendumisest elava ja kaasatud kogukonna edendamisele.
 
@@ -107,7 +107,7 @@ Kus :
 
 Lisaks on võimendid paigas järgmiste jaoks:
 
-- organisatsioonid, mille kaasatus on suurim, sõltumata nende suurusest (kaasatuse määr võrreldes WoMiga)
+- communities with the highest engagement, regardless of their size (engagement rate compared to the WoM average)
 - haruldasemad deedid
 
 Valem areneb ja seda häälestatakse, et optimeerida ja piirata allahindluste mõju ja kuritarvitamist. Lisaks rakendab protokoll halbade osalejate välistamiseks ka kärpimisrutiine.
@@ -118,11 +118,15 @@ The "Mintium" model goes further than the freemium model, as the services are fr
 
 ## 2.7. Linn
 
-Meedide maailmas on teod nagu kinnisvaraobjektid virtuaalsetes linnades, kus kogukonnad saavad elama asuda.
+The World of Meeds is a virtual world where people can buy Deeds, similar to real estate properties in virtual Cities. The Deeds are only available in limited quantities within a City and can exist only if someone redeems them with the minting points they accumulate by staking.
 
-Neid on piiratud koguses ja need võivad eksisteerida ainult siis, kui keegi lunastab need panuse kaudu kogutud vermimispunktiga.
+**The 7 Cities of the WoM**
 
-WoM-il on **7** järjestikuste aktide vermimise etappi, mida me nimetame __linnadeks__. Kui protokoll vermib linna viimase akti, peatab see $2^n$ kuud enne kui lubab $n^th$ linna vermimist.
+In the World of Meeds, there will be 7 cities.
+
+As more people mint Deed NFTs, the Cities of the WoM are constructed progressively by following a predetermined scheme that represents the successive phases of the evolution of the WoM.
+
+When someone mints the last Deed of a City, the protocol enforces a pause of $2^n$ months before allowing the minting of the $n^th$ City.
 
 | **Linna nimi** | **Deeds**   | **Saadaval**       | **Ühine**  | **Ebatavaline** | **Haruldased** | **Legendaarne** |
 | -------------- | ----------- | ------------------ | ---------- | --------------- | -------------- | --------------- |
@@ -134,11 +138,16 @@ WoM-il on **7** järjestikuste aktide vermimise etappi, mida me nimetame __linna
 | 6: Kushor      | 10 000 000  | Eshmum + 64 kuud   | 6 000 000  | 3 000 000       | 999 998        | 2               |
 | 7: Hammon      | 100 000 000 | Kushor + 128 kuud  | 60 000 000 | 30 000 000      | 9 999 999      | 1               |
 
-Linn on viis, kuidas kogukonnad saavad kokku ja loovad suurema kogukonna. Ja selle tulemusena omandavad nad teatud identiteedi, mis on seotud selle kogukonnaga. Samuti on see võimalus pakkuda oma kasutajatele lisaväärtust - väärtust, mis ületaks ühe kogukonna võimalusi või väärtust, mis on loodud kogukondade vahelise koostöö kaudu.
+Cities aim to bring together different communities to create a larger, integrated community. The purpose is to foster a sense of unity and shared identity that transcends individual communities and results in shared culture, traditions, and values.
 
-Igal linnal on sõltumatu juhtimine ja ta tegutseb alam-DAO-na. Kodanikud valivad volikogu ja hääletavad oma tegevusreeglite üle. See detsentraliseeritud valitsemine võimaldab linnadel iseseisvalt areneda, arendada oma kodanikele kohandatud teenuseid ja suurendada tegude väärtust.
+**Cities Governance** Each City has a treasury funded by protocol fees (see 2.8 Taxes). Each has an independent governance system and operates as a subDAO of the Meeds DAO. Citizens can elect a council and vote on the operating rules of their City. This decentralized governance approach allows Cities to evolve independently, develop customized services for their citizens, and enhance the value of the Deeds.
 
-Näiteks võivad nad lisada reaalses maailmas füüsilisi vasteid, nagu juurdepääs koosolekuruumidele füüsilistes ühistööruumides, toitlustusteenused, reisiteenused jne.
+**City Development** Cities strive to provide additional value to their residents beyond what individual communities can achieve independently. The concentration of resources, opportunities, and services in a City allows for community collaboration and cooperation, creating collective value. Such dynamics can lead to economic opportunities, cultural richness, educational and real-life services, and an overall improvement in the quality of life for residents.
+
+Cities may include physical counterparts to the Deeds in the real world, such as access to meeting rooms in co-working spaces, catering services, travel services, and more.
+
+Cities may also explore the potential of Web3 to improve existing services or introduce new ones, such as utilizing blockchain for digital identity management, streamlining government procurement processes through smart contracts, and leveraging dApps for citizens' engagement and participation.
+
 
 ## 2.8. Maksud
 

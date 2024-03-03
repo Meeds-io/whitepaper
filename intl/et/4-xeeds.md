@@ -16,11 +16,11 @@ Siiski saavad vajaduse korral kogukonnad palgata selle teenuse pakkumiseks kolma
 
 Tänapäeva maailmas on raske oskust eelnevalt tõestada. Kui inimesed reklaamivad end võrgustikes, sõltuvad nad sotsiaalsest mainest. Tavaliselt annab soovituse juht või kolleeg. See nõuab sugulaselt head tahet, kuid harva on see tulevase tööandja jaoks lõplik tõend.
 
-Oma kogukonna keskustes olevad kasutajad võivad osalemisel teenida märke ja mandaate. Lubame neil neid ka rahakotis hoida või alla laadida kontrollitavate mandaatidena [^7][^8]. Sellised volikirjad tõendavad teadmisi/oskusteavet, mille on kinnitanud väljastanud organisatsioon.
+Users may earn Badges and Credentials when participating within their Community Hubs . Lubame neil neid ka rahakotis hoida või alla laadida kontrollitavate mandaatidena [^7][^8]. Sellised volikirjad tõendavad teadmisi/oskusteavet, mille on kinnitanud väljastanud organisatsioon.
 
 Sellega pakume inimestele läbipaistvat ja muutumatut vahendit oma võimete omandamiseks ja demonstreerimiseks.
 
-**Märgid** Märgid tähistavad kogukonnas tehtud saavutusi. Pärast teatud eesmärkide või väljakutsete täitmist teenivad kasutajad punkte. Nad võivad teenida tunnustusmärke, kui nad koguvad punkte ja jõuavad teatud lävedeni.
+**Märgid** Märgid tähistavad kogukonnas tehtud saavutusi. By completing work tasks, users earn points. Nad võivad teenida tunnustusmärke, kui nad koguvad punkte ja jõuavad teatud lävedeni.
 
 Märgid on esindatavad kui NFTsid või allalaaditavad, mis on NTTd (Non-Transferable Tokens) ehk __Soulbound__ märgid. Need sisaldavad valikuliselt avaldatavat teavet, nagu keskuse nimi, punktide arv, töö kategooria ja saavutuse kuupäev või auaste kogukonnas.
 
