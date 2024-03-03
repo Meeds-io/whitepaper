@@ -59,7 +59,7 @@ Wom در نهایت مقدار محدودی از اعمال را تأمین می
 
 **تغییر فروشگاه Perks** سازمان ها می توانند فروشگاه را با مزایای سفارشی، از جمله دوره های اموزشی و عضویت در باشگاه، ایجاد یک چرخه خود تقویت پاداش و تعامل. این فروشگاه داخلی بیشتر به مشارکت کنندگان انگیزه می دهد و ارتباط عمیق تر با اکوسیستم سازمان را تقویت می کند.
 
-**تعامل و پاداش** مشارکت فعال به امتیاز مشارکت جهانی سازمان کمک می کند. این معیار با در نظر گرفتن عواملی مانند سطوح فعالیت کاربر و توزیع عادلانه کار و پاداش، اثربخشی استراتژی‌های تعامل را منعکس می‌کند. این امتیاز قابل بازرسی عمومی به هاب ها حق توزیع توکن های MEED استخراج شده از پروتکل را می دهد و به عنوان معیاری برای اثربخشی استراتژی های تعامل آنها عمل می کند.
+**Engagement and Rewards** Active participation contributes to the community's engagement score. این معیار با در نظر گرفتن عواملی مانند سطوح فعالیت کاربر و توزیع عادلانه کار و پاداش، اثربخشی استراتژی‌های تعامل را منعکس می‌کند. This publicly auditable score gives Hubs the right to earn MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
 
 هدف هاب ها تبدیل شدن به مرکز زندگی اجتماعی، ادغام ارتباطات داخلی، تعاملات بلادرنگ، حکمرانی و ابزارهای مختلف بهره وری است. این پیشرفت‌ها تضمین می‌کند که آنها با بهترین ابزارهایی که سازمان‌ها به کار می‌گیرند در ارتباط هستند. آنها گواهی قدرتمندی برای تعهد Meeds به پرورش یک جامعه پر جنب و جوش و درگیر هستند.
 
@@ -107,7 +107,7 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 علاوه بر این، تقویت کننده ها برای موارد زیر در دسترس هستند:
 
-- سازمان‌هایی که بیشترین مشارکت را دارند، صرف‌نظر از اندازه آنها (نرخ مشارکت در رابطه با WoM)
+- communities with the highest engagement, regardless of their size (engagement rate compared to the WoM average)
 - اعمال کمیاب تر
 
 این فرمول برای بهینه سازی و محدود کردن اثرات و سوء استفاده های معامله تکامل یافته و تنظیم می شود. علاوه بر این، این پروتکل همچن slashing را برای حذف بازیگران بد اجرا می‌کند.
@@ -118,11 +118,15 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 ## 2.7. شهرها
 
-در World of Meeds، Deeds مانند املاک و مستغلات در شهرهای مجازی است که جوامع می توانند در آن مستقر شوند.
+The World of Meeds is a virtual world where people can buy Deeds, similar to real estate properties in virtual Cities. The Deeds are only available in limited quantities within a City and can exist only if someone redeems them with the minting points they accumulate by staking.
 
-آنها در مقادیر محدودی عرضه می شوند و تنها زمانی می توانند وجود داشته باشند که کسی آنها را با امتیاز ضرباتی که با شرط بندی به دست می آورند، بازخرید کند.
+**The 7 Cities of the WoM**
 
-WoM دارای **7** مراحل متوالی از ضرب سند است که ما آنها را __شهرها__ می نامیم. وقتی پروتکل آخرین سند یک شهر را ضرب می کند ، دو ماه قبل از اینکه اجازه ضرب شهر را بدهد ، متوقف می شود.
+In the World of Meeds, there will be 7 cities.
+
+As more people mint Deed NFTs, the Cities of the WoM are constructed progressively by following a predetermined scheme that represents the successive phases of the evolution of the WoM.
+
+When someone mints the last Deed of a City, the protocol enforces a pause of $2^n$ months before allowing the minting of the $n^th$ City.
 
 | **نام شهر** | **اعمال**   | **در دسترس**     | **مشترک**  | **غیر معمول** | **نادر**  | **افسانهای** |
 | ----------- | ----------- | ---------------- | ---------- | ------------- | --------- | ------------ |
@@ -134,11 +138,16 @@ WoM دارای **7** مراحل متوالی از ضرب سند است که ما
 | 6: Kushor   | 10 000 000  | اشموم + 64 ماه   | 6 000 000  | 3 000 000     | 999 998   | 2            |
 | 7: Hammon   | 100 000 000 | کوشور + 128 ماه  | 60 000 000 | 30 000 000    | 9 999 999 | 1            |
 
-شهر راهی برای اتحاد جوامع و ایجاد یک جامعه بزرگتر است. و در نتیجه، هویت خاصی را به دست آورید که با آن جامعه مرتبط است. همچنین راهی برای ارائه ارزش اضافی به کاربران خود است - ارزشی که فراتر از توانایی های یک جامعه یا ارزش ایجاد شده از طریق همکاری بین جوامع است.
+Cities aim to bring together different communities to create a larger, integrated community. The purpose is to foster a sense of unity and shared identity that transcends individual communities and results in shared culture, traditions, and values.
 
-هر شهر دارای حکومت مستقل است و به عنوان یک subDAO عمل می کند. شهروندان شورایی را انتخاب می کنند و در مورد قوانین عملیاتی خود رای می دهند. شهروندان شورایی را انتخاب می کنند و در مورد قوانین عملیاتی خود رای می دهند.
+**Cities Governance** Each City has a treasury funded by protocol fees (see 2.8 Taxes). Each has an independent governance system and operates as a subDAO of the Meeds DAO. Citizens can elect a council and vote on the operating rules of their City. This decentralized governance approach allows Cities to evolve independently, develop customized services for their citizens, and enhance the value of the Deeds.
 
-شهروندان شورایی را انتخاب می کنند و در مورد قوانین عملیاتی خود رای می دهند.
+**City Development** Cities strive to provide additional value to their residents beyond what individual communities can achieve independently. The concentration of resources, opportunities, and services in a City allows for community collaboration and cooperation, creating collective value. Such dynamics can lead to economic opportunities, cultural richness, educational and real-life services, and an overall improvement in the quality of life for residents.
+
+Cities may include physical counterparts to the Deeds in the real world, such as access to meeting rooms in co-working spaces, catering services, travel services, and more.
+
+Cities may also explore the potential of Web3 to improve existing services or introduce new ones, such as utilizing blockchain for digital identity management, streamlining government procurement processes through smart contracts, and leveraging dApps for citizens' engagement and participation.
+
 
 ## 2.8. مالیات
 
