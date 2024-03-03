@@ -1,64 +1,70 @@
-# 4. Xeeds – WoM asmenys / vartotojai
+# 4. Xeeds – Piliečiai
 
-## 4.1. Decentralizuoti ir savarankiški modeliai
+## 4.1. Savarankiška tapatybė
 
-WoM pripažįsta privatumą kaip pagrindinę žmogaus teisę ir suteikia vartotojams teisę turėti savo duomenis.
+Pripažįstame privatumą kaip pagrindinę žmogaus teisę ir suteikiame vartotojams teisę turėti savo duomenis.
 
-Mūsų požiūris grindžiamas decentralizuotais ir savarankiškais tapatybės principais, leidžiančiais naudotojams bet kuriuo metu kontroliuoti, kokią informaciją jie nori viešinti, dalytis su ribota grupe arba išlaikyti privačią.
+Mūsų požiūris grindžiamas decentralizuoto ir savarankiško tapatumo principais, leidžiančiais vartotojams kontroliuoti, kokią informaciją jie nori viešinti, dalytis su ribota grupe arba išlaikyti privačią.
 
-Vartotojo veikla ir įsitraukimas į WoM visada yra susietas su bendruomene. Xeed yra virtuali bendruomenės vartotojo asmenybė. Xeed nereikalauja jokio KYC, jis deklaruoja save, tačiau galime įsivaizduoti, kad šią paslaugą teikia trečiosios šalies įmonės.
+Vartotojai dalyvauja įvairiose bendruomenėse; mes vadiname jų virtualią asmenybę **__Xeed__**.
 
-## 4.2. Ženkliukai ir kredencialai
+Xeed yra savaime deklaruojantis ir nereikalauja numatytojo KYC (__Pažink savo klientą__) proceso.
 
-Ženkliukai ir kredencialai suteikiami naudotojams kaip dalis jų dalyvavimo bendruomenėje. Turėtojas gali juos atsisiųsti kaip W3C patikrinamus kredencialus[^7][^8] (dar žinomus kaip VC) ir laikyti juos savo piniginėje. Tie VCs yra žinių/know-how įrodymas, patvirtintas jį išduodančios organizacijos.
+Tačiau bendruomenės, kurioms to reikia, gali samdyti trečiųjų šalių įmones, teikiančias šią paslaugą, arba naudoti protokolus, pvz., __Žmogiškumo įrodymas__.
 
-Šiuolaikiniame pasaulyje sunku iš anksto įrodyti savo įgūdžius. Kai žmonės reklamuojasi tinkluose, jie tikisi, kad jų vadovai pateiks jiems rekomendaciją. Pastarasis suponuoja tam tikrą vadovo geranoriškumą, tačiau nebūtinai laikomas įrodymu būsimojo darbdavio.
+## 4.2. Atpažinimo žetonai
 
-WoM yra skaidresnė ir nekintama priemonė žmonėms įgyti ir parodyti savo sugebėjimus.
+Šiuolaikiniame pasaulyje sunku iš anksto įrodyti savo įgūdžius. Kai žmonės reklamuojasi tinkluose, jie priklauso nuo socialinės reputacijos. Paprastai vadovas arba bendraamžis pateikia rekomendaciją. Tam reikalingas geranoriškumas iš giminaičio, bet retai tai yra galutinis įrodymas būsimam darbdaviui.
 
-Ženkliukai naudojami bendruomenės pasiekimams pavaizduoti. Įvykdę tikslų ar iššūkių rinkinį, vartotojai bus apdovanojami taškais. Ženkliukus galima atrakinti sukaupus tam tikrą taškų kiekį konkrečiose kategorijose.
+Users may earn Badges and Credentials when participating within their Community Hubs . Taip pat leisime juos laikyti piniginėje arba atsisiųsti kaip patikrinamus kredencialus [^7][^8]. Tokie įgaliojimai yra žinių ir (arba) praktikos įrodymas, patvirtintas juos išduodančios organizacijos.
 
-Kai vartotojas atsisiunčia ženklelius, už šį konkretų pasiekimą galima įtraukti taškų skaičių ir jo reitingą centre.
+Taip mes siūlome skaidrią ir nekintamą priemonę žmonėms įgyti ir pademonstruoti savo sugebėjimus.
 
-Kredencialai yra lankstesni nei ženkleliai; tai gali būti kolegos rekomendacija, nurodanti ilgametę patirtį, mokymą ar egzaminą arba įsitraukimą į erdvę. These are signed by the Hub and can be accompanied by a signature by a peer user.
+**Ženkliukai** Ženkliukai simbolizuoja pasiekimus, pasiektus bendruomenėje. By completing work tasks, users earn points. Jie gali pelnyti pripažinimo ženklelius, kai kaupia taškus ir pasiekia tam tikras ribas.
 
-## 4.3. Skaitmeninė darbo tapatybė
+Ženkliukai bus vaizduojami kaip NTT (Non Transferable Tokens, dar žinomi kaip __Soulbound__ žetonai) NFT arba atsisiunčiami. Į juos bus įtraukta pasirinktinai atskleista informacija, pvz., centro pavadinimas, taškų skaičius, darbo kategorija ir pasiekimų data arba reitingas bendruomenėje.
 
-Visa tai, kas išdėstyta pirmiau, padeda formuoti pasiteisinusius skaitmeninius įgūdžius, kuriuos vartotojas gali išlaikyti ir panaudoti keisdamas darbą arba dirbdamas laisvai samdomu darbu. Tai būtų patikimiau nei tradiciniai sprendimai, nes tai įrodys ne vienas asmuo, bet visa bendruomenė.
+**Kredencialai** Kredencialai yra lankstesni nei ženkleliai. Tai gali būti kolegos rekomendacija, nurodanti ilgametę patirtį, mokymą ar egzaminą arba įsitraukimą į erdvę.
 
-Just like his Meeds wallet, the user will retain his Xeed, Badges, and Credentials attached to it in his identity wallet when moving from one Hub to another, from one city to another, anywhere through the WoM.
+Hub arba lygiaverčiai nariai pasirašys šiuos įgaliojimus, kad patvirtintų juos oficialiai ir patikrinamai.
 
-The user will be able to express his Xeed, Badges, and Credentials towards other Hubs to highlight his experience, as well as with recruiters or any other services that he deems interesting.
+## 4.3. Skaitmeninė darbuotojo tapatybė
 
-Vartotojas WoM gali turėti vieną ar kelias skaitmenines tapatybes. Vėliau jis galėjo juos pateikti vieningai, naudodamas patikrintus pristatymus.
+Visa tai, kas išdėstyta pirmiau, padeda formuoti patikrintą skaitmeninių įgūdžių rinkinį, kurį vartotojai gali išlaikyti ir naudoti keisdami darbą arba dirbdami laisvai samdomu darbu. Jis yra patikimesnis nei tradiciniai sprendimai, nes tai įrodys visa bendruomenė.
 
-Priešingai nei Web 2, vartotojas visiškai priklauso savo decentralizuotoms tapatybėms. The latter can show (and prove) the communities he participated in, his proven skills, his claimed skills, other Xeeds (people) whom he worked with, his digital representation of himself... Patikima LinkedIn 3.0 būdu.
+Naudotojai išsaugos savo Xeed, ženklelius ir kredencialus visuose centruose. Taigi jie gali reklamuotis, parodyti ir įrodyti savo įgūdžius ir patirtį kitiems bendruomenės lyderiams ir įdarbintojams arba bet kurioms kitoms, jų nuomone, įdomioms paslaugoms.
 
-Vartotojas galės pasirinkti, ar ką nors atskleisti, kokią informaciją pateikti ir kokias tapatybes naudoti kiekvienai pozicijai. The content (proven skill, previous Hubs, etc.) is tamper proof and so could not be modified. Bet kokia tapatybė turėtų būti sukurta laikui bėgant.
+Laikui bėgant, dirbdami žmonės susikuria sudėtinę skaitmeninę tapatybę. Kiekvienas gali turėti kelias skaitmenines tapatybes, kurias vėliau gali nuspręsti suderinti. Jie turi visišką laisvę pasirinkti, ar ką nors atskleisti, kokią informaciją pateikti ir kokias tapatybes naudoti kiekvienai pozicijai.
 
-## 4.4. Sąžiningo darbo turgus
+Mes pasisakome už tai, kad WoM piliečiai visiškai valdytų savo decentralizuotą tapatybę.
 
-Within this paradigm the future work marketplace allows users to move freely and allocate/sell their engagement among the Hubs – as they do in the physical world by changing employers. Tačiau WoM jų dalyvavimas būtų apčiuopiamas, išmatuotas ir sąžiningai apdovanotas. Judėdami tarp panašios logikos besivadovaujančių sistemų, jie geriau supras žaidimo taisykles ir teisingai įvertins darbdavius – kitur ne visada žolė žalesnė. Users will be able to see which Hub provides better engagement reward conditions, belongs to a more attractive city, etc.
+## 4.4. Sąžiningo darbo rinka
 
-On their end, the community leaders can search for relevant skills using the WoM network of digital work identities (that the users decided to disclose). Jie galės efektyviau įgyti įgūdžių, remdamiesi patikrinta ir išsamia informacija apie darbo istoriją, darbo įgūdžius ir vartotojo įsitraukimo lygį.
+Pagal šią paradigmą ateities darbo rinka leidžia vartotojams laisvai judėti ir paskirstyti / parduoti savo įsipareigojimus tarp centrų – kaip tai daro fiziniame pasaulyje keisdami darbdavius. Tačiau WoM jų dalyvavimas yra apčiuopiamas, išmatuotas ir sąžiningai atlyginamas.
 
-## 4.5. Apčiuopiamas ir skaidrus pripažinimas
+Judėdami tarp panašios logikos besivadovaujančių sistemų, jie geriau supras žaidimo taisykles ir galės įvertinti savo potencialius darbdavius. Įsitraukimo balai suteikia užuominą apie aktyvumo lygį ir atlygio sąlygas bendruomenėje.
 
-Šiandien daugelyje darbo vietų informacija apie kompensacijas ir premijas yra neaiški. Todėl žmogui sunku palyginti savo sąlygas su kito sąlygomis ir pajusti teisingą bei nešališką elgesį. Darbuotojai patiria daug nusivylimų dėl to, kas išdėstyta pirmiau.
+Savo ruožtu bendruomenės lyderiai gali ieškoti atitinkamų įgūdžių naudodamiesi skaitmeninių darbo tapatybių tinklu (kurį vartotojai nusprendė atskleisti). Jie gali efektyviau gauti įgūdžių, remdamiesi patikrinta ir išsamia informacija apie darbo istoriją, darbo įgūdžius ir vartotojų įsitraukimo lygį.
 
-WoM pristato objektyvų būdą pripažinti pasiekimus ir už juos apdovanoti.
+## 4.5. Apčiuopiamas ir skaidrus atpažinimas
 
-Dalyvavimo pripažinimo ir atlygio mechanizmas yra skaidrus ir sąžiningai taikomas visiems vartotojams, laikantis tų pačių aiškių taisyklių, dėl kurių buvo nuspręsta iš anksto ir suderinta su bendruomenės tikslais.
+Šiandien informacija apie kompensacijas ir premijas daugelyje darbo vietų yra neaiški. Todėl žmogui sunku palyginti savo sąlygas su kitomis ir pajusti teisingą bei nešališką elgesį. Darbuotojai patiria daug nusivylimų dėl to, kas išdėstyta pirmiau.
 
-Piniginės yra individualios ir pagrįstos blockchain – kai vartotojas gauna atlygį arba uždirba ženklelį, jo negalima atsiimti ar ištrinti.
+WoM pristato objektyvumą, kaip jų pasiekimai bus pripažinti ir apdovanoti.
 
-## 4.6. Prieiga prie Web 3.0, kriptoekonomikos ir DEFI paslaugų
+Įsipareigojimų pripažinimo ir atlygio mechanizmas yra skaidrus ir vienodai taikomas visiems naudotojams, laikantis tų pačių aiškių taisyklių, iš anksto nustatytų ir suderintų su bendruomenės tikslais.
 
-Kaip aptarta aukščiau, Vm atveria kriptovaliutų ir decentralizuotų interneto paslaugų pasaulį iš esmės visiems – labai dideliam vartotojų skaičiui, net galbūt nesusijusiam su skaitmenine sritimi.
+„Blockchain“ technologijos dėka atsiimti uždirbtus apdovanojimus ir ženklelius neįmanoma.
 
-Iš tiesų, bet koks įsitraukimas į darbą gali būti ženklinamas. Tiesą sakant, pasaulis tampa vis labiau skaitmenizuotas dėl tokių tendencijų kaip 5G, iot, nešiojami įrenginiai ir kt. Dėl to gali būti fiksuojama ir išanalizuota vis daugiau signalų, siekiant patvirtinti neskaitmeninių profesijų įsitraukimą. Iššūkiai yra pasirengęs eiti, kad jį simbolizuoja, reprezentuojant pasiekimus fiziniame pasaulyje.
+## 4.6. „DeFi“ prieinamumas
 
-Bet kuris naudotojas gali gauti Meeds ir naudoti Meeds piniginę, kad gautų prieigą prie naujųjų laikų paslaugų be jokių specialių mokymų.
+WoM atveria kriptovaliutų ir decentralizuotų žiniatinklio paslaugų pasaulį bet kam – didelei darbuotojų populiacijai, net galbūt nesusijusiai su skaitmenine sritimi.
+
+Iš tiesų, įsipareigojimo žymėjimas taikomas bet kokiam darbui. Pasaulis tampa vis labiau skaitmeniniu ir atsiranda tokių tendencijų kaip 5G, daiktų internetas, nešiojami įrenginiai ir kt.
+
+Laikui bėgant WoM užfiksuos vis daugiau darbo signalų iš mažai skaitmenintų profesijų. Įtraukimo programos siūlo iš anksto sukurtą sprendimą realaus pasaulio pasiekimams paversti virtualiais žetonais.
+
+Kiekvienas gali užsidirbti žetonų per savo „Meeds“ piniginę ir lengvai pasiekti įvairias „DeFi“ paslaugas su maža įėjimo trintis.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Verifiable Credentials Data Model

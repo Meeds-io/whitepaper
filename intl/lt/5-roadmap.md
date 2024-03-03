@@ -1,62 +1,64 @@
-# 5. WoM for ALL – vision summary and milestones
+# 5. Vizijos santrauka ir veiksmų planas
 
-## 5.1. Galutinis tikslas-decentralizuotas internetas visiems
+## 5.1. Decentralizuotas darbas visiems
 
-Galų gale, Vm yra decentralizuotas interneto pasaulis visiems – kiekvienam asmeniui ir visoms organizacijoms.
+Galiausiai WoM yra decentralizuota darbo vieta visiems – kiekvienam asmeniui ir visoms organizacijoms.
 
-Joje gyvens naudotojai, veikiantys per savo skaitmenines tapatybes **Xeeds** ir patekti į pasaulį per savo metamaskas, skirtas kriptografininkams, arba prisijungimo vardą ir slaptažodį naujokams. Žmonės sąžiningai, skaidriai ir decentralizuotai paskirstytų savo įsipareigojimus ir gautų atlygį. Jie gautų prieigą prie decentralizuoto pasaulio ir rytdienos kriptovaliutų pasaulio paprastu ir pažįstamu būdu - jie gautų paprastus įrankius, kaip savo žetonus naudoti gyvenime arba investuoti juos į savo ateitį.
+Ją užpildys vartotojai, veikdami naudodami savo skaitmeninę tapatybę ir pasiekdami pasaulį naudodami savo „Metamask“, skirtą kriptovaliutų išmanymui, arba prisijungimo / slaptažodžio naujokams.
 
-Organizacijos galėtų gauti talentų, naršydamos po Mom, kad gautų tinkamus patikrintus įgūdžius. Jie būtų apdovanoti už dalyvavimą vom, nukaldindami žetonus per savo vartotojų įsitraukimą (minimalus modelis). Tačiau labiausiai jie gautų naudos iš didesnio vartotojų įsitraukimo ir lojalumo.
+Žmonės paskirstytų savo laiką ir būtų sąžiningai bei skaidriai atlyginami už savo darbą. Jie greitai ir pažįstamai gautų prieigą prie decentralizuoto pasaulio ir kriptovaliutų pasaulio – gautų paprastus įrankius, kaip panaudoti savo žetonus savo gyvenime arba investuoti į juos savo ateičiai.
 
-The WoM would have its own currency the **MEED** – that would be there to spend in stores, convert into another currency, invest for a return on investment, rent or buy etc. WoM taip pat palengvintų kitų žetonų platinimą ir dalyvautų bendroje kriptovaliutų ekosistemoje.
+Organizacijos efektyviau ieškos talentų, naršydamos WoM, ieškodamos tinkamų įrodytų įgūdžių. „Mintium“ žetonai juos apdovanos už tikro įsitraukimo ir dalyvavimo sąlygų sukūrimą. Tačiau visų pirma jiems būtų naudingas didesnis jų bendradarbių įsitraukimas ir lojalumas.
 
-Kadangi paveikslėlis vertas tūkstančio žodžių, pateikiame schemą, kurioje aprašyti WoM ir Meedso srautai
+WoM turi savo valiutą **MEED** – išleisti parduotuvėse, keistis kitomis valiutomis, investuoti, nuomotis ar pirkti ir pan. WoM taip pat palengvina kitų žetonų platinimą ir dalyvavimą pasaulinėje kriptovaliutų ekosistemoje.
+
+Kadangi paveikslėlis vertas tūkstančio žodžių, čia yra diagrama, apibūdinanti WoM ir MEED žetonų srautus:
 
 ![WoM ir Meeds srautai](en/img/wom-flows.png)
 
-Pasaulio išlaikymas ir tvarumas ilgalaikėje perspektyvoje užtikrinamas mokesčiais, kuriais dalijasi Meeds asociacija ir Miestai.
+WoM padidins mokesčius už sukurtą vertę, kad būtų užtikrintas ilgalaikis jos prieinamumas ir tvarumas.
 
-## 5.2. Kas skirta ankstyviesiems įsivaikintojams
 
-Akivaizdu, kad ankstyvieji diegėjai gaus daug pranašumų prieš vėlyvuosius.
+## 5.2. Investavimo strategijos
 
-Visų pirma WoM atlygina už ilgalaikes investicijas į stichiją, t. y. už turto išpirkimą (Deeds). Pirminis Deedų savininkas gauna kompensaciją per užsiangažavimą (aktyvų naudojimą), per pasyvias pajamas (nuomą) ir visą gyvenimą gauna 1 % nuo bet kokio Deedų pardavimo sandorio (kiekvieną kartą keičiantis savininkui, pirminis išpirkėjas gauna mokestį už sandorį).
-
-By believing in the project, participating in the liquidity pools, staking MEED tokens, redeeming them against Deeds...early investors of all sizes would mint additional tokens. They would also get the earliest voting rights and help shape the WoM.
-
-Organizacijoms, įsigyjančioms, bet ypač naudojančioms Deeds, kad įtrauktų ir apdovanotų savo darbuotojus, būtų kompensuojama iškaltais Meeds. Kuo sąžiningiau jos žais, tuo daugiau gaus. Anksčiau pradėjusieji taikyti sistemą būtų siejami su pirmaisiais istoriniais miestais, o vėliau jie būtų identifikuojami kaip statytojai.
-
-Toliau pateiktoje schemoje pavaizduotas Meeds investavimo strategijos pavyzdys kapitalo turėtojams :
+Toliau pateiktoje diagramoje pateikiamas **Meeds investavimo strategijos kapitalo savininkams** pavyzdys:
 
 !["Meeds" investavimo strategija kapitalo turėtojams](en/img/invest-capital.png)
 
-Organizacijos, žinoma, gali dalyvauti likvidumo fonduose, bet taip pat prisijungti prie statytojų bendruomenės ir ten gauti papildomą atlygį už įsitraukimą.
+Žinoma, organizacijos gali dalyvauti likvidumo fonduose, bet taip pat prisijungti prie statytojų bendruomenės ir gauti papildomų atlygių už dalyvavimą.
 
-Toliau pateiktoje schemoje pavaizduotas "Meeds" investavimo strategijos, skirtos darbo turėtojams, pavyzdys :
+Toliau pateiktoje diagramoje pateikiamas *Meeds investavimo strategijos darbuotojams** pavyzdys:
 
 !["Meeds" investavimo į darbo turėtojus strategija](en/img/invest-work.png)
 
 ## 5.3. Paleidimas
 
-The official launch of the WoM was **May 1st, 2022** – the International Workers Day, celebrated in many countries.
+Oficialus WoM pristatymas buvo tikslingai suplanuotas **2022 m. gegužės 1 d.** – Tarptautinė darbuotojų diena, švenčiama daugelyje šalių.
 
-At that time, the MEED token already existed. Jį galima įsigyti, o Polygon ir Ethereum tinkluose galima dalyvauti likvidumo baseinuose Jį galima įsigyti, o Polygon ir Ethereum tinkluose galima dalyvauti likvidumo baseinuose.
+Tuo metu MEED žetonas jau egzistavo. Jį buvo galima įsigyti, o likvidumo fondai yra atviri dalyvavimui „Polygon“ ir „Ethereum“ tinkluose.
 
-Trys "Meeds" asociacijos nariai naudoja sistemą savo viduje, siekdami įtraukti ir apdovanoti savo naudotojus bei tobulinti "Meeds" programinę įrangą Trys "Meeds" asociacijos nariai naudoja sistemą savo viduje, siekdami įtraukti ir apdovanoti savo naudotojus bei tobulinti "Meeds" programinę įrangą.
+Pagrindinis „Inverstor“ paskatų protokolas yra „Ethereum Mainnet“. Paleidimo metu jis apėmė statymą, likvidumo atlygį, kaldinimo taškų kaupimą ir Aktų išpirkimą.
 
-Programėlė "Investor" prieinama "Ethereum Mainnet" tinkle. Pradžioje ji apima statymus, likvidumo atlygius, taškų kaupimą ir aktų išpirkimą.
+„Builders“ bendruomenė veikia ir yra atvira visiems, norintiems prisijungti, išbandyti ir dalyvauti. Galima prisijungti su Metamask.
 
-The Builders community is up and running, open to anyone who would want to join, test and participate. Prisijungti galima naudojant "Metamask".
+## 5.4. Privalumai ankstyviems įvaikintojams
 
-This paper was initially published on the launch day. Po paleidimo žetonas bus išplatintas daugeliui kriptovaliutų bendruomenės narių.
+Ankstyvieji vartotojai turi didelių pranašumų prieš vėluojančius.
 
-## 5.4. Statybininkų bendruomenė
+Visų pirma, WoM apdovanoja ilgalaikę investiciją į eilėraštį – Darbų išpirkimą. Pradinis Akto savininkas gauna kompensaciją už įsipareigojimų kaldinimą (aktyvų naudojimą) iš pasyvių pajamų (nuomos) ir gauna nuolatinį 1 % nuo bet kokio Akto pardavimo sandorio (kiekvienu nuosavybės pasikeitimu pirminis išpirkėjas gauna mokestį už sandorį).
 
-Pradedame kurti "Meeds" programinės įrangos ir "Discord" statybininkų bendruomenę. Bendruomenė sveikina visus, kurie nori dalyvauti vom pastate. Asociacija iš savo rinkodaros biudžeto atlygintų statytojams už dalyvavimą Meeds veikloje.
+Ankstyvieji investuotojai dalyvavo likvidumo fonduose, kad paremtų Meeds projektą. Jie taip pat padėjo savo MEED žetonus ir nukaldino pirmuosius darbus. Nuo pat pirmos dienos protokole buvo numatytos paskatos juos apdovanoti. Jie taip pat uždirba didelę įtaką DAO naudodamiesi valdymo žetonais.
 
-Asociacija taip pat planuoja statyti kai kuriuos Meedus, kad būtų galima įsigyti (išpirkti) Statybininkų bendruomenės Deeds. Tuomet bendruomenė pagal įsitraukimą, naudodama mintiumo modelį, kaldins Meedus ir platins juos įsitraukusiems naudotojams.
+Organizacijos, naudojančios Deeds ir žaidžiančios sąžiningą žaidimą, siekdamos įtraukti ir apdovanoti savo bendradarbius, uždirba MEED žetonus. Ankstesni taikytojai bus siejami su pirmaisiais istoriniais miestais, o vėliau pripažinti steigėjais.
 
-## 5.5. Veiklos planas ir pagrindiniai etapai
+
+## 5.5. Statybininkų bendruomenė
+
+Įkūrėme „Meeds DAO“ bendruomenę [Builders Hub](builders.meeds.io) ir [Discord](https://discord.com/invite/7d9Byf4Fz6). Bendruomenė laukia visų norinčių dalyvauti WoM pastate. DAO apdovanos visus statybininkus MEED žetonais.
+
+„Builders' Hub“, kaip ir bet kuris kitas centras, dalyvauja įtraukiant naudotojus ir taip gauna. Ji siekia būti pavyzdine bendruomene ir įkvėpti kitus nustatyti geresnius standartus bendram darbui kurti vertę ir daryti teigiamą poveikį pasauliui.
+
+## 5.6 Planas ir etapai
 
 Mūsų veiksmų planas būtų sudarytas toliau nurodyta prioritetine tvarka:
 
@@ -64,23 +66,22 @@ Mūsų veiksmų planas būtų sudarytas toliau nurodyta prioritetine tvarka:
 - Įgalinti Deeds nuomą
 - Xeed kūrimas
 - Ženkliukų tobulinimas ir įgaliojimų kūrimas
-- DeFi paslaugos - piniginėje, partnerystė su kredito kortelėmis
+- DeFi paslaugos – piniginėje, kreditinių kortelių partnerystė
 
-Statybos etape tikimės ankstyvųjų DAO ir technologijas išmanančių įmonių įsisavintojų. We should also have some early adopters from traditional companies that gain immediate value from the WoM by providing relevant engagement programs to their people, on top of their current traditional compensation plans.
+Konstravimo etape pasitikime ankstyvaisiais DAO naudotojais ir technologijas išmanančiomis įmonėmis. Be to, tikimės, kad ankstyvieji naudotojai iš tradicinių įmonių iškart gaus naudos iš WoM. Jie gali patobulinti savo darbuotojų įtraukimo programas kartu su esamais atlyginimų planais.
 
-Meedso monetų kalyba trunka 20 metų. Iki to laiko mes siekiame sukurti brandžią ekosistemą, išplitusią daugelyje organizacijų ir daugelio vartotojų visame pasaulyje.
+MEED kaldinimas trunka 20 metų. Mes siekiame sukurti brandžią ekosistemą ir išplėsti jos pasiekiamumą daugeliui organizacijų ir darbuotojų visame pasaulyje.
 
-## 5.6. Ką galite padaryti dabar
+## 5.7. Ką galite padaryti dabar
 
 Ką galite padaryti dabar, kad dalyvautumėte?
 
 - Išplatinkite šį dokumentą tiems, kuriems jis būtų įdomus
 - Apsilankykite mūsų svetainėje [meeds.io](https://www.meeds.io/)
-- Peržiūrėkite [Investuotojo programėlę](https://meeds.io/investors)
 - Prisidėkite prie esamų likvidumo telkinių čia :
-  - [Cometh Swap](https://swap.cometh.io/)
-  - [Sushi Swap](https://sushi.com)
-- Prisijunkite prie mūsų [Discord](https://discord.com/invite/hAuADSq3) bendruomenės ir būkite nuolat informuojami
-- Prisijunkite prie mūsų [Statytojų](https://meeds.io/builders) bendruomenės ir išbandykite "Meeds" programinę įrangą, įsitraukite ir uždirbkite "Meeds" įsitraukimo apdovanojimų
+  - [ComethSwap](https://swap.cometh.io/)
+  - [UniSwap](https://uniswap.org)
+- Prisijunkite prie mūsų [Discord](https://discord.com/invite/7d9Byf4Fz6) serverio
+- Prisijunkite prie mūsų [Builders Hub](https://meeds.io/builders), kad sužinotumėte, ką reiškia sąžiningas atlygis už įnašus, ir uždirbkite pirmuosius MEED žetonus
 
-**\*\*\* The WoM - let’s build this crazy future world together. \*\*\***
+**\*\*\* WoM – kurkime pasaulį, kad galėtume geriau dirbti kartu \*\*\***

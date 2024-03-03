@@ -1,85 +1,109 @@
-# 3. Meeds token – WoM valiuta
+# 3. „Meeds“ ženklas
 
-WoM veikia savo valiuta – Meeds (MEED) žetonu. Meeds naudojami siekiant apdovanoti naudotojus (per įsitraukimo programas), pirkti parduotuvėse, gauti Deeds, gauti finansinę investicijų grąžą ir t. t.
+MEED žetonas (tariamas „Meeds“) yra valiuta, valdanti WoM. Jis turi įvairių komunalinių paslaugų:
+
+- Apdovanojama vartotojų įsitraukimu
+- Pirkimai privilegijų parduotuvėse
+- Akto kaldinimas
+- Centro nuoma
+- Apdovanojimai už statymą (pajamingumas)
+- Atlygis už likvidumo suteikimą
+
 
 ## 3.1. Tokenomika
 
-Meeds **mažiausia pasiūla ribojama iki 100 mln. žetonų**, kurie kaldinami palaipsniui. **Meeds kalama po 10 MEED per minutę**. Todėl visas monetų kalimo laikotarpis yra beveik 20 metų (nes per metus nukaldinama apie 10$*60*24*365 = 5M$ Meeds).
+**Maksimalus pasiūla** **Maksimalus MEED pasiūla yra ribojama iki 100 mln. žetonų**, palaipsniui nukaldinami laikui bėgant.
 
-Iš pradžių buvo nukaldinta 5 milijonai medžių (5 % visos pasiūlos). Iš jų 4,5 mln. buvo užrakinti skliautine sutartimi su linijiniu teisių įgijimu per 4 metus. Iš anksto nukaldinta suma daugiausia buvo panaudota programinės įrangos IP įsigijimui, žetonų emisijos teisiniams mokesčiams ir prieglobos paslaugoms apmokėti.
+**Pradinis tiekimas** Iš pradžių nukaldėme 5 milijonus MEED, ty **5 % visos pasiūlos**, kad padidintume veiklą:
 
-Likusi dalis yra __Meeds DAO lėšų__ dalis ir bus naudojama apmokėti už paslaugas ir pradėti iniciatyvas, pvz., oro lašus ir nukreipimo kampanijas.
+- Teisiniai mokesčiai už Meeds Association steigimą
+- Teisinė nuomonė dėl žetono
+- IP pirkimai
+- IT paslaugos
+- likvidumo fondo sėjimas
 
+Tada mes užfiksavome 4,5 milijono MEED vertybinių popierių saugojimo sutartyje su tiesine teise per ketverius metus.
 
-## 3.2. Monetų kalimo paskirstymas
+Nuo tada pagal išmaniąją sutartį, pavadintą **__Žetonų gamykla__, **MEED žetonų kalimas vyksta pastoviu greičiu**.
 
-Minted Meeds skiriamos tam, kad būtų skatinamas trijų kategorijų suinteresuotųjų šalių - naudotojų, statytojų ir investuotojų - dalyvavimas:
+**Kaldinimo schema**
 
-- Vartotojai (naudotojai ir aktų turėtojai / nuomininkai) gauna „Meeds“ per dalyvavimo atlygį (mintumo modelis).
-- Statytojai (asociacijos ir bendruomenės nariai) gauna Meeds per asociacijos lėšas, kad galėtų statyti, eksploatuoti ir tobulinti WoM.
-- Investuotojai moka Meeds nuomodamiesi ir pirkdami likvidumo fondus ir statydami Meeds.
+Kelių ženklų sutartis, vadinama __Žetonų gamykla__, valdo MEED žetonų tiekimą „(kalti ir deginti).
 
-Iš pradžių statytojai gauna 30 proc. asignavimų. 70 % dalijasi naudotojai ir investuotojai. Ši paskirstymo proporcija bus reguliariai peržiūrima balsuojant Meeds asociacijos DAO.
+Ji naudoja nepertraukiamą kaldinimo schemą *10 MEED per minutę*. Tokiu tempu Žetonų gamykla kasmet nukaldina apie 5 mln. MEED (10*60*24*365); taigi, kaldinimo horizontas yra beveik 20 metų.
 
-## 3.3. Vartotojai - įsitraukimas per įsitraukimą
+DAO balsavimas ateityje gali pakeisti šį rodiklį.
 
-Dalis nuolat kaldinamų midų skiriama sužadėtuvių kaldinimo kanalui. Paskirstymas vykdomas kas savaitę. Miestas bus laikomas užbaigtu, kai visi jo darbai bus nukaldinti. Neatsiimti Meeds lieka fonde ir įtraukiami į kitos savaitės paskirstymą. Modelis išsamiai aprašytas ankstesniame skyriuje (2.6 dalis).
+## 3.2. Kaldybos paskirstymas
 
-## 3.4. Statybininkai - Meeds asociacija DAO ir statybininkų bendruomenė
+Token Factory taip pat reglamentuoja nukaldintų MEED žetonų paskirstymą, kad paskatintų tris suinteresuotųjų šalių kategorijas:
 
-WoM ir "Meeds" žetoną valdo pirmiau pristatyta pelno nesiekianti Meeds Association DAO. Asociacijos veiklos išlaidoms valdyti naudojama daugiašalė sutartis, vadinama _Meeds DAO Funds_.
+- **Statybininkai**: prisidėkite kuriant ir reklamuojant Meeds
+- **Naudotojai**: įsitraukite į jų bendruomenes
+- **Investuotojai**: padėkite mums perkant likvidumą ir žetonus
 
-Kaldinimo laikotarpiu **30 % nukaldintų Meeds skiriama Meeds asociacijai**.
+Kiekviena suinteresuotųjų šalių kategorija gauna dalį tiekimo, už kurią balsuoja DAO.
 
-Asociacijos nariai gali teikti paslaugas asociacijai remdamiesi pasirašyta paslaugų teikimo sutartimi, kurioje nustatomas žmogaus dienos įkainis. Už paslaugas kas mėnesį mokama Meeds pagal rinkos kainą. Paslaugų pavyzdžiai: Meeds programinės įrangos tobulinimas, WoM programėlės kūrimas, naujų jungčių kūrimas, debesijos paslaugų teikimas, finansinių ir teisinių paslaugų teikimas ir kt.
+## 3.3. Vartotojų rezervas
 
-Nebūdama nare, bet kuri organizacija gali dalyvauti kuriant naują jungtį ir būti apdovanota už tai – pirmiausia per Meeds asociaciją įsigyjant jungtį, o paskui kaldinant per šią jungtį.
+Dalis nuolat kaldinamų MEED žetonų yra skirta rėmėjų naudotojų įsitraukimui per Mintium modelį (žr. 2.6).
 
-The association operates its own community hub named the _Meeds Builders Hub_ that welcomes enthusiasts, who want to contribute to the creation of the WoM. The association sponsors the community out of its budget, compensating the engagement of community members.
+Pasaulinis įsitraukimo indeksas periodiškai skaičiuojamas visuose WoM centruose, kad būtų paskirstytas MEED apdovanojimas. „Mintium“ apdovanojimus gali pretenduoti „Hub“ vadovai ir „Deed“ savininkai.
 
-Thus, the builders' hub functions as a live example of a community empowered by Meeds software, offering a standard set of services provided by the association. Asociacija stato Meeds, kad išpirktų Aktą savo bendruomenei. Thus, the Builder's Hub also benefits in the engagement minting like any other Hub backed by a Deed.
+## 3.4. Statybininkų rezervatas
 
-Pasibaigus monetų kalimo laikotarpiui, asociaciją palaikys :
+Meeds DAO valdo WoM ir MEED žetonų tiekimą. Kelių ženklų išmanioji sutartis, pavadinta _Meeds DAO fondai_, valdo veiklos išlaidas. Ji gauna **30 % nukaldintos MEED** statybininkams paremti.
+
+„Meeds“ asociacija turi teisę „Meeds DAO“ vardu samdyti paslaugų teikėjų įmones, kad padengtų teisinius mokesčius, plėtros ir prieglobos išlaidas, naudodama „Meeds DAO“ lėšas.
+
+Organizacijos ir asmenys, kurie nėra Meeds asociacijos nariai, vis tiek gali prisidėti per _Meeds Builders Hub_ – bendruomenės centrą, kuriame laukiami entuziastai, norintys dalyvauti kuriant ir reklamuojant WoM. The <0>Meeds DAO fondai</0> taip pat atlygis už indėlį į Builders Hub.
+
+„Builders Hub“, kaip ir bet kuris kitas centras, taip pat gauna „Mintium“ apdovanojimus.
+
+Pasibaigus kaldinimo laikotarpiui, Meeds DAO veiklos išlaidas padengs:
 
 - pasyviųjų pajamų apmokestinimas (3 proc. nuo Deeds nuomos).
 - pardavimo pajamų apmokestinimas (2,5 proc. nuo Deeds pardavimų).
 - sandorių mokesčių suvokimas, palyginti su naudojimusi privilegijų parduotuvėmis.
 - veikia kaip likvidumo fondo teikėjas.
-- suvokti operacijų mokesčius, kai centras platina ne Meeds žetonus naudodamas WoM paslaugas.
-- eksploatuojant Deeds, kurį asociacija ilgainiui iškalė.
+- suvokti operacijų mokesčius, kai centras platina alternatyvius žetonus savo centruose
+- dAO laikui bėgant nukaldintų Aktų nuoma ir pardavimas.
 
+## 3.5. Investuotojų rezervas
 
-## 3.5. Investuotojai
+Investuotojai palaiko WoM teikdami likvidumą ir investuodami MEED žetonus, kurie padeda stabilizuoti kainų lygį kūrimo etape. Paskatos taikomos abiem:
 
-Investuotojai padeda kurti WoM teikdami likvidumą ir statydami Midus, taip stabilizuodami jų kainų lygį statybų laikotarpiu. Ir viena, ir kita skatinama kaldinant monetą.
+**Likvidumo teikėjai** Valiutos likvidumo valdymas yra labai svarbus projekto sėkmei. Meeds DAO naudoja įvairius DeFi mechanizmus, kad optimizuotų savo kapitalo efektyvumą. Pavyzdžiui, paskatos leidžia likvidumo tiekėjams užsidirbti pelno išsinuomojus savo LP žetonus. Be to, planuojama įvesti obligacijas ir palaipsniui pereiti prie protokolinio likvidumo. Pastarasis prisidės prie ilgalaikio projekto tvarumo – kaip minėta aukščiau, iš sandorių mokesčių bus finansuojamos veiklos išlaidos.
 
-**Likvidumo teikėjai** Valiutos likvidumo valdymas yra labai svarbus projekto sėkmei, todėl siekiant optimizuoti kapitalo efektyvumą bus naudojamos kelios DeFi strategijos. Pradėsime nuo paskatų statyti MeedS/ETH LP fondo žetonus ir palaipsniui įvesime obligacijas, kad pereitume prie protokolui priklausančio likvidumo. Pastarosios lėšos prisidėtų prie asociacijos ilgalaikio tvarumo - kaip minėta, iš sandorių mokesčių bus finansuojamos asociacijos veiklos išlaidos, pavyzdžiui, debesijos priegloba.
+Be to, Meeds DAO vardu Meeds asociacija turi teisę palengvinti didesnio MEED žetonų kiekio ne biržos (parduotų) pirkimą.
 
-Kiekvienas narys taip pat turi teisę tiesiogiai įsigyti didelį kiekį "Meeds" su nuolaida. Į asociacijos sąskaitą pervesta suma konvertuojama į ETH ir kartu su atitinkama Meeds verte įtraukiama į likvidumo rezervą.
+**Įstaiga / ilgalaikė investicija** „Meeds DAO“ apdovanoja lojalius investuotojus, kurie nori palaikyti „Meeds“ ilgą laiką. Kiekvienas gali pasidėti savo nepanaudotus MEED žetonus, kad uždirbtų pajamingumą ir xMEED žetonus.
 
-**Atsiskaitymas / ilgalaikės investicijos** Siekiant paskatinti ilgalaikes investicijas, už statymus Meeds yra atlyginama. Kai Meeds pastatomas ant stulpo, jį statantis žaidėjas gauna x Meeds žetonų. Naujai iškalti Meeds paskirstomi stakeriams proporcingai jų turimam xMeedS kiekiui. Praktiškai nukaldinti Meeds faktiškai pridedami prie xMeeds išmaniosios sutarties atsargų ir paskirstomi xMeeds turėtojui, kai jis atsilaisvina.
+Kai vartotojas stato MEED žetonus, išmanioji sutartis užrakina šį indėlį ir proporcingai nukaldina xMEED žetonus.
 
-By staking Meeds, investors can also redeem Deed NFTs (and then participate in minting through engagement), hence increasing the token demand. Kiekvienas pastatytas Midas (xMeeds) suteikia savininkui tam tikrą taškų skaičių per dieną. Kuo ilgesnis teisių įgijimo laikotarpis, tuo daugiau taškų gaunama už xMeeds. Tada kiekvienas aktas išperkamas mainais į tam tikrą skaičių taškų.
+Meeds DAO naudoja xMEED kaip valdymo žetoną; todėl jo turėtojai gali dalyvauti balsuojant dėl pasiūlymų.
 
-Taškai apskaičiuojami pagal toliau pateiktą formulę:
+Be to, xMEED turėtojai uždirba kaldinimo taškus, kurie suteikia jiems teisę kaldinti Deed NFT.
 
- $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
+Kaldinimo taškai kaupiami laikui bėgant, kol suinteresuotoji šalis išlaiko savo akcijų paketą. Žemiau pateikta formulė leidžia apskaičiuoti kaldinimo taškus:
+
+ $$ P = xMEED / (xMEED + 12000) * T / 240 $$
 
  Kur:
 
-- $xMeeds$ : xMeeds balansas be dešimtųjų skaitmenų
-- $T$ : Praėjęs laikas milisekundėmis
+- $xMEED$: xMEED balansas be kablelio
+- $T$: laikas, praėjęs milisekundėmis
 
-Pagal formulę vengiama teikti pirmenybę stambiems turėtojams, siekiant veiksmingiau ir teisingiau paskirstyti Deeds. Pavyzdžiui, pagal formulę gaunamos tokios normos :
+Ši formulė neteikia pirmenybės dideliems turėtojams, kad jie veiksmingiau ir teisingiau paskirstytų Aktus. Pavyzdžiui, pagal formulę gaunamos tokios normos :
 
-| **Laikiklio dydis** | **Holdingas**  | **Kaupimo norma**    |
-| ------------------- | -------------- | -------------------- |
-| Mažas               | 1 000 xMeeds   | 28 taškai per dieną  |
-| Vidutinis           | 10 000 xMeeds  | 164 taškai per dieną |
-| Didelis             | 100 000 xMeeds | 321 taškai per dieną |
+| **Laikiklio dydis** | **Holdingas** | **Kaupimo norma**    |
+| ------------------- | ------------- | -------------------- |
+| Mažas               | 1 000 xMEED   | 28 taškai per dieną  |
+| Vidutinis           | 10 000 xMEED  | 164 taškai per dieną |
+| Didelis             | 100 000 xMEED | 321 taškai per dieną |
 
 
-todėl kiekvienai turėtojų klasei nustatomas toks laikymo laikas :
+Dėl šių kaupiamųjų normų kiekvienai turėtojų klasei nustatomas toks laikymo laikas:
 
 | **Kortelės tipas** | **Išlaidos**  | **Didelis laikiklis** | **Vidutinis laikiklis** | **Mažas laikiklis** |
 | ------------------ | ------------- | --------------------- | ----------------------- | ------------------- |
@@ -90,20 +114,21 @@ todėl kiekvienai turėtojų klasei nustatomas toks laikymo laikas :
 
 ## 3.6. Meeds DAO valdymas
 
-Meeds žetonų turėtojai turi statyti žetonus, kad galėtų balsuoti dėl Meeds DAO sprendimų, pavyzdžiui, monetų kalyklos biudžeto valdymo arba DAO valdybos narių rinkimo (metinis įgaliojimas).
+xMEED žetonų turėtojai gali laisvai dalyvauti Meeds DAO valdyme balsuodami savo žetonais dėl sprendimų, tokių kaip biudžeto paskirstymo valdymas arba DAO valdybos narių rinkimas.
 
-## 3.7. Decentralizuotų finansų (DeFi) vartotojų paslaugos
+## 3.7. DeFi paslaugos
 
-WoM supažindins su blockchain pasauliu daugeliui žmonių, kurie šiandien jo nenaudoja.
+Mūsų požiūris leidžia mums kiekybiškai įvertinti ir nustatyti beveik bet kokio pobūdžio indėlio (skaitmeninio ar ne) piniginę vertę ir apdovanoti už jį žetonais.
 
-Iš tiesų, bet kokį darbą (nesvarbu, skaitmeninį ar neskaitmeninį) galima paversti žaidimu, o už bet kokį įsitraukimą - atlyginti Meeds. Meeds vartotojams prieinami per lengvai naudojamą, blokų grandine paremtą piniginę, kuri vidutiniam vartotojui "abstrahuoja" bet kokį kriptovaliutų pasaulio sudėtingumą.
+Nors mes naudojame Web3 ir blockchain technologijas, siekiame, kad tai būtų sklandi vartotojams. Štai kodėl „Hubs“ teikia lengvai naudojamą piniginės programą ir vidinę privilegijų parduotuvę, kuri supaprastina bendradarbių atlygio žetonų tvarkymą.
 
-Be piniginės ir parduotuvės, kurioje galima įsigyti privilegijų Meeds, planuojame kiekvieną naudotoją supažindinti su keliais galutinio vartotojo produktais, paremtais decentralizuotais finansų protokolais, pvz:
+Todėl „Meeds“ siūlo saugų ir skaidrų įėjimą į sudėtingą kriptovaliutų pasaulį daugeliui vartotojų, kurie dar niekada nebuvo su juo susidūrę.
 
-- The ability to stake MEED tokens and get yields (generate revenues)
-- The ability to use MEED tokens as a collateral to borrow stable coins such as USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) then registering the Meeds token to [AAVE](https://aave.com/).
-- Skaitmeninė kortelė, kurią galima pridėti ir naudoti per Apple Pay, Google pay arba bet kurią ATM. Pastaroji gali būti teikiama bendradarbiaujant su VISA ir bus naudojama kredito linija USDC, užtikrinta Meeds. Šią kortelę organizacijos taip pat gali naudoti darbuotojų piniginėms finansuoti, kad galėtų tvarkyti darbuotojų lengvatas, pavyzdžiui, restoranų, transporto ir bet kokias kitas išlaidas.
+Mes planuojame pristatyti daugiau galutiniam vartotojui skirtų produktų, maitinamų MEED ir XMEED žetonų per decentralizuoto finansavimo (DeFi) protokolus, pavyzdžiui:
 
-Taigi ne tik daug naujų naudotojų atras blokų grandinės pasaulį, bet ir pasaulį be bankų.
+- Uždirbkite pelną statydami uždirbtus žetonus
+- Pasiskolinkite kaip užstatą naudodami uždirbtus žetonus
+- Mokėkite realiame gyvenime kreditine kortele, kurią užtikrina jūsų turtas
 
- 
+Taigi daugelis naujų vartotojų ne tik sužinos, kaip užsidirbti žetonų, bet ir atras pasaulį be bankų.
+
