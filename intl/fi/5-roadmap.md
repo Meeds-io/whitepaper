@@ -1,62 +1,64 @@
-# 5. WoM for ALL - yhteenveto visiosta ja välitavoitteet
+# 5. Vision yhteenveto ja tiekartta
 
-## 5.1. Perimmäinen tavoite - hajautettu verkko kaikille
+## 5.1. Hajautettua työtä kaikille
 
-Loppujen lopuksi WoM on hajautettu verkkomaailma kaikille - jokaiselle henkilölle ja kaikille organisaatioille.
+Viime kädessä WoM on hajautettu työpaikka kaikille – jokaiselle henkilölle ja kaikille organisaatioille.
 
-Se asennetaan käyttäjät, jotka toimivat digitaalisten identiteettien **Xeeds** kautta ja käyttävät maailmaa metamaskien kautta, krypto-savvies, tai kirjautuminen / salasana newbies. Ihmiset jakavat sitoutumisensa ja saavat palkintonsa oikeudenmukaisella, avoimella ja hajautetulla tavalla. He saisivat pääsyn hajautettuun maailmaan ja huomisen salausmaailmaan helposti ja tutulla tavalla - he saisivat yksinkertaisia työkaluja, joilla he voisivat käyttää rahakkeitaan elämäänsä tai sijoittaa ne tulevaisuuteensa.
+Sen täyttävät käyttäjät, jotka toimivat digitaalisen identiteettinsä kautta ja pääsevät maailmaan Metamaskin kautta kryptotietoa varten tai kirjautumistunnuksensa/salasanansa aloittelijoille.
 
-Organizations would be able to source talents, browsing through the WoM, for the right proven skills. He saisivat palkita osallistumisestaan WoM, lyömällä kuponkia kautta käyttäjien sitoutuminen (mintium malli). Mutta ennen kaikkea he hyötyisivät korkeammasta sitoutumisesta ja lojaalisuudesta käyttäjiltään.
+Ihmiset osoittaisivat aikansa ja työstään palkittaisiin oikeudenmukaisesti ja läpinäkyvästi. He pääsisivät hajautettuun maailmaan ja kryptomaailmaan nopeasti ja tutulta – he saisivat yksinkertaisia ​​työkaluja käyttääkseen rahakkeitaan elämässään tai sijoittaakseen niihin tulevaisuutta varten.
 
-WoM:llä olisi oma valuuttansa MEED, jota voisi käyttää kaupoissa, vaihtaa toiseen valuuttaan, sijoittaa tuottoa saadakseen, vuokrata tai ostaa jne. WoM helpottaisi myös muiden rahakkeiden jakelua ja osallistuisi koko salausekosysteemiin.
+Organisaatiot hankkivat kykyjä tehokkaammin selailemalla WoM:n kautta oikeat todistetut taidot. "Mintium" -merkit palkitsevat heidät aidon sitoutumisen ja osallistumisen edellytysten luomisesta. Mutta ennen kaikkea he hyötyisivät avustajiensa suuremmasta sitoutumisesta ja uskollisuudesta.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and MEED token flows
+WoM:llä on valuutta, **MEED** – kuluttaa kaupoissa, vaihtaa muihin valuuttoihin, sijoittaa, vuokrata tai ostaa jne. WoM helpottaa myös muiden tokenien jakelua ja osallistumista globaaliin kryptoekosysteemiin.
+
+Koska kuva on enemmän kuin tuhat sanaa, tässä on kaavio, joka kuvaa WoM- ja MEED-merkkivirtoja:
 
 ![WoM ja Meeds virrat](en/img/wom-flows.png)
 
-The world maintenance and sustainability in the long run are ensured through taxes shared between the Meeds Association and the Cities.
+WoM nostaa tuotetun arvon veroja varmistaakseen sen pitkän aikavälin saatavuuden ja kestävyyden.
 
-## 5.2. Mitä siinä varhainen adoptoijat
 
-Varhaiset adoptoijat saisivat luonnollisesti huomattavia etuja myöhäisiin tulokkaisiin nähden.
+## 5.2. Sijoitusstrategiat
 
-Erityisesti WoM palkitsee pitkäaikaiset sijoitukset jakeen – se on omaisuuden lunastus (Deeds). Deedin alkuperäinen omistaja saa korvauksen sitoutumisen louhinnalla (aktiivinen käyttö) , passiivisten tulojen (vuokraus) kautta ja saada elinikäinen 1% kaikista myyntitapahtumista (jokaisessa omistuksen muutoksessa) , alkuperäinen lunastaja saa maksun tapahtumasta).
-
-Uskomalla hankkeeseen, osallistumalla likviditeettipooleihin, asettamalla MEED-kuponkia, lunastamalla ne Deeds...kaikenkokoisten varhaisten sijoittajien olisi lyödä ylimääräisiä kuponkia. He saisivat myös varhaisimmat äänioikeudet ja auttaisivat muokkaamaan WoM.
-
-Organizations acquiring but especially using Deeds to engage and reward their employees would get compensated in minted MEED. Mitä oikeudenmukaisempaa he pelaavat, sitä enemmän he saavat. Aikaisemmat adoptoijat liitetään ensimmäisiin historiallisiin kaupunkeihin, ja heidät määritellään myöhemmin rakentajiksi.
-
-Jäljempänä oleva kaavio on esimerkki pääoman haltijoiden noudattamasta Meeds -sijoitusstrategiasta :
+Alla oleva kaavio on esimerkki **Meedsin sijoitusstrategiasta pääomanhaltijoille**:
 
 ![Pääomanhaltijoille tarkoitettu metalleja koskeva investointistrategia](en/img/invest-capital.png)
 
-Organisaatiot voivat tietenkin osallistua likviditeettireserveihin, mutta myös liittyä rakentajien yhteisöön ja saada lisää sitoutumista palkintoja siellä.
+Organisaatiot voivat tietysti osallistua likviditeettipooleihin, mutta myös liittyä rakentajien yhteisöön ja saada siellä ylimääräisiä sitoutumispalkintoja.
 
-Jäljempänä oleva kaavio on esimerkki pääoman haltijoiden noudattamasta Meeds -sijoitusstrategiasta :
+Alla oleva kaavio on esimerkki *Meedsin työntekijöiden sijoitusstrategiasta**:
 
 ![Pääomanhaltijoille tarkoitettu metalleja koskeva investointistrategia](en/img/invest-work.png)
 
 ## 5.3. Käynnistys
 
-WoM:n virallinen lanseeraus oli **1. toukokuuta 2022** – kansainvälinen työntekijöiden päivä, jota juhlitaan monissa maissa.
+WoM:n virallinen julkaisu suunniteltiin tarkoituksella **1. toukokuuta 2022** – kansainväliseksi työntekijöiden päiväksi, jota vietetään monissa maissa.
 
-Siihen aikaan MEED-tunnus oli jo olemassa. On mahdollista hankkia se ja likviditeetti poolit ovat avoimia osallistumista, monikulmio ja Ethereum verkoissa.
+Siihen aikaan MEED-tunnus oli jo olemassa. Se oli mahdollista hankkia, ja likviditeettipoolit ovat avoinna osallistumista varten Polygon- ja Ethereum-verkkoihin.
 
-Three Meeds Association members use the system internally to engage and reward their users and improve the Meeds software.
+Inverstorin kannustimien ensisijainen protokolla on saatavilla Ethereum Mainnetissä. Käynnistyshetkellä se sisälsi panostamisen, likviditeettipalkkiot, lyöntipisteiden keräämisen ja Deedsin lunastamisen.
 
-Investor sovellus on saatavilla Ethereum Mainnetissa. Käynnistäminen, se sisältää panostaminen, likviditeettipalkkiot, pisteitä kertyminen ja lunastaa Deeds.
+Builders-yhteisö on käynnissä ja avoin kaikille, jotka haluavat liittyä, testata ja osallistua. Sisäänkirjautuminen on mahdollista Metamaskilla.
 
-Builders yhteisö on käynnissä, avoin kaikille, jotka haluavat liittyä, testata ja osallistua. On mahdollista kirjautua sisään Metamaskilla.
+## 5.4. Varhaisten Adopterien edut
 
-Tämä asiakirja julkaistiin alun perin käynnistyspäivänä. Kun käynnistäminen, merkki pudotetaan ilmaan monille ihmisille ympäri crypto yhteisöä.
+Varhaiset adoptiot saavat huomattavia etuja myöhäisempiin tuloihin verrattuna.
 
-## 5.4. Rakentajien yhteisö
+Erityisesti WoM palkitsee pitkän aikavälin investoinnit jae – lunastus Deeds. Deedin alkuperäinen omistaja saa korvauksen sitoutumisen louhinnalla (aktiivisella käytöllä) passiivisilla tuloilla (vuokraus) ja näkee ikuisen 1% kaikista Deedin myyntitapahtumista (jokaisessa omistuksen muutoksessa), alkuperäinen lunastaja saa maksun liiketoimesta).
 
-Olemme käynnistämässä rakentajien yhteisö Meeds-ohjelmisto ja Discordi. Yhteisö toivottaa tervetulleeksi kaikki, jotka haluavat osallistua WoM:n rakentamiseen. Yhdistys palkitsee rakentajien sitoutumisen Meedsin kanssa sen markkinointibudjetista.
+Varhaiset sijoittajat ovat osallistuneet likviditeettipooleihin, joilla tuetaan Meedes-hanketta. He panostavat myös heidän MEED-kuponkejaan ja lyövät ensimmäisiä tekoja. Pöytäkirjalla oli ensimmäisestä päivästä lähtien ollut sisäänrakennettuja kannustimia palkita niistä. Niillä on myös huomattava vaikutusvalta DAO:ssa hallintokuponkien kautta.
 
-The association plans also to stake some MEED in order to acquire (redeem) a Deed for the builders community. The community will then mint MEED by engagement, through the mintium model, and distribute them to engaged users.
+Organisaatiot, jotka käyttävät Deeds ja pelaavat reilua peliä osallistuakseen ja palkitseakseen osallistujiaan ansaita MEED poletteja. Aikaisemmat adoptoijat liitetään ensimmäisiin historiallisiin kaupunkeihin ja myöhemmin ne tunnustetaan perustajiksi.
 
-## 5.5. Etenemissuunnitelma ja välitavoitteet
+
+## 5.5. Rakennusyhteisö (Builders Community
+
+Olemme käynnistäneet Meeds DAO yhteisön [Builders Hub](builders.meeds.io) ja [Discord](https://discord.com/invite/7d9Byf4Fz6). Yhteisö toivottaa tervetulleeksi kaikki, jotka haluavat osallistua WoM-rakennukseen. DAO palkitsee kenen tahansa rakentajan sitoutumisen MEED poletteihin.
+
+Builders' Hub osallistuu käyttäjien vaikuttamiseen kaivostoimintaan kuten mihin tahansa muuhun keskukseen ja siten vastaanottaa. Se pyrkii olemaan esimerkillinen yhteisö ja inspiroimaan muita laatimaan parempia yhteistyöstandardeja, jotta saataisiin aikaan lisäarvoa ja saataisiin aikaan myönteisiä vaikutuksia maailmaan.
+
+## 5.6. Etenemissuunnitelma ja välitavoitteet
 
 Etenemissuunnitelmassamme noudatetaan seuraavassa järjestyksessä:
 
@@ -64,23 +66,22 @@ Etenemissuunnitelmassamme noudatetaan seuraavassa järjestyksessä:
 - Ota käyttöön teosten vuokraus
 - Xeed luonti
 - Merkkien parantaminen ja tunnusten kehittäminen
-- DeFi-palvelut – lompakossa, luottokorttien kumppanuus
+- Defi-palvelut – lompakossa, luottokorttikumppanuus
 
-Luotamme siihen, että DAO- ja tech-taju -yritykset omaksuvat varhaisessa vaiheessa uusia yrityksiä rakennusvaiheessa. Meillä pitäisi myös olla joitain varhaisia ottajia perinteisiltä yrityksiltä, jotka saavat välitöntä arvoa WoM:ltä tarjoamalla asianmukaisia sitoutumisohjelmia kansalaisilleen, niiden nykyisten perinteisten korvaussuunnitelmien lisäksi.
+Rakennuksen aikana luotamme DAO:n ja tech-savvy -yritysten varhaisiin adoptioihin. Lisäksi odotamme, että heti WoM hyötyy perinteisten yritysten varhaisesta adoptiosta. Ne voivat parantaa työntekijöidensä sitoutumisohjelmia nykyisten palkitsemissuunnitelmien rinnalla.
 
-MEED minting spans a 20 year period. Siihen mennessä pyrimme luomaan kypsää ekosysteemi, joka on levinnyt monille organisaatioille ja monille käyttäjille maailmanlaajuisesti.
+MEED kaivostoiminta ulottuu 20 vuotta. Pyrimme kehittämään kypsiä ekosysteemejä ja laajentamaan niiden ulottuvuutta lukuisiin organisaatioihin ja työntekijöihin maailmanlaajuisesti.
 
-## 5.6. Mitä voit tehdä juuri nyt
+## 5.7. Mitä voit tehdä juuri nyt
 
 Mitä voit tehdä juuri nyt osallistuaksesi?
 
 - Levitä tämä paperi niille, jotka olisivat kiinnostuneita
 - Vieraile sivuillamme [meeds.io](https://www.meeds.io/)
-- Tutustu [Investor](https://meeds.io/investors) -sovellukseen
 - Osallistua olemassa oleviin likviditeettipooleihin tässä :
-  - [Cometh Swap](https://swap.cometh.io/)
-  - [Sushi Swap](https://sushi.com)
-- Liity meidän [Discord](https://discord.com/invite/hAuADSq3) -yhteisöön, joka pidetään silmukassa
-- Join our [Builders](https://meeds.io/builders) community to test the Meeds software, engage and earn some MEED engagement rewards
+  - [ComethSwap](https://swap.cometh.io/)
+  - [UniSwap](https://uniswap.org)
+- Liity meidän [Discord](https://discord.com/invite/7d9Byf4Fz6) -palvelimeen
+- Liity meidän [Builders Hub](https://meeds.io/builders) kokeaksesi, mitä reiluja palkkioita maksuista tarkoittaa ja ansaitse ensimmäiset MEED poletteja
 
-**\*\*\* WoM - rakennetaan tämä hullu tulevaisuuden maailma yhteen. \*\*\***
+**\*\*\* WoM - rakennetaan maailma, joka toimii paremmin yhdessä \*\*\***
