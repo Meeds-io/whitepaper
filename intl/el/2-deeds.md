@@ -59,7 +59,7 @@
 
 **Εμπλουτίζοντας τα Perks Store** Οι οργανισμοί μπορούν να προσαρμόσουν το κατάστημα με προσαρμοσμένα προνόμια, συμπεριλαμβανομένων των εκπαιδευτικών μαθημάτων και των μελών γυμναστηρίου, δημιουργώντας έναν αυτο-ενισχυτικό κύκλο ανταμοιβών και εμπλοκής. Το εσωτερικό κατάστημα παρέχει περαιτέρω κίνητρα στους συνεισφέροντες και ενισχύει μια βαθύτερη σύνδεση με το οικοσύστημα του οργανισμού.
 
-Η ενεργή συμμετοχή **Engagement and Rewards** συμβάλλει στην παγκόσμια βαθμολογία εμπλοκής ενός οργανισμού. Αυτή η μέτρηση αντανακλά την αποτελεσματικότητα των στρατηγικών δέσμευσης, λαμβάνοντας υπόψη παράγοντες όπως τα επίπεδα δραστηριότητας του χρήστη και τη δίκαιη κατανομή της εργασίας και τις ανταμοιβές. Αυτή η δημόσια ελέγξιμη βαθμολογία δίνει δικαίωμα σε Σωλήνες σε μια κατανομή των νομισμάτων MEED κοπεί από το πρωτόκολλο, χρησιμεύει ως μέτρο της αποτελεσματικότητας των στρατηγικών εμπλοκής τους.
+**Engagement and Rewards** Active participation contributes to the community's engagement score. Αυτή η μέτρηση αντανακλά την αποτελεσματικότητα των στρατηγικών δέσμευσης, λαμβάνοντας υπόψη παράγοντες όπως τα επίπεδα δραστηριότητας του χρήστη και τη δίκαιη κατανομή της εργασίας και τις ανταμοιβές. This publicly auditable score gives Hubs the right to earn MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
 
 Οι κόμβοι στοχεύουν να γίνουν κεντρικοί στη ζωή της κοινότητας, ενσωματώνοντας τις εσωτερικές επικοινωνίες, τις αλληλεπιδράσεις σε πραγματικό χρόνο, τη διακυβέρνηση και διάφορα εργαλεία παραγωγικότητας. Αυτές οι βελτιώσεις θα διασφαλίσουν ότι θα παραμείνουν αλληλένδετες με τους καλύτερους οργανισμούς εργαλείων που χρησιμοποιούν. Αποτελούν μια ισχυρή απόδειξη της δέσμευσης του Meeds για την προώθηση μιας ζωντανής, αφοσιωμένης κοινότητας.
 
@@ -107,7 +107,7 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 Επιπλέον, οι ενισχυτές εφαρμόζονται για τα ακόλουθα:
 
-- οργανισμούς με τη μεγαλύτερη δέσμευση, ανεξάρτητα από το μέγεθός τους (ποσοστό δέσμευσης σε σύγκριση με το μέσο όρο WoM)
+- communities with the highest engagement, regardless of their size (engagement rate compared to the WoM average)
 - σπανιότερα Deeds
 
 Ο τύπος θα εξελιχθεί και θα συντονιστεί για να βελτιστοποιήσει και να περιορίσει τα αποτελέσματα και τις καταχρήσεις. Επιπλέον, το πρωτόκολλο θα εφαρμόσει επίσης ρουτίνες περικοπής για να αποκλείσει τους κακούς ηθοποιούς.
@@ -118,11 +118,15 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 ## 2.7. Πόλεις
 
-Στον κόσμο των Meeds, οι πράξεις είναι σαν ακίνητα μέσα σε εικονικές πόλεις όπου οι κοινότητες μπορούν να εγκατασταθούν.
+The World of Meeds is a virtual world where people can buy Deeds, similar to real estate properties in virtual Cities. The Deeds are only available in limited quantities within a City and can exist only if someone redeems them with the minting points they accumulate by staking.
 
-Έρχονται σε περιορισμένες ποσότητες και μπορούν να υπάρχουν μόνο όταν κάποιος τους εξαργυρώσει με το σημείο κοπής που συσσωρεύονται στοιχηματίζοντας.
+**The 7 Cities of the WoM**
 
-The WoM will have **7** successive phases of Deed minting that we call __Cities__. Όταν το πρωτόκολλο κόβει την τελευταία Πράξη μιας Πόλης, διακόπτει $2^n$ μήνες πριν επιτρέψει την κοπή του $n^th$ Πόλη.
+In the World of Meeds, there will be 7 cities.
+
+As more people mint Deed NFTs, the Cities of the WoM are constructed progressively by following a predetermined scheme that represents the successive phases of the evolution of the WoM.
+
+When someone mints the last Deed of a City, the protocol enforces a pause of $2^n$ months before allowing the minting of the $n^th$ City.
 
 | **Όνομα πόλης** | **Πράξεις** | **Διαθέσιμο**       | **Κοινό**  | **Ασυνήθιστο** | **Σπάνια** | **Θρυλικό** |
 | --------------- | ----------- | ------------------- | ---------- | -------------- | ---------- | ----------- |
@@ -134,11 +138,16 @@ The WoM will have **7** successive phases of Deed minting that we call __Cities_
 | 6: Kushor       | 10 000 000  | Eshmum + 64 μήνες   | 6 000 000  | 3 000 000      | 999 998    | 2           |
 | 7: Hammon       | 100 000 000 | Kushor + 128 μήνες  | 60 000 000 | 30 000 000     | 9 999 999  | 1           |
 
-Μια πόλη είναι ένας τρόπος για τις κοινότητες να ενωθούν και να δημιουργήσουν μια μεγαλύτερη κοινότητα. Και κατά συνέπεια, αποκτήστε μια συγκεκριμένη ταυτότητα που συνδέεται με αυτή την κοινότητα. Είναι επίσης ένας τρόπος για να παράσχουμε πρόσθετη αξία στους χρήστες της, η οποία θα υπερβαίνει τις δυνατότητες μιας κοινότητας ή την αξία που δημιουργείται μέσω της κοινοτικής συνεργασίας.
+Cities aim to bring together different communities to create a larger, integrated community. The purpose is to foster a sense of unity and shared identity that transcends individual communities and results in shared culture, traditions, and values.
 
-Κάθε Πόλη έχει ανεξάρτητη διακυβέρνηση και λειτουργεί ως subDAO. Οι πολίτες θα εκλέξουν συμβούλιο και θα ψηφίσουν για τους δικούς τους κανόνες λειτουργίας. Αυτή η αποκεντρωμένη διακυβέρνηση επιτρέπει στις πόλεις να εξελίσσονται ανεξάρτητα, να αναπτύσσουν ένα προσαρμοσμένο φάσμα υπηρεσιών για τους πολίτες τους και να αυξάνουν την αξία των Έργων.
+**Cities Governance** Each City has a treasury funded by protocol fees (see 2.8 Taxes). Each has an independent governance system and operates as a subDAO of the Meeds DAO. Citizens can elect a council and vote on the operating rules of their City. This decentralized governance approach allows Cities to evolve independently, develop customized services for their citizens, and enhance the value of the Deeds.
 
-Για παράδειγμα, θα μπορούσαν να προσθέσουν φυσικούς ομολόγους στον πραγματικό κόσμο, όπως πρόσβαση σε αίθουσες συνεδριάσεων σε φυσικούς συνεργαζόμενους χώρους, υπηρεσίες εστίασης, ταξιδιωτικές υπηρεσίες κ.λπ.
+**City Development** Cities strive to provide additional value to their residents beyond what individual communities can achieve independently. The concentration of resources, opportunities, and services in a City allows for community collaboration and cooperation, creating collective value. Such dynamics can lead to economic opportunities, cultural richness, educational and real-life services, and an overall improvement in the quality of life for residents.
+
+Cities may include physical counterparts to the Deeds in the real world, such as access to meeting rooms in co-working spaces, catering services, travel services, and more.
+
+Cities may also explore the potential of Web3 to improve existing services or introduce new ones, such as utilizing blockchain for digital identity management, streamlining government procurement processes through smart contracts, and leveraging dApps for citizens' engagement and participation.
+
 
 ## 2.8. Φόροι
 
