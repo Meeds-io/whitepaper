@@ -1,14 +1,16 @@
 ---
-title: Meeds DAO-Dunia Meeds
-date: 22 Nov 2023-Versi 2.0.0-Alfa
+title: Jadual Kandungan
+subtitle: platform yang terdesentralisasi untuk masa depan kerja
+author: Jenis fail tidak disokong, anda harus memuat naik fail imej
+date: 14-02-2024 - Versi 2.0.0-alpha2
 toc-title: Jadual Kandungan
 language: en-US
 toc-own-page: true
 titlepage: true
-titlepage-text-color: "000000" ## black
-titlepage-rule-color: "3F8487" ## deep green
-titlepage-color: "FFFFFF"
-titlepage-logo: img/meeds-logo-text-pink.jpg
+titlepage-text-color: "FFFFFF" ## black
+titlepage-rule-color: "F97575" ## deep green
+titlepage-color: "3F8487"
+titlepage-logo: "img/meeds-logo-transparent.png"
 papersize: letter
 colorlinks: true
 book: true
@@ -18,5 +20,3 @@ classoption: oneside
 mainfont: "Source Sans Pro"
 sansfont: "Source Sans Pro"
 CJKmainfont: "Heiti TC"
-
-...

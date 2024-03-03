@@ -1,85 +1,109 @@
-# 3. Meeds token-mata wang WoM
+# 3. Token Meeds
 
-WoM dikuasakan oleh mata wangnya – Token Meeds (MEED). Meeds digunakan untuk memberi ganjaran kepada pengguna (melalui program penglibatan), membeli di kedai, mendapatkan Deeds, mendapatkan pulangan kewangan atas pelaburan Dll.
+Token keperluan (diucapkan "keperluan") adalah mata wang yang memberi kuasa kepada wanita. Ia mempunyai pelbagai utiliti:
+
+- Ganjaran penglibatan pengguna
+- Pembelian di kedai faedah
+- Tempa surat ikatan
+- Sewaan hab
+- Ganjaran untuk mempertaruhkan (hasil)
+- Ganjaran untuk menyediakan kecairan
+
 
 ## 3.1. Tokenomik
 
-Bekalan maksimum Meeds**terhad kepada 100 juta token **, dicetak secara progresif. <**Meeds dicetak pada kadar 10 MEED per minit **. Oleh itu, cakrawala pencetakan penuh hampir 20 tahun (seperti sekitar $10*60*24*365 = 5m $ Meeds dicetak setahun).
+**Bekalan Maksimum** **Bekalan maksimum MEED dihadkan kepada 100 juta token**, dicetak secara progresif dari semasa ke semasa.
 
-5 Juta Meed (5% daripada jumlah bekalan) telah dicetak pada mulanya. Daripadanya, 4.5 M telah dikunci dalam kontrak peti besi dengan peletakan linear selama 4 tahun. Jumlah yang telah dicetak digunakan terutamanya untuk memperoleh IP perisian, membayar yuran undang-undang pelepasan token, dan perkhidmatan tuan rumah.
+**Bekalan Awal** Kami pada mulanya menghasilkan 5 Juta MEED, iaitu **5% daripada jumlah bekalan**, untuk meningkatkan operasi :
 
-Selebihnya adalah sebahagian daripada dana__ Meeds DAO __ dan akan digunakan untuk membayar perkhidmatan dan melancarkan insentif seperti airdrops dan kempen rujukan.
+- Yuran guaman untuk menggabungkan Persatuan Meeds
+- Pendapat undang-undang untuk token
+- Pembelian IP
+- Perkhidmatan IT
+- pembenihan kolam kecairan
 
+Kemudian, kami mengunci 4.5 Juta MEED dalam kontrak peti besi dengan peletakhakan linear selama empat tahun.
 
-## 3.2. Peruntukan perlombongan
+Sejak itu, kontrak pintar yang dipanggil **kilang Token____ melakukan pencetakan token **MEED pada kadar tetap **.
 
-Meeds yang dicetak diperuntukkan untuk menggalakkan penglibatan tiga kategori pihak berkepentingan-pengguna, pembina dan pelabur:
+**Skim Mencetak**
 
-- Pengguna (pengguna dan pemegang Akta/penyewa) mendapat Meed melalui ganjaran penglibatan (model minimum).
-- Pembina (anggota Persatuan dan masyarakat) Meeds makanan melalui dana Persatuan untuk membina, mengendalikan dan meningkatkan wanita.
-- Pelabur mencari makanan melalui menyewa dan membeli kumpulan kecairan dan mempertaruhkan Meeds.
+Kontrak berbilang sig yang dipanggil __Kilang Token__ mengawal bekalan token MEED '(mint dan burn).
 
-Pada mulanya, pembina mendapat 30% daripada peruntukan. 70% dikongsi antara pengguna dan pelabur. Ini bahagian peruntukan akan dikaji semula secara tetap, melalui Persatuan Meeds DAO undi.
+Ia menggunakan skim pencetakan berterusan pada *10 MEED seminit*. Pada kadar sedemikian, kilang Token mencetak sekitar 5 Juta MEED setiap tahun (10*60*24*365); oleh itu, ufuk pencetakan hampir 20 tahun.
 
-## 3.3. Pengguna-mencetak melalui penglibatan
+Undian DAO mungkin mengubah kadar ini pada masa akan datang.
 
-Sebahagian daripada yang terus dicetak Meeds diperuntukkan kepada saluran pencetakan pertunangan. Pengedaran dilakukan setiap minggu. Pada hujung minggu tertentu, indeks penglibatan dikira supaya pemimpin Hub dan pemilik Meeds boleh menuntut ganjaran mereka pada minggu berikutnya dan mendapatkan makanan Meeds. Meeds yang tidak dituntut kekal dalam dana dan ditambah kepada pengedaran minggu depan. Model ini diterangkan secara terperinci dalam bab sebelumnya (bahagian 2.6).
+## 3.2. Peruntukan Mencetak
 
-## 3.4. Persatuan Pembina-Meeds DAO dan komuniti pembina
+Kilang Token juga memerintah peruntukan token MEED yang ditempa untuk memberi insentif kepada tiga kategori pihak berkepentingan:
 
-Token Worm dan Meeds dikendalikan oleh Persatuan MEEDS bukan keuntungan DAO, diperkenalkan di atas. Kontrak multisig yang dipanggil_ Meeds DAO Funds _ digunakan untuk menguruskan perbelanjaan operasi Persatuan.
+- **Pembina**: menyumbang untuk membina dan mempromosikan Meeds
+- **Pengguna**: melibatkan diri dalam komuniti mereka
+- **Pelabur**: sokong kami dengan pembelian kecairan dan token
 
-Semasa tempoh pencetakan, **30% daripada Meeds yang dicetak diperuntukkan kepada Persatuan Meeds**.
+Setiap kategori pihak berkepentingan menerima bahagian bekalan, yang tertakluk kepada undian oleh DAO.
 
-Ahli persatuan boleh menyediakan perkhidmatan kepada Persatuan berdasarkan konvensyen perkhidmatan yang ditandatangani yang menetapkan kadar hari lelaki. Perkhidmatan dibayar setiap bulan dalam Meed, berdasarkan harga pasaran. Contoh perkhidmatan termasuk memperkaya perisian Meeds, membangunkan aplikasi wom, membangunkan penyambung baru, mengendalikan perkhidmatan awan, menyediakan perkhidmatan kewangan dan undang-undang dll.
+## 3.3. Rizab Pengguna
 
-Tanpa menjadi ahli, mana – mana organisasi boleh mengambil bahagian dalam penciptaan penyambung baru dan diberi ganjaran untuk melakukannya-pertama melalui Persatuan Meeds memperoleh penyambung dan kemudian dengan mencetak melalui penyambung ini.
+Sebahagian daripada token MEED yang terus dicetak diperuntukkan untuk menaja penglibatan pengguna melalui model Mintium (lihat 2.6).
 
-Persatuan ini mengendalikan pusat komuniti sendiri yang dinamakan_ Meeds Builders Hub _ yang mengalu-alukan peminat, yang ingin menyumbang kepada penciptaan WoM. Persatuan itu menaja komuniti dari bajetnya, mengimbangi penglibatan ahli komuniti.
+Indeks penglibatan global dikira secara berkala di semua hab WoM untuk memperuntukkan ganjaran MEED kepada Hab. Ganjaran Mintium boleh dituntut oleh pemimpin hab dan pemilik Akta.
 
-Oleh itu, hab pembina berfungsi sebagai contoh langsung komuniti yang diberi kuasa oleh perisian Meeds, menawarkan satu set perkhidmatan standard yang disediakan oleh Persatuan. Persatuan itu mempertaruhkan Meeds untuk menebus Akta untuk komunitinya. Oleh itu, Hab pembina juga mendapat manfaat dalam pencetakan pertunangan seperti hab lain yang disokong oleh Deed.
+## 3.4. Simpanan Pembina
 
-Selepas tempoh perlombongan berakhir, Persatuan akan dikekalkan oleh :
+Meeds DAO mengendalikan WOM dan bekalan token MEED. Kontrak pintar multi-sig yang dipanggil _Meeds DAO Funds_ menguruskan perbelanjaan operasi. Ia menerima ** 30% daripada Meed yang dicetak</0 > untuk menyokong pembina.</p>
+
+Persatuan Meeds berhak untuk mengupah syarikat penyedia perkhidmatan bagi pihak MEEDS DAO untuk menampung yuran undang-undang, pembangunan, dan kos hosting menggunakan dana MEEDS DAO.
+
+Organisasi dan individu yang bukan ahli Persatuan Meeds masih boleh menyumbang melalui _Meeds Builders Hub_ - hab komuniti yang mengalu-alukan peminat yang ingin mengambil bahagian dalam mewujudkan dan mempromosikan wom. Perkhidmatan <0>Meeds DAO juga </0> memberi ganjaran untuk sumbangan kepada Hab Pembina.
+
+Hab pembina juga menerima ganjaran Minimum seperti hab lain.
+
+Selepas tempoh pencetakan berakhir, kos operasi MEEDS DAO akan disokong oleh :
 
 - cukai pendapatan pasif (3% ke atas surat ikatan sewa)
 - pendapatan jualan cukai (2.5% ke atas jualan Deeds)
 - melihat yuran transaksi ke atas penggunaan kedai perks
 - bertindak sebagai pembekal kolam kecairan
-- melihat yuran transaksi apabila hab mengedarkan token bukan Meeds melalui perkhidmatan wom.
-- dengan mengendalikan Deeds yang dicetak oleh persatuan dari masa ke masa.
+- melihat yuran transaksi apabila hab mengedarkan token alternatif pada hab mereka
+- menyewa dan menjual Akta yang DAO dicetak dari masa ke masa.
 
+## 3.5. Rizab Pelabur
 
-## 3.5. Pelabur
+Pelabur menyokong WoM dengan menyediakan kecairan dan mempertaruhkan token MEED, yang membantu menstabilkan tahap harga semasa fasa pembinaan. Insentif disediakan untuk kedua-dua:
 
-Pelabur membantu mewujudkan WoM dengan menyediakan kecairan dan dengan mempertaruhkan Meeds dan dengan itu menstabilkan tahap harganya semasa tempoh pembinaan. Kedua-duanya digalakkan melalui pencetakan.
+**pembekal kecairan < /0 > Pengurusan kecairan mata wang adalah penting untuk kejayaan projek. MEEDS DAO menggunakan pelbagai mekanisme DeFi untuk mengoptimumkan kecekapan modalnya. Sebagai contoh, insentif membolehkan pembekal kecairan untuk menanam hasil dengan menyewa token LP mereka. Juga, terdapat rancangan untuk memperkenalkan bon dan bergerak ke arah kecairan milik protokol secara beransur-ansur. Yang terakhir akan menyumbang kepada kelestarian jangka panjang projek-seperti yang disebutkan di atas, yuran transaksi akan membiayai perbelanjaan operasi.</p>
 
-**pembekal kecairan ** Pengurusan kecairan mata wang adalah kunci kejayaan projek dan beberapa strategi DeFi akan digunakan untuk mengoptimumkan kecekapan modal. Kami akan bermula dengan insentif untuk mempertaruhkan Token kolam MeedS/ETH LP dan secara beransur-ansur akan memperkenalkan bon untuk bergerak ke arah kecairan yang dimiliki oleh protokol. Yang terakhir akan menyumbang kepada kemampanan jangka panjang persatuan - seperti yang dinyatakan di atas, yuran transaksi akan membiayai perbelanjaan operasi persatuan seperti hosting awan.
+Di samping itu, bagi pihak MEEDS DAO, Persatuan Meeds berhak untuk memudahkan pembelian OTC (off-the-shelf) jumlah token MEED yang lebih luas.
 
-Setiap ahli juga berhak untuk membeli secara langsung sejumlah besar Meeds dengan diskaun. Jumlah yang disambungkan ke akaun Persatuan ditukar kepada ETH dan ditambah bersama dengan nilai setara Meeds ke kumpulan kecairan.
+<0 > Staking / pelaburan jangka panjang < /0> Keperluan Dao memberi ganjaran kepada pelabur setia yang ingin menyokong keperluan jangka panjang. Sesiapa sahaja boleh mempertaruhkan token MEED mereka yang tidak digunakan untuk memperoleh hasil dan token xMEED.
 
-** Staking / pelaburan jangka panjang ** Untuk menggalakkan pelaburan jangka panjang, Meed yang dipertaruhkan diberi ganjaran. Apabila Meeds dipertaruhkan, staker mendapat beberapa token xMeeds. Meeds yang baru dicetak diedarkan kepada pembesar suara secara proporsyen dengan pegangan xMeeds mereka. Dalam praktiknya, Meeds yang dicetak secara berkesan ditambahkan ke pegangan kontrak pintar xMeeds dan diedarkan kepada pemegang xMeeds apabila mereka tidak mengambil.
+Apabila pengguna mempertaruhkan token MEED, kontrak pintar mengunci deposit ini dan mengeluarkan token xMEED secara berkadar.
 
-Dengan mempertaruhkan Meeds, pelabur juga boleh menebus NFT Deed (dan kemudian mengambil bahagian dalam pencetakan melalui penglibatan), dengan itu meningkatkan permintaan token. Setiap meeds yang dipertaruhkan (xMeeds) memberikan pemiliknya beberapa mata setiap hari. Semakin lama tempoh yang diperuntukkan semakin tinggi bilangan mata yang diperolehi setiap xMeeds. Setiap Deed kemudian ditebus sebagai pertukaran untuk beberapa mata.
+Meeds DAO menggunakan xMEED sebagai token tadbir urusnya; oleh itu, pemegangnya boleh mengambil bahagian dalam undian atas cadangan.
 
-Mata dikira menggunakan formula di bawah :
+Selainitu, Pemegang xMEED memperoleh mata pelekap yang melayakkan mereka mendapat NFT mint Deed
 
- $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
+Mata pencetakan bertambah dari masa ke masa selagi pihak berkepentingan mengekalkan sahamnya. Formula di bawah membolehkan anda mengira titik pencetakan :
 
- di mana :
+ $$ P = xMEED / (xMEED + 12000) * T / 240 $$
 
-- $ xMeeds$: baki xmeeds tanpa perpuluhan
+ Di mana:
+
+- $xMEED$: baki xMEED tanpa perpuluhan
 - $T$: masa berlalu dalam milisaat
 
-Formula ini mengelakkan memihak kepada pemegang besar untuk mengedarkan Deeds dengan lebih cekap dan lebih adil. Sebagai contoh, formula memberikan kadar berikut :
+Formula ini mengelakkan memihak kepada pemegang besar untuk mengedarkan Akta dengan lebih cekap dan adil. Sebagai contoh, formula memberikan kadar berikut :
 
-| **Saiz Pemegang** | **Holdings**   | **Kadar Terakru** |
-| ----------------- | -------------- | ----------------- |
-| Kecil             | 1 000 xMeeds   | 28 mata / hari    |
-| Sederhana         | 10 000 xMeeds  | 164 mata / hari   |
-| Besar             | 100 000 xMeeds | 321 Mata / Hari   |
+| **Saiz Pemegang** | **Holdings**  | **Kadar Terakru** |
+| ----------------- | ------------- | ----------------- |
+| Kecil             | 1 000 xMEED   | 28 mata / hari    |
+| Sederhana         | 10 000 xMEED  | 164 mata / hari   |
+| Besar             | 100 000 xMEED | 321 Mata / Hari   |
 
 
-yang membawa kepada masa memegang berikut untuk setiap kelas pemegang :
+Kadar terakru ini membawa kepada masa memegang berikut untuk setiap kelas pemegang :
 
 | **Jenis Kad**  | **Kos**     | **Pemegang Besar** | **Pemegang Sederhana** | **Pemegang Kecil** |
 | -------------- | ----------- | ------------------ | ---------------------- | ------------------ |
@@ -88,22 +112,23 @@ yang membawa kepada masa memegang berikut untuk setiap kelas pemegang :
 | Jarang berlaku | 50 000 pts  | 156 hari           | 10 bulan               | 5 tahun            |
 | Legenda        | 100 000 pts | 311 hari           | 20 bulan               | 10 tahun           |
 
-## 3.6. Meeds Dao governance
+## 3.6. Tadbir Urus DAO Meeds
 
-Pemegang token Meeds perlu mempertaruhkan token untuk mengundi keputusan DAO Meeds seperti menguruskan bajet pencetakan atau memilih ahli lembaga Dao (mandat tahunan).
+pemegang token xMEED boleh mengambil bahagian secara bebas dalam tadbir urus Meeds DAO dengan mengundi dengan token mereka mengenai keputusan seperti menguruskan peruntukan bajet atau memilih ahli lembaga Dao.
 
-## 3.7. Perkhidmatan Pengguna kewangan terdesentralisasi (DeFi)
+## 3.7. Perkhidmatan DeFi
 
-WoM akan memperkenalkan dunia blockchain kepada ramai orang yang tidak menggunakannya hari ini.
+Pendekatan kami membolehkan kami mengukur dan menetapkan nilai kewangan pada hampir semua jenis sumbangan (sama ada digital atau tidak) dan memberi ganjaran dengan token.
 
-Sesungguhnya, apa - apa kerja (sama ada digital atau tidak) boleh gamified dan apa-apa penglibatan-ganjaran dengan Meeds. Meeds disediakan untuk pengguna melalui dompet berasaskan blockchain yang mudah digunakan yang" mengaburkan " kerumitan dunia crypto kepada pengguna biasa.
+Walaupun kami memanfaatkan teknologi Web3 dan blockchain, kami berhasrat untuk menjadikannya lancar untuk pengguna. Itulah sebabnya Hubs menyediakan apl dompet yang mudah digunakan dan kedai faedah dalaman yang memudahkan pengurusan token ganjaran untuk penyumbang.
 
-Di luar dompet dan kedai di mana mereka boleh membeli faedah untuk Meeds, kami merancang untuk memperkenalkan setiap pengguna kepada beberapa produk pengguna akhir yang dikuasakan oleh protokol kewangan yang terdesentralisasi, seperti:
+Oleh itu, Meeds menawarkan kemasukan yang selamat dan telus ke dunia kripto yang kompleks mata wang kripto kepada ramai pengguna yang belum pernah terdedah kepadanya.
 
-- Keupayaan untuk mempertaruhkan token MEED dan mendapatkan hasil (menjana pendapatan)
-- Keupayaan untuk menggunakan token NEED sebagai cagaran untuk meminjam syiling stabil seperti USDC (memanfaatkan dahulu [Fusepool](https://app.rari.capital/fuse) kemudian mendaftarkan token Meeds kepada [AAVE](https://aave.com/).
-- Kad digital yang boleh ditambah dan digunakan melalui Apple Pay, Google pay atau mana-mana ATM. Yang terakhir boleh disediakan melalui perkongsian dengan VISA dan akan memanfaatkan garis kredit di USDC, yang dijamin oleh Meeds yang dipertaruhkan. Kad ini juga boleh digunakan oleh organisasi untuk membiayai dompet pekerja untuk menguruskan faedah pekerja seperti restoran, pengangkutan dan apa-apa jenis perbelanjaan.
+Kami merancang untuk memperkenalkan lebih banyak produk pengguna akhir yang dikuasakan oleh token MEED dan XMEED melalui protokol Decentralized Finance (DeFi), seperti:
 
-Jadi bukan sahaja ramai pengguna baru akan menemui dunia blockchain, mereka juga akan menemui dunia tanpa bank.
+- Peroleh hasil dengan mempertaruhkan token yang diperolehi
+- Peroleh hasil dengan mempertaruhkan token yang diperolehi
+- Bayar dalam kehidupan sebenar dengan kad kredit yang disokong oleh pegangan anda
 
- 
+Jadi, bukan sahaja ramai pengguna baharu akan menemui cara untuk mendapatkan token, tetapi mereka juga akan menemui dunia tanpa bank.
+
