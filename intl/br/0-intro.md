@@ -1,47 +1,47 @@
-
-
 ## Abstrato
 
-O mercado de trabalho atual carece de eficiência devido aos altos custos de transação[^1][^2][^3] e freqüentes conflitos de interesses entre o empregador e o empregado.
+O mercado de trabalho atual é ineficiente devido aos elevados custos de transação e aos frequentes conflitos de interesses entre empregadores e empregados. Pode ser dispendioso e demorado realizar actividades relacionadas com o trabalho, e há frequentemente divergências ou interesses conflitantes entre aqueles que contratam trabalhadores e os próprios trabalhadores.
 
-O WoM (World of Meeds) propõe um novo paradigma que reduziria os custos de transação e reinventaria a relação de emprego, colmatar a lacuna existente entre empresas tradicionais e DAOs.
-
-O WoM faz isso introduzindo identidades digitais tanto para o empregador quanto para o funcionário e oferecendo um sistema inovador de recompensa por engajamento que alinharia seus interesses.
+O World of Meeds (WoM) propõe um novo paradigma para abordar estas questões, reduzindo os custos de transação e reinventando as relações de trabalho. É um espaço digital que preenche a lacuna entre as empresas tradicionais e as novas formas de organização, trazendo um sistema de incentivos justo e transparente que realinha os interesses de todas as partes.
 
 ## Introdução
 
-O mercado de trabalho hoje está quebrado. Ela não satisfaz tanto os funcionários quanto os empregadores.
+O estado atual do mercado de trabalho não satisfaz trabalhadores e empregadores[^1][^2][^3].
 
-Do lado do empregado, é difícil encontrar os empregos certos. O mercado de trabalho favorece certos tipos de indivíduos, deixando atrás de si grandes competências. Isto vem de um conjunto de preconceitos humanos - baseados em raça, gênero, deficiência, introvertido, etc. This comes from a set of human biases – racial based, gender based, handicap based, introvert based etc. The work market also lacks transparency as to the available positions and employment conditions. O mercado de trabalho também carece de transparência no que se refere às posições e condições de emprego disponíveis.
+Os trabalhadores enfrentam dificuldades em encontrar oportunidades de emprego adequadas, uma vez que o mercado de trabalho tende a favorecer indivíduos específicos, deixando para trás grandes conjuntos de competências devido a vários preconceitos humanos, como raça, género, deficiência, introversão e muito mais.
 
-Uma vez empregado, as liberdades pessoais do funcionário são violadas em troca de uma compensação. Os funcionários têm pouco a dizer em seu horário, local, conteúdo ou métodos de trabalho. E sua compensação raramente está ligada à sua real implicação ou valor. As regras de compensação carecem de transparência e, portanto, são percebidas como injustas. Além disso, a remuneração e o progresso na carreira também dependem do fator humano - a boa fé e a objetividade do gerente imediato do funcionário.
+Além disso, há falta de transparência nos cargos disponíveis e nas condições de emprego. Uma vez empregados, os trabalhadores muitas vezes têm pouca influência sobre seu horário de trabalho, local de trabalho, conteúdo ou métodos. Além disso, existe uma aparente falta de justiça nas regras de compensação devido à falta de transparência. O progresso na carreira e a remuneração dependem da boa-fé e objetividade do gestor imediato, levando à falta de confiança e cooperação.
 
-Os empregadores, por outro lado, experimentam dificuldades para encontrar talentos e contratar as habilidades certas e o ajuste certo na hora certa para o trabalho. Não há nenhuma maneira objetiva de verificar as habilidades potenciais de contratação ou de buscar pessoas fora do pool de contratação tradicional do empregador.
+Os empregadores enfrentam desafios na procura de talentos, na contratação das competências certas e na sua adaptação aos empregos certos, no momento certo. O pool de contratação tradicional muitas vezes falha em fornecer uma forma objetiva de determinar as habilidades de um colaborador em potencial. As altas taxas de rotatividade e a falta de fidelidade dos colaboradores também podem aumentar os custos de contratação e integração.
 
-Os empregadores também lidam com a falta de lealdade de seus funcionários e uma alta rotatividade, ambas as quais aumentam os custos de contratação e de embarque.
+These issues relate to high transaction costs and the exacerbated agent-principal problem[^4]. Apesar da evolução dos mercados de trabalho no sentido de uma maior unidade e transparência com a Internet, os custos de transação[^5] ainda precisam de ser reduzidos sem um elemento de objetividade.
 
-Além disso, os empregadores também enfrentam um baixo envolvimento em seus funcionários existentes, levando à baixa criatividade, produtividade e inovação. Este último inflige ainda mais danos na economia atual, exigindo um trabalho criativo mais qualificado.
+A WoM oferece uma abordagem única ao trabalho descentralizado, abordando diversas questões predominantes nos paradigmas de trabalho tradicionais.
 
-Tudo isso se resume a altos custos de transação e ao exacerbado problema agen-principal[^4] :
+Através do seu paradigma de incentivos transparente, objetivo e descentralizado, o WoM alinha de forma sustentável os interesses dos contribuintes e dos empregadores. Propõe formas de nivelar hierarquias e abrir a propriedade, promovendo formas sustentáveis ​​de operar e criar valor para as organizações.
 
-- With Internet, job markets did evolve towards more unity and transparency thanks to job posting sites, career sites, etc. But transactions costs are still too high in the absence of objectivity element. Mas os custos de transação ainda são muito altos na ausência do elemento objetividade.
-- Quanto ao problema agente-principal, ele tem sido agravado pela crescente diferença de renda e riqueza entre empregados e acionistas e pela rigidez da relação empregador-empregado.
+Ao combinar empregos e competências de forma objectiva, rápida e global, o WoM pretende abordar a falta de transparência no mercado de trabalho e garantir que grandes conjuntos de competências não sejam deixados para trás.
 
-O WoM visa resolver ambos através de um novo paradigma de trabalho descentralizado.
+O WoM pretende reinventar a relação empregador/trabalhador, introduzindo um paradigma de incentivos transparente, objetivo e descentralizado. Este modelo incentiva os colaboradores a serem mais engajados, criativos e produtivos, levando a maior inovação e produtividade.
 
-Seguindo os trabalhos de R. Coase[^5], a maioria dos economistas relaciona o conceito de empresa com a necessidade de mitigar os custos de transação. A Internet e, mais recentemente, a cadeia de bloqueio e a web3 abrem possibilidades interessantes de reduzir os custos de transação em todos os lugares, reinventando a economia e, em particular, reinventando a empresa. Os primeiros DAOs[^6] iniciaram este processo focando na redução do custo das transações para obtenção de capital e governança. O WoM tem como objetivo levar esta lógica ainda mais longe, baixando o custo das transações de trabalho. Ela propõe um mundo descentralizado onde a correspondência de empregos e habilidades poderia ser feita de forma objetiva, rápida e global.
+Ao preencher a lacuna entre as corporações tradicionais e os modelos organizacionais mais recentes, como os DAOs[^6], a WoM fornece formas sustentáveis ​​de operar e criar valor para todos. Sendo um empreendimento descentralizado, o WoM ganha valor exponencialmente à medida que mais pessoas o utilizam. Portanto, concebemos o seu protocolo como um bem público com mecanismos integrados para incentivar o interesse a longo prazo e evitar a cartelização.
 
-Os primeiros DAOs achatam as hierarquias e abrem a propriedade. O WoM segue esta lógica reinventando ao invés de suprimir a relação empregador/empregado. Ele introduz um paradigma de recompensa transparente, objetivo e descentralizado, que alinharia de forma sustentável os interesses do empregador e do empregado.
-
-Por último, a WoM colmata o fosso entre as empresas e as DAO. On the other hand, it proposes sustainable ways to operate and create value for DAOs. On one hand, it introduces traditional corporations into the decentralized world through an easy to apply engagement rewarding paradigm, complementing their compensation systems. Em última análise, o WoM poderia estar entre as primeiras aplicações principais para democratizar o uso da cadeia de bloqueio para cada empresa e cada funcionário - incluindo os não-digitais.
-
-Como em qualquer empreendimento descentralizado, o proposta WoM ganha em valor exponencialmente à medida que mais pessoas a utilizam. Por essa razão, os fundadores tomaram muito cuidado para incentivar o interesse a longo prazo e evitar monopolizar os benefícios da WoM, tanto a curto como a longo prazo. É um paradigma aberto, ainda a ser construído, e aberto à participação criativa ativa de todos.
+Para promover a participação activa e autêntica no paradigma WoM, é crucial criar um ambiente inclusivo onde diversas perspectivas sejam valorizadas.
 
 
-[^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)
-[^2]: Jan Drahokoupil, Agnieszka Piasna - [“Work in the Platform Economy: Beyond Lower Transaction Costs”](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
-[^3]: Seth C. Oranburg, Liya Palagashvili - [“Transaction Cost Economics, Labor Law and the Gig Economy”](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship)
-[^4]: Michael C. Jensen, William H. Meckling - [“Theory of the Firm : Managerial Behavior, Agency Costs and Ownership Structure”](https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf)
-[^5]: R. Coase - [“The nature of the firm”](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
-[^6]: Aaron Wright - [“The Rise of Decentralized Autonomous Organizations : Opportunities and Challenges”](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)
-
+[^1]: Suzanne Young - ["Economia dos Custos de Transação"](https://www.academia.edu/24703426/Transaction_Cost_Economics)
+[^2]: Jan Drahokoupil, Agnieszka Piasna - ["Trabalho na economia de plataforma: além dos custos de transação mais baixos"](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
+[^3]: Seth C. Oranburg, Liya Palagashvili - ["Economia dos Custos de Transação, Legislação Trabalhista e a Economia Gig"](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship)&#160;
+&#8617;</1</p> </fn>
+    
+    
+[^4]:    
+        Michael C. Jensen, William H. Meckling - ["Teoria da Empresa: Comportamento Gerencial, Custos de Agência e Estrutura de Propriedade"](https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf)Michael C. Jensen, William H. Meckling - <0>"Teoria da Empresa: Comportamento Gerencial, Custos de Agência e Estrutura de Propriedade"</0>&#160;<1>&#8617;</1>
+    
+    
+[^5]:    
+        R. Coase - ["A natureza da empresa"](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)Coase - <0>"A natureza da empresa"</0>&#160;<1>&#8617;</1>
+    
+    
+[^6]:    
+        Aaron Wright - ["A Ascensão de Organizações Autônomas Descentralizadas: Oportunidades e Desafios"](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)</footnotes>

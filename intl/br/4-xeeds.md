@@ -1,64 +1,70 @@
-# 4. Xeeds - WoM para Indivíduos/Usuários
+# 4. Xeeds - Os Cidadãos
 
-## 4.1. Modelos Descentralizados e com Autonomia Própria
+## 4.1. Identidade auto-soberana
 
-O WoM considera a privacidade como um direito humano fundamental e dá poder aos usuários de controlar seus dados.
+Reconhecemos a privacidade como um direito humano fundamental e capacitamos os usuários a possuírem seus dados.
 
-Nosso abordagem é baseada nos princípios de identidade descentralizada e autônoma, permitindo que os usuários tenham controle a qualquer momento sobre qual informação eles desejam divulgar, compartilhar com um grupo restrito ou manter privada.
+A nossa abordagem baseia-se em princípios de identidade descentralizada e auto-soberana. permitindo aos usuários controlar quais informações querem divulgar, compartilhar com um grupo restrito ou manter privados.
 
-A atividade e o envolvimento do usuário no WoM está sempre vinculada a uma comunidade. Um Xeed é a persona virtual de um usuário em uma comunidade. O Xeed não exige qualquer verificação de conhecimento de cliente KYC, é auto-declarável, mas poderíamos concebivelmente imaginar empresas terceirizadas fornecendo este serviço.
+Usuários se envolvem em várias comunidades; chamamos sua persona virtual a **__Xeed__**.
 
-## 4.2. Distintivos e credenciais
+Os Xeeds são autodeclarativos e não exigem processo padrão de KYC (__Conheça seu cliente__).
 
-Insígnias e credenciais são dadas aos usuários como parte da sua participação em uma comunidade. O titular pode baixá-los como Credenciais Verificáveis W3C[^7][^8] (também conhecido como VCs) e armazená-los em sua carteira. Essas VCs são prova de conhecimento/habilidade certificados pela organização que as emite.
+No entanto, as comunidades que necessitam podem contratar empresas terceirizadas que prestam este serviço ou usar protocolos como __Prova de Humanidade__.
 
-No mundo de hoje, é difícil comprovar uma habilidade antecipadamente. Quando as pessoas se anunciam em redes, elas contam com recomendações de seus gerentes. O último supõe certa boa vontade por parte do gerente, mas nem sempre é tratado como prova pelo futuro empregador.
+## 4.2. Tokens de reconhecimento
 
-O WoM fornece uma forma mais transparente e imutável para as pessoas adquirirem e demonstrarem suas habilidades.
+No mundo de hoje, é difícil provar antecipadamente uma competência. Quando as pessoas se anunciam nas redes, dependem da reputação social. Normalmente, um gerente ou um par fornece uma recomendação. Exige boa vontade do relativo, mas raramente constitui uma prova definitiva para o futuro empregador.
 
-Os emblemas são usados para representar conquistas feitas dentro de uma comunidade. Após concluir uma série de objetivos ou desafios, os usuários serão recompensados com pontos. Os distintivos podem ser desbloqueados acumulando certas quantidades de pontos em categorias específicas.
+Users may earn Badges and Credentials when participating within their Community Hubs . Vamos deixá-los guardá-los também em uma carteira ou baixá-los como Credenciais Verificáveis [^7][^8]. Tais credenciais são prova de conhecimento/know-how certificados pela organização emissora.
 
-Quando os emblemas são baixados pelo usuário, é possível incluir o número de pontos e sua classificação no Hub para essa realização específica.
+Deste modo, oferecemos às pessoas meios transparentes e imutáveis para adquirirem e demonstrarem as suas capacidades.
 
-As credenciais são mais flexíveis que os crinos; Poderiam ser uma recomendação de um homem, indicando anos de competência, formação ou conclusão de exames ou envolvimento no espaço. Estas são assinadas pelo Hub e podem ser acompanhadas por uma assinatura por um usuário de pares.
+**Selos** Os emblemas representam conquistas realizadas em uma comunidade. By completing work tasks, users earn points. Podem obter medalhas de reconhecimento à medida que acumulam pontos e atingem determinados limiares.
 
-## 4.3. Identidade digital profissional
+Medalhas poderão ser representadas como NFTs de NTTs (tokens transferíveis, ou seja, tokens __Soulbound__ - ou baixáveis. Eles incluirão informações seletivamente divulgadas como o nome do Hub, o número de pontos, a categoria de trabalho e a data de realização ou a classificação na comunidade.
 
-Tudo isso contribui para formar um conjunto comprovado de habilidades digitais que podem ser mantidas e usadas pelo usuário ao mudar de emprego ou trabalhar como freelancer. Será mais confiável do que soluções tradicionais, pois não se baseia apenas em uma única pessoa, mas em uma comunidade inteira para comprová-lo.
+U**Credenciais** Credenciais são mais flexíveis que insígnias. Poderiam ser uma recomendação de um homem, indicando anos de competência, formação ou conclusão de exames ou envolvimento no espaço.
 
-Assim como sua carteira Meeds, o usuário manterá seus Xeed, Medalhas, e Credenciais anexadas a ela em sua carteira de identidade quando movendo de um Hub para outro, de uma cidade para outra, em qualquer lugar através da WoM.
+Os membros do Hub ou de pares assinarão essas credenciais para endossá-los oficial e verificavelmente.
 
-O usuário será capaz de expressar seu Xeed, Badges, e Credenciais para outros Hubs para destacar sua experiência, bem como em recrutadores ou quaisquer outros serviços que considere interessantes.
+## 4.3. Identidade Digital Worker
 
-Um usuário pode possuir uma ou mais identidades digitais no Work Metaverse. Ele poderá apresentá-las de forma unificada posteriormente, usando apresentações verificadas.
+Todos os itens acima contribuem para a formação de um conjunto comprovado de habilidades digitais que os usuários podem manter e usar ao mudar de trabalho ou de freelancing. É mais fiável do que as soluções tradicionais, porque depende de toda uma comunidade para prová-lo.
 
-Ao contrário da web 2, o usuário é dono completo de suas identidades descentralizadas. Este último pode mostrar (e provar) as comunidades em que participou, suas habilidades comprovadas, suas habilidades reivindicadas, outras Xeeds (pessoas) com quem ele trabalhava, sua representação digital de si mesmo... De maneira semelhante a um LinkedIn confiável 3.0.
+Os usuários manterão seus Xeed, Badges, e Credenciais nos Hubs. Podem, assim, anunciar, mostrar e provar as suas capacidades e experiência a outros líderes comunitários e recrutadores ou a quaisquer outros serviços que considerem interessantes.
 
-O usuário terá a capacidade de escolher se deseja revelar alguma informação, qual informação fornecer e quais identidades usar para cada posição, controlando sua privacidade e transparência de maneira efetiva. O conteúdo (habilidade provada, antigos Hubs, etc.) é prova de adulteração e, portanto, não pode ser modificado. A identidade precisaria ser desenvolvida ao longo do tempo.
+As pessoas desenvolvem uma identidade digital composta ao longo do tempo enquanto trabalham. Qualquer um pode possuir várias identidades digitais que poderia decidir reconciliar mais tarde. Têm total liberdade de escolher se querem ou não revelar o que quer que seja, quais as informações a fornecer, e quais as identidades a utilizar para cada posição.
 
-## 4.4. Mercado de trabalho equitativo
+Defendemos que os cidadãos de WoM possuam plenamente a sua identidade descentralizada.
 
-Dentro deste paradigma, o futuro mercado de trabalho permite que os usuários se movam livremente e atribuem/vendem seu envolvimento entre os Hubs - como fazem no mundo físico, mudando os empregadores. No entanto, na WoM, sua dedicação seria tangível, medida e recompensada de forma justa. Ao se mover entre sistemas que seguem uma lógica semelhante, eles entenderão melhor as regras do jogo e julgarão os empregadores de forma justa - a grama não é sempre mais verde em outro lugar. Os usuários serão capazes de ver quais o Hub fornece melhores condições de recompensa de engajamento, pertencem a uma cidade mais atraente, etc.
+## 4.4. Mercado de trabalho justo
 
-No seu final, os líderes da comunidade podem procurar habilidades relevantes usando a rede WoM de identidades de trabalho digital (que os usuários decidiram revelar). Eles poderão obter habilidades de forma mais eficaz, com base em informações verificadas e detalhadas sobre histórico de trabalho, habilidades profissionais e nível de dedicação do usuário.
+Dentro deste paradigma, o futuro mercado de trabalho permite aos usuários moverem-se livremente e atribuir/vender seu envolvimento entre os Hubs - como fazem no mundo físico, mudando os empregadores. No entanto, no Mau, o seu empenhamento é palpável, medido e recompensado de forma justa.
 
-## 4.5. Reconhecimento claro e concreto
+Movendo-se entre sistemas que seguem uma lógica semelhante, compreenderão melhor as regras do jogo e poderão avaliar os seus potenciais empregadores. As pontuações de engajamentos lhes dão uma dica sobre o nível da atividade e condições de recompensa na comunidade.
 
-Hoje, muitos detalhes sobre compensações e bônus são obscuros em muitos ambientes de trabalho. Por isso, é difícil para uma pessoa comparar suas condições com as de outra e ter uma noção de tratamento justo e imparcial. Funcionários experimentam muitas frustrações com isso.
+Por seu lado, os líderes da comunidade podem procurar habilidades relevantes usando a rede de identidades de trabalho digital (que os usuários decidiram revelar). Eles podem adquirir habilidades de forma mais eficaz, com base em informações verificadas e detalhadas sobre o histórico de trabalho, habilidades de trabalho e nível de envolvimento do usuário.
 
-A WoM apresenta uma forma objetiva de reconhecer realizações e recompensá-las.
+## 4.5. Reconhecimento transparente e tangível
 
-O mecanismo de reconhecimento e recompensa de engajamento é transparente e se aplica equitativamente a todos os usuários, seguindo as mesmas regras explícitas, decididas com antecedência e alinhadas com os objetivos da comunidade.
+Actualmente, os pormenores relativos às indemnizações e aos bónus são opacos em muitos locais de trabalho. Por conseguinte, é difícil para uma pessoa comparar as suas condições com outra e ter um tratamento justo e imparcial. Funcionários experimentam muitas frustrações com isso.
 
-As carteiras são individuais e baseadas em blockchain - quando o usuário recebe uma recompensa ou ganha uma condecoração, ela não pode ser retirada ou apagada.
+A WoM introduz objetividade na forma como suas conquistas serão reconhecidas e recompensadas.
 
-## 4.6. Acesso aos serviços Web 3.0, criptoeconomia e DEFI
+O mecanismo de reconhecimento de engajamento e recompensa é transparente e se aplica equitativamente a todos os usuários, seguindo as mesmas regras explícitas, decididas com antecedência e alinhadas com os objetivos da comunidade.
 
-Como discutido acima, o WoM abre o mundo de criptomoedas e serviços web descentralizados para praticamente todos - uma população muito grande de usuários, mesmo possivelmente não relacionados ao campo digital.
+Graças à tecnologia de blockchain, pegar de volta recompensas e medalhas ganhas é impossível.
 
-De fato, qualquer dedicação de trabalho pode potencialmente ser tokenizada. Na verdade, o mundo está se tornando cada vez mais digital com tendências como 5G, IoT, wearables, entre outras. Como consequência, potencialmente, cada vez mais sinais poderiam ser capturados e analisados para tokenizar a dedicação de profissionais não digitais. Desafios fornecem uma forma pronta para tokenizar isso, representando realizações no mundo físico.
+## 4.6. Acessibilidade de DeFi
 
-Qualquer usuário pode obter Meeds e usar uma carteira Meeds para ter acesso a novos serviços sem necessidade de treinamento especial.
+O WoM abre o mundo dos serviços de criptomoeda e descentralizada de web para qualquer pessoa - uma população substancial de trabalhadores, mesmo possivelmente sem relação com o domínio digital.
+
+Na verdade, a simulação do compromisso aplica-se a qualquer trabalho. O mundo está a tornar-se cada vez mais digital com tendências como a 5G, a IoT, a wearables, etc.
+
+Ao longo do tempo, o WoM capturará cada vez mais sinais de trabalho de profissões com baixa digitalização. Programas de engajamento oferecem uma solução pré-projetada para converter realizações do mundo real em tokens virtuais.
+
+Qualquer um pode ganhar tokens através de sua carteira Meeds e acessar facilmente vários serviços de DeFi com baixa entrada de fricção.
 
 [^7]: A.Preukschatt, R. Drummond "Identidade Auto-Soberana"
 [^8]: Modelo de Dados de Credenciais Verificáveis.
