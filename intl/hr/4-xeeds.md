@@ -1,64 +1,70 @@
-# 4. Xeeds - Radni metaverse za pojedince / korisnike
+# 4. Xeeds - Građani
 
-## 4.1. Modeli koji su decentralizirani i samostalni u upravljanju
+## 4.1. Samostalni suvereni identitet
 
-WoM priznaje privatnost kao temeljno ljudsko pravo i omogućuje korisnicima da posjeduju svoje podatke.
+Prepoznajemo privatnost kao temeljno ljudsko pravo i osnažujemo korisnike da posjeduju svoje podatke.
 
-Naš pristup temelji se na načelima decentraliziranog i samosuverenog identiteta, omogućujući korisnicima da u bilo kojem trenutku imaju kontrolu nad informacijama koje žele objaviti, podijeliti s ograničenom grupom ili zadržati privatnima.
+Naš pristup temelji se na načelima decentraliziranog i samosuverenog identiteta, dopuštajući korisnicima da kontroliraju koje informacije žele objaviti, podijeliti s ograničenom grupom ili zadržati privatnima.
 
-Aktivnost i angažman korisnika u WoM-u uvijek je povezan sa zajednicom. Xeed je virtualna osoba korisnika u zajednici. Xeed ne zahtijeva bilo kakvu provjeru identiteta korisnika, već se korisnik sam deklarira, no možemo zamisliti da bi ovu uslugu mogle pružati tvrtke trećih strana.
+Korisnici se angažiraju unutar različitih zajednica; njihovu virtualnu osobu nazivamo **__Xeed__**.
 
-## 4.2. Bedževi i vjerodajnice
+Xeedovi se sami deklariraju i ne zahtijevaju zadani KYC (__Upoznajte svog kupca__) proces.
 
-Bedževi i vjerodajnice daju se korisnicima kao dio njihovog sudjelovanja u zajednici. Vlasnik ih može preuzeti kao W3C provjerljive vjerodajnice[^7][^8] (tj. VCs) i pohraniti u svoj novčanik. Te VCs su dokaz znanja/vještine potvrđene od strane organizacije koja ih izdaje.
+Međutim, zajednice kojima je to potrebno mogu angažirati tvrtke treće strane koje pružaju ovu uslugu ili koristiti protokole kao što je __Dokaz ljudskosti__.
 
-U današnjem svijetu teško je unaprijed dokazati vještinu. Kada se ljudi oglašavaju na mrežama, računaju na svoje menadžere da im daju preporuku. Ovo pretpostavlja određenu dobru volju s dijela menadžera, ali ne mora biti tretirano kao dokaz od strane budućeg poslodavca.
+## 4.2. Tokeni za prepoznavanje
 
-WoM pruža transparentnije i nepromjenjivije sredstvo za stjecanje i demonstraciju svojih sposobnosti.
+U današnjem svijetu teško je dokazati vještinu unaprijed. Kada se ljudi reklamiraju na mrežama, ovise o društvenom ugledu. Obično voditelj ili kolega daje preporuku. Zahtijeva dobru volju rođaka, ali rijetko predstavlja konačan dokaz za budućeg poslodavca.
 
-Značke se koriste za predstavljanje postignuća unutar zajednice. Nakon što korisnik završi skup ciljeva ili izazova, dodijelit će mu se bodovi. Značke se mogu otključati nakupljanjem određenih količina bodova u određenim kategorijama.
+Users may earn Badges and Credentials when participating within their Community Hubs . Dopustit ćemo im da ih također pohrane u novčanik ili da ih preuzmu kao provjerljive vjerodajnice [^7][^8]. Takve vjerodajnice dokaz su znanja/know-how koji je ovjerila organizacija koja ih izdaje.
 
-When the user downloads badges, it is possible to include the number of points and his rank in the Hub for this specific accomplishment.
+Time nudimo transparentan i nepromjenjiv način da ljudi steknu i pokažu svoje sposobnosti.
 
-Vjerodajnice su fleksibilnije od bedževa; mogu biti preporuka kolega, koja ukazuje na godine stručnosti, obuku ili položen ispit ili angažman u prostoru. The Hub signs these and can be accompanied by a signature by a peer user.
+**Značke** Bedževi predstavljaju postignuća ostvarena unutar zajednice. By completing work tasks, users earn points. Oni mogu zaraditi značke prepoznavanja dok skupljaju bodove i dosežu određene pragove.
 
-## 4.3. Digitalni identitet rada
+Značke će se moći predstavljati kao NFT-ovi ili NTT-ovi (neprenosivi tokeni, poznati kao __Soulbound__ tokeni) ili preuzimati. Oni će uključivati ​​selektivno objavljene informacije kao što su naziv Huba, broj bodova, kategorija rada i datum postignuća ili rang u zajednici.
 
-Sve navedeno doprinosi stvaranju dokazanog digitalnog skupa vještina koje korisnik može zadržati i koristiti pri promjeni posla ili samostalnom radu. Bilo bi pouzdanije od tradicionalnih rješenja jer se oslanja ne samo na jednu osobu, već na cijelu zajednicu koja ga dokazuje.
+**Vjerodajnice** Vjerodajnice su fleksibilnije od bedževa. Mogu biti preporuka kolega, koja ukazuje na godine stručnosti, obuku ili položen ispit ili angažman u prostoru.
 
-Baš kao i njegov novčanik Meeds, korisnik će zadržati svoj Xeed, bedževe i akreditive koji su mu pridruženi u svom novčaniku identiteta kada se kreće iz jednog Huba u drugi, iz jednog grada u drugi, bilo gdje kroz WoM.
+Članovi čvorišta ili ravnopravni članovi potpisat će ove vjerodajnice kako bi ih službeno i provjerljivo potvrdili.
 
-Korisnik će moći izraziti svoj Xeed, bedževe i vjerodajnice prema drugim čvorištima kako bi istaknuo svoje iskustvo, kao i prema regrutima ili bilo kojim drugim uslugama koje smatra zanimljivima.
+## 4.3. Digitalni radnički identitet
 
-Korisnik može imati jedan ili više digitalnih identiteta u radni metaverzum. Kasnije ih može predstaviti na jedinstven način koristeći verificirane prezentacije.
+Sve navedeno doprinosi formiranju dokazanog skupa digitalnih vještina koje korisnici mogu zadržati i koristiti pri promjeni posla ili slobodnom radu. Vjerodostojnije je od tradicionalnih rješenja jer se oslanja na cijelu zajednicu da to dokaže.
 
-Za razliku od weba 2, korisnik je potpuno vlasnik svojih decentraliziranih identiteta. The latter can show (and prove) the communities he participated in, their proven skills, their claimed skills, the people whom they worked with, and their digital representation of themselves... Na pouzdan način sličan LinkedInu 3.0.
+Korisnici će zadržati svoj Xeed, bedževe i vjerodajnice na svim čvorištima. Oni tako mogu reklamirati, pokazati i dokazati svoje vještine i iskustvo drugim vođama zajednice i regruterima ili bilo kojim drugim uslugama koje smatraju zanimljivima.
 
-Korisnik će moći odabrati želi li otkriti bilo što, koje informacije pružiti te koje identitete koristiti za svaku poziciju. Sadržaj (dokazana vještina, prethodna čvorišta, itd.) je zaštićen od neovlaštenog mijenjanja i stoga se ne može mijenjati. Svaki identitet bi se morao razvijati tijekom vremena.
+Ljudi razvijaju kompozitni digitalni identitet tijekom vremena dok rade. Svatko može posjedovati nekoliko digitalnih identiteta koje kasnije može odlučiti uskladiti. Imaju potpunu slobodu odabira hoće li ili ne otkriti bilo što, koje će informacije dati i koje će identitete koristiti za svaku poziciju.
 
-## 4.4. Tržište pravednog rada
+Zalažemo se za to da građani WoM-a u potpunosti posjeduju svoj decentralizirani identitet.
 
-Unutar ove paradigme buduće tržište rada omogućuje korisnicima da se slobodno kreću i raspoređuju/prodaju svoj angažman među središtima – kao što to rade u fizičkom svijetu mijenjajući poslodavce. Međutim, u WoM-u njihovo sudjelovanje bilo bi opipljivo, mjereno i nagrađivano na pravedan način. Kretanjem između sustava koji slijede sličnu logiku, korisnici će bolje razumjeti pravila igre i pošteno procjenjivati poslodavce - trava nije uvijek zelenija negdje drugdje. Korisnici će moći vidjeti koji Hub nudi bolje uvjete nagrađivanja angažmana, pripada atraktivnijem gradu itd.
+## 4.4. Tržište poštenog rada
 
-Sa svoje strane, čelnici zajednice mogu tražiti relevantne vještine koristeći WoM mrežu digitalnih radnih identiteta (koje su korisnici odlučili otkriti). Moći će učinkovitije pronaći potrebne vještine, temeljem provjerenih i detaljnih informacija o radnoj povijesti, radnim vještinama i razini angažmana korisnika.
+Unutar ove paradigme, buduće tržište rada omogućuje korisnicima da se slobodno kreću i raspoređuju/prodaju svoj angažman među središtima – kao što to rade u fizičkom svijetu mijenjajući poslodavce. Međutim, u WoM-u njihov angažman je opipljiv, odmjeren i pošteno nagrađen.
 
-## 4.5. Materijalno i transparentno priznavanje
+Krećući se između sustava koji slijede sličnu logiku, bolje će razumjeti pravila igre i moći će procijeniti svoje potencijalne poslodavce. Rezultati angažmana daju im naznaku o razini aktivnosti i uvjetima nagrađivanja u zajednici.
 
-Danas su detalji o kompenzaciji i bonusima nejasni u mnogim radnim mjestima. Stoga je teško usporediti uvjete jedne osobe s drugom i dobiti osjećaj pravednog i nepristranog postupanja. Zaposlenici doživljavaju puno frustracija s navedenim.
+Sa svoje strane, čelnici zajednice mogu tražiti relevantne vještine koristeći mrežu digitalnih radnih identiteta (koje su korisnici odlučili otkriti). Oni mogu učinkovitije pronaći vještine na temelju provjerenih i detaljnih informacija o radnoj povijesti, radnim vještinama i razini angažmana korisnika.
 
-WoM uvodi objektivan način prepoznavanja postignuća i nagrađivanja istih.
+## 4.5. Opipljivo i transparentno prepoznavanje
 
-Mehanizam prepoznavanja angažmana i nagrađivanja je transparentan i pravedno se primjenjuje na sve korisnike, slijedeći ista eksplicitna pravila, unaprijed određena i usklađena s ciljevima zajednice.
+Danas su detalji o naknadama i bonusima nejasni na mnogim radnim mjestima. Stoga je osobi teško usporediti svoje stanje s drugim i steći osjećaj poštenog i nepristranog tretmana. Zaposlenici doživljavaju puno frustracija s navedenim.
 
-Novčanici su individualni i temeljeni na blockchainu - kada korisnik primi nagradu ili osvoji odličje, ne može se uzeti natrag ili izbrisati.
+WoM uvodi objektivnost u način na koji će njihova postignuća biti prepoznata i nagrađena.
 
-## 4.6. Pristup Webu 3.0, kriptoeconomiji i DEFI uslugama
+Mehanizam prepoznavanja angažmana i nagrađivanja je transparentan i ravnopravno se primjenjuje na sve korisnike, slijedeći ista izričita pravila, unaprijed određena i usklađena s ciljevima zajednice.
 
-Kao što je gore spomenuto, WoM otvara svijet kriptovalute i decentraliziranih web-usluga zapravo svima – vrlo velikoj populaciji korisnika, čak možda i nepovezanih s digitalnim poljem.
+Zahvaljujući blockchain tehnologiji, nemoguće je vratiti zarađene nagrade i bedževe.
 
-Uistinu, bilo koji poslovni angažman može potencijalno biti tokeniziran. U stvari, svijet postaje sve više digitalan s trendovima kao što su 5G, IoT, nosivi uređaji i tako dalje. Kao posljedica toga, potencijalno sve više signala bi se moglo uhvatiti i analizirati kako bi se tokenizirao angažman u ne-digitalnim profesijama. Izazovi pružaju spremnu metodu za tokenizaciju predstavljanjem postignuća u fizičkom svijetu.
+## 4.6. DeFi pristupačnost
 
-Any user can get MEED and use a Meeds wallet to get access to new age services without any special training.
+WoM otvara svijet kriptovalute i decentraliziranih web usluga svima – značajnoj populaciji radnika, čak i onih koji možda nisu povezani s digitalnim područjem.
+
+Doista, tokenizacija angažmana odnosi se na svaki rad. Svijet postaje sve više digitaliziran s trendovima kao što su 5G, IoT, nosivi uređaji itd.
+
+S vremenom će WoM uhvatiti sve više radnih signala iz slabo digitaliziranih zanimanja. Programi angažmana nude unaprijed dizajnirano rješenje za pretvaranje postignuća iz stvarnog svijeta u virtualne žetone.
+
+Svatko može zaraditi tokene putem svojeg Meeds novčanika i lako pristupiti raznim DeFi uslugama s niskim ulaznim trenjem.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Verifiable Credentials Data Model

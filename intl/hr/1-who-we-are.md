@@ -1,15 +1,19 @@
 
 # 1. O nama
 
-Meeds is a collaborative effort led by diverse open-source software (OSS) communities dedicated to creating a decentralized digital world that resists centralized corporate control and promotes a free and open environment.
+Meeds je zajednički napor predvođen raznim zajednicama softvera otvorenog koda (OSS) posvećenih stvaranju decentraliziranog digitalnog svijeta koji se opire centraliziranoj korporativnoj kontroli i promiče besplatnu.
 
-The Meeds project uses the Ethereum ecosystem to implement the WoM protocols and manage the supply of the MEED token. This approach has helped prioritize security, accessibility, usability, and cost-effectiveness, making it attractive to a broad user base. However, the WoM is designed to be an autonomous and self-sufficient public good, aiming to become multichain.
+Koristeći ekosustav Ethereum, implementiramo WoM protokole i nadgledamo opskrbu MEED tokenom. Ova strategija nam je omogućila da damo prioritet sigurnosti, pristupačnosti, upotrebljivosti i isplativosti, čineći je privlačnom raznolikoj demografiji korisnika. Unatoč tome, dizajnirali smo WoM kao autonomno i samodostatno javno dobro s težnjama da se proširi u više lanaca.
 
 Pravni subjekt koji stoji iza Meedsa je _Meeds Association_, neprofitna organizacija registrirana prema švicarskom zakonu u Ženevi. Odgovoran je za reguliranje izdavanja MEED tokena i sklapanje ugovora s pružateljima usluga.
 
-The Meeds Association intends to progressively hand over control of the Meeds protocol and treasuries to the _Meeds DAO_, which is the decentralized autonomous organization that represents the decentralized governance arm of the Meeds ecosystem, empowering the community to participate in decision-making, proposal voting, and protocol upgrades.
+Udruga Meeds namjerava postupno predati kontrolu nad Meeds protokolom i riznicama _Meeds DAO_. Ova decentralizirana autonomna organizacija predstavlja decentraliziranu upravljačku granu ekosustava, osnažujući zajednicu da sudjeluje u donošenju odluka, glasovanju o prijedlozima i nadogradnji protokola.
 
-The relationship between the Meeds Association and Meeds DAO involves how they operate in the real world. Udruga Meeds tradicionalna je organizacija koja ima članove, upravni odbor i djeluje prema posebnim pravnim i regulatornim okvirima. U stvarnom svijetu, Udruga Meeds može se baviti aktivnostima poput organiziranja događaja, pružanja usluga i zagovaranja svojih članova. Također može imati fizički ured i članove osoblja. Meeds DAO, s druge strane, djeluje bez središnjeg autoriteta i donosi odluke putem konsenzusa svojih članova koristeći mehanizme glasovanja temeljene na blockchainu. Također se može uključiti u aktivnosti kao što su financiranje projekata, upravljanje imovinom i donošenje odluka putem pametnih ugovora.
+Odnos između asocijacije i DAO-a uključuje način na koji oni rade u stvarnom svijetu.
+
+Udruga Meeds je konvencionalna organizacija s članovima i upravnim odborom. Djeluje prema posebnim zakonskim i regulatornim okvirima. U praktičnom smislu, bavi se aktivnostima poput organiziranja događaja, pružanja usluga i zagovaranja članova, moguće održavanje fizičkog ureda s osobljem.
+
+Nasuprot tome, Meeds DAO funkcionira bez središnjeg autoriteta, donoseći odluke putem konsenzusa svojih članova koristeći mehanizme glasovanja temeljene na blockchainu. Također se može uključiti u aktivnosti kao što su financiranje projekata, upravljanje imovinom i izvršavanje odluka putem pametnih ugovora.
 
 WoM je izgrađen kao softver otvorenog koda ([github.com/meeds-io](https://github.com/meeds-io)) i hostiran od strane partnera koje je odabralo Meeds Association u ime Meeds DAO.
 
