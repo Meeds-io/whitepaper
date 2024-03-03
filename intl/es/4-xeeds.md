@@ -16,11 +16,11 @@ Sin embargo, las comunidades que lo necesitan pueden contratar a empresas extern
 
 En el mundo actual, es difícil demostrar una habilidad de antemano. Cuando las personas se anuncian en redes, dependen de la reputación social. Por lo general, un gestor o un par proporciona una recomendación. Requiere buena voluntad del pariente pero rara vez constituye una prueba definitiva para el futuro empleador.
 
-Los usuarios de sus centros comunitarios pueden ganar Insignias y Credenciales al participar. Les dejaremos almacenarlos también en una cartera o descargarlos como credenciales Verificables [^7][^8]. Tales credenciales son prueba del conocimiento/know-how certificado por la organización emisora.
+Users may earn Badges and Credentials when participating within their Community Hubs . Les dejaremos almacenarlos también en una cartera o descargarlos como credenciales Verificables [^7][^8]. Tales credenciales son prueba del conocimiento/know-how certificado por la organización emisora.
 
 Con esto, ofrecemos un medio transparente e inmutable para que las personas adquieran y demuestren sus capacidades.
 
-**Insignias** Insignias representan logros realizados dentro de una comunidad. Después de completar un conjunto de objetivos o desafíos, los usuarios ganan puntos. Pueden ganar insignias de reconocimiento a medida que acumulan puntos y alcanzan ciertos umbrales.
+**Insignias** Insignias representan logros realizados dentro de una comunidad. By completing work tasks, users earn points. Pueden ganar insignias de reconocimiento a medida que acumulan puntos y alcanzan ciertos umbrales.
 
 Las insignias se podrán representar como NFT o NTT (tokens no transferibles, también conocidos como tokens __Soulbound__) o descargables. Incluirán información divulgada selectivamente, como el nombre del Hub, el número de puntos. la categoría de trabajo, y la fecha de logro o el rango en la comunidad.
 
