@@ -1,113 +1,87 @@
-
-
 ## 概要
 
-今日の労働市場は取引コストが高いため効率性に欠けています\[^1\]\[^2\]<sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</5></sup> そして、雇用主と従業員の間の頻繁な利益相反。</p> 
+現在の労働市場は、取引コストが高く、雇用主と従業員間の利益相反が頻繁に発生しているため、非効率的です。 仕事に関連した活動を行うには費用と時間がかかる場合があり、労働者を雇う側と労働者自身の間に意見の相違や利害の対立が生じることがよくあります。
+
+World of Meeds(WoM)は、取引コストを削減し、作業関係を再構築することで、これらの問題に対処するための新しいパラダイムを提案しています。 これは、すべての当事者の利益を再調整する公平で透明なインセンティブ システムをもたらすことによって、従来の企業と新しい形態の組織の間のギャップを埋めるデジタル空間です。
+
+## はじめに
+
+労働市場の現在の状態は、労働者と雇用者<sup id="fnref:1"></sup></a></sup><sup id="fnref:2"><a href="#fn:2" class="footnote-ref">2</a></2><sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</a><sup id="fnref:1">1 の両方を満たすことができません。 </p> 
 
 <p spaces-before="0">
-  WoM (World of Meeds) は、取引コストを削減し、雇用関係を再発明して、従来の企業と DAO の間のギャップを埋める新しいパラダイムを提案しています。
+  雇用市場は特定の個人を支持する傾向があるため、労働者は適切な雇用機会を見つけることに困難に直面している。 人種、ジェンダー、障害、内向性などのさまざまな人間の偏見により、優れたスキルを身につけることができます
 </p>
 
 <p spaces-before="0">
-  WoM は、雇用主と従業員の両方にデジタル ID を導入し、両者の利益を一致させる革新的なエンゲージメント報酬システムを提供することでそれを実現します。
-</p>
-
-<h2 spaces-before="0">
-  はじめに
-</h2>
-
-<p spaces-before="0">
-  今の労働市場は壊れている。 従業員と雇用者の双方を満足させることができない。
+  さらに、募集中のポジションや雇用条件についても透明性が欠如しています。 一度雇用されると、労働者は仕事時間、職場、コンテンツ、方法をほとんど言わないことが多い。 さらに、透明性の欠如により、報酬ルールには公平性が欠如していると認識されています。 キャリアの進歩と補償は、即時のマネージャーの誠実さと客観性に依存し、信頼と協力の欠如につながります。
 </p>
 
 <p spaces-before="0">
-  従業員側では、適職を見つけるのが難しい。 雇用市場は特定のタイプの個人に有利に働き、優れたスキル セットを置き去りにしています。 これは、人種ベース、性別ベース、ハンディキャップベース、内向的ベースなど、一連の人間の偏見から来るものです。 また、労働市場では、募集職種や雇用条件について透明性に欠ける部分があります。
+  雇用主は、人材を確保し、適切なスキルを採用し、適切なタイミングで適切な仕事に就かせるという課題に直面しています。 従来の採用プールは、潜在的な貢献者のスキルを判断するための客観的な方法を提供しないことがよくあります。 高い離職率と貢献者の忠誠心の欠如も、採用と新人研修のコストを増加させる可能性があります。
 </p>
 
 <p spaces-before="0">
-  雇用されると、報酬と引き換えに従業員の個人的な自由が侵害される。 労働時間、職場、仕事内容、仕事のやり方について、社員はほとんど発言することができない。 そして、その報酬が本当の意味での価値とリンクしていることはほとんどないのです。 補償のルールは透明性に欠けるため、不公平だと思われている。 さらに、報酬やキャリアアップは、ヒューマンファクター、つまり従業員直属のマネージャーの誠意や客観性に左右されるものでもあるのです。
+  これらの問題は、高いトランザクションコストと、悪化したエージェント・プリンシパル問題<fnref target="4" /> に関連します。 インターネットとの統一性と透明性の向上に向けて雇用市場が進化しているにもかかわらず、客観性の要素がなければ取引コスト<fnref target="5" />を下げる必要があります。
 </p>
 
 <p spaces-before="0">
-  一方、雇用主は、人材を調達し、適切なスキルを持ち、仕事に適した人材を適切な時期に採用することに困難を感じています。 採用候補者のスキルを客観的に把握したり、雇用主の従来の採用プール以外の人材を調達したりする方法がないのです。
+  WoMは、従来の作業パラダイムで流行しているいくつかの問題に対処する、分散型作業に対する独自のアプローチを提供します。
 </p>
 
 <p spaces-before="0">
-  また、雇用主は従業員の忠誠心の欠如や高い離職率に悩まされ、いずれも雇用と入社時のコストを増加させます。
+  WoM は、透明性、客観性、分散化されたインセンティブ パラダイムを通じて、貢献者と雇用主の利益を持続的に調整します。 それは、階層を平坦化し、所有権を開放する方法を提案し、組織の運営と価値創造のための持続可能な方法を促進します。
 </p>
 
 <p spaces-before="0">
-  さらに、雇用主は既存の従業員のエンゲージメントの低さに直面し、創造性、生産性、イノベーションの低さにつながっています。 後者は、より熟練した創造的な仕事を必要とする今日の経済において、より大きなダメージを与える。
+  WoM は、仕事とスキルを客観的、迅速、そして世界的にマッチングすることで、雇用市場における透明性の欠如に対処し、優れたスキルセットが取り残されないようにすることを目指しています。
 </p>
 
 <p spaces-before="0">
-  上記のすべては、高い取引コストと悪化するエージェント-プリンシパルの問題に要約されます<fnref target="4" />:
-</p>
-
-<ul>
-  <li>
-    インターネットの普及により、求人サイトやキャリアサイトなど、求人市場はより統一され、透明性のあるものに進化しました。 しかし、客観性の要素がない場合、取引コストはまだ高すぎる。
-  </li>
-  <li>
-    エージェントとプリンシパルの問題に関しては、従業員と株主の間の収益と富のギャップの拡大、および雇用主と従業員の関係の硬直化によって、事態は悪化しています。
-  </li>
-</ul>
-
-<p spaces-before="0">
-  WoMは、この2つを新しい分散型ワークパラダイムによって解決することを目的としています。
+  WoMは、透明で客観的で、分散型のインセンティブパラダイムを導入することで、雇用者と従業員の関係を改革することを目指しています。 このモデルは、貢献者がより積極的に取り組み、創造的で生産的になるよう奨励し、イノベーションと生産性の向上につながります。
 </p>
 
 <p spaces-before="0">
-  R. Coase の著作<fnref target="5" />に続いて、ほとんどのエコノミストは、企業の概念を取引コストを軽減する必要性と関連付けています。 インターネット、そして最近ではブロックチェーンと web3 は、あらゆる場所でトランザクション コストを削減し、経済を再発明し、特に企業を再発明するというエキサイティングな可能性を開きます。 最初の DAO<fnref target="6" /> は、資金調達とガバナンスのための取引コストの削減に重点を置いて、このプロセスを開始しました。 WoMは、この論理をさらに推し進め、仕事の取引コストを下げることを目的としている。 仕事とスキルのマッチングを客観的かつ迅速に、そしてグローバルに行うことができる分散型の世界を提案しているのです。
+  従来の企業とDAO<fnref target="6" />のような新しい組織モデルの間のギャップを埋めることによって。 WoMは、すべての人にとって価値を創造し運営する持続可能な方法を提供します。 分散型ベンチャーとして、WoM はより多くの人々が使用するにつれて指数関数的に価値を高めます。 したがって、我々は、そのプロトコルを、長期的な関心を促進し、カルテライゼーションを避けるための組み込みメカニズムを備えた公共の利益として設計しました。
 </p>
 
 <p spaces-before="0">
-  最初のDAOは階層をフラット化し、所有権をオープン化する。 WoMは、この論理を追求するために、雇用者と被雇用者の関係を抑制するのではなく、むしろ再発明しているのです。 透明で客観的、かつ分散化された報酬体系を導入し、雇用者と従業員の利害を持続的に一致させるものです。
-</p>
-
-<p spaces-before="0">
-  最後に、WoM は企業と DAO の間の溝を埋めます。 最後に、Work Metaverse は、企業と DAO の間のギャップを埋めます。 一方で、DAO の運営と価値創造のための持続可能な方法を提案しています。 最終的に、WoM は、すべての企業とすべての従業員 (非デジタル企業を含む) に対してブロックチェーンの使用を民主化する最初のメインストリーム アプリケーションの 1 つになる可能性があります。
-</p>
-
-<p spaces-before="0">
-  他の分散型ベンチャーと同様、WoMの提案は、多くの人が使えば使うほど指数関数的に価値を増していきます。 そのため、創業者は長期的な関心を促進し、短期的または長期的に WoM の利益を独占しないように細心の注意を払いました。 それは、まだ構築されていないオープンなパラダイムであり、誰もが積極的に創造的な参加をすることに開かれているのです。
+  WoM パラダイムへの積極的かつ本物の参加を促進するには、多様な視点が尊重される包括的な環境を作り出すことが重要です。
 </p>
 
 <footnotes>
   <fn name="1" spaces-before="0">
     <p spaces-before="0">
-      Suzanne Young - <a href="https://www.academia.edu/24703426/Transaction_Cost_Economics">“Transaction Cost Economics”</a>
+      Suzanne Young - <a href="https://www.academia.edu/24703426/Transaction_Cost_Economics">"Transaction Cost Economics"</a>
     </p>
   </fn>
   
   <fn name="2" spaces-before="0">
     <p spaces-before="0">
-      Jan Drahokoupil, Agnieszka Piasna - <a href="https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html">“Work in the Platform Economy: Beyond Lower Transaction Costs”</a>
+      Jan Draho Koupil、Agnieszka Piasna - <a href="https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html">「プラットフォーム エコノミーでの取り組み: 取引コストの削減を超えて」</a>
     </p>
   </fn>
   
   <fn name="3" spaces-before="0">
     <p spaces-before="0">
-      Seth C. Oranburg, Liya Palagashvili - <a href="https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship">“Transaction Cost Economics, Labor Law and the Gig Economy”</a>
+      セス C. オランバーグ、リヤ パラガシビリ - <a href="https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship">「取引コスト経済学、労働法、ギグ エコノミー」</a>
     </p>
   </fn>
   
   <fn name="4" spaces-before="0">
     <p spaces-before="0">
-      Michael C. Jensen, William H. Meckling - <a href="https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf">“Theory of the Firm : Managerial Behavior, Agency Costs and Ownership Structure”</a>
+      マイケル C. ジェンセン、ウィリアム H. メックリング - <a href="https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf">「会社の理論: 経営行動、代理店コスト、所有構造」</a>
     </p>
   </fn>
   
   <fn name="5" spaces-before="0">
     <p spaces-before="0">
-      R. Coase - <a href="http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf">“The nature of the firm”</a>
+      R. Coase - <a href="http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf">"The nature of the firm"</a>
     </p>
   </fn>
   
   <fn name="6" spaces-before="0">
     <p spaces-before="0">
-      Aaron Wright - <a href="https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1">“The Rise of Decentralized Autonomous Organizations : Opportunities and Challenges”</a>
+      アーロン ライト - <a href="https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1">「分散型自律組織の台頭: 機会と課題」</a>
     </p>
   </fn>
 </footnotes>
-
