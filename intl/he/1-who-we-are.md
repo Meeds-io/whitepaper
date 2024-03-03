@@ -1,15 +1,19 @@
 
 # 1. עלינו
 
-Meeds is a collaborative effort led by diverse open-source software (OSS) communities dedicated to creating a decentralized digital world that resists centralized corporate control and promotes a free and open environment.
+Meeds הוא מאמץ שיתופי בראשות קהילות שונות של תוכנות קוד פתוח (OSS) המוקדשות ליצירת עולם דיגיטלי מבוזר המתנגד לשליטה ארגונית מרכזית ומקדם סביבה חופשית ופתוחה.
 
-The Meeds project uses the Ethereum ecosystem to implement the WoM protocols and manage the supply of the MEED token. This approach has helped prioritize security, accessibility, usability, and cost-effectiveness, making it attractive to a broad user base. However, the WoM is designed to be an autonomous and self-sufficient public good, aiming to become multichain.
+תוך שימוש במערכת האקולוגית של Ethereum, אנו מיישמים את פרוטוקולי WoM ומפקחים על אספקת אסימון MEED. אסטרטגיה זו אפשרה לנו לתעדף אבטחה, נגישות, שימושיות וחסכוניות, מה שהופך אותה למושכת לדמוגרפיה מגוונת של משתמשים. עם זאת, תכננו את ה-Wom כמוצר ציבורי אוטונומי ועצמאי עם שאיפות להתרחב על פני מספר רשתות.
 
-The legal entity behind Meeds is the _Meeds Association_, a non-profit organization registered under Swiss law in Geneva. It is responsible for regulating the issuance of MEED tokens and contracting with service providers.
+הישות המשפטית מאחורי Meeds היא _Meeds Association_, ארגון ללא מטרות רווח שהתאגד על פי החוק השוויצרי בז'נבה. היא אחראית להסדרת הנפקת אסימוני MEED ולהתקשרות עם ספקי שירותים.
 
-The Meeds Association intends to progressively hand over control of the Meeds protocol and treasuries to the _Meeds DAO_, which is the decentralized autonomous organization that represents the decentralized governance arm of the Meeds ecosystem, empowering the community to participate in decision-making, proposal voting, and protocol upgrades.
+עמותת Meeds מתכוונת להעביר בהדרגה את השליטה בפרוטוקול Meeds ובאוצר ל_Meeds DAO_. ארגון אוטונומי מבוזר זה מייצג את זרוע הממשל המבוזרת של המערכת האקולוגית, ומעצים את הקהילה להשתתף בקבלת החלטות, בהצבעת הצעות ובשדרוגי פרוטוקולים.
 
-The relationship between the Meeds Association and Meeds DAO involves how they operate in the real world. Meeds Association is a traditional organization that have members, a board of directors, and operates under specific legal and regulatory frameworks. In the real world, Meeds Association may engage in activities such as organizing events, providing services, and advocating for its members. It may also have a physical office and staff members. Meeds DAO, on the other hand, operates without a central authority and make decisions through consensus of its members using blockchain-based voting mechanisms. It may also engage in activities such as funding projects, managing assets, and making decisions through smart contracts.
+מערכת היחסים בין העמותה ל-DAO כוללת את האופן שבו הם פועלים בעולם האמיתי.
+
+עמותת מידס היא ארגון קונבנציונלי עם חברים ומועצת מנהלים. היא פועלת תחת מסגרות משפטיות ורגולטוריות ספציפיות. מבחינה מעשית, היא עוסקת בפעילויות כמו ארגון אירועים, מתן שירותים והסברה לחברים, אולי שמירה על משרד פיזי עם צוות.
+
+לעומת זאת, ה-Meeds DAO מתפקד ללא סמכות מרכזית, ומקבל החלטות באמצעות קונצנזוס של חבריו באמצעות מנגנוני הצבעה מבוססי בלוקצ'יין. היא עשויה גם לעסוק בפעילויות כגון מימון פרויקטים, ניהול נכסים וביצוע החלטות באמצעות חוזים חכמים.
 
 ה-Wom בנוי כתוכנת קוד פתוח (0>github.com/meeds-io/0>) ומתארח על ידי שותפים שנבחרו על ידי עמותת Meeds מטעם ה-Meeds DAO.
 
