@@ -1,14 +1,16 @@
 ---
-title: Meeds DAO - 미드의 세계
-date: 2023년 11월 22일 - 버전 2.0.0-알파
+title: 미드의 세계
+subtitle: 미래의 일을 위한 분산형 플랫폼
+author: 미즈 다오
+date: 2024-02-14-버전 2.0.0-알파 2
 toc-title: 목차
 language: ko
 toc-own-page: true
 titlepage: true
-titlepage-text-color: "000000" ## black
-titlepage-rule-color: "3F8487" ## deep green
-titlepage-color: "FFFFFF"
-titlepage-logo: img/meeds-logo-text-pink.jpg
+titlepage-text-color: "에프에프에프에프에프" ## black
+titlepage-rule-color: "F97575" ## deep green
+titlepage-color: "3F8487"
+titlepage-logo: "img/meeds-로고-transparent.png"
 papersize: letter
 colorlinks: true
 book: true
@@ -18,5 +20,3 @@ classoption: oneside
 mainfont: "Source Sans Pro"
 sansfont: "Source Sans Pro"
 CJKmainfont: "Noto Sans KR"
-
-...
