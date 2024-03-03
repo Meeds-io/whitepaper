@@ -1,12 +1,19 @@
 
 # 1. Over ons
 
-Meeds is een gezamenlijke inspanning onder leiding van diverse Open Source Software (OSS) gemeenschappen. die gewijd is aan het creëren van een gedecentraliseerde digitale wereld die zich verzet tegen gecentraliseerde bedrijfscontrole en een vrije en open omgeving bevordert.
+Meeds is een coöperatieve inspanning onder leiding van verschillende open-source software (OSS) gemeenschappen die zich bezighouden met het creëren van een gedecentraliseerde digitale wereld die zich verzet tegen gecentraliseerde bedrijfscontrole en een vrije en open omgeving bevordert.
 
-De juridische entiteit achter Meeds is de _Meeds Association_, een non-profitorganisatie die is opgenomen in de Zwitserse wetgeving in Genève. Zij is verantwoordelijk voor het reguleren van de uitgifte van het Meeds(MEED) token, een ERC20-token dat erkend wordt als een gebruikstoken.
+Met het gebruik van het Ethereum-ecosysteem implementeren we de WoM-protocollen en houden we toezicht op het aanbod van het MEED-token. Deze strategie heeft ons in staat gesteld prioriteit te geven aan veiligheid, toegankelijkheid, bruikbaarheid en kosteneffectiviteit, en maakt het aantrekkelijk voor een diverse gebruikersdemografie. Toch hebben we de WoM ontworpen als een autonoom en zelfvoorzienend goed met ambities om over meerdere ketens uit te breiden.
 
-Werken als een gedecentraliseerde autonome organisatie (DAO) legt de nadruk op democratisch bestuur, waarbij tokenhouders met governance participeren in belangrijke besluitvorming, zoals jaarlijkse verkiezingen voor de bestuursraad, die zorgen voor transparantie en betrokkenheid van de gemeenschap bij organisatorische veranderingen.
+De juridische entiteit achter Meeds is de _Meeds Association_, een non-profitorganisatie geregistreerd onder het Zwitserse recht in Genève. Het is verantwoordelijk voor het reguleren van de uitgifte van MEED-tokens en het sluiten van contracten met dienstverleners.
 
-Het Meeds project maakt gebruik van het Ethereum-ecosysteem om de World of Meeds (WoM) en de Meeds token te implementeren. Deze aanpak geeft prioriteit aan veiligheid, toegankelijkheid, gebruiksvriendelijkheid en kosteneffectiviteit, waardoor het aantrekkelijk is voor een brede gebruikersbasis.
+De Meeds Association is van plan om de controle over het Meeds Protocol en de schatkisten geleidelijk over te dragen aan de _Meeds DAO_. Deze gedecentraliseerde autonome organisatie vertegenwoordigt de gedecentraliseerde governance-arm van het ecosysteem, die de gemeenschap in staat stelt deel te nemen aan de besluitvorming, het stemmen van voorstellen en het verbeteren van het protocol.
 
-Meeds is een Open Source Software ([github.com/meeds-io](https://github.com/meeds-io)) opereert in de cloud infrastructuur door hosting partners van de Meeds Association.
+De relatie tussen de associatie en de DAO houdt in hoe ze in de echte wereld functioneren.
+
+De Vereniging voor Meeds is een conventionele organisatie met leden en een raad van bestuur. Het functioneert binnen specifieke wettelijke en regelgevingskaders. Concreet gezien ontplooit het zich activiteiten zoals het organiseren van evenementen, het aanbieden van diensten en het bepleiten van leden, mogelijk door een fysieke functie te behouden met personeel.
+
+Daarentegen functioneren de Meeds DAO zonder centrale autoriteit en nemen via de consensus van haar leden besluiten met behulp van op blockchain gebaseerde stemmechanismen. Het kan ook activiteiten ontplooien zoals financieringsprojecten, het beheer van activa en het uitvoeren van besluiten via slimme contracten.
+
+De WoM is gebouwd als open-source software ([github.com/meeds-io](https://github.com/meeds-io)) en wordt gehost door partners die zijn geselecteerd door de Meeds Association namens de Meeds DAO.
+

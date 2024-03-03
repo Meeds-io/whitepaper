@@ -1,14 +1,16 @@
 ---
-title: Meeds DAO - De Wereld van Meeds
-date: 22 Nov, 2023 - Versie 2.0.0
+title: De wereld van Meeds
+subtitle: een gedecentraliseerd platform voor de toekomst van het werk
+author: Meest DAO
+date: 2024-02-14 - Versie 2.0.0-alpha2
 toc-title: Inhoudsopgave
 language: nl
 toc-own-page: true
 titlepage: true
-titlepage-text-color: "000000" ## black
-titlepage-rule-color: "3F8487" ## deep green
-titlepage-color: "FFFFFF"
-titlepage-logo: img/meeds-logo-text-pink.jpg
+titlepage-text-color: "FFFFFF" ## black
+titlepage-rule-color: "F97575" ## deep green
+titlepage-color: "3F8487"
+titlepage-logo: "tekens/logo-transparent.png"
 papersize: letter
 colorlinks: true
 book: true
@@ -18,5 +20,3 @@ classoption: oneside
 mainfont: "Source Sans Pro"
 sansfont: "Source Sans Pro"
 CJKmainfont: "Heiti TC"
-
-...
