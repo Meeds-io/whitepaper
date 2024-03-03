@@ -1,14 +1,16 @@
 ---
-title: Meeds DAO - העולם של Meeds
-date: 22 בנובמבר 2023 - גרסה 2.0.0-אלפא
+title: עולם מידס
+subtitle: פלטפורמה מבוזרת לעתיד העבודה
+author: Meeds DAO
+date: 2024-02-14 - גרסה 2.0.0-alpha2
 toc-title: תוכן העניינים
 language: he
 toc-own-page: true
 titlepage: true
-titlepage-text-color: "000000" ## black
-titlepage-rule-color: "3F8487" ## deep green
-titlepage-color: "FFFFFF"
-titlepage-logo: img/meeds-logo-text-pink.jpg
+titlepage-text-color: "FFFFFF" ## black
+titlepage-rule-color: "F97575" ## deep green
+titlepage-color: "3F8487"
+titlepage-logo: "img/meeds-logo-transparent.png"
 papersize: letter
 colorlinks: true
 book: true
@@ -18,5 +20,3 @@ classoption: oneside
 mainfont: "Heebo"
 sansfont: "Heebo"
 CJKmainfont: "Heiti TC"
-
-...
