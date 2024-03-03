@@ -1,47 +1,37 @@
-
-
 ## Abstraktus
 
-Šiandieninė darbo rinka nėra pakankamai veiksminga dėl didelių sandorių sąnaudų[^1][^2][^3] ir dažnų darbdavio ir darbuotojo interesų konfliktų.
+Dabartinė darboa yra neefektyvi dėl galimų sandorių kaštų ir dažnių interesų konfliktų tarp darbdavių ir darbuotojų. Vykdyti su darbu susijusią veiklą gali būti brangu ir atimti daug laiko, o tarp samdančių darbuotojus ir pačių darbuotojų dažnai kyla nesutarimų arba konkuruoja interesai.
 
-WoM (World of Meeds) siūlo naują paradigmą, kuri sumažintų sandorių išlaidas ir iš naujo išrastų darbo santykius, taip sumažinant atotrūkį tarp tradicinių korporacijų ir DAO.
-
-WoM tai daro įvesdama skaitmenines darbdavio ir darbuotojo tapatybes ir siūlydama novatorišką atlygio už įsitraukimą sistemą, kuri suderintų jų interesus.
+The World of Meeds (WoM) proposes a new paradigm to address these issues by reducing transaction costs and reinventing working relationships. Tai skaitmeninė erdvė, sujungianti atotrūkį tarp tradicinių įmonių ir naujų organizavimo formų, sukurdama sąžiningą ir skaidrią skatinimo sistemą, suderinančią visų šalių interesus.
 
 ## Įvadas
 
-Šiandieninė darbo rinka yra sugedusi. Ji netenkina nei darbuotojų, nei darbdavių.
+Dabartinė darbo rinkos padėtis netenkina nei darbuotojų, nei darbdavių[^1][^2][^3].
 
-Darbuotojams sunku rasti tinkamą darbą. Darbo rinkoje pirmenybė teikiama tam tikriems asmenims, o puikūs įgūdžiai lieka nuošalyje. Taip yra dėl tam tikrų žmogiškųjų šališkumų - rasinių, lytinių, neįgaliųjų, intravertų ir kt. Be to, darbo rinkoje trūksta skaidrumo, susijusio su laisvomis darbo vietomis ir įdarbinimo sąlygomis.
+Darbuotojai susiduria su sunkumais ieškant tinkamų darbo galimybių, nes darbo rinka linkusi teikti pirmenybę konkretiems asmenims, paliekant didelius įgūdžių rinkinius dėl įvairių žmonių šališkumo, pavyzdžiui, rasės, lyties, negalios, uždarumo ir kt.
 
-Įsidarbinus už atlygį pažeidžiamos darbuotojo asmeninės laisvės. Darbuotojai turi mažai įtakos savo darbo laikui, darbo vietai, darbo turiniui ar darbo metodams. Ir jų atlygis retai susietas su jų realiu poveikiu ar verte. Kompensavimo taisyklėms trūksta skaidrumo, todėl jos suvokiamos kaip nesąžiningos. Be to, atlyginimas ir karjeros raida taip pat priklauso nuo žmogiškojo veiksnio - darbuotojo tiesioginio vadovo geranoriškumo ir objektyvumo.
+Be to, trūksta skaidrumo apie turimas pareigas ir įdarbinimo sąlygas. Įsidarbinę darbuotojai dažnai turi mažai įtakos savo darbo valandoms, darbo vietai, turiniui ar metodams. Be to, dėl skaidrumo stokos pastebimas kompensavimo taisyklių teisingumo trūkumas. Karjeros pažanga ir atlyginimas priklauso nuo tiesioginio vadovo sąžiningumo ir objektyvumo, todėl nepasitikėjimas ir bendradarbiavimo trūkumas.
 
-Kita vertus, darbdaviai susiduria su sunkumais ieškodami talentų ir įdarbindami tinkamų įgūdžių bei tinkamų darbuotojų tinkamu laiku. Nėra objektyvaus būdo įsitikinti potencialaus darbuotojo įgūdžiais arba rasti žmonių už darbdavio tradicinio įdarbinimo sąrašo ribų.
+Darbdaviai susiduria su iššūkiais ieškodami talentų, įdarbindami tinkamus įgūdžius ir pritaikydami juos tinkamam darbui tinkamu laiku. Tradicinis samdymas dažnai nesuteikia objektyvaus būdo nustatyti potencialaus įnašo dalyvio įgūdžius. Didelė apyvarta ir paramos teikėjo lojalumo trūkumas taip pat gali padidinti įdarbinimo ir įdarbinimo išlaidas.
 
-Darbdaviai taip pat susiduria su darbuotojų lojalumo stoka ir didele darbuotojų kaita, o tai didina įdarbinimo ir įdarbinimo išlaidas.
+Šios problemos yra susijusios su didelėmis operacijų išlaidomis ir pablogėjusia tarpininko ir pagrindinio atstovo problema[^4]. Nepaisant darbo rinkų evoliucijos link didesnės vienybės ir skaidrumo su internetu, sandorių sąnaudas[^5] vis tiek reikia sumažinti be objektyvumo elemento.
 
-Be to, darbdaviai taip pat susiduria su mažu esamų darbuotojų įsitraukimu, dėl kurio mažėja kūrybiškumas, našumas ir inovacijos. Pastarasis veiksnys daro dar didesnę žalą šiuolaikinėje ekonomikoje, reikalaujančioje daugiau kvalifikuoto kūrybinio darbo.
+WoM siūlo unikalų požiūrį į decentralizuotą darbą, sprendžiant keletą problemų, paplitusių tradicinėse darbo paradigmose.
 
-Visa tai lemia dideles sandorių sąnaudas ir paaštrėjusią agento ir užsakovo problemą[^4] :
+Per savo skaidrią, objektyvią ir decentralizuotą paskatų paradigmą WoM tvariai suderina įnašų teikėjų ir darbdavių interesus. Jame siūlomi būdai, kaip sulyginti hierarchijas ir atverti nuosavybę, skatinant tvarius veiklos būdus ir kurti vertę organizacijoms.
 
-- Naudojantis internetu, darbo rinkos tapo vieningesnės ir skaidresnės dėl darbo skelbimų svetainių, karjeros svetainių ir kt. Tačiau sandorių sąnaudos vis dar per didelės, nes nėra objektyvumo elemento.
-- Kalbant apie agento ir pagrindinio asmens problemą, ją dar labiau apsunkino didėjantis pajamų ir turto atotrūkis tarp darbuotojų ir akcininkų bei darbdavio ir darbuotojo santykių nelankstumas.
+Objektyviai, greitai ir pasauliniu mastu derinant darbus ir įgūdžius, WoM siekiama išspręsti skaidrumo trūkumą darbo rinkoje ir užtikrinti, kad nebūtų palikti puikūs įgūdžių rinkiniai.
 
-WoM siekiama išspręsti abi šias problemas pasitelkiant naują decentralizuotą darbo paradigmą.
+WoM siekiama iš naujo sukurti darbdavio ir darbuotojo santykius, įdiegiant skaidrią, objektyvią, decentralizuotą skatinimo paradigmą. Šis modelis skatina bendradarbius būti labiau įsitraukusiems, kūrybiškesniems ir produktyvesniems, o tai lemia didesnes naujoves ir produktyvumą.
 
-Remiantis R. Coase'o darbais[^5], dauguma ekonomistų įmonės sąvoką sieja su būtinybe mažinti sandorių sąnaudas. Internetas, o pastaruoju metu - blokų grandinė ir žiniatinklis3 atveria įdomių galimybių mažinti sandorių sąnaudas visur, iš naujo išrasti ekonomiką ir ypač įmones. Pirmieji DAO[^6] pradėjo šį procesą sutelkdami dėmesį į sandorių sąnaudų mažinimą, susijusį su kapitalo paieška ir valdymu. WoM siekia šią logiką pastūmėti toliau, mažindama darbo sandorių sąnaudas. Jame siūlomas decentralizuotas pasaulis, kuriame darbo vietų ir įgūdžių atitikimas galėtų būti atliekamas objektyviai, greitai ir pasauliniu mastu.
+Sumažinant atotrūkį tarp tradicinių korporacijų ir naujesnių organizacinių modelių, tokių kaip DAO[^6], WoM suteikia tvarių būdų veikti ir kurti vertę visiems. Kaip decentralizuota įmonė, WoM įgyja eksponentiškai vertę, nes juo naudojasi vis daugiau žmonių. Todėl mes sukūrėme jo protokolą kaip viešąją gėrybę su integruotais mechanizmais, skatinančiais ilgalaikį susidomėjimą ir išvengti kartelių.
 
-Pirmosios DAO išlygina hierarchijas ir atveria nuosavybę. WoM šios logikos laikosi iš naujo išrasdama, o ne slopindama darbdavio ir darbuotojo santykius. Ji diegia skaidrią, objektyvią ir decentralizuotą atlygio paradigmą, kuri tvariai suderintų darbdavio ir darbuotojo interesus.
-
-Galiausiai WoM užpildo atotrūkį tarp korporacijų ir DAO. Viena vertus, ji įveda tradicines korporacijas į decentralizuotą pasaulį per lengvai pritaikomą atlygio už įsitraukimą paradigmą, kuri papildo jų atlygio sistemas. Kita vertus, ji siūlo tvarius DAO veiklos ir vertės kūrimo būdus. Galiausiai, WoM gali būti viena pirmųjų pagrindinių programų, demokratizuojančių blokų grandinės naudojimą kiekvienai įmonei ir kiekvienam darbuotojui - įskaitant ir tuos, kurie nėra skaitmeniniai.
-
-Kaip ir bet kurio decentralizuoto projekto atveju, WoM pasiūlymo vertė didėja eksponentiškai, kai juo naudojasi daugiau žmonių. Dėl šios priežasties steigėjai labai stengėsi skatinti ilgalaikį susidomėjimą ir vengti WoM naudos monopolizavimo, nesvarbu, ar tai būtų trumpalaikė, ar ilgalaikė nauda. Tai yra atvira paradigma, kurią dar reikia sukurti ir kurioje gali aktyviai kūrybiškai dalyvauti visi.
+Siekiant skatinti aktyvų, autentišką dalyvavimą WoM paradigmoje, labai svarbu sukurti įtraukią aplinką, kurioje būtų vertinamos įvairios perspektyvos.
 
 
-[^1]: Suzanne Young - [“Transaction Cost Economics”](https://www.academia.edu/24703426/Transaction_Cost_Economics)
-[^2]: Jan Drahokoupil, Agnieszka Piasna - [“Work in the Platform Economy: Beyond Lower Transaction Costs”](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
-[^3]: Seth C. Oranburg, Liya Palagashvili - [“Transaction Cost Economics, Labor Law and the Gig Economy”](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship)
-[^4]: Michael C. Jensen, William H. Meckling - [“Theory of the Firm : Managerial Behavior, Agency Costs and Ownership Structure”](https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf)
-[^5]: R. Coase - [“The nature of the firm”](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
-[^6]: Aaron Wright - [“The Rise of Decentralized Autonomous Organizations : Opportunities and Challenges”](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)
-
+[^1]: Suzanne Young – ["Sandorio išlaidų ekonomika"](https://www.academia.edu/24703426/Transaction_Cost_Economics)
+[^2]: Jan Drahokoupil, Agnieszka Piasna – ["Darbas platformos ekonomikoje: ne tik mažesnės operacijos išlaidos"](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
+[^3]: Sethas C. Oranburgas, Liya Palagashvili – ["Sandorio sąnaudų ekonomika, darbo teisė ir koncertų ekonomika"](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship)
+[^4]: Michaelas C. Jensenas, Williamas H. Mecklingas – [„Firmos teorija: vadovų elgesys, agentūros kaštai ir nuosavybės struktūra“](https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf)
+[^5]: R. Coase – [„Firmos prigimtis“](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
+[^6]: Aaronas Wrightas – [„Decentralizuotų autonominių organizacijų atsiradimas: galimybės ir iššūkiai“](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)
