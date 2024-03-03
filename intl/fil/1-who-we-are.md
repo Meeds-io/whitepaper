@@ -1,15 +1,19 @@
 
 # 1. Tungkol sa atin
 
-Ang Meeds ay isang collaborative na pagsisikap na pinamumunuan ng magkakaibang mga Open Source Software (OSS) na komunidad, na nakatuon sa paglikha ng isang desentralisadong digital na mundo na lumalaban sa sentralisadong kontrol ng korporasyon at nagtataguyod ng libre at bukas na kapaligiran.
+Ang Meeds ay isang kooperatibong pagsisikap na pinangungunahan ng iba't ibang komunidad ng open-source software (OSS) na nakatuon sa paglikha ng isang desentralisadong digital na mundo na lumalaban sa sentralisadong kontrol ng korporasyon at nagtataguyod ng isang malaya at bukas na kapaligiran.
 
-The Meeds project uses the Ethereum ecosystem to implement the WoM protocols and manage the supply of the MEED token. This approach has helped prioritize security, accessibility, usability, and cost-effectiveness, making it attractive to a broad user base. However, the WoM is designed to be an autonomous and self-sufficient public good, aiming to become multichain.
+Gamit ang Ethereum ecosystem, ipinapatupad namin ang mga protocol ng WoM at pinangangasiwaan ang supply ng MEED token. Ang diskarteng ito ay nagbigay-daan sa amin na unahin ang seguridad, pagiging naa-access, kakayahang magamit, at pagiging epektibo sa gastos, na ginagawa itong kaakit-akit sa isang magkakaibang demograpiko ng user. Gayunpaman, idinisenyo namin ang WoM bilang isang autonomous at self-sufficient public good na may mga adhikain na palawakin sa maraming chain.
 
 Ang legal na entity sa likod ng Meeds ay ang _Meeds Association_, isang non-profit na organisasyon na isinama sa ilalim ng batas ng Switzerland sa Geneva. Responsibilidad nito ang pag-regulate ng pag-iisyu ng mga token ng MEED at pakikipagkontrata sa mga service provider.
 
-The Meeds Association intends to progressively hand over control of the Meeds protocol and treasuries to the _Meeds DAO_, which is the decentralized autonomous organization that represents the decentralized governance arm of the Meeds ecosystem, empowering the community to participate in decision-making, proposal voting, and protocol upgrades.
+Nilalayon ng Meeds Association na unti-unting ibigay ang kontrol sa Meeds protocol at treasuries sa _Meeds DAO_. Ang desentralisadong autonomous na organisasyong ito ay kumakatawan sa desentralisadong sangay ng pamamahala ng ecosystem, na nagbibigay ng kapangyarihan sa komunidad na lumahok sa paggawa ng desisyon, pagboto ng panukala, at mga pag-upgrade sa protocol.
 
-The relationship between the Meeds Association and Meeds DAO involves how they operate in the real world. Meeds Association is a traditional organization that have members, a board of directors, and operates under specific legal and regulatory frameworks. Sa totoong mundo, ang Meeds Association ay maaaring makisali sa mga aktibidad tulad ng pag-aayos ng mga kaganapan, pagbibigay ng mga serbisyo, at pagtataguyod para sa mga miyembro nito. It may also have a physical office and staff members. Meeds DAO, on the other hand, operates without a central authority and make decisions through consensus of its members using blockchain-based voting mechanisms. It may also engage in activities such as funding projects, managing assets, and making decisions through smart contracts.
+Ang relasyon sa pagitan ng asosasyon at ng DAO ay may kinalaman sa kung paano sila gumagana sa tunay na mundo.
+
+Ang Meeds Association ay isang tradisyonal na organisasyon na may mga miyembro at isang lupon ng mga direktor. Gumagana ito sa ilalim ng mga partikular na legal at regulasyong balangkas. Sa praktikal na mga termino, nakikibahagi ito sa mga aktibidad tulad ng pag-aayos ng mga kaganapan, pagbibigay ng mga serbisyo, at pagtataguyod para sa mga miyembro, posibleng pagpapanatili ng isang pisikal na opisina kasama ng mga kawani.
+
+Sa kabaligtaran, gumagana ang Meeds DAO nang walang sentral na awtoridad, na gumagawa ng mga desisyon sa pamamagitan ng pinagkasunduan ng mga miyembro nito gamit ang mga mekanismo ng pagboto na nakabatay sa blockchain. Maaari rin itong makisali sa mga aktibidad tulad ng pagpopondo ng mga proyekto, pamamahala ng mga asset, at pagsasagawa ng mga desisyon sa pamamagitan ng mga matalinong kontrata.
 
 Ang WoM ay binuo bilang open-source software ([github.com/meeds-io](https://github.com/meeds-io)) at hino-host ng mga partner na pinili ng Meeds Association sa ngalan ng Meeds DAO.
 
