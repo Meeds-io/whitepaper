@@ -1,12 +1,19 @@
 
 # 1. Tentang kita
 
-Meeds ialah usaha kolaboratif yang diketuai oleh komuniti Perisian Sumber Terbuka (OSS) yang pelbagai, khusus untuk mewujudkan dunia digital terpencar yang menentang kawalan korporat berpusat dan memupuk persekitaran yang bebas dan terbuka.
+Meeds ialah usaha kerjasama yang diketuai oleh pelbagai komuniti perisian sumber terbuka (OSS) yang berdedikasi untuk mewujudkan dunia digital terpencar yang menentang kawalan korporat berpusat dan menggalakkan persekitaran yang bebas dan terbuka.
 
-Entiti undang-undang di sebalik Meeds ialah _Persatuan Meeds_, sebuah organisasi bukan untung yang diperbadankan di bawah undang-undang Switzerland di Geneva. Persatuan ini mengawal penerbitan mata wang Meeds, token ERC20, yang diiktiraf sebagai token utiliti.
+Dengan menggunakan ekosistem Ethereum, kami melaksanakan protokol WoM dan mengawasi bekalan token MEED. Strategi ini telah membolehkan kami mengutamakan keselamatan, kebolehcapaian, kebolehgunaan dan keberkesanan kos, menjadikannya menarik kepada demografi pengguna yang pelbagai. Strategi ini telah membolehkan kami mengutamakan keselamatan, kebolehcapaian, kebolehgunaan dan keberkesanan kos, menjadikannya menarik kepada demografi pengguna yang pelbagai.
 
-Berfungsi sebagai Pertubuhan Autonomi Terdesentralisasi (DAO), Meeds menekankan pada tadbir urus demokratik, di mana pemegang token dengan hak tadbir urus mengambil bahagian dalam membuat keputusan penting, seperti pemilihan lembaga tahunan, memastikan ketelusan dan penglibatan komuniti dalam perubahan organisasi.
+Entiti undang-undang di belakang Meeds adalah _Meeds Association_, sebuah organisasi bukan keuntungan yang didaftarkan di bawah undang-undang Switzerland di Geneva. Ia bertanggungjawab untuk mengawal selia pengeluaran token MEED dan kontrak dengan penyedia perkhidmatan.
 
-Projek Meeds menggunakan ekosistem Ethereum untuk melaksanakan World of Meeds (WoM) dan token Meeds. Pendekatan ini mengutamakan keselamatan, kebolehcapaian, kemesraan pengguna dan keberkesanan kos, menjadikannya menarik kepada pangkalan pengguna yang luas.
+Persatuan Meeds berhasrat untuk menyerahkan kawalan protokol dan perbendaharaan Meeds secara progresif kepada _DAO Meeds_. Organisasi autonomi terdesentralisasi ini mewakili cabang tadbir urus terdesentralisasi ekosistem, memperkasakan komuniti untuk mengambil bahagian dalam membuat keputusan, pengundian cadangan dan peningkatan protokol.
 
-Meeds ialah Perisian Sumber Terbuka ([github.com/meeds-io](https://github.com/meeds-io)) yang dikendalikan dalam infrastruktur awan dengan mengehos rakan kongsi Persatuan Meeds.
+Hubungan antara persatuan dan DAO melibatkan cara mereka beroperasi di dunia nyata.
+
+Persatuan Meeds ialah organisasi konvensional dengan ahli dan lembaga pengarah. Ia beroperasi di bawah rangka kerja undang-undang dan kawal selia tertentu. Dari segi praktikal, ia terlibat dalam aktiviti seperti menganjurkan acara, menyediakan perkhidmatan, dan menyokong ahli, mungkin mengekalkan pejabat fizikal dengan kakitangan.
+
+Sebaliknya, DAO Meeds berfungsi tanpa pihak berkuasa pusat, membuat keputusan melalui konsensus ahlinya menggunakan mekanisme pengundian berasaskan blokchain. Ia juga mungkin terlibat dalam aktiviti seperti membiayai projek, mengurus aset dan melaksanakan keputusan melalui kontrak pintar.
+
+WoM dibina sebagai perisian sumber terbuka (github.com/meeds-io < / 0>) dan dihoskan oleh rakan kongsi yang dipilih oleh Persatuan Meeds bagi pihak MEEDS DAO.</p>
+
