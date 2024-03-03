@@ -1,14 +1,16 @@
 ---
-title: Medidas DAO - O Mundo de Medidas
-date: Nov 22nd, 2023 - Versão 2.0.0-alpha
+title: O Mundo de Medidas
+subtitle: uma plataforma descentralizada para o futuro do trabalho
+author: Mede DAO
+date: 2024-02-14 - Versão 2.0.0-alpha2
 toc-title: Tabela de conteúdos
 language: en-US
 toc-own-page: true
 titlepage: true
-titlepage-text-color: "000000" ## black
-titlepage-rule-color: "3F8487" ## deep green
-titlepage-color: "FFFFFF"
-titlepage-logo: img/meeds-logo-text-pink.jpg
+titlepage-text-color: "FFFFFF" ## black
+titlepage-rule-color: "F97575" ## deep green
+titlepage-color: "3F8487"
+titlepage-logo: "img/meeds-logo-transparente.png"
 papersize: letter
 colorlinks: true
 book: true
@@ -18,5 +20,3 @@ classoption: oneside
 mainfont: "Source Sans Pro"
 sansfont: "Source Sans Pro"
 CJKmainfont: "Heiti TC"
-
-...
