@@ -59,7 +59,7 @@
 
 **إثراء متجر Perks Store** يمكن للمنظمات أن تصمم المتجر بأذونات مخصصة، بما في ذلك الدورات التدريبية والعضوية في الألعاب الرياضية، وإنشاء دورة من المكافآت والمشاركة تعزز ذاتيا. ويزيد هذا المتجر الداخلي من حفز المساهمين ويشجع على إقامة صلة أعمق بالنظام الإيكولوجي للمنظمة.
 
-**المشاركة والمكافآت** المشاركة النشطة تساهم في درجة المشاركة العالمية للمنظمة. ويعكس هذا المقياس فعالية استراتيجيات المشاركة، مع مراعاة عوامل مثل مستويات نشاط المستعملين والتوزيع العادل للعمل والمكافآت. هذه النتيجة التي يمكن مراجعتها علنا تخول المحاور لتوزيع عملات MEED المعدة من البروتوكول، (أ) أن تكون بمثابة مقياس لفعالية استراتيجياتها الخاصة بالمشاركة.
+**Engagement and Rewards** Active participation contributes to the community's engagement score. ويعكس هذا المقياس فعالية استراتيجيات المشاركة، مع مراعاة عوامل مثل مستويات نشاط المستعملين والتوزيع العادل للعمل والمكافآت. This publicly auditable score gives Hubs the right to earn MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
 
 وتهدف المحاور إلى أن تصبح مركزية في الحياة المجتمعية، وتتكامل الاتصالات الداخلية، والتفاعلات في الوقت الحقيقي، والحوكمة، ومختلف أدوات الإنتاجية. وستكفل هذه التحسينات أن تظل مترابطة مع أفضل الأدوات التي تستخدمها المنظمات. وهي شهادة قوية على التزام منظمة Meeds بتعزيز مجتمع نشط ومشارك.
 
@@ -107,7 +107,7 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 وبالإضافة إلى ذلك، توجد تعزيزات لما يلي:
 
-- المنظمات ذات أعلى المشاركة، بغض النظر عن حجمها (معدل المشاركة مقارنة بمتوسط WM)
+- communities with the highest engagement, regardless of their size (engagement rate compared to the WoM average)
 - الأفعال النادرة
 
 وستتطور هذه الصيغة وستضبط بحيث تحقق الحد الأمثل من الآثار المترتبة على الصفقات والتجاوزات. وبالإضافة إلى ذلك، سينفذ البروتوكول أيضا عمليات روتينية متقطعة لاستبعاد الأطراف السيئة.
@@ -118,11 +118,15 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 
 ## 2.7. المدن
 
-وفي عالم الحب، تكون السندات أشبه بالممتلكات العقارية داخل المدن الافتراضية حيث يمكن للمجتمعات المحلية أن تستوطن.
+The World of Meeds is a virtual world where people can buy Deeds, similar to real estate properties in virtual Cities. The Deeds are only available in limited quantities within a City and can exist only if someone redeems them with the minting points they accumulate by staking.
 
-وهي تأتي بكميات محدودة ولا يمكن أن توجد إلا عندما يستردها شخص ما بنقطة التعدين التي تراكمها عن طريق الركض.
+**The 7 Cities of the WoM**
 
-سيكون لدى المرأة**7 ** مراحل متتالية من سك العملات التي نسميها __ المدن__. عندما يقوم البروتوكول بتعدين آخر صك في المدينة، فإنه يتوقف عن الدفع بـ 2^n$ قبل أشهر من السماح بتعدين $n^th$ المدينة.
+In the World of Meeds, there will be 7 cities.
+
+As more people mint Deed NFTs, the Cities of the WoM are constructed progressively by following a predetermined scheme that represents the successive phases of the evolution of the WoM.
+
+When someone mints the last Deed of a City, the protocol enforces a pause of $2^n$ months before allowing the minting of the $n^th$ City.
 
 | **اسم المدينة الرقمية** | **الأفعال** | **متاح**         | **شائع**   | **غير شائع** | **استثنائي** | **خرافي** |
 | ----------------------- | ----------- | ---------------- | ---------- | ------------ | ------------ | --------- |
@@ -134,11 +138,16 @@ $$S = (E_d / E_w) * D_r * D_s * M$$
 | 6: Kushor               | 10 000 000  | اشموم + 64 شهراً | 6 000 000  | 3 000 000    | 999 998      | 2         |
 | 7: Hammon               | 100 000 000 | كشر +128 شهراً   | 60 000 000 | 30 000 000   | 9 999 999    | 1         |
 
-المدينة هي طريقة لتوحيد المجتمعات المحلية وخلق مجتمع أكبر. ونتيجة لذلك، الحصول على هوية محددة مرتبطة بذلك المجتمع. وهي أيضا طريقة لتوفير قيمة إضافية لمستخدميها، تتجاوز قدرات المجتمعات المحلية أو قيمتها التي تنشأ من خلال التعاون المجتمعي.
+Cities aim to bring together different communities to create a larger, integrated community. The purpose is to foster a sense of unity and shared identity that transcends individual communities and results in shared culture, traditions, and values.
 
-ولكل مدينة حكم مستقل وتعمل كمنظمة مساعدة إنمائية رسمية فرعية. وينتخب المواطنون مجلسا ويصوتون وفقا لقواعد العمل الخاصة بهم. وهذا الحكم اللامركزي يتيح للمدن أن تتطور بشكل مستقل، وأن تطور مجموعة مخصصة من الخدمات لمواطنيها، وأن تزيد من قيمة هذه الصكوك.
+**Cities Governance** Each City has a treasury funded by protocol fees (see 2.8 Taxes). Each has an independent governance system and operates as a subDAO of the Meeds DAO. Citizens can elect a council and vote on the operating rules of their City. This decentralized governance approach allows Cities to evolve independently, develop customized services for their citizens, and enhance the value of the Deeds.
 
-فعلى سبيل المثال، يمكنهم إضافة نظراء ماديين في العالم الحقيقي، مثل الوصول إلى غرف الاجتماعات في أماكن العمل المشترك الفعلي، وخدمات المطاعم، وخدمات السفر، وما إلى ذلك.
+**City Development** Cities strive to provide additional value to their residents beyond what individual communities can achieve independently. The concentration of resources, opportunities, and services in a City allows for community collaboration and cooperation, creating collective value. Such dynamics can lead to economic opportunities, cultural richness, educational and real-life services, and an overall improvement in the quality of life for residents.
+
+Cities may include physical counterparts to the Deeds in the real world, such as access to meeting rooms in co-working spaces, catering services, travel services, and more.
+
+Cities may also explore the potential of Web3 to improve existing services or introduce new ones, such as utilizing blockchain for digital identity management, streamlining government procurement processes through smart contracts, and leveraging dApps for citizens' engagement and participation.
+
 
 ## 2.8. الضرائب
 
