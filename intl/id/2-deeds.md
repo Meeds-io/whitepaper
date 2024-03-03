@@ -1,88 +1,88 @@
 
-# 2. Akta - Sifat WoMIni menyambut beragam organisasi, mulai dari DAO, bisnis tradisional, dan asosiasi hingga lembaga think tank, perusahaan teater, kelompok proyek, dan lembaga pendidikan.
+# 2. Akta - Properti
 
 ## 2.1. Akta NFT
 
-Di dunia digital, Non-Fungible Token (NFT) memiliki tujuan yang serupa dengan perbuatan di dunia fisik. Seperti akta yang menegaskan kepemilikan properti berwujud, NFT menetapkan kepemilikan aset digital yang tidak dapat disangkal. Kepemilikan ini dicatat dengan aman di blockchain, memastikan bahwa setiap aset bersifat unik dan tidak dapat ditiru.
+Di dunia digital, Non-Fungible Tokens (NFTs) berfungsi seperti perbuatan dunia fisik. Mengkonfirmasi kepemilikan aset digital dengan aman melalui blockchain, mereka membangun kepemilikan yang tak terbantahkan, mirip dengan akta properti berwujud, memastikan keunikan dan non-replikasi setiap aset.
 
-Dalam WoM, Akta dikonsep sebagai NFT, yang mewakili unit dasar kepemilikan. Memegang Akta memberdayakan pemiliknya untuk mengelola Pusat Komunitas dan membuat mereka memenuhi syarat untuk menerima hadiah Mintium, suatu bentuk pengakuan dan insentif dalam ekosistem WoM (detail lebih lanjut di bagian 2.6).
+Dalam konteks WoM, Akta dikonseptualisasikan sebagai NFT, yang mewakili unit dasar kepemilikan. Memiliki Akta memberdayakan individu untuk mengelola __Pusat Komunitas__. Hal ini membuat mereka memenuhi syarat untuk mendapatkan penghargaan Mintium - suatu bentuk sponsorship untuk komunitas yang menghasilkan keterlibatan otentik dengan anggotanya (rincian lebih lanjut di bagian 2.6).
 
-WoM dirancang untuk menjadi platform yang beragam dan inklusif Ini menyambut beragam organisasi, mulai dari DAO, bisnis tradisional, dan asosiasi hingga lembaga think tank, perusahaan teater, kelompok proyek, dan lembaga pendidikan. Dalam lanskap digital ini, Akta melambangkan kehadiran dan jejak digital organisasi di WoM, yang berfungsi sebagai jembatan antara operasi dunia nyata dan upaya digital mereka.
+WoM adalah platform yang beragam dan inklusif. Ini menyambut berbagai organisasi, mulai dari DAO, bisnis tradisional, dan asosiasi hingga lembaga think tank, perusahaan teater, kelompok proyek, dan lembaga pendidikan. Akta melambangkan kehadiran dan jejak digital organisasi dalam lanskap digital ini. Ia berfungsi sebagai jembatan antara operasi dunia nyata dan upaya digital.
 
-## 2.2. Suplai Deed
+## 2.2. Pasokan Akta
 
-WoM pada akhirnya akan membatasi suplai Deed. Setiap Akta mencakup jumlah maksimum pengguna yang telah ditentukan sebelumnya dan menawarkan kapasitas pemberian imbalan (Minting Power). Kata 'user' atau pengguna di sini merujuk pada semua jenis pekerja, karyawan, pekerja lepas, sukarelawan dll.
+WoM pada akhirnya akan membatasi suplai Deed. Setiap Akta mencakup jumlah maksimum pengguna yang telah ditentukan sebelumnya dan menawarkan kapasitas hadiah (Minting Power). Istilah __'pengguna'__ di sini dan selanjutnya menunjuk pada setiap karyawan, pekerja, pekerja lepas, sukarelawan, dll.
 
-Dalam lanskap digital ini, Akta melambangkan kehadiran dan jejak digital organisasi di WoM, yang berfungsi sebagai jembatan antara operasi dunia nyata dan upaya digital mereka.
+Ada empat jenis Akta, yang masing-masing memberikan kemampuan berbeda dalam hal jumlah pengguna, hak suara di __Kota__ (lihat 2.7), atau hak untuk mencetak, yang paling langka adalah yang paling berkuasa :
 
-| **Tipe Deed** | **Maksimal Pengguna** | **Kemampuan Mencetak** | **Kelangkaan** | **Hak suara kota** |
-| ------------- | --------------------- | ---------------------- | -------------- | ------------------ |
-| Umum          | 100                   | 1                      | ~ 90%          | 1                  |
-| Tidak Umum    | 1000                  | 1.1                    | ~ 9%           | 10                 |
-| Langka        | 10 000                | 1.3                    | ~ 1%           | 100                |
-| Lengendary    | tak terbatas          | 2                      | < 0.1 %        | 1000               |
+| **Tipe Deed** | **Maksimal Pengguna** | **Kemampuan Mencetak** | **Kelangkaan** | **Suara Kota** |
+| ------------- | --------------------- | ---------------------- | -------------- | -------------- |
+| Umum          | 100                   | 1                      | ~ 90%          | 1              |
+| Tidak Umum    | 1000                  | 1.1                    | ~ 9%           | 10             |
+| Langka        | 10 000                | 1.3                    | ~ 1%           | 100            |
+| Lengendary    | tak terbatas          | 2                      | < 0.1 %        | 1000           |
 
-## 2.3. Kepemilikan Deed
+## 2.3. Kepemilikan Akta
 
-Sebuah Deed memberi pemiliknya hak untuk MENGGUNAKANNYA, MENYEWAKANNYA, atau MENJUALNYA.
+Suatu Akta memberikan hak kepada pemiliknya untuk MENGGUNAKAN, MENYEWAKAN, atau MENJUALnya.
 
-- GUNAKAN – Pemilik dapat menggunakan Akta tersebut untuk menjalankan hub bagi organisasinya sendiri.
+- GUNAKAN – Pemilik dapat menggunakan Akta untuk menjalankan hub bagi organisasinya.
 - SEWA - Pemilik juga dapat menyewakan Akta tersebut ke organisasi lain dan memperoleh penghasilan pasif.
 - JUAL - Pemilik dapat menjualnya di pasar NFT sekunder seperti [OpenSea](https://opensea.io).
 
-Sebagai pemegang aktif atau penyewa Akta, organisasi berhak atas imbalan MEED sesuai dengan model “mintium” yang dijelaskan di bawah (lihat 2.6).
+Sebagai pemegang aktif atau penyewa Akta, organisasi berhak atas imbalan MEED sesuai dengan model "Mintium" yang dijelaskan di bawah (lihat 2.6).
 
 ## 2.4. Pusat Komunitas
 
-Dalam pasar yang kompetitif saat ini, organisasi berupaya menarik dan mempertahankan talenta terbaik tidak hanya melalui kompensasi namun juga dengan meningkatkan keterlibatan kerja. WoM mengatasi tantangan ini dengan sistem penghargaan unik dan terpatok yang diwujudkan dalam Community Hubs.
+Organisasi berupaya menarik dan mempertahankan talenta terbaik di pasar yang kompetitif saat ini melalui kompensasi dan meningkatkan keterlibatan kerja. WoM mengatasi tantangan ini dengan sistem penghargaan khusus yang diberi token dan dimasukkan ke dalam Pusat Komunitas.
 
-Dalam Hub ini, pemimpin komunitas dapat mendorong keterlibatan anggota dengan menawarkan menu insentif yang transparan untuk item pekerjaan. Participants earn engagement points for their efforts, which are periodically converted into MEED tokens or a custom equivalent, in line with a predetermined budget.
+Dalam Hub ini, pemimpin komunitas dapat mendorong keterlibatan anggota dengan menawarkan menu item pekerjaan yang diberi insentif secara transparan. Peserta mendapatkan poin keterlibatan atas upaya mereka. Kemudian, sistem secara berkala mengubah poin tersebut menjadi token hadiah sesuai anggaran yang telah ditentukan.
 
 Community Hub menawarkan serangkaian alat dan fitur yang dirancang untuk meningkatkan dan mengelola keterlibatan kontributor:
 
 - **Tindakan**: Tugas yang diberi insentif akan memandu kontributor, menyelaraskan upaya mereka dengan tujuan organisasi, serta meningkatkan motivasi dan arahan.
 - **Gamifikasi**: Papan peringkat dan lencana mengubah pekerjaan menjadi pengalaman yang menyenangkan dan kompetitif, meningkatkan keterlibatan dan kesenangan.
-- **Program Keterlibatan**: Program yang disesuaikan dengan target dan penghargaan tertentu memperjelas tujuan organisasi dan secara adil mengakui pencapaian kontributor.
+- **Program Keterlibatan**: Program yang disesuaikan dengan target dan penghargaan spesifik memperjelas tujuan organisasi dan secara adil mengakui pencapaian kontributor.
 - **Kudos**: Pengakuan rekan langsung meningkatkan moral dan menumbuhkan budaya penghargaan, meningkatkan kohesi dan motivasi tim.
 - **Ruang**: Subkelompok dan proyek terorganisir merampingkan komunikasi dan kolaborasi, meningkatkan produktivitas kolektif.
-- **Dompet**: Aplikasi Wallet menyimpan hadiah MEED dengan aman, mewakili kontribusi pengguna, dan memungkinkan transaksi mudah baik di dalam Hub maupun di jaringan yang lebih luas.
-- **Keuntungan**: Beragam hadiah, mulai dari kartu hadiah hingga NFT, mendorong keterlibatan berkelanjutan dan menumbuhkan loyalitas dalam ekosistem organisasi.
+- **Dompet**: Aplikasi Wallet menyimpan hadiah MEED dengan aman, mewakili kontribusi pengguna, dan memungkinkan transaksi mudah di dalam Hub dan di jaringan yang lebih luas.
+- **Keuntungan**: Berbagai hadiah, mulai dari kartu hadiah hingga NFT, mendorong keterlibatan berkelanjutan dan menumbuhkan loyalitas dalam ekosistem organisasi.
 - **Tugas**: Alat manajemen proyek dan tugas yang disederhanakan meningkatkan produktivitas dengan menyederhanakan alur kerja dan melacak kemajuan.
 - **Catatan**: Aplikasi buku catatan praktis untuk mendokumentasikan informasi penting seperti panduan orientasi mendorong berbagi pengetahuan dan kemandirian organisasi.
 - **Pencitraan merek**: Tampilan Hub yang dapat disesuaikan menarik kontributor baru dan memperkuat hubungan mereka dengan identitas organisasi.
 - **Analitik**: Analisis mendalam mengenai keterlibatan komunitas memungkinkan para pemimpin mengidentifikasi strategi yang efektif dan mengambil keputusan yang tepat untuk pengoptimalan.
 
 
-**Memulai Hub** Memulai Hub paling mudah dilakukan melalui meeds.io, yang menawarkan akses ke platform cloud yang dikelola oleh Meeds Association. Platform ini memungkinkan pengaturan cepat dan dikelola oleh entitas nirlaba yang mengelola WoM. Namun, WoM melayani desentralisasi. Karena perangkat lunak Meeds bersifat open source dan didistribusikan secara bebas, organisasi memiliki opsi untuk menghosting sendiri server Hub dan terhubung ke jaringan WoM, sehingga memberi mereka lebih banyak kontrol dan penyesuaian dalam pengaturan dan pengelolaan Hub mereka.
+**Memulai Hub** Memulai Hub paling mudah dilakukan melalui meeds.io, yang menawarkan akses ke platform cloud yang dikelola oleh Meeds Association. Namun, WoM melayani desentralisasi. Karena perangkat lunak Meeds bersifat open source dan didistribusikan secara bebas, organisasi memiliki opsi untuk menghosting sendiri server Hub dan terhubung ke jaringan WoM, sehingga memberi mereka lebih banyak kontrol dan penyesuaian dalam pengaturan dan pengelolaan Hub mereka.
 
-**Menangkap Sinyal Kerja** Hub dapat berintegrasi dengan berbagai platform seperti GitHub, Twitter, dan Discord dan dapat diperluas melalui API untuk terhubung dengan layanan seperti perangkat lunak CRM, perangkat lunak akuntansi, dan terminal pencatatan jam kerja. Hal ini memungkinkan kontribusi profesional yang beragam untuk diakui dan dihargai. Semua konektor menjalani proses daftar putih oleh Meeds Association untuk menjamin integritas dan fungsionalitas.
+**Menangkap Sinyal Kerja** Hub dapat berintegrasi dengan berbagai platform seperti GitHub, Twitter, dan Discord dan dapat diperluas melalui API untuk terhubung dengan layanan seperti perangkat lunak CRM, perangkat lunak akuntansi, dan terminal pencatatan jam kerja. Hal ini memungkinkan kontribusi profesional yang beragam untuk diakui dan dihargai. Semua konektor menjalani proses verifikasi untuk menjamin integritas dan fungsionalitas.
 
 **Memperkaya Perks Store** Organisasi dapat menyesuaikan toko dengan fasilitas khusus, termasuk kursus pelatihan dan keanggotaan gym, sehingga menciptakan siklus penghargaan dan keterlibatan yang memperkuat diri. Hal ini tidak hanya memberikan insentif kepada kontributor tetapi juga membina hubungan yang lebih dalam dengan ekosistem organisasi.
 
-**Keterlibatan dan Hadiah** Partisipasi aktif dalam Hub berkontribusi terhadap skor keterlibatan global suatu organisasi. Metrik ini mencerminkan efektivitas strategi keterlibatan, dengan mempertimbangkan faktor-faktor seperti tingkat aktivitas pengguna dan distribusi pekerjaan serta penghargaan yang adil. Skor yang dapat diaudit secara publik ini, memberikan hak kepada Hub untuk mendistribusikan token MEED yang dibuat dari protokol, yang berfungsi sebagai ukuran efektivitas strategi keterlibatan mereka.
+**Engagement and Rewards** Active participation contributes to the community's engagement score. Metrik ini mencerminkan efektivitas strategi keterlibatan, dengan mempertimbangkan faktor-faktor seperti tingkat aktivitas pengguna dan distribusi pekerjaan serta penghargaan yang adil. This publicly auditable score gives Hubs the right to earn MEED tokens minted from the protocol, serving as a measure of the effectiveness of their engagement strategies.
 
-Ke depannya, Community Hub di ekosistem WoM akan menjadi pusat kehidupan komunitas, mengintegrasikan komunikasi internal, interaksi real-time, tata kelola, dan berbagai alat produktivitas. Penyempurnaan ini akan memastikan bahwa Hub tetap terhubung dengan alat terbaik yang sudah digunakan oleh organisasi. Hal ini merupakan bukti kuat komitmen Meeds dalam membina komunitas yang dinamis dan terlibat.
+Hub bertujuan untuk menjadi pusat kehidupan komunitas, mengintegrasikan komunikasi internal, interaksi waktu nyata, tata kelola, dan berbagai alat produktivitas. Peningkatan ini akan memastikan mereka tetap saling berhubungan dengan alat terbaik yang digunakan organisasi. Mereka adalah bukti kuat komitmen Meeds untuk membina komunitas yang bersemangat dan terlibat.
 
 
 ## 2.5. Model Penghargaan
 
-Di WoM, keterlibatan pengguna di berbagai aktivitas kerja diberi insentif dan gamifikasi, disesuaikan dengan program unik masing-masing Hub komunitas Pengguna mendapatkan poin yang mencerminkan partisipasi aktif mereka, dan setiap komunitas menentukan aturannya sendiri untuk alokasi poin
+WoM memberi insentif dan mempermainkan keterlibatan pengguna di berbagai aktivitas kerja yang disesuaikan dengan setiap program unik. Pengguna mendapatkan poin yang mencerminkan partisipasi aktif mereka, dan setiap komunitas menentukan aturannya sendiri untuk alokasi poin
 
-Pengguna mendapatkan poin yang mencerminkan partisipasi aktif mereka, dan setiap komunitas menentukan aturannya sendiri untuk alokasi poin
+Sebagai contoh, perusahaan TI mungkin memberikan 10 poin untuk pengkodean di GitHub, sedangkan agensi digital dapat menempatkan nilai yang lebih tinggi pada keterlibatan media sosial, seperti retweet, dengan poin yang sama.
 
-Distribusi hadiah secara berkala didasarkan pada poin yang diperoleh di setiap Hub. Biasanya, ini diberikan dalam token MEED, dikirimkan langsung ke dompet pengguna. Meskipun token MEED adalah bentuk penghargaan standar, Hub memiliki fleksibilitas untuk menawarkan berbagai jenis kompensasi.
+Distribusi hadiah reguler terjadi saat kontributor di setiap Hub mendapatkan poin. Pengguna secara otomatis menerima token MEED (atau lainnya) di dompet mereka.
 
-Ketika hadiah didistribusikan dalam token selain MEED, biaya nominal sebesar 5% akan diterapkan. Biaya ini berkontribusi pada perbendaharaan Meeds, dan memainkan peran penting dalam menjaga keberlanjutan ekosistem.
+Meskipun token MEED adalah bentuk penghargaan standar, Hub memiliki fleksibilitas untuk menawarkan berbagai jenis kompensasi. Dalam hal ini, protokol menerapkan biaya nominal sebesar 5%. Biaya ini berkontribusi pada perbendaharaan DAO, memainkan peran penting dalam menjaga keberlanjutan ekosistem.
 
-## 2.6. Model "Mintium" - tokenisasi keterlibatan kerja
+## 2.6. Mintium
 
-By engaging their users in the WoM, communities get compensated through an innovative mintium model.
+Dengan melibatkan pengguna mereka di WoM, komunitas mendapatkan kompensasi melalui model "Mintium" yang inovatif.
 
-Poin keterlibatan, yang diperoleh oleh pengguna Hub, berpartisipasi dalam indeks keterlibatan global, yang dihitung oleh Meeds Association. Indeks ini menggunakan prinsip yang sama untuk semua Hub. Meskipun komunitas dapat mengubah alokasi poin untuk mendorong suatu tindakan dibandingkan tindakan lainnya, perubahan tersebut tidak akan diperhitungkan dalam penghitungan indeks global.
+Poin keterlibatan yang diperoleh oleh pengguna berpartisipasi dalam indeks keterlibatan global. Perbedaan nilai poin yang dialokasikan untuk tindakan oleh komunitas tidak mempengaruhi perhitungan indeks global.
 
-Setiap minggunya, sejumlah MEED dialokasikan untuk keterlibatan global dalam pembuatan WoM. Ini dihitung setiap minggu, secara pro-rata, di antara Hub yang berpartisipasi. Beberapa Hub mendapatkan dorongan tambahan tergantung pada jenis Akta yang mereka gunakan. Hub yang mengklaim token MEED mereka selama seminggu, menerimanya. Token MEED yang tidak diklaim ditambahkan ke jumlah distribusi global minggu berikutnya.
+WoM mengalokasikan beberapa token MEED setiap minggu ke kumpulan keterlibatan global. Itu dihitung setiap minggu, pro-rata, di antara Hub yang berpartisipasi. Beberapa Hub mendapatkan dorongan tambahan tergantung pada jenis Akta mereka. Hub yang mengklaim token MEED mereka selama seminggu menerimanya. Token MEED yang tidak diklaim menambah alokasi untuk minggu depan.
 
-Nilai keterlibatan _S_   dari Deed berdasar fungsi keterlibatan, jumlah pengguna yang terlibat dan distribusinya :
+Skor keterlibatan _S_ dari Hub adalah fungsi dari keterlibatan, jumlah pengguna yang terlibat, dan distribusi :
 
 $$S = (E_d / E_w) * D_r * D_s * M$$
 
@@ -92,35 +92,41 @@ Di mana :
 - $U$ = _Engaged users_ - menunjukkan poin kontribusi pengguna selama sepekan, setidaknya satu aksi.
 - $E_d$ = _Tingkat keterlibatan hub_ - tindakan per pengguna ($A/U$)
 - $E_w$ = _Tingkat keterlibatan rata-rata_ dari semua Hub aktif di WoM.
-- $D_r$ = _Tingkat distribusi_ - jika Hub menerima MEED yang dicetak untuk periode sebelumnya, % MEED yang didistribusikan ke penggunanya. Proporsi % bisa lebih dari 100 jika waktu pendistribusiannya terlambat.
+- $D_r$ = _Tingkat distribusi_ - jika Hub menerima MEED yang dicetak untuk periode sebelumnya, % MEED yang didistribusikan ke penggunanya.
 - $D_s$ = _Sebaran distribusi_ - jika Hub menerima token MEED yang dicetak untuk periode sebelumnya, % pengguna yang menerima MEED dalam total kumpulan pengguna.
 - $M$ = _Kapasitas Mencetak_ Deed dijelaskan pada bagian 2.3
 
 
-The global engagement index used to distribute minted MEED among the Hubs is the sum of all Hubs’ weekly engagement scores.
+Indeks keterlibatan global yang digunakan untuk mendistribusikan MEED yang dicetak di antara Hub adalah jumlah skor keterlibatan semua Hub pada minggu tersebut.
 
 
 Rumus di atas sederhana dan dirancang untuk mendukung hub :
 
 - dengan banyaknya jumlah pengguna yang terlibat (keterlibatan)
-- yang berbagi seluruh Deed yang diperoleh (distribution rate) dengan pengguna mereka secara adil (distribution rate).
+- yang berbagi seluruh pendapatan pencetakan (tingkat distribusi) secara adil dengan pengguna mereka (sebaran distribusi).
 
-Selain itu, ada tambahan bagi :
+Selain itu, booster tersedia untuk hal-hal berikut:
 
-- organisasi yang memiliki keterlibatan tertinggi, terlepas dari ukuran mereka (kaitan antara engagement rate dengan Wom)
+- communities with the highest engagement, regardless of their size (engagement rate compared to the WoM average)
 - deed yang lebih langka
 
-> The Meeds Association reserves the right to change the formula if required – if some specific use cases arise, for instance. Asosiasi juga dapat memasukkan Hub mana pun yang membajak formula untuk keuntungan uniknya ke dalam daftar hitam.
+Formulanya akan berkembang dan disetel untuk mengoptimalkan dan membatasi efek tawar-menawar dan penyalahgunaan. Selain itu, protokol juga akan menerapkan rutinitas pemotongan untuk mengecualikan aktor jahat.
 
-As the Hubs are rewarded with MEED and incentivized to redistribute them as rewards to their users against their engagement – the interests of both the communities and their users are aligned in the same virtuous revenue-sharing cycle. Maka, WoM menawarkan model kerja baru, untuk menyusun ulang hubungan pekerja/pemberi kerja sebagai sebuah kemitraan.
+Karena Hub dihargai dengan MEED dan diberi insentif untuk mendistribusikan kembali mereka sebagai hadiah kepada pengguna mereka terhadap keterlibatan mereka - kepentingan komunitas dan pengguna mereka selaras dalam siklus pembagian pendapatan yang sama. Dengan demikian, WoM menawarkan model kerja baru yang membentuk kembali hubungan majikan/karyawan sebagai kemitraan.
 
-Model "mintium" adalah jenis baru - yang berbeda dengan model freemium tradisional, karena tidak hanya memberikan layanan gratis, tapi antara organisasi dan penggunanya sama-sama diberi imbalan karena ikut menggunakan.
+Model "Mintium" lebih jauh dari model freemium, karena layanannya gratis untuk digunakan, dan itu memberi penghargaan kepada organisasi dan anggotanya karena menggunakannya.
 
-## 2.7. Kota dan tata kelola
+## 2.7. Kota-kota
 
-Dalam WoM, Deed akan dicetak secara berkala dalam kota virtual. Hanya kota pertama yang akan tetap ada sejak awal. Kota lainnya, akan dibangun secara bertahap, satu per satu. Pada seluruh WoM, hanya akan ada 7 kota, jumlah Deed tetap pada tiap jenisnya.
+The World of Meeds is a virtual world where people can buy Deeds, similar to real estate properties in virtual Cities. The Deeds are only available in limited quantities within a City and can exist only if someone redeems them with the minting points they accumulate by staking.
 
-Sebuah kota dianggap sudah lengkap, saat semua Deed sudah dicetak. Lalu, pencetakan tiap kota baru, akan dimulai pada $2^n$ bulan setelah Deed terakhir dari $n-1$ kota yang sudah dicetak.
+**The 7 Cities of the WoM**
+
+In the World of Meeds, there will be 7 cities.
+
+As more people mint Deed NFTs, the Cities of the WoM are constructed progressively by following a predetermined scheme that represents the successive phases of the evolution of the WoM.
+
+When someone mints the last Deed of a City, the protocol enforces a pause of $2^n$ months before allowing the minting of the $n^th$ City.
 
 | **Nama Kota** | **Deed**    | **Ketersediaan**    | **Umum**   | **Tidak Umum** | **Langka** | **Lengendary** |
 | ------------- | ----------- | ------------------- | ---------- | -------------- | ---------- | -------------- |
@@ -132,16 +138,26 @@ Sebuah kota dianggap sudah lengkap, saat semua Deed sudah dicetak. Lalu, penceta
 | 6: Kushor     | 10 000 000  | Eshmum + 64 bulan   | 6 000 000  | 3 000 000      | 999 998    | 2              |
 | 7: Hammon     | 100 000 000 | Kushor + 128 bulan  | 60 000 000 | 30 000 000     | 9 999 999  | 1              |
 
-Sebuah kota adalah cara bagi masyarakat untuk berkumpul dan menciptakan komunitas yang lebih besar. Maka, konsekuensinya mengakuisisi identitas yang jelas, terkait dengan komunitas tersebut. Ini juga merupakan cara untuk memberikan nilai tambah bagi para penggunanya - nilai yang melampaui kemampuan satu komunitas atau nilai yang diciptakan melalui kerja sama antar komunitas.
+Cities aim to bring together different communities to create a larger, integrated community. The purpose is to foster a sense of unity and shared identity that transcends individual communities and results in shared culture, traditions, and values.
 
-Tiap kota memiliki pemerintahnya dan dioperasikan dengan DAO mereka, di mana pemilik Deed kota bisa memilih dewan kota mereka, menentukan tata kelola kota mereka sendiri, menambah layanan dan membentuk kota mereka sesuai keinginan mereka agar meningkatkan daya tarik kota sehingga menambah nilai Deed yang ada di dalamnya.
+**Cities Governance** Each City has a treasury funded by protocol fees (see 2.8 Taxes). Each has an independent governance system and operates as a subDAO of the Meeds DAO. Citizens can elect a council and vote on the operating rules of their City. This decentralized governance approach allows Cities to evolve independently, develop customized services for their citizens, and enhance the value of the Deeds.
 
-Misalnya, mereka dapat menambahkan representasi digital kota mereka, tampilan fisik yang terkait dengan kota mereka (misalnya ruang pertemuan di ruang kerja bersama fisik), menambahkan layanan makanan, layanan liburan, dll...
+**City Development** Cities strive to provide additional value to their residents beyond what individual communities can achieve independently. The concentration of resources, opportunities, and services in a City allows for community collaboration and cooperation, creating collective value. Such dynamics can lead to economic opportunities, cultural richness, educational and real-life services, and an overall improvement in the quality of life for residents.
 
-Sesuai peraturan (kecuali kota memilih lainnya), pendapatan pasif bisa diperoleh dari menyewakan Deed akan dikenai pajak oleh kota (5%) dan asosiasi (3%) untuk mendorong penggunaan yang produktif.
+Cities may include physical counterparts to the Deeds in the real world, such as access to meeting rooms in co-working spaces, catering services, travel services, and more.
 
-Transaksi kepemilikan (penjualan Deed) akan dipajaki 6% :
+Cities may also explore the potential of Web3 to improve existing services or introduce new ones, such as utilizing blockchain for digital identity management, streamlining government procurement processes through smart contracts, and leveraging dApps for citizens' engagement and participation.
 
-- 2,5% untuk City
-- 2,5% untuk asosiasi
-- 1% untuk pemilik aslinya yang menebud Deed.
+
+## 2.8. Pajak
+
+**8%** pajak akan dikenakan atas pendapatan sewa Akta :
+
+- **5%** untuk perbendaharaan Kota,
+- **3%** untuk perbendaharaan Meeds DAO,
+
+**6%** pajak akan dikenakan atas pendapatan penjualan Akta :
+
+- **2.5%** untuk perbendaharaan Kota,
+- **2.5%** untuk perbendaharaan Meeds DAO,
+- **1%** untuk dompet asli yang menebus Akta.
