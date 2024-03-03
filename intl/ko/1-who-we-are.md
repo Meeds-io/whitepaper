@@ -1,12 +1,19 @@
 
-# 1. About Us
+# 1. 회사 소개회사 소개
 
-Meeds is a collaborative effort led by diverse Open Source Software (OSS) communities, dedicated to creating a decentralized digital world that resists centralized corporate control and fosters a free and open environment.
+Meeds는 중앙화된 기업 통제에 저항하고 자유롭고 개방적인 환경을 장려하는 분산형 디지털 세계를 만들기 위해 헌신하는 다양한 오픈 소스 소프트웨어(OSS) 커뮤니티가 주도하는 협력 노력입니다.
 
-The legal entity behind Meeds is the _Meeds Association_, a non-profit organization incorporated under Swiss law in Geneva. It is responsible for regulating the issuance of the Meeds(MEED) token, an ERC20 token recognized as a utility token.
+Ethereum 생태계를 활용하여 WoM 프로토콜을 구현하고 MEED 토큰 공급을 감독합니다. 이 전략을 통해 우리는 보안, 접근성, 유용성 및 비용 효율성의 우선순위를 정하여 다양한 사용자층에 매력적으로 다가갈 수 있었습니다. 그럼에도 불구하고 우리는 여러 체인으로 확장하려는 열망을 가지고 WoM을 자율적이고 자급자족하는 공공재로 설계했습니다.
 
-Functioning as a Decentralized Autonomous Organization (DAO), Meeds emphasizes on democratic governance, where token holders with governance rights participate in key decision making, such as annual board elections, ensuring transparency and community involvement in organizational changes.
+Meeds 뒤에 있는 법인은 제네바에서 스위스 법에 따라 등록된 비영리 단체인 _Meeds Association_입니다. MEED 토큰 발행을 규제하고 서비스 제공자와의 계약을 담당합니다.
 
-The Meeds project utilizes the Ethereum ecosystem to implement the World of Meeds (WoM) and the Meeds token. This approach prioritizes security, accessibility, user-friendliness, and cost-effectiveness, making it appealing to a broad user base.
+Meeds Association은 Meeds 프로토콜과 재무에 대한 통제권을 _Meeds DAO_에 점진적으로 넘겨줄 계획입니다. 이 분산형 자율 조직은 생태계의 분산형 거버넌스 부문을 대표하여 커뮤니티가 의사 결정, 제안 투표 및 프로토콜 업그레이드에 참여할 수 있도록 권한을 부여합니다.
 
-Meeds is an Open Source Software ([github.com/meeds-io](https://github.com/meeds-io)) operated in the cloud infrastructure by hosting partners of the Meeds Association.
+협회와 DAO 사이의 관계는 실제 세계에서 어떻게 운영되는지와 관련이 있습니다.
+
+미드즈 협회는 회원과 이사회로 구성된 전통적인 조직입니다. 이는 특정 법률 및 규제 체계에 따라 운영됩니다. 실질적으로 이벤트 조직, 서비스 제공, 회원 옹호 등의 활동에 참여하며 직원과 함께 실제 사무실을 유지할 수도 있습니다.
+
+이와 대조적으로 Meeds DAO는 중앙 권한 없이 기능하며 블록체인 기반 투표 메커니즘을 사용하여 구성원의 합의를 통해 결정을 내립니다. 또한 프로젝트 자금 조달, 자산 관리, 스마트 계약을 통한 의사결정 실행과 같은 활동에 참여할 수도 있습니다.
+
+WoM은 오픈 소스 소프트웨어([github.com/meeds-io](https://github.com/meeds-io))로 구축되었으며 Meeds DAO를 대신하여 Meeds Association이 선택한 파트너가 호스팅합니다.
+
