@@ -10,9 +10,9 @@ People would allocate their time and be rewarded fairly and transparently for th
 
 Organizations will more efficiently source talents, browsing through the WoM for the right proven skills. The "Mintium" tokens will reward them for creating the conditions of genuine engagement and participation. But above all, they would benefit from higher engagement and loyalty from their contributors.
 
-The WoM has its currency,  the **MEED** –  to spend in stores, swap with other currencies, invest, rent or buy, etc. The WoM also facilitates distributing other tokens and participating in the global crypto ecosystem.
+Le WoM a sa propre devise, le **MEED** - qui peut être utilisée pour dépenser dans les boutiques intégrées, échanger avec d'autres devises, investir, louer ou acheter, etc. The WoM also facilitates distributing other tokens and participating in the global crypto ecosystem.
 
-As a picture is worth a thousand words, here is a diagram that describes the WoM and MEED token flows:
+Comme une image vaut mille mots, voici un diagramme qui décrit les flux de jeton MEED dans le WoM :
 
 ![WoM and Meeds flows](en/img/wom-flows.png)
 
