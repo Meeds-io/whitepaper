@@ -1,6 +1,6 @@
-## Résumé
+## Abstract
 
-Le marché du travail actuel est inefficace en raison des coûts de transaction élevés et des conflits d'intérêts fréquents entre employeurs et employés. Il peut être coûteux et coûteux de temps pour mener à bien des activités liées au travail, et il y a souvent des désaccords ou des intérêts contradictoires entre ceux qui embauchent des travailleurs et les travailleurs eux-mêmes.
+The current work market is inefficient due to high transaction costs and frequent conflicts of interest between employers and employees. Il peut être coûteux et coûteux de temps pour mener à bien des activités liées au travail, et il y a souvent des désaccords ou des intérêts contradictoires entre ceux qui embauchent des travailleurs et les travailleurs eux-mêmes.
 
 Le World of Meeds (WoM) propose un nouveau paradigme pour résoudre ces problèmes en réduisant les coûts de transaction et en réinventant les relations de travail. C'est un espace numérique qui permet de combler le fossé entre les entreprises traditionnelles et les nouvelles formes d'organisation en apportant un système d'incitation équitable et transparent qui réaligne les intérêts de toutes les parties.
 
