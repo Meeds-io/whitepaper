@@ -1,32 +1,32 @@
 ## Abstract
 
-The current work market is inefficient due to high transaction costs and frequent conflicts of interest between employers and employees. It can be expensive and time-consuming to carry out job-related activities, and there are often disagreements or competing interests between those who hire workers and the workers themselves.
+The current labor market is inefficient due to high transaction costs and frequent conflicts of interest between employers and employees. Completing work-related activities can be costly and time-consuming, and there are often disagreements or conflicting interests between those who hire workers and the workers themselves.
 
-The World of Meeds (WoM) proposes a new paradigm to address these issues by reducing transaction costs and reinventing working relationships. It is a digital space that bridges the gap between traditional companies and new forms of organization by bringing a fair and transparent incentive system that realigns the interests of all parties.
+The World of Meeds (WoM) proposes a new paradigm for solving these problems by reducing transaction costs and reinventing working relationships. It's a digital space that bridges the gap between traditional businesses and new forms of organization, providing a fair and transparent incentive system that realigns the interests of all parties.
 
 ## Introduction
 
-The current state of the work market fails to satisfy both workers and employers[^1][^2][^3]. 
+The current labor market situation does not satisfy either workers or employers[^1][^2][^3]. 
 
-Workers face difficulties in finding suitable job opportunities, as the job market tends to favor specific individuals, leaving great skill sets behind due to various human biases such as race, gender, disability, introversion, and more. 
+Workers have difficulty finding suitable job opportunities, as the labor market tends to favor specific individuals, missing out on valuable skills due to various human prejudices about race, gender, disability, introversion, and more.
 
-Additionally, there is a lack of transparency in available positions and employment conditions. Once employed, workers often have little say in their work hours, workplace, content, or methods. Moreover, there is a perceived lack of fairness in compensation rules due to the lack of transparency. Career progress and compensation depend on the immediate manager's good faith and objectivity, leading to a lack of trust and cooperation. 
+What's more, there's a lack of transparency in the positions available and the conditions of employment. Once employed, workers often have little say in their working hours, location, content, or methods. In addition, the lack of transparency in remuneration rules generates a feeling of inequity. Career progression and remuneration depend on the good faith and objectivity of a direct manager, leading to a lack of trust and cooperation.
 
-Employers face challenges in sourcing talent, hiring the right skills, and fitting them into the right jobs at the right time. The traditional hiring pool often fails to provide an objective way to determine a potential contributor's skills. High turnover rates and a lack of contributor loyalty can also increase hiring and onboarding costs. 
+Employers face challenges in finding talent, recruiting the right skills, and integrating them into the right jobs at the right time. The traditional recruitment pool often fails to provide an objective means of determining a potential contributor's skills. High turnover rates and a lack of loyalty among contributors can also increase hiring and integration costs.
 
-These issues relate to high transaction costs and the exacerbated agent-principal problem[^4]. Despite the evolution of job markets towards more unity and transparency with the internet, transaction costs[^5] still need to be lowered without an objectivity element. 
+These problems are linked to high transaction costs and the worsening of the agent-principal problem[^4]. Despite the evolution of labor markets towards greater unity and transparency with the Internet, transaction costs[^5] have yet to be reduced without any element of objectivity.
 
-The WoM offers a unique approach to decentralized work, addressing several issues prevalent in traditional work paradigms.
+The WoM offers a unique approach to decentralized working, tackling many problems common to traditional working paradigms.
 
-Through its transparent, objective, and decentralized incentive paradigm, the WoM sustainably aligns the interests of contributors and employers. It proposes ways to flatten hierarchies and open up ownership, promoting sustainable ways to operate and create value for organizations.
+Thanks to its decentralized paradigm of transparent, objective incentives, WoM sustainably aligns the interests of contributors and employers. IIt smoothes out hierarchies and opens up ownership, promoting operating modes that create sustainable organizational value.
 
-By matching jobs and skills objectively, quickly, and globally, the WoM aims to address the lack of transparency in the job market and ensure that great skill sets are not left behind. 
+By finding the best skills objectively, quickly, and globally, the WoM overcomes the lack of transparency in the job market and ensures that the best talent is not overlooked.
 
-The WoM aims to reinvent the employer/employee relationship by introducing a transparent, objective, decentralized incentive paradigm. This model incentivizes contributors to be more engaged, creative, and productive, leading to greater innovation and productivity. 
+The WoM rethinks the employer/employee relationship by introducing a transparent, objective, decentralized incentive paradigm. This model encourages free contributors to be more committed, creative, and productive, leading to more significant innovation and productivity.
 
-By bridging the gap between traditional corporations and newer organizational models like DAOs[^6], the WoM provides sustainable ways to operate and create value for all. As a decentralized venture, the WoM gains value exponentially as more people use it. Therefore, we have designed its protocol as a public good with built-in mechanisms to encourage long-term interest and avoid cartelization. 
+By bridging the gap between traditional businesses and new organizational models such as DAOs[^6], the WoM offers sustainable ways of operating and creating value for all. As a decentralized entity, the WoM's value depends on its number of users. That's why we've designed its protocol as a public good with built-in mechanisms to encourage long-term interest and avoid any form of cartelization.
 
-To foster active, authentic participation in the WoM paradigm, creating an inclusive environment where diverse perspectives are valued is crucial.
+Creating an inclusive environment where diverse perspectives are valued is crucial for active and authentic participation in the WoM paradigm.
 
 
 [^1]: Suzanne Young - ["Transaction Cost Economics"](https://www.academia.edu/24703426/Transaction_Cost_Economics)
