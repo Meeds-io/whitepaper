@@ -1,85 +1,109 @@
-# 3. Token Meeds-waluta WoM
+# 3. Token Meeds
 
-WoM jest zasilana przez swoją walutę - token Meeds (MEED). Meeds służą do nagradzania użytkowników (poprzez programy zaangażowania), zakupów w sklepach, uzyskiwania aktów własności, uzyskiwania zwrotów finansowych z inwestycji itp.
+Token MEED (wyraźny "Meeds") jest walutą, która napędza WoM. Posiada różne przedsiębiorstwa użyteczności publicznej:
+
+- Nagroda za zaangażowanie użytkowników
+- Zakupy w sklepach
+- Deed minting
+- Wynajem centrum
+- Nagrody za piętno (plony)
+- Nagroda za zapewnienie płynności
+
 
 ## 3.1. Tokenomika
 
-**Maksymalna podaż tokenów Meeds jest ograniczona do 100 milionów**, wybijanych stopniowo. **Meeds są wytwarzane w tempie 10 MEED na minutę**. Dlatego pełny horyzont wydobycia wynosi prawie 20 lat (ponieważ rocznie wydobywa się około 5 milionów Meeds, co wynosi około $10*60*24*365$).
+**Maksymalna Dostawa** Maksymalna podaż **jest ograniczona do 100 milionów tokenów**, rozbita stopniowo w czasie.
 
-Początkowo wybito 5 milionów meed (5% całkowitej podaży). Z czego 4,5 mln zostało zamkniętych w kontrakcie skarbca z liniowym nabyciem uprawnień przez ponad 4 lata. Wstępnie wybita kwota została wykorzystana głównie do nabycia Oprogramowania IP, opłacenia opłat prawnych token emission i usług hostingowych.
+**Początkowa Zaopatrzenie** Początkowo wykopaliśmy 5 mln MIĘDZYNARODOWE, co stanowi **5 % całkowitej podaży**, aby pobudzić operacje:
 
-Reszta jest częścią__ meeds Dao funds < /0 > i zostanie wykorzystana na opłacenie usług i uruchomienie zachęt, takich jak zrzuty i kampanie polecające.</p>
+- Środki te przeznaczone są na pokrycie wydatków na personel i wydatków administracyjnych Agencji (tytuły 1 i 2) oraz jej wydatków operacyjnych związanych z programem prac (tytuł 3).
+- Opinia prawna dla tokena
+- Zakupy IP
+- Usługi informatyczne
+- Wydobycie puli płynności
 
+Następnie zamknęliśmy 4,5 mln osób MEED w sejfie z liniowym nabyciem uprawnień przez cztery lata.
 
-## 3.2. Przydział mintowania
+Od tego czasu inteligentna umowa o nazwie**__Fabryka tokenów __ wykonuje bicie **tokenów MEED ze stałą szybkością **.
 
-Minted Meeds są przydzielane w celu zachęcenia do zaangażowania trzech kategorii interesariuszy - użytkowników, twórców i inwestorów:
+**Schemat barwienia**
 
-- Użytkownicy (użytkownicy i posiadacze czynności/renterów) otrzymują Meeds poprzez nagrody za zaangażowanie (model mintium).
-- Budowniczowie (członkowie stowarzyszenia i społeczności) otrzymują Meeds za pośrednictwem fundusze stowarzyszeniowe na budowę, obsługę i doskonalenie WoM.
-- Inwestorzy wytwarzają Meeds poprzez wynajem i zakup pul płynności oraz stawianie Meeds.
+Umowa wielowymiarowa o nazwie __Token Factory__ kontroluje dostawę tokenu MEED '(mint and burn).
 
-Na początku budowniczowie otrzymują 30% alokacji. Pozostałe 70% jest dzielone między użytkowników i inwestorów. Proporcja alokacji będzie regularnie przeglądana poprzez głosowanie DAO stowarzyszenia Meeds.
+Wykorzystuje on schemat ciągłego rozdrabniania pod adresem *10 MEED na minutę*. W takim tempie mięty Token Factory około 5 milionów MEED rocznie (10*60*24*365); w związku z tym horyzont kopania wynosi prawie 20 lat.
 
-## 3.3. Użytkownicy - wytwarzanie poprzez zaangażowanie
+Głos DAO może zmienić ten wskaźnik w przyszłości.
 
-Część stale wybitych meedów jest przydzielana kanałowi kopalni. Dystrybucja odbywa się co tydzień. Na koniec każdego tygodnia, indeks zaangażowania jest obliczany tak, aby liderzy centrów i właścicieli własności własności mogli otrzymać swoje nagrody w następnym tygodniu i zdobyć Meeds. Nieprzyznane Meeds pozostają w funduszu i są dodawane do dystrybucji w kolejnym tygodniu. Model jest szczegółowo opisany w poprzednim rozdziale (część 2.6).
+## 3.2. Przydział Mintingu
 
-## 3.4. Budowniczowie - Meeds stowarzyszenie DAO i społeczność budowniczych
+Token Factory reguluje również przydzielanie wybitnych tokenów MEED w celu zachęcenia trzech kategorii zainteresowanych stron:
 
-WoM i token Meeds są obsługiwane przez niezarobkowe Meeds Association DAO, o którym wspomniano powyżej. Multisigowy kontrakt o nazwie _Meeds DAO Funds_ jest używany do zarządzania wydatkami operacyjnymi stowarzyszenia.
+- **Budowniczy**: przyczyń się do budowania i promowania Meeds
+- **Użytkownicy**: angażuj się w swoje społeczności
+- **Inwestorzy**: wspieraj nas poprzez zakupy z płynnością i tokenami
 
-Podczas okresu emisji, **30% wyemitowanych Meedsów jest przydzielane do stowarzyszenia Meeds**.
+Każda kategoria zainteresowanych stron otrzymuje część podaży, która podlega głosowaniu przez DAO.
 
-Członkowie stowarzyszenia mogą świadczyć usługi dla stowarzyszenia na podstawie podpisanej umowy o świadczenie usług ustalającej stawkę dzienną. Usługi są płatne co miesiąc w Meeds, na podstawie ceny rynkowej. Przykłady usług obejmują - wzbogacanie oprogramowania Meeds, rozwijanie aplikacji WoM, tworzenie nowych łączników, obsługa usługi w chmurze, świadczenie usług finansowych i prawnych itp.
+## 3.3. Rezerwa użytkowników
 
-nie będąc członkiem, każda organizacja może uczestniczyć w tworzeniu nowego konektora i być za to wynagradzana – najpierw za pośrednictwem stowarzyszenia Meeds nabywającego konektor a następnie poprzez wybiór tego konektora.
+Część stale wybitnych tokenów MEED jest przydzielana do zaangażowania użytkownika sponsora poprzez model Mintium (zob. 2.6).
 
-Stowarzyszenie obsługuje swoje własne centrum społecznościowe o nazwie _Meeds Builders Hub_ , które z zadowoleniem przyjmuje entuzjastów, którzy chcą przyczynić się do utworzenia WoM. Stowarzyszenie sponsoruje społeczność ze swojego budżetu, rekompensując zaangażowanie członków społeczności.
+Globalny indeks zaangażowania jest okresowo obliczany we wszystkich centrach WoM w celu przydzielenia nagród MEED centrum centrum. Nagrody Mintium są możliwe do uzyskania przez kierowników Hub i właścicieli aktów.
 
-Stąd też węzeł budowniczy funkcjonuje jako żywy przykład wspólnoty posiadającej uprawnienia dzięki oprogramowaniu Meeds, oferowanie standardowego zestawu usług świadczonych przez stowarzyszenie. Akcje stowarzyszenia Meeds w celu realizacji aktu własności dla swojej społeczności. W ten sposób Centrum Budownictwa korzysta również z wybiórczego zaangażowania, podobnie jak każde inne centrum poparte czynem.
+## 3.4. Rezerwa budowlana
 
-Po zakończeniu okresu emisji, stowarzyszenie będzie utrzymywane poprzez:
+DAO Meeds prowadzi dostawę tokenów WoM i MEED. Wielostronny smart kontrakt o nazwie _Meeds DAO Funds_ zarządza wydatkami operacyjnymi. Otrzymuje **30% wybitnego MEED** na wsparcie konstruktorów.
+
+Stowarzyszenie Meeds jest uprawnione do zatrudniania przedsiębiorstw świadczących usługi w imieniu Meeds DAO w celu pokrycia opłat prawnych, Środki te przeznaczone są na pokrycie wydatków na personel i wydatków administracyjnych Agencji (tytuły 1 i 2) oraz jej wydatków operacyjnych związanych z programem prac (tytuł 3).
+
+Organizacje i osoby niebędące członkami Stowarzyszenia Meeds mogą nadal wnosić wkład za pośrednictwem _Hub Meeds Builders_  - centrum społecznościowe, które z zadowoleniem przyjmuje entuzjastów, którzy chcą uczestniczyć w tworzeniu i promowaniu WoM. U pacjentów z ciężkim zaburzeniem czynności wątroby (po <0>Oznacza fundusze DAO</0> nagroda również za wkład w Centrum Budowlanych.
+
+Centrum Budownictwa otrzymuje również nagrody Mintium, tak jak każdy inny węzeł.
+
+Po zakończeniu okresu rozminowywania koszty operacyjne Meeds DAO zostaną wsparte przez:
 
 - opłaty od pasywnych dochodów (3% od wynajmu Deedów)
 - opodatkowanie dochodu ze sprzedaży (2,5% od sprzedaży Deedów)
 - pobieranie opłat za transakcje za korzystanie ze sklepów z rabatami
 - działając jako dostawca puli płynności
-- postrzeganie opłat za transakcje, gdy centrum dystrybuuje tokeny inne niż Meeds za pośrednictwem usług WoM.
-- poprzez działalność operacyjną Deeds, które stworzyło stowarzyszenie w ciągu czasu.
+- postrzeganie opłat za transakcje, gdy centrum dystrybuuje alternatywne tokeny w swoich centrach
+- wynajem i sprzedaż czynszów wybitych przez DAO z upływem czasu.
 
+## 3.5. Rezerwa dla inwestorów
 
-## 3.5. Inwestorzy
+Inwestorzy wspierają WoM poprzez zapewnienie płynności i udziałów w tokenach MEED, co pomaga ustabilizować poziom cen w fazie budowy. Gotowe są zachęty zarówno w odniesieniu do następujących kwestii:
 
-Investorzy pomagają w tworzeniu WoM, zapewniając płynność finansową i stawiając Meeds, co stabilizuje poziom cenowy podczas okresu budowy. Oba są zachęcane poprzez minting.
+**Dostawcy płynności** Zarządzanie płynnością walutową ma kluczowe znaczenie dla powodzenia projektu. Spółka Meeds DAO stosuje różne mechanizmy DeFi w celu zoptymalizowania jej efektywności kapitałowej. Na przykład zachęty umożliwiają dostawcom płynności uzyskiwanie dochodów z gospodarstw rolnych poprzez wynajem ich tokenów LP. Istnieją również plany wprowadzenia obligacji i stopniowego przejścia na płynność będącą własnością protokołu. Te ostatnie przyczynią się do długoterminowej stabilności projektu – jak wspomniano powyżej – opłaty transakcyjne będą pokrywać koszty operacyjne.
 
-**Dostawcy płynności** Zarządzanie płynnością waluty jest kluczowe dla sukcesu projektu, a kilka strategii DeFi będzie wykorzystywanych do optymalizacji efektywności kapitałowej. Zaczniemy od zachęt do stawiania tokenów puli MeedS/ETH oraz stopniowo wprowadzimy obligacje w celu przesunięcia się w kierunku posiadania przez protokół płynności. Ostatnie z nich przyczyniłoby się do długoterminowej stabilności stowarzyszenia - jak wspomniano wcześniej, opłaty za transakcje będą finansować wydatki operacyjne stowarzyszenia, takie jak hostowanie chmury.
+Ponadto w imieniu Meeds DAO, Stowarzyszenie Meeds jest uprawnione do ułatwiania pozagiełdowych zakupów znaczniejszych ilości tokenów MEED.
 
-Każdy członek ma również prawo do bezpośredniego zakupu dużej ilości Meedsów z rabatem. Kwota przelana na konto stowarzyszenia jest przeliczana na ETH i dodawana wraz z równowartością Meeds do puli płynności.
+**Stak/długoterminowa inwestycja** Meeds DAO nagrodzi lojalnych inwestorów, którzy chcą wspierać Meeds w perspektywie długoterminowej. Każdy może zaatakować ich nieużywane tokeny MEED, aby zarobić plony i xMEED tokeny.
 
-**Stawianie wkładów / inwestycja długoterminowa** Aby zachęcić do długoterminowej inwestycji, posiadacze zdeponowanych Meeds otrzymują nagrody. Kiedy Meeds są stakowane, staker otrzymuje pewną ilość tokenów xMeeds. Kiedy Meeds są stawkiowane, staker otrzymuje pewną ilość tokenów xMeeds. Nowo wyemitowane Meeds są dystrybuowane do stakerów proporcjonalnie do ich posiadanych xMeeds. W praktyce wybite Meedy są efektywnie dodawane do posiadanych przez kontrakt xMeeds i rozdzielane na posiadaczy xMeeds, gdy wycofają swoje stawki.
+Gdy użytkownik stawi się z tokenami MEED, inteligentny kontrakt blokuje ten depozyt i wykrywa tokeny xMEED proporcjonalnie.
 
-Dzięki udziałowi Meeds, inwestorzy mogą również wykupić NFT (a następnie uczestniczyć w kopaniu poprzez zaangażowanie), zwiększając tym samym popyt na token. Każde złożone w depozycie Meeds (xMeeds) przysługuje jego właścicielowi określona liczba punktów dziennie. Im dłuższy okres, na jaki przypada przetrzymywana waluta, tym większa liczba punktów uzyskana na jeden xMeeds. Każdy Czyn uprawnia do uzyskania określonej liczby punktów.
+Oznacza to, że DAO wykorzystuje xMEED jako swój token zarządzania; w związku z tym jego posiadacze mogą brać udział w głosowaniu nad wnioskami.
 
-Punkty są obliczane za pomocą poniższego wzoru:
+Ponadto posiadacze xMEED zarabiają punkty minowe, które uprawniają ich do tworzenia NFT.
 
- $$ P = xMeeds / (xMeeds + 12000) * T / 240 $$
+Punkty zamienne rosną w miarę upływu czasu, dopóki zainteresowane strony utrzymają swój udział. Poniższa formuła pozwala obliczyć punkty minowe:
 
- gdzie :
+ $$ P = xMEED / (xMEED + 12000) * T / 240 $$
 
-- $xMeeds$: Stan konta xMeeds bez miejsc dziesiętnych
-- $T$ : Czas, który upłynął w milisekundach
+ Gdzie:
 
-Wzór unika faworyzowania dużych posiadaczy w celu bardziej efektywnego i bardziej sprawiedliwego rozprowadzania Deedów. Na przykład, wzór daje następujące stawki:
+- $xMEED$: saldo xMEED bez miejsc po przecinku
+- $T$: Czas upłynął w milisekundach
+
+Formuła pozwala na uniknięcie faworyzowania dużych posiadaczy do bardziej wydajnego i sprawiedliwego podziału czynności. Na przykład, wzór daje następujące stawki:
 
 | **Rozmiar posiadacza** | **Posiadane aktywa** | **Stopa narastania** |
 | ---------------------- | -------------------- | -------------------- |
-| Mały                   | 1 000 xMeeds         | 28 pkt/dzień         |
-| Średni                 | 10 000 xMeeds        | 164 pkt/dzień        |
-| Duży                   | 100 000 xMeeds       | 321 pkt/dzień        |
+| Mały                   | 1000 xMEED           | 28 pkt/dzień         |
+| Średni                 | 10 000 xMEED         | 164 pkt/dzień        |
+| Duży                   | 100 000 xMEED        | 321 pkt/dzień        |
 
 
-co prowadzi do następującego czasu posiadania dla każdej klasy posiadacza:
+Te stopy naliczania prowadzą do następującego czasu przetrzymywania dla każdej klasy posiadacza:
 
 | **Typ karty** | **Koszt**       | **Duży uchwyt** | **Średni uchwyt** | **Mały uchwyt** |
 | ------------- | --------------- | --------------- | ----------------- | --------------- |
@@ -88,22 +112,23 @@ co prowadzi do następującego czasu posiadania dla każdej klasy posiadacza:
 | Rzadki        | 50 000 punktów  | 156 dni         | 10 miesięcy       | 5 lat           |
 | Legendarny    | 100 000 punktów | 311 dni         | 20 miesięcy       | 10 lat          |
 
-## 3.6. Rządy Meeds DAO
+## 3.6. Meeds DAO Governance
 
-Posiadacze tokenów Meeds muszą stawiać swoje tokeny, aby móc głosować w sprawach Meeds DAO, takich jak zarządzanie budżetem emisji lub wybieranie członków zarządu DAO (roczna kadencja).
+Posiadacze tokenów xMEED mogą swobodnie uczestniczyć w zarządzaniu DAO Meeds poprzez głosowanie tokenami nad decyzjami takimi jak zarządzanie alokacją środków budżetowych lub wybieranie członków zarządu DAO.
 
-## 3.7. Usługi użytkowników finansów zdecentralizowanych (DeFi)
+## 3.7. Usługi DeFi
 
-WoM przedstawi świat blockchain wielu osobom, które nie używają go dzisiaj.
+Nasze podejście pozwala nam określić ilościowo i ustalić wartość pieniężną praktycznie każdego rodzaju wkładu (cyfrowego lub nie) i nagradzać go tokenami.
 
-W rzeczywistości, każda praca (czy to cyfrowa, czy nie) może zostać przekształcona w grę, a każde zaangażowanie - nagrodzone Meedami. Meeds są udostępnione użytkownikom poprzez łatwy w użyciu, oparty na blockchainie portfel, który "abstrahuje" jakąkolwiek złożoność świata kryptowalut dla przeciętnego użytkownika.
+Chociaż wykorzystujemy technologię Web3 i blockchain, staramy się sprawić, by była ona bezproblemowa dla użytkowników. Dlatego Hubs zapewnia łatwą w użyciu aplikację portfelową i wewnętrzny sklep atutów, który upraszcza zarządzanie tokenami nagród dla współtwórców.
 
-Ponad portfelem i sklepem, w którym użytkownicy mogą kupować przywileje za Meeds, planujemy wprowadzić każdego użytkownika do kilku produktów końcowych zasilanych protokołami DeFi, takich jak:
+Dlatego też Meeds oferuje bezpieczny i przejrzysty dostęp do złożonego świata kryptowalut dla wielu użytkowników, którzy nigdy nie byli na to narażeni.
 
-- Możliwość zakładania tokenów MEED i uzyskiwania zysków (generowanie przychodów)
-- Możliwość użycia tokenów MEED jako zabezpieczenia do pożyczenia stabilnych monet, takich jak USDC (leveraging first a [Fuse pool](https://app.rari.capital/fuse) , a następnie rejestracja tokena Meeds do [AAVE](https://aave.com/).
-- Cyfrowa karta, która może być dodana i używana przez Apple Pay, Google Pay lub dowolny bankomat. Powyższe będzie możliwe dzięki partnerstwu z VISA i wykorzysta linię kredytową w USDC, zabezpieczoną przez stakowane Meeds. Ta karta mogłaby również być używana przez organizacje do zasilania portfeli pracowników w celu zarządzania korzyściami pracowniczymi, takimi jak posiłki w restauracjach, transport i wszelkiego rodzaju wydatki.
+Planujemy wprowadzenie większej liczby produktów użytkowników końcowych opartych na tokenach MEED i XMEED za pomocą protokołów Decentralized Finance (DeFi), takich jak:
 
-Więc nie tylko wielu nowych użytkowników odkryje świat technologii blockchain, ale również odkryje świat pozbawiony banków.
+- Zdobywaj zyski poprzez zakładanie zarobionych tokenów
+- Kredyty i pożyczki z wykorzystaniem zarobionych tokenów jako zabezpieczenia
+- Zapłać w prawdziwym życiu kartą kredytową popartą przez Twoje gospodarstwo
 
- 
+Tak więc nie tylko wielu nowych użytkowników odkryje, jak zarabiać tokeny, ale również odkryje świat bez banków.
+

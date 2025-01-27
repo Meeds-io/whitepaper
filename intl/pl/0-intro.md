@@ -1,47 +1,37 @@
-
-
 ## Streszczenie
 
-Obecny rynek pracy charakteryzuje się niską wydajnością z powodu wysokich kosztów transakcyjnych[^1][^2][^3] i częstych konfliktów interesów między pracodawcą a pracownikiem.
+Obecny rynek pracy jest nieskuteczny ze względu na wysokie koszty transakcji i częste konflikty interesów między pracodawcami a pracownikami. Prowadzenie działalności związanej z pracą może być kosztowne i czasochłonne, i często występują spory lub konkurujące interesy między tymi, którzy zatrudniają pracowników a samymi pracownikami.
 
-Praca Metaverse (World of Meeds) proponuje nowy paradygmat, który obniżyłby koszty transakcji i na nowo wymyślił stosunek pracy, wypełniając lukę między tradycyjnymi korporacje i DAOs.
-
-WoM osiąga to poprzez wprowadzenie cyfrowych tożsamości dla pracodawcy i pracownika oraz oferując innowacyjny system nagradzania zaangażowania, który zrównoważyłby ich interesy.
+Świat Meeds (WoM) proponuje nowy paradygmat w celu rozwiązania tych problemów poprzez zmniejszenie kosztów transakcji i ponowne wynalezienie stosunków pracy. Jest to przestrzeń cyfrowa, która niweluje przepaść między tradycyjnymi przedsiębiorstwami a nowymi formami organizacji poprzez wprowadzenie sprawiedliwego i przejrzystego systemu zachęt, który dostosowuje interesy wszystkich stron.
 
 ## Wprowadzenie
 
-Obecny rynek pracy jest uszkodzony. Nie spełnia on oczekiwań zarówno pracowników, jak i pracodawców.
+Obecny stan rynku pracy nie satysfakcjonuje zarówno pracowników, jak i pracodawców<sup id="fnref:1"></sup></a></sup>[^2][^3]
 
-Z perspektywy pracowników, trudno jest znaleźć odpowiednie stanowiska. Rynek pracy faworyzuje pewne typy jednostek, pozostawiając w tyle świetne zestawy umiejętności. Wynika to z zestawu ludzkich uprzedzeń - opartych na rasie, płci, niepełnosprawności, introwertyzmie itp. Rynek pracy również brakuje przejrzystości, jeśli chodzi o dostępne stanowiska i warunki zatrudnienia.
+Pracownicy napotykają trudności ze znalezieniem odpowiednich możliwości zatrudnienia, ponieważ rynek pracy zazwyczaj faworyzuje konkretne osoby, pozostawienie wielkich umiejętności z powodu różnych uprzedzeń ludzkich, takich jak rasa, płeć, niepełnosprawność, introveracja i innych.
 
-Po zatrudnieniu, wolności osobiste pracowników są naruszane w zamian za wynagrodzenie. Pracownicy mają niewiele do powiedzenia w kwestii godzin pracy, miejsca pracy, treści pracy lub metody pracy. Ich wynagrodzenie rzadko jest powiązane z ich rzeczywistym zaangażowaniem lub wartością. Zasady wynagradzania są mało przejrzyste i dlatego postrzegane jako niesprawiedliwe. Ponadto, wynagrodzenie i postęp kariery są również uzależnione od czynnika ludzkiego - dobrej woli i obiektywności bezpośredniego przełożonego pracownika.
+Ponadto brakuje przejrzystości w zakresie dostępnych stanowisk i warunków zatrudnienia. Pracownicy zatrudnieni często mają niewiele do powiedzenia w zakresie godzin pracy, miejsca pracy, treści lub metod. Ponadto ze względu na brak przejrzystości dostrzega się brak uczciwości w przepisach dotyczących rekompensat. Postęp w karierze i rekompensata zależą od dobrej wiary i obiektywizmu kierownictwa bezpośredniego, co prowadzi do braku zaufania i współpracy.
 
-Z drugiej strony, pracodawcy doświadczają trudności w pozyskiwaniu talentów i zatrudnianiu osób o odpowiednich umiejętnościach i doświadczeniu w odpowiednim czasie. Nie ma obiektywnego sposobu, aby ocenić umiejętności potencjalnego pracownika lub pozyskać osoby spoza tradycyjnego puli kandydatów.
+Pracodawcy stoją w obliczu wyzwań związanych z pozyskiwaniem talentów, zatrudnianiem odpowiednich umiejętności i dostosowywaniem ich do odpowiednich miejsc pracy w odpowiednim czasie. Tradycyjna pula najmu często nie zapewnia obiektywnego sposobu określenia umiejętności potencjalnego uczestnika. Wysokie obroty i brak lojalności płatników mogą również zwiększyć koszty zatrudnienia i wejścia na pokład.
 
-Pracodawcy borykają się również z brakiem lojalności ze strony pracowników i wysoką rotacją, które zwiększają koszty zatrudniania i szkolenia nowych pracowników.
+Te problemy dotyczą wysokich kosztów transakcji i zaostrzonego problemu agenta-głównego[^4]. Pomimo ewolucji rynków pracy w kierunku większej jedności i przejrzystości z Internetem, koszty transakcji[^5] nadal muszą być obniżone bez elementu obiektywności.
 
-Ponadto, pracodawcy mają również do czynienia z niskim zaangażowaniem ze strony obecnych pracowników, co prowadzi do niskiej kreatywności, produktywności i innowacyjności. To ostatnie wywołuje jeszcze większe szkody w dzisiejszej gospodarce, wymagającej bardziej wykwalifikowanej pracy twórczej.
+WoM oferuje wyjątkowe podejście do pracy zdecentralizowanej i zajmuje się kilkoma kwestiami występującymi w tradycyjnych paradygmatach pracy.
 
-Wszystkie te problemy sprowadzają się do wysokich kosztów transakcyjnych i pogłębiają problem agenta-pryncypała[^4]:
+Dzięki przejrzystemu, obiektywnemu i zdecentralizowanemu paradygmatowi motywacyjnemu, WoM w sposób zrównoważony dostosowuje interesy płatników i pracodawców. Proponuje się w nim sposoby ugruntowania hierarchii i otwarcia na odpowiedzialność organizacji, promując zrównoważone sposoby działania i tworząc wartość dla organizacji.
 
-- Dzięki internetowi rynki pracy ewoluowały w kierunku większej jedności i przejrzystości dzięki portalom ogłoszeniowym, serwisom karier itp. Jednak koszty transakcyjne są wciąż zbyt wysokie w braku elementu obiektywności.
-- Co do problemu agenta-pryncypała, został on skomplikowany przez wzrastającą różnicę w dochodach i bogactwie między pracownikami a udziałowcami oraz sztywność relacji pracodawca-pracownik.
+poprzez obiektywne, szybkie i globalne dopasowanie miejsc pracy i umiejętności, Celem WoM jest zaradzenie problemowi braku przejrzystości na rynku pracy i zadbanie o to, by nie pozostawać w tyle.
 
-WoM ma na celu rozwiązanie obu tych problemów poprzez wprowadzenie nowego zdecentralizowanego paradygmatu pracy.
+WoM ma na celu ponowne wynalezienie relacji między pracodawcą a pracownikiem poprzez wprowadzenie przejrzystego, obiektywnego, zdecentralizowanego modelu zachęt. Model ten zachęca uczestników do większego zaangażowania, kreatywności i produktywności, co prowadzi do większej innowacyjności i wydajności.
 
-W wyniku prac R. Coase’a[^5] większość ekonomistów łączy koncepcję przedsiębiorstwa z koniecznością zmniejszenia kosztów transakcyjnych. Internet, a ostatnio blockchain i web3, otwierają ekscytujące możliwości w obniżaniu kosztów transakcyjnych wszędzie, rewolucjonizując gospodarkę, a w szczególności przedsiębiorstwa. Pierwsze DAO[^6] rozpoczęły ten proces, skupiając się na obniżeniu kosztów transakcyjnych dla pozyskiwania kapitału i zarządzania nim. WoM dąży do posunięcia tej logiki dalej, obniżając koszty transakcji związanych z pracą. Propozycja ta wprowadza zdecentralizowany świat, w którym dopasowywanie pracy i umiejętności może być dokonywane obiektywnie, szybko i globalnie.
+Poprzez zmniejszenie przepaści między tradycyjnymi korporacjami a nowszymi modelami organizacyjnymi, takimi jak DAOs[^6], WoM zapewnia zrównoważone sposoby funkcjonowania i tworzenia wartości dla wszystkich. Jako przedsięwzięcie zdecentralizowane WoM zyskuje wartość wykładniczą, ponieważ więcej osób z niego korzysta. Dlatego też opracowaliśmy protokół jako dobro publiczne z wbudowanymi mechanizmami zachęcającymi do długoterminowego zainteresowania i unikania kartelizacji.
 
-Pierwsze DAO spłaszczają hierarchie i otwierają własność. WoM dąży do realizacji tej logiki poprzez przeobrażenie, a nie likwidację relacji pracodawca/pracownik. Wprowadza on transparentny, obiektywny i zdecentralizowany paradygmat nagradzania, który zrównoważenie dostosowuje interesy pracodawcy i pracownika.
-
-Wreszcie WoM wypełnia lukę między korporacjami a DAO. Z jednej strony wprowadza tradycyjne korporacje do zdecentralizowanego świata poprzez łatwy w zastosowaniu paradygmat nagradzania zaangażowania, uzupełniający ich systemy wynagrodzeń. Z drugiej strony proponuje zrównoważone sposoby działania i tworzenia wartości dla DAOs. Ostatecznie WoM mógłby być jednym z pierwszych mainstreamowych zastosowań, które zdemokratyzują wykorzystanie blockchaina dla każdej firmy i każdego pracownika - w tym także dla tych, którzy nie pracują w sektorze cyfrowym.
-
-Jak w przypadku każdego zdecentralizowanego przedsięwzięcia, propozycja WoM zyskuje na wartości wykładniczo, gdy korzysta z niej coraz więcej osób. Z tego powodu założyciele bardzo dbają o zachęcanie do długoterminowego zainteresowania i unikanie monopolizowania korzyści WoM, zarówno krótko-, jak i długoterminowo. Jest to otwarty paradygmat, który wciąż trzeba zbudować i jest otwarty na aktywny kreatywny udział każdego.
+Aby wspierać aktywny, autentyczny udział w paradygmizmie WoM, niezbędne jest stworzenie warunków sprzyjających włączeniu społecznemu, w których cenione są różne perspektywy.
 
 
-[^1]: Suzanne Young - ["Ekonomia kosztów transakcyjnych" ](https://www.academia.edu/24703426/Transaction_Cost_Economics)
-[^2]: Jan Drahokoupil, Agnieszka Piasna - [“Praca w gospodarce platformowej: Poza niższymi kosztami transakcyjnym”](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
-[^3]: Seth C. Oranburg, Liya Palagashvili - [“Transaction Cost Economics, Labor Law and the Gig Economy”](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship)
-[^4]: Michael C. Jensen, William H. Meckling - [“Theory of the Firm : Managerial Behavior, Agency Costs and Ownership Structure”](https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf)
-[^5]: R. Coase - [“The nature of the firm”](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
-[^6]: Aaron Wright - [“The Rise of Decentralized Autonomous Organizations : Opportunities and Challenges”](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)
-
+[^1]: Suzanne Young - ["Transaction Cost Economics"](https://www.academia.edu/24703426/Transaction_Cost_Economics)
+[^2]: Jan Drahokoupil, Agnieszka Piasna - ["Pracuj w gospodarce platformy: Beyond Lower Transaction Costs"](https://www.intereconomics.eu/contents/year/2017/number/6/article/work-in-the-platform-economy-beyond-lower-transaction-costs.html)
+[^3]: Seth C. Oranburg, Liya Palagashvili - ["Transaction Cost Economics, Labor Law and the Gig Economy"](https://dsc.duq.edu/cgi/viewcontent.cgi?article=1115&context=law-faculty-scholarship)
+[^4]: Michael C. Jensen, William H. Meckling - ["Teoria firmy: Zachowanie kierownicze, koszty Agencji i struktura własności"](https://www.sfu.ca/~wainwrig/Econ400/jensen-meckling.pdf)
+[^5]: R. Coase - ["Charakter firmy"](http://econdse.org/wp-content/uploads/2014/09/firm-coase.pdf)
+[^6]: Aaron Wright - ["Rise of Decentralized Autonomous Organizations: Opportunities and Challenges"](https://stanford-jblp.pubpub.org/pub/rise-of-daos/release/1)

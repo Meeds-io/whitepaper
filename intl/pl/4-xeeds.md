@@ -1,64 +1,70 @@
-# 4. Potrzeby-Wom osoby / użytkownicy
+# 4. Xeeds - Obywatele
 
-## 4.1. Zdecentralizowane i samodzielne modele
+## 4.1. Samodzielna tożsamość
 
-WoM uznaje prywatność za fundamentalne prawo człowieka i umożliwia użytkownikom posiadanie swoich danych.
+Uznajemy prywatność za podstawowe prawo człowieka i upoważniamy użytkowników do posiadania ich danych.
 
-Nasze podejście opiera się na zasadach zdecentralizowanej i suwerennej tożsamości, co umożliwia użytkownikom pełną kontrolę nad tym, jakie informacje chcą ujawnić publicznie, udostępnić wybranym grupom osób lub zachować w prywatności.
+Nasze podejście opiera się na zdecentralizowanych i suwerennych zasadach tożsamości, umożliwienie użytkownikom kontrolowania, jakie informacje chcą publikować, dzielić się z ograniczoną grupą lub zachować prywatność.
 
-Aktywność i zaangażowanie użytkownika w WoM jest zawsze powiązane ze społecznością. Xeed to wirtualna osoba użytkownika w danej społeczności. Xeed nie wymaga przeprowadzania procedury weryfikacji tożsamości (KYC). Jest samodeklarujący się, jednak teoretycznie możemy sobie wyobrazić, że firmy trzecie mogą świadczyć taką usługę.
+Użytkownicy angażują się w różne społeczności; nazywamy ich wirtualną personą A **__Xeed__**.
 
-## 4.2. Odznaki i referencje
+Xeeds są samodeklaratywne i nie wymagają żadnego domyślnego procesu KYC (__Know Your Customer__).
 
-Odznaki i poświadczenia są przekazywane użytkownikom w ramach ich uczestnictwa w danej społeczności. Użytkownik może je pobrać jako W3C Credentials[^7][^8] (także nazywane VC) i przechowywać w swoim portfelu. Te W3C Credentials są potwierdzeniem wiedzy/know-how certyfikowanej przez organizację, która je wydaje.
+Jednak społeczności, które tego potrzebują, mogą zatrudniać firmy zewnętrzne świadczące tę usługę lub używać protokołów takich jak __Dowód Humanity__.
 
-W dzisiejszym świecie trudno jest udowodnić umiejętność z góry. Kiedy ludzie reklamują się na sieciach, liczą na to, że ich menedżerowie dadzą im rekomendację. To jednak zakłada pewną dobrej woli ze strony menedżera, ale nie jest traktowane jako niezbity dowód przez przyszłego pracodawcę.
+## 4.2. Tokeny rozpoznawania
 
-WoM zapewnia ludziom bardziej przejrzyste i niezmienne środki do zdobywania i demonstrowania swoich umiejętności.
+W dzisiejszym świecie trudno jest z góry udowodnić umiejętność. Gdy ludzie reklamują się na sieci, zależą od reputacji społecznej. Zazwyczaj menedżer lub peer przedstawia rekomendację. Wymaga to dobrej woli od krewnego, ale rzadko stanowi ostateczny dowód dla przyszłego pracodawcy.
 
-Odznaki są wykorzystywane do reprezentowania osiągnięć w danej społeczności. Po ukończeniu zestawu celów lub wyzwań, użytkownicy otrzymają punkty. Odznaki mogą być odblokowane poprzez zdobycie określonej liczby punktów w konkretnych kategoriach.
+Users may earn Badges and Credentials when participating within their Community Hubs . Pozwólmy im przechowywać je również w portfelu lub pobierać je jako weryfikowalne dane logowania [^7][^8]. Takie poświadczenia są dowodem posiadania wiedzy/know-how poświadczonym przez organizację wydającą.
 
-Kiedy odznaki są pobierane przez użytkownika, możliwe jest włączenie liczby punktów i ich rangi do centrum dla tego konkretnego osiągnięcia.
+Dzięki temu oferujemy przejrzyste i niezmienne środki, aby ludzie mogli nabywać i demonstrować swoje zdolności.
 
-Poświadczenia są bardziej elastyczne niż odznaki; mogłyby być zaleceniem rówieśnika, wskazującym lata wiedzy specjalistycznej, szkolenia lub egzaminów lub zaangażowanie w przestrzeń kosmiczną. Są one podpisane przez Centrum i mogą być opatrzone podpisem użytkownika partnerskiego.
+**Odznaki** reprezentują osiągnięcia dokonane w danej społeczności. By completing work tasks, users earn points. Mogą zarabiać odznaki rozpoznawcze, ponieważ gromadzą punkty i osiągają określone progi.
 
-## 4.3. Cyfrowa tożsamość pracy
+Odznaki będą reprezentatywne jako NFT NTTs (Non Transferable Tokens, vel __Soulbound__ tokens) lub do pobrania Będą one zawierały informacje selektywnie ujawniane, takie jak nazwa centrum, liczba punktów, kategorię pracy oraz datę osiągnięcia lub rangę w danej społeczności.
 
-Wszystko to przyczynia się do tworzenia udokumentowanego cyfrowego zestawu umiejętności, który użytkownik może przechowywać i wykorzystywać przy zmianie pracy lub pracy jako freelancer. Byłoby bardziej wiarygodne niż tradycyjne rozwiązania, ponieważ opiera się nie tylko na jednej osobie, ale na całej społeczności, która potwierdza te umiejętności.
+**Referencje** Poświadczenia są bardziej elastyczne niż odznaki. Mogłyby to być zalecenia rówieśnika wskazujące lata wiedzy specjalistycznej, szkolenia lub egzaminów lub zaangażowanie w przestrzeń kosmiczną.
 
-Podobnie jak jego portfel Meeds, użytkownik zachowa swoje Xeed, odznaki oraz dane uwierzytelniające dołączone do niego w portfelu jego tożsamości, gdy przenosi się z jednego centrum do drugiego, z jednego miasta do drugiego, gdziekolwiek przez WoM.
+Centrum lub członkowie równorzędni podpiszą te poświadczenia w celu ich oficjalnego i weryfikowalnego zatwierdzenia.
 
-Użytkownik będzie mógł wyrazić swoje Xeed, odznaki i poświadczenia innym centrom w celu podkreślenia jego doświadczenia, a także z rekrutatorami lub innymi służbami, które uzna za interesujące.
+## 4.3. Cyfrowa tożsamość pracownika
 
-Użytkownik może posiadać jedno lub kilka cyfrowych tożsamości w WoM. Później może je przedstawić w ujednoliconej formie, korzystając z weryfikowanych prezentacji.
+Wszystkie powyższe elementy przyczyniają się do tworzenia sprawdzonych umiejętności cyfrowych, które użytkownicy mogą utrzymywać i wykorzystywać przy zmianie pracy lub na wolnym rynku. Jest bardziej wiarygodne niż tradycyjne rozwiązania, ponieważ dowodzi tego cała społeczność.
 
-W przeciwieństwie do Web 2.0, użytkownik jest w pełni właścicielem swoich zdecentralizowanych tożsamości. Te ostatnie mogą pokazać (i udowodnić) społecznościom, w których uczestniczył, swoje sprawdzone umiejętności, jego zgromadzone umiejętności, inne Xeeds (ludzi), z którymi współpracował, jego cyfrowa reprezentacja siebie... W sposób godny zaufania LinkedIn 3.0.
+Użytkownicy zachowają swoje Xeed, odznaki i dane logowania we wszystkich centrach. Mogą zatem reklamować, pokazywać i udowodnić swoje umiejętności i doświadczenie innym liderom społeczności i rekrutorom lub innym usługom, które uznają za interesujące.
 
-Użytkownik będzie mógł wybrać, czy ujawnić cokolwiek, jakie informacje udostępnić i jakie tożsamości wykorzystać dla każdej pozycji. Treść (sprawdzona umiejętność, poprzednie Huby itp.) jest dowodem manipulacji i dlatego nie mogła zostać zmieniona. Każda tożsamość musiałaby być rozwijana przez czas.
+Z czasem ludzie rozwijają kompozytową tożsamość cyfrową w trakcie pracy. Każdy może być właścicielem kilku tożsamości cyfrowych, które mógłby później pogodzić w późniejszym czasie. Mają całkowitą swobodę wyboru, czy ujawnić cokolwiek czy nie, jakie informacje należy podać, i jakie tożsamości należy użyć dla każdego stanowiska.
+
+Opowiadamy się za tym, by obywatele WoM w pełni posiadali swoją zdecentralizowaną tożsamość.
 
 ## 4.4. Sprawiedliwy rynek pracy
 
-W ramach tego paradygmatu przyszły rynek pracy umożliwia użytkownikom swobodne przemieszczanie się i przydzielanie lub sprzedaż ich zaangażowania między centrami dystrybucji – tak jak ma to miejsce w świecie fizycznym poprzez zmianę pracodawców. Jednak w WoM ich zaangażowanie byłoby namacalne, mierzone i nagradzane w sprawiedliwy sposób. Przenosząc się między systemami, które podążają za podobną logiką, lepiej zrozumieją zasady gry i będą oceniać pracodawców w sprawiedliwy sposób - trawa nie zawsze jest zielona po drugiej stronie. Użytkownicy będą mogli zobaczyć, które centrum oferuje lepsze warunki zaangażowania, należy do bardziej atrakcyjnego miasta, itp.
+W ramach tego paradygmatu, przyszły rynek pracy umożliwia użytkownikom swobodne przemieszczanie się i przydzielanie lub sprzedaż swojego zaangażowania między centrami pośrednictwa pracy – tak jak ma to miejsce w świecie fizycznym, zmieniając się pracodawców. Jednak w WoM ich zaangażowanie jest namacalne, mierzone i sprawiedliwie wynagradzane.
 
-Na koniec przywódcy społeczni mogą szukać odpowiednich umiejętności, korzystając z sieci cyfrowych tożsamości pracy WoM (którą użytkownicy zdecydowali się ujawnić). Będą mogli bardziej efektywnie pozyskiwać umiejętności, korzystając z zweryfikowanych i szczegółowych informacji dotyczących historii pracy, umiejętności zawodowych i poziomu zaangażowania użytkownika.
+Przechodząc od systemów zgodnych z podobną logiką, będą one lepiej rozumieć zasady gry i oceniać ich potencjalnych pracodawców. Ocena zaangażowania daje im wskazówkę co do poziomu aktywności i nagradzania warunków w społeczności.
 
-## 4.5. Wyraźne i przejrzyste uznanie
+Z kolei liderzy społeczni mogą szukać odpowiednich umiejętności z wykorzystaniem sieci cyfrowych tożsamości zawodowych (które użytkownicy zdecydowali się ujawnić). Mogą one skuteczniej pozyskiwać umiejętności w oparciu o zweryfikowane i szczegółowe informacje na temat historii pracy, umiejętności zawodowych i poziomu zaangażowania użytkowników.
 
-Dzisiaj szczegóły dotyczące wynagrodzenia i premii są niejasne w wielu miejscach pracy. Dlatego trudno osobie porównać swoje warunki z warunkami innych i otrzymać poczucie sprawiedliwego i bezstronnego traktowania. Pracownicy doświadczają wielu frustracji z powodu opisanych powyżej sytuacji.
+## 4.5. Rzeczowe i przejrzyste uznawanie
 
-WoM wprowadza obiektywny sposób rozpoznawania osiągnięć i nagradzania ich.
+Dziś szczegóły dotyczące odszkodowań i premii są niejasne w wielu miejscach pracy. W związku z tym osobie trudno jest porównać swoje warunki z innymi i uzyskać poczucie sprawiedliwego i bezstronnego traktowania. Pracownicy doświadczają wielu frustracji z powodu opisanych powyżej sytuacji.
 
-Mechanizm uznawania i nagradzania zaangażowania jest przejrzysty i stosuje się go sprawiedliwie do wszystkich użytkowników, zgodnie z tymi samymi wyraźnymi zasadami, które zostały ustalone z wyprzedzeniem i dostosowane do celów Wspólnoty.
+WoM wprowadza obiektywizm w sposobie rozpoznawania i nagradzania ich osiągnięć.
 
-Portfele są indywidualne i oparte na technologii blockchain - gdy użytkownik otrzymuje nagrodę lub zdobywa odznakę, nie może być ona cofnięta ani usunięta.
+Mechanizm uznawania i nagradzania zaangażowania jest przejrzysty i stosuje się go w równym stopniu do wszystkich użytkowników, zgodnie z tymi samymi wyraźnymi zasadami, ustalonymi z góry i dostosowanymi do celów Wspólnoty.
 
-## 4.6. Dostęp do Web 3.0, kryptogospodarki i usług DEFI
+Dzięki technologii blockchain odbiór zdobytych nagród i odznak jest niemożliwy.
 
-Jak omówiono powyżej, WoM otwiera świat kryptowalut i zdecentralizowanych usług internetowych w zasadzie dla każdego – bardzo dużej populacji użytkowników, być może nawet niezwiązanych z dziedziną cyfrową.
+## 4.6. Dostępność DeFi
 
-Rzeczywiście, każde zaangażowanie w pracę może potencjalnie zostać ztokenizowane. W rzeczywistości świat staje się coraz bardziej cyfrowy, z trendami takimi jak 5G, IoT, noszone urządzenia itp. W rezultacie, potencjalnie coraz więcej sygnałów może być przechwytywanych i analizowanych w celu tokenizacji zaangażowania osób z profesji nienumerycznych. Wyzwania stanowią gotowy sposób na tokenizację, reprezentując osiągnięcia w świecie fizycznym.
+WoM otwiera świat kryptowalut i zdecentralizowanych usług internetowych dla każdego, co stanowi znaczną liczbę pracowników, być może nawet niezwiązany z sektorem cyfrowym.
 
-Każdy użytkownik może otrzymać Meeds i używać portfela Meeds, aby uzyskać dostęp do usług nowej ery bez specjalnego szkolenia.
+Istotnie, do każdej pracy stosuje się tokenizację zaangażowania. Świat staje się coraz bardziej cyfrowy wraz z tendencjami takimi jak 5G, Internet przedmiotów, noszenie itp.
+
+Z czasem WoM będzie odbierać coraz więcej sygnałów z zawodów o niskiej digitalizacji. Programy zaangażowania oferują wstępnie zaprojektowane rozwiązanie do konwersji realnych osiągnięć na wirtualne tokeny.
+
+Każdy może zarabiać tokeny poprzez swój portfel Meeds i mieć łatwy dostęp do różnych usług DeFi z niskim tarciem.
 
 [^7]: A.Preukschatt, R. Drummond "Własna Tożsamość"
 [^8]: Zweryfikowalny model danych poświadczeń
