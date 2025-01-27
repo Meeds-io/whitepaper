@@ -1,64 +1,70 @@
-# 4. Nevoi-persoane / utilizatori WoM
+# 4. Xeeds - Cetățenii
 
-## 4.1. Modele descentralizate și autosuverane
+## 4.1. Identitate autosuverană
 
-WoM recunoaște confidențialitatea ca fiind un drept fundamental al omului și împuternicește utilizatorii să fie proprietarii datelor lor.
+Recunoaștem confidențialitatea ca pe un drept fundamental al omului și oferim utilizatorilor posibilitatea de a deține datele.
 
-Abordarea noastră se bazează pe principii de identitate descentralizată și auto-suverană, permițând utilizatorilor să dețină în orice moment controlul asupra informațiilor pe care doresc să le facă publice, să le împărtășească unui grup restrâns sau să le păstreze private.
+Abordarea noastră se bazează pe principii descentralizate și autonome ale identității, permite utilizatorilor să controleze ce informații doresc să facă publicitate, să partajeze cu un grup restricționat sau să păstreze datele private.
 
-Activitatea utilizatorului și implicarea lui în WoM sunt întotdeauna legate de o comunitate. Un Xeed este persoana virtuală a unui utilizator dintr-o comunitate. Xeed nu solicită KYC, este o declaraţie proprie, dar probabil ne putem imagina firme terţe care furnizează acest serviciu.
+Utilizatorii se implică în diferite comunități; noi le numim persona virtuală **__Xeed__**.
 
-## 4.2. Insigne și acreditări
+Xeeds sunt auto-declarative și nu necesită un proces implicit KYC (__cunoaște clientul tău__).
 
-Insignele și acreditările sunt acordate utilizatorilor ca parte a participării lor într-o comunitate. Titularul le poate descărca sub formă de acreditări verificabile W3C[^7][^8] (aka VC-uri) și le poate stoca în portofel. Aceste societăţi de capital de risc constituie dovada cunoştinţelor/know-how-ul atestat de organismul emitent.
+Cu toate acestea, comunitățile care au nevoie de el pot angaja firme terțe furnizând acest serviciu sau pot utiliza protocoale precum __Dovada umanității__.
 
-În lumea de astăzi, este dificil să se dovedească în prealabil o competență. Atunci când oamenii se fac publicitate pe rețele, se bazează pe managerii lor să le dea o recomandare. Aceasta din urmă presupune o anumită bunăvoinţă din partea administratorului, dar nu este neapărat tratată ca dovadă de către viitorul angajator.
+## 4.2. Token-uri de recunoaștere
 
-WoM oferă un mijloc mai transparent și imuabil pentru ca oamenii să-și dobândească și să-și demonstreze abilitățile.
+În lumea de astăzi, este dificil să se dovedească în prealabil o competență. Când oamenii se fac publicitate pe rețele, depind de reputația socială. De obicei, un manager sau un partener oferă o recomandare. Aceasta necesită bunăvoința rudelor, dar rareori constituie o dovadă definitivă pentru viitorul angajator.
 
-Insignele sunt folosite pentru a reprezenta realizările făcute în cadrul unei comunități. După completarea unui set de obiective sau provocări, utilizatorilor li se vor acorda puncte. Insignele pot fi deblocate prin acumularea anumitor sume de puncte în anumite categorii.
+Users may earn Badges and Credentials when participating within their Community Hubs . Îi vom lăsa să le stocheze și într-un portofel sau să le descărcăm ca acreditări verificabile [^7][^8]. Astfel de acreditări reprezintă dovada cunoștințelor/know-how-ul certificat de organismul emitent.
 
-Când insignele sunt descărcate de către utilizator, este posibil să se includă numărul de puncte și rangul său în platforma pentru această realizare specifică.
+Prin aceasta, oferim oamenilor un mijloc transparent şi imutabil de a-şi dobândi şi a-şi demonstra capacităţile.
 
-Acreditările sunt mai flexibile decât insignele; ar putea fi o recomandare din partea unui partener, care să indice ani întregi de expertiză, un stagiu de formare sau o completare a examenului sau angajarea în spațiu. Acestea sunt semnate de Hub și pot fi însoțite de o semnătură a unui utilizator de colegi.
+**Insigne** Insigne reprezintă realizări realizate în cadrul unei comunități. By completing work tasks, users earn points. Ei pot câștiga insigne de recunoaștere pe măsură ce acumulează puncte și ating anumite praguri.
 
-## 4.3. Identitatea digitală a muncii
+Insignele vor fi reprezentabile ca NFTs of NTTs (Non Transferable Tokens, aka __Soulbound__ tokens) sau descărcabile. Acestea vor include informații publicate în mod selectiv, cum ar fi numele platformei, numărul de puncte, categoria de lucru și data realizării sau a clasamentului în comunitate.
 
-Toate cele de mai sus contribuie la formarea de competențe digitale dovedite, care pot fi păstrate și utilizate de utilizator la schimbarea locului de muncă sau a locului de muncă liber. Ar fi mai fiabil decât soluţiile tradiţionale, deoarece se bazează nu doar pe un singur individ, ci şi pe o comunitate cu drepturi depline pentru a dovedi acest lucru.
+**Acreditările** acreditările sunt mai flexibile decât insignele. Acestea ar putea fi o recomandare din partea unui partener, care să indice ani întregi de expertiză, o pregătire sau o finalizare a examenului sau un angajament în spațiu.
 
-La fel ca portofelul său cu Meeds utilizatorul îşi va păstra Xeed, Badges, și credențialele atașate în portofelul său de identitate când se mută de la un Hub la altul, de la un oraș la altul, oriunde prin WoM.
+Platforma sau membrii colegilor vor semna aceste acreditări pentru a le aproba în mod oficial și verificabil.
 
-Utilizatorul va putea să-și exprime experiența Xeed, Badges, și acreditările către alte Hubs pentru a-și evidenția experiența. precum și cu recruții sau orice alte servicii pe care le consideră interesante.
+## 4.3. Identitate digitală pentru lucrători
 
-Un utilizator poate avea una sau mai multe identități digitale în WoM. El le-ar putea prezenta ulterior într-un mod unificat, prin prezentări verificate.
+Toate cele de mai sus contribuie la formarea unui set de competențe digitale dovedite, pe care utilizatorii le pot păstra și utiliza atunci când schimbă locul de muncă sau când desfășoară activități independente. Este mai demn de încredere decât soluţiile tradiţionale, deoarece se bazează pe o întreagă comunitate pentru a demonstra acest lucru.
 
-Contrar internetului 2, utilizatorul este pe deplin în proprietatea identităților sale descentralizate. Acestea din urmă pot arăta (şi dovedi ) comunităţile la care a participat şi care au fost abilităţile dovedite de el, a pretins competențe, alte Xeeds (persoane) cu care a lucrat, reprezentarea digitală a lui însuși... Într-o manieră de încredere LinkedIn 3.0.
+Utilizatorii își vor păstra Xeed, insignele și datele de autentificare pe Hubs. Ele pot astfel să facă publicitate, să demonstreze și să își dovedească competențele și experiența altor lideri ai comunității, recrutori sau orice alte servicii pe care le consideră interesante.
 
-Utilizatorul va putea alege dacă să dezvăluie sau nu ceva, ce informații să furnizeze, și ce identități să folosească pentru fiecare poziție. Conținutul (abilități dovedite, platforme anterioare etc.) este o dovadă de manipulare frauduloasă și astfel nu a putut fi modificat. Orice identitate ar trebui dezvoltată de-a lungul timpului.
+În timp, oamenii dezvoltă o identitate digitală compusă pe măsură ce lucrează. Oricine poate deține mai multe identități digitale pe care poate decide să le reconcilieze mai târziu. Au libertatea totală de a alege dacă să dezvăluie sau nu ceva, ce informaţii trebuie furnizate şi ce identităţi trebuie folosite pentru fiecare poziţie.
 
-## 4.4. Piață de muncă echitabilă
+Susţinem ca cetăţenii WoM să deţină pe deplin identitatea lor descentralizată.
 
-În cadrul acestei paradigme, viitoarea piață a muncii le permite utilizatorilor să circule liber și să aloce/vândă angajamentul lor în rândul platformelor – așa cum se întâmplă în lumea fizică prin schimbarea angajatorilor. Cu toate acestea, angajamentul lor în Lemn ar fi tangibil, măsurat și recompensat în mod corect. Prin deplasarea între sisteme care urmează o logică similară, vor înțelege mai bine regulile jocului și vor judeca angajatorii în mod echitabil, iarba nu este întotdeauna mai ecologică în alte părți. Utilizatorii vor putea vedea care Hub oferă condiții mai bune de recompensă pentru angajare, aparține unui oraș mai atrăgător etc.
+## 4.4. Bazar de lucru echitabil
 
-În final, liderii comunității pot căuta aptitudini relevante utilizând rețeaua WoM de identități profesionale digitale (pe care utilizatorii au decis să le dezvăluie). Ei vor putea să obțină competențe într-un mod mai eficace, pe baza unor informații verificate și detaliate privind istoricul muncii, competențele de muncă și nivelul de angajare al utilizatorului.
+În cadrul acestei paradigme, viitoarea piață a muncii permite utilizatorilor să circule liber și să aloce/vândă angajamentul lor în rândul platformelor Hubs, așa cum o fac în lumea fizică prin schimbarea angajatorilor. Cu toate acestea, angajamentul lor este tangibil, măsurat și recompensat în mod corect.
+
+Trecând între sisteme care urmează o logică similară, ei vor înțelege mai bine regulile jocului și își vor putea evalua potențialii angajatori. Scorurile de angajare le oferă un indiciu despre nivelul de activitate și condițiile de recompensă din comunitate.
+
+În ceea ce îi privește, liderii comunității pot căuta competențe relevante utilizând rețeaua de identități profesionale digitale (pe care utilizatorii au decis să le dezvăluie). Acestea pot obține competențe într-un mod mai eficace, pe baza unor informații verificate și detaliate privind istoricul muncii, competențele profesionale și nivelul de implicare a utilizatorilor.
 
 ## 4.5. Recunoaștere tangibilă și transparentă
 
-Astăzi, detaliile privind despăgubirile şi primele sunt obscure în multe locuri de muncă. Prin urmare, este dificil pentru o persoană să își compare afecțiunile cu cele ale alteia și să aibă un simț al unui tratament corect și imparțial. Angajaţii se confruntă cu multe frustrări în legătură cu cei de mai sus.
+În prezent, detaliile privind despăgubirile şi primele sunt opace în multe locuri de muncă. Prin urmare, este dificil pentru o persoană să compare afecţiunile sale cu altele şi să aibă un simţ al tratamentului corect şi imparţial. Angajaţii se confruntă cu multe frustrări în legătură cu cei de mai sus.
 
-WoM introduce o modalitate obiectivă de a recunoaște realizările și de a le recompensa.
+Lemn introduce obiectivitatea cu privire la modul în care realizările lor vor fi recunoscute și recompensate.
 
-Mecanismul de implicare și de recunoaștere este transparent și se aplică în mod echitabil tuturor utilizatorilor; în conformitate cu aceleași norme explicite, stabilite în prealabil și aliniate la obiectivele comunitare.
+Mecanismul de recunoaștere și de recompensare a angajamentelor este transparent și se aplică în mod echitabil tuturor utilizatorilor, în conformitate cu aceleași norme explicite, stabilite în prealabil și aliniate la obiectivele comunitare.
 
-Portofelele sunt individuale și se bazează pe blockchain - atunci când utilizatorul primește o recompensă sau câștigă o insignă, aceasta nu poate fi luată înapoi sau ștearsă.
+Datorită tehnologiei blockchain, este imposibilă recuperarea recompenselor câștigate și a insignelor.
 
-## 4.6. Acces la servicii Web 3.0, criptoeconomie și DEFI
+## 4.6. Accesibilitate DeFi
 
-După cum sa discutat mai sus, WoM deschide lumea criptomonedelor și a serviciilor web descentralizate practic tuturor – o populație foarte mare de utilizatori, chiar posibil fără legătură cu domeniul digital.
+WoM deschide lumea criptomonedelor și a serviciilor web descentralizate tuturor – o populație importantă de lucrători, chiar dacă nu au legătură cu domeniul digital.
 
-Într-adevăr, orice angajament de lucru poate fi tokenizat. De fapt, lumea devine din ce în ce mai digitală, cu tendințe precum 5G, iot, portabile și așa mai departe. În consecință, ar putea fi captate și analizate din ce în ce mai multe semnale pentru a promova implicarea profesiilor nedigitale. Provocările oferă o pregătire pentru a o promova prin reprezentarea realizărilor din lumea fizică.
+Într-adevăr, tokenizarea angajamentului se aplică oricărei lucrări. Lumea devine din ce în ce mai digitală, cu tendințe precum 5G, IoT, îmbrăcăminte, etc.
 
-Orice utilizator poate obține Meeds și poate utiliza un portofel Meeds pentru a avea acces la servicii new age fără o pregătire specială.
+În timp, WoM va capta din ce în ce mai multe semnale de lucru de la profesii digitalizate scăzute. Programele de implicare oferă o soluție pre-proiectată pentru a transforma realizările din lumea reală în tokeni virtuali.
+
+Oricine poate câștiga jetoane prin portofelul Meeds și poate accesa cu ușurință diverse servicii DeFi cu fricțiune scăzută.
 
 [^7]: A.Preukschatt, R. Drummond "Self-Sovereign Identity"
 [^8]: Modelul de date al Acreditărilor Verificabile
